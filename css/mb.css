@@ -1,3 +1,5 @@
+/* code for sidebar */
+
 div.post-w-sidebar {
   float: left;
   width: 70%;
@@ -7,4 +9,23 @@ div.post-w-sidebar {
   div.post-w-sidebar {
     width: 100%;
   }
+}
+
+
+/* code for title and menu arrangement */
+
+header.site-header {
+  background: #7F9FB7;
+}
+
+header > div.wrapper {
+  text-align: center;
+}
+
+.site-title {
+  float: none;
+}
+
+.site-nav {
+  float: none;
 }
