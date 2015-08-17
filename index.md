@@ -1,7 +1,6 @@
 ---
-layout: page-w-sidebar
+layout: page
 title: Editors' picks
-permalink: /
 ---
 
 Put editor's picks here!

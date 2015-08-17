@@ -1,31 +1,44 @@
-/* code for sidebar */
+/*
+ * sidebar
+ */
 
 div.post-w-sidebar {
   float: left;
   width: 70%;
 }
 
+div.sidebar {
+  float: right;
+  padding: 2px;
+}
+
+div.sidebar a {
+  display: block;
+}
+
 @media screen and (max-width: 800px) {
   div.post-w-sidebar {
     width: 100%;
   }
+  div.sidebar {
+    float: left;
+  }
 }
 
-
-/* code for title and menu arrangement */
+/* title area */
 
 header.site-header {
   background: #7F9FB7;
 }
 
-header > div.wrapper {
-  text-align: center;
+/* default nav */
+
+nav.site-nav {
+  display: none;
 }
 
-.site-title {
-  float: none;
-}
+/* default footer */
 
-.site-nav {
-  float: none;
+footer.site-footer {
+  display: none;
 }
