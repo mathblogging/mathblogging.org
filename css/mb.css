@@ -34,7 +34,8 @@ header.site-header {
 /* default nav */
 
 nav.site-nav {
-  display: none;
+  float: none;
+  clear: both;
 }
 
 /* default footer */
