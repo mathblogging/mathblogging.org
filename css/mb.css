@@ -31,6 +31,14 @@ header.site-header {
   background: #7F9FB7;
 }
 
+header.site-header > div.wrapper {
+  text-align: center;
+}
+
+.site-title {
+  float: none;
+}
+
 /* default nav */
 
 nav.site-nav {
