@@ -1,11 +1,21 @@
 <html>
 <head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <style>
-body,p { 
-  margin:0; padding:0 
+body {
+  margin:0; padding:0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 300;
+  color: #111;
+  background-color: #fdfdfd;
+}
+p {
+  margin:0; padding:0;
 }
 header {
-  background-color: lightblue;
+  background-color: #7F9FB7;
   text-align: center;
   padding: 20px;
 }
@@ -27,17 +37,16 @@ aside h3 {
   max-width: 800px;
   margin: 0px auto;
 }
-.menu {
-
-}
 @media ( max-width: 800px ) {
   nav {
-    background-color: lightblue;
+    background-color: #7F9FB7;
     padding: 1em 0;
     float: none; width: 100%;
   }
   article {
     float: none; width; 100%;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   aside {
     background-color: black; color: white;
@@ -49,23 +58,30 @@ aside h3 {
   }
   .menu {
     display: flex;
+    flex-flow: row wrap;
   }
   .menu > div {
-    margin: 0px 20px;  
+    margin: 0px 20px;
+    width: 120px;
   }
+  nav .menu > div {
+    text-align: center;
+  }
+  nav .menu {
+    justify-content: center;
 }
 </style>
-</head>
+<style type="text/css"></style></head>
 <body>
   <header>
-    mathblogging.org
+    <img src="assets/mb-logo.png" />
   </header>
   <div class="container">
     <nav>
       <div class="menu">
-	<div>menu item</div>
-	<div>menu item</div>
-    </div>
+	<div>Editor's picks</div>
+	<div>About</div>
+      </div>
     </nav>
     <article>
       <h1>Here is an article</h1>
@@ -79,10 +95,16 @@ aside h3 {
     <aside>
       <h3>Categories</h3>
       <div class="menu">
-	<div>menu item</div>
-	<div>menu item</div>
-      </div class="menu">
+	<div>Education</div>
+	<div>Journalism</div>
+	<div>Research</div>
+	<div>Teaching</div>
+	<div>Recreational</div>
+	<div>Web</div>
+	<div>Other</div>
+      </div>
     </aside>
   </div>
-</body>
-</html>
+
+
+</body></html>
