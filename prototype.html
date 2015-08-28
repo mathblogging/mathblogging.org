@@ -14,7 +14,7 @@ body {
 p {
   margin:0; padding:0;
 }
-header {
+header.site-header {
   background-color: #7F9FB7;
   text-align: center;
   padding: 20px;
@@ -23,7 +23,7 @@ nav {
   float: right; width:200px;
   padding: 2em 0;
 }
-article {
+div.post {
   float: left; width:600px;
   margin-bottom: 20px;
 }
@@ -33,7 +33,7 @@ aside {
 aside h3 {
   margin: 0;
 }
-.container {
+.page-content {
   max-width: 800px;
   margin: 0px auto;
 }
@@ -43,7 +43,7 @@ aside h3 {
     padding: 1em 0;
     float: none; width: 100%;
   }
-  article {
+  div.post {
     float: none; width; 100%;
     margin-left: 20px;
     margin-right: 20px;
@@ -73,25 +73,31 @@ aside h3 {
 </style>
 <style type="text/css"></style></head>
 <body>
-  <header>
-    <img src="assets/mb-logo.png" />
+  <header class="site-header">
+    <a class="site-title" href="/">
+      <img src="assets/mb-logo.png" />
+    </a>
   </header>
-  <div class="container">
+  <div class="page-content">
     <nav>
       <div class="menu">
 	<div>Editor's picks</div>
 	<div>About</div>
       </div>
     </nav>
-    <article>
-      <h1>Here is an article</h1>
-      <p>Here is a paragraph</p>
-      <p>Here is another line</p>
-      <p>And another</p>
-      <p>And another</p>
-      <p>And another</p>
-      <p>And another</p>
-    </article>
+    <div class="post">
+      <header class="post-header">
+	<h1>Here is an article title</h1>
+      </header>
+      <article class="post-content">
+	<p>Here is a paragraph</p>
+	<p>Here is another line</p>
+	<p>And another</p>
+	<p>And another</p>
+	<p>And another</p>
+	<p>And another</p>
+      </article>
+    </div class="post">
     <aside>
       <h3>Categories</h3>
       <div class="menu">
