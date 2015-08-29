@@ -1,53 +1,81 @@
 /*
- * sidebar
+ * Cancel out some of jekyll's built-in styles
  */
-
-div.post-w-sidebar {
-  float: left;
-  width: 70%;
+header.site-header {
+  border: none;
+}
+a.site-title {
+  float: none;
+}
+div.page-content {
+  padding: 0;
 }
 
-div.sidebar {
+/*
+ * Our custom floaty layout for normal screens
+ */
+div.page-content {
+  max-width: 800px;
+  margin: 0px auto;
+}
+header.site-header {
+  background-color: #7F9FB7;
+  text-align: center;
+  padding: 20px;
+}
+aside.primary {
   float: right;
-  padding: 2px;
+  width: 150px;
+  padding: 60px 0 20px 0;
 }
-
-div.sidebar a {
+div.post {
+  float: left;
+  width: 600px;
+  margin: 30px 30px 20px 20px;
+}
+aside.secondary {
+  float: right;
+  width: 150px;
+}
+nav > a {
   display: block;
 }
 
-@media screen and (max-width: 800px) {
-  div.post-w-sidebar {
+/*
+ * modifications for mobile devices
+ */
+@media ( max-width: 800px ) {
+  aside.primary {
+    background-color: #7F9FB7;
+    padding: 0 0 20px 0;
+    float: none;
     width: 100%;
   }
-  div.sidebar {
-    float: left;
+  div.post {
+    float: none;
+    width: auto;
   }
-}
-
-/* title area */
-
-header.site-header {
-  background: #7F9FB7;
-}
-
-header.site-header > div.wrapper {
-  text-align: center;
-}
-
-.site-title {
-  float: none;
-}
-
-/* default nav */
-
-nav.site-nav {
-  float: none;
-  clear: both;
-}
-
-/* default footer */
-
-footer.site-footer {
-  display: none;
+  aside.secondary {
+    background-color: black;
+    color: #eee;
+    padding: 20px;
+    float: none;
+    width: auto;
+  }
+  nav {
+    display: flex;           display: -webkit-flex;
+    flex-flow: row wrap;     -webkit-flex-flow: row wrap;
+  }
+  aside.primary nav {
+    justify-content: center; -webkit-justify-content: center;
+  }
+  nav > a {
+    width: 150px;
+  }
+  aside.primary nav > a {
+    text-align: center;
+  }
+  aside.secondary nav > a {
+    color: inherit;
+  }
 }
