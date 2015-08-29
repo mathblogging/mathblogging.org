@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
+title: About mathblogging.org
 permalink: /about/
 ---
 
-## What is mathblogging.org?
-
-Perhaps time for new text here :)
+mathblogging.org is... perhaps time for new text up here :)
 
 ## Editors
 
