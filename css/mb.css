@@ -21,21 +21,23 @@ div.page-content {
 header.site-header {
   background-color: #7F9FB7;
   text-align: center;
-  padding: 20px;
+  padding: 10px 20px;
 }
 aside.primary {
   float: right;
   width: 150px;
   padding: 60px 0 20px 0;
+  padding-right: 10px;
 }
 div.post {
   float: left;
   width: 600px;
-  margin: 30px 30px 20px 20px;
+  margin: 30px 30px 20px 10px;
 }
 aside.secondary {
   float: right;
   width: 150px;
+  padding-right: 10px;
 }
 nav > a {
   display: block;
@@ -58,7 +60,7 @@ nav > a {
   aside.secondary {
     background-color: black;
     color: #eee;
-    padding: 20px;
+    padding: 20px 10px;
     float: none;
     width: auto;
   }
