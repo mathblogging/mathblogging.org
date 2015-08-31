@@ -41,6 +41,21 @@ aside.secondary {
 }
 nav > a {
   display: block;
+  color: #111;
+  padding: 4px;
+}
+nav > a:visited {
+  color: #111;
+}
+nav > a:hover {
+  text-decoration: none;
+  background-color: #7F9FB7;
+}
+aside.primary nav > a::before {
+  content: "\2022\ ";
+}
+aside.secondary nav > a::before {
+  content: "| ";
 }
 
 /*
@@ -74,12 +89,18 @@ nav > a {
     justify-content: center; -webkit-justify-content: center;
   }
   nav > a {
-    width: 150px;
+    width: 142px;
   }
   aside.primary nav > a {
     text-align: center;
   }
+  aside.primary nav > a::before {
+    content: none;
+  }
+  aside.primary nav > a:hover {
+    background-color: #6F8FA7;
+  }
   aside.secondary nav > a {
-    color: inherit;
+    color: #fdfdfd;
   }
 }
