@@ -1,0 +1,38 @@
+---
+layout: page
+title: Math Technology
+---
+
+* **John D. Cook** [Technical arbitrage](http://feedproxy.google.com/~r/TheEndeavour/~3/OYMXBlEhTyE/)
+* **John D. Cook** [The academic cocoon](http://feedproxy.google.com/~r/TheEndeavour/~3/-9a3sYOvbag/)
+* **Techie Math Teacher** [2014 MTAP reviewer for Grade 3](http://techiemathteacher.com/2015/09/30/2014-mtap-reviewer-for-grade-3/)
+* **Peter Krautzberger** [MathJax font matching and pairing.](https://www.peterkrautzberger.org/0183/)
+* **John D. Cook** [Doubly and triply periodic functions](http://feedproxy.google.com/~r/TheEndeavour/~3/K5ngEFe7Eh8/)
+* **opencalculus** [Active Calculus – errata pages](https://opencalculus.wordpress.com/2015/09/26/active-calculus-errata-pages/)
+* **Tap Into Teen Minds » Tap Into Teen Minds** [Week In Review #3 – Measurement, Linear Relations and Geometry](https://tapintoteenminds.com/week-in-review3/)
+* **Tap Into Teen Minds » Tap Into Teen Minds** [3 Act Math Task: Placing Toothpicks Sequel](https://tapintoteenminds.com/3act-math/placing-toothpicks-sequel/)
+* **John D. Cook** [Taking away a damaging tool](http://feedproxy.google.com/~r/TheEndeavour/~3/ohvjtgZanvk/)
+* **Tap Into Teen Minds » Tap Into Teen Minds** [3 Act Math Task: Placing Toothpicks](https://tapintoteenminds.com/3act-math/placing-toothpicks/)
+* **CLIME Connections** [Future of CLIME](http://climeconnections.blogspot.com/2015/09/future-of-clime_19.html)
+* **Tap Into Teen Minds » Tap Into Teen Minds** [Week In Review #2 – Spiralled Tasks & Assessment #1](https://tapintoteenminds.com/week-in-review2/)
+* **MathyCathy's Blog - Mrs. Cathy Yenca** [Gettin’ Into The Groove Hodge-Podge… Featuring Classkick](http://www.mathycathy.com/blog/2015/09/gettin-into-the-groove-hodge-podge-featuring-classkick/)
+* **Mathematics for Students** [Numbers Large & Small](https://mathematicsforstudents.wordpress.com/2015/09/18/numbers-large-small/)
+* **Tap Into Teen Minds » Tap Into Teen Minds** [3 Act Math Task: R2D2 Post-Its by @MrOrr_geek](https://tapintoteenminds.com/3act-math/r2d2-post-its/)
+* **John D. Cook** [Julia for Python programmers](http://feedproxy.google.com/~r/TheEndeavour/~3/RrKfz4HZ6Tg/)
+* **John D. Cook** [Nicholas Higham on Mathematics in Color](http://feedproxy.google.com/~r/TheEndeavour/~3/dRQDbB1YBBk/)
+* **Mathematics for Students** [Factorisation of Quadratics](https://mathematicsforstudents.wordpress.com/2015/09/13/factorisation-of-quadratics/)
+* **Tap Into Teen Minds » Tap Into Teen Minds** [Week In Review #1: Welcome to Gr 9 Academic Math](https://tapintoteenminds.com/week-in-review-1-welcome-grade-9-academic/)
+* **Tap Into Teen Minds » Tap Into Teen Minds** [Curious Math: Foundations of Math is LIVE on @iTunesU](https://tapintoteenminds.com/curious-math-on-itunesu/)
+* **Mathematics for Students** [Desmos Apps](https://mathematicsforstudents.wordpress.com/2015/09/12/desmos-apps/)
+* **I Speak Math** [Literal Equations, Number Magic, and Group Speed Dating](http://ispeakmath.org/2015/09/11/literal-equations-number-magic-and-group-speed-dating/)
+* **I Speak Math** [Desmos Teacher Activity Builder – Systems of Equations Review](http://ispeakmath.org/2015/09/11/desmos-teacher-activity-builder-systems-of-equations-review/)
+* **John D. Cook** [Mixing Haskell and R](http://feedproxy.google.com/~r/TheEndeavour/~3/SH1duCAmsy8/)
+* **John D. Cook** [The Fast Fourier Transform (FFT) and big data](http://feedproxy.google.com/~r/TheEndeavour/~3/VKc96L2t3sc/)
+* **John D. Cook** [Generalization of Fibonacci ratios](http://feedproxy.google.com/~r/TheEndeavour/~3/oxZEO8IQPdY/)
+* **MathyCathy's Blog - Mrs. Cathy Yenca** [First-Two-Weeks Hodge Podge](http://www.mathycathy.com/blog/2015/09/first-two-weeks-hodge-podge/)
+* **John D. Cook** [Power method and Fibonacci numbers](http://feedproxy.google.com/~r/TheEndeavour/~3/qkYGfnW0di0/)
+* **evangelizing the (digital) natives** [24 Ways for Schools and Educators to TWEET](http://www.mrcbaker.com/2015/09/24-ways-for-schools-and-educators-to.html)
+* **CLIME Connections** [Out-of-the-Box Baseball Gets an Upgrade and Inspires My First Project-Based Math Experience](http://climeconnections.blogspot.com/2015/09/out-of-box-baseball-gets-upgrade-and.html)
+* **John D. Cook** [Secret equation](http://feedproxy.google.com/~r/TheEndeavour/~3/CLhT65A2w44/)
+
+[Grab the feed for Math Technology blogs!](Math Technology.xml)

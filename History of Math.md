@@ -1,0 +1,38 @@
+---
+layout: page
+title: History of Math
+---
+
+* **Pat'sBlog** [On This Day in Math - October 1](http://pballew.blogspot.com/2015/10/on-this-day-in-math-october-1.html)
+* **Pat'sBlog** [On This Day in Math - September 30](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-30.html)
+* **Popinga** [Il poema algebrico di Ibn al-Yāsamīn](http://keespopinga.blogspot.com/2015/09/il-poema-algebrico-di-ibn-al-yasamin.html)
+* **Pat'sBlog** [On This Day in Math - September 29](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-29.html)
+* **Pat'sBlog** [On This Day in Math - September 28](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-28.html)
+* **Pat'sBlog** [On This Day in Math - September 27](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-27.html)
+* **Pat'sBlog** [On This Day in Math - September 26](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-26.html)
+* **Pat'sBlog** [On This Day im Math - September 25](http://pballew.blogspot.com/2015/09/on-this-day-im-math-september-25.html)
+* **Pat'sBlog** [On This Day in Math - September 24](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-24.html)
+* **Richard Zach** [Intro Logic Lecture Slides](http://richardzach.org/2015/09/22/intro-logic-lecture-slides/)
+* **Pat'sBlog** [On This Day in Math - September 23](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-23.html)
+* **Pat'sBlog** [On This Day in Math - September 22](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-22.html)
+* **Pat'sBlog** [On This Day in Math - September 21](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-21.html)
+* **Pat'sBlog** [On This Day in Math - September 20](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-20.html)
+* **Pat'sBlog** [On This Day in Math - September 19](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-19.html)
+* **Pat'sBlog** [On This Day in Math - September 18](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-18.html)
+* **Pat'sBlog** [On This Day in Math - September 17](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-17.html)
+* **Pat'sBlog** [On This Day in Math - September 16](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-16.html)
+* **Pat'sBlog** [On This Day in Math - September 15](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-15.html)
+* **Pat'sBlog** [On This Day in Math - September 14](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-14.html)
+* **Pat'sBlog** [On This Day in Math -September 13](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-13.html)
+* **Pat'sBlog** [On This Day in Math - Septembrer 12](http://pballew.blogspot.com/2015/09/on-this-day-in-math-septembrer-12.html)
+* **Pat'sBlog** [On This Day in Math - September 11](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-11.html)
+* **Pat'sBlog** [On This Day in Math - September 10](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-10.html)
+* **Pat'sBlog** [On This Day in Math - September 9](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-9.html)
+* **Pat'sBlog** [On This Day in Math - September 8](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-8.html)
+* **Pat'sBlog** [On This Day in Math - September 7](http://pballew.blogspot.com/2015/09/on-this-day-in-math-september-7.html)
+* **Popinga** [Le curve ellittiche e il gruppo E(Q)](http://keespopinga.blogspot.com/2015/09/le-curve-ellittiche-e-il-gruppo-eq.html)
+* **Richard Zach** [Blanchette and her Critics](http://richardzach.org/2015/09/04/blanchette-and-her-critics/)
+* **Popinga** [Una sequenza che inganna](http://keespopinga.blogspot.com/2015/09/una-sequenza-che-inganna.html)
+* **Richard Zach** [John Baldwin on Model Theory and the Philosophy of Mathematical Practice](http://richardzach.org/2015/09/01/john-baldwin-on-model-theory-and-the-philosophy-of-mathematical-practice/)
+
+[Grab the feed for History of Math blogs!](History of Math.xml)

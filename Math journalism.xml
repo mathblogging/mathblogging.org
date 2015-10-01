@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mathblogging.org -- Math journalism]]></title>
+        <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 01 Oct 2015 20:01:28 GMT</lastBuildDate>
+        <pubDate>Thu, 01 Oct 2015 20:01:20 GMT</pubDate>
+        <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
+        <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Proton Earth, Electron Moon]]></title>
+            <link>http://what-if.xkcd.com/140/</link>
+            <guid isPermaLink="false">http://what-if.xkcd.com/140/</guid>
+            <dc:creator><![CDATA[What If?]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
