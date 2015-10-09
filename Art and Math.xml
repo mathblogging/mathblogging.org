@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mathblogging.org -- Visual Math]]></title>
+        <title><![CDATA[Mathblogging.org -- Art and Math]]></title>
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
@@ -17,6 +17,13 @@
             <pubDate>Fri, 09 Oct 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[curiosamathematica:An impossible Penrose triangle, available as...]]></title>
+            <link>http://milwardh.tumblr.com/post/130769813602</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130769813602</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2015 21:01:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eschner]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/xvnWDm-DOqU/eschner.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/xvnWDm-DOqU/eschner.html</guid>
@@ -24,11 +31,18 @@
             <pubDate>Thu, 08 Oct 2015 20:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Photo]]></title>
-            <link>http://visualizingmath.tumblr.com/post/130762890701</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/130762890701</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2015 19:02:30 GMT</pubDate>
+            <title><![CDATA[The Mpemba Paradox]]></title>
+            <link>http://tonysmaths.blogspot.com/2015/10/the-mpemba-paradox.html</link>
+            <guid isPermaLink="false">http://tonysmaths.blogspot.com/2015/10/the-mpemba-paradox.html</guid>
+            <dc:creator><![CDATA[Tony's Maths Blog]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2015 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moving gently on …]]></title>
+            <link>http://www.logicmatters.net/2015/10/08/moving-gently-on/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/10/08/moving-gently-on/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2015 16:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flat House]]></title>
@@ -38,11 +52,32 @@
             <pubDate>Thu, 08 Oct 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[looping loops]]></title>
+            <link>https://sonatamathematique.wordpress.com/2015/10/08/looping-loops/</link>
+            <guid isPermaLink="false">https://sonatamathematique.wordpress.com/2015/10/08/looping-loops/</guid>
+            <dc:creator><![CDATA[sonata mathematique]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2015 04:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[beesandbombs:from the archive >:)]]></title>
+            <link>http://milwardh.tumblr.com/post/130704781130</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130704781130</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2015 21:01:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tattoos and sketches]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/XzgiuqgYJTQ/tattoos-and-sketches.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/XzgiuqgYJTQ/tattoos-and-sketches.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Wed, 07 Oct 2015 18:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Aïda of our dreams?]]></title>
+            <link>http://www.logicmatters.net/2015/10/07/the-aida-of-our-dreams/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/10/07/the-aida-of-our-dreams/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2015 16:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pi Doors]]></title>
@@ -59,13 +94,11 @@
             <pubDate>Wed, 07 Oct 2015 09:07:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mathani:
-
-Starfish regrows a lost arm. Moon jelly does not,...]]></title>
-            <link>http://visualizingmath.tumblr.com/post/130631374181</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/130631374181</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2015 18:59:10 GMT</pubDate>
+            <title><![CDATA[9-squares:9 Squares 3Top: Skip Hursh, Damien Correll, Cindy...]]></title>
+            <link>http://milwardh.tumblr.com/post/130638558620</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130638558620</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2015 21:01:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grande Disco]]></title>
@@ -75,6 +108,20 @@ Starfish regrows a lost arm. Moon jelly does not,...]]></title>
             <pubDate>Tue, 06 Oct 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Git, for the rest of us?]]></title>
+            <link>http://www.logicmatters.net/2015/10/06/git-for-the-rest-of-us/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/10/06/git-for-the-rest-of-us/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2015 08:27:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Many relations are not transitive. Love, for example, is not transitive. If a loves b, and b loves..."]]></title>
+            <link>http://milwardh.tumblr.com/post/130571632138</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130571632138</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 21:01:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Modern]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/BobbSWsAUKg/modern.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/BobbSWsAUKg/modern.html</guid>
@@ -82,11 +129,87 @@ Starfish regrows a lost arm. Moon jelly does not,...]]></title>
             <pubDate>Mon, 05 Oct 2015 20:12:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Photo]]></title>
+            <link>http://milwardh.tumblr.com/post/130554310701</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130554310701</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 15:54:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photo]]></title>
+            <link>http://milwardh.tumblr.com/post/130554239651</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130554239651</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 15:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photo]]></title>
+            <link>http://milwardh.tumblr.com/post/130550741586</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130550741586</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 14:39:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Book Note: The Open Logic Text, #2]]></title>
+            <link>http://www.logicmatters.net/2015/10/05/book-note-the-open-logic-text-2/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/10/05/book-note-the-open-logic-text-2/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 13:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photo]]></title>
+            <link>http://milwardh.tumblr.com/post/130547954051</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130547954051</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 13:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This one rings so true to me. I teach a lot with tech. Most...]]></title>
+            <link>http://milwardh.tumblr.com/post/130547929571</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130547929571</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 13:32:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photo]]></title>
+            <link>http://milwardh.tumblr.com/post/130545892981</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130545892981</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 12:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[visualfloating:
+
+spring-of-mathematics:
+
+Mathematics and...]]></title>
+            <link>http://milwardh.tumblr.com/post/130545859611</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130545859611</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 12:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[exploratorium:
+
+Use the “spill test,” to systematically and...]]></title>
+            <link>http://milwardh.tumblr.com/post/130545823581</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130545823581</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2015 12:37:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Austin Lights]]></title>
             <link>http://mathtourist.blogspot.com/2015/10/austin-lights.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/10/austin-lights.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 05 Oct 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dvdp:150331]]></title>
+            <link>http://milwardh.tumblr.com/post/130501401293</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130501401293</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2015 21:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Impossible triangles in origami]]></title>
@@ -110,11 +233,18 @@ Starfish regrows a lost arm. Moon jelly does not,...]]></title>
             <pubDate>Sun, 04 Oct 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[N-Cube]]></title>
-            <link>http://visualizingmath.tumblr.com/post/130441065606</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/130441065606</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2015 01:17:41 GMT</pubDate>
+            <title><![CDATA[visualizingmath:Submitted by Willgallia:Drawing portraits of...]]></title>
+            <link>http://milwardh.tumblr.com/post/130426513420</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130426513420</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2015 21:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Book Note: The Open Logic Text, #1]]></title>
+            <link>http://www.logicmatters.net/2015/10/03/book-note-the-open-logic-text-1/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/10/03/book-note-the-open-logic-text-1/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2015 13:16:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cloud Layers]]></title>
@@ -122,6 +252,13 @@ Starfish regrows a lost arm. Moon jelly does not,...]]></title>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/10/cloud-layers.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sat, 03 Oct 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematically Correct Breakfast]]></title>
+            <link>http://milwardh.tumblr.com/post/130356817264</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130356817264</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Fri, 02 Oct 2015 21:00:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Milan Central]]></title>
@@ -136,6 +273,20 @@ Starfish regrows a lost arm. Moon jelly does not,...]]></title>
             <guid isPermaLink="false">http://picturesofmath.blogspot.com/2015/10/blog-post.html</guid>
             <dc:creator><![CDATA[Pictures of Math]]></dc:creator>
             <pubDate>Fri, 02 Oct 2015 04:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[53 × 131 by Daniel Tammett]]></title>
+            <link>http://isomorphism.es/post/130305797431</link>
+            <guid isPermaLink="false">http://isomorphism.es/post/130305797431</guid>
+            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
+            <pubDate>Fri, 02 Oct 2015 01:30:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mentaltimetraveller:Tomma Abts]]></title>
+            <link>http://milwardh.tumblr.com/post/130290573580</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130290573580</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2015 21:01:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tattoo sketches]]></title>
@@ -159,27 +310,11 @@ Starfish regrows a lost arm. Moon jelly does not,...]]></title>
             <pubDate>Thu, 01 Oct 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[more polynomial grid division]]></title>
-            <link>http://feedproxy.google.com/~r/Mathrecreation/~3/uWBR_cMXf9k/more-polynomial-grid-division.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Mathrecreation/~3/uWBR_cMXf9k/more-polynomial-grid-division.html</guid>
-            <dc:creator><![CDATA[mathrecreation]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2015 03:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[exploratorium:
-
-Use the “spill test,” to systematically and...]]></title>
-            <link>http://visualizingmath.tumblr.com/post/130237962456</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/130237962456</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2015 01:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Balaban 10-Cage]]></title>
-            <link>http://blogs.ams.org/visualinsight/2015/10/01/balaban-10-cage/</link>
-            <guid isPermaLink="false">http://blogs.ams.org/visualinsight/2015/10/01/balaban-10-cage/</guid>
-            <dc:creator><![CDATA[Visual Insight]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2015 01:00:25 GMT</pubDate>
+            <title><![CDATA[man-microcosm:the moment of eclipse series, 2014marble]]></title>
+            <link>http://milwardh.tumblr.com/post/130222901085</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130222901085</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2015 21:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sketch of tattoo]]></title>
@@ -189,11 +324,41 @@ Use the “spill test,” to systematically and...]]></title>
             <pubDate>Wed, 30 Sep 2015 19:11:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A Friendly Introduction to Mathematical Logic]]></title>
+            <link>http://www.logicmatters.net/2015/09/30/a-friendly-introduction-to-mathematical-logic/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/09/30/a-friendly-introduction-to-mathematical-logic/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2015 14:12:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gaudi Circles]]></title>
             <link>http://mathtourist.blogspot.com/2015/09/gaudi-circles.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/09/gaudi-circles.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 30 Sep 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is what happens when graph theorists don’t put their...]]></title>
+            <link>http://milwardh.tumblr.com/post/130168457816</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130168457816</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2015 00:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[nevver:
+
+Statistically, probability ranges from 0 to 1 —...]]></title>
+            <link>http://milwardh.tumblr.com/post/130168118376</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130168118376</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2015 00:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[comma22:Robert Irwin (American, b. 1928)Untitled,...]]></title>
+            <link>http://milwardh.tumblr.com/post/130154663742</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/130154663742</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2015 21:01:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Impossible street-art]]></title>
@@ -217,6 +382,13 @@ Use the “spill test,” to systematically and...]]></title>
             <pubDate>Tue, 29 Sep 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The art of not reading]]></title>
+            <link>http://www.logicmatters.net/2015/09/29/the-art-of-not-reading/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/09/29/the-art-of-not-reading/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2015 23:07:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Monument Valley inspired]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/FUl5iVH9tJk/monument-valley-inspired.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/FUl5iVH9tJk/monument-valley-inspired.html</guid>
@@ -231,20 +403,18 @@ Use the “spill test,” to systematically and...]]></title>
             <pubDate>Mon, 28 Sep 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[themathkid:
-
-Examples of the use of logical quantifiers ∀ (’for...]]></title>
-            <link>http://visualizingmath.tumblr.com/post/130034163646</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/130034163646</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2015 02:45:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New artworks by Kelvin Coles]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/sXDDZ56lWxk/new-artworks-by-kelvin-coles.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/sXDDZ56lWxk/new-artworks-by-kelvin-coles.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Sun, 27 Sep 2015 20:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHQ in astonishing form, again]]></title>
+            <link>http://www.logicmatters.net/2015/09/27/phq-in-astonishing-form-again/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/09/27/phq-in-astonishing-form-again/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Sun, 27 Sep 2015 17:54:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Centerpeace]]></title>
@@ -296,15 +466,6 @@ Examples of the use of logical quantifiers ∀ (’for...]]></title>
             <pubDate>Fri, 25 Sep 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[centerofmath:
-
-Construction of a square!]]></title>
-            <link>http://visualizingmath.tumblr.com/post/129814806341</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/129814806341</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2015 01:03:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Transcendental Comprehension]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/w5LoKJ-uvj4/transcendental-comprehension.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/w5LoKJ-uvj4/transcendental-comprehension.html</guid>
@@ -345,15 +506,6 @@ Construction of a square!]]></title>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/09/education-in-stained-glass.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 23 Sep 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[maxwellsequations:
-
-From Proofs Without Words, Vol. 2 by Roger...]]></title>
-            <link>http://visualizingmath.tumblr.com/post/129676695916</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/129676695916</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2015 00:52:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skulls and impossible triangles]]></title>
@@ -419,15 +571,6 @@ From Proofs Without Words, Vol. 2 by Roger...]]></title>
             <pubDate>Sun, 20 Sep 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[chaosophia218:
-
-Euler’s Identity: eiπ + 1 = 0.Euler’s Identity...]]></title>
-            <link>http://visualizingmath.tumblr.com/post/129458724341</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/129458724341</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2015 01:45:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Questprobe featuring Hulk]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/icgc5FGGFKU/questprobe-featuring-hulk.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/icgc5FGGFKU/questprobe-featuring-hulk.html</guid>
@@ -442,27 +585,11 @@ Euler’s Identity: eiπ + 1 = 0.Euler’s Identity...]]></title>
             <pubDate>Sat, 19 Sep 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[two star patterns]]></title>
-            <link>http://feedproxy.google.com/~r/Mathrecreation/~3/6n2gMh3gFnw/two-star-patterns.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Mathrecreation/~3/6n2gMh3gFnw/two-star-patterns.html</guid>
-            <dc:creator><![CDATA[mathrecreation]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2015 15:45:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Orrery Clockwork]]></title>
             <link>http://mathtourist.blogspot.com/2015/09/orrery-clockwork.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/09/orrery-clockwork.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 18 Sep 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[isomorphismes:
-
-a nice tutorial (in the form of puzzles) on...]]></title>
-            <link>http://visualizingmath.tumblr.com/post/129317672556</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/129317672556</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2015 01:01:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Elementary Duality Result]]></title>
@@ -486,15 +613,6 @@ a nice tutorial (in the form of puzzles) on...]]></title>
             <pubDate>Wed, 16 Sep 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[themathkid:
-
-Doodles of famous mathematicians. Compiled from 4...]]></title>
-            <link>http://visualizingmath.tumblr.com/post/129179075201</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/129179075201</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2015 00:05:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Infinite Binary Trees]]></title>
             <link>http://vihart.com/infinite-binary-trees/</link>
             <guid isPermaLink="false">http://vihart.com/infinite-binary-trees/</guid>
@@ -509,64 +627,32 @@ Doodles of famous mathematicians. Compiled from 4...]]></title>
             <pubDate>Tue, 15 Sep 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[decorative fusings of the dodecagon]]></title>
-            <link>http://feedproxy.google.com/~r/Mathrecreation/~3/BOcKUEmrMeA/decorative-fusings-of-dodecagon.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Mathrecreation/~3/BOcKUEmrMeA/decorative-fusings-of-dodecagon.html</guid>
-            <dc:creator><![CDATA[mathrecreation]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2015 02:24:00 GMT</pubDate>
+            <title><![CDATA[A Gentle Introduction]]></title>
+            <link>http://www.logicmatters.net/2015/09/14/a-gentle-introduction/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/09/14/a-gentle-introduction/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2015 13:19:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[McGee Graph]]></title>
-            <link>http://blogs.ams.org/visualinsight/2015/09/15/mcgee-graph/</link>
-            <guid isPermaLink="false">http://blogs.ams.org/visualinsight/2015/09/15/mcgee-graph/</guid>
-            <dc:creator><![CDATA[Visual Insight]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2015 01:00:59 GMT</pubDate>
+            <title><![CDATA[Chilling]]></title>
+            <link>http://www.logicmatters.net/2015/09/13/chilling/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2015/09/13/chilling/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2015 13:23:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Music of Nomography –  Laurence Hewes’s & Herbert Seward’s ‘Design of Diagrams for Engineering Formulas’ and John Cage’s scores]]></title>
-            <link>http://www.dataisnature.com/?p=2222</link>
-            <guid isPermaLink="false">http://www.dataisnature.com/?p=2222</guid>
-            <dc:creator><![CDATA[Dataisnature]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2015 19:29:35 GMT</pubDate>
+            <title><![CDATA[flats]]></title>
+            <link>https://sonatamathematique.wordpress.com/2015/09/09/flats/</link>
+            <guid isPermaLink="false">https://sonatamathematique.wordpress.com/2015/09/09/flats/</guid>
+            <dc:creator><![CDATA[sonata mathematique]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2015 01:58:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mindfuckmath:
-
-Hyperboloid
-
-
-Reminds me of this!]]></title>
-            <link>http://visualizingmath.tumblr.com/post/128956434046</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/128956434046</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2015 00:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[twocubes:
-
-anewkindofmagic:
-
-canonicalmomentum:
-
-canonicalmomentu...]]></title>
-            <link>http://visualizingmath.tumblr.com/post/128811372716</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/128811372716</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2015 00:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[geometric mean and sieve]]></title>
-            <link>http://feedproxy.google.com/~r/Mathrecreation/~3/56YFhT6Wrzo/geometric-mean-and-sieve.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Mathrecreation/~3/56YFhT6Wrzo/geometric-mean-and-sieve.html</guid>
-            <dc:creator><![CDATA[mathrecreation]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2015 03:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tangent Explained! Gif source. Have you ever wondered what the...]]></title>
-            <link>http://visualizingmath.tumblr.com/post/128743327836</link>
-            <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/128743327836</guid>
-            <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2015 01:01:51 GMT</pubDate>
+            <title><![CDATA[At minute 12, Vladimir Voevodsky talks about an error in Spencer...]]></title>
+            <link>http://isomorphism.es/post/128689494961</link>
+            <guid isPermaLink="false">http://isomorphism.es/post/128689494961</guid>
+            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2015 05:00:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

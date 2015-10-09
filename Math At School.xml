@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mathblogging.org -- Math At School]]></title>
+        <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 09 Oct 2015 15:01:27 GMT</lastBuildDate>
+        <pubDate>Fri, 09 Oct 2015 15:01:18 GMT</pubDate>
+        <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
+        <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[WIMIN Conference at Smith]]></title>
+            <link>http://math.williams.edu/wimin-conference-at-smith/</link>
+            <guid isPermaLink="false">http://math.williams.edu/wimin-conference-at-smith/</guid>
+            <dc:creator><![CDATA[Mathematics & Statistics » Blog]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2015 01:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Inferiorities of Mac Mail]]></title>
+            <link>http://math.williams.edu/the-inferiorities-of-mac-mail/</link>
+            <guid isPermaLink="false">http://math.williams.edu/the-inferiorities-of-mac-mail/</guid>
+            <dc:creator><![CDATA[Mathematics & Statistics » Blog]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2015 22:59:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math Puzzles and Contests]]></title>
+            <link>http://math.williams.edu/math-puzzles-and-contests/</link>
+            <guid isPermaLink="false">http://math.williams.edu/math-puzzles-and-contests/</guid>
+            <dc:creator><![CDATA[Mathematics & Statistics » Blog]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2015 14:35:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

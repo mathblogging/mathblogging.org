@@ -1,0 +1,38 @@
+---
+layout: page
+title: Math Ed Research
+---
+
+* **Casting Out Nines** [My keynote at the University of the West Indies, TL;DR version](http://roberttalbert.github.io/blog/2015/uwi-keynote-tldr)
+* **Casting Out Nines** [Five habits for finding time](http://roberttalbert.github.io/blog/2015/habits-for-finding-time)
+* **educating grace** [talking about students: language](http://blog.graceachen.com/2015/10/talking-about-students-language.html)
+* **Casting Out Nines** [Teach however you want, but...](http://roberttalbert.github.io/blog/2015/teach-how-you-want-but)
+* **Casting Out Nines** [Active learning as an ethical issue](http://roberttalbert.github.io/blog/2015/active-learning-ethical-issue)
+* **educating grace** [rate of conceptual change](http://blog.graceachen.com/2015/10/rate-of-conceptual-change.html)
+* **Casting Out Nines** [At Wired Campus: How Student Video Presentations Can Build Community in an Online Course](http://roberttalbert.github.io/blog/2015/wired-campus-using-video-to-create-a-learning-community)
+* **Casting Out Nines** [Rethinking class time using accessible technology (TL;DR version)](http://roberttalbert.github.io/blog/2015/accessible-technology)
+* **Launchings by David Bressoud** [Evidence for IBL](http://launchings.blogspot.com/2015/10/evidence-for-ibl.html)
+* **Casting Out Nines** [What flipped learning looks like across disciplines](http://roberttalbert.github.io/blog/2015/flipped-learning-book)
+* **Casting Out Nines** [The specs grading final exam remix](http://roberttalbert.github.io/blog/2015/specs-grading-final-exam)
+* **The Map is Not the Territory** [Does "center" always mean "half"?](http://feedproxy.google.com/~r/blogspot/zuLSW/~3/0ZLtnnKotd4/what-is-half-what-is-center.html)
+* **Casting Out Nines** [My ideal grading system](http://roberttalbert.github.io/blog/2015/ideal-grading-system)
+* **i is a number** [My First EdCamp](http://iisanumber.blogspot.com/2015/09/my-first-edcamp.html)
+* **The IBL Blog** [AMS Blog on Teaching and Learning Mathematics](http://theiblblog.blogspot.com/2015/09/ams-blog-on-teaching-and-learning.html)
+* **Casting Out Nines** [What I learned this week](http://roberttalbert.github.io/blog/2015/what-i-learned-this-week)
+* **Math Ed Matters** [IBL Conference: A New Kid’s Perspective](http://maamathedmatters.blogspot.com/2015/09/ibl-conference-new-kids-perspective.html)
+* **The IBL Blog** [Day 1 Activity: "What is one of your hobbies, and how did you get good at it?"](http://theiblblog.blogspot.com/2015/09/day-1-activity-what-is-one-of-your.html)
+* **The Map is Not the Territory** [Swimming toward Specificity: Understanding Pattern Properties](http://feedproxy.google.com/~r/blogspot/zuLSW/~3/hd9ptsRUHgk/swimming-toward-specificity.html)
+* **The Map is Not the Territory** [Pulling Language Forward: Notice & Wonder Day 6](http://feedproxy.google.com/~r/blogspot/zuLSW/~3/e_ne0YMqp2I/pulling-language-forward-notice-wonder.html)
+* **The IBL Blog** [Quick Post on Nuts and Bolts:  Index Cards](http://theiblblog.blogspot.com/2015/09/quick-post-on-nuts-and-bolts-index-cards.html)
+* **The Map is Not the Territory** [Reflected or Not Reflected? Notice & Wonder Day 5](http://feedproxy.google.com/~r/blogspot/zuLSW/~3/dS_Ns-aw8-s/reflected-or-not-reflected-notice.html)
+* **i is a number** [Rotations Card Sort](http://iisanumber.blogspot.com/2015/09/rotations-card-sort.html)
+* **The Map is Not the Territory** [Equivalence Relations & Spatial Reasoning: Notice & Wonder Day 4](http://feedproxy.google.com/~r/blogspot/zuLSW/~3/AguYRzsngaA/equivalence-relations-spatial-reasoning.html)
+* **The Map is Not the Territory** [On Process & Properties: Notice & Wonder, Day 3](http://feedproxy.google.com/~r/blogspot/zuLSW/~3/UKw7mmUvV5U/on-process-properties-notice-wonder-day.html)
+* **i is a number** [What's your change comfort level?](http://iisanumber.blogspot.com/2015/09/whats-your-change-comfort-level.html)
+* **The Map is Not the Territory** [You Never Know Until You Ask: Notice & Wonder, Day 2](http://feedproxy.google.com/~r/blogspot/zuLSW/~3/TWUGHOx2NZ8/you-never-know-until-you-ask-notice.html)
+* **The Map is Not the Territory** [Vignette: Noticing, exploring, and discovering space with moving bodies](http://feedproxy.google.com/~r/blogspot/zuLSW/~3/TXAYwUkv2Hs/vignette-noticing-exploring-and.html)
+* **The Map is Not the Territory** [Making Learning More Visible: Notice & Wonder Day 1 (of 5)](http://feedproxy.google.com/~r/blogspot/zuLSW/~3/cHjv-sPaOFU/making-learning-more-visible-notice.html)
+* **i is a number** [What makes a good teacher?](http://iisanumber.blogspot.com/2015/09/what-makes-good-teacher.html)
+* **emergent math** [Starting with the What](http://emergentmath.com/2015/09/10/starting-with-the-what/)
+
+[Grab the feed for Math Ed Research blogs!](Math Ed Research.xml)
