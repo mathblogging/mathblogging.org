@@ -121,13 +121,13 @@ aside.secondary nav > a::before {
 }
 @media (max-width:800px) {
   body {
-    background: #F0F8FF;
+    /*background: #F0F8FF;*/
   }
   ;
 }
 .entry-list {
   list-style: none;
-  padding: 0;
+  padding: 0 0 5ex 0;
   margin: 0;
 }
 .entry-list > li {
@@ -142,10 +142,12 @@ aside.secondary nav > a::before {
   /*background: #F0F8FF;*/
   border-color: rgb(204, 214, 221);
 }
-.entry-list > li > a {
+a {
   color: #2D73A7;
 }
-
+a:hover {
+    color: #7F9FB7;
+}
 /*.entry-list >  li >  a:hover {
   color: #7F9FB7;
 }*/
