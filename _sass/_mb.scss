@@ -8,6 +8,9 @@ header.site-header {
 a.site-title {
   float: none;
 }
+.site-title > svg {
+  max-width: 410px;
+}
 div.page-content {
   padding: 0;
 }
