@@ -20,6 +20,17 @@
 <!--
     {% include footer.html %}
 -->
+  <script type="text/javascript">
+  (function(){
+    var url = document.URL.substring(27);
+    if (url === '/'){
+      document.querySelectorAll('a[href="'+url+'"]')[1].className = "current";
+    }
+    else {
+      document.querySelectorAll('a[href="'+url+'"]')[0].className = "current";
+    }
+  })();
+  </script>
 
   </body>
 

@@ -66,6 +66,10 @@ aside.secondary nav > a::before {
   /*content: "| ";*/
 }
 
+.current  {
+    border-radius: 4px;
+    background-color: #B1DBFF;
+}
 /*
  * modifications for mobile devices
  */
@@ -114,6 +118,9 @@ aside.secondary nav > a::before {
   }
   aside.secondary nav > a {
     color: #fdfdfd;
+  }
+  aside.secondary nav > a:hover {
+    color: #000;
   }
 }
 @media (min-width: 800px) {
@@ -212,5 +219,9 @@ a:hover {
     margin-top: 2ex;
     margin-bottom: -2ex;
     background-color: #FFFFFF;
+  }
+  .current  {
+    border-right: 5px solid #2a7ae2;
+    color: #000!important;
   }
 }
