@@ -3,8 +3,11 @@ layout: page
 title: About mathblogging.org
 permalink: /about/
 ---
+## What is mathblogging.org?
 
-mathblogging.org is... perhaps time for new text up here :)
+From research to recreational, from teaching to technology, from visual to virtual, hundreds of blogs and sites regularly write about mathematics in all its facets. For the longest time, there was no good way for readers to find the authors they enjoy and for authors to be found. We want to change that.
+
+We have collected over 600 blogs and other news sources in one place, and invite you to submit even more! Our goal is to be the best place to discover mathematical writing on the web.
 
 ## Editors
 
@@ -15,6 +18,8 @@ mathblogging.org is... perhaps time for new text up here :)
 **Fawn Nguyen** teaches math at Mesa Union Junior High in southern California. She started out as a science teacher for 14 years and has been teaching math for the last 10 years. Fawn is part of the UC-Santa Barbara Mathematics Project leadership team that presents at workshops and retreats for math teachers, coaches, and administrators in the Tri-County area. She is a co-founder of the  <a href="http://www.mathteacherscircleto.org/">Thousand Oaks Math Teachers’ Circle</a>. In an effort to share and learn from other math teachers, Fawn blogs at <a href="http://fawnnguyen.com/">Finding Ways to Nguyen Students Over</a>. She also started <a href="http://visualpatterns.org/">VisualPatterns.org</a> to help students develop algebraic thinking. When she can pull herself away from her passion and love of all things mathy, Fawn likes to take motorcycle rides with her husband.
 
 **Shecky Riemann** is the fanciful pseudonym of a former psychology major and lab-tech (primarily clinical genetics), who's been enamored of mathematics since childhood. Following Martin Gardner's death (2010), he was inspired to create <a href="http://math-frolic.blogspot.com/">Math-Frolic</a> blog to pay tribute to Gardner and be a cheerleader-of-sorts for those doing, or interested in, mathematics. He's especially intrigued with number theory, geometry, and the philosophical underpinnings of math. Cats, parrots and shelties adore him.
+
+... and more coming soon!
 
 ## Developers
 
