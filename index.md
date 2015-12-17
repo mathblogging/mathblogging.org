@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" width="500"><p lang="en" dir="ltr">Finally here! <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> <a href="https://t.co/morgGYvH7i">https://t.co/morgGYvH7i</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/677598339391733760">December 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" width="500"><p lang="en" dir="ltr">Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! <a href="https://t.co/9PGmPrpXJu">https://t.co/9PGmPrpXJu</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/677516866043011076">December 17, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" width="500"><p lang="en" dir="ltr">&quot;death of a little known mathematical dilettante&quot; &amp; beautiful geometry: <a href="https://t.co/xZU23ZdZkF">https://t.co/xZU23ZdZkF</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/677468332933685249">December 17, 2015</a></blockquote>
