@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 18:50:33 GMT</lastBuildDate>
-        <pubDate>Fri, 18 Dec 2015 18:50:18 GMT</pubDate>
+        <lastBuildDate>Fri, 18 Dec 2015 19:05:28 GMT</lastBuildDate>
+        <pubDate>Fri, 18 Dec 2015 19:05:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -345,13 +345,6 @@
             <pubDate>Fri, 18 Dec 2015 06:59:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Éloge des mathématiques]]></title>
-            <link>http://images.math.cnrs.fr/Eloge-des-mathematiques.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Eloge-des-mathematiques.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 18 Dec 2015 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La fabrique de l'étudiant oubliant. Quelques questions se posent !]]></title>
             <link>http://images.math.cnrs.fr/La-fabrique-de-l-etudiant-oubliant-Quelques-questions-se-posent.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/La-fabrique-de-l-etudiant-oubliant-Quelques-questions-se-posent.html</guid>
@@ -363,6 +356,13 @@
             <link>http://mrburkemath.blogspot.com/2015/12/the-dark-side-of-math.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2015/12/the-dark-side-of-math.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 18 Dec 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Éloge des mathématiques]]></title>
+            <link>http://images.math.cnrs.fr/Eloge-des-mathematiques.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Eloge-des-mathematiques.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 18 Dec 2015 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1623,14 +1623,14 @@ Reduced complex fractions of the form z/w where...]]></title>
             <title><![CDATA[Christmas Symme-tree]]></title>
             <link>http://aperiodical.com/2015/12/christmas-symme-tree/</link>
             <guid isPermaLink="false">http://aperiodical.com/2015/12/christmas-symme-tree/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 15 Dec 2015 08:45:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christmas Symme-tree]]></title>
             <link>http://aperiodical.com/2015/12/christmas-symme-tree/</link>
             <guid isPermaLink="false">http://aperiodical.com/2015/12/christmas-symme-tree/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 15 Dec 2015 08:45:56 GMT</pubDate>
         </item>
         <item>
@@ -1782,17 +1782,17 @@ The principle that...]]></title>
             <pubDate>Tue, 15 Dec 2015 00:00:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - December 15]]></title>
-            <link>http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-15.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-15.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Dilemma of giving Christmas Gifts]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/code/2015/12/15/The-Prisoners-Dilemma-of-Christmas-Gifts/</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/code/2015/12/15/The-Prisoners-Dilemma-of-Christmas-Gifts/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - December 15]]></title>
+            <link>http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-15.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-15.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2127,17 +2127,17 @@ yin yangs]]></title>
             <pubDate>Mon, 14 Dec 2015 06:38:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[(x, why?) Mini: Concavity]]></title>
-            <link>http://mrburkemath.blogspot.com/2015/12/x-why-mini-concavity.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2015/12/x-why-mini-concavity.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 14 Dec 2015 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.4.6]]></title>
             <link>http://images.math.cnrs.fr/4-4-6.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-4-6.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 14 Dec 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(x, why?) Mini: Concavity]]></title>
+            <link>http://mrburkemath.blogspot.com/2015/12/x-why-mini-concavity.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2015/12/x-why-mini-concavity.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Mon, 14 Dec 2015 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2431,7 +2431,7 @@ yin yangs]]></title>
             <title><![CDATA[Zeit bist zu den Ferien [SiS]]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/yiu4jrrV13s/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/yiu4jrrV13s/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
+            <dc:creator><![CDATA[Halbtagsblog…]]></dc:creator>
             <pubDate>Sun, 13 Dec 2015 14:09:49 GMT</pubDate>
         </item>
         <item>
@@ -3489,7 +3489,7 @@ A follow-up to this post about dividing...]]></title>
             <title><![CDATA[#36 Mein Problem mit der Bibel]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/vNgUnznxu7g/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/vNgUnznxu7g/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
+            <dc:creator><![CDATA[Halbtagsblog…]]></dc:creator>
             <pubDate>Thu, 10 Dec 2015 17:24:22 GMT</pubDate>
         </item>
         <item>
@@ -3829,7 +3829,7 @@ A McNugget number is an integer that can be...]]></title>
             <title><![CDATA[Blogsoftware (technisches)]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/qc9MMXAg7OE/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/qc9MMXAg7OE/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
+            <dc:creator><![CDATA[Halbtagsblog…]]></dc:creator>
             <pubDate>Wed, 09 Dec 2015 19:29:29 GMT</pubDate>
         </item>
         <item>
@@ -4915,17 +4915,17 @@ a brief version: it’s not “Rolle’s theorem is just the MVT”,...]]></tit
             <pubDate>Mon, 07 Dec 2015 14:00:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A beats B, B beats C, C beats A...]]></title>
-            <link>http://math-frolic.blogspot.com/2015/12/a-beats-b-b-beats-c-c-beats-a.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/12/a-beats-b-b-beats-c-c-beats-a.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Mon, 07 Dec 2015 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[This American Life had two thirds of a great episode on marketing]]></title>
             <link>http://observationalepidemiology.blogspot.com/2015/12/this-american-life-had-two-thirds-of.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2015/12/this-american-life-had-two-thirds-of.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 07 Dec 2015 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A beats B, B beats C, C beats A...]]></title>
+            <link>http://math-frolic.blogspot.com/2015/12/a-beats-b-b-beats-c-c-beats-a.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/12/a-beats-b-b-beats-c-c-beats-a.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Mon, 07 Dec 2015 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4992,17 +4992,17 @@ a brief version: it’s not “Rolle’s theorem is just the MVT”,...]]></tit
             <pubDate>Mon, 07 Dec 2015 11:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematical Zombie: the sticks and crossings method]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/mathematical-zombie-the-sticks-and-crossings-method/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-zombie-the-sticks-and-crossings-method/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 07 Dec 2015 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[That Time I Didn't Get the Job]]></title>
             <link>http://www.angrymath.com/2015/12/that-time-i-didnt-get-job.html</link>
             <guid isPermaLink="false">http://www.angrymath.com/2015/12/that-time-i-didnt-get-job.html</guid>
             <dc:creator><![CDATA[AngryMath]]></dc:creator>
+            <pubDate>Mon, 07 Dec 2015 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematical Zombie: the sticks and crossings method]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/mathematical-zombie-the-sticks-and-crossings-method/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-zombie-the-sticks-and-crossings-method/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 07 Dec 2015 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5027,17 +5027,17 @@ a brief version: it’s not “Rolle’s theorem is just the MVT”,...]]></tit
             <pubDate>Mon, 07 Dec 2015 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pearl Harbor Day, and Brain-0 Quiz Answers]]></title>
-            <link>http://mathematicalmysterytour.blogspot.com/2015/12/pearl-harbor-day-and-brain-0-quiz.html</link>
-            <guid isPermaLink="false">http://mathematicalmysterytour.blogspot.com/2015/12/pearl-harbor-day-and-brain-0-quiz.html</guid>
-            <dc:creator><![CDATA[Mathematical Mystery Tour]]></dc:creator>
-            <pubDate>Mon, 07 Dec 2015 08:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[البرهان على العلاقات المترية بتطبيق مبرهنة فيثاغورس للثالثة اعدادي]]></title>
             <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/Ds7pve3T6xI/3ala9at-mitriya.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/Ds7pve3T6xI/3ala9at-mitriya.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
+            <pubDate>Mon, 07 Dec 2015 08:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pearl Harbor Day, and Brain-0 Quiz Answers]]></title>
+            <link>http://mathematicalmysterytour.blogspot.com/2015/12/pearl-harbor-day-and-brain-0-quiz.html</link>
+            <guid isPermaLink="false">http://mathematicalmysterytour.blogspot.com/2015/12/pearl-harbor-day-and-brain-0-quiz.html</guid>
+            <dc:creator><![CDATA[Mathematical Mystery Tour]]></dc:creator>
             <pubDate>Mon, 07 Dec 2015 08:30:00 GMT</pubDate>
         </item>
         <item>
@@ -5181,17 +5181,17 @@ a brief version: it’s not “Rolle’s theorem is just the MVT”,...]]></tit
             <pubDate>Mon, 07 Dec 2015 00:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Polynomial Chaos expansions]]></title>
-            <link>//2015/12/07/poly-chaos.html</link>
-            <guid isPermaLink="false">//2015/12/07/poly-chaos.html</guid>
-            <dc:creator><![CDATA[Untitled RSS Feed]]></dc:creator>
-            <pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 7]]></title>
             <link>http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-7.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-7.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polynomial Chaos expansions]]></title>
+            <link>//2015/12/07/poly-chaos.html</link>
+            <guid isPermaLink="false">//2015/12/07/poly-chaos.html</guid>
+            <dc:creator><![CDATA[Untitled RSS Feed]]></dc:creator>
             <pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5331,7 +5331,7 @@ a brief version: it’s not “Rolle’s theorem is just the MVT”,...]]></tit
             <title><![CDATA[Zurück vom #excitingEDU 2015]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/jZnhGpbnBVo/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/jZnhGpbnBVo/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
+            <dc:creator><![CDATA[Halbtagsblog…]]></dc:creator>
             <pubDate>Sun, 06 Dec 2015 15:38:00 GMT</pubDate>
         </item>
         <item>
@@ -5711,17 +5711,17 @@ Path 5, Row 29 2014-07-23 at...]]></title>
             <pubDate>Sat, 05 Dec 2015 00:28:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I think this is how to crawl the history of a git repository]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/code/2015/12/05/I-think-this-is-the-way-to-crawl-a-git-repository/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/code/2015/12/05/I-think-this-is-the-way-to-crawl-a-git-repository/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 5]]></title>
             <link>http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-5.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-5.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I think this is how to crawl the history of a git repository]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/code/2015/12/05/I-think-this-is-the-way-to-crawl-a-git-repository/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/code/2015/12/05/I-think-this-is-the-way-to-crawl-a-git-repository/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5869,17 +5869,17 @@ I’m dizzy and amazed.]]></title>
             <pubDate>Fri, 04 Dec 2015 16:16:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[POTW]]></title>
-            <link>https://ilovemathsgames.wordpress.com/2015/12/04/potw-13/</link>
-            <guid isPermaLink="false">https://ilovemathsgames.wordpress.com/2015/12/04/potw-13/</guid>
-            <dc:creator><![CDATA[ilovemathsgames]]></dc:creator>
-            <pubDate>Fri, 04 Dec 2015 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[So Crazy It Might Work]]></title>
             <link>http://infinitesums.com/commentary/2015/so-crazy-it-might-work</link>
             <guid isPermaLink="false">http://infinitesums.com/commentary/2015/so-crazy-it-might-work</guid>
             <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
+            <pubDate>Fri, 04 Dec 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[POTW]]></title>
+            <link>https://ilovemathsgames.wordpress.com/2015/12/04/potw-13/</link>
+            <guid isPermaLink="false">https://ilovemathsgames.wordpress.com/2015/12/04/potw-13/</guid>
+            <dc:creator><![CDATA[ilovemathsgames]]></dc:creator>
             <pubDate>Fri, 04 Dec 2015 16:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6135,7 +6135,7 @@ The cast of The Force Awakens (Daisy Ridley,...]]></title>
             <title><![CDATA[#excitingEDU im Schaubild]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/mFM4Q_1hrZQ/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/mFM4Q_1hrZQ/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
+            <dc:creator><![CDATA[Halbtagsblog…]]></dc:creator>
             <pubDate>Thu, 03 Dec 2015 17:35:53 GMT</pubDate>
         </item>
         <item>
@@ -6879,7 +6879,7 @@ Peripheral neural processing of auditory...]]></title>
             <title><![CDATA[Exciting! #excitingEDU]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/Cbo8tZFrWWw/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/Cbo8tZFrWWw/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
+            <dc:creator><![CDATA[Halbtagsblog…]]></dc:creator>
             <pubDate>Tue, 01 Dec 2015 17:05:34 GMT</pubDate>
         </item>
         <item>
@@ -7256,7 +7256,7 @@ Submitted by...]]></title>
             <title><![CDATA[Nachtschicht. [SiS]]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/cJ5plBf47W8/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/cJ5plBf47W8/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
+            <dc:creator><![CDATA[Halbtagsblog…]]></dc:creator>
             <pubDate>Mon, 30 Nov 2015 18:10:00 GMT</pubDate>
         </item>
         <item>
@@ -7358,17 +7358,17 @@ Submitted by...]]></title>
             <pubDate>Mon, 30 Nov 2015 12:07:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Folding Math]]></title>
-            <link>http://mathtourist.blogspot.com/2015/11/folding-math.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/11/folding-math.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 30 Nov 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.241 - Dead To Rights]]></title>
             <link>http://mathtans.blogspot.com/2015/11/s7241-dead-to-rights.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2015/11/s7241-dead-to-rights.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 30 Nov 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Folding Math]]></title>
+            <link>http://mathtourist.blogspot.com/2015/11/folding-math.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/11/folding-math.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 30 Nov 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7400,17 +7400,17 @@ Submitted by...]]></title>
             <pubDate>Mon, 30 Nov 2015 10:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Short Argument for Tau]]></title>
-            <link>http://www.angrymath.com/2015/11/short-argument-for-tau.html</link>
-            <guid isPermaLink="false">http://www.angrymath.com/2015/11/short-argument-for-tau.html</guid>
-            <dc:creator><![CDATA[AngryMath]]></dc:creator>
-            <pubDate>Mon, 30 Nov 2015 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matrix Determinants — TMTOWTDI]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/matrix-determinants-tmtowtdi/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/matrix-determinants-tmtowtdi/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 30 Nov 2015 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Short Argument for Tau]]></title>
+            <link>http://www.angrymath.com/2015/11/short-argument-for-tau.html</link>
+            <guid isPermaLink="false">http://www.angrymath.com/2015/11/short-argument-for-tau.html</guid>
+            <dc:creator><![CDATA[AngryMath]]></dc:creator>
             <pubDate>Mon, 30 Nov 2015 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7694,10 +7694,10 @@ Submitted by...]]></title>
             <pubDate>Sun, 29 Nov 2015 12:28:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reality and Interpretation...]]></title>
-            <link>http://math-frolic.blogspot.com/2015/11/reality-and-interpretation.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/11/reality-and-interpretation.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <title><![CDATA[The Year In Books]]></title>
+            <link>http://mathtango.blogspot.com/2015/11/the-year-in-books.html</link>
+            <guid isPermaLink="false">http://mathtango.blogspot.com/2015/11/the-year-in-books.html</guid>
+            <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Sun, 29 Nov 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7708,10 +7708,10 @@ Submitted by...]]></title>
             <pubDate>Sun, 29 Nov 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Year In Books]]></title>
-            <link>http://mathtango.blogspot.com/2015/11/the-year-in-books.html</link>
-            <guid isPermaLink="false">http://mathtango.blogspot.com/2015/11/the-year-in-books.html</guid>
-            <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <title><![CDATA[Reality and Interpretation...]]></title>
+            <link>http://math-frolic.blogspot.com/2015/11/reality-and-interpretation.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/11/reality-and-interpretation.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 29 Nov 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7806,17 +7806,17 @@ Submitted by...]]></title>
             <pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mazes]]></title>
-            <link>http://datagenetics.com/blog/november22015/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/november22015/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 29]]></title>
             <link>http://pballew.blogspot.com/2015/11/on-this-day-in-math-november-29.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2015/11/on-this-day-in-math-november-29.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mazes]]></title>
+            <link>http://datagenetics.com/blog/november22015/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/november22015/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8032,6 +8032,13 @@ An...]]></title>
             <pubDate>Sat, 28 Nov 2015 01:25:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[On This Day in Math - November 28]]></title>
+            <link>http://pballew.blogspot.com/2015/11/on-this-day-in-math-november-28.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2015/11/on-this-day-in-math-november-28.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A message to the aliens, part 19/23 (map of the Earth)]]></title>
             <link>http://blog.plover.com/aliens/dd/p19.html</link>
             <guid isPermaLink="false">http://blog.plover.com/aliens/dd/p19.html</guid>
@@ -8043,13 +8050,6 @@ An...]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On This Day in Math - November 28]]></title>
-            <link>http://pballew.blogspot.com/2015/11/on-this-day-in-math-november-28.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2015/11/on-this-day-in-math-november-28.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8175,7 +8175,7 @@ An...]]></title>
             <title><![CDATA[Radios im AT-Unterricht]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/SHfQN_kbix4/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/SHfQN_kbix4/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
+            <dc:creator><![CDATA[Halbtagsblog…]]></dc:creator>
             <pubDate>Fri, 27 Nov 2015 14:25:08 GMT</pubDate>
         </item>
         <item>
@@ -8518,7 +8518,7 @@ An...]]></title>
             <title><![CDATA[Methoden-Mindmap]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/0Mx71bWT8dQ/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/0Mx71bWT8dQ/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
+            <dc:creator><![CDATA[Halbtagsblog…]]></dc:creator>
             <pubDate>Wed, 25 Nov 2015 19:18:00 GMT</pubDate>
         </item>
         <item>
@@ -9294,17 +9294,17 @@ Cy Twombly]]></title>
             <pubDate>Mon, 23 Nov 2015 02:21:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thanksgiving is upon us soon...]]></title>
-            <link>http://homeschoolmath.blogspot.com/2015/11/thanksgiving-is-upon-us-soon.html</link>
-            <guid isPermaLink="false">http://homeschoolmath.blogspot.com/2015/11/thanksgiving-is-upon-us-soon.html</guid>
-            <dc:creator><![CDATA[Homeschool Math Blog]]></dc:creator>
-            <pubDate>Mon, 23 Nov 2015 02:06:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What's Coming Up Next?]]></title>
             <link>http://drawingonmath.blogspot.com/2015/11/whats-coming-up-next.html</link>
             <guid isPermaLink="false">http://drawingonmath.blogspot.com/2015/11/whats-coming-up-next.html</guid>
             <dc:creator><![CDATA[Drawing On Math]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2015 02:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thanksgiving is upon us soon...]]></title>
+            <link>http://homeschoolmath.blogspot.com/2015/11/thanksgiving-is-upon-us-soon.html</link>
+            <guid isPermaLink="false">http://homeschoolmath.blogspot.com/2015/11/thanksgiving-is-upon-us-soon.html</guid>
+            <dc:creator><![CDATA[Homeschool Math Blog]]></dc:creator>
             <pubDate>Mon, 23 Nov 2015 02:06:00 GMT</pubDate>
         </item>
         <item>
@@ -9879,17 +9879,17 @@ A curious proof of the Pythagorean Theorem by...]]></title>
             <pubDate>Fri, 20 Nov 2015 16:14:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Extra Time]]></title>
-            <link>http://infinitesums.com/commentary/2015/extra-time</link>
-            <guid isPermaLink="false">http://infinitesums.com/commentary/2015/extra-time</guid>
-            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2015 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[POTW]]></title>
             <link>https://ilovemathsgames.wordpress.com/2015/11/20/potw-11/</link>
             <guid isPermaLink="false">https://ilovemathsgames.wordpress.com/2015/11/20/potw-11/</guid>
             <dc:creator><![CDATA[ilovemathsgames]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extra Time]]></title>
+            <link>http://infinitesums.com/commentary/2015/extra-time</link>
+            <guid isPermaLink="false">http://infinitesums.com/commentary/2015/extra-time</guid>
+            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
             <pubDate>Fri, 20 Nov 2015 16:00:00 GMT</pubDate>
         </item>
         <item>
@@ -9926,13 +9926,6 @@ A curious proof of the Pythagorean Theorem by...]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2015/11/20/tip-o-the-iceberg-to-ya/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 20 Nov 2015 14:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zauberkunststücke]]></title>
-            <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/Ov-s9E_CTRY/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/Ov-s9E_CTRY/</guid>
-            <dc:creator><![CDATA[…ein Halbtagsblog…]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2015 14:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Does Your Child Know Their Basic Math Facts? Read These 4 Essential Tips]]></title>
