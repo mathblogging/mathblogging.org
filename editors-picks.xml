@@ -5,16 +5,16 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 20:05:33 GMT</lastBuildDate>
-        <pubDate>Mon, 21 Dec 2015 20:05:23 GMT</pubDate>
+        <lastBuildDate>Mon, 21 Dec 2015 20:20:13 GMT</lastBuildDate>
+        <pubDate>Mon, 21 Dec 2015 20:20:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[@fawnpnguyen's pick]]></title>
-            <description><![CDATA[What grade would @benorlin give to Sophie Germain? https://t.co/cnetL8I2aC #mbpick]]></description>
-            <guid isPermaLink="false">http://mathwithbaddrawings.com/2015/12/02/report-cards-for-famous-mathematicians/</guid>
-            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
-            <pubDate>Wed, 02 Dec 2015 23:12:16 GMT</pubDate>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -22,6 +22,13 @@
             <guid isPermaLink="false">http://ow.ly/Vr1ha</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
             <pubDate>Thu, 03 Dec 2015 16:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@fawnpnguyen's pick]]></title>
+            <description><![CDATA[Still thinking about this one. Ramsey Theory in the Dining Room https://t.co/O78gdeeN8H HT @SheckyR #mbpick]]></description>
+            <guid isPermaLink="false">http://bit-player.org/2015/ramsey-theory-in-the-dining-room</guid>
+            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
+            <pubDate>Wed, 02 Dec 2015 22:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -82,21 +89,11 @@ h/t @stevenstrogatz
             <pubDate>Tue, 08 Dec 2015 01:31:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Let Math Save Our Democracy
-https://t.co/kZ78eJqqmg
-Using mathematics to root out gerrymandering.
-#math #mathchat #statschat #mbpick]]></description>
-            <guid isPermaLink="false">http://www.nytimes.com/2015/12/06/opinion/sunday/let-math-save-our-democracy.html</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sun, 06 Dec 2015 16:35:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@fawnpnguyen's pick]]></title>
-            <description><![CDATA[Still thinking about this one. Ramsey Theory in the Dining Room https://t.co/O78gdeeN8H HT @SheckyR #mbpick]]></description>
-            <guid isPermaLink="false">http://bit-player.org/2015/ramsey-theory-in-the-dining-room</guid>
+            <description><![CDATA[What grade would @benorlin give to Sophie Germain? https://t.co/cnetL8I2aC #mbpick]]></description>
+            <guid isPermaLink="false">http://mathwithbaddrawings.com/2015/12/02/report-cards-for-famous-mathematicians/</guid>
             <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
-            <pubDate>Wed, 02 Dec 2015 22:40:39 GMT</pubDate>
+            <pubDate>Wed, 02 Dec 2015 23:12:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -155,11 +152,14 @@ Using mathematics to root out gerrymandering.
             <pubDate>Fri, 04 Dec 2015 23:27:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Let Math Save Our Democracy
+https://t.co/kZ78eJqqmg
+Using mathematics to root out gerrymandering.
+#math #mathchat #statschat #mbpick]]></description>
+            <guid isPermaLink="false">http://www.nytimes.com/2015/12/06/opinion/sunday/let-math-save-our-democracy.html</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sun, 06 Dec 2015 16:35:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
