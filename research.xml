@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 21:05:31 GMT</lastBuildDate>
-        <pubDate>Mon, 21 Dec 2015 21:05:19 GMT</pubDate>
+        <lastBuildDate>Mon, 21 Dec 2015 21:20:25 GMT</lastBuildDate>
+        <pubDate>Mon, 21 Dec 2015 21:20:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -1852,6 +1852,18 @@ An image taken from space of the eruption of...]]></title>
             <guid isPermaLink="false">http://blog.stephenwolfram.com/2015/12/i-wrote-a-book-to-teach-the-wolfram-language/</guid>
             <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
             <pubDate>Tue, 08 Dec 2015 16:24:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[equivariant stable cohomotopy]]></title>
+            <guid isPermaLink="false">equivariant stable cohomotopy</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 08 Dec 2015 16:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[stable cohomotopy]]></title>
+            <guid isPermaLink="false">stable cohomotopy</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 08 Dec 2015 16:21:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aristotle Killer of Science!]]></title>
@@ -3823,13 +3835,6 @@ Path 93, Row 72 2013-12-04 at...]]></title>
             <guid isPermaLink="false">http://windowsontheory.org/2015/11/20/postdoc-application-deadline-coming-up/</guid>
             <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
             <pubDate>Fri, 20 Nov 2015 22:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“Edición 6.8: El número 26” del Carnaval de Matemáticas (23-29 de noviembre de 2015)]]></title>
-            <link>http://feedproxy.google.com/~r/gaussianos/~3/WSpxFcsyi3A/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/gaussianos/~3/WSpxFcsyi3A/</guid>
-            <dc:creator><![CDATA[Gaussianos]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2015 21:15:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
