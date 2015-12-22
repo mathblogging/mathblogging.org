@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 14:51:45 GMT</lastBuildDate>
-        <pubDate>Tue, 22 Dec 2015 14:51:33 GMT</pubDate>
+        <lastBuildDate>Tue, 22 Dec 2015 15:05:31 GMT</lastBuildDate>
+        <pubDate>Tue, 22 Dec 2015 15:05:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Guns and Crypto]]></title>
+            <link>http://blog.computationalcomplexity.org/2015/12/guns-and-crypto.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2015/12/guns-and-crypto.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Tue, 22 Dec 2015 14:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[He’s skeptical about Neuroskeptic’s skepticism]]></title>
+            <link>http://andrewgelman.com/2015/12/22/hes-skeptical-about-neuroskeptics-skepticism/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2015/12/22/hes-skeptical-about-neuroskeptics-skepticism/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 22 Dec 2015 14:49:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[R and Python: Gradient Descent]]></title>
             <link>http://alstatr.blogspot.com/2015/12/r-and-python-gradient-descent.html</link>
@@ -3134,17 +3148,17 @@ An...]]></title>
             <pubDate>Sat, 28 Nov 2015 01:25:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Survival of the fittest: Experimenting with a high performing strategy in other environments]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A message to the aliens, part 19/23 (map of the Earth)]]></title>
             <link>http://blog.plover.com/aliens/dd/p19.html</link>
             <guid isPermaLink="false">http://blog.plover.com/aliens/dd/p19.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Survival of the fittest: Experimenting with a high performing strategy in other environments]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3828,13 +3842,6 @@ Cura/Bliss 1, 2009 - Chad Buck]]></title>
             <guid isPermaLink="false">http://tcsmath.org/2015/11/21/follmers-drift-itos-lemma-and-the-log-sobolev-inequality/</guid>
             <dc:creator><![CDATA[tcs math]]></dc:creator>
             <pubDate>Sat, 21 Nov 2015 19:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benford lays down the Law]]></title>
-            <link>http://andrewgelman.com/2015/11/21/benford-lays-down-the/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2015/11/21/benford-lays-down-the/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 21 Nov 2015 14:11:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
