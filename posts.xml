@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 13:05:43 GMT</lastBuildDate>
-        <pubDate>Wed, 23 Dec 2015 13:05:28 GMT</pubDate>
+        <lastBuildDate>Wed, 23 Dec 2015 13:20:38 GMT</lastBuildDate>
+        <pubDate>Wed, 23 Dec 2015 13:20:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -2137,13 +2137,6 @@ Math + Art Fourier Art = Computer-generated art by...]]></title>
             <pubDate>Fri, 18 Dec 2015 07:51:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Éloge des mathématiques]]></title>
-            <link>http://images.math.cnrs.fr/Eloge-des-mathematiques.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Eloge-des-mathematiques.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 18 Dec 2015 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Dark Side of Math]]></title>
             <link>http://mrburkemath.blogspot.com/2015/12/the-dark-side-of-math.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2015/12/the-dark-side-of-math.html</guid>
@@ -2154,6 +2147,13 @@ Math + Art Fourier Art = Computer-generated art by...]]></title>
             <title><![CDATA[La fabrique de l'étudiant oubliant. Quelques questions se posent !]]></title>
             <link>http://images.math.cnrs.fr/La-fabrique-de-l-etudiant-oubliant-Quelques-questions-se-posent.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/La-fabrique-de-l-etudiant-oubliant-Quelques-questions-se-posent.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 18 Dec 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Éloge des mathématiques]]></title>
+            <link>http://images.math.cnrs.fr/Eloge-des-mathematiques.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Eloge-des-mathematiques.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 18 Dec 2015 06:00:00 GMT</pubDate>
         </item>
@@ -3034,17 +3034,17 @@ Reduced complex fractions of the form z/w where...]]></title>
             <pubDate>Wed, 16 Dec 2015 00:00:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Weird Number Bases]]></title>
-            <link>http://datagenetics.com/blog/december22015/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/december22015/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 16]]></title>
             <link>http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-16.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-16.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weird Number Bases]]></title>
+            <link>http://datagenetics.com/blog/december22015/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/december22015/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6378,17 +6378,17 @@ a brief version: it’s not “Rolle’s theorem is just the MVT”,...]]></tit
             <pubDate>Mon, 07 Dec 2015 14:00:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[This American Life had two thirds of a great episode on marketing]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2015/12/this-american-life-had-two-thirds-of.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2015/12/this-american-life-had-two-thirds-of.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 07 Dec 2015 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A beats B, B beats C, C beats A...]]></title>
             <link>http://math-frolic.blogspot.com/2015/12/a-beats-b-b-beats-c-c-beats-a.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/12/a-beats-b-b-beats-c-c-beats-a.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 07 Dec 2015 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This American Life had two thirds of a great episode on marketing]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2015/12/this-american-life-had-two-thirds-of.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2015/12/this-american-life-had-two-thirds-of.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 07 Dec 2015 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8876,10 +8876,10 @@ Submitted by...]]></title>
             <pubDate>Sun, 29 Nov 2015 12:28:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Year In Books]]></title>
-            <link>http://mathtango.blogspot.com/2015/11/the-year-in-books.html</link>
-            <guid isPermaLink="false">http://mathtango.blogspot.com/2015/11/the-year-in-books.html</guid>
-            <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <title><![CDATA[Reality and Interpretation...]]></title>
+            <link>http://math-frolic.blogspot.com/2015/11/reality-and-interpretation.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/11/reality-and-interpretation.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 29 Nov 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8890,10 +8890,10 @@ Submitted by...]]></title>
             <pubDate>Sun, 29 Nov 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reality and Interpretation...]]></title>
-            <link>http://math-frolic.blogspot.com/2015/11/reality-and-interpretation.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/11/reality-and-interpretation.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <title><![CDATA[The Year In Books]]></title>
+            <link>http://mathtango.blogspot.com/2015/11/the-year-in-books.html</link>
+            <guid isPermaLink="false">http://mathtango.blogspot.com/2015/11/the-year-in-books.html</guid>
+            <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Sun, 29 Nov 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8974,17 +8974,17 @@ Submitted by...]]></title>
             <pubDate>Sun, 29 Nov 2015 00:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mazes]]></title>
-            <link>http://datagenetics.com/blog/november22015/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/november22015/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Do Extra Innings Games Predict World Series Longevity?]]></title>
             <link>http://www.mathgoespop.com/2015/11/extra-innings-world-series.html</link>
             <guid isPermaLink="false">http://www.mathgoespop.com/2015/11/extra-innings-world-series.html</guid>
             <dc:creator><![CDATA[Math Goes Pop]]></dc:creator>
+            <pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mazes]]></title>
+            <link>http://datagenetics.com/blog/november22015/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/november22015/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -9172,17 +9172,17 @@ An...]]></title>
             <pubDate>Sat, 28 Nov 2015 01:25:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Survival of the fittest: Experimenting with a high performing strategy in other environments]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A message to the aliens, part 19/23 (map of the Earth)]]></title>
             <link>http://blog.plover.com/aliens/dd/p19.html</link>
             <guid isPermaLink="false">http://blog.plover.com/aliens/dd/p19.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Survival of the fittest: Experimenting with a high performing strategy in other environments]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
