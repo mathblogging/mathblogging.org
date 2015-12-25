@@ -5,10 +5,16 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 20:50:23 GMT</lastBuildDate>
-        <pubDate>Fri, 25 Dec 2015 20:50:11 GMT</pubDate>
+        <lastBuildDate>Fri, 25 Dec 2015 21:05:24 GMT</lastBuildDate>
+        <pubDate>Fri, 25 Dec 2015 21:05:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[inductive family]]></title>
+            <guid isPermaLink="false">inductive family</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 25 Dec 2015 20:21:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Good News (Part 2)]]></title>
             <link>https://johncarlosbaez.wordpress.com/2015/12/25/good-news-part-2/</link>
@@ -3427,17 +3433,17 @@ An...]]></title>
             <pubDate>Sat, 28 Nov 2015 01:25:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Survival of the fittest: Experimenting with a high performing strategy in other environments]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A message to the aliens, part 19/23 (map of the Earth)]]></title>
             <link>http://blog.plover.com/aliens/dd/p19.html</link>
             <guid isPermaLink="false">http://blog.plover.com/aliens/dd/p19.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Survival of the fittest: Experimenting with a high performing strategy in other environments]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3670,13 +3676,6 @@ An...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/xAW05HmJlJ0/133884549608</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Tue, 24 Nov 2015 21:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion 147: NameRemoved, Who is Prejudiced against Symbolic-Computational]]></title>
-            <link>http://page2rss.com/69bacf7e3cfac715759da8b0db2f3188/7839731_7839978/opinion-nameremoved-who-is-prejudiced-against-symbolic-computational</link>
-            <guid isPermaLink="false">http://page2rss.com/69bacf7e3cfac715759da8b0db2f3188/7839731_7839978/opinion-nameremoved-who-is-prejudiced-against-symbolic-computational</guid>
-            <dc:creator><![CDATA[Opinions of Doron Zeilberger]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2015 20:58:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
