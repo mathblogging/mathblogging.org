@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 14:50:56 GMT</lastBuildDate>
-        <pubDate>Mon, 28 Dec 2015 14:50:44 GMT</pubDate>
+        <lastBuildDate>Mon, 28 Dec 2015 15:05:21 GMT</lastBuildDate>
+        <pubDate>Mon, 28 Dec 2015 15:05:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Load Balancing and the Power of Hashing]]></title>
+            <link>http://jeremykun.com/2015/12/28/load-balancing-and-the-power-of-hashing/</link>
+            <guid isPermaLink="false">http://jeremykun.com/2015/12/28/load-balancing-and-the-power-of-hashing/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Mon, 28 Dec 2015 15:00:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Citation shocker:  “The lifecycle of scholarly articles across fields of economic research”]]></title>
             <link>http://andrewgelman.com/2015/12/28/27366/</link>
@@ -36,13 +43,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/AaAygPRC-qA/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Mon, 28 Dec 2015 13:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changement Climatique et Assurance]]></title>
-            <link>http://freakonometrics.hypotheses.org/42766</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/42766</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Mon, 28 Dec 2015 12:44:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algebraic geometry fun facts for the festivities: Enriques surfaces are never complete intersections]]></title>
@@ -2350,13 +2350,6 @@ No, google, when I search for “rational...]]></title>
             <pubDate>Wed, 09 Dec 2015 16:56:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hamilton’s equations for relativistic fields; conjugate momentum]]></title>
-            <link>http://www.physicspages.com/2015/12/09/hamiltons-equations-for-relativistic-fields-conjugate-momentum/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2015/12/09/hamiltons-equations-for-relativistic-fields-conjugate-momentum/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Wed, 09 Dec 2015 16:27:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why I decided not to enter the $100,000 global warming time-series challenge]]></title>
             <link>http://andrewgelman.com/2015/12/09/why-i-decided-not-to-enter-the-100000-global-warming-time-series-challenge/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2015/12/09/why-i-decided-not-to-enter-the-100000-global-warming-time-series-challenge/</guid>
@@ -3603,17 +3596,17 @@ An...]]></title>
             <pubDate>Sat, 28 Nov 2015 01:25:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Survival of the fittest: Experimenting with a high performing strategy in other environments]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A message to the aliens, part 19/23 (map of the Earth)]]></title>
             <link>http://blog.plover.com/aliens/dd/p19.html</link>
             <guid isPermaLink="false">http://blog.plover.com/aliens/dd/p19.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Survival of the fittest: Experimenting with a high performing strategy in other environments]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/gametheory/2015/11/28/Experimenting-with-a-high-performing-evolved-strategy-in-other-environments/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
