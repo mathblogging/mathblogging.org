@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 17:50:23 GMT</lastBuildDate>
-        <pubDate>Tue, 29 Dec 2015 17:50:14 GMT</pubDate>
+        <lastBuildDate>Tue, 29 Dec 2015 18:05:22 GMT</lastBuildDate>
+        <pubDate>Tue, 29 Dec 2015 18:05:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -62,6 +62,13 @@ Using mathematics to root out gerrymandering.
             <pubDate>Wed, 02 Dec 2015 22:40:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[#mbpick RT @MathbloggingAll a universe of puzzles https://t.co/Ky5GUwF9eT]]></description>
             <guid isPermaLink="false">http://dlvr.it/D2nsvJ</guid>
@@ -83,13 +90,6 @@ Using mathematics to root out gerrymandering.
             <pubDate>Wed, 16 Dec 2015 01:29:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Summary of Mochizuki from Brian Conrad via the Oxford IUT workshop https://t.co/US1wSxnwBD #mbpick]]></description>
-            <guid isPermaLink="false">http://wp.me/p1CO0X-2Qz</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 15 Dec 2015 20:20:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@MrHonner's pick]]></title>
             <description><![CDATA[Using the second derivative of GDP as a measure of economic health, from @bit_player
 https://t.co/6zOYcvldrb
@@ -97,6 +97,13 @@ https://t.co/6zOYcvldrb
             <guid isPermaLink="false">http://bit-player.org/2015/mad-max-economics</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Wed, 09 Dec 2015 01:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Statistical dissection of a cardio study: https://t.co/eIvCf5KqH7 #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/VKVND</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Fri, 11 Dec 2015 12:55:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -127,13 +134,6 @@ https://t.co/6zOYcvldrb
             <pubDate>Thu, 03 Dec 2015 16:07:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@pkrautz's pick]]></title>
             <description><![CDATA[Finally here! #mbpick https://t.co/morgGYvH7i]]></description>
             <guid isPermaLink="false">https://twitter.com/mathblogging/status/677598036709801985</guid>
@@ -156,10 +156,10 @@ https://t.co/6zOYcvldrb
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Statistical dissection of a cardio study: https://t.co/eIvCf5KqH7 #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/VKVND</guid>
+            <description><![CDATA[Summary of Mochizuki from Brian Conrad via the Oxford IUT workshop https://t.co/US1wSxnwBD #mbpick]]></description>
+            <guid isPermaLink="false">http://wp.me/p1CO0X-2Qz</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Fri, 11 Dec 2015 12:55:13 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 20:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
