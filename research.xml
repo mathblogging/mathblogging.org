@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 07:35:21 GMT</lastBuildDate>
-        <pubDate>Thu, 31 Dec 2015 07:35:09 GMT</pubDate>
+        <lastBuildDate>Thu, 31 Dec 2015 07:50:38 GMT</lastBuildDate>
+        <pubDate>Thu, 31 Dec 2015 07:50:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[convergent rational sequence]]></title>
+            <link>http://www.bookofproofs.org/branches/convergent-rational-sequence/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/convergent-rational-sequence/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Thu, 31 Dec 2015 07:38:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["In addition to Genghis Khan … researchers have … identified … two other highly successful..."]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/R8Q2Iz0uD3o/136305532226</link>
@@ -163,7 +170,14 @@ love will consume you, then spit you out | leigh...]]></title>
             <link>http://www.bookofproofs.org/branches/multiplication-of-rational-cauchy-sequences-is-cancellative/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/multiplication-of-rational-cauchy-sequences-is-cancellative/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 29 Dec 2015 22:48:57 GMT</pubDate>
+            <pubDate>Tue, 29 Dec 2015 23:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[addition of rational cauchy sequences is cancellative]]></title>
+            <link>http://www.bookofproofs.org/branches/addition-of-rational-cauchy-sequences-is-cancellative/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/addition-of-rational-cauchy-sequences-is-cancellative/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 29 Dec 2015 23:08:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Happy Holidays]]></title>
@@ -466,13 +480,6 @@ love will consume you, then spit you out | leigh...]]></title>
             <pubDate>Sun, 27 Dec 2015 18:38:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[addition of rational cauchy sequences is cancellative]]></title>
-            <link>http://www.bookofproofs.org/branches/addition-of-rational-cauchy-sequences-is-cancellative/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/addition-of-rational-cauchy-sequences-is-cancellative/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 27 Dec 2015 18:19:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why Is Discrete Math Hard To Teach?]]></title>
             <link>https://rjlipton.wordpress.com/2015/12/27/why-is-discrete-math-hard-to-teach/</link>
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2015/12/27/why-is-discrete-math-hard-to-teach/</guid>
@@ -660,13 +667,6 @@ love will consume you, then spit you out | leigh...]]></title>
             <guid isPermaLink="false">http://bit-player.org/2015/deep-dreaming-with-every-card-i-write</guid>
             <dc:creator><![CDATA[bit-player]]></dc:creator>
             <pubDate>Sat, 26 Dec 2015 13:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[every natural number is greater or equal zero]]></title>
-            <link>http://www.bookofproofs.org/branches/every-natural-number-is-greater-or-equal-zero/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/every-natural-number-is-greater-or-equal-zero/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 26 Dec 2015 11:29:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algebraic geometry fun facts for the festivities: direct products of quasicoherent sheaves are not exact]]></title>
@@ -3588,13 +3588,6 @@ D.C. Ravenel, Complex Cobordism and Stable...]]></title>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2015/11/30/jack-williams-1943-2015/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Mon, 30 Nov 2015 11:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the Origin of Scaffolds]]></title>
-            <link>http://blog.zacharyabel.com/2015/11/on-the-origin-of-scaffolds/</link>
-            <guid isPermaLink="false">http://blog.zacharyabel.com/2015/11/on-the-origin-of-scaffolds/</guid>
-            <dc:creator><![CDATA[Three-Cornered Things]]></dc:creator>
-            <pubDate>Mon, 30 Nov 2015 07:37:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
