@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 15:20:41 GMT</lastBuildDate>
-        <pubDate>Sat, 02 Jan 2016 15:20:29 GMT</pubDate>
+        <lastBuildDate>Sat, 02 Jan 2016 15:35:24 GMT</lastBuildDate>
+        <pubDate>Sat, 02 Jan 2016 15:35:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[existence of inverse real numbers with respect to addition proof]]></title>
+            <link>http://www.bookofproofs.org/branches/existence-of-inverse-real-numbers-with-respect-to-addition/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/existence-of-inverse-real-numbers-with-respect-to-addition/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 02 Jan 2016 15:25:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“Earlier you had waxed nostalgic for the days when people sent you bad graphs . . .”]]></title>
             <link>http://andrewgelman.com/2016/01/02/earlier-you-had-waxed-nostalgic-for-the-days-when-people-sent-you-bad-graphs/</link>
@@ -431,13 +438,6 @@ State borders for...]]></title>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/addition-of-real-numbers-is-cancellative/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Thu, 31 Dec 2015 08:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[multiplication of rational cauchy sequences is cancellative]]></title>
-            <link>http://www.bookofproofs.org/branches/multiplication-of-rational-cauchy-sequences-is-cancellative/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/multiplication-of-rational-cauchy-sequences-is-cancellative/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Thu, 31 Dec 2015 08:19:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[multiplication of rational cauchy sequences is cancellative proof]]></title>
@@ -3581,13 +3581,6 @@ The anxious..."]]></title>
             <guid isPermaLink="false">http://blog.stephenwolfram.com/2015/12/what-is-spacetime-really/</guid>
             <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
             <pubDate>Wed, 02 Dec 2015 16:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYU "Five-Star" Conference 2015]]></title>
-            <link>http://fxdiebold.blogspot.com/2015/12/nyu-five-star-conference-2015.html</link>
-            <guid isPermaLink="false">http://fxdiebold.blogspot.com/2015/12/nyu-five-star-conference-2015.html</guid>
-            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
-            <pubDate>Wed, 02 Dec 2015 15:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
