@@ -5,16 +5,23 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 08:05:33 GMT</lastBuildDate>
-        <pubDate>Sun, 03 Jan 2016 08:05:18 GMT</pubDate>
+        <lastBuildDate>Sun, 03 Jan 2016 08:20:22 GMT</lastBuildDate>
+        <pubDate>Sun, 03 Jan 2016 08:20:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[position of minus sign in rational numbers representations proof]]></title>
+            <link>http://www.bookofproofs.org/branches/position-of-minus-sign-in-rational-numbers-representations/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/position-of-minus-sign-in-rational-numbers-representations/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 03 Jan 2016 08:11:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[position of minus sign in rational numbers representations]]></title>
             <link>http://www.bookofproofs.org/branches/position-of-minus-sign-in-rational-numbers-representations/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/position-of-minus-sign-in-rational-numbers-representations/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 03 Jan 2016 07:10:15 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 08:03:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On Books]]></title>
@@ -756,17 +763,17 @@ State borders for...]]></title>
             <pubDate>Fri, 01 Jan 2016 12:13:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jan 01/16]]></title>
-            <link>http://mathtans.blogspot.com/2016/01/jan-0116.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/jan-0116.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Fri, 01 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ice Cone]]></title>
             <link>http://mathtourist.blogspot.com/2016/01/ice-cone.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/ice-cone.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Fri, 01 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jan 01/16]]></title>
+            <link>http://mathtans.blogspot.com/2016/01/jan-0116.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/jan-0116.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Fri, 01 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1358,13 +1365,6 @@ If mathematicians created wrapping...]]></title>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/addition-of-real-numbers-is-cancellative/proof/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Thu, 31 Dec 2015 08:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[multiplication of real numbers is cancellative]]></title>
-            <link>http://www.bookofproofs.org/branches/multiplication-of-real-numbers-is-cancellative/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/multiplication-of-real-numbers-is-cancellative/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Thu, 31 Dec 2015 08:33:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Circumspice]]></title>
@@ -2101,17 +2101,17 @@ National Cartoonists Day, National What Day?]]></title>
             <pubDate>Tue, 29 Dec 2015 12:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[End-of-Year Retrospective]]></title>
-            <link>http://math-frolic.blogspot.com/2015/12/end-of-year-retrospective.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/12/end-of-year-retrospective.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Tue, 29 Dec 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rustic Bridge]]></title>
             <link>http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 29 Dec 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[End-of-Year Retrospective]]></title>
+            <link>http://math-frolic.blogspot.com/2015/12/end-of-year-retrospective.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/12/end-of-year-retrospective.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Tue, 29 Dec 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2369,17 +2369,17 @@ Careful with that! It’s infinitely prickly.]]></title>
             <pubDate>Mon, 28 Dec 2015 17:20:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[December Paradox]]></title>
-            <link>http://statpics.blogspot.com/2015/12/december-paradox.html</link>
-            <guid isPermaLink="false">http://statpics.blogspot.com/2015/12/december-paradox.html</guid>
-            <dc:creator><![CDATA[Statpics]]></dc:creator>
-            <pubDate>Mon, 28 Dec 2015 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why mathematics curriculum reform is always so challenging]]></title>
             <link>http://youdothemathkthrucalculus.blogspot.com/2015/12/why-mathematics-curriculum-reform-is.html</link>
             <guid isPermaLink="false">http://youdothemathkthrucalculus.blogspot.com/2015/12/why-mathematics-curriculum-reform-is.html</guid>
             <dc:creator><![CDATA[You Do the Math -- K thru Calculus]]></dc:creator>
+            <pubDate>Mon, 28 Dec 2015 17:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[December Paradox]]></title>
+            <link>http://statpics.blogspot.com/2015/12/december-paradox.html</link>
+            <guid isPermaLink="false">http://statpics.blogspot.com/2015/12/december-paradox.html</guid>
+            <dc:creator><![CDATA[Statpics]]></dc:creator>
             <pubDate>Mon, 28 Dec 2015 17:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2578,17 +2578,17 @@ Careful with that! It’s infinitely prickly.]]></title>
             <pubDate>Mon, 28 Dec 2015 07:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.4.8]]></title>
-            <link>http://images.math.cnrs.fr/4-4-8.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-4-8.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 28 Dec 2015 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ten Lectures and Forty-Two Open Problems in the Mathematics of Data Science, Afonso S. Bandeira]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/FuBbrDGwYUY/ten-lectures-and-forty-two-open.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/FuBbrDGwYUY/ten-lectures-and-forty-two-open.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 28 Dec 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.4.8]]></title>
+            <link>http://images.math.cnrs.fr/4-4-8.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-4-8.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 28 Dec 2015 06:00:00 GMT</pubDate>
         </item>
         <item>
