@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 09:35:17 GMT</lastBuildDate>
-        <pubDate>Sun, 03 Jan 2016 09:35:09 GMT</pubDate>
+        <lastBuildDate>Sun, 03 Jan 2016 09:50:14 GMT</lastBuildDate>
+        <pubDate>Sun, 03 Jan 2016 09:50:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -56,6 +56,13 @@ Using mathematics to root out gerrymandering.
             <pubDate>Sun, 06 Dec 2015 16:35:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[#mbpick RT @evelynjlamb Some of my reflections on the abc conjecture and Piper Harron's thesis https://t.co/9xzMWe3QBt]]></description>
             <guid isPermaLink="false">http://bit.ly/1koRubJ</guid>
@@ -84,13 +91,6 @@ Using mathematics to root out gerrymandering.
             <pubDate>Thu, 17 Dec 2015 12:40:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[MT @QuantaMagazine: When are 2 networks that look different really the same? A new algorithm can tell: https://t.co/z33rIAKCmP #mbpick]]></description>
-            <guid isPermaLink="false">https://www.quantamagazine.org/20151214-graph-isomorphism-algorithm/</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 16 Dec 2015 01:29:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@MrHonner's pick]]></title>
             <description><![CDATA[.@tslumley on the Cooperative Principle and bombing #Agrabah
 https://t.co/snqT9v0eu5
@@ -100,6 +100,13 @@ Great for stats class.
             <guid isPermaLink="false">http://www.statschat.org.nz/2015/12/19/punkd/</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Sun, 20 Dec 2015 00:44:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Summary of Mochizuki from Brian Conrad via the Oxford IUT workshop https://t.co/US1wSxnwBD #mbpick]]></description>
+            <guid isPermaLink="false">http://wp.me/p1CO0X-2Qz</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Tue, 15 Dec 2015 20:20:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -137,13 +144,6 @@ Great for stats class.
             <pubDate>Thu, 03 Dec 2015 16:07:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@pkrautz's pick]]></title>
             <description><![CDATA[Finally here! #mbpick https://t.co/morgGYvH7i]]></description>
             <guid isPermaLink="false">https://twitter.com/mathblogging/status/677598036709801985</guid>
@@ -166,10 +166,10 @@ Great for stats class.
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Summary of Mochizuki from Brian Conrad via the Oxford IUT workshop https://t.co/US1wSxnwBD #mbpick]]></description>
-            <guid isPermaLink="false">http://wp.me/p1CO0X-2Qz</guid>
+            <description><![CDATA[MT @QuantaMagazine: When are 2 networks that look different really the same? A new algorithm can tell: https://t.co/z33rIAKCmP #mbpick]]></description>
+            <guid isPermaLink="false">https://www.quantamagazine.org/20151214-graph-isomorphism-algorithm/</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 15 Dec 2015 20:20:47 GMT</pubDate>
+            <pubDate>Wed, 16 Dec 2015 01:29:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
