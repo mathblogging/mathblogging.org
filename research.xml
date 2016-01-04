@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 23:05:22 GMT</lastBuildDate>
-        <pubDate>Mon, 04 Jan 2016 23:05:10 GMT</pubDate>
+        <lastBuildDate>Mon, 04 Jan 2016 23:20:22 GMT</lastBuildDate>
+        <pubDate>Mon, 04 Jan 2016 23:20:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[on de Finetti’s instrumentalist philosophy of probability]]></title>
+            <link>https://xianblog.wordpress.com/2016/01/05/on-de-finettis-instrumentalist-philosophy-of-probability/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/01/05/on-de-finettis-instrumentalist-philosophy-of-probability/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Mon, 04 Jan 2016 23:15:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Regression with Splines: Should we care about Non-Significant Components?]]></title>
             <link>http://freakonometrics.hypotheses.org/47681</link>
@@ -1229,13 +1236,6 @@ love will consume you, then spit you out | leigh...]]></title>
             <guid isPermaLink="false">http://quantumfrontiers.com/2015/12/27/quantum-information-episode-ii-the-tools-applications/</guid>
             <dc:creator><![CDATA[Quantum Frontiers]]></dc:creator>
             <pubDate>Mon, 28 Dec 2015 03:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[snapshot from the Alps]]></title>
-            <link>https://xianblog.wordpress.com/2015/12/28/snapshot-from-the-alps/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2015/12/28/snapshot-from-the-alps/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sun, 27 Dec 2015 23:15:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Waldhausen Cats, 2: Exact Categories and Cobase Change]]></title>
@@ -3621,13 +3621,6 @@ Path 5, Row 29 2014-07-23 at...]]></title>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/code/2015/12/05/I-think-this-is-the-way-to-crawl-a-git-repository/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18.S096: Max-Cut and Approximation Algorithms]]></title>
-            <link>https://afonsobandeira.wordpress.com/2015/12/04/10l42pmaxcut/</link>
-            <guid isPermaLink="false">https://afonsobandeira.wordpress.com/2015/12/04/10l42pmaxcut/</guid>
-            <dc:creator><![CDATA[Relax and Conquer]]></dc:creator>
-            <pubDate>Fri, 04 Dec 2015 23:08:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
