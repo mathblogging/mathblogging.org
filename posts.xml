@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 21:20:33 GMT</lastBuildDate>
-        <pubDate>Fri, 08 Jan 2016 21:20:17 GMT</pubDate>
+        <lastBuildDate>Fri, 08 Jan 2016 21:35:25 GMT</lastBuildDate>
+        <pubDate>Fri, 08 Jan 2016 21:35:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[This Week in Math Ed: January 8, 2016]]></title>
+            <link>http://blog.mathed.net/2016/01/this-week-in-math-ed-january-8-2016.html</link>
+            <guid isPermaLink="false">http://blog.mathed.net/2016/01/this-week-in-math-ed-january-8-2016.html</guid>
+            <dc:creator><![CDATA[MathEd.net]]></dc:creator>
+            <pubDate>Fri, 08 Jan 2016 21:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il metodo Cramer, infine]]></title>
+            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/uvxPYxfUEHc/il-metodo-cramer-infine.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/uvxPYxfUEHc/il-metodo-cramer-infine.html</guid>
+            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
+            <pubDate>Fri, 08 Jan 2016 21:19:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Michael Ching]]></title>
             <guid isPermaLink="false">Michael Ching</guid>
@@ -323,17 +337,17 @@
             <pubDate>Fri, 08 Jan 2016 07:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gare aux erreurs d'arrondi !]]></title>
-            <link>http://images.math.cnrs.fr/Gare-aux-erreurs-d-arrondi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Gare-aux-erreurs-d-arrondi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 08 Jan 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Never Ever Divide By Zero]]></title>
             <link>http://mrburkemath.blogspot.com/2016/01/never-ever-divide-by-zero.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/01/never-ever-divide-by-zero.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 08 Jan 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gare aux erreurs d'arrondi !]]></title>
+            <link>http://images.math.cnrs.fr/Gare-aux-erreurs-d-arrondi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Gare-aux-erreurs-d-arrondi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 08 Jan 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -556,17 +570,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Thu, 07 Jan 2016 18:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Group Fun Sarah's 1-100]]></title>
-            <link>http://8ismyluckynumber.blogspot.com/2016/01/group-fun-sarahs-1-100.html</link>
-            <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2016/01/group-fun-sarahs-1-100.html</guid>
-            <dc:creator><![CDATA[8 is my lucky number]]></dc:creator>
-            <pubDate>Thu, 07 Jan 2016 17:44:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Graduating Bits Announcement]]></title>
             <link>http://mybiasedcoin.blogspot.com/2016/01/graduating-bits-announcement.html</link>
             <guid isPermaLink="false">http://mybiasedcoin.blogspot.com/2016/01/graduating-bits-announcement.html</guid>
             <dc:creator><![CDATA[My Biased Coin]]></dc:creator>
+            <pubDate>Thu, 07 Jan 2016 17:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Group Fun Sarah's 1-100]]></title>
+            <link>http://8ismyluckynumber.blogspot.com/2016/01/group-fun-sarahs-1-100.html</link>
+            <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2016/01/group-fun-sarahs-1-100.html</guid>
+            <dc:creator><![CDATA[8 is my lucky number]]></dc:creator>
             <pubDate>Thu, 07 Jan 2016 17:44:00 GMT</pubDate>
         </item>
         <item>
@@ -731,13 +745,6 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Thu, 07 Jan 2016 12:07:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.246B - Tangent Pants]]></title>
-            <link>http://mathtans.blogspot.com/2016/01/s7246b-tangent-pants.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/s7246b-tangent-pants.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Thu, 07 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sydney Harbour Bridge]]></title>
             <link>http://mathtourist.blogspot.com/2016/01/sydney-harbour-bridge.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/sydney-harbour-bridge.html</guid>
@@ -749,6 +756,13 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <link>http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 07 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.246B - Tangent Pants]]></title>
+            <link>http://mathtans.blogspot.com/2016/01/s7246b-tangent-pants.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/s7246b-tangent-pants.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Thu, 07 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2142,17 +2156,17 @@ A Fascinating...]]></title>
             <pubDate>Mon, 04 Jan 2016 12:17:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WSMoreOrLess: Numbers of the Year 2015 Part 2]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcw3q.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcw3q.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.246 - Tangent Lines]]></title>
             <link>http://mathtans.blogspot.com/2016/01/s7246-tangent-lines.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/s7246-tangent-lines.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 04 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WSMoreOrLess: Numbers of the Year 2015 Part 2]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcw3q.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcw3q.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 04 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2184,17 +2198,17 @@ A Fascinating...]]></title>
             <pubDate>Mon, 04 Jan 2016 10:34:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New Year, New Name]]></title>
-            <link>http://www.madmath.com/2016/01/new-year-new-name.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/01/new-year-new-name.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Where do the suvat equations come from?]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/where-do-the-suvat-equations-come-from/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/where-do-the-suvat-equations-come-from/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 04 Jan 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Year, New Name]]></title>
+            <link>http://www.madmath.com/2016/01/new-year-new-name.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/01/new-year-new-name.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 04 Jan 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2233,9 +2247,9 @@ A Fascinating...]]></title>
             <pubDate>Mon, 04 Jan 2016 06:00:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nao résout le Rubik's cube]]></title>
-            <link>http://images.math.cnrs.fr/Nao-resout-le-Rubik-s-cube.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Nao-resout-le-Rubik-s-cube.html</guid>
+            <title><![CDATA[4.4.9]]></title>
+            <link>http://images.math.cnrs.fr/4-4-9.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-4-9.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
         </item>
@@ -2247,9 +2261,9 @@ A Fascinating...]]></title>
             <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.4.9]]></title>
-            <link>http://images.math.cnrs.fr/4-4-9.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-4-9.html</guid>
+            <title><![CDATA[Nao résout le Rubik's cube]]></title>
+            <link>http://images.math.cnrs.fr/Nao-resout-le-Rubik-s-cube.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Nao-resout-le-Rubik-s-cube.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
         </item>
@@ -3231,17 +3245,17 @@ State borders for...]]></title>
             <pubDate>Fri, 01 Jan 2016 17:12:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Numbers of the Year 2015]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcxq5.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcxq5.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 01 Jan 2016 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some properties of 2016]]></title>
             <link>http://gottwurfelt.com/2016/01/01/some-properties-of-2016/</link>
             <guid isPermaLink="false">http://gottwurfelt.com/2016/01/01/some-properties-of-2016/</guid>
             <dc:creator><![CDATA[God plays dice]]></dc:creator>
+            <pubDate>Fri, 01 Jan 2016 17:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Numbers of the Year 2015]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcxq5.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcxq5.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 01 Jan 2016 17:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3336,17 +3350,17 @@ State borders for...]]></title>
             <pubDate>Fri, 01 Jan 2016 12:13:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ice Cone]]></title>
-            <link>http://mathtourist.blogspot.com/2016/01/ice-cone.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/ice-cone.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 01 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jan 01/16]]></title>
             <link>http://mathtans.blogspot.com/2016/01/jan-0116.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/jan-0116.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Fri, 01 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ice Cone]]></title>
+            <link>http://mathtourist.blogspot.com/2016/01/ice-cone.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/ice-cone.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 01 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4535,17 +4549,17 @@ National Cartoonists Day, National What Day?]]></title>
             <pubDate>Tue, 29 Dec 2015 12:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rustic Bridge]]></title>
-            <link>http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 29 Dec 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[End-of-Year Retrospective]]></title>
             <link>http://math-frolic.blogspot.com/2015/12/end-of-year-retrospective.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/12/end-of-year-retrospective.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Tue, 29 Dec 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rustic Bridge]]></title>
+            <link>http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 29 Dec 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4782,17 +4796,17 @@ Careful with that! It’s infinitely prickly.]]></title>
             <pubDate>Mon, 28 Dec 2015 17:20:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why mathematics curriculum reform is always so challenging]]></title>
-            <link>http://youdothemathkthrucalculus.blogspot.com/2015/12/why-mathematics-curriculum-reform-is.html</link>
-            <guid isPermaLink="false">http://youdothemathkthrucalculus.blogspot.com/2015/12/why-mathematics-curriculum-reform-is.html</guid>
-            <dc:creator><![CDATA[You Do the Math -- K thru Calculus]]></dc:creator>
-            <pubDate>Mon, 28 Dec 2015 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[December Paradox]]></title>
             <link>http://statpics.blogspot.com/2015/12/december-paradox.html</link>
             <guid isPermaLink="false">http://statpics.blogspot.com/2015/12/december-paradox.html</guid>
             <dc:creator><![CDATA[Statpics]]></dc:creator>
+            <pubDate>Mon, 28 Dec 2015 17:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why mathematics curriculum reform is always so challenging]]></title>
+            <link>http://youdothemathkthrucalculus.blogspot.com/2015/12/why-mathematics-curriculum-reform-is.html</link>
+            <guid isPermaLink="false">http://youdothemathkthrucalculus.blogspot.com/2015/12/why-mathematics-curriculum-reform-is.html</guid>
+            <dc:creator><![CDATA[You Do the Math -- K thru Calculus]]></dc:creator>
             <pubDate>Mon, 28 Dec 2015 17:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4921,17 +4935,17 @@ Careful with that! It’s infinitely prickly.]]></title>
             <pubDate>Mon, 28 Dec 2015 12:02:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flagpoles]]></title>
-            <link>http://mathtourist.blogspot.com/2015/12/flagpoles.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/flagpoles.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 28 Dec 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.245 - Hair Apparent]]></title>
             <link>http://mathtans.blogspot.com/2015/12/s7245-hair-apparent.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2015/12/s7245-hair-apparent.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 28 Dec 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flagpoles]]></title>
+            <link>http://mathtourist.blogspot.com/2015/12/flagpoles.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/flagpoles.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 28 Dec 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4949,17 +4963,17 @@ Careful with that! It’s infinitely prickly.]]></title>
             <pubDate>Mon, 28 Dec 2015 10:00:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A trigonometric coincidence]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/a-trigonometric-coincidence/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/a-trigonometric-coincidence/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 28 Dec 2015 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dust Mites and Bad Science Journalism]]></title>
             <link>http://www.madmath.com/2015/12/dust-mites-and-bad-science-journalism.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2015/12/dust-mites-and-bad-science-journalism.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 28 Dec 2015 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A trigonometric coincidence]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/a-trigonometric-coincidence/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/a-trigonometric-coincidence/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 28 Dec 2015 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5602,17 +5616,17 @@ David Burdeny - Russia: A Bright Future, 2015]]></title>
             <pubDate>Fri, 25 Dec 2015 06:04:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Merry Christmas 2015]]></title>
-            <link>http://mrburkemath.blogspot.com/2015/12/merry-christmas-2015.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2015/12/merry-christmas-2015.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 25 Dec 2015 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Aller de l'avant avec les problèmes inverses]]></title>
             <link>http://images.math.cnrs.fr/Aller-de-l-avant-avec-les-problemes-inverses.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Aller-de-l-avant-avec-les-problemes-inverses.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 25 Dec 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merry Christmas 2015]]></title>
+            <link>http://mrburkemath.blogspot.com/2015/12/merry-christmas-2015.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2015/12/merry-christmas-2015.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 25 Dec 2015 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5847,17 +5861,17 @@ Zeno’s Paradox]]></title>
             <pubDate>Thu, 24 Dec 2015 12:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Holiday Singalong 2015]]></title>
-            <link>http://mathtans.blogspot.com/2015/12/holiday-singalong-2015.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2015/12/holiday-singalong-2015.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Thu, 24 Dec 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Organ Pipes]]></title>
             <link>http://mathtourist.blogspot.com/2015/12/organ-pipes.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/organ-pipes.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 24 Dec 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holiday Singalong 2015]]></title>
+            <link>http://mathtans.blogspot.com/2015/12/holiday-singalong-2015.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2015/12/holiday-singalong-2015.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Thu, 24 Dec 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6944,17 +6958,17 @@ classrooms?]]></title>
             <pubDate>Mon, 21 Dec 2015 12:20:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ship Lights]]></title>
-            <link>http://mathtourist.blogspot.com/2015/12/ship-lights.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/ship-lights.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 21 Dec 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.244 - Jous Bar]]></title>
             <link>http://mathtans.blogspot.com/2015/12/s7244-jous-bar.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2015/12/s7244-jous-bar.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 21 Dec 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ship Lights]]></title>
+            <link>http://mathtourist.blogspot.com/2015/12/ship-lights.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/ship-lights.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 21 Dec 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6986,17 +7000,17 @@ classrooms?]]></title>
             <pubDate>Mon, 21 Dec 2015 10:22:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is applied maths less satisfying than pure?]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/is-applied-maths-less-satisfying-than-pure/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/is-applied-maths-less-satisfying-than-pure/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 21 Dec 2015 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Short Response to Flipping Classrooms]]></title>
             <link>http://www.madmath.com/2015/12/short-response-to-flipping-classrooms.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2015/12/short-response-to-flipping-classrooms.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 21 Dec 2015 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is applied maths less satisfying than pure?]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/is-applied-maths-less-satisfying-than-pure/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/is-applied-maths-less-satisfying-than-pure/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 21 Dec 2015 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7157,17 +7171,17 @@ susumu koshimizu]]></title>
             <pubDate>Sun, 20 Dec 2015 12:25:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Fractal Universe?]]></title>
-            <link>http://math-frolic.blogspot.com/2015/12/a-fractal-universe.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/12/a-fractal-universe.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 20 Dec 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Crystal Spheres]]></title>
             <link>http://mathtourist.blogspot.com/2015/12/crystal-spheres.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/crystal-spheres.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 20 Dec 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Fractal Universe?]]></title>
+            <link>http://math-frolic.blogspot.com/2015/12/a-fractal-universe.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/12/a-fractal-universe.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 20 Dec 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8870,17 +8884,17 @@ The principle that...]]></title>
             <pubDate>Mon, 14 Dec 2015 11:00:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“Destiny”]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/destiny/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/destiny/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 14 Dec 2015 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why m for Slope?]]></title>
             <link>http://www.madmath.com/2015/12/why-m-for-slope.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2015/12/why-m-for-slope.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 14 Dec 2015 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Destiny”]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/destiny/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/destiny/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 14 Dec 2015 10:00:00 GMT</pubDate>
         </item>
         <item>
