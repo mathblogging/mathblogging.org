@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 10:20:23 GMT</lastBuildDate>
-        <pubDate>Fri, 08 Jan 2016 10:20:16 GMT</pubDate>
+        <lastBuildDate>Fri, 08 Jan 2016 10:35:18 GMT</lastBuildDate>
+        <pubDate>Fri, 08 Jan 2016 10:35:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[MathsBombe Competition]]></title>
+            <link>http://aperiodical.com/2016/01/mathsbombe-competition/</link>
+            <guid isPermaLink="false">http://aperiodical.com/2016/01/mathsbombe-competition/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Fri, 08 Jan 2016 10:26:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Relatively Prime Recap: Season 2, Episode 1: The Lexicon]]></title>
             <link>http://aperiodical.com/2016/01/relatively-prime-s21-the-lexicon/</link>
@@ -276,17 +283,17 @@
             <pubDate>Fri, 01 Jan 2016 18:18:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Numbers of the Year 2015]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcxq5.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcxq5.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 01 Jan 2016 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some properties of 2016]]></title>
             <link>http://gottwurfelt.com/2016/01/01/some-properties-of-2016/</link>
             <guid isPermaLink="false">http://gottwurfelt.com/2016/01/01/some-properties-of-2016/</guid>
             <dc:creator><![CDATA[God plays dice]]></dc:creator>
+            <pubDate>Fri, 01 Jan 2016 17:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Numbers of the Year 2015]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcxq5.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcxq5.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 01 Jan 2016 17:00:00 GMT</pubDate>
         </item>
         <item>
@@ -815,13 +822,6 @@
             <pubDate>Sat, 19 Dec 2015 15:42:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aperiodvent, Day 19: Peg & Cat – Problem Solved]]></title>
-            <link>http://aperiodical.com/2015/12/aperiodvent-day-19-peg-cat-problem-solved/</link>
-            <guid isPermaLink="false">http://aperiodical.com/2015/12/aperiodvent-day-19-peg-cat-problem-solved/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Sat, 19 Dec 2015 00:00:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What are sigma levels?]]></title>
             <link>https://plus.maths.org/content/what-are-sigma-levels-0</link>
             <guid isPermaLink="false">https://plus.maths.org/content/what-are-sigma-levels-0</guid>
@@ -1114,13 +1114,6 @@
             <guid isPermaLink="false">http://changetheequation.org/blog/grid-uncounted-women-computing</guid>
             <dc:creator><![CDATA[Change the Equation]]></dc:creator>
             <pubDate>Tue, 08 Dec 2015 15:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WS MoreOrLess: Climate Change]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03bgr42.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03bgr42.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Tue, 08 Dec 2015 10:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
