@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 22:36:19 GMT</lastBuildDate>
-        <pubDate>Sat, 09 Jan 2016 22:36:07 GMT</pubDate>
+        <lastBuildDate>Sat, 09 Jan 2016 22:50:21 GMT</lastBuildDate>
+        <pubDate>Sat, 09 Jan 2016 22:50:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -510,6 +510,12 @@
             <guid isPermaLink="false">Decorated Cospans</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Wed, 06 Jan 2016 12:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[formal neighbourhood of the diagonal]]></title>
+            <guid isPermaLink="false">formal neighbourhood of the diagonal</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 06 Jan 2016 11:42:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Splitting fields of representations of generalized symmetric groups, 6]]></title>
@@ -3478,13 +3484,6 @@ No, google, when I search for “rational...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/25HMGCRUGyo/134901800063</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Thu, 10 Dec 2015 05:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google, D-Wave, and the case of the factor-10^8 speedup for WHAT?]]></title>
-            <link>http://www.scottaaronson.com/blog/?p=2555</link>
-            <guid isPermaLink="false">http://www.scottaaronson.com/blog/?p=2555</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Wed, 09 Dec 2015 22:34:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
