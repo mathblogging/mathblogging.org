@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 21:34:31 GMT</lastBuildDate>
-        <pubDate>Thu, 14 Jan 2016 21:34:24 GMT</pubDate>
+        <lastBuildDate>Thu, 14 Jan 2016 21:49:06 GMT</lastBuildDate>
+        <pubDate>Thu, 14 Jan 2016 21:49:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -203,12 +203,6 @@
             <guid isPermaLink="false">http://gfletchy.com/2016/01/14/take-it-to-the-bank/</guid>
             <dc:creator><![CDATA[Questioning My Metacognition]]></dc:creator>
             <pubDate>Thu, 14 Jan 2016 14:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rational n-sphere]]></title>
-            <guid isPermaLink="false">rational n-sphere</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 14 Jan 2016 14:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ayn Rand and Government?]]></title>
@@ -1825,17 +1819,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Mon, 11 Jan 2016 14:00:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When threads converge --  "How Mickey Mouse Destroyed the Public Domain"]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/01/when-threads-converge-how-mickey-mouse.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/when-threads-converge-how-mickey-mouse.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[TCM at NCSSM]]></title>
             <link>http://MrHonner.com/archives/15650</link>
             <guid isPermaLink="false">http://MrHonner.com/archives/15650</guid>
             <dc:creator><![CDATA[Mr Honner]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When threads converge --  "How Mickey Mouse Destroyed the Public Domain"]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/01/when-threads-converge-how-mickey-mouse.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/when-threads-converge-how-mickey-mouse.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1867,13 +1861,6 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Mon, 11 Jan 2016 12:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frosted Pine]]></title>
-            <link>http://mathtourist.blogspot.com/2016/01/frosted-pine.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/frosted-pine.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.247 - Hardly Working]]></title>
             <link>http://mathtans.blogspot.com/2016/01/s7247-hardly-working.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/s7247-hardly-working.html</guid>
@@ -1885,6 +1872,13 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dslks.mp3</link>
             <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dslks.mp3</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frosted Pine]]></title>
+            <link>http://mathtourist.blogspot.com/2016/01/frosted-pine.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/frosted-pine.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1965,17 +1959,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Mon, 11 Jan 2016 06:00:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lottery]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/01/lottery.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/01/lottery.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On a Natural Dynamics for Linear Programming]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/-AYxR8wAsQA/on-natural-dynamics-for-linear.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/-AYxR8wAsQA/on-natural-dynamics-for-linear.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lottery]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/01/lottery.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/01/lottery.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2035,17 +2029,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Mon, 11 Jan 2016 00:35:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 11]]></title>
-            <link>http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-11.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-11.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CES 2016]]></title>
             <link>http://datagenetics.com/blog/january22016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january22016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 11]]></title>
+            <link>http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-11.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-11.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2304,17 +2298,17 @@ Alain Le Yaouanc, Chemin de ronde, Paris 1970]]></title>
             <pubDate>Sun, 10 Jan 2016 12:04:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plant Roots]]></title>
-            <link>http://mathtourist.blogspot.com/2016/01/plant-roots.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/plant-roots.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 10 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Complex systems..."]]></title>
             <link>http://math-frolic.blogspot.com/2016/01/complex-systems.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/01/complex-systems.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 10 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plant Roots]]></title>
+            <link>http://mathtourist.blogspot.com/2016/01/plant-roots.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/plant-roots.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 10 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3452,10 +3446,10 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Thu, 07 Jan 2016 12:07:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How'd He Do That...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <title><![CDATA[Sydney Harbour Bridge]]></title>
+            <link>http://mathtourist.blogspot.com/2016/01/sydney-harbour-bridge.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/sydney-harbour-bridge.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 07 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3466,10 +3460,10 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Thu, 07 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sydney Harbour Bridge]]></title>
-            <link>http://mathtourist.blogspot.com/2016/01/sydney-harbour-bridge.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/sydney-harbour-bridge.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <title><![CDATA[How'd He Do That...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Thu, 07 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3497,14 +3491,14 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <title><![CDATA[PhD proposal in maths/engineering higher education]]></title>
             <link>http://aperiodical.com/2016/01/phd-proposal-in-mathsengineering-higher-education/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/01/phd-proposal-in-mathsengineering-higher-education/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 07 Jan 2016 10:08:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PhD proposal in maths/engineering higher education]]></title>
             <link>http://aperiodical.com/2016/01/phd-proposal-in-mathsengineering-higher-education/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/01/phd-proposal-in-mathsengineering-higher-education/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 07 Jan 2016 10:08:34 GMT</pubDate>
         </item>
         <item>
@@ -4709,13 +4703,6 @@ A Fascinating...]]></title>
             <pubDate>Mon, 04 Jan 2016 12:17:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Winter Sailing]]></title>
-            <link>http://mathtourist.blogspot.com/2016/01/winter-sailing.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/winter-sailing.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.246 - Tangent Lines]]></title>
             <link>http://mathtans.blogspot.com/2016/01/s7246-tangent-lines.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/s7246-tangent-lines.html</guid>
@@ -4727,6 +4714,13 @@ A Fascinating...]]></title>
             <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcw3q.mp3</link>
             <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcw3q.mp3</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 04 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winter Sailing]]></title>
+            <link>http://mathtourist.blogspot.com/2016/01/winter-sailing.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/winter-sailing.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 04 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4800,17 +4794,17 @@ A Fascinating...]]></title>
             <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Making a Difference in 2016!]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/01/making-difference-in-2016.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/01/making-difference-in-2016.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.4.9]]></title>
             <link>http://images.math.cnrs.fr/4-4-9.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-4-9.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making a Difference in 2016!]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/01/making-difference-in-2016.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/01/making-difference-in-2016.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5092,17 +5086,17 @@ If one wants to keep many useful laws of..."]]></title>
             <pubDate>Sun, 03 Jan 2016 13:30:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Barcelona Arches]]></title>
-            <link>http://mathtourist.blogspot.com/2016/01/barcelona-arches.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/barcelona-arches.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 03 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Architecture With Words]]></title>
             <link>http://math-frolic.blogspot.com/2016/01/architecture-with-words.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/01/architecture-with-words.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 03 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barcelona Arches]]></title>
+            <link>http://mathtourist.blogspot.com/2016/01/barcelona-arches.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/barcelona-arches.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 03 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5784,17 +5778,17 @@ State borders for...]]></title>
             <pubDate>Fri, 01 Jan 2016 12:13:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ice Cone]]></title>
-            <link>http://mathtourist.blogspot.com/2016/01/ice-cone.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/ice-cone.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 01 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jan 01/16]]></title>
             <link>http://mathtans.blogspot.com/2016/01/jan-0116.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/jan-0116.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Fri, 01 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ice Cone]]></title>
+            <link>http://mathtourist.blogspot.com/2016/01/ice-cone.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/ice-cone.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 01 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8441,17 +8435,17 @@ the knight’s tour]]></title>
             <pubDate>Wed, 23 Dec 2015 00:00:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - December 23]]></title>
-            <link>http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-23.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-23.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tricky Geometry]]></title>
             <link>http://datagenetics.com/blog/december32015/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/december32015/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - December 23]]></title>
+            <link>http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-23.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2015/12/on-this-day-in-math-december-23.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -10435,13 +10429,6 @@ The principle that...]]></title>
             <guid isPermaLink="false">https://afonsobandeira.wordpress.com/2015/12/14/ten-lectures-and-forty-two-open-problems-in-the-mathematics-of-data-science/</guid>
             <dc:creator><![CDATA[Relax and Conquer]]></dc:creator>
             <pubDate>Mon, 14 Dec 2015 21:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hodge Theory in Combinatorics]]></title>
-            <link>https://mattbakerblog.wordpress.com/2015/12/14/hodge-theory-in-combinatorics/</link>
-            <guid isPermaLink="false">https://mattbakerblog.wordpress.com/2015/12/14/hodge-theory-in-combinatorics/</guid>
-            <dc:creator><![CDATA[Matt Baker's Math Blog]]></dc:creator>
-            <pubDate>Mon, 14 Dec 2015 21:39:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
