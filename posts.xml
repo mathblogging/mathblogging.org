@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 12:19:13 GMT</lastBuildDate>
-        <pubDate>Tue, 19 Jan 2016 12:19:07 GMT</pubDate>
+        <lastBuildDate>Tue, 19 Jan 2016 12:34:08 GMT</lastBuildDate>
+        <pubDate>Tue, 19 Jan 2016 12:34:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Crank up New York real estate taxes]]></title>
+            <link>http://mathbabe.org/2016/01/19/crank-up-new-york-real-estate-taxes/</link>
+            <guid isPermaLink="false">http://mathbabe.org/2016/01/19/crank-up-new-york-real-estate-taxes/</guid>
+            <dc:creator><![CDATA[mathbabe]]></dc:creator>
+            <pubDate>Tue, 19 Jan 2016 12:24:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Big Sail]]></title>
             <link>http://mathtourist.blogspot.com/2016/01/the-big-sail.html</link>
@@ -297,6 +304,12 @@ Two red circles which have no intersection are...]]></title>
             <pubDate>Mon, 18 Jan 2016 17:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[stochastic quantization]]></title>
+            <guid isPermaLink="false">stochastic quantization</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 18 Jan 2016 16:55:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Robot for stroke patients paper copied 3 pages of equations]]></title>
             <link>http://retractionwatch.com/2016/01/18/robot-for-stroke-patients-paper-copied-3-pages-of-equations/</link>
             <guid isPermaLink="false">http://retractionwatch.com/2016/01/18/robot-for-stroke-patients-paper-copied-3-pages-of-equations/</guid>
@@ -436,10 +449,10 @@ sonic-hip-...]]></title>
             <pubDate>Mon, 18 Jan 2016 12:25:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS MoreOrLess: Gravitational Waves]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03fm6bq.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03fm6bq.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <title><![CDATA[S7.248 - Magic on the Mic]]></title>
+            <link>http://mathtans.blogspot.com/2016/01/s7248-magic-on-mic.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/s7248-magic-on-mic.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 18 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -450,10 +463,10 @@ sonic-hip-...]]></title>
             <pubDate>Mon, 18 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.248 - Magic on the Mic]]></title>
-            <link>http://mathtans.blogspot.com/2016/01/s7248-magic-on-mic.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/s7248-magic-on-mic.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <title><![CDATA[WS MoreOrLess: Gravitational Waves]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03fm6bq.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03fm6bq.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 18 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3557,17 +3570,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Mon, 11 Jan 2016 14:00:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TCM at NCSSM]]></title>
-            <link>http://MrHonner.com/archives/15650</link>
-            <guid isPermaLink="false">http://MrHonner.com/archives/15650</guid>
-            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[When threads converge --  "How Mickey Mouse Destroyed the Public Domain"]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/01/when-threads-converge-how-mickey-mouse.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/when-threads-converge-how-mickey-mouse.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TCM at NCSSM]]></title>
+            <link>http://MrHonner.com/archives/15650</link>
+            <guid isPermaLink="false">http://MrHonner.com/archives/15650</guid>
+            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3599,17 +3612,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Mon, 11 Jan 2016 12:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frosted Pine]]></title>
-            <link>http://mathtourist.blogspot.com/2016/01/frosted-pine.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/frosted-pine.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.247 - Hardly Working]]></title>
             <link>http://mathtans.blogspot.com/2016/01/s7247-hardly-working.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/s7247-hardly-working.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frosted Pine]]></title>
+            <link>http://mathtourist.blogspot.com/2016/01/frosted-pine.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/frosted-pine.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3641,17 +3654,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Mon, 11 Jan 2016 10:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How the Mathematical Ninja estimates factorials]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/how-the-mathematical-ninja-estimates-factorials/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/how-the-mathematical-ninja-estimates-factorials/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Public Shaming]]></title>
             <link>http://www.madmath.com/2016/01/public-shaming.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2016/01/public-shaming.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Mathematical Ninja estimates factorials]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/how-the-mathematical-ninja-estimates-factorials/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/how-the-mathematical-ninja-estimates-factorials/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3683,17 +3696,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Mon, 11 Jan 2016 06:00:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lottery]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/01/lottery.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/01/lottery.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On a Natural Dynamics for Linear Programming]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/-AYxR8wAsQA/on-natural-dynamics-for-linear.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/-AYxR8wAsQA/on-natural-dynamics-for-linear.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lottery]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/01/lottery.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/01/lottery.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3746,17 +3759,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Mon, 11 Jan 2016 00:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 11]]></title>
-            <link>http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-11.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-11.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CES 2016]]></title>
             <link>http://datagenetics.com/blog/january22016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january22016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 11]]></title>
+            <link>http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-11.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-11.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5058,17 +5071,17 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Thu, 07 Jan 2016 12:07:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How'd He Do That...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Thu, 07 Jan 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.246B - Tangent Pants]]></title>
             <link>http://mathtans.blogspot.com/2016/01/s7246b-tangent-pants.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/01/s7246b-tangent-pants.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Thu, 07 Jan 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How'd He Do That...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/01/howd-he-do-that.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Thu, 07 Jan 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5951,17 +5964,17 @@ A Fascinating...]]></title>
             <pubDate>Tue, 05 Jan 2016 00:30:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Koch Snowflake]]></title>
-            <link>http://datagenetics.com/blog/january12016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january12016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 5]]></title>
             <link>http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-5.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/01/on-this-day-in-math-january-5.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Koch Snowflake]]></title>
+            <link>http://datagenetics.com/blog/january12016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january12016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6280,17 +6293,17 @@ A Fascinating...]]></title>
             <pubDate>Mon, 04 Jan 2016 10:34:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Where do the suvat equations come from?]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/where-do-the-suvat-equations-come-from/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/where-do-the-suvat-equations-come-from/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New Year, New Name]]></title>
             <link>http://www.madmath.com/2016/01/new-year-new-name.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2016/01/new-year-new-name.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 04 Jan 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where do the suvat equations come from?]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/where-do-the-suvat-equations-come-from/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/where-do-the-suvat-equations-come-from/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 04 Jan 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6322,17 +6335,17 @@ A Fascinating...]]></title>
             <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nao résout le Rubik's cube]]></title>
-            <link>http://images.math.cnrs.fr/Nao-resout-le-Rubik-s-cube.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Nao-resout-le-Rubik-s-cube.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Making a Difference in 2016!]]></title>
             <link>http://mrburkemath.blogspot.com/2016/01/making-difference-in-2016.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/01/making-difference-in-2016.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nao résout le Rubik's cube]]></title>
+            <link>http://images.math.cnrs.fr/Nao-resout-le-Rubik-s-cube.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Nao-resout-le-Rubik-s-cube.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 04 Jan 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8264,17 +8277,17 @@ love will consume you, then spit you out | leigh...]]></title>
             <pubDate>Tue, 29 Dec 2015 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rustic Bridge]]></title>
-            <link>http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 29 Dec 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[End-of-Year Retrospective]]></title>
             <link>http://math-frolic.blogspot.com/2015/12/end-of-year-retrospective.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2015/12/end-of-year-retrospective.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Tue, 29 Dec 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rustic Bridge]]></title>
+            <link>http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/rustic-bridge.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 29 Dec 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8544,30 +8557,23 @@ love will consume you, then spit you out | leigh...]]></title>
             <pubDate>Mon, 28 Dec 2015 12:44:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Forecasting precipitation]]></title>
-            <link>http://mathbabe.org/2015/12/28/forecasting-precipitation/</link>
-            <guid isPermaLink="false">http://mathbabe.org/2015/12/28/forecasting-precipitation/</guid>
-            <dc:creator><![CDATA[mathbabe]]></dc:creator>
-            <pubDate>Mon, 28 Dec 2015 12:35:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Compositional Framework for Passive Linear Networks]]></title>
             <guid isPermaLink="false">A Compositional Framework for Passive Linear Networks</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Mon, 28 Dec 2015 12:02:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.245 - Hair Apparent]]></title>
-            <link>http://mathtans.blogspot.com/2015/12/s7245-hair-apparent.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2015/12/s7245-hair-apparent.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 28 Dec 2015 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Flagpoles]]></title>
             <link>http://mathtourist.blogspot.com/2015/12/flagpoles.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2015/12/flagpoles.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 28 Dec 2015 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.245 - Hair Apparent]]></title>
+            <link>http://mathtans.blogspot.com/2015/12/s7245-hair-apparent.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2015/12/s7245-hair-apparent.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 28 Dec 2015 12:00:00 GMT</pubDate>
         </item>
         <item>
