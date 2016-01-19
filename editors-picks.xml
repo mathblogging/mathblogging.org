@@ -5,16 +5,26 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 21:34:05 GMT</lastBuildDate>
-        <pubDate>Tue, 19 Jan 2016 21:34:01 GMT</pubDate>
+        <lastBuildDate>Tue, 19 Jan 2016 21:49:03 GMT</lastBuildDate>
+        <pubDate>Tue, 19 Jan 2016 21:49:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[Finally here! #mbpick https://t.co/morgGYvH7i]]></description>
-            <guid isPermaLink="false">https://twitter.com/mathblogging/status/677598036709801985</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 21:16:47 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
+https://t.co/CdnBzi0zOi
+#math #mathchat
+#mbpick]]></description>
+            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[new paper from the grave (Erdös) with an assist by Butler &amp; Graham: https://t.co/HHU82vTdIm #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/VKHoC</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Fri, 11 Dec 2015 09:54:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
@@ -25,6 +35,27 @@ Great data investigation by @drhagen!
             <guid isPermaLink="false">http://drhagen.com/blog/the-missing-11th-of-the-month/</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Sat, 02 Jan 2016 14:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[Finally here! #mbpick https://t.co/morgGYvH7i]]></description>
+            <guid isPermaLink="false">https://twitter.com/mathblogging/status/677598036709801985</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 21:16:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[Starkiller has to wait until next week? @rmathematicus gives you: Science Killer Aristotle (or not) https://t.co/CdUT8TkSFa #mbpick]]></description>
+            <guid isPermaLink="false">https://thonyc.wordpress.com/2015/12/08/aristotle-killer-of-science/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Wed, 09 Dec 2015 19:20:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -41,13 +72,6 @@ Great data investigation by @drhagen!
             <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA["On Student Mathematical Thinking": https://t.co/GkTJSHn915 #mbpick]]></description>
             <guid isPermaLink="false">http://ow.ly/WVedu</guid>
@@ -55,11 +79,13 @@ Great data investigation by @drhagen!
             <pubDate>Mon, 11 Jan 2016 22:00:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[John Horgan's take on #Bayes Theorem: https://t.co/2f3ws1s0YC #mathed #mbpick #statistics #mathchat]]></description>
-            <guid isPermaLink="false">http://ow.ly/WE5jO</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 05 Jan 2016 12:42:15 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Terry Tao, on the many meanings of the = sign
+https://t.co/vAuVURnXHL
+#math #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">https://plus.google.com/u/0/+TerenceTao27/posts/6diqmz1JQrB</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Tue, 05 Jan 2016 23:50:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -76,11 +102,11 @@ Great data investigation by @drhagen!
             <pubDate>Wed, 30 Dec 2015 12:00:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[Starkiller has to wait until next week? @rmathematicus gives you: Science Killer Aristotle (or not) https://t.co/CdUT8TkSFa #mbpick]]></description>
-            <guid isPermaLink="false">https://thonyc.wordpress.com/2015/12/08/aristotle-killer-of-science/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Wed, 09 Dec 2015 19:20:44 GMT</pubDate>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[#mbpick RT @MathbloggingAll a universe of puzzles https://t.co/Ky5GUwF9eT]]></description>
+            <guid isPermaLink="false">http://dlvr.it/D2nsvJ</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Fri, 18 Dec 2015 12:55:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -112,36 +138,10 @@ Great data investigation by @drhagen!
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[new paper from the grave (Erdös) with an assist by Butler &amp; Graham: https://t.co/HHU82vTdIm #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/VKHoC</guid>
+            <description><![CDATA[John Horgan's take on #Bayes Theorem: https://t.co/2f3ws1s0YC #mathed #mbpick #statistics #mathchat]]></description>
+            <guid isPermaLink="false">http://ow.ly/WE5jO</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Fri, 11 Dec 2015 09:54:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
-https://t.co/CdnBzi0zOi
-#math #mathchat
-#mbpick]]></description>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Terry Tao, on the many meanings of the = sign
-https://t.co/vAuVURnXHL
-#math #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">https://plus.google.com/u/0/+TerenceTao27/posts/6diqmz1JQrB</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Tue, 05 Jan 2016 23:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[#mbpick RT @MathbloggingAll a universe of puzzles https://t.co/Ky5GUwF9eT]]></description>
-            <guid isPermaLink="false">http://dlvr.it/D2nsvJ</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Fri, 18 Dec 2015 12:55:05 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 12:42:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
