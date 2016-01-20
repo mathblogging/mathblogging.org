@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" width="500"><p lang="en" dir="ltr">Ben Orlin takes us on a number journey, and what a journey it is: <a href="https://t.co/6DSZ2BgZbI">https://t.co/6DSZ2BgZbI</a> &#10;<a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/689784510968365056">January 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" width="500"><p lang="en" dir="ltr">Fascinating post by <a href="https://twitter.com/JSEllenberg">@JSEllenberg</a> on Google&#39;s word2vec, a vector space of 100 billion words&#10;<a href="https://t.co/CdnBzi0zOi">https://t.co/CdnBzi0zOi</a>&#10;<a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a>&#10;<a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/688162970367467522">January 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" width="500"><p lang="en" dir="ltr">&quot;On Student Mathematical Thinking&quot;: <a href="https://t.co/GkTJSHn915">https://t.co/GkTJSHn915</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/686668994259107840">January 11, 2016</a></blockquote>
