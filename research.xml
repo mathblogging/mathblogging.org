@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 15:04:21 GMT</lastBuildDate>
-        <pubDate>Thu, 21 Jan 2016 15:04:16 GMT</pubDate>
+        <lastBuildDate>Thu, 21 Jan 2016 15:19:11 GMT</lastBuildDate>
+        <pubDate>Thu, 21 Jan 2016 15:19:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Computing List Price from BOM Cost]]></title>
+            <link>http://mathscinotes.com/2016/01/computing-list-price-from-bom-cost/</link>
+            <guid isPermaLink="false">http://mathscinotes.com/2016/01/computing-list-price-from-bom-cost/</guid>
+            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2016 15:11:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[If you’re using Stata and you want to do Bayes, you should be using StataStan]]></title>
             <link>http://andrewgelman.com/2016/01/21/youre-using-stata-want-bayes-using-statastan/</link>
@@ -2468,13 +2475,6 @@ If one wants to keep many useful laws of..."]]></title>
             <pubDate>Sun, 03 Jan 2016 04:15:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Continue To Be Vigilant For Lead Exposure In Children]]></title>
-            <link>http://mathscinotes.com/2016/01/continue_to_be_vigilant_for_lead_exposure_in_children/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2016/01/continue_to_be_vigilant_for_lead_exposure_in_children/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Sun, 03 Jan 2016 01:01:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Endogeneity-Robust OLS Estimation (?)]]></title>
             <link>http://fxdiebold.blogspot.com/2016/01/endogeneity-robust-ols-estimation.html</link>
             <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/01/endogeneity-robust-ols-estimation.html</guid>
@@ -3564,13 +3564,6 @@ Some of the...]]></title>
             <guid isPermaLink="false">https://tomroelandts.com/articles/time-domain-vs-frequency-domain-performance-of-filters</guid>
             <dc:creator><![CDATA[TomRoelandts.com]]></dc:creator>
             <pubDate>Mon, 21 Dec 2015 15:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blog Followers]]></title>
-            <link>http://blog.computationalcomplexity.org/2015/12/blog-followers.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2015/12/blog-followers.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Mon, 21 Dec 2015 15:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
