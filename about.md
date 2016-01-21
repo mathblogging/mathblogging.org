@@ -5,9 +5,9 @@ permalink: /about/
 ---
 ## What is mathblogging.org?
 
-From research to recreational, from teaching to technology, from visual to virtual, there are hundreds of blogs and web sites writing about mathematics and its many facets. For the longest time there was no good way for math readers to discover math writers, and for math writers to be found. We want to change that.
+From research to recreation, from teaching to technology, from visual to virtual, there are hundreds of blogs and web sites writing about mathematics and its many facets. For the longest time there was no good way for math readers to discover math writers, and for math writers to be found. We want to change that.
 
-We have collected over 600 blogs and other news sources in one place. That number is steadily growing, and in fact we invite you to submit even more! Our goal is to be the best place to seek out mathematics-related content on the web.
+We have collected over 600 blogs and other news sources in one place. That number is steadily growing, and we invite you to submit even more! Meanwhile our editors showcase their favorite articles ([home](/)) and sites ([featured](/featured.html)). Our goal is to be the best place to seek out math-related content on the web.
 
 ## Our team of editors
 
