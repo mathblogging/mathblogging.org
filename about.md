@@ -5,11 +5,11 @@ permalink: /about/
 ---
 ## What is mathblogging.org?
 
-From research to recreational, from teaching to technology, from visual to virtual, hundreds of blogs and sites regularly write about mathematics in all its facets. For the longest time, there was no good way for readers to find the authors they enjoy and for authors to be found. We want to change that.
+From research to recreational, from teaching to technology, from visual to virtual, there are hundreds of blogs and web sites writing about mathematics and its many facets. For the longest time there was no good way for math readers to discover math writers, and for math writers to be found. We want to change that.
 
-We have collected over 600 blogs and other news sources in one place, and invite you to submit even more! Our goal is to be the best place to discover mathematical writing on the web.
+We have collected over 600 blogs and other news sources in one place. That number is steadily growing, and in fact we invite you to submit even more! Our goal is to be the best place to seek out mathematics-related content on the web.
 
-## Editors
+## Our team of editors
 
 **Dana Ernst** is a professor of mathematics at <a href="http://nau.edu">Northern Arizona University</a> in Flagstaff, AZ, and blogs at <a href="danaernst.com">danaernst.com</a>. Dana is passionate about mathematics education and his scholarly activities include topics in this area. In particular, he is interested in <a href="http://maamathedmatters.blogspot.com/2013/05/what-heck-is-ibl.html">inquiry-based learning</a> (IBL) as a method for teaching mathematics. Dana is also a Special Projects Coordinator for the <a href="http://www.inquirybasedlearning.org/">Academy of Inquiry-Based Learning</a> and actively gives <a href="http://danaernst.com/category/talks">talks</a> and organizes workshops on the benefits of IBL as well as the nuts and bolts of how to implement this approach in the mathematics classroom. Together with Angie Hodge, Dana is a coauthor for <a href="http://maamathedmatters.blogspot.com/">Math Ed Matters</a>, which is a (roughly) monthly column sponsored by the <a href="http://maa.org">MAA</a>. Lastly, Dana is an avid cyclist, trail runner, and rock climber. Oh, and he enjoys drinking copious amounts of coffee.
 
@@ -21,6 +21,6 @@ We have collected over 600 blogs and other news sources in one place, and invite
 
 ... and more coming soon!
 
-## Developers
+## Site developers
 
 mathblogging.org was founded by Frederik von Heymann, Felix Breuer, and Peter Krautzberger. The current edition of mathblogging.org was developed by Peter with additional support from Samuel Coskey.
