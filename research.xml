@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 14:49:04 GMT</lastBuildDate>
-        <pubDate>Thu, 21 Jan 2016 14:48:59 GMT</pubDate>
+        <lastBuildDate>Thu, 21 Jan 2016 15:04:21 GMT</lastBuildDate>
+        <pubDate>Thu, 21 Jan 2016 15:04:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[If you’re using Stata and you want to do Bayes, you should be using StataStan]]></title>
+            <link>http://andrewgelman.com/2016/01/21/youre-using-stata-want-bayes-using-statastan/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/01/21/youre-using-stata-want-bayes-using-statastan/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2016 14:41:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[done! [#2]]]></title>
             <link>https://xianblog.wordpress.com/2016/01/21/done-2/</link>
@@ -42,6 +49,12 @@
             <guid isPermaLink="false">S-module</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Thu, 21 Jan 2016 12:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[smash product of spectra]]></title>
+            <guid isPermaLink="false">smash product of spectra</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2016 12:14:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Most Beautiful Equations in Applied Mathematics]]></title>
@@ -3490,13 +3503,6 @@ Some of the...]]></title>
             <pubDate>Tue, 22 Dec 2015 14:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[He’s skeptical about Neuroskeptic’s skepticism]]></title>
-            <link>http://andrewgelman.com/2015/12/22/hes-skeptical-about-neuroskeptics-skepticism/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2015/12/22/hes-skeptical-about-neuroskeptics-skepticism/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 22 Dec 2015 14:49:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[R and Python: Gradient Descent]]></title>
             <link>http://alstatr.blogspot.com/2015/12/r-and-python-gradient-descent.html</link>
             <guid isPermaLink="false">http://alstatr.blogspot.com/2015/12/r-and-python-gradient-descent.html</guid>
@@ -3565,13 +3571,6 @@ Some of the...]]></title>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2015/12/blog-followers.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 21 Dec 2015 15:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Possibly-repetetive note on retract cofibers]]></title>
-            <link>http://jessecmckeown.tumblr.com/post/135642007220</link>
-            <guid isPermaLink="false">http://jessecmckeown.tumblr.com/post/135642007220</guid>
-            <dc:creator><![CDATA[http://jessecmckeown.tumblr.com/]]></dc:creator>
-            <pubDate>Mon, 21 Dec 2015 14:54:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
