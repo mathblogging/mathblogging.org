@@ -5,24 +5,33 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 01:19:32 GMT</lastBuildDate>
-        <pubDate>Thu, 21 Jan 2016 01:19:28 GMT</pubDate>
+        <lastBuildDate>Thu, 21 Jan 2016 01:34:06 GMT</lastBuildDate>
+        <pubDate>Thu, 21 Jan 2016 01:34:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Ben Orlin takes us on a number journey, and what a journey it is: https://t.co/6DSZ2BgZbI 
-#mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/XiYQY</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 20 Jan 2016 12:20:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[@danaernst's pick]]></title>
             <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
             <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
             <dc:creator><![CDATA[@danaernst]]></dc:creator>
             <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[The Missing 11th of Every Month
+https://t.co/AP5LV1F1J2
+Great data investigation by @drhagen!
+#math #mathchat #statschat #mbpick]]></description>
+            <guid isPermaLink="false">http://drhagen.com/blog/the-missing-11th-of-the-month/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 02 Jan 2016 14:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA["On Student Mathematical Thinking": https://t.co/GkTJSHn915 #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/WVedu</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Mon, 11 Jan 2016 22:00:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -68,17 +77,18 @@
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Summary of Mochizuki from Brian Conrad via the Oxford IUT workshop https://t.co/US1wSxnwBD #mbpick]]></description>
-            <guid isPermaLink="false">http://wp.me/p1CO0X-2Qz</guid>
+            <description><![CDATA[Ben Orlin takes us on a number journey, and what a journey it is: https://t.co/6DSZ2BgZbI 
+#mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/XiYQY</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 15 Dec 2015 20:20:47 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 12:20:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA["On Student Mathematical Thinking": https://t.co/GkTJSHn915 #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/WVedu</guid>
+            <description><![CDATA[Statistical dissection of a cardio study: https://t.co/eIvCf5KqH7 #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/VKVND</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Mon, 11 Jan 2016 22:00:20 GMT</pubDate>
+            <pubDate>Fri, 11 Dec 2015 12:55:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -135,21 +145,11 @@ https://t.co/vAuVURnXHL
             <pubDate>Tue, 05 Jan 2016 23:50:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[The Missing 11th of Every Month
-https://t.co/AP5LV1F1J2
-Great data investigation by @drhagen!
-#math #mathchat #statschat #mbpick]]></description>
-            <guid isPermaLink="false">http://drhagen.com/blog/the-missing-11th-of-the-month/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 02 Jan 2016 14:18:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Statistical dissection of a cardio study: https://t.co/eIvCf5KqH7 #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/VKVND</guid>
+            <description><![CDATA[Summary of Mochizuki from Brian Conrad via the Oxford IUT workshop https://t.co/US1wSxnwBD #mbpick]]></description>
+            <guid isPermaLink="false">http://wp.me/p1CO0X-2Qz</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Fri, 11 Dec 2015 12:55:13 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 20:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
