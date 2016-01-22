@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 16:49:10 GMT</lastBuildDate>
-        <pubDate>Fri, 22 Jan 2016 16:49:05 GMT</pubDate>
+        <lastBuildDate>Fri, 22 Jan 2016 17:04:17 GMT</lastBuildDate>
+        <pubDate>Fri, 22 Jan 2016 17:04:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -205,12 +205,6 @@ in vakil’s algebraic geometry notes, the chapter on adjoints only...]]></title
             <pubDate>Thu, 21 Jan 2016 16:46:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[covering of alternating group]]></title>
-            <guid isPermaLink="false">covering of alternating group</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 21 Jan 2016 16:27:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[the newsvendor problem revisited: bad newspaper delivery routes in the news]]></title>
             <link>http://punkrockor.com/2016/01/21/the-newsvendor-problem-revisited-bad-newspaper-delivery-routes-in-the-news-orms/</link>
             <guid isPermaLink="false">http://punkrockor.com/2016/01/21/the-newsvendor-problem-revisited-bad-newspaper-delivery-routes-in-the-news-orms/</guid>
@@ -253,17 +247,17 @@ in vakil’s algebraic geometry notes, the chapter on adjoints only...]]></title
             <pubDate>Thu, 21 Jan 2016 13:17:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Snow day?]]></title>
-            <link>http://gottwurfelt.com/2016/01/21/1889/</link>
-            <guid isPermaLink="false">http://gottwurfelt.com/2016/01/21/1889/</guid>
-            <dc:creator><![CDATA[God plays dice]]></dc:creator>
-            <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sometimes the side effects matter]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snow day?]]></title>
+            <link>http://gottwurfelt.com/2016/01/21/1889/</link>
+            <guid isPermaLink="false">http://gottwurfelt.com/2016/01/21/1889/</guid>
+            <dc:creator><![CDATA[God plays dice]]></dc:creator>
             <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -440,6 +434,12 @@ in vakil’s algebraic geometry notes, the chapter on adjoints only...]]></title
             <guid isPermaLink="false">http://mathscinotes.com/2016/01/engineering-documents-should-not-be-like-snowflakes/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Wed, 20 Jan 2016 14:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spin(7)-instanton]]></title>
+            <guid isPermaLink="false">Spin(7)-instanton</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 20 Jan 2016 14:13:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Discrete Mathematics and Big Data]]></title>
@@ -3613,13 +3613,6 @@ Some of the...]]></title>
             <guid isPermaLink="false">http://www.abstractmath.org/Word%20Press/?p=10012</guid>
             <dc:creator><![CDATA[Gyre&Gimble]]></dc:creator>
             <pubDate>Tue, 22 Dec 2015 17:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Relations & Their Relatives : 19]]></title>
-            <link>http://inquiryintoinquiry.com/2015/12/22/relations-their-relatives-19/</link>
-            <guid isPermaLink="false">http://inquiryintoinquiry.com/2015/12/22/relations-their-relatives-19/</guid>
-            <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
-            <pubDate>Tue, 22 Dec 2015 17:00:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
