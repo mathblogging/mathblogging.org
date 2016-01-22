@@ -5,10 +5,19 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 21:34:06 GMT</lastBuildDate>
-        <pubDate>Fri, 22 Jan 2016 21:34:03 GMT</pubDate>
+        <lastBuildDate>Fri, 22 Jan 2016 22:19:21 GMT</lastBuildDate>
+        <pubDate>Fri, 22 Jan 2016 22:19:18 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[centerofmath:
+
+½ + ¼ + 1/8 + 1/16 + 1/32 + 1/64 … all in one...]]></title>
+            <link>http://milwardh.tumblr.com/post/137836230664</link>
+            <guid isPermaLink="false">http://milwardh.tumblr.com/post/137836230664</guid>
+            <dc:creator><![CDATA[YofX]]></dc:creator>
+            <pubDate>Fri, 22 Jan 2016 22:00:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Catch 22]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/BKe4O7UwbSE/catch-22.html</link>
@@ -920,13 +929,6 @@ Mathematica code:A[N_, t_] := Graphics[   Table[  ...]]></title>
             <pubDate>Thu, 07 Jan 2016 01:42:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["I got this online, so if you find this out there, don’t think I’m a hack. Full credit to..."]]></title>
-            <link>http://milwardh.tumblr.com/post/136769306867</link>
-            <guid isPermaLink="false">http://milwardh.tumblr.com/post/136769306867</guid>
-            <dc:creator><![CDATA[YofX]]></dc:creator>
-            <pubDate>Wed, 06 Jan 2016 22:00:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Icicle Distributions]]></title>
             <link>http://mathtourist.blogspot.com/2016/01/icicle-distributions.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/01/icicle-distributions.html</guid>
@@ -1375,13 +1377,6 @@ Some of the...]]></title>
             <guid isPermaLink="false">http://visualizingmath.tumblr.com/post/135743548111</guid>
             <dc:creator><![CDATA[Visualizing Math]]></dc:creator>
             <pubDate>Wed, 23 Dec 2015 00:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serendipity]]></title>
-            <link>http://www.logicmatters.net/2015/12/22/serendipity/</link>
-            <guid isPermaLink="false">http://www.logicmatters.net/2015/12/22/serendipity/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Tue, 22 Dec 2015 21:37:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
