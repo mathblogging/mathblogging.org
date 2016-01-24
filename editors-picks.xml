@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 03:05:33 GMT</lastBuildDate>
-        <pubDate>Sun, 24 Jan 2016 03:05:29 GMT</pubDate>
+        <lastBuildDate>Sun, 24 Jan 2016 03:19:11 GMT</lastBuildDate>
+        <pubDate>Sun, 24 Jan 2016 03:19:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -92,6 +92,13 @@ Great data investigation by @drhagen!
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[.@christianp over @aperiodical giving us their top posts of 2015 https://t.co/dFaSIUVUkZ #mbpick]]></description>
+            <guid isPermaLink="false">http://aperiodical.com/2016/01/our-top-10-posts-from-2015/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Fri, 22 Jan 2016 17:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
             <description><![CDATA[Finally here! #mbpick https://t.co/morgGYvH7i]]></description>
             <guid isPermaLink="false">https://twitter.com/mathblogging/status/677598036709801985</guid>
             <dc:creator><![CDATA[@pkrautz]]></dc:creator>
@@ -117,13 +124,6 @@ Great data investigation by @drhagen!
             <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2015/11/16/meanwhile-over-in-computer-science/</guid>
             <dc:creator><![CDATA[@pkrautz]]></dc:creator>
             <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
@@ -155,11 +155,11 @@ https://t.co/vAuVURnXHL
             <pubDate>Tue, 05 Jan 2016 23:50:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[.@christianp over @aperiodical giving us their top posts of 2015 https://t.co/dFaSIUVUkZ #mbpick]]></description>
-            <guid isPermaLink="false">http://aperiodical.com/2016/01/our-top-10-posts-from-2015/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Fri, 22 Jan 2016 17:12:43 GMT</pubDate>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
