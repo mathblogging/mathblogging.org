@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 14:04:09 GMT</lastBuildDate>
-        <pubDate>Tue, 26 Jan 2016 14:04:06 GMT</pubDate>
+        <lastBuildDate>Tue, 26 Jan 2016 14:19:02 GMT</lastBuildDate>
+        <pubDate>Tue, 26 Jan 2016 14:18:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -22,6 +22,42 @@
             <guid isPermaLink="false">http://ow.ly/W1c76</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
             <pubDate>Thu, 17 Dec 2015 12:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
+https://t.co/CdnBzi0zOi
+#math #mathchat
+#mbpick]]></description>
+            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Terry Tao, on the many meanings of the = sign
+https://t.co/vAuVURnXHL
+#math #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">https://plus.google.com/u/0/+TerenceTao27/posts/6diqmz1JQrB</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Tue, 05 Jan 2016 23:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[The Missing 11th of Every Month
+https://t.co/AP5LV1F1J2
+Great data investigation by @drhagen!
+#math #mathchat #statschat #mbpick]]></description>
+            <guid isPermaLink="false">http://drhagen.com/blog/the-missing-11th-of-the-month/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 02 Jan 2016 14:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[.@christianp over @aperiodical giving us their top posts of 2015 https://t.co/dFaSIUVUkZ #mbpick]]></description>
+            <guid isPermaLink="false">http://aperiodical.com/2016/01/our-top-10-posts-from-2015/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Fri, 22 Jan 2016 17:12:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -45,13 +81,6 @@
             <pubDate>Fri, 20 Nov 2015 12:11:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[Great summary of the graph isomorphism problem breakthrough by @extremefriday #mbpicks https://t.co/mAM5QnFqIV]]></description>
-            <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2015/11/16/meanwhile-over-in-computer-science/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@MrHonner's pick]]></title>
             <description><![CDATA[PSA: Do Not Use the New Prime Number for RSA Encryption, by @evelynjlamb for @sciamblogs
 https://t.co/IZ5zrLwYcR
@@ -60,32 +89,6 @@ https://t.co/IZ5zrLwYcR
             <guid isPermaLink="false">http://blogs.scientificamerican.com/roots-of-unity/psa-do-not-use-the-new-prime-number-for-rsa-encryption/</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Sat, 23 Jan 2016 23:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
-https://t.co/CdnBzi0zOi
-#math #mathchat
-#mbpick]]></description>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Terry Tao, on the many meanings of the = sign
-https://t.co/vAuVURnXHL
-#math #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">https://plus.google.com/u/0/+TerenceTao27/posts/6diqmz1JQrB</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Tue, 05 Jan 2016 23:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[.@christianp over @aperiodical giving us their top posts of 2015 https://t.co/dFaSIUVUkZ #mbpick]]></description>
-            <guid isPermaLink="false">http://aperiodical.com/2016/01/our-top-10-posts-from-2015/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Fri, 22 Jan 2016 17:12:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -138,14 +141,11 @@ https://t.co/vAuVURnXHL
             <pubDate>Fri, 18 Dec 2015 12:55:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[The Missing 11th of Every Month
-https://t.co/AP5LV1F1J2
-Great data investigation by @drhagen!
-#math #mathchat #statschat #mbpick]]></description>
-            <guid isPermaLink="false">http://drhagen.com/blog/the-missing-11th-of-the-month/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 02 Jan 2016 14:18:52 GMT</pubDate>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[Great summary of the graph isomorphism problem breakthrough by @extremefriday #mbpicks https://t.co/mAM5QnFqIV]]></description>
+            <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2015/11/16/meanwhile-over-in-computer-science/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
