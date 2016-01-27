@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:34:03 GMT</lastBuildDate>
-        <pubDate>Wed, 27 Jan 2016 16:34:00 GMT</pubDate>
+        <lastBuildDate>Wed, 27 Jan 2016 16:49:03 GMT</lastBuildDate>
+        <pubDate>Wed, 27 Jan 2016 16:49:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -22,6 +22,32 @@
             <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2015/11/16/meanwhile-over-in-computer-science/</guid>
             <dc:creator><![CDATA[@pkrautz]]></dc:creator>
             <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
+https://t.co/CdnBzi0zOi
+#math #mathchat
+#mbpick]]></description>
+            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Terry Tao, on the many meanings of the = sign
+https://t.co/vAuVURnXHL
+#math #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">https://plus.google.com/u/0/+TerenceTao27/posts/6diqmz1JQrB</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Tue, 05 Jan 2016 23:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Evelyn Lamb for Slate on that latest prime: https://t.co/EIjcoXxyu5 #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">http://slate.me/1nEof6V</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Fri, 22 Jan 2016 22:53:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -46,11 +72,14 @@
             <pubDate>Tue, 05 Jan 2016 12:42:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[#mbpick RT @evelynjlamb Some of my reflections on the abc conjecture and Piper Harron's thesis https://t.co/9xzMWe3QBt]]></description>
-            <guid isPermaLink="false">http://bit.ly/1koRubJ</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 30 Dec 2015 19:08:44 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[PSA: Do Not Use the New Prime Number for RSA Encryption, by @evelynjlamb for @sciamblogs
+https://t.co/IZ5zrLwYcR
+#math #mathchat
+#mbpick]]></description>
+            <guid isPermaLink="false">http://blogs.scientificamerican.com/roots-of-unity/psa-do-not-use-the-new-prime-number-for-rsa-encryption/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 23 Jan 2016 23:35:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -68,39 +97,10 @@
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Evelyn Lamb for Slate on that latest prime: https://t.co/EIjcoXxyu5 #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">http://slate.me/1nEof6V</guid>
+            <description><![CDATA["death of a little known mathematical dilettante" &amp; beautiful geometry: https://t.co/xZU23ZdZkF #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/W1c76</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Fri, 22 Jan 2016 22:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[PSA: Do Not Use the New Prime Number for RSA Encryption, by @evelynjlamb for @sciamblogs
-https://t.co/IZ5zrLwYcR
-#math #mathchat
-#mbpick]]></description>
-            <guid isPermaLink="false">http://blogs.scientificamerican.com/roots-of-unity/psa-do-not-use-the-new-prime-number-for-rsa-encryption/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 23 Jan 2016 23:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
-https://t.co/CdnBzi0zOi
-#math #mathchat
-#mbpick]]></description>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Terry Tao, on the many meanings of the = sign
-https://t.co/vAuVURnXHL
-#math #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">https://plus.google.com/u/0/+TerenceTao27/posts/6diqmz1JQrB</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Tue, 05 Jan 2016 23:50:56 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 12:40:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -132,10 +132,10 @@ https://t.co/vAuVURnXHL
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA["death of a little known mathematical dilettante" &amp; beautiful geometry: https://t.co/xZU23ZdZkF #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/W1c76</guid>
+            <description><![CDATA[#mbpick RT @evelynjlamb Some of my reflections on the abc conjecture and Piper Harron's thesis https://t.co/9xzMWe3QBt]]></description>
+            <guid isPermaLink="false">http://bit.ly/1koRubJ</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 12:40:11 GMT</pubDate>
+            <pubDate>Wed, 30 Dec 2015 19:08:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
