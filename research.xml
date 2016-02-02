@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 23:04:06 GMT</lastBuildDate>
-        <pubDate>Tue, 02 Feb 2016 23:04:01 GMT</pubDate>
+        <lastBuildDate>Tue, 02 Feb 2016 23:34:04 GMT</lastBuildDate>
+        <pubDate>Tue, 02 Feb 2016 23:33:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[expectation-propagation from Les Houches]]></title>
+            <link>https://xianblog.wordpress.com/2016/02/03/expectation-propagation-from-les-houches/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/02/03/expectation-propagation-from-les-houches/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 02 Feb 2016 23:15:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rational powers of positive numbers]]></title>
             <link>http://www.bookofproofs.org/branches/rational-powers-of-positive-numbers/</link>
@@ -387,17 +394,17 @@
             <pubDate>Mon, 01 Feb 2016 04:36:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Five things I learnt this week …]]></title>
-            <link>http://www.logicmatters.net/2016/02/01/five-things-i-learnt-this-week/</link>
-            <guid isPermaLink="false">http://www.logicmatters.net/2016/02/01/five-things-i-learnt-this-week/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introducing Game Theory to my class]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/01/introducing-game-theory-to-my-class/</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/01/introducing-game-theory-to-my-class/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five things I learnt this week …]]></title>
+            <link>http://www.logicmatters.net/2016/02/01/five-things-i-learnt-this-week/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2016/02/01/five-things-i-learnt-this-week/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -923,13 +930,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/7KYB_lSrHZM/138190016050</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Thu, 28 Jan 2016 03:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[love-hate Metropolis algorithm]]></title>
-            <link>https://xianblog.wordpress.com/2016/01/28/love-hate-metropolis-algorithm/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/01/28/love-hate-metropolis-algorithm/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 27 Jan 2016 23:16:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Minsky The Theorist]]></title>
@@ -1758,17 +1758,17 @@ in vakil’s algebraic geometry notes, the chapter on adjoints only...]]></title
             <pubDate>Thu, 21 Jan 2016 13:17:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Snow day?]]></title>
-            <link>http://gottwurfelt.com/2016/01/21/1889/</link>
-            <guid isPermaLink="false">http://gottwurfelt.com/2016/01/21/1889/</guid>
-            <dc:creator><![CDATA[God plays dice]]></dc:creator>
-            <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sometimes the side effects matter]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snow day?]]></title>
+            <link>http://gottwurfelt.com/2016/01/21/1889/</link>
+            <guid isPermaLink="false">http://gottwurfelt.com/2016/01/21/1889/</guid>
+            <dc:creator><![CDATA[God plays dice]]></dc:creator>
             <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
