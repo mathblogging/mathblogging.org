@@ -9,6 +9,10 @@ From research to recreation, from teaching to technology, from visual to virtual
 
 We have collected over 600 blogs and other news sources in one place. That number is steadily growing, and we invite you to submit even more! Meanwhile our editors showcase their favorite articles ([home](/)) and sites ([featured](/featured.html)). Our goal is to be the best place to seek out math-related content on the web.
 
+## Submit your blog!
+
+If you are writing about mathy things, we are happy to include you here on mathblogging.org. Either [write us an email](mailto:mathblogging.network@gmail.com) or send us a tweet [@mathblogging](https://twitter.com/mathblogging).
+
 ## Our team of editors
 
 **Dana Ernst** is a professor of mathematics at <a href="http://nau.edu">Northern Arizona University</a> in Flagstaff, AZ, and blogs at <a href="danaernst.com">danaernst.com</a>. Dana is passionate about mathematics education and his scholarly activities include topics in this area. In particular, he is interested in <a href="http://maamathedmatters.blogspot.com/2013/05/what-heck-is-ibl.html">inquiry-based learning</a> (IBL) as a method for teaching mathematics. Dana is also a Special Projects Coordinator for the <a href="http://www.inquirybasedlearning.org/">Academy of Inquiry-Based Learning</a> and actively gives <a href="http://danaernst.com/category/talks">talks</a> and organizes workshops on the benefits of IBL as well as the nuts and bolts of how to implement this approach in the mathematics classroom. Together with Angie Hodge, Dana is a coauthor for <a href="http://maamathedmatters.blogspot.com/">Math Ed Matters</a>, which is a (roughly) monthly column sponsored by the <a href="http://maa.org">MAA</a>. Lastly, Dana is an avid cyclist, trail runner, and rock climber. Oh, and he enjoys drinking copious amounts of coffee.
