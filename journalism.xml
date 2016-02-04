@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 11:49:01 GMT</lastBuildDate>
-        <pubDate>Thu, 04 Feb 2016 11:48:59 GMT</pubDate>
+        <lastBuildDate>Thu, 04 Feb 2016 12:34:03 GMT</lastBuildDate>
+        <pubDate>Thu, 04 Feb 2016 12:33:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The one great thing about unfair algorithms]]></title>
+            <link>http://mathbabe.org/2016/02/04/the-one-great-thing-about-unfair-algorithms/</link>
+            <guid isPermaLink="false">http://mathbabe.org/2016/02/04/the-one-great-thing-about-unfair-algorithms/</guid>
+            <dc:creator><![CDATA[mathbabe]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 11:50:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Law of the Broken Futon]]></title>
             <link>http://horizonsaftermath.blogspot.com/2016/02/the-law-of-broken-futon.html</link>
@@ -1179,13 +1186,6 @@
             <pubDate>Fri, 15 Jan 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The SHSAT matching algorithm isn’t that hard]]></title>
-            <link>http://mathbabe.org/2016/01/15/the-shsat-matching-algorithm-isnt-that-hard/</link>
-            <guid isPermaLink="false">http://mathbabe.org/2016/01/15/the-shsat-matching-algorithm-isnt-that-hard/</guid>
-            <dc:creator><![CDATA[mathbabe]]></dc:creator>
-            <pubDate>Fri, 15 Jan 2016 13:26:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The maths of February 29]]></title>
             <link>https://plus.maths.org/content/maths-february-29</link>
             <guid isPermaLink="false">https://plus.maths.org/content/maths-february-29</guid>
@@ -1478,13 +1478,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/wsj/numbersguy/feed/~3/GgUSTYXKleE/</guid>
             <dc:creator><![CDATA[The Numbers]]></dc:creator>
             <pubDate>Mon, 04 Jan 2016 17:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WSMoreOrLess: Numbers of the Year 2015 Part 2]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcw3q.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03dcw3q.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2016 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
