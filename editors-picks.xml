@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 16:49:03 GMT</lastBuildDate>
-        <pubDate>Sat, 06 Feb 2016 16:48:58 GMT</pubDate>
+        <lastBuildDate>Sat, 06 Feb 2016 17:19:02 GMT</lastBuildDate>
+        <pubDate>Sat, 06 Feb 2016 17:18:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -17,11 +17,14 @@
             <pubDate>Mon, 01 Feb 2016 20:02:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
+https://t.co/CdnBzi0zOi
+#math #mathchat
+#mbpick]]></description>
+            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -52,6 +55,13 @@
             <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[Brian Hayes, always interesting, in some geeky way: https://t.co/fSqcmNZGFM #mbpick #math]]></description>
             <guid isPermaLink="false">http://ow.ly/XXny2</guid>
@@ -66,18 +76,19 @@
             <pubDate>Wed, 03 Feb 2016 13:03:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Evelyn Lamb for Slate on that latest prime: https://t.co/EIjcoXxyu5 #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">http://slate.me/1nEof6V</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Fri, 22 Jan 2016 22:53:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@pkrautz's pick]]></title>
             <description><![CDATA[.@christianp over @aperiodical giving us their top posts of 2015 https://t.co/dFaSIUVUkZ #mbpick]]></description>
             <guid isPermaLink="false">http://aperiodical.com/2016/01/our-top-10-posts-from-2015/</guid>
             <dc:creator><![CDATA[@pkrautz]]></dc:creator>
             <pubDate>Fri, 22 Jan 2016 17:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Ben Orlin takes us on a number journey, and what a journey it is: https://t.co/6DSZ2BgZbI 
+#mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/XiYQY</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Wed, 20 Jan 2016 12:20:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -125,22 +136,11 @@ https://t.co/IZ5zrLwYcR
             <pubDate>Sat, 23 Jan 2016 23:35:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
-https://t.co/CdnBzi0zOi
-#math #mathchat
-#mbpick]]></description>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Ben Orlin takes us on a number journey, and what a journey it is: https://t.co/6DSZ2BgZbI 
-#mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/XiYQY</guid>
+            <description><![CDATA[Evelyn Lamb for Slate on that latest prime: https://t.co/EIjcoXxyu5 #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">http://slate.me/1nEof6V</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 20 Jan 2016 12:20:17 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 22:53:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
