@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;seeing they got a prob correct on an exit slip doesn’t alw clearly tell me who&#39;s struggling...&quot; <a href="https://twitter.com/PIspeak">@PIspeak</a> <a href="https://t.co/DvIHNNLFCW">https://t.co/DvIHNNLFCW</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/696162886834475008">February 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Brian Hayes, always interesting, in some geeky way: <a href="https://t.co/fSqcmNZGFM">https://t.co/fSqcmNZGFM</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> <a href="https://twitter.com/hashtag/math?src=hash">#math</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/695325690607042560">February 4, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">No, you haven&#39;t read enough about Moebius strips until you&#39;ve read Evelyn Lamb&#39;s take: <a href="https://t.co/Srk7uoGzm4">https://t.co/Srk7uoGzm4</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/694868844188430336">February 3, 2016</a></blockquote>
