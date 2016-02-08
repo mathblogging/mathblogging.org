@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 21:49:09 GMT</lastBuildDate>
-        <pubDate>Mon, 08 Feb 2016 21:49:04 GMT</pubDate>
+        <lastBuildDate>Mon, 08 Feb 2016 22:04:08 GMT</lastBuildDate>
+        <pubDate>Mon, 08 Feb 2016 22:04:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The Moral Hazard of Avoiding Complexity Assumptions]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/02/the-moral-hazard-of-avoiding-complexity.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/02/the-moral-hazard-of-avoiding-complexity.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Mon, 08 Feb 2016 21:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[algebraic structure of rational numbers together with addition and multiplication proof 1]]></title>
+            <link>http://www.bookofproofs.org/branches/algebraic-structure-of-rational-numbers-together-with-addition-and-multiplication/proof-1/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/algebraic-structure-of-rational-numbers-together-with-addition-and-multiplication/proof-1/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 08 Feb 2016 21:49:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Silence]]></title>
             <link>https://cameroncounts.wordpress.com/2016/02/08/silence/</link>
@@ -397,13 +411,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/algebraic-structure-of-real-numbers-together-with-addition/proof/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Sun, 07 Feb 2016 13:24:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[algebraic structure of real numbers together with addition and multiplication]]></title>
-            <link>http://www.bookofproofs.org/branches/algebraic-structure-of-real-numbers-together-with-addition-and-multiplication/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/algebraic-structure-of-real-numbers-together-with-addition-and-multiplication/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 07 Feb 2016 12:43:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photo]]></title>
@@ -924,17 +931,17 @@ Cézanne was always looking for the most convincing...]]></title>
             <pubDate>Thu, 04 Feb 2016 00:01:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Playing against a mixed strategy in class]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Six Roll Dice Game]]></title>
             <link>http://datagenetics.com/blog/february12016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playing against a mixed strategy in class]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1869,17 +1876,17 @@ two...]]></title>
             <pubDate>Thu, 28 Jan 2016 13:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We Still Can't Beat Relativization]]></title>
-            <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Still Can't Beat Relativization]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
         </item>
         <item>
@@ -3497,17 +3504,17 @@ my drawing...]]></title>
             <pubDate>Thu, 14 Jan 2016 01:00:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Defective Circuit Board Puzzle]]></title>
-            <link>http://datagenetics.com/blog/january32016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january32016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A short intro to the method of characteristics]]></title>
             <link>//2016/01/14/method-of-characteristics.html</link>
             <guid isPermaLink="false">//2016/01/14/method-of-characteristics.html</guid>
             <dc:creator><![CDATA[Untitled RSS Feed]]></dc:creator>
+            <pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defective Circuit Board Puzzle]]></title>
+            <link>http://datagenetics.com/blog/january32016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january32016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
