@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 10:19:11 GMT</lastBuildDate>
-        <pubDate>Mon, 08 Feb 2016 10:19:06 GMT</pubDate>
+        <lastBuildDate>Mon, 08 Feb 2016 10:49:08 GMT</lastBuildDate>
+        <pubDate>Mon, 08 Feb 2016 10:49:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Dirac equation: non-relativistic limit]]></title>
+            <link>http://www.physicspages.com/2016/02/08/dirac-equation-non-relativistic-limit/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2016/02/08/dirac-equation-non-relativistic-limit/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Mon, 08 Feb 2016 10:28:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who owns a review, and who's having the conversation ?]]></title>
             <link>http://feedproxy.google.com/~r/TheGeomblog/~3/nEATfe-Ef08/who-owns-review-and-whos-having.html</link>
@@ -733,6 +740,12 @@ The paper in question seems to ignore Mac Lane&rsquo;s Dictum:...]]></title>
             <pubDate>Thu, 04 Feb 2016 09:43:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stable homotopy and generalised homology]]></title>
+            <guid isPermaLink="false">Stable homotopy and generalised homology</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 09:34:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Finding your place on a map as quickly as you could tell someone where you are]]></title>
             <link>http://11011110.livejournal.com/324449.html</link>
             <guid isPermaLink="false">http://11011110.livejournal.com/324449.html</guid>
@@ -1283,17 +1296,17 @@ two...]]></title>
             <pubDate>Mon, 01 Feb 2016 04:36:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Five things I learnt this week …]]></title>
-            <link>http://www.logicmatters.net/2016/02/01/five-things-i-learnt-this-week/</link>
-            <guid isPermaLink="false">http://www.logicmatters.net/2016/02/01/five-things-i-learnt-this-week/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introducing Game Theory to my class]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/01/introducing-game-theory-to-my-class/</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/01/introducing-game-theory-to-my-class/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five things I learnt this week …]]></title>
+            <link>http://www.logicmatters.net/2016/02/01/five-things-i-learnt-this-week/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2016/02/01/five-things-i-learnt-this-week/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1716,17 +1729,17 @@ two...]]></title>
             <pubDate>Thu, 28 Jan 2016 13:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We Still Can't Beat Relativization]]></title>
             <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
         </item>
         <item>
@@ -1964,13 +1977,6 @@ why do undergrads have such an aversion to stapling their...]]></title>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/01/27/UNAM-Mathematics-Summer-School/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Wed, 27 Jan 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dirac equation: orthogonality of solutions]]></title>
-            <link>http://www.physicspages.com/2016/01/26/dirac-equation-orthogonality-of-solutions/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2016/01/26/dirac-equation-orthogonality-of-solutions/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Tue, 26 Jan 2016 17:34:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zombie postscript]]></title>
@@ -3379,17 +3385,17 @@ my drawing...]]></title>
             <pubDate>Thu, 14 Jan 2016 01:00:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Defective Circuit Board Puzzle]]></title>
-            <link>http://datagenetics.com/blog/january32016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january32016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A short intro to the method of characteristics]]></title>
             <link>//2016/01/14/method-of-characteristics.html</link>
             <guid isPermaLink="false">//2016/01/14/method-of-characteristics.html</guid>
             <dc:creator><![CDATA[Untitled RSS Feed]]></dc:creator>
+            <pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defective Circuit Board Puzzle]]></title>
+            <link>http://datagenetics.com/blog/january32016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january32016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
