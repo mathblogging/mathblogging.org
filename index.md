@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Not too late to change your <a href="https://twitter.com/superbowl50">@superbowl50</a> squares to mod 9 or 6! <a href="https://t.co/2pl5d6C6B3">https://t.co/2pl5d6C6B3</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/696164421144432640">February 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Ooh! <a href="https://twitter.com/stecks">@stecks</a> starts &quot;Open Season&quot; <a href="https://twitter.com/aperiodical">@aperiodical</a> about open problems in mathematics. Strong start: Pancakes!<a href="https://t.co/hnTpq18GNt">https://t.co/hnTpq18GNt</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/696982225817104385">February 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Not too late to change your <a href="https://twitter.com/superbowl50">@superbowl50</a> squares to mod 9 or 6! <a href="https://t.co/2pl5d6C6B3">https://t.co/2pl5d6C6B3</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/696164421144432640">February 7, 2016</a></blockquote>
