@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 14:04:14 GMT</lastBuildDate>
-        <pubDate>Thu, 11 Feb 2016 14:04:09 GMT</pubDate>
+        <lastBuildDate>Thu, 11 Feb 2016 14:19:16 GMT</lastBuildDate>
+        <pubDate>Thu, 11 Feb 2016 14:19:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[In general, hypothesis testing is overrated and hypothesis generation is underrated, so it’s fine for these data to be collected with exploration in mind.]]></title>
+            <link>http://andrewgelman.com/2016/02/11/in-general-hypothesis-testing-is-overrated-and-hypothesis-generation-is-underrated-so-its-fine-for-these-data-to-be-collected-with-exploration-in-mind/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/02/11/in-general-hypothesis-testing-is-overrated-and-hypothesis-generation-is-underrated-so-its-fine-for-these-data-to-be-collected-with-exploration-in-mind/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 11 Feb 2016 14:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test of Time Award- a good idea but...]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/02/test-of-time-award-good-idea-but.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/02/test-of-time-award-good-idea-but.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 11 Feb 2016 14:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CS294 Lecture 7: Higher order Cheeger inequality, cont’d]]></title>
             <link>https://lucatrevisan.wordpress.com/2016/02/11/cs294-lecture-7-higher-order-cheeger-inequality-contd/</link>
@@ -24,7 +38,7 @@
             <pubDate>Thu, 11 Feb 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cluster of French Cities (based on Temperatures)]]></title>
+            <title><![CDATA[Clustering French Cities (based on Temperatures)]]></title>
             <link>http://freakonometrics.hypotheses.org/48042</link>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48042</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
@@ -2275,17 +2289,17 @@ two...]]></title>
             <pubDate>Thu, 28 Jan 2016 13:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We Still Can't Beat Relativization]]></title>
             <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
         </item>
         <item>
@@ -3045,17 +3059,17 @@ in vakil’s algebraic geometry notes, the chapter on adjoints only...]]></title
             <pubDate>Thu, 21 Jan 2016 13:17:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sometimes the side effects matter]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Snow day?]]></title>
             <link>http://gottwurfelt.com/2016/01/21/1889/</link>
             <guid isPermaLink="false">http://gottwurfelt.com/2016/01/21/1889/</guid>
             <dc:creator><![CDATA[God plays dice]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sometimes the side effects matter]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3866,13 +3880,6 @@ my drawing...]]></title>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/47795</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 13 Jan 2016 15:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pro-PACE, anti-PACE]]></title>
-            <link>http://andrewgelman.com/2016/01/13/pro-pace/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/01/13/pro-pace/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 13 Jan 2016 14:56:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Traffic Myths]]></title>
