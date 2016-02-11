@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 10:49:12 GMT</lastBuildDate>
-        <pubDate>Thu, 11 Feb 2016 10:49:07 GMT</pubDate>
+        <lastBuildDate>Thu, 11 Feb 2016 11:04:07 GMT</lastBuildDate>
+        <pubDate>Thu, 11 Feb 2016 11:04:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -15,13 +15,6 @@
             <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
             <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
             <pubDate>Sun, 07 Feb 2016 02:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[Great summary of the graph isomorphism problem breakthrough by @extremefriday #mbpicks https://t.co/mAM5QnFqIV]]></description>
-            <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2015/11/16/meanwhile-over-in-computer-science/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@danaernst's pick]]></title>
@@ -88,18 +81,18 @@
             <pubDate>Wed, 30 Dec 2015 12:00:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[RT @fawnpnguyen: Not too late to change your @superbowl50 squares to mod 9 or 6! https://t.co/2pl5d6C6B3 #mbpick]]></description>
+            <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sun, 07 Feb 2016 12:21:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@fawnpnguyen's pick]]></title>
             <description><![CDATA["seeing they got a prob correct on an exit slip doesn’t alw clearly tell me who's struggling..." @PIspeak https://t.co/DvIHNNLFCW #mbpick]]></description>
             <guid isPermaLink="false">https://clopendebate.wordpress.com/2016/02/06/thinking-on-exit-slips/</guid>
             <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
             <pubDate>Sun, 07 Feb 2016 02:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[RT @SheckyR: No, you haven't read enough about Moebius strips until you've read Evelyn Lamb's take: https://t.co/Srk7uoGzm4 #mbpick #mathch…]]></description>
-            <guid isPermaLink="false">http://ow.ly/XTeTa</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 01:32:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
@@ -172,11 +165,18 @@ https://t.co/hnTpq18GNt #mbpick]]></description>
             <pubDate>Fri, 20 Nov 2015 12:11:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[Great summary of the graph isomorphism problem breakthrough by @extremefriday #mbpicks https://t.co/mAM5QnFqIV]]></description>
+            <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2015/11/16/meanwhile-over-in-computer-science/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[RT @fawnpnguyen: Not too late to change your @superbowl50 squares to mod 9 or 6! https://t.co/2pl5d6C6B3 #mbpick]]></description>
-            <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
+            <description><![CDATA[RT @SheckyR: No, you haven't read enough about Moebius strips until you've read Evelyn Lamb's take: https://t.co/Srk7uoGzm4 #mbpick #mathch…]]></description>
+            <guid isPermaLink="false">http://ow.ly/XTeTa</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sun, 07 Feb 2016 12:21:25 GMT</pubDate>
+            <pubDate>Thu, 04 Feb 2016 01:32:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
