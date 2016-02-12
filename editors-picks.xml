@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 18:19:14 GMT</lastBuildDate>
-        <pubDate>Fri, 12 Feb 2016 18:19:11 GMT</pubDate>
+        <lastBuildDate>Fri, 12 Feb 2016 18:34:07 GMT</lastBuildDate>
+        <pubDate>Fri, 12 Feb 2016 18:34:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -17,11 +17,14 @@
             <pubDate>Sun, 07 Feb 2016 02:51:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[John Horgan's take on #Bayes Theorem: https://t.co/2f3ws1s0YC #mathed #mbpick #statistics #mathchat]]></description>
-            <guid isPermaLink="false">http://ow.ly/WE5jO</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 05 Jan 2016 12:42:15 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
+https://t.co/CdnBzi0zOi
+#math #mathchat
+#mbpick]]></description>
+            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@danaernst's pick]]></title>
@@ -88,40 +91,6 @@ https://t.co/hnTpq18GNt #mbpick]]></description>
             <pubDate>Sun, 07 Feb 2016 02:45:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[RT @fawnpnguyen: Not too late to change your @superbowl50 squares to mod 9 or 6! https://t.co/2pl5d6C6B3 #mbpick]]></description>
-            <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sun, 07 Feb 2016 12:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[RT @SheckyR: No, you haven't read enough about Moebius strips until you've read Evelyn Lamb's take: https://t.co/Srk7uoGzm4 #mbpick #mathch…]]></description>
-            <guid isPermaLink="false">http://ow.ly/XTeTa</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 01:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[PSA: Do Not Use the New Prime Number for RSA Encryption, by @evelynjlamb for @sciamblogs
-https://t.co/IZ5zrLwYcR
-#math #mathchat
-#mbpick]]></description>
-            <guid isPermaLink="false">http://blogs.scientificamerican.com/roots-of-unity/psa-do-not-use-the-new-prime-number-for-rsa-encryption/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 23 Jan 2016 23:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
-https://t.co/CdnBzi0zOi
-#math #mathchat
-#mbpick]]></description>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[Brian Hayes, always interesting, in some geeky way: https://t.co/fSqcmNZGFM #mbpick #math]]></description>
             <guid isPermaLink="false">http://ow.ly/XXny2</guid>
@@ -156,6 +125,37 @@ https://t.co/CdnBzi0zOi
             <guid isPermaLink="false">http://ow.ly/WVedu</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
             <pubDate>Mon, 11 Jan 2016 22:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[John Horgan's take on #Bayes Theorem: https://t.co/2f3ws1s0YC #mathed #mbpick #statistics #mathchat]]></description>
+            <guid isPermaLink="false">http://ow.ly/WE5jO</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Tue, 05 Jan 2016 12:42:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[RT @fawnpnguyen: Not too late to change your @superbowl50 squares to mod 9 or 6! https://t.co/2pl5d6C6B3 #mbpick]]></description>
+            <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sun, 07 Feb 2016 12:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[RT @SheckyR: No, you haven't read enough about Moebius strips until you've read Evelyn Lamb's take: https://t.co/Srk7uoGzm4 #mbpick #mathch…]]></description>
+            <guid isPermaLink="false">http://ow.ly/XTeTa</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 01:32:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[PSA: Do Not Use the New Prime Number for RSA Encryption, by @evelynjlamb for @sciamblogs
+https://t.co/IZ5zrLwYcR
+#math #mathchat
+#mbpick]]></description>
+            <guid isPermaLink="false">http://blogs.scientificamerican.com/roots-of-unity/psa-do-not-use-the-new-prime-number-for-rsa-encryption/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 23 Jan 2016 23:35:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
