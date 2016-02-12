@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 14:49:11 GMT</lastBuildDate>
-        <pubDate>Fri, 12 Feb 2016 14:49:06 GMT</pubDate>
+        <lastBuildDate>Fri, 12 Feb 2016 15:19:09 GMT</lastBuildDate>
+        <pubDate>Fri, 12 Feb 2016 15:19:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[“Priming Effects Replicate Just Fine, Thanks”]]></title>
+            <link>http://andrewgelman.com/2016/02/12/priming-effects-replicate-just-fine-thanks/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/02/12/priming-effects-replicate-just-fine-thanks/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 12 Feb 2016 14:30:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rees matrix semigroup]]></title>
             <guid isPermaLink="false">Rees matrix semigroup</guid>
@@ -1282,6 +1289,12 @@ sphere tangle]]></title>
             <pubDate>Fri, 05 Feb 2016 22:07:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Weiss topology]]></title>
+            <guid isPermaLink="false">Weiss topology</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 05 Feb 2016 19:00:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Biden’s cancer bid exposes rift among researchers]]></title>
             <link>http://reproducibleresearch.net/2016/02/05/bidens-cancer-bid-exposes-rift-among-researchers/</link>
             <guid isPermaLink="false">http://reproducibleresearch.net/2016/02/05/bidens-cancer-bid-exposes-rift-among-researchers/</guid>
@@ -1570,17 +1583,17 @@ Cézanne was always looking for the most convincing...]]></title>
             <pubDate>Thu, 04 Feb 2016 00:01:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Playing against a mixed strategy in class]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Six Roll Dice Game]]></title>
             <link>http://datagenetics.com/blog/february12016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playing against a mixed strategy in class]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2466,17 +2479,17 @@ two...]]></title>
             <pubDate>Thu, 28 Jan 2016 13:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We Still Can't Beat Relativization]]></title>
-            <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Still Can't Beat Relativization]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
         </item>
         <item>
@@ -3875,13 +3888,6 @@ my drawing...]]></title>
             <guid isPermaLink="false">http://www.newappsblog.com/2016/01/gender-sex-and-heart-health.html</guid>
             <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
             <pubDate>Thu, 14 Jan 2016 20:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MTA sucks]]></title>
-            <link>http://andrewgelman.com/2016/01/14/mta-sucks/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/01/14/mta-sucks/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 14 Jan 2016 20:19:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The chocolate bar game]]></title>
