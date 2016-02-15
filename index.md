@@ -41,6 +41,4 @@ title: Editor's picks
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Portrait of NASA mathematician Katherine Johnson h/t <a href="https://twitter.com/QuantaMagazine">@QuantaMagazine</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a> <a href="https://t.co/P2zVrmaSdI">https://t.co/P2zVrmaSdI</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/667676599383379968">November 20, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Great summary of the graph isomorphism problem breakthrough by <a href="https://twitter.com/extremefriday">@extremefriday</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a> <a href="https://t.co/mAM5QnFqIV">https://t.co/mAM5QnFqIV</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/667676246680190976">November 20, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p> <a href="editors-picks.xml">Grab the feed for our Editors' Picks!</a></p>
