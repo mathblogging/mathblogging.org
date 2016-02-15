@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 00:49:08 GMT</lastBuildDate>
-        <pubDate>Mon, 15 Feb 2016 00:49:05 GMT</pubDate>
+        <lastBuildDate>Mon, 15 Feb 2016 01:04:12 GMT</lastBuildDate>
+        <pubDate>Mon, 15 Feb 2016 01:04:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -17,11 +17,25 @@
             <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[Great summary of the graph isomorphism problem breakthrough by @extremefriday #mbpicks https://t.co/mAM5QnFqIV]]></description>
+            <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2015/11/16/meanwhile-over-in-computer-science/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@fawnpnguyen's pick]]></title>
             <description><![CDATA["seeing they got a prob correct on an exit slip doesn’t alw clearly tell me who's struggling..." @PIspeak https://t.co/DvIHNNLFCW #mbpick]]></description>
             <guid isPermaLink="false">https://clopendebate.wordpress.com/2016/02/06/thinking-on-exit-slips/</guid>
             <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
             <pubDate>Sun, 07 Feb 2016 02:45:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Brian Hayes, always interesting, in some geeky way: https://t.co/fSqcmNZGFM #mbpick #math]]></description>
+            <guid isPermaLink="false">http://ow.ly/XXny2</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 19:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -53,6 +67,37 @@
             <pubDate>Mon, 11 Jan 2016 22:00:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[RT @fawnpnguyen: Not too late to change your @superbowl50 squares to mod 9 or 6! https://t.co/2pl5d6C6B3 #mbpick]]></description>
+            <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sun, 07 Feb 2016 12:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[RT @SheckyR: No, you haven't read enough about Moebius strips until you've read Evelyn Lamb's take: https://t.co/Srk7uoGzm4 #mbpick #mathch…]]></description>
+            <guid isPermaLink="false">http://ow.ly/XTeTa</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 01:32:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@fawnpnguyen's pick]]></title>
+            <description><![CDATA[Not too late to change your @superbowl50 squares to mod 9 or 6! https://t.co/2pl5d6C6B3 #mbpick]]></description>
+            <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
+            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
+            <pubDate>Sun, 07 Feb 2016 02:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
+https://t.co/CdnBzi0zOi
+#math #mathchat
+#mbpick]]></description>
+            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@pkrautz's pick]]></title>
             <description><![CDATA[RT @fawnpnguyen: Not too late to change your @superbowl50 squares to mod 9 or 6! https://t.co/2pl5d6C6B3 #mbpick]]></description>
             <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
@@ -82,11 +127,11 @@ https://t.co/hnTpq18GNt #mbpick]]></description>
             <pubDate>Fri, 22 Jan 2016 17:12:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Brian Hayes, always interesting, in some geeky way: https://t.co/fSqcmNZGFM #mbpick #math]]></description>
-            <guid isPermaLink="false">http://ow.ly/XXny2</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 19:18:57 GMT</pubDate>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[Finally here! #mbpick https://t.co/morgGYvH7i]]></description>
+            <guid isPermaLink="false">https://twitter.com/mathblogging/status/677598036709801985</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 21:16:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -103,27 +148,6 @@ https://t.co/hnTpq18GNt #mbpick]]></description>
             <pubDate>Fri, 20 Nov 2015 12:11:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[Great summary of the graph isomorphism problem breakthrough by @extremefriday #mbpicks https://t.co/mAM5QnFqIV]]></description>
-            <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2015/11/16/meanwhile-over-in-computer-science/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2015 12:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[RT @fawnpnguyen: Not too late to change your @superbowl50 squares to mod 9 or 6! https://t.co/2pl5d6C6B3 #mbpick]]></description>
-            <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sun, 07 Feb 2016 12:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[RT @SheckyR: No, you haven't read enough about Moebius strips until you've read Evelyn Lamb's take: https://t.co/Srk7uoGzm4 #mbpick #mathch…]]></description>
-            <guid isPermaLink="false">http://ow.ly/XTeTa</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 01:32:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@MrHonner's pick]]></title>
             <description><![CDATA[PSA: Do Not Use the New Prime Number for RSA Encryption, by @evelynjlamb for @sciamblogs
 https://t.co/IZ5zrLwYcR
@@ -132,30 +156,6 @@ https://t.co/IZ5zrLwYcR
             <guid isPermaLink="false">http://blogs.scientificamerican.com/roots-of-unity/psa-do-not-use-the-new-prime-number-for-rsa-encryption/</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Sat, 23 Jan 2016 23:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Fascinating post by @JSEllenberg on Google's word2vec, a vector space of 100 billion words
-https://t.co/CdnBzi0zOi
-#math #mathchat
-#mbpick]]></description>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 16 Jan 2016 00:56:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@fawnpnguyen's pick]]></title>
-            <description><![CDATA[Not too late to change your @superbowl50 squares to mod 9 or 6! https://t.co/2pl5d6C6B3 #mbpick]]></description>
-            <guid isPermaLink="false">http://gottwurfelt.com/2016/02/06/super-bowl-squares-with-other-moduli/</guid>
-            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
-            <pubDate>Sun, 07 Feb 2016 02:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[Finally here! #mbpick https://t.co/morgGYvH7i]]></description>
-            <guid isPermaLink="false">https://twitter.com/mathblogging/status/677598036709801985</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 21:16:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
