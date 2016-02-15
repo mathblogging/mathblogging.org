@@ -5,10 +5,16 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 12:19:09 GMT</lastBuildDate>
-        <pubDate>Mon, 15 Feb 2016 12:19:05 GMT</pubDate>
+        <lastBuildDate>Mon, 15 Feb 2016 12:49:14 GMT</lastBuildDate>
+        <pubDate>Mon, 15 Feb 2016 12:49:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[complex projective space]]></title>
+            <guid isPermaLink="false">complex projective space</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 15 Feb 2016 12:34:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Types of nonlinearity in PDEs]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/Xu2Sr3HRIyw/</link>
@@ -231,18 +237,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/existence-of-inverse-rational-numbers-with-respect-to-multiplication/proof/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Sun, 14 Feb 2016 12:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[composition series]]></title>
-            <guid isPermaLink="false">composition series</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 14 Feb 2016 07:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[object of finite length]]></title>
-            <guid isPermaLink="false">object of finite length</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 14 Feb 2016 07:32:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Encore #7: Postcards from Siena]]></title>
@@ -1871,17 +1865,17 @@ Cézanne was always looking for the most convincing...]]></title>
             <pubDate>Thu, 04 Feb 2016 00:01:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Playing against a mixed strategy in class]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Six Roll Dice Game]]></title>
             <link>http://datagenetics.com/blog/february12016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playing against a mixed strategy in class]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2719,17 +2713,17 @@ two...]]></title>
             <pubDate>Thu, 28 Jan 2016 13:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We Still Can't Beat Relativization]]></title>
             <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
         </item>
         <item>
@@ -3447,17 +3441,17 @@ in vakil’s algebraic geometry notes, the chapter on adjoints only...]]></title
             <pubDate>Thu, 21 Jan 2016 13:17:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Snow day?]]></title>
-            <link>http://gottwurfelt.com/2016/01/21/1889/</link>
-            <guid isPermaLink="false">http://gottwurfelt.com/2016/01/21/1889/</guid>
-            <dc:creator><![CDATA[God plays dice]]></dc:creator>
-            <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sometimes the side effects matter]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/sometimes-side-effects-matter.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snow day?]]></title>
+            <link>http://gottwurfelt.com/2016/01/21/1889/</link>
+            <guid isPermaLink="false">http://gottwurfelt.com/2016/01/21/1889/</guid>
+            <dc:creator><![CDATA[God plays dice]]></dc:creator>
             <pubDate>Thu, 21 Jan 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
