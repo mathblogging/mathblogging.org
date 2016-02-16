@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:19:43 GMT</lastBuildDate>
-        <pubDate>Tue, 16 Feb 2016 23:19:39 GMT</pubDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:49:46 GMT</lastBuildDate>
+        <pubDate>Tue, 16 Feb 2016 23:49:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Bayesian Indirect Inference and the ABC of GMM]]></title>
+            <link>https://xianblog.wordpress.com/2016/02/17/bayesian-indirect-inference-and-the-abc-of-gmm/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/02/17/bayesian-indirect-inference-and-the-abc-of-gmm/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 16 Feb 2016 23:16:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hard Choices – Picking a Grad School]]></title>
             <link>http://blogs.ams.org/mathgradblog/2016/02/16/hard-choices-picking-grad-school/</link>
@@ -1206,13 +1213,6 @@ in...]]></title>
             <pubDate>Wed, 10 Feb 2016 01:37:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ABC for wargames]]></title>
-            <link>https://xianblog.wordpress.com/2016/02/10/abc-for-wargames/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/02/10/abc-for-wargames/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Tue, 09 Feb 2016 23:16:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Posterior Update of Bayes@Lund 2016]]></title>
             <link>http://www.sumsar.net/blog/2016/02/bayes-at-lund-2016/</link>
             <guid isPermaLink="false">http://www.sumsar.net/blog/2016/02/bayes-at-lund-2016/</guid>
@@ -2084,17 +2084,17 @@ Cézanne was always looking for the most convincing...]]></title>
             <pubDate>Thu, 04 Feb 2016 00:01:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Playing against a mixed strategy in class]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Six Roll Dice Game]]></title>
             <link>http://datagenetics.com/blog/february12016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playing against a mixed strategy in class]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
