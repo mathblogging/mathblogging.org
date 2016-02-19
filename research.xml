@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 19:21:24 GMT</lastBuildDate>
-        <pubDate>Fri, 19 Feb 2016 19:21:19 GMT</pubDate>
+        <lastBuildDate>Fri, 19 Feb 2016 20:21:25 GMT</lastBuildDate>
+        <pubDate>Fri, 19 Feb 2016 20:21:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Radovan Dermisek]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Radovan Dermisek</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 19 Feb 2016 20:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schwinger-Dyson equation]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Schwinger-Dyson equation</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 19 Feb 2016 20:14:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Very early difficulties in studying abstract math]]></title>
             <link>http://www.abstractmath.org/Word%2520Press/?p=10069</link>
@@ -1091,6 +1105,13 @@ please...]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2016/02/12/priming-effects-replicate-just-fine-thanks/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 12 Feb 2016 14:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rees matrix semigroup]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Rees matrix semigroup</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 12 Feb 2016 14:28:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slowly he turned*... -- more on Trump and the Nixon Pivot]]></title>
@@ -2378,17 +2399,17 @@ Cézanne was always looking for the most convincing...]]></title>
             <pubDate>Thu, 04 Feb 2016 00:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Roll Dice Game]]></title>
-            <link>http://datagenetics.com/blog/february12016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Playing against a mixed strategy in class]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Roll Dice Game]]></title>
+            <link>http://datagenetics.com/blog/february12016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2672,13 +2693,6 @@ two...]]></title>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2016/02/01/the-arch-humanist/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Mon, 01 Feb 2016 19:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to Stable homotopy theory]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Introduction to Stable homotopy theory</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 01 Feb 2016 17:26:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When does peer review make no damn sense?]]></title>
@@ -3157,17 +3171,17 @@ two...]]></title>
             <pubDate>Thu, 28 Jan 2016 13:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We Still Can't Beat Relativization]]></title>
             <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
         </item>
         <item>
