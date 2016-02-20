@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 17:19:40 GMT</lastBuildDate>
-        <pubDate>Sat, 20 Feb 2016 17:19:35 GMT</pubDate>
+        <lastBuildDate>Sat, 20 Feb 2016 18:05:05 GMT</lastBuildDate>
+        <pubDate>Sat, 20 Feb 2016 18:05:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Momentum of particles in a Dirac field]]></title>
+            <link>http://www.physicspages.com/2016/02/20/momentum-of-particles-in-a-dirac-field/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2016/02/20/momentum-of-particles-in-a-dirac-field/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Sat, 20 Feb 2016 17:54:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deconstructing the Fisher-Neyman conflict wearing fiducial glasses (continued)]]></title>
             <link>http://errorstatistics.com/2016/02/20/deconstructing-the-fisher-neyman-conflict-wearing-fiducial-glasses-continued/</link>
@@ -2368,13 +2375,6 @@ The paper in question seems to ignore Mac Lane&rsquo;s Dictum:...]]></title>
             <pubDate>Thu, 04 Feb 2016 16:08:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dirac equation: spin of a particle at rest]]></title>
-            <link>http://www.physicspages.com/2016/02/04/dirac-equation-spin-of-a-particle-at-rest/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2016/02/04/dirac-equation-spin-of-a-particle-at-rest/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 15:56:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Number Factoids]]></title>
             <link>http://bit-player.org/2016/number-factoids</link>
             <guid isPermaLink="false">http://bit-player.org/2016/number-factoids</guid>
@@ -3953,13 +3953,6 @@ in vakil’s algebraic geometry notes, the chapter on adjoints only...]]></title
             <guid isPermaLink="false">http://models.street-artists.org/2016/01/20/soda-straws-mathematical-models-for-5th-graders/</guid>
             <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
             <pubDate>Wed, 20 Jan 2016 20:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time-Varying Dynamic Factor Loadings]]></title>
-            <link>http://fxdiebold.blogspot.com/2016/01/time-varying-dynamic-factor-loadings.html</link>
-            <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/01/time-varying-dynamic-factor-loadings.html</guid>
-            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
-            <pubDate>Wed, 20 Jan 2016 17:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
