@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 19:36:19 GMT</lastBuildDate>
-        <pubDate>Mon, 22 Feb 2016 19:36:15 GMT</pubDate>
+        <lastBuildDate>Mon, 22 Feb 2016 19:49:41 GMT</lastBuildDate>
+        <pubDate>Mon, 22 Feb 2016 19:49:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Black Hole Tech?]]></title>
+            <link>http://blog.stephenwolfram.com/2016/02/black-hole-tech/</link>
+            <guid isPermaLink="false">http://blog.stephenwolfram.com/2016/02/black-hole-tech/</guid>
+            <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
+            <pubDate>Mon, 22 Feb 2016 19:14:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Math for nine-year-olds:  fold, punch and cut for symmetry!]]></title>
             <link>http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/</link>
@@ -2634,17 +2641,17 @@ Cézanne was always looking for the most convincing...]]></title>
             <pubDate>Thu, 04 Feb 2016 00:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Roll Dice Game]]></title>
-            <link>http://datagenetics.com/blog/february12016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Playing against a mixed strategy in class]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Roll Dice Game]]></title>
+            <link>http://datagenetics.com/blog/february12016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3881,13 +3888,6 @@ from...]]></title>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/20770</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 22 Jan 2016 21:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starting the New Semester Off Right]]></title>
-            <link>http://blogs.ams.org/mathgradblog/2016/01/22/starting-semester/</link>
-            <guid isPermaLink="false">http://blogs.ams.org/mathgradblog/2016/01/22/starting-semester/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Fri, 22 Jan 2016 19:37:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
