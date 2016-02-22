@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 12:48:08 GMT</lastBuildDate>
-        <pubDate>Mon, 22 Feb 2016 12:48:03 GMT</pubDate>
+        <lastBuildDate>Mon, 22 Feb 2016 13:05:11 GMT</lastBuildDate>
+        <pubDate>Mon, 22 Feb 2016 13:05:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Topological Magic: Infinitely Many Primes]]></title>
+            <link>http://www.math3ma.com/mathema/2016/2/22/topological-magic-infinitely-many-primes</link>
+            <guid isPermaLink="false">http://www.math3ma.com/mathema/2016/2/22/topological-magic-infinitely-many-primes</guid>
+            <dc:creator><![CDATA[Math3ma]]></dc:creator>
+            <pubDate>Mon, 22 Feb 2016 12:48:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two Sided Match Making Markets]]></title>
             <link>http://haris-aziz.blogspot.com/2016/02/two-side-match-making-markets.html</link>
@@ -31,7 +38,7 @@
             <pubDate>Mon, 22 Feb 2016 09:49:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Madd-Spot #1, 2016 - Pacman VS Bellman: la partita è ancora aperta]]></title>
+            <title><![CDATA[Madd-Spot #1, 2016 - Pac-man VS Bellman: la partita è ancora aperta]]></title>
             <link>http://maddmaths.simai.eu/divulgazione/madd-spot/madd-spot-1-2016-pacman-vs-bellman-la-partita-e-ancora-aperta/</link>
             <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/madd-spot/madd-spot-1-2016-pacman-vs-bellman-la-partita-e-ancora-aperta/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
@@ -2576,17 +2583,17 @@ Cézanne was always looking for the most convincing...]]></title>
             <pubDate>Thu, 04 Feb 2016 00:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Playing against a mixed strategy in class]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Six Roll Dice Game]]></title>
             <link>http://datagenetics.com/blog/february12016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playing against a mixed strategy in class]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3334,17 +3341,17 @@ two...]]></title>
             <pubDate>Thu, 28 Jan 2016 13:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We Still Can't Beat Relativization]]></title>
-            <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I think we need to think more carefully about how to make situations like this one less unfair]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/i-think-we-need-to-think-more-carefully.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Still Can't Beat Relativization]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/01/we-still-cant-beat-relativization.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Thu, 28 Jan 2016 13:30:00 GMT</pubDate>
         </item>
         <item>
@@ -3865,13 +3872,6 @@ from...]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/01/success-made-easy.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 22 Jan 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In defense of journal editors who make mistakes]]></title>
-            <link>http://www.newappsblog.com/2016/01/in-defense-of-journal-editors-who-make-mistakes.html</link>
-            <guid isPermaLink="false">http://www.newappsblog.com/2016/01/in-defense-of-journal-editors-who-make-mistakes.html</guid>
-            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
-            <pubDate>Fri, 22 Jan 2016 12:21:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
