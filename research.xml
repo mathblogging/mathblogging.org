@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 22:34:54 GMT</lastBuildDate>
-        <pubDate>Thu, 25 Feb 2016 22:34:50 GMT</pubDate>
+        <lastBuildDate>Thu, 25 Feb 2016 23:04:56 GMT</lastBuildDate>
+        <pubDate>Thu, 25 Feb 2016 23:04:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[bounded complex sequences]]></title>
+            <link>http://www.bookofproofs.org/branches/bounded-complex-sequences/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/bounded-complex-sequences/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Thu, 25 Feb 2016 22:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[difference of convergent complex sequences]]></title>
+            <link>http://www.bookofproofs.org/branches/difference-of-convergent-complex-sequences/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/difference-of-convergent-complex-sequences/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Thu, 25 Feb 2016 22:38:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sum of convergent complex sequences proof]]></title>
             <link>http://www.bookofproofs.org/branches/sum-of-convergent-complex-sequences/proof/</link>
@@ -762,13 +776,6 @@ Guys…I just did a proof by unnecessary contradiction in class… I’m sorry, 
             <pubDate>Sun, 21 Feb 2016 18:44:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[linear independence of the imaginary unit i and the complex number 1 proof]]></title>
-            <link>http://www.bookofproofs.org/branches/linear-independence-of-the-imaginary-unit-i-and-the-complex-number-1/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/linear-independence-of-the-imaginary-unit-i-and-the-complex-number-1/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 21 Feb 2016 14:56:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fast analysis, soft statistics, and junk data intake is unrelated to research quality for 0% of American scientists]]></title>
             <link>http://andrewgelman.com/2016/02/21/fast-analysis-soft-statistics-and-junk-data-intake-is-unrelated-to-research-quality-for-0-of-american-scientists/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2016/02/21/fast-analysis-soft-statistics-and-junk-data-intake-is-unrelated-to-research-quality-for-0-of-american-scientists/</guid>
@@ -781,13 +788,6 @@ Guys…I just did a proof by unnecessary contradiction in class… I’m sorry, 
             <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/02/21/fortnightly-links-4/</guid>
             <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
             <pubDate>Sun, 21 Feb 2016 14:47:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[complex numbers as a vector space over the field of real numbers proof]]></title>
-            <link>http://www.bookofproofs.org/branches/complex-numbers-as-a-vector-space-over-the-field-of-real-numbers/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/complex-numbers-as-a-vector-space-over-the-field-of-real-numbers/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 21 Feb 2016 08:48:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“As we approached Florence …”]]></title>
@@ -3006,17 +3006,17 @@ Cézanne was always looking for the most convincing...]]></title>
             <pubDate>Thu, 04 Feb 2016 00:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Roll Dice Game]]></title>
-            <link>http://datagenetics.com/blog/february12016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Playing against a mixed strategy in class]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Roll Dice Game]]></title>
+            <link>http://datagenetics.com/blog/february12016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3942,13 +3942,6 @@ why do undergrads have such an aversion to stapling their...]]></title>
             <guid isPermaLink="false">http://jdh.hamkins.org/set-theoretic-mereology/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 26 Jan 2016 01:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenStax Passes the 20% Threshold]]></title>
-            <link>http://web.ece.rice.edu/richb/2016/01/25/openstax-passes-the-20-threshold/</link>
-            <guid isPermaLink="false">http://web.ece.rice.edu/richb/2016/01/25/openstax-passes-the-20-threshold/</guid>
-            <dc:creator><![CDATA[Richard Baraniuk]]></dc:creator>
-            <pubDate>Mon, 25 Jan 2016 22:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
