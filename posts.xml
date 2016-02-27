@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 18:36:17 GMT</lastBuildDate>
-        <pubDate>Sat, 27 Feb 2016 18:36:11 GMT</pubDate>
+        <lastBuildDate>Sat, 27 Feb 2016 18:51:19 GMT</lastBuildDate>
+        <pubDate>Sat, 27 Feb 2016 18:51:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[5 Maths Gems #50]]></title>
+            <link>http://www.resourceaholic.com/2016/02/gems50.html</link>
+            <guid isPermaLink="false">http://www.resourceaholic.com/2016/02/gems50.html</guid>
+            <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
+            <pubDate>Sat, 27 Feb 2016 18:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BCTF New Teachers’ Conf: Seeing Dots]]></title>
             <link>https://focusonmath.wordpress.com/2016/02/27/bctf-new-teachers-conf-seeing-dots/</link>
@@ -418,13 +425,6 @@ test anxiety!]]></title>
             <pubDate>Fri, 26 Feb 2016 17:18:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sebastian Goette]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Sebastian Goette</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 26 Feb 2016 16:45:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Guest Blog: Danielle Brown, Chief Diversity & Inclusion Officer, Intel Corporation]]></title>
             <link>http://changetheequation.org/blog/guest-blog-danielle-brown-chief-diversity-inclusion-officer-intel-corporation</link>
             <guid isPermaLink="false">http://changetheequation.org/blog/guest-blog-danielle-brown-chief-diversity-inclusion-officer-intel-corporation</guid>
@@ -544,17 +544,17 @@ test anxiety!]]></title>
             <pubDate>Fri, 26 Feb 2016 13:07:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Une machine en boîtes d'allumettes qui apprend à jouer au Morpion]]></title>
-            <link>http://images.math.cnrs.fr/Une-machine-en-boites-d-allumettes-qui-apprend-a-jouer-au-Morpion.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Une-machine-en-boites-d-allumettes-qui-apprend-a-jouer-au-Morpion.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 26 Feb 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[2 Truths and a Lie - Quadratic Style]]></title>
             <link>http://8ismyluckynumber.blogspot.com/2016/02/2-truths-and-lie-quadratic-style.html</link>
             <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2016/02/2-truths-and-lie-quadratic-style.html</guid>
             <dc:creator><![CDATA[8 is my lucky number]]></dc:creator>
+            <pubDate>Fri, 26 Feb 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Une machine en boîtes d'allumettes qui apprend à jouer au Morpion]]></title>
+            <link>http://images.math.cnrs.fr/Une-machine-en-boites-d-allumettes-qui-apprend-a-jouer-au-Morpion.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Une-machine-en-boites-d-allumettes-qui-apprend-a-jouer-au-Morpion.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 26 Feb 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -852,17 +852,17 @@ test anxiety!]]></title>
             <pubDate>Thu, 25 Feb 2016 17:05:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blast From the Past... the Quincunx]]></title>
-            <link>http://math-frolic.blogspot.com/2016/02/blast-from-past-quincunx.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/02/blast-from-past-quincunx.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Thu, 25 Feb 2016 16:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitwise Neural Networks]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/bm4Bg1NNIBI/bitwise-neural-networks.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/bm4Bg1NNIBI/bitwise-neural-networks.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Thu, 25 Feb 2016 16:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blast From the Past... the Quincunx]]></title>
+            <link>http://math-frolic.blogspot.com/2016/02/blast-from-past-quincunx.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/02/blast-from-past-quincunx.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Thu, 25 Feb 2016 16:30:00 GMT</pubDate>
         </item>
         <item>
@@ -1555,17 +1555,17 @@ update: still don’t know what schemes are,...]]></title>
             <pubDate>Wed, 24 Feb 2016 06:41:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GitXiv: The most awesomest page on the interweb - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/wvV4J4-aB_I/gitxiv-most-awesomest-page-on-interweb.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/wvV4J4-aB_I/gitxiv-most-awesomest-page-on-interweb.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 24 Feb 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scacchi e astronomia]]></title>
             <link>http://misterpalomar.blogspot.com/2016/02/scacchi-e-astronomia.html</link>
             <guid isPermaLink="false">http://misterpalomar.blogspot.com/2016/02/scacchi-e-astronomia.html</guid>
             <dc:creator><![CDATA[Mr. Palomar]]></dc:creator>
+            <pubDate>Wed, 24 Feb 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GitXiv: The most awesomest page on the interweb - implementation -]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/wvV4J4-aB_I/gitxiv-most-awesomest-page-on-interweb.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/wvV4J4-aB_I/gitxiv-most-awesomest-page-on-interweb.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 24 Feb 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7180,17 +7180,17 @@ sphere tangle]]></title>
             <pubDate>Tue, 09 Feb 2016 00:02:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fire From Moonlight]]></title>
-            <link>http://what-if.xkcd.com/145/</link>
-            <guid isPermaLink="false">http://what-if.xkcd.com/145/</guid>
-            <dc:creator><![CDATA[What If?]]></dc:creator>
-            <pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 9]]></title>
             <link>http://pballew.blogspot.com/2016/02/on-this-day-in-math-february-9.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/02/on-this-day-in-math-february-9.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fire From Moonlight]]></title>
+            <link>http://what-if.xkcd.com/145/</link>
+            <guid isPermaLink="false">http://what-if.xkcd.com/145/</guid>
+            <dc:creator><![CDATA[What If?]]></dc:creator>
             <pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7462,17 +7462,17 @@ Atelier Pica Pica]]></title>
             <pubDate>Mon, 08 Feb 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.251 - Catching Up]]></title>
-            <link>http://mathtans.blogspot.com/2016/02/s7251-catching-up.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/02/s7251-catching-up.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 08 Feb 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Step Lines]]></title>
             <link>http://mathtourist.blogspot.com/2016/02/step-lines.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/02/step-lines.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 08 Feb 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.251 - Catching Up]]></title>
+            <link>http://mathtans.blogspot.com/2016/02/s7251-catching-up.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/02/s7251-catching-up.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 08 Feb 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8107,17 +8107,17 @@ julia sets for z⁴+c/z and...]]></title>
             <pubDate>Sat, 06 Feb 2016 00:01:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russian Roulette]]></title>
-            <link>http://datagenetics.com/blog/february22016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/february22016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 6]]></title>
             <link>http://pballew.blogspot.com/2016/02/on-this-day-in-math-february-6.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/02/on-this-day-in-math-february-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian Roulette]]></title>
+            <link>http://datagenetics.com/blog/february22016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/february22016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
