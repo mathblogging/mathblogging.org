@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 13:51:18 GMT</lastBuildDate>
-        <pubDate>Sun, 28 Feb 2016 13:51:13 GMT</pubDate>
+        <lastBuildDate>Sun, 28 Feb 2016 14:05:07 GMT</lastBuildDate>
+        <pubDate>Sun, 28 Feb 2016 14:05:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[exp0%3D1 complex case proof]]></title>
+            <link>http://www.bookofproofs.org/branches/exp0%253D1-complex-case/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/exp0%3D1-complex-case/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 28 Feb 2016 13:57:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[exp0%3D1 complex case]]></title>
             <link>http://www.bookofproofs.org/branches/exp0%253D1-complex-case/</link>
@@ -309,13 +316,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/absolutely-convergent-complex-series/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Fri, 26 Feb 2016 21:55:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[definition of complex infinite series]]></title>
-            <link>http://www.bookofproofs.org/branches/definition-of-complex-infinite-series/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/definition-of-complex-infinite-series/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 26 Feb 2016 21:45:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Probably won’t make exciting reading]]></title>
@@ -3909,13 +3909,6 @@ two...]]></title>
             <guid isPermaLink="false">https://seriesdivergentes.wordpress.com/2016/01/28/finalmente-una-computadora-le-gana-a-un-profesional-de-go/</guid>
             <dc:creator><![CDATA[Series divergentes]]></dc:creator>
             <pubDate>Thu, 28 Jan 2016 15:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typesetting Mathematics According to the ISO Standard]]></title>
-            <link>https://nickhigham.wordpress.com/2016/01/28/typesetting-mathematics-according-to-the-iso-standard/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/01/28/typesetting-mathematics-according-to-the-iso-standard/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Thu, 28 Jan 2016 13:54:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
