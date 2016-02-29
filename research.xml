@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 11:20:24 GMT</lastBuildDate>
-        <pubDate>Mon, 29 Feb 2016 11:20:20 GMT</pubDate>
+        <lastBuildDate>Mon, 29 Feb 2016 12:02:09 GMT</lastBuildDate>
+        <pubDate>Mon, 29 Feb 2016 12:02:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Klein-Gordon solutions from harmonic oscillator]]></title>
+            <link>http://www.physicspages.com/2016/02/29/klein-gordon-solutions-from-harmonic-oscillator/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2016/02/29/klein-gordon-solutions-from-harmonic-oscillator/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Mon, 29 Feb 2016 11:18:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CS294 Lecture 10: Bourgain’s Theorem]]></title>
             <link>https://lucatrevisan.wordpress.com/2016/02/28/cs294-lecture-10-bourgains-theorem/</link>
@@ -2022,13 +2029,6 @@ recommend me some interior design blogs to follow!
             <pubDate>Sat, 13 Feb 2016 18:02:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dirac equation in relativistic quantum mechanics: summary]]></title>
-            <link>http://www.physicspages.com/2016/02/13/dirac-equation-in-relativistic-quantum-mechanics-summary/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2016/02/13/dirac-equation-in-relativistic-quantum-mechanics-summary/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Sat, 13 Feb 2016 17:20:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Upcoming Paris Machine Learning Meetup on Fair and Ethical Algorithms (Wednesday 17th, 2016)]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/5P_-9LuHz4E/upcoming-paris-machine-learning-meetup.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/5P_-9LuHz4E/upcoming-paris-machine-learning-meetup.html</guid>
@@ -3314,17 +3314,17 @@ Cézanne was always looking for the most convincing...]]></title>
             <pubDate>Thu, 04 Feb 2016 00:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Roll Dice Game]]></title>
-            <link>http://datagenetics.com/blog/february12016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Playing against a mixed strategy in class]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/pedagogy/2016/02/04/playing_against_a_mixed_strategy_in_class/</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Roll Dice Game]]></title>
+            <link>http://datagenetics.com/blog/february12016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/february12016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3853,13 +3853,6 @@ two...]]></title>
             <guid isPermaLink="false">https://orbythebeach.wordpress.com/2016/01/29/portuguese-pronunciation-and-language-tips/</guid>
             <dc:creator><![CDATA[O.R. by the Beach]]></dc:creator>
             <pubDate>Fri, 29 Jan 2016 14:12:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Laravel 5.0入门笔记(2):路由, 控制器与视图]]></title>
-            <link>https://lttt.blog.ustc.edu.cn/2016/01/29/laravel-5-0rumenbiji2luyou-kongzhiqiyushitu.html</link>
-            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/2016/01/29/laravel-5-0rumenbiji2luyou-kongzhiqiyushitu.html</guid>
-            <dc:creator><![CDATA[小小泪]]></dc:creator>
-            <pubDate>Fri, 29 Jan 2016 11:41:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
