@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Discrete Analysis is up and running! <a href="https://t.co/gFdK8ZfVNx">https://t.co/gFdK8ZfVNx</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Izabella Laba (@ilaba) <a href="https://twitter.com/ilaba/status/704693670881075202">March 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Devlin on Hacker, algebra, &amp; math education: <a href="https://t.co/8DSTvH5yRe">https://t.co/8DSTvH5yRe</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> <a href="https://twitter.com/hashtag/mathed?src=hash">#mathed</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/704498070508183554">March 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">John Baez computes the total cash value of the universe in &quot;The Price of Everything&quot;<a href="https://t.co/xhbsz2MdlQ">https://t.co/xhbsz2MdlQ</a><a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/704466076885753856">March 1, 2016</a></blockquote>
