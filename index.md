@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Michael Atiyah interviewed in Quanta Magazine (finding math connections): <a href="https://t.co/YY61grBcf9">https://t.co/YY61grBcf9</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/705533047047847936">March 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Andrew Gelman again on psychology&#39;s &quot;replication crisis&quot;: <a href="https://t.co/98ErUYr7mf">https://t.co/98ErUYr7mf</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/705513251421945858">March 3, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Discrete Analysis is up and running! <a href="https://t.co/gFdK8ZfVNx">https://t.co/gFdK8ZfVNx</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Izabella Laba (@ilaba) <a href="https://twitter.com/ilaba/status/704693670881075202">March 1, 2016</a></blockquote>
