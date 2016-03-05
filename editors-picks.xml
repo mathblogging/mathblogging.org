@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 15:33:04 GMT</lastBuildDate>
-        <pubDate>Sat, 05 Mar 2016 15:33:01 GMT</pubDate>
+        <lastBuildDate>Sat, 05 Mar 2016 15:47:08 GMT</lastBuildDate>
+        <pubDate>Sat, 05 Mar 2016 15:47:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Michael Atiyah interviewed in Quanta Magazine (finding math connections): https://t.co/YY61grBcf9 #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/Z2WVa</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Thu, 03 Mar 2016 23:19:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[@ilaba's pick]]></title>
             <description><![CDATA[Discrete Analysis is up and running! https://t.co/gFdK8ZfVNx #mbpick]]></description>
@@ -18,10 +25,66 @@
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Devlin on Hacker, algebra, &amp; math education: https://t.co/8DSTvH5yRe #mbpick #mathed]]></description>
+            <guid isPermaLink="false">http://ow.ly/YUBMb</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 02:46:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[We already know the press uses mangled statistics, but never hurts to hear it again (via Gelman): https://t.co/ntJXhuwt4n #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/YHoqX</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Wed, 24 Feb 2016 14:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Probability, lotteries, expectations... &amp; hats -- great new post from Jim Propp: https://t.co/jT7w8oKMl1 #mathchat #mbpick #statchat]]></description>
+            <guid isPermaLink="false">http://ow.ly/Yqcqc</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Wed, 17 Feb 2016 12:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Deborah Mayo tries to make sense of Nate Silver (interesting comment thread as well): https://t.co/BFx0jKDyyN #mathchat #statistics #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/YnxOa</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Tue, 16 Feb 2016 13:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Chris Harrow reviewing standard deviation &amp; sample size for his class: https://t.co/KBFXzsuALC #mathed #mbpick #mathchat]]></description>
+            <guid isPermaLink="false">http://ow.ly/Yns44</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Tue, 16 Feb 2016 12:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Brian Hayes, always interesting, in some geeky way: https://t.co/fSqcmNZGFM #mbpick #math]]></description>
+            <guid isPermaLink="false">http://ow.ly/XXny2</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 19:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[No, you haven't read enough about Moebius strips until you've read Evelyn Lamb's take: https://t.co/Srk7uoGzm4 #mbpick #mathchat]]></description>
             <guid isPermaLink="false">http://ow.ly/XTeTa</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
             <pubDate>Wed, 03 Feb 2016 13:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Andrew Gelman again on psychology's "replication crisis": https://t.co/98ErUYr7mf #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/Z2DnL</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Thu, 03 Mar 2016 22:00:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -95,69 +158,6 @@ https://t.co/ewLmKmREi8
             <guid isPermaLink="false">http://geekfeminism.org/2016/02/25/interview-authors-of-the-paper-womens-representation-in-mathematics-subfields/</guid>
             <dc:creator><![CDATA[@pkrautz]]></dc:creator>
             <pubDate>Mon, 29 Feb 2016 20:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Michael Atiyah interviewed in Quanta Magazine (finding math connections): https://t.co/YY61grBcf9 #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/Z2WVa</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Thu, 03 Mar 2016 23:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Andrew Gelman again on psychology's "replication crisis": https://t.co/98ErUYr7mf #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/Z2DnL</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Thu, 03 Mar 2016 22:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Devlin on Hacker, algebra, &amp; math education: https://t.co/8DSTvH5yRe #mbpick #mathed]]></description>
-            <guid isPermaLink="false">http://ow.ly/YUBMb</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 02:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[We already know the press uses mangled statistics, but never hurts to hear it again (via Gelman): https://t.co/ntJXhuwt4n #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/YHoqX</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 24 Feb 2016 14:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Probability, lotteries, expectations... &amp; hats -- great new post from Jim Propp: https://t.co/jT7w8oKMl1 #mathchat #mbpick #statchat]]></description>
-            <guid isPermaLink="false">http://ow.ly/Yqcqc</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 17 Feb 2016 12:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Deborah Mayo tries to make sense of Nate Silver (interesting comment thread as well): https://t.co/BFx0jKDyyN #mathchat #statistics #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/YnxOa</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 16 Feb 2016 13:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Chris Harrow reviewing standard deviation &amp; sample size for his class: https://t.co/KBFXzsuALC #mathed #mbpick #mathchat]]></description>
-            <guid isPermaLink="false">http://ow.ly/Yns44</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 16 Feb 2016 12:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Brian Hayes, always interesting, in some geeky way: https://t.co/fSqcmNZGFM #mbpick #math]]></description>
-            <guid isPermaLink="false">http://ow.ly/XXny2</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Thu, 04 Feb 2016 19:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
