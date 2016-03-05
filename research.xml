@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 10:02:05 GMT</lastBuildDate>
-        <pubDate>Sat, 05 Mar 2016 10:02:01 GMT</pubDate>
+        <lastBuildDate>Sat, 05 Mar 2016 10:21:12 GMT</lastBuildDate>
+        <pubDate>Sat, 05 Mar 2016 10:21:08 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Saturday Morning Video: Tutorial on Practical Methods for BigData, Hashing Algorithms for Large-Scale Search and Learning / 0-Bit Consistent Weighted Sampling, Ping Li]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/o0lT0LGfau8/saturday-morning-video-tutorial-on.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/o0lT0LGfau8/saturday-morning-video-tutorial-on.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Sat, 05 Mar 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Symmetric spectra]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Symmetric spectra</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 05 Mar 2016 09:29:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Saturday Morning Video: The Code That Runs Our Lives , Geoff Hinton]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/P5QGEttu-ug/saturday-morning-video-code-that-runs.html</link>
@@ -22,13 +36,6 @@
             <guid isPermaLink="false">https://mathproblems123.wordpress.com/2016/03/05/seemous-2016-problems/</guid>
             <dc:creator><![CDATA[Beni Bogoşel's blog]]></dc:creator>
             <pubDate>Sat, 05 Mar 2016 00:09:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[model structure on sequential spectra]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">model structure on sequential spectra</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 04 Mar 2016 21:57:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[supremum property infimum property proof of existence]]></title>
@@ -57,13 +64,6 @@
             <guid isPermaLink="false">http://inquiryintoinquiry.com/2016/03/04/abduction-deduction-induction-analogy-inquiry-10/</guid>
             <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
             <pubDate>Fri, 04 Mar 2016 20:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[prophk2015]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">prophk2015</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 04 Mar 2016 20:15:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hyperbolic Kac--Moody Groups]]></title>
@@ -395,17 +395,17 @@
             <pubDate>Wed, 02 Mar 2016 14:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Premio Turing 2016]]></title>
-            <link>https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</link>
-            <guid isPermaLink="false">https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</guid>
-            <dc:creator><![CDATA[Series divergentes]]></dc:creator>
-            <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In an age of open-carry, that video would have ended very differently]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/in-age-of-open-carry-that-video-would.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/in-age-of-open-carry-that-video-would.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premio Turing 2016]]></title>
+            <link>https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</link>
+            <guid isPermaLink="false">https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</guid>
+            <dc:creator><![CDATA[Series divergentes]]></dc:creator>
             <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3161,13 +3161,6 @@ ah, “fundamental theorem of homomorphisms”, we meet...]]></title>
             <pubDate>Wed, 10 Feb 2016 06:35:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ce soir: Paris Machine Learning Meetup #6 Season 3; ASTEC #NecMergitur, Beauty and danger of matrix completion, E-commerce and DL, Topic Modeling on Twitter streams and Cross-Lingual Systems]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/L2ccFbZXmok/ce-soir-paris-machine-learning-meetup-6.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/L2ccFbZXmok/ce-soir-paris-machine-learning-meetup-6.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 10 Feb 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Listen to an encoding of someone’s brainwaves whilst...]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/dUZb9CvfrLs/139033639239</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/dUZb9CvfrLs/139033639239</guid>
@@ -3848,6 +3841,13 @@ The paper in question seems to ignore Mac Lane&rsquo;s Dictum:...]]></title>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/02/go-google-go.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Thu, 04 Feb 2016 12:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global homotopy theory]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Global homotopy theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 04 Feb 2016 09:57:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finding your place on a map as quickly as you could tell someone where you are]]></title>
