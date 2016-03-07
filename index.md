@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">RT <a href="https://twitter.com/ivanoransky">@ivanoransky</a>: We’re using a common statistical test all wrong. Statisticians want to fix that. <a href="https://t.co/FoLDqC9T4C">https://t.co/FoLDqC9T4C</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/706831316696887297">March 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Correlation of Two Sine Waves, by <a href="https://twitter.com/JohnDCook">@JohnDCook</a> <a href="https://t.co/QIIdt2Ykg7">https://t.co/QIIdt2Ykg7</a><a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> <a href="https://t.co/3LUnSGTTLC">pic.twitter.com/3LUnSGTTLC</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/706634742301589504">March 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Michael Atiyah interviewed in Quanta Magazine (finding math connections): <a href="https://t.co/YY61grBcf9">https://t.co/YY61grBcf9</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/705533047047847936">March 3, 2016</a></blockquote>
