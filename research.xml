@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:05:43 GMT</lastBuildDate>
-        <pubDate>Mon, 07 Mar 2016 21:05:39 GMT</pubDate>
+        <lastBuildDate>Mon, 07 Mar 2016 21:19:49 GMT</lastBuildDate>
+        <pubDate>Mon, 07 Mar 2016 21:19:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[MSp]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">MSp</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 07 Mar 2016 21:07:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Abduction, Deduction, Induction, Analogy, Inquiry : 13]]></title>
             <link>http://inquiryintoinquiry.com/2016/03/07/abduction-deduction-induction-analogy-inquiry-13/</link>
@@ -500,13 +507,6 @@
             <pubDate>Sat, 05 Mar 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Symmetric spectra]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Symmetric spectra</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 05 Mar 2016 09:29:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[supremum property infimum property proof of existence]]></title>
             <link>http://www.bookofproofs.org/branches/supremum-property-infimum-property/proof-of-existence/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/supremum-property-infimum-property/proof-of-existence/</guid>
@@ -753,8 +753,8 @@
         </item>
         <item>
             <title><![CDATA[Where People Live]]></title>
-            <link>https://freakonometrics.hypotheses.org/48184</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48184</guid>
+            <link>http://freakonometrics.hypotheses.org/48184</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48184</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 03 Mar 2016 13:54:25 GMT</pubDate>
         </item>
@@ -864,17 +864,17 @@
             <pubDate>Wed, 02 Mar 2016 14:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Premio Turing 2016]]></title>
-            <link>https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</link>
-            <guid isPermaLink="false">https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</guid>
-            <dc:creator><![CDATA[Series divergentes]]></dc:creator>
-            <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In an age of open-carry, that video would have ended very differently]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/in-age-of-open-carry-that-video-would.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/in-age-of-open-carry-that-video-would.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premio Turing 2016]]></title>
+            <link>https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</link>
+            <guid isPermaLink="false">https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</guid>
+            <dc:creator><![CDATA[Series divergentes]]></dc:creator>
             <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1038,8 +1038,8 @@ photographed at 121...]]></title>
         </item>
         <item>
             <title><![CDATA[Macro vs. Micro Methods in Non-Life Claims Reserving (an Econometric Perspective)]]></title>
-            <link>https://freakonometrics.hypotheses.org/48166</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48166</guid>
+            <link>http://freakonometrics.hypotheses.org/48166</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48166</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 22:27:54 GMT</pubDate>
         </item>
@@ -1094,8 +1094,8 @@ photographed at 121...]]></title>
         </item>
         <item>
             <title><![CDATA[R Crash Course, Data Science for Actuaries, Year 2]]></title>
-            <link>https://freakonometrics.hypotheses.org/48122</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48122</guid>
+            <link>http://freakonometrics.hypotheses.org/48122</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48122</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 13:38:54 GMT</pubDate>
         </item>
@@ -1383,15 +1383,15 @@ Wassily Kandinsky, Schluss (Conclusion), 1926]]></title>
         </item>
         <item>
             <title><![CDATA[Dynamique de la Pyramide des Ages]]></title>
-            <link>https://freakonometrics.hypotheses.org/48153</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48153</guid>
+            <link>http://freakonometrics.hypotheses.org/48153</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48153</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 28 Feb 2016 20:58:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Evolution des Taux et Valeurs de Rentes]]></title>
-            <link>https://freakonometrics.hypotheses.org/48149</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48149</guid>
+            <link>http://freakonometrics.hypotheses.org/48149</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48149</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 28 Feb 2016 20:22:24 GMT</pubDate>
         </item>
@@ -1495,8 +1495,8 @@ Wassily Kandinsky, Schluss (Conclusion), 1926]]></title>
         </item>
         <item>
             <title><![CDATA[Mortality by Weekday and Age]]></title>
-            <link>https://freakonometrics.hypotheses.org/48134</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48134</guid>
+            <link>http://freakonometrics.hypotheses.org/48134</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48134</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 28 Feb 2016 00:50:01 GMT</pubDate>
         </item>
@@ -1530,8 +1530,8 @@ Wassily Kandinsky, Schluss (Conclusion), 1926]]></title>
         </item>
         <item>
             <title><![CDATA[Taux d’intérêt négatifs et explosion des valeurs de rentes]]></title>
-            <link>https://freakonometrics.hypotheses.org/48107</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48107</guid>
+            <link>http://freakonometrics.hypotheses.org/48107</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48107</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 27 Feb 2016 19:27:45 GMT</pubDate>
         </item>
@@ -1810,8 +1810,8 @@ Wassily Kandinsky, Schluss (Conclusion), 1926]]></title>
         </item>
         <item>
             <title><![CDATA[Spatial and Temporal Viz of Gas Price, in France]]></title>
-            <link>https://freakonometrics.hypotheses.org/48095</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48095</guid>
+            <link>http://freakonometrics.hypotheses.org/48095</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48095</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 25 Feb 2016 09:03:49 GMT</pubDate>
         </item>
@@ -2842,8 +2842,8 @@ recommend me some interior design blogs to follow!
         </item>
         <item>
             <title><![CDATA[Central Limit Theorem]]></title>
-            <link>https://freakonometrics.hypotheses.org/48061</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48061</guid>
+            <link>http://freakonometrics.hypotheses.org/48061</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48061</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 15 Feb 2016 11:03:08 GMT</pubDate>
         </item>
@@ -2993,6 +2993,13 @@ recommend me some interior design blogs to follow!
             <guid isPermaLink="false">https://gowers.wordpress.com/2016/02/13/func3-further-strengthenings-and-variants/</guid>
             <dc:creator><![CDATA[Gowers's Weblog]]></dc:creator>
             <pubDate>Sat, 13 Feb 2016 10:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MU]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">MU</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 13 Feb 2016 07:07:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["The rainbow color map confuses viewers through its lack of perceptual ordering, obscures data..."]]></title>
@@ -3219,8 +3226,8 @@ Squared...]]></title>
         </item>
         <item>
             <title><![CDATA[Reverse Engineering with Correlated Features]]></title>
-            <link>https://freakonometrics.hypotheses.org/47979</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/47979</guid>
+            <link>http://freakonometrics.hypotheses.org/47979</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/47979</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 11 Feb 2016 15:10:08 GMT</pubDate>
         </item>
@@ -3261,8 +3268,8 @@ Squared...]]></title>
         </item>
         <item>
             <title><![CDATA[Clustering French Cities (based on Temperatures)]]></title>
-            <link>https://freakonometrics.hypotheses.org/48042</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48042</guid>
+            <link>http://freakonometrics.hypotheses.org/48042</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48042</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 11 Feb 2016 13:47:29 GMT</pubDate>
         </item>
@@ -3345,8 +3352,8 @@ Squared...]]></title>
         </item>
         <item>
             <title><![CDATA[La guerre des étoiles : distinguer le signal du bruit]]></title>
-            <link>https://freakonometrics.hypotheses.org/48026</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48026</guid>
+            <link>http://freakonometrics.hypotheses.org/48026</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48026</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 10 Feb 2016 15:34:26 GMT</pubDate>
         </item>
@@ -3401,8 +3408,8 @@ Squared...]]></title>
         </item>
         <item>
             <title><![CDATA[Clusters of Texts]]></title>
-            <link>https://freakonometrics.hypotheses.org/47996</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/47996</guid>
+            <link>http://freakonometrics.hypotheses.org/47996</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/47996</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 10 Feb 2016 11:14:54 GMT</pubDate>
         </item>
@@ -3494,8 +3501,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[Clusters of (French) Regions]]></title>
-            <link>https://freakonometrics.hypotheses.org/48005</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48005</guid>
+            <link>http://freakonometrics.hypotheses.org/48005</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48005</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 09 Feb 2016 20:58:17 GMT</pubDate>
         </item>
@@ -3570,13 +3577,6 @@ in...]]></title>
             <pubDate>Tue, 09 Feb 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bousfield-Friedlander model structure]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Bousfield-Friedlander model structure</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 09 Feb 2016 13:58:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New Judea Pearl Causal Inference "Primer"]]></title>
             <link>http://fxdiebold.blogspot.com/2016/02/new-judea-pearl-causal-inference-primer.html</link>
             <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/02/new-judea-pearl-causal-inference-primer.html</guid>
@@ -3636,8 +3636,8 @@ sphere tangle]]></title>
         </item>
         <item>
             <title><![CDATA[Chaire de Recherche, actinfo]]></title>
-            <link>https://freakonometrics.hypotheses.org/47992</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/47992</guid>
+            <link>http://freakonometrics.hypotheses.org/47992</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/47992</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 08 Feb 2016 16:22:25 GMT</pubDate>
         </item>
