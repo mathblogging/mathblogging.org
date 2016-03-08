@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 00:04:46 GMT</lastBuildDate>
-        <pubDate>Tue, 08 Mar 2016 00:04:43 GMT</pubDate>
+        <lastBuildDate>Tue, 08 Mar 2016 00:20:48 GMT</lastBuildDate>
+        <pubDate>Tue, 08 Mar 2016 00:20:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -46,13 +46,6 @@ https://t.co/hnTpq18GNt #mbpick]]></description>
             <pubDate>Fri, 22 Jan 2016 17:12:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@MrHonner's pick]]></title>
             <description><![CDATA[Correlation of Two Sine Waves, by @JohnDCook https://t.co/QIIdt2Ykg7
 #math #mathchat
@@ -90,6 +83,13 @@ https://t.co/ewLmKmREi8
             <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/02/14/antonin-scalia-thought-jurisprudence-was-more-like-math-than-it-really-is/</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Mon, 15 Feb 2016 14:28:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@ilaba's pick]]></title>
+            <description><![CDATA[Discrete Analysis is up and running! https://t.co/gFdK8ZfVNx #mbpick]]></description>
+            <guid isPermaLink="false">https://gowers.wordpress.com/2016/03/01/discrete-analysis-launched/</guid>
+            <dc:creator><![CDATA[@ilaba]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 15:43:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -162,11 +162,11 @@ https://t.co/ewLmKmREi8
             <pubDate>Thu, 04 Feb 2016 19:18:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@ilaba's pick]]></title>
-            <description><![CDATA[Discrete Analysis is up and running! https://t.co/gFdK8ZfVNx #mbpick]]></description>
-            <guid isPermaLink="false">https://gowers.wordpress.com/2016/03/01/discrete-analysis-launched/</guid>
-            <dc:creator><![CDATA[@ilaba]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 15:43:58 GMT</pubDate>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
