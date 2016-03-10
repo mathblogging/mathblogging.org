@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 19:31:52 GMT</lastBuildDate>
-        <pubDate>Thu, 10 Mar 2016 19:31:45 GMT</pubDate>
+        <lastBuildDate>Thu, 10 Mar 2016 19:50:47 GMT</lastBuildDate>
+        <pubDate>Thu, 10 Mar 2016 19:50:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -29,6 +29,13 @@
             <guid isPermaLink="false">http://retractionwatch.com/2016/03/10/poll-if-authors-dont-address-mistakes-is-that-misconduct/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Thu, 10 Mar 2016 18:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bonferroni, les anniversaires et les terroristes (ou pas)]]></title>
+            <link>http://freakonometrics.hypotheses.org/48223</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48223</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Thu, 10 Mar 2016 17:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our first Code Cafe: First steps with R]]></title>
@@ -819,17 +826,17 @@ Geometry]]></title>
             <pubDate>Wed, 09 Mar 2016 07:05:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Concours « Bulles au carré » 2016 : DERNIERS JOURS POUR VOTER !]]></title>
-            <link>http://images.math.cnrs.fr/Concours-Bulles-au-carre-2016-DERNIERS-JOURS-POUR-VOTER.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Concours-Bulles-au-carre-2016-DERNIERS-JOURS-POUR-VOTER.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 09 Mar 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ce Soir Paris Machine Learning Meetup #10 Season 3, M&A, Speech Recognition, Telecoms, Mariana DL & HR]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/GvKllQ6yuEo/ce-soir-paris-machine-learning-meetup.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/GvKllQ6yuEo/ce-soir-paris-machine-learning-meetup.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 09 Mar 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concours « Bulles au carré » 2016 : DERNIERS JOURS POUR VOTER !]]></title>
+            <link>http://images.math.cnrs.fr/Concours-Bulles-au-carre-2016-DERNIERS-JOURS-POUR-VOTER.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Concours-Bulles-au-carre-2016-DERNIERS-JOURS-POUR-VOTER.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 09 Mar 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1210,17 +1217,17 @@ ink on paper]]></title>
             <pubDate>Tue, 08 Mar 2016 16:05:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paris Machine Learning Newsletter, March 2016 [In French]]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/N_nDsYW8vYg/paris-machine-learning-newsletter-march.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/N_nDsYW8vYg/paris-machine-learning-newsletter-march.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Tue, 08 Mar 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[More cool machines]]></title>
             <link>http://youdothemathkthrucalculus.blogspot.com/2016/03/more-cool-machines.html</link>
             <guid isPermaLink="false">http://youdothemathkthrucalculus.blogspot.com/2016/03/more-cool-machines.html</guid>
             <dc:creator><![CDATA[You Do the Math -- K thru Calculus]]></dc:creator>
+            <pubDate>Tue, 08 Mar 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris Machine Learning Newsletter, March 2016 [In French]]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/N_nDsYW8vYg/paris-machine-learning-newsletter-march.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/N_nDsYW8vYg/paris-machine-learning-newsletter-march.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Tue, 08 Mar 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1321,17 +1328,17 @@ who’s good at algebra, are there cases when given C = A⊗R B we...]]></title
             <pubDate>Tue, 08 Mar 2016 12:29:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lies, Damned Lies, and...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/lies-damned-lies-and.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/lies-damned-lies-and.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Tue, 08 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Glass Pyramid]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/glass-pyramid.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/glass-pyramid.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 08 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lies, Damned Lies, and...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/lies-damned-lies-and.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/lies-damned-lies-and.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Tue, 08 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1827,10 +1834,10 @@ Rick Whitacre ||...]]></title>
             <pubDate>Mon, 07 Mar 2016 12:16:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Silver Arches]]></title>
-            <link>http://mathtourist.blogspot.com/2016/03/silver-arches.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/silver-arches.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <title><![CDATA[Old, Old Favorite]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1841,10 +1848,10 @@ Rick Whitacre ||...]]></title>
             <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Old, Old Favorite]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <title><![CDATA[Silver Arches]]></title>
+            <link>http://mathtourist.blogspot.com/2016/03/silver-arches.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/silver-arches.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1890,10 +1897,10 @@ Rick Whitacre ||...]]></title>
             <pubDate>Mon, 07 Mar 2016 06:00:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fast Cross-Polytope Locality-Sensitive Hashing]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Db7GDbWbBeI/fast-cross-polytope-locality-sensitive.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Db7GDbWbBeI/fast-cross-polytope-locality-sensitive.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <title><![CDATA[4.5.9]]></title>
+            <link>http://images.math.cnrs.fr/4-5-9.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-5-9.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1904,10 +1911,10 @@ Rick Whitacre ||...]]></title>
             <pubDate>Mon, 07 Mar 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.5.9]]></title>
-            <link>http://images.math.cnrs.fr/4-5-9.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-5-9.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <title><![CDATA[Fast Cross-Polytope Locality-Sensitive Hashing]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Db7GDbWbBeI/fast-cross-polytope-locality-sensitive.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Db7GDbWbBeI/fast-cross-polytope-locality-sensitive.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2225,17 +2232,17 @@ Bridget Riley - Study for Disfigured Circle - 1963]]></title>
             <pubDate>Sun, 06 Mar 2016 13:08:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Capitol Drinking Fountain]]></title>
-            <link>http://mathtourist.blogspot.com/2016/03/capitol-drinking-fountain.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/capitol-drinking-fountain.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Essential Knowledge...]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol Drinking Fountain]]></title>
+            <link>http://mathtourist.blogspot.com/2016/03/capitol-drinking-fountain.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/capitol-drinking-fountain.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3346,17 +3353,17 @@ Skip Dolphin Hurshwww.skiphursh.com]]></title>
             <pubDate>Thu, 03 Mar 2016 12:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Irregular Steps]]></title>
-            <link>http://mathtourist.blogspot.com/2016/03/irregular-steps.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/irregular-steps.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Thu, 03 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some Picks From Pickover]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/some-picks-from-pickover.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/some-picks-from-pickover.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 03 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irregular Steps]]></title>
+            <link>http://mathtourist.blogspot.com/2016/03/irregular-steps.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/irregular-steps.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 03 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3584,17 +3591,17 @@ Skip Dolphin Hurshwww.skiphursh.com]]></title>
             <pubDate>Wed, 02 Mar 2016 14:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Premio Turing 2016]]></title>
-            <link>https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</link>
-            <guid isPermaLink="false">https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</guid>
-            <dc:creator><![CDATA[Series divergentes]]></dc:creator>
-            <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In an age of open-carry, that video would have ended very differently]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/in-age-of-open-carry-that-video-would.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/in-age-of-open-carry-that-video-would.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premio Turing 2016]]></title>
+            <link>https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</link>
+            <guid isPermaLink="false">https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</guid>
+            <dc:creator><![CDATA[Series divergentes]]></dc:creator>
             <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4088,17 +4095,17 @@ Moon Phases, Sarah Illenberger]]></title>
             <pubDate>Tue, 01 Mar 2016 13:04:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What we say/What they hear. II]]></title>
-            <link>http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</link>
-            <guid isPermaLink="false">http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</guid>
-            <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Frequently rediscovered technologies]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we say/What they hear. II]]></title>
+            <link>http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</link>
+            <guid isPermaLink="false">http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</guid>
+            <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4272,17 +4279,17 @@ Wassily Kandinsky, Schluss (Conclusion), 1926]]></title>
             <pubDate>Tue, 01 Mar 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revue de presse mars 2016]]></title>
-            <link>http://images.math.cnrs.fr/Revue-de-presse-mars-2016.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-mars-2016.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Google Summer of Code 2016 project internships in Literate Modeling and Diagnostics]]></title>
             <link>http://robclewley.github.io/2016/03/01/google-summer-of-code-2016-project-internships-in-literate-modeling-and-diagnostics</link>
             <guid isPermaLink="false">http://robclewley.github.io/2016/03/01/google-summer-of-code-2016-project-internships-in-literate-modeling-and-diagnostics</guid>
             <dc:creator><![CDATA[Transient Dynamic]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revue de presse mars 2016]]></title>
+            <link>http://images.math.cnrs.fr/Revue-de-presse-mars-2016.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-mars-2016.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4666,17 +4673,17 @@ City Life by Dennis Cacho // NCK.DVS • Instagram]]></title>
             <pubDate>Mon, 29 Feb 2016 11:18:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Marvelous Arithmetics of Distance]]></title>
-            <link>http://poetrywithmathematics.blogspot.com/2016/02/the-marvelous-arithmetics-of-distance.html</link>
-            <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2016/02/the-marvelous-arithmetics-of-distance.html</guid>
-            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
-            <pubDate>Mon, 29 Feb 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Wrong Way to Target Math (Part II)]]></title>
             <link>http://alittlestats.blogspot.com/2016/02/the-wrong-way-to-target-math-part-ii.html</link>
             <guid isPermaLink="false">http://alittlestats.blogspot.com/2016/02/the-wrong-way-to-target-math-part-ii.html</guid>
             <dc:creator><![CDATA[A Little Stats]]></dc:creator>
+            <pubDate>Mon, 29 Feb 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Marvelous Arithmetics of Distance]]></title>
+            <link>http://poetrywithmathematics.blogspot.com/2016/02/the-marvelous-arithmetics-of-distance.html</link>
+            <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2016/02/the-marvelous-arithmetics-of-distance.html</guid>
+            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
             <pubDate>Mon, 29 Feb 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5330,17 +5337,17 @@ Perkel graph embeddings]]></title>
             <pubDate>Sat, 27 Feb 2016 13:30:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Classifying words: a tiny example of SVD truncation]]></title>
-            <link>http://calculus7.org/2016/02/27/classifying-words-a-tiny-example-of-svd-truncation/</link>
-            <guid isPermaLink="false">http://calculus7.org/2016/02/27/classifying-words-a-tiny-example-of-svd-truncation/</guid>
-            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
-            <pubDate>Sat, 27 Feb 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Atrium Rectangles]]></title>
             <link>http://mathtourist.blogspot.com/2016/02/atrium-rectangles.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/02/atrium-rectangles.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sat, 27 Feb 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Classifying words: a tiny example of SVD truncation]]></title>
+            <link>http://calculus7.org/2016/02/27/classifying-words-a-tiny-example-of-svd-truncation/</link>
+            <guid isPermaLink="false">http://calculus7.org/2016/02/27/classifying-words-a-tiny-example-of-svd-truncation/</guid>
+            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
             <pubDate>Sat, 27 Feb 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5906,17 +5913,17 @@ test anxiety!]]></title>
             <pubDate>Thu, 25 Feb 2016 17:05:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitwise Neural Networks]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/bm4Bg1NNIBI/bitwise-neural-networks.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/bm4Bg1NNIBI/bitwise-neural-networks.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Thu, 25 Feb 2016 16:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Blast From the Past... the Quincunx]]></title>
             <link>http://math-frolic.blogspot.com/2016/02/blast-from-past-quincunx.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/02/blast-from-past-quincunx.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 25 Feb 2016 16:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitwise Neural Networks]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/bm4Bg1NNIBI/bitwise-neural-networks.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/bm4Bg1NNIBI/bitwise-neural-networks.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Thu, 25 Feb 2016 16:30:00 GMT</pubDate>
         </item>
         <item>
@@ -7359,17 +7366,17 @@ https://twitter.com/Lowpolybot/status/53834373109175...]]></title>
             <pubDate>Sun, 21 Feb 2016 01:19:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 21]]></title>
-            <link>http://pballew.blogspot.com/2016/02/on-this-day-in-math-february-21.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/02/on-this-day-in-math-february-21.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 21 Feb 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Two nugget problem]]></title>
             <link>http://datagenetics.com/blog/february42016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february42016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 21 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 21]]></title>
+            <link>http://pballew.blogspot.com/2016/02/on-this-day-in-math-february-21.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/02/on-this-day-in-math-february-21.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 21 Feb 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
