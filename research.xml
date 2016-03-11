@@ -5,16 +5,30 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 01:20:08 GMT</lastBuildDate>
-        <pubDate>Fri, 11 Mar 2016 01:20:04 GMT</pubDate>
+        <lastBuildDate>Fri, 11 Mar 2016 01:47:47 GMT</lastBuildDate>
+        <pubDate>Fri, 11 Mar 2016 01:47:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The day after the shock: pollsters, forecasters scratch their heads]]></title>
+            <link>http://junkcharts.typepad.com/numbersruleyourworld/2016/03/the-day-after-the-shock-pollsters-forecasters-scratch-their-heads.html</link>
+            <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2016/03/the-day-after-the-shock-pollsters-forecasters-scratch-their-heads.html</guid>
+            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
+            <pubDate>Fri, 11 Mar 2016 01:37:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting to see opinion poll uncertainty]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/6SO12cTGTgo/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/6SO12cTGTgo/</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Fri, 11 Mar 2016 01:08:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the low-rank approach for semidefinite programs arising in synchronization and community detection]]></title>
+            <link>https://dustingmixon.wordpress.com/2016/03/10/on-the-low-rank-approach-for-semidefinite-programs-arising-in-synchronization-and-community-detection/</link>
+            <guid isPermaLink="false">https://dustingmixon.wordpress.com/2016/03/10/on-the-low-rank-approach-for-semidefinite-programs-arising-in-synchronization-and-community-detection/</guid>
+            <dc:creator><![CDATA[Short, Fat Matrices]]></dc:creator>
+            <pubDate>Fri, 11 Mar 2016 01:07:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Algorithms for Heavy Hitters in Data Streams]]></title>
@@ -43,6 +57,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/1_aomkSS-n0/</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Thu, 10 Mar 2016 22:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CS 294 Lecture 14: ARV Analysis, Part 3]]></title>
+            <link>https://lucatrevisan.wordpress.com/2016/03/10/cs-294-lecture-14-arv-analysis-part-3/</link>
+            <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2016/03/10/cs-294-lecture-14-arv-analysis-part-3/</guid>
+            <dc:creator><![CDATA[in   theory]]></dc:creator>
+            <pubDate>Thu, 10 Mar 2016 21:27:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recursion (old example)]]></title>
@@ -283,9 +304,9 @@
             <pubDate>Wed, 09 Mar 2016 18:46:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Category Theory Notes]]></title>
+            <title><![CDATA[Category Theory Seminar Notes]]></title>
             <link>null</link>
-            <guid isPermaLink="false">Category Theory Notes</guid>
+            <guid isPermaLink="false">Category Theory Seminar Notes</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Wed, 09 Mar 2016 18:17:08 GMT</pubDate>
         </item>
@@ -1602,17 +1623,17 @@ photographed at 121...]]></title>
             <pubDate>Tue, 01 Mar 2016 13:04:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frequently rediscovered technologies]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What we say/What they hear. II]]></title>
             <link>http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</link>
             <guid isPermaLink="false">http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</guid>
             <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frequently rediscovered technologies]]></title>
+            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3850,13 +3871,6 @@ ah, “fundamental theorem of homomorphisms”, we meet...]]></title>
             <guid isPermaLink="false">https://portonmath.wordpress.com/2016/02/09/checked-for-errors/</guid>
             <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
             <pubDate>Tue, 09 Feb 2016 15:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CS294 Lecture 5: Cheeger-type Inequalities for λn]]></title>
-            <link>https://lucatrevisan.wordpress.com/2016/02/09/cheeger-type-inequalities-for-%25ce%25bbn/</link>
-            <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2016/02/09/cheeger-type-inequalities-for-%ce%bbn/</guid>
-            <dc:creator><![CDATA[in   theory]]></dc:creator>
-            <pubDate>Tue, 09 Feb 2016 14:00:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bousfield-Friedlander model structure]]></title>
