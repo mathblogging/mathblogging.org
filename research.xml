@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 12:20:08 GMT</lastBuildDate>
-        <pubDate>Fri, 11 Mar 2016 12:20:04 GMT</pubDate>
+        <lastBuildDate>Fri, 11 Mar 2016 12:50:06 GMT</lastBuildDate>
+        <pubDate>Fri, 11 Mar 2016 12:50:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[multiplication]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">multiplication</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 11 Mar 2016 12:29:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did Simon Jenkins get it wrong?]]></title>
             <link>https://mathematicswithoutapologies.wordpress.com/2016/03/11/did-simon-jenkins-get-it-wrong/</link>
@@ -29,13 +36,6 @@
             <guid isPermaLink="false">http://www.logicmatters.net/2016/03/11/one-future-for-journal-publishing-revisited/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Fri, 11 Mar 2016 08:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[stable weak homotopy equivalence]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">stable weak homotopy equivalence</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 11 Mar 2016 08:46:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Object Learning and Convex Cardinal Shape Composition - implementation -]]></title>
@@ -3887,25 +3887,11 @@ ah, “fundamental theorem of homomorphisms”, we meet...]]></title>
             <pubDate>Tue, 09 Feb 2016 15:01:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bousfield-Friedlander model structure]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Bousfield-Friedlander model structure</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 09 Feb 2016 13:58:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New Judea Pearl Causal Inference "Primer"]]></title>
             <link>http://fxdiebold.blogspot.com/2016/02/new-judea-pearl-causal-inference-primer.html</link>
             <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/02/new-judea-pearl-causal-inference-primer.html</guid>
             <dc:creator><![CDATA[No Hesitations]]></dc:creator>
             <pubDate>Tue, 09 Feb 2016 13:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fourier transform of a function on a graph]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/4XNDatG3Lrc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/4XNDatG3Lrc/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 09 Feb 2016 12:44:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
