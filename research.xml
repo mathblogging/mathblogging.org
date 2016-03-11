@@ -5,10 +5,31 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 22:06:09 GMT</lastBuildDate>
-        <pubDate>Fri, 11 Mar 2016 22:06:04 GMT</pubDate>
+        <lastBuildDate>Fri, 11 Mar 2016 22:20:10 GMT</lastBuildDate>
+        <pubDate>Fri, 11 Mar 2016 22:20:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[continuity of cosine and sine proof]]></title>
+            <link>http://www.bookofproofs.org/branches/continuity-of-cosine-and-sine/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/continuity-of-cosine-and-sine/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 11 Mar 2016 22:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eulers formula proof]]></title>
+            <link>http://www.bookofproofs.org/branches/eulers-formula/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/eulers-formula/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 11 Mar 2016 22:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eulers formula]]></title>
+            <link>http://www.bookofproofs.org/branches/eulers-formula/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/eulers-formula/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 11 Mar 2016 22:04:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[continuity of cosine and sine]]></title>
             <link>http://www.bookofproofs.org/branches/continuity-of-cosine-and-sine/</link>
@@ -662,13 +683,6 @@ the...]]></title>
             <pubDate>Tue, 08 Mar 2016 22:38:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[indefinite integral antiderivative]]></title>
-            <link>http://www.bookofproofs.org/branches/indefinite-integral-antiderivative/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/indefinite-integral-antiderivative/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 08 Mar 2016 22:19:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Context for the No-Excuses/Campbell's Law discussion]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/context-for-no-excusescampbells-law.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/context-for-no-excusescampbells-law.html</guid>
@@ -1133,20 +1147,6 @@ colorful gradient 28783]]></title>
             <guid isPermaLink="false">http://www.matrix67.com/blog/archives/6572</guid>
             <dc:creator><![CDATA[Matrix67: The Aha Moments]]></dc:creator>
             <pubDate>Sun, 06 Mar 2016 09:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a sufficient condition for riemann integrable functions ii]]></title>
-            <link>http://www.bookofproofs.org/branches/a-sufficient-condition-for-riemann-integrable-functions-ii/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/a-sufficient-condition-for-riemann-integrable-functions-ii/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 06 Mar 2016 08:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a sufficient condition for riemann integrable functions]]></title>
-            <link>http://www.bookofproofs.org/branches/a-sufficient-condition-for-riemann-integrable-functions/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/a-sufficient-condition-for-riemann-integrable-functions/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 06 Mar 2016 08:34:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Capricornoid]]></title>
@@ -1770,17 +1770,17 @@ photographed at 121...]]></title>
             <pubDate>Tue, 01 Mar 2016 13:04:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What we say/What they hear. II]]></title>
-            <link>http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</link>
-            <guid isPermaLink="false">http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</guid>
-            <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Frequently rediscovered technologies]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we say/What they hear. II]]></title>
+            <link>http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</link>
+            <guid isPermaLink="false">http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</guid>
+            <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
