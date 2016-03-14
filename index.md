@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The always-fabulous Erica Klarreich on a new property of prime numbers! (via Quanta): <a href="https://t.co/3qKcsxrjfv">https://t.co/3qKcsxrjfv</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/709340226666295297">March 14, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Gelman once again on widespread &quot;statistical incompetence&quot;: <a href="https://t.co/LKu7wY0wGV">https://t.co/LKu7wY0wGV</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/708322245467361280">March 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">another great follow-up post from Gelman re: ongoing <a href="https://twitter.com/hashtag/statistics?src=hash">#statistics</a> debate <a href="https://t.co/7evoWzvhAM">https://t.co/7evoWzvhAM</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a><br>other posts: <a href="https://t.co/Qd9mNS30oo">https://t.co/Qd9mNS30oo</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/707581524749713409">March 9, 2016</a></blockquote>
