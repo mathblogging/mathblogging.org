@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 08:36:15 GMT</lastBuildDate>
-        <pubDate>Mon, 14 Mar 2016 08:36:12 GMT</pubDate>
+        <lastBuildDate>Mon, 14 Mar 2016 08:50:02 GMT</lastBuildDate>
+        <pubDate>Mon, 14 Mar 2016 08:49:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -41,13 +41,6 @@ https://t.co/j1oLdWZpFa
             <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
             <dc:creator><![CDATA[@danaernst]]></dc:creator>
             <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@ilaba's pick]]></title>
-            <description><![CDATA[Discrete Analysis is up and running! https://t.co/gFdK8ZfVNx #mbpick]]></description>
-            <guid isPermaLink="false">https://gowers.wordpress.com/2016/03/01/discrete-analysis-launched/</guid>
-            <dc:creator><![CDATA[@ilaba]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 15:43:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -86,6 +79,13 @@ other posts: https://t.co/Qd9mNS30oo]]></description>
             <pubDate>Thu, 03 Mar 2016 22:00:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Devlin on Hacker, algebra, &amp; math education: https://t.co/8DSTvH5yRe #mbpick #mathed]]></description>
+            <guid isPermaLink="false">http://ow.ly/YUBMb</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 02:46:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@MrHonner's pick]]></title>
             <description><![CDATA[John Baez computes the total cash value of the universe in "The Price of Everything"
 https://t.co/xhbsz2MdlQ
@@ -94,13 +94,6 @@ https://t.co/xhbsz2MdlQ
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2016/02/29/the-price-of-everything/</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 00:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[We already know the press uses mangled statistics, but never hurts to hear it again (via Gelman): https://t.co/ntJXhuwt4n #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/YHoqX</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 24 Feb 2016 14:37:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -122,6 +115,13 @@ https://t.co/xhbsz2MdlQ
             <guid isPermaLink="false">http://ow.ly/Yns44</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
             <pubDate>Tue, 16 Feb 2016 12:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@ilaba's pick]]></title>
+            <description><![CDATA[Discrete Analysis is up and running! https://t.co/gFdK8ZfVNx #mbpick]]></description>
+            <guid isPermaLink="false">https://gowers.wordpress.com/2016/03/01/discrete-analysis-launched/</guid>
+            <dc:creator><![CDATA[@ilaba]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 15:43:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -161,10 +161,10 @@ https://t.co/hnTpq18GNt #mbpick]]></description>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Devlin on Hacker, algebra, &amp; math education: https://t.co/8DSTvH5yRe #mbpick #mathed]]></description>
-            <guid isPermaLink="false">http://ow.ly/YUBMb</guid>
+            <description><![CDATA[We already know the press uses mangled statistics, but never hurts to hear it again (via Gelman): https://t.co/ntJXhuwt4n #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/YHoqX</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 02:46:43 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 14:37:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
