@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 20:35:05 GMT</lastBuildDate>
-        <pubDate>Sat, 19 Mar 2016 20:34:59 GMT</pubDate>
+        <lastBuildDate>Sat, 19 Mar 2016 20:50:12 GMT</lastBuildDate>
+        <pubDate>Sat, 19 Mar 2016 20:50:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -24,6 +24,13 @@
             <pubDate>Sat, 19 Mar 2016 19:39:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[probability distribution]]></title>
+            <link>http://www.bookofproofs.org/branches/probability-distribution/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/probability-distribution/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 19 Mar 2016 18:43:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This is so true.]]></title>
             <link>http://mindfuckmath.com/post/141322215611</link>
             <guid isPermaLink="false">http://mindfuckmath.com/post/141322215611</guid>
@@ -36,13 +43,6 @@
             <guid isPermaLink="false">http://meandering-through-mathematics.blogspot.com/2016/03/build-your-own-flat-panel-speakers.html</guid>
             <dc:creator><![CDATA[Meandering Through Mathematics]]></dc:creator>
             <pubDate>Sat, 19 Mar 2016 18:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[probability distribution]]></title>
-            <link>http://www.bookofproofs.org/branches/probability-distribution/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/probability-distribution/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 19 Mar 2016 18:26:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[random variable realization population and sample]]></title>
@@ -1181,17 +1181,17 @@ There’s a book out there that’s...]]></title>
             <pubDate>Thu, 17 Mar 2016 05:00:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Near-Optimal Sample Complexity Bounds for Circulant Binary Embedding]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/r16A35apeyE/near-optimal-sample-complexity-bounds.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/r16A35apeyE/near-optimal-sample-complexity-bounds.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Thu, 17 Mar 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Happy St. Paddy's Day 2016]]></title>
             <link>http://mrburkemath.blogspot.com/2016/03/happy-st-paddys-day-2016.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/03/happy-st-paddys-day-2016.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Thu, 17 Mar 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Near-Optimal Sample Complexity Bounds for Circulant Binary Embedding]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/r16A35apeyE/near-optimal-sample-complexity-bounds.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/r16A35apeyE/near-optimal-sample-complexity-bounds.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Thu, 17 Mar 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2593,17 +2593,17 @@ The Gaussian Integral is a beautiful integral...]]></title>
             <pubDate>Mon, 14 Mar 2016 11:23:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.256 - Unification]]></title>
-            <link>http://mathtans.blogspot.com/2016/03/s7256-unification.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7256-unification.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Timing Is Everything...]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.256 - Unification]]></title>
+            <link>http://mathtans.blogspot.com/2016/03/s7256-unification.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7256-unification.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4291,17 +4291,17 @@ Submitted by Naked Geometry: Fibonacci Curio...]]></title>
             <pubDate>Thu, 10 Mar 2016 08:47:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An Optimal Algorithm for l1-Heavy Hitters in Insertion Streams and Related Problems / BPTree: an $\ell_2$ heavy hitters algorithm using constant memory / Approximate Hamming distance in a stream]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/yx1iIk4ezA0/an-optimal-algorithm-for-l1-heavy.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/yx1iIk4ezA0/an-optimal-algorithm-for-l1-heavy.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Thu, 10 Mar 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Axis and Vertex]]></title>
             <link>http://mrburkemath.blogspot.com/2016/03/axis-and-vertex.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/03/axis-and-vertex.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Thu, 10 Mar 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Optimal Algorithm for l1-Heavy Hitters in Insertion Streams and Related Problems / BPTree: an $\ell_2$ heavy hitters algorithm using constant memory / Approximate Hamming distance in a stream]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/yx1iIk4ezA0/an-optimal-algorithm-for-l1-heavy.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/yx1iIk4ezA0/an-optimal-algorithm-for-l1-heavy.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Thu, 10 Mar 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4750,17 +4750,17 @@ Geometry]]></title>
             <pubDate>Wed, 09 Mar 2016 07:05:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Concours « Bulles au carré » 2016 : Vote prolongé jusqu'au 20 mars...]]></title>
-            <link>http://images.math.cnrs.fr/Concours-Bulles-au-carre-2016-DERNIERS-JOURS-POUR-VOTER.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Concours-Bulles-au-carre-2016-DERNIERS-JOURS-POUR-VOTER.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 09 Mar 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ce Soir Paris Machine Learning Meetup #10 Season 3, M&A, Speech Recognition, Telecoms, Mariana DL & HR]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/GvKllQ6yuEo/ce-soir-paris-machine-learning-meetup.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/GvKllQ6yuEo/ce-soir-paris-machine-learning-meetup.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 09 Mar 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concours « Bulles au carré » 2016 : Vote prolongé jusqu'au 20 mars...]]></title>
+            <link>http://images.math.cnrs.fr/Concours-Bulles-au-carre-2016-DERNIERS-JOURS-POUR-VOTER.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Concours-Bulles-au-carre-2016-DERNIERS-JOURS-POUR-VOTER.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 09 Mar 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5057,17 +5057,17 @@ ink on paper]]></title>
             <pubDate>Tue, 08 Mar 2016 16:05:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paris Machine Learning Newsletter, March 2016 [In French]]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/N_nDsYW8vYg/paris-machine-learning-newsletter-march.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/N_nDsYW8vYg/paris-machine-learning-newsletter-march.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Tue, 08 Mar 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[More cool machines]]></title>
             <link>http://youdothemathkthrucalculus.blogspot.com/2016/03/more-cool-machines.html</link>
             <guid isPermaLink="false">http://youdothemathkthrucalculus.blogspot.com/2016/03/more-cool-machines.html</guid>
             <dc:creator><![CDATA[You Do the Math -- K thru Calculus]]></dc:creator>
+            <pubDate>Tue, 08 Mar 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris Machine Learning Newsletter, March 2016 [In French]]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/N_nDsYW8vYg/paris-machine-learning-newsletter-march.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/N_nDsYW8vYg/paris-machine-learning-newsletter-march.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Tue, 08 Mar 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5590,13 +5590,6 @@ Rick Whitacre ||...]]></title>
             <pubDate>Mon, 07 Mar 2016 12:16:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Old, Old Favorite]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Silver Arches]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/silver-arches.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/silver-arches.html</guid>
@@ -5608,6 +5601,13 @@ Rick Whitacre ||...]]></title>
             <link>http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Old, Old Favorite]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5911,17 +5911,17 @@ Bridget Riley - Study for Disfigured Circle - 1963]]></title>
             <pubDate>Sun, 06 Mar 2016 13:30:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Essential Knowledge...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Capitol Drinking Fountain]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/capitol-drinking-fountain.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/capitol-drinking-fountain.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Essential Knowledge...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
