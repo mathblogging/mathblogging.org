@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">John Baez with interesting note on &quot;common prime gaps&quot;: <a href="https://t.co/xc6LAbAsXd">https://t.co/xc6LAbAsXd</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a><br>attn: <a href="https://twitter.com/evelynjlamb">@evelynjlamb</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/711148987244527617">March 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">1 thing that&#39;s intuitively obvious is that James Propp is incapable of writing an UNinteresting post: <a href="https://t.co/ieySZUKuMw">https://t.co/ieySZUKuMw</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/710420493497671680">March 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The always-fabulous Erica Klarreich on a new property of prime numbers! (via Quanta): <a href="https://t.co/3qKcsxrjfv">https://t.co/3qKcsxrjfv</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/709340226666295297">March 14, 2016</a></blockquote>
