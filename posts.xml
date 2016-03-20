@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 07:19:56 GMT</lastBuildDate>
-        <pubDate>Sun, 20 Mar 2016 07:19:49 GMT</pubDate>
+        <lastBuildDate>Sun, 20 Mar 2016 08:05:42 GMT</lastBuildDate>
+        <pubDate>Sun, 20 Mar 2016 08:05:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -3540,6 +3540,13 @@ My square from 9 Squares 8.]]></title>
             <pubDate>Sat, 12 Mar 2016 00:30:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Eat the Sun]]></title>
+            <link>http://what-if.xkcd.com/148/</link>
+            <guid isPermaLink="false">http://what-if.xkcd.com/148/</guid>
+            <dc:creator><![CDATA[What If?]]></dc:creator>
+            <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Simulating a Continuous Time Markov Chain -- A series of posts]]></title>
             <link>https://kgourgou.github.io//2016/03/12/intro-on-ssa.html</link>
             <guid isPermaLink="false">https://kgourgou.github.io//2016/03/12/intro-on-ssa.html</guid>
@@ -3551,13 +3558,6 @@ My square from 9 Squares 8.]]></title>
             <link>http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eat the Sun]]></title>
-            <link>http://what-if.xkcd.com/148/</link>
-            <guid isPermaLink="false">http://what-if.xkcd.com/148/</guid>
-            <dc:creator><![CDATA[What If?]]></dc:creator>
             <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7149,17 +7149,17 @@ Producer Very Puzzle recently announced that they...]]></title>
             <pubDate>Wed, 02 Mar 2016 14:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Premio Turing 2016]]></title>
-            <link>https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</link>
-            <guid isPermaLink="false">https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</guid>
-            <dc:creator><![CDATA[Series divergentes]]></dc:creator>
-            <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In an age of open-carry, that video would have ended very differently]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/in-age-of-open-carry-that-video-would.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/in-age-of-open-carry-that-video-would.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premio Turing 2016]]></title>
+            <link>https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</link>
+            <guid isPermaLink="false">https://seriesdivergentes.wordpress.com/2016/03/02/premio-turing-2016/</guid>
+            <dc:creator><![CDATA[Series divergentes]]></dc:creator>
             <pubDate>Wed, 02 Mar 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8586,17 +8586,17 @@ FINALLY took my first step towards making my...]]></title>
             <pubDate>Sat, 27 Feb 2016 14:22:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Classifying words: a tiny example of SVD truncation]]></title>
-            <link>http://calculus7.org/2016/02/27/classifying-words-a-tiny-example-of-svd-truncation/</link>
-            <guid isPermaLink="false">http://calculus7.org/2016/02/27/classifying-words-a-tiny-example-of-svd-truncation/</guid>
-            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
-            <pubDate>Sat, 27 Feb 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Atrium Rectangles]]></title>
             <link>http://mathtourist.blogspot.com/2016/02/atrium-rectangles.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/02/atrium-rectangles.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sat, 27 Feb 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Classifying words: a tiny example of SVD truncation]]></title>
+            <link>http://calculus7.org/2016/02/27/classifying-words-a-tiny-example-of-svd-truncation/</link>
+            <guid isPermaLink="false">http://calculus7.org/2016/02/27/classifying-words-a-tiny-example-of-svd-truncation/</guid>
+            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
             <pubDate>Sat, 27 Feb 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
