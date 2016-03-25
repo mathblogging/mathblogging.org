@@ -5,10 +5,31 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 15:16:50 GMT</lastBuildDate>
-        <pubDate>Fri, 25 Mar 2016 15:16:44 GMT</pubDate>
+        <lastBuildDate>Fri, 25 Mar 2016 15:50:48 GMT</lastBuildDate>
+        <pubDate>Fri, 25 Mar 2016 15:50:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[binomial distribution proof]]></title>
+            <link>http://www.bookofproofs.org/branches/binomial-distribution/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/binomial-distribution/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 15:29:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[probability mass function]]></title>
+            <link>http://www.bookofproofs.org/branches/probability-mass-function/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/probability-mass-function/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 15:24:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[multinomial theorem proof by induction]]></title>
+            <link>http://www.bookofproofs.org/branches/multinomial-theorem/proof-by-induction/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/multinomial-theorem/proof-by-induction/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 15:00:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bunny Sequence]]></title>
             <link>http://mrburkemath.blogspot.com/2016/03/bunny-sequence.html</link>
@@ -70,7 +91,7 @@
             <link>http://www.bookofproofs.org/branches/multinomial-theorem/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/multinomial-theorem/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 11:34:59 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2016 11:41:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maxwell-Boltzmann velocity distribution]]></title>
@@ -129,17 +150,17 @@
             <pubDate>Fri, 25 Mar 2016 03:30:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mars 2016, 4e défi]]></title>
-            <link>http://images.math.cnrs.fr/Mars-2016-4e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Mars-2016-4e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 03:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Calling All Number Theorists....]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/calling-all-number-theorists.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/calling-all-number-theorists.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 03:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mars 2016, 4e défi]]></title>
+            <link>http://images.math.cnrs.fr/Mars-2016-4e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Mars-2016-4e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 25 Mar 2016 03:00:00 GMT</pubDate>
         </item>
         <item>
@@ -995,17 +1016,17 @@ Today the Department of Astonishing Optical...]]></title>
             <pubDate>Tue, 22 Mar 2016 12:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turin Tower]]></title>
-            <link>http://mathtourist.blogspot.com/2016/03/turin-tower.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/turin-tower.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 22 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matrices intercalaires et conjecture de Yuzvinsky]]></title>
             <link>http://images.math.cnrs.fr/Matrices-intercalaires-et-conjecture-de-Yuzvinsky.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Matrices-intercalaires-et-conjecture-de-Yuzvinsky.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 22 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turin Tower]]></title>
+            <link>http://mathtourist.blogspot.com/2016/03/turin-tower.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/turin-tower.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 22 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1573,13 +1594,6 @@ The Cayley graph of the free group on two...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/cW-ffyH3mao/camtasia-studio.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Sun, 20 Mar 2016 18:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[binomial distribution proof]]></title>
-            <link>http://www.bookofproofs.org/branches/binomial-distribution/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/binomial-distribution/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 20 Mar 2016 18:09:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abel Prize and Fermat’s Last Theorem]]></title>
@@ -2204,20 +2218,6 @@ Baba Yagga, 1964 by Kenneth Noland]]></title>
             <pubDate>Fri, 18 Mar 2016 20:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[pairwise independent events]]></title>
-            <link>http://www.bookofproofs.org/branches/pairwise-independent-events/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/pairwise-independent-events/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 18 Mar 2016 20:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mutually independent events]]></title>
-            <link>http://www.bookofproofs.org/branches/mutually-independent-events/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/mutually-independent-events/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 18 Mar 2016 20:09:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[This Week in Math Ed: March 18, 2016]]></title>
             <link>http://blog.mathed.net/2016/03/this-week-in-math-ed-march-18-2016.html</link>
             <guid isPermaLink="false">http://blog.mathed.net/2016/03/this-week-in-math-ed-march-18-2016.html</guid>
@@ -2813,17 +2813,17 @@ There’s a book out there that’s...]]></title>
             <pubDate>Thu, 17 Mar 2016 11:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Random graphs with two-sided degree bounds]]></title>
-            <link>http://calculus7.org/2016/03/17/random-graphs-with-two-sided-degree-bounds/</link>
-            <guid isPermaLink="false">http://calculus7.org/2016/03/17/random-graphs-with-two-sided-degree-bounds/</guid>
-            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
-            <pubDate>Thu, 17 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Smiles For Wiles]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/smiles-for-wiles.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/smiles-for-wiles.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 17 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Random graphs with two-sided degree bounds]]></title>
+            <link>http://calculus7.org/2016/03/17/random-graphs-with-two-sided-degree-bounds/</link>
+            <guid isPermaLink="false">http://calculus7.org/2016/03/17/random-graphs-with-two-sided-degree-bounds/</guid>
+            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
             <pubDate>Thu, 17 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2890,17 +2890,17 @@ There’s a book out there that’s...]]></title>
             <pubDate>Thu, 17 Mar 2016 05:00:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Happy St. Paddy's Day 2016]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/03/happy-st-paddys-day-2016.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/03/happy-st-paddys-day-2016.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Thu, 17 Mar 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Near-Optimal Sample Complexity Bounds for Circulant Binary Embedding]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/r16A35apeyE/near-optimal-sample-complexity-bounds.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/r16A35apeyE/near-optimal-sample-complexity-bounds.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Thu, 17 Mar 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Happy St. Paddy's Day 2016]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/03/happy-st-paddys-day-2016.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/03/happy-st-paddys-day-2016.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 17 Mar 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
