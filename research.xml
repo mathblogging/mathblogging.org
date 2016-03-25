@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 12:01:57 GMT</lastBuildDate>
-        <pubDate>Fri, 25 Mar 2016 12:01:52 GMT</pubDate>
+        <lastBuildDate>Fri, 25 Mar 2016 13:01:51 GMT</lastBuildDate>
+        <pubDate>Fri, 25 Mar 2016 13:01:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[multinomial theorem]]></title>
+            <link>http://www.bookofproofs.org/branches/multinomial-theorem/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/multinomial-theorem/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 11:34:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maxwell-Boltzmann velocity distribution]]></title>
             <link>http://www.physicspages.com/2016/03/25/maxwell-boltzmann-velocity-distribution/</link>
@@ -197,13 +204,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/4GNSuibIvBo/acdc-structured-efficient-linear-layer.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 17:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[free spectrum]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">free spectrum</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 16:44:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nuclear Spent Fuel Annual Generation Rate]]></title>
@@ -961,13 +961,6 @@ colorful gradient 27984]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2016/03/17/kalesan-fagan-and-galea-respond-to-criticism-of-their-paper-on-gun-laws-and/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Thu, 17 Mar 2016 23:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[characterization of independent events ii proof]]></title>
-            <link>http://www.bookofproofs.org/branches/characterization-of-independent-events-ii/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/characterization-of-independent-events-ii/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Thu, 17 Mar 2016 22:32:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Galois connections are related with pointfree funcoids!]]></title>
@@ -2718,6 +2711,13 @@ colorful gradient 28783]]></title>
             <pubDate>Sat, 05 Mar 2016 10:07:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Symmetric spectra]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Symmetric spectra</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 05 Mar 2016 09:29:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Donald Trump is the Perfect Expression of Contemporary Capitalism]]></title>
             <link>http://www.newappsblog.com/2016/03/donald-trump-is-the-perfect-expression-of-contemporary-capitalism.html</link>
             <guid isPermaLink="false">http://www.newappsblog.com/2016/03/donald-trump-is-the-perfect-expression-of-contemporary-capitalism.html</guid>
@@ -3143,17 +3143,17 @@ photographed at 121...]]></title>
             <pubDate>Tue, 01 Mar 2016 13:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frequently rediscovered technologies]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What we say/What they hear. II]]></title>
             <link>http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</link>
             <guid isPermaLink="false">http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</guid>
             <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frequently rediscovered technologies]]></title>
+            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3893,13 +3893,6 @@ A flowchart of meerkat wrestling encounters,...]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/02/just-when-you-thought-hulus-anti-trust.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 23 Feb 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Graphs and square roots modulo a prime]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/E0F4m7G5MCE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/E0F4m7G5MCE/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 23 Feb 2016 12:37:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Highlights of Algorithms 2016]]></title>
