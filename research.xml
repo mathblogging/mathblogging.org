@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 17:46:46 GMT</lastBuildDate>
-        <pubDate>Sat, 26 Mar 2016 17:46:41 GMT</pubDate>
+        <lastBuildDate>Sat, 26 Mar 2016 18:05:44 GMT</lastBuildDate>
+        <pubDate>Sat, 26 Mar 2016 18:05:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[bayes theorem proof]]></title>
+            <link>http://www.bookofproofs.org/branches/bayes-theorem/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/bayes-theorem/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 26 Mar 2016 17:44:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[application of the urn model without replacement]]></title>
+            <link>http://www.bookofproofs.org/branches/application-of-the-urn-model-without-replacement/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/application-of-the-urn-model-without-replacement/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 26 Mar 2016 17:20:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A. Spanos: Talking back to the critics using error statistics]]></title>
             <link>http://errorstatistics.com/2016/03/26/a-spanos-talking-back-to-the-critics-using-error-statistics/</link>
@@ -162,13 +176,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/mutually-exclusive-vs-pairwise-independent-events/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Fri, 25 Mar 2016 17:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[binomial distribution proof]]></title>
-            <link>http://www.bookofproofs.org/branches/binomial-distribution/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/binomial-distribution/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 15:29:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[probability mass function]]></title>
@@ -713,13 +720,6 @@ Caspar Friedrich, Monk By the Sea,...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/7IRPzhWuJjY/</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Sun, 20 Mar 2016 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[monotonically increasing property of probability distributions proof]]></title>
-            <link>http://www.bookofproofs.org/branches/monotonically-increasing-property-of-probability-distributions/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/monotonically-increasing-property-of-probability-distributions/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 20 Mar 2016 11:35:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Les Données et le Monde Libre, et Ouvert]]></title>
@@ -3227,17 +3227,17 @@ photographed at 121...]]></title>
             <pubDate>Tue, 01 Mar 2016 13:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What we say/What they hear. II]]></title>
-            <link>http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</link>
-            <guid isPermaLink="false">http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</guid>
-            <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Frequently rediscovered technologies]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/oacYTGprryM/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we say/What they hear. II]]></title>
+            <link>http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</link>
+            <guid isPermaLink="false">http://launchings.blogspot.com/2016/03/what-we-saywhat-they-hear-ii.html</guid>
+            <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3849,13 +3849,6 @@ update: still don’t know what schemes are,...]]></title>
             <guid isPermaLink="false">http://windowsontheory.org/2016/02/24/workshop-on-chaining-methods-guest-post-by-jelani-nelson/</guid>
             <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
             <pubDate>Wed, 24 Feb 2016 18:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Very early difficulties II]]></title>
-            <link>http://www.abstractmath.org/Word%2520Press/?p=10073</link>
-            <guid isPermaLink="false">http://www.abstractmath.org/Word%20Press/?p=10073</guid>
-            <dc:creator><![CDATA[Gyre&Gimble]]></dc:creator>
-            <pubDate>Wed, 24 Feb 2016 17:28:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ed Begle’s Laws of Mathematics Education]]></title>
