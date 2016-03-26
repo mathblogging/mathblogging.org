@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 09:49:26 GMT</lastBuildDate>
-        <pubDate>Sat, 26 Mar 2016 09:49:23 GMT</pubDate>
+        <lastBuildDate>Sat, 26 Mar 2016 10:31:46 GMT</lastBuildDate>
+        <pubDate>Sat, 26 Mar 2016 10:31:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[EE = maths × sums²]]></title>
+            <link>http://aperiodical.com/2016/03/ee-maths-sums2/</link>
+            <guid isPermaLink="false">http://aperiodical.com/2016/03/ee-maths-sums2/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Sat, 26 Mar 2016 09:56:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[From “Proofs Without Words” by Roger Nelsen.]]></title>
             <link>http://themathkid.tumblr.com/post/141688266316</link>
@@ -733,17 +740,17 @@ This is just the first post for today....]]></title>
             <pubDate>Mon, 14 Mar 2016 12:30:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.256 - Unification]]></title>
-            <link>http://mathtans.blogspot.com/2016/03/s7256-unification.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7256-unification.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Timing Is Everything...]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.256 - Unification]]></title>
+            <link>http://mathtans.blogspot.com/2016/03/s7256-unification.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7256-unification.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1252,17 +1259,17 @@ Strong grasp of mathematics there ...]]></title>
             <pubDate>Mon, 07 Mar 2016 12:16:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.255 - In Synch]]></title>
-            <link>http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Old, Old Favorite]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.255 - In Synch]]></title>
+            <link>http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1418,13 +1425,6 @@ Strong grasp of mathematics there ...]]></title>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-useful-episode-33/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Fri, 04 Mar 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maths Objects: polyhedra]]></title>
-            <link>http://aperiodical.com/2016/03/maths-objects-polyhedra/</link>
-            <guid isPermaLink="false">http://aperiodical.com/2016/03/maths-objects-polyhedra/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Fri, 04 Mar 2016 08:45:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Η γενίκευση του αλγορίθμου για τον γρίφο των μεταγγίσεων και ένα παιδικό ποίημα με εφτάρια που ήταν πολύ σκληρό για να..πεθάνει]]></title>
@@ -1761,13 +1761,6 @@ Strong grasp of mathematics there ...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/eliatron/~3/mPSMjhtvibM/carnamat70.html</guid>
             <dc:creator><![CDATA[Tito Eliatron Dixit]]></dc:creator>
             <pubDate>Wed, 24 Feb 2016 10:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ask Uncle Colin: How do we know the digits of $\pi$ don’t recur?]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-know-digits-pi-dont-recur/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-know-digits-pi-dont-recur/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Wed, 24 Feb 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ένα μαθημαγικό τρικ και μια  ιστορική σύμπτωση]]></title>
