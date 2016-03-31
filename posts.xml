@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 09:05:07 GMT</lastBuildDate>
-        <pubDate>Thu, 31 Mar 2016 09:05:01 GMT</pubDate>
+        <lastBuildDate>Thu, 31 Mar 2016 09:21:15 GMT</lastBuildDate>
+        <pubDate>Thu, 31 Mar 2016 09:21:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[coalgebra over a comonad]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">coalgebra over a comonad</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 31 Mar 2016 09:06:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mutation-bias driving the evolution of mutation rates]]></title>
             <link>https://egtheory.wordpress.com/2016/03/31/mutation-bias/</link>
@@ -914,17 +921,17 @@ Matthieu venot l 2014]]></title>
             <pubDate>Mon, 28 Mar 2016 11:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Splitting a Hexagon]]></title>
-            <link>http://mathtourist.blogspot.com/2016/03/splitting-hexagon.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/splitting-hexagon.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 28 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.259 - Question Marks]]></title>
             <link>http://mathtans.blogspot.com/2016/03/s7259-question-marks.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7259-question-marks.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 28 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Splitting a Hexagon]]></title>
+            <link>http://mathtourist.blogspot.com/2016/03/splitting-hexagon.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/splitting-hexagon.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -942,16 +949,16 @@ Matthieu venot l 2014]]></title>
             <pubDate>Mon, 28 Mar 2016 05:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.5.12]]></title>
-            <link>http://images.math.cnrs.fr/-3929.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-3929.html</guid>
+            <title><![CDATA[L'effet Droste]]></title>
+            <link>http://images.math.cnrs.fr/L-effet-Droste.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/L-effet-Droste.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[L'effet Droste]]></title>
-            <link>http://images.math.cnrs.fr/L-effet-Droste.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/L-effet-Droste.html</guid>
+            <title><![CDATA[4.5.12]]></title>
+            <link>http://images.math.cnrs.fr/-3929.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-3929.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 05:00:00 GMT</pubDate>
         </item>
@@ -1876,17 +1883,17 @@ gorgeous idea by Rafael Araujo
             <pubDate>Fri, 25 Mar 2016 03:30:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mars 2016, 4e défi]]></title>
-            <link>http://images.math.cnrs.fr/Mars-2016-4e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Mars-2016-4e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 03:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Calling All Number Theorists....]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/calling-all-number-theorists.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/calling-all-number-theorists.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 03:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mars 2016, 4e défi]]></title>
+            <link>http://images.math.cnrs.fr/Mars-2016-4e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Mars-2016-4e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 25 Mar 2016 03:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2595,17 +2602,24 @@ Today the Department of Astonishing Optical...]]></title>
             <pubDate>Tue, 22 Mar 2016 15:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The quality control problems continue]]></title>
-            <link>http://youdothemathkthrucalculus.blogspot.com/2016/03/the-quality-control-problems-continue.html</link>
-            <guid isPermaLink="false">http://youdothemathkthrucalculus.blogspot.com/2016/03/the-quality-control-problems-continue.html</guid>
-            <dc:creator><![CDATA[You Do the Math -- K thru Calculus]]></dc:creator>
-            <pubDate>Tue, 22 Mar 2016 14:00:00 GMT</pubDate>
+            <title><![CDATA[injective or projective morphism]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">injective or projective morphism</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 22 Mar 2016 14:19:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICASSP poster:  Random Projections through multiple optical scattering: Approximating kernels at the speed of light]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gdPGUcJwAkM/icassp-poster-random-projections.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gdPGUcJwAkM/icassp-poster-random-projections.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 22 Mar 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The quality control problems continue]]></title>
+            <link>http://youdothemathkthrucalculus.blogspot.com/2016/03/the-quality-control-problems-continue.html</link>
+            <guid isPermaLink="false">http://youdothemathkthrucalculus.blogspot.com/2016/03/the-quality-control-problems-continue.html</guid>
+            <dc:creator><![CDATA[You Do the Math -- K thru Calculus]]></dc:creator>
             <pubDate>Tue, 22 Mar 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2630,17 +2644,17 @@ Today the Department of Astonishing Optical...]]></title>
             <pubDate>Tue, 22 Mar 2016 12:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turin Tower]]></title>
-            <link>http://mathtourist.blogspot.com/2016/03/turin-tower.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/turin-tower.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 22 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matrices intercalaires et conjecture de Yuzvinsky]]></title>
             <link>http://images.math.cnrs.fr/Matrices-intercalaires-et-conjecture-de-Yuzvinsky.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Matrices-intercalaires-et-conjecture-de-Yuzvinsky.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 22 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turin Tower]]></title>
+            <link>http://mathtourist.blogspot.com/2016/03/turin-tower.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/turin-tower.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 22 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3881,17 +3895,17 @@ Baba Yagga, 1964 by Kenneth Noland]]></title>
             <pubDate>Fri, 18 Mar 2016 12:07:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Potpourri]]></title>
-            <link>http://mathtango.blogspot.com/2016/03/potpourri.html</link>
-            <guid isPermaLink="false">http://mathtango.blogspot.com/2016/03/potpourri.html</guid>
-            <dc:creator><![CDATA[MathTango...]]></dc:creator>
-            <pubDate>Fri, 18 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Color Blocks]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/color-blocks.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/color-blocks.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Fri, 18 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Potpourri]]></title>
+            <link>http://mathtango.blogspot.com/2016/03/potpourri.html</link>
+            <guid isPermaLink="false">http://mathtango.blogspot.com/2016/03/potpourri.html</guid>
+            <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Fri, 18 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5566,17 +5580,17 @@ The Gaussian Integral is a beautiful integral...]]></title>
             <pubDate>Mon, 14 Mar 2016 11:23:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.256 - Unification]]></title>
-            <link>http://mathtans.blogspot.com/2016/03/s7256-unification.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7256-unification.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Timing Is Everything...]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.256 - Unification]]></title>
+            <link>http://mathtans.blogspot.com/2016/03/s7256-unification.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7256-unification.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8106,17 +8120,17 @@ colorful gradient 28783]]></title>
             <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Silver Arches]]></title>
-            <link>http://mathtourist.blogspot.com/2016/03/silver-arches.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/silver-arches.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.255 - In Synch]]></title>
             <link>http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Silver Arches]]></title>
+            <link>http://mathtourist.blogspot.com/2016/03/silver-arches.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/silver-arches.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8211,17 +8225,17 @@ colorful gradient 28783]]></title>
             <pubDate>Mon, 07 Mar 2016 00:39:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - April 7]]></title>
-            <link>http://pballew.blogspot.com/2016/03/on-this-day-in-math-april-7.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/03/on-this-day-in-math-april-7.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 07 Mar 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Property based testing, hypothesis and finding a bug]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/code/2016/03/07/Property-based-testing-and-finding-a-bug.html</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/code/2016/03/07/Property-based-testing-and-finding-a-bug.html</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Mon, 07 Mar 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - April 7]]></title>
+            <link>http://pballew.blogspot.com/2016/03/on-this-day-in-math-april-7.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/03/on-this-day-in-math-april-7.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8365,17 +8379,17 @@ colorful gradient 28783]]></title>
             <pubDate>Sun, 06 Mar 2016 13:57:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Essential Knowledge...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Capitol Drinking Fountain]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/capitol-drinking-fountain.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/capitol-drinking-fountain.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Essential Knowledge...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/essential-knowledge.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -9284,17 +9298,17 @@ Producer Very Puzzle recently announced that they...]]></title>
             <pubDate>Wed, 02 Mar 2016 13:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Good Reads: Real Analysis by N. L. Carothers]]></title>
-            <link>http://www.math3ma.com/mathema/2016/3/2/good-reads-real-analysis-by-n-l-carothers</link>
-            <guid isPermaLink="false">http://www.math3ma.com/mathema/2016/3/2/good-reads-real-analysis-by-n-l-carothers</guid>
-            <dc:creator><![CDATA[Math3ma]]></dc:creator>
-            <pubDate>Wed, 02 Mar 2016 12:28:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Knowledge Gaps]]></title>
             <link>http://www.resourceaholic.com/2016/03/knowledge-gaps.html</link>
             <guid isPermaLink="false">http://www.resourceaholic.com/2016/03/knowledge-gaps.html</guid>
             <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
+            <pubDate>Wed, 02 Mar 2016 12:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good Reads: Real Analysis by N. L. Carothers]]></title>
+            <link>http://www.math3ma.com/mathema/2016/3/2/good-reads-real-analysis-by-n-l-carothers</link>
+            <guid isPermaLink="false">http://www.math3ma.com/mathema/2016/3/2/good-reads-real-analysis-by-n-l-carothers</guid>
+            <dc:creator><![CDATA[Math3ma]]></dc:creator>
             <pubDate>Wed, 02 Mar 2016 12:28:00 GMT</pubDate>
         </item>
         <item>
@@ -10019,17 +10033,17 @@ Wassily Kandinsky, Schluss (Conclusion), 1926]]></title>
             <pubDate>Mon, 29 Feb 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Marvelous Arithmetics of Distance]]></title>
-            <link>http://poetrywithmathematics.blogspot.com/2016/02/the-marvelous-arithmetics-of-distance.html</link>
-            <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2016/02/the-marvelous-arithmetics-of-distance.html</guid>
-            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
-            <pubDate>Mon, 29 Feb 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Wrong Way to Target Math (Part II)]]></title>
             <link>http://alittlestats.blogspot.com/2016/02/the-wrong-way-to-target-math-part-ii.html</link>
             <guid isPermaLink="false">http://alittlestats.blogspot.com/2016/02/the-wrong-way-to-target-math-part-ii.html</guid>
             <dc:creator><![CDATA[A Little Stats]]></dc:creator>
+            <pubDate>Mon, 29 Feb 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Marvelous Arithmetics of Distance]]></title>
+            <link>http://poetrywithmathematics.blogspot.com/2016/02/the-marvelous-arithmetics-of-distance.html</link>
+            <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2016/02/the-marvelous-arithmetics-of-distance.html</guid>
+            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
             <pubDate>Mon, 29 Feb 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
