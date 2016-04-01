@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 00:05:13 GMT</lastBuildDate>
-        <pubDate>Fri, 01 Apr 2016 00:05:07 GMT</pubDate>
+        <lastBuildDate>Fri, 01 Apr 2016 00:20:37 GMT</lastBuildDate>
+        <pubDate>Fri, 01 Apr 2016 00:20:31 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -485,17 +485,17 @@ Geometry]]></title>
             <pubDate>Wed, 30 Mar 2016 11:54:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grain Storage]]></title>
-            <link>http://mathtourist.blogspot.com/2016/03/grain-storage.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/grain-storage.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 30 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Of Marrieds and Singles...]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Wed, 30 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grain Storage]]></title>
+            <link>http://mathtourist.blogspot.com/2016/03/grain-storage.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/grain-storage.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 30 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1149,16 +1149,16 @@ Matthieu venot l 2014]]></title>
             <pubDate>Mon, 28 Mar 2016 05:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.5.12]]></title>
-            <link>http://images.math.cnrs.fr/-3929.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-3929.html</guid>
+            <title><![CDATA[L'effet Droste]]></title>
+            <link>http://images.math.cnrs.fr/L-effet-Droste.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/L-effet-Droste.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[L'effet Droste]]></title>
-            <link>http://images.math.cnrs.fr/L-effet-Droste.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/L-effet-Droste.html</guid>
+            <title><![CDATA[4.5.12]]></title>
+            <link>http://images.math.cnrs.fr/-3929.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-3929.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 05:00:00 GMT</pubDate>
         </item>
@@ -1490,6 +1490,15 @@ Astrophysicists detect ultra-fast winds near...]]></title>
             <pubDate>Sat, 26 Mar 2016 21:03:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[matthen:
+
+A dodecahedron tumbling inside a circumscribing...]]></title>
+            <link>http://mindfuckmath.com/post/141737865506</link>
+            <guid isPermaLink="false">http://mindfuckmath.com/post/141737865506</guid>
+            <dc:creator><![CDATA[Mindfuck Math]]></dc:creator>
+            <pubDate>Sat, 26 Mar 2016 21:02:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[wired:
 
 NASA’s Solar
@@ -1497,15 +1506,6 @@ Dynamics Observatory captures the sun’s...]]></title>
             <link>http://proofmathisbeautiful.tumblr.com/post/141737862787</link>
             <guid isPermaLink="false">http://proofmathisbeautiful.tumblr.com/post/141737862787</guid>
             <dc:creator><![CDATA[Proof]]></dc:creator>
-            <pubDate>Sat, 26 Mar 2016 21:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[matthen:
-
-A dodecahedron tumbling inside a circumscribing...]]></title>
-            <link>http://mindfuckmath.com/post/141737865506</link>
-            <guid isPermaLink="false">http://mindfuckmath.com/post/141737865506</guid>
-            <dc:creator><![CDATA[Mindfuck Math]]></dc:creator>
             <pubDate>Sat, 26 Mar 2016 21:02:46 GMT</pubDate>
         </item>
         <item>
@@ -2076,17 +2076,17 @@ gorgeous idea by Rafael Araujo
             <pubDate>Fri, 25 Mar 2016 03:30:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mars 2016, 4e défi]]></title>
-            <link>http://images.math.cnrs.fr/Mars-2016-4e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Mars-2016-4e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 03:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Calling All Number Theorists....]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/calling-all-number-theorists.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/calling-all-number-theorists.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 03:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mars 2016, 4e défi]]></title>
+            <link>http://images.math.cnrs.fr/Mars-2016-4e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Mars-2016-4e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 25 Mar 2016 03:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2823,17 +2823,17 @@ Today the Department of Astonishing Optical...]]></title>
             <pubDate>Tue, 22 Mar 2016 12:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turin Tower]]></title>
-            <link>http://mathtourist.blogspot.com/2016/03/turin-tower.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/turin-tower.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 22 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matrices intercalaires et conjecture de Yuzvinsky]]></title>
             <link>http://images.math.cnrs.fr/Matrices-intercalaires-et-conjecture-de-Yuzvinsky.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Matrices-intercalaires-et-conjecture-de-Yuzvinsky.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 22 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turin Tower]]></title>
+            <link>http://mathtourist.blogspot.com/2016/03/turin-tower.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/turin-tower.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 22 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4438,17 +4438,17 @@ There’s a book out there that’s...]]></title>
             <pubDate>Thu, 17 Mar 2016 11:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Random graphs with two-sided degree bounds]]></title>
-            <link>http://calculus7.org/2016/03/17/random-graphs-with-two-sided-degree-bounds/</link>
-            <guid isPermaLink="false">http://calculus7.org/2016/03/17/random-graphs-with-two-sided-degree-bounds/</guid>
-            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
-            <pubDate>Thu, 17 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Smiles For Wiles]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/smiles-for-wiles.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/smiles-for-wiles.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 17 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Random graphs with two-sided degree bounds]]></title>
+            <link>http://calculus7.org/2016/03/17/random-graphs-with-two-sided-degree-bounds/</link>
+            <guid isPermaLink="false">http://calculus7.org/2016/03/17/random-graphs-with-two-sided-degree-bounds/</guid>
+            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
             <pubDate>Thu, 17 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5722,17 +5722,17 @@ The Gaussian Integral is a beautiful integral...]]></title>
             <pubDate>Mon, 14 Mar 2016 11:23:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Timing Is Everything...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.256 - Unification]]></title>
             <link>http://mathtans.blogspot.com/2016/03/s7256-unification.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7256-unification.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Timing Is Everything...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/timing-is-everything.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Mon, 14 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6460,10 +6460,10 @@ Fractal]]></title>
             <pubDate>Sat, 12 Mar 2016 01:30:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - March 12]]></title>
-            <link>http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <title><![CDATA[Simulating a Continuous Time Markov Chain -- A series of posts]]></title>
+            <link>https://kgourgou.github.io//2016/03/12/intro-on-ssa.html</link>
+            <guid isPermaLink="false">https://kgourgou.github.io//2016/03/12/intro-on-ssa.html</guid>
+            <dc:creator><![CDATA[Untitled RSS Feed]]></dc:creator>
             <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6474,10 +6474,10 @@ Fractal]]></title>
             <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Simulating a Continuous Time Markov Chain -- A series of posts]]></title>
-            <link>https://kgourgou.github.io//2016/03/12/intro-on-ssa.html</link>
-            <guid isPermaLink="false">https://kgourgou.github.io//2016/03/12/intro-on-ssa.html</guid>
-            <dc:creator><![CDATA[Untitled RSS Feed]]></dc:creator>
+            <title><![CDATA[On This Day in Math - March 12]]></title>
+            <link>http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6785,17 +6785,17 @@ Odd Structures Are Odd]]></title>
             <pubDate>Fri, 11 Mar 2016 12:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prepare To Submit...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/prepare-to-submit.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/prepare-to-submit.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Fri, 11 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pure Arch]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/pure-arch.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/pure-arch.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Fri, 11 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prepare To Submit...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/prepare-to-submit.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/prepare-to-submit.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Fri, 11 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7163,17 +7163,17 @@ Odd Structures Are Odd]]></title>
             <pubDate>Thu, 10 Mar 2016 08:47:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Axis and Vertex]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/03/axis-and-vertex.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/03/axis-and-vertex.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Thu, 10 Mar 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An Optimal Algorithm for l1-Heavy Hitters in Insertion Streams and Related Problems / BPTree: an $\ell_2$ heavy hitters algorithm using constant memory / Approximate Hamming distance in a stream]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/yx1iIk4ezA0/an-optimal-algorithm-for-l1-heavy.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/yx1iIk4ezA0/an-optimal-algorithm-for-l1-heavy.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Thu, 10 Mar 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Axis and Vertex]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/03/axis-and-vertex.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/03/axis-and-vertex.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 10 Mar 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7886,17 +7886,17 @@ who’s good at algebra, are there cases when given C = A⊗R B we...]]></title
             <pubDate>Tue, 08 Mar 2016 12:22:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lies, Damned Lies, and...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/lies-damned-lies-and.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/lies-damned-lies-and.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Tue, 08 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Glass Pyramid]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/glass-pyramid.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/glass-pyramid.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 08 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lies, Damned Lies, and...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/lies-damned-lies-and.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/lies-damned-lies-and.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Tue, 08 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8248,17 +8248,17 @@ colorful gradient 28783]]></title>
             <pubDate>Mon, 07 Mar 2016 12:16:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.255 - In Synch]]></title>
-            <link>http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Old, Old Favorite]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.255 - In Synch]]></title>
+            <link>http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -9914,13 +9914,6 @@ Wassily Kandinsky, Schluss (Conclusion), 1926]]></title>
             <guid isPermaLink="false">http://errorstatistics.com/2016/02/29/statistical-challenges-in-assessing-and-fostering-the-reproducibility-of-scientific-results/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Tue, 01 Mar 2016 00:40:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bonus - Cubic Formula Song]]></title>
-            <link>http://mathtans.blogspot.com/2016/02/bonus-cubic-formula-song.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/02/bonus-cubic-formula-song.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 00:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Girls’ Angle Bulletin, Volume 9, Number 3]]></title>
