@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 22:04:45 GMT</lastBuildDate>
-        <pubDate>Sat, 02 Apr 2016 22:04:39 GMT</pubDate>
+        <lastBuildDate>Sat, 02 Apr 2016 22:20:39 GMT</lastBuildDate>
+        <pubDate>Sat, 02 Apr 2016 22:20:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -640,13 +640,6 @@ From “Proofs Without Words” by Roger Nelsen.]]></title>
             <pubDate>Fri, 01 Apr 2016 05:13:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revue de presse avril 2016]]></title>
-            <link>http://images.math.cnrs.fr/Revue-de-presse-avril-2016.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-avril-2016.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 01 Apr 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nuit Blanche in Review (March 2016)]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/McYgSK0-1Fo/nuit-blanche-in-review-march-2016.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/McYgSK0-1Fo/nuit-blanche-in-review-march-2016.html</guid>
@@ -658,6 +651,13 @@ From “Proofs Without Words” by Roger Nelsen.]]></title>
             <link>http://mrburkemath.blogspot.com/2016/04/teacher-haiku-iii.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/04/teacher-haiku-iii.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 01 Apr 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revue de presse avril 2016]]></title>
+            <link>http://images.math.cnrs.fr/Revue-de-presse-avril-2016.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-avril-2016.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 01 Apr 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1206,17 +1206,17 @@ Geometry]]></title>
             <pubDate>Wed, 30 Mar 2016 11:54:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Of Marrieds and Singles...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Wed, 30 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Grain Storage]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/grain-storage.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/grain-storage.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 30 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Of Marrieds and Singles...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Wed, 30 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1835,16 +1835,16 @@ Matthieu venot l 2014]]></title>
             <pubDate>Mon, 28 Mar 2016 05:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.5.12]]></title>
-            <link>http://images.math.cnrs.fr/-3929.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-3929.html</guid>
+            <title><![CDATA[L'effet Droste]]></title>
+            <link>http://images.math.cnrs.fr/L-effet-Droste.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/L-effet-Droste.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[L'effet Droste]]></title>
-            <link>http://images.math.cnrs.fr/L-effet-Droste.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/L-effet-Droste.html</guid>
+            <title><![CDATA[4.5.12]]></title>
+            <link>http://images.math.cnrs.fr/-3929.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-3929.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 05:00:00 GMT</pubDate>
         </item>
@@ -3460,17 +3460,17 @@ Today the Department of Astonishing Optical...]]></title>
             <pubDate>Tue, 22 Mar 2016 15:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The quality control problems continue]]></title>
-            <link>http://youdothemathkthrucalculus.blogspot.com/2016/03/the-quality-control-problems-continue.html</link>
-            <guid isPermaLink="false">http://youdothemathkthrucalculus.blogspot.com/2016/03/the-quality-control-problems-continue.html</guid>
-            <dc:creator><![CDATA[You Do the Math -- K thru Calculus]]></dc:creator>
-            <pubDate>Tue, 22 Mar 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ICASSP poster:  Random Projections through multiple optical scattering: Approximating kernels at the speed of light]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gdPGUcJwAkM/icassp-poster-random-projections.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gdPGUcJwAkM/icassp-poster-random-projections.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 22 Mar 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The quality control problems continue]]></title>
+            <link>http://youdothemathkthrucalculus.blogspot.com/2016/03/the-quality-control-problems-continue.html</link>
+            <guid isPermaLink="false">http://youdothemathkthrucalculus.blogspot.com/2016/03/the-quality-control-problems-continue.html</guid>
+            <dc:creator><![CDATA[You Do the Math -- K thru Calculus]]></dc:creator>
             <pubDate>Tue, 22 Mar 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7018,17 +7018,17 @@ Who doesn’t love a good word problem?! ;)]]></title>
             <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - March 12]]></title>
-            <link>http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Simulating a Continuous Time Markov Chain -- A series of posts]]></title>
             <link>https://kgourgou.github.io//2016/03/12/intro-on-ssa.html</link>
             <guid isPermaLink="false">https://kgourgou.github.io//2016/03/12/intro-on-ssa.html</guid>
             <dc:creator><![CDATA[Untitled RSS Feed]]></dc:creator>
+            <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - March 12]]></title>
+            <link>http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/03/on-this-day-in-math-march-12.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7327,17 +7327,17 @@ Odd Structures Are Odd]]></title>
             <pubDate>Fri, 11 Mar 2016 12:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prepare To Submit...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/prepare-to-submit.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/prepare-to-submit.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Fri, 11 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pure Arch]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/pure-arch.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/pure-arch.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Fri, 11 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prepare To Submit...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/prepare-to-submit.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/prepare-to-submit.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Fri, 11 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8657,17 +8657,17 @@ colorful gradient 28783]]></title>
             <pubDate>Mon, 07 Mar 2016 14:00:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rob Long on the television content bubble]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/03/rob-long-on-television-content-bubble.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/rob-long-on-television-content-bubble.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 07 Mar 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Four professors named 2016 MacVicar Faculty Fellows]]></title>
             <link>http://news.mit.edu/2016/four-professors-named-2016-macvicar-faculty-fellows-0307</link>
             <guid isPermaLink="false">http://news.mit.edu/2016/four-professors-named-2016-macvicar-faculty-fellows-0307</guid>
             <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
+            <pubDate>Mon, 07 Mar 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rob Long on the television content bubble]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/03/rob-long-on-television-content-bubble.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/rob-long-on-television-content-bubble.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8727,17 +8727,17 @@ colorful gradient 28783]]></title>
             <pubDate>Mon, 07 Mar 2016 12:16:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.255 - In Synch]]></title>
-            <link>http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Old, Old Favorite]]></title>
             <link>http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/old-old-favorite.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.255 - In Synch]]></title>
+            <link>http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7255-in-synch.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 07 Mar 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
