@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 22:20:56 GMT</lastBuildDate>
-        <pubDate>Mon, 11 Apr 2016 22:20:51 GMT</pubDate>
+        <lastBuildDate>Mon, 11 Apr 2016 22:35:00 GMT</lastBuildDate>
+        <pubDate>Mon, 11 Apr 2016 22:34:56 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[new reproducibility initiative in TOMACS]]></title>
+            <link>https://xianblog.wordpress.com/2016/04/12/new-reproducibility-initiative-in-tomacs/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/04/12/new-reproducibility-initiative-in-tomacs/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 22:16:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Diamonds and Triamonds]]></title>
             <link>https://johncarlosbaez.wordpress.com/2016/04/11/diamonds-and-triamonds/</link>
@@ -157,17 +164,17 @@
             <pubDate>Mon, 11 Apr 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On "The Human Capital Approach to Inference"]]></title>
-            <link>http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</link>
-            <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</guid>
-            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
-            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What Rock Band Name would you choose?]]></title>
             <link>http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</link>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On "The Human Capital Approach to Inference"]]></title>
+            <link>http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</link>
+            <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</guid>
+            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
             <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
         </item>
         <item>
@@ -573,8 +580,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[Exercises in R]]></title>
-            <link>http://freakonometrics.hypotheses.org/48400</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48400</guid>
+            <link>https://freakonometrics.hypotheses.org/48400</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48400</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 08 Apr 2016 06:27:22 GMT</pubDate>
         </item>
@@ -734,8 +741,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[How long could it take to run a regression]]></title>
-            <link>http://freakonometrics.hypotheses.org/48388</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48388</guid>
+            <link>https://freakonometrics.hypotheses.org/48388</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48388</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 06 Apr 2016 20:51:47 GMT</pubDate>
         </item>
@@ -881,17 +888,10 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[Computational Actuarial Science, with R, in Barcelona]]></title>
-            <link>http://freakonometrics.hypotheses.org/48129</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48129</guid>
+            <link>https://freakonometrics.hypotheses.org/48129</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48129</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 05 Apr 2016 23:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Statistical rethinking [book review]]]></title>
-            <link>https://xianblog.wordpress.com/2016/04/06/statistical-rethinking-book-review/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/04/06/statistical-rethinking-book-review/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Tue, 05 Apr 2016 22:16:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Representations of functions II]]></title>
@@ -996,8 +996,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[Data Science and Big Data for Actuaries, in Barcelona]]></title>
-            <link>http://freakonometrics.hypotheses.org/48127</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48127</guid>
+            <link>https://freakonometrics.hypotheses.org/48127</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48127</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 05 Apr 2016 08:48:40 GMT</pubDate>
         </item>
@@ -1059,8 +1059,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[On my way to Barcelona, Catalona]]></title>
-            <link>http://freakonometrics.hypotheses.org/20781</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/20781</guid>
+            <link>https://freakonometrics.hypotheses.org/20781</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/20781</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 04 Apr 2016 15:44:14 GMT</pubDate>
         </item>
@@ -1129,8 +1129,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[Where People Live, part 2]]></title>
-            <link>http://freakonometrics.hypotheses.org/48376</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48376</guid>
+            <link>https://freakonometrics.hypotheses.org/48376</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48376</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 04 Apr 2016 06:44:16 GMT</pubDate>
         </item>
@@ -1178,8 +1178,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[Supports de cours en R]]></title>
-            <link>http://freakonometrics.hypotheses.org/48364</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48364</guid>
+            <link>https://freakonometrics.hypotheses.org/48364</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48364</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 03 Apr 2016 23:00:23 GMT</pubDate>
         </item>
@@ -1556,8 +1556,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[Chaire ActInfo dans l’Argus]]></title>
-            <link>http://freakonometrics.hypotheses.org/48341</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48341</guid>
+            <link>https://freakonometrics.hypotheses.org/48341</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48341</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 31 Mar 2016 15:31:02 GMT</pubDate>
         </item>
@@ -1576,17 +1576,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Thu, 31 Mar 2016 13:31:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Location continued]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 31 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4000th post on Nuit Blanche]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TYZKGhHATqk/4000th-post-on-nuit-blanche.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TYZKGhHATqk/4000th-post-on-nuit-blanche.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Thu, 31 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Location continued]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 31 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1724,8 +1724,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[MultiAttribute Copula Utility Functions]]></title>
-            <link>http://freakonometrics.hypotheses.org/48330</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48330</guid>
+            <link>https://freakonometrics.hypotheses.org/48330</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48330</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 30 Mar 2016 08:56:36 GMT</pubDate>
         </item>
@@ -2256,8 +2256,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[Radial Graphs for Time Series]]></title>
-            <link>http://freakonometrics.hypotheses.org/48318</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48318</guid>
+            <link>https://freakonometrics.hypotheses.org/48318</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48318</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 24 Mar 2016 22:21:46 GMT</pubDate>
         </item>
@@ -2480,8 +2480,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[Prix Innovation Formation Digitale en Assurance]]></title>
-            <link>http://freakonometrics.hypotheses.org/48312</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48312</guid>
+            <link>https://freakonometrics.hypotheses.org/48312</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48312</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 07:03:54 GMT</pubDate>
         </item>
@@ -2765,8 +2765,8 @@ Caspar Friedrich, Monk By the Sea,...]]></title>
         </item>
         <item>
             <title><![CDATA[Les Données et le Monde Libre, et Ouvert]]></title>
-            <link>http://freakonometrics.hypotheses.org/48303</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48303</guid>
+            <link>https://freakonometrics.hypotheses.org/48303</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48303</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 20 Mar 2016 09:56:41 GMT</pubDate>
         </item>
@@ -2884,8 +2884,8 @@ Caspar Friedrich, Monk By the Sea,...]]></title>
         </item>
         <item>
             <title><![CDATA[Examen de séries temporelles]]></title>
-            <link>http://freakonometrics.hypotheses.org/48298</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48298</guid>
+            <link>https://freakonometrics.hypotheses.org/48298</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48298</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 18 Mar 2016 21:14:18 GMT</pubDate>
         </item>
@@ -2954,15 +2954,15 @@ Caspar Friedrich, Monk By the Sea,...]]></title>
         </item>
         <item>
             <title><![CDATA[Classification on the German Credit Database]]></title>
-            <link>http://freakonometrics.hypotheses.org/48285</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48285</guid>
+            <link>https://freakonometrics.hypotheses.org/48285</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48285</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 18 Mar 2016 10:33:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prévision de l’intérêt pour le chocolat, avec des modèles ARIMA]]></title>
-            <link>http://freakonometrics.hypotheses.org/48279</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48279</guid>
+            <link>https://freakonometrics.hypotheses.org/48279</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48279</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 18 Mar 2016 09:09:09 GMT</pubDate>
         </item>
@@ -3202,8 +3202,8 @@ colorful gradient 27984]]></title>
         </item>
         <item>
             <title><![CDATA[Forecasts with ARIMA Models]]></title>
-            <link>http://freakonometrics.hypotheses.org/48264</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48264</guid>
+            <link>https://freakonometrics.hypotheses.org/48264</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48264</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 16 Mar 2016 09:53:05 GMT</pubDate>
         </item>
@@ -3286,8 +3286,8 @@ colorful gradient 27984]]></title>
         </item>
         <item>
             <title><![CDATA[Changement Climatique et Assurance]]></title>
-            <link>http://freakonometrics.hypotheses.org/48251</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48251</guid>
+            <link>https://freakonometrics.hypotheses.org/48251</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48251</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 15 Mar 2016 21:31:53 GMT</pubDate>
         </item>
@@ -3517,8 +3517,8 @@ colorful gradient 27984]]></title>
         </item>
         <item>
             <title><![CDATA[Breizh Camp, Economics with Computers]]></title>
-            <link>http://freakonometrics.hypotheses.org/48093</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48093</guid>
+            <link>https://freakonometrics.hypotheses.org/48093</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/48093</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 14 Mar 2016 08:23:20 GMT</pubDate>
         </item>
@@ -3653,13 +3653,6 @@ colorful gradient 27984]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2016/03/11/why-this-gun-control-study-might-be-too-good-to-be-true/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 11 Mar 2016 23:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stonefight at the Goke Corral]]></title>
-            <link>https://rjlipton.wordpress.com/2016/03/11/stonefight-at-the-goke-corral/</link>
-            <guid isPermaLink="false">https://rjlipton.wordpress.com/2016/03/11/stonefight-at-the-goke-corral/</guid>
-            <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
-            <pubDate>Fri, 11 Mar 2016 22:16:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
