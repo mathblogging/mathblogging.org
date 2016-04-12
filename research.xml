@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 03:20:12 GMT</lastBuildDate>
-        <pubDate>Tue, 12 Apr 2016 03:20:07 GMT</pubDate>
+        <lastBuildDate>Tue, 12 Apr 2016 03:50:19 GMT</lastBuildDate>
+        <pubDate>Tue, 12 Apr 2016 03:50:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Choosing units of size for populations of cells]]></title>
+            <link>https://egtheory.wordpress.com/2016/04/11/counting-cells/</link>
+            <guid isPermaLink="false">https://egtheory.wordpress.com/2016/04/11/counting-cells/</guid>
+            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
+            <pubDate>Tue, 12 Apr 2016 03:15:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OPLSS 2016]]></title>
             <link>https://existentialtype.wordpress.com/2016/04/11/oplss-2016/</link>
@@ -223,13 +230,6 @@ Captain Nieves Fernandez shows an...]]></title>
             <pubDate>Mon, 11 Apr 2016 00:53:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alex Tabarrok on Gary Becker]]></title>
-            <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/KX7RCBRsoLY/142598752527</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/KX7RCBRsoLY/142598752527</guid>
-            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
-            <pubDate>Sun, 10 Apr 2016 23:30:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[hamiltonianflow:
 
 SHOULD NOT BE DONE!]]></title>
@@ -335,13 +335,6 @@ SHOULD NOT BE DONE!]]></title>
             <guid isPermaLink="false">http://davidlowryduda.com/?p=1990</guid>
             <dc:creator><![CDATA[mixedmath]]></dc:creator>
             <pubDate>Sun, 10 Apr 2016 08:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["[E]ven though projective quasi-coherent sheaves are very rare, surprisingly enough the homotopy..."]]></title>
-            <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/tU9vIsZor4w/142554097180</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/tU9vIsZor4w/142554097180</guid>
-            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
-            <pubDate>Sun, 10 Apr 2016 05:00:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Missing Mate in Ten]]></title>
@@ -503,13 +496,6 @@ SHOULD NOT BE DONE!]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/mhwcEflHvns/</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Sat, 09 Apr 2016 06:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[http://www-irma.u-strasbg.fr/~massuyea/talks/Alex.pdf]]></title>
-            <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/eQoZm3KTP_o/142497831242</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/eQoZm3KTP_o/142497831242</guid>
-            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
-            <pubDate>Sat, 09 Apr 2016 05:00:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Somme graves]]></title>
@@ -2468,17 +2454,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Wed, 23 Mar 2016 13:56:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
             <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
