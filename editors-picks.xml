@@ -5,33 +5,33 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 08:05:44 GMT</lastBuildDate>
-        <pubDate>Tue, 12 Apr 2016 08:05:41 GMT</pubDate>
+        <lastBuildDate>Tue, 12 Apr 2016 08:20:42 GMT</lastBuildDate>
+        <pubDate>Tue, 12 Apr 2016 08:20:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Excellent, even-handed review of "The Math Myth" by @evelynjlamb in @slate
+https://t.co/4k7VzfBw05
+#math #mathchat #edchat
+#mbpick]]></description>
+            <guid isPermaLink="false">http://www.slate.com/articles/health_and_science/education/2016/03/andrew_hacker_s_the_math_myth_is_a_great_example_of_mathematics_illiteracy.html</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Wed, 30 Mar 2016 00:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@ilaba's pick]]></title>
+            <description><![CDATA[Discrete Analysis is up and running! https://t.co/gFdK8ZfVNx #mbpick]]></description>
+            <guid isPermaLink="false">https://gowers.wordpress.com/2016/03/01/discrete-analysis-launched/</guid>
+            <dc:creator><![CDATA[@ilaba]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2016 15:43:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[@danaernst's pick]]></title>
             <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
             <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
             <dc:creator><![CDATA[@danaernst]]></dc:creator>
             <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[John Baez with interesting note on "common prime gaps": https://t.co/xc6LAbAsXd #mbpick
-attn: @evelynjlamb]]></description>
-            <guid isPermaLink="false">http://ow.ly/ZH7KK</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Sat, 19 Mar 2016 11:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[A Geometry Theorem Looking for a Geometric Proof, by @divbyzero https://t.co/WwSCnHFlCc
-#math #mathchat #geomchat
-#mbpick]]></description>
-            <guid isPermaLink="false">http://divisbyzero.com/2016/03/23/a-geometry-theorem-looking-for-a-geometric-proof/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Thu, 24 Mar 2016 02:13:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
@@ -49,23 +49,6 @@ https://t.co/lmSA85gcBL #mbpick]]></description>
             <pubDate>Tue, 05 Apr 2016 20:46:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[Over at @geekfeminism: an interview with the authors of “Women’s Representation in Mathematics Subfields” #mbpick https://t.co/vGExpD7SMz]]></description>
-            <guid isPermaLink="false">http://geekfeminism.org/2016/02/25/interview-authors-of-the-paper-womens-representation-in-mathematics-subfields/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Mon, 29 Feb 2016 20:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Excellent, even-handed review of "The Math Myth" by @evelynjlamb in @slate
-https://t.co/4k7VzfBw05
-#math #mathchat #edchat
-#mbpick]]></description>
-            <guid isPermaLink="false">http://www.slate.com/articles/health_and_science/education/2016/03/andrew_hacker_s_the_math_myth_is_a_great_example_of_mathematics_illiteracy.html</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Wed, 30 Mar 2016 00:17:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[For the logicians out there, John Baez has thoughts about complexity barriers within logic: https://t.co/IxsetGdgkH #mbpick #logic]]></description>
             <guid isPermaLink="false">http://ow.ly/10sFMZ</guid>
@@ -73,11 +56,13 @@ https://t.co/4k7VzfBw05
             <pubDate>Sat, 09 Apr 2016 00:50:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Reasoning, symbol manipulation, algebra, &amp; some history (also, Common Core) via @ProfKeithDevlin https://t.co/Oz9qFN3PQK #mbpick #mathchat]]></description>
-            <guid isPermaLink="false">http://ow.ly/10hyHU</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Mon, 04 Apr 2016 20:13:32 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[A Geometry Theorem Looking for a Geometric Proof, by @divbyzero https://t.co/WwSCnHFlCc
+#math #mathchat #geomchat
+#mbpick]]></description>
+            <guid isPermaLink="false">http://divisbyzero.com/2016/03/23/a-geometry-theorem-looking-for-a-geometric-proof/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Thu, 24 Mar 2016 02:13:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -101,11 +86,19 @@ https://t.co/4k7VzfBw05
             <pubDate>Wed, 30 Mar 2016 21:45:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@ilaba's pick]]></title>
-            <description><![CDATA[Discrete Analysis is up and running! https://t.co/gFdK8ZfVNx #mbpick]]></description>
-            <guid isPermaLink="false">https://gowers.wordpress.com/2016/03/01/discrete-analysis-launched/</guid>
-            <dc:creator><![CDATA[@ilaba]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2016 15:43:58 GMT</pubDate>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[John Baez with interesting note on "common prime gaps": https://t.co/xc6LAbAsXd #mbpick
+attn: @evelynjlamb]]></description>
+            <guid isPermaLink="false">http://ow.ly/ZH7KK</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Sat, 19 Mar 2016 11:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Reasoning, symbol manipulation, algebra, &amp; some history (also, Common Core) via @ProfKeithDevlin https://t.co/Oz9qFN3PQK #mbpick #mathchat]]></description>
+            <guid isPermaLink="false">http://ow.ly/10hyHU</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Mon, 04 Apr 2016 20:13:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
