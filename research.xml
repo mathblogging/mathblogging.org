@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 05:34:39 GMT</lastBuildDate>
-        <pubDate>Tue, 19 Apr 2016 05:34:35 GMT</pubDate>
+        <lastBuildDate>Tue, 19 Apr 2016 06:20:06 GMT</lastBuildDate>
+        <pubDate>Tue, 19 Apr 2016 06:20:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -99,13 +99,6 @@
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48459</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 18 Apr 2016 15:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discovery]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Discovery</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 18 Apr 2016 15:11:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DG XXXVII:  Lumosity fined $2 million for deceiving customers about its “brain training” programs]]></title>
@@ -839,6 +832,13 @@ Erin M...]]></title>
             <pubDate>Wed, 13 Apr 2016 17:14:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[smothering functor]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">smothering functor</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 13 Apr 2016 17:02:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tableaux or not tableaux, #1]]></title>
             <link>http://www.logicmatters.net/2016/04/13/tableaux-or-not-tableaux-1/</link>
             <guid isPermaLink="false">http://www.logicmatters.net/2016/04/13/tableaux-or-not-tableaux-1/</guid>
@@ -1206,17 +1206,17 @@ Captain Nieves Fernandez shows an...]]></title>
             <pubDate>Mon, 11 Apr 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Rock Band Name would you choose?]]></title>
-            <link>http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On "The Human Capital Approach to Inference"]]></title>
             <link>http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</link>
             <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</guid>
             <dc:creator><![CDATA[No Hesitations]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Rock Band Name would you choose?]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
         </item>
         <item>
@@ -2380,17 +2380,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Thu, 31 Mar 2016 13:31:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Location continued]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 31 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4000th post on Nuit Blanche]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TYZKGhHATqk/4000th-post-on-nuit-blanche.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TYZKGhHATqk/4000th-post-on-nuit-blanche.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Thu, 31 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Location continued]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 31 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3150,17 +3150,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Wed, 23 Mar 2016 13:56:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
-            <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
+            <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3552,20 +3552,6 @@ Caspar Friedrich, Monk By the Sea,...]]></title>
             <guid isPermaLink="false">https://mathematicswithoutapologies.wordpress.com/2016/03/19/alain-badiou-on-love-math-and-kindergarten/</guid>
             <dc:creator><![CDATA[Mathematics without Apologies, by Michael Harris]]></dc:creator>
             <pubDate>Sat, 19 Mar 2016 08:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Common Prime Gaps]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">The Most Common Prime Gaps</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Sat, 19 Mar 2016 06:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Holetown]]></title>
-            <link>http://11011110.livejournal.com/326205.html</link>
-            <guid isPermaLink="false">http://11011110.livejournal.com/326205.html</guid>
-            <dc:creator><![CDATA[0xDE]]></dc:creator>
-            <pubDate>Sat, 19 Mar 2016 04:07:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
