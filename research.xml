@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 14:01:54 GMT</lastBuildDate>
-        <pubDate>Tue, 19 Apr 2016 14:01:50 GMT</pubDate>
+        <lastBuildDate>Tue, 19 Apr 2016 14:20:12 GMT</lastBuildDate>
+        <pubDate>Tue, 19 Apr 2016 14:20:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[“if you add a few more variables, you can do a better job at predictions”]]></title>
+            <link>http://andrewgelman.com/2016/04/19/28548/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/04/19/28548/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 19 Apr 2016 13:25:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It still counts as commuting when you do it in an airplane]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/04/it-still-counts-as-commuting-when-you.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/04/it-still-counts-as-commuting-when-you.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 19 Apr 2016 13:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Questions autour du mécanisme Cat Nat, en France]]></title>
             <link>https://freakonometrics.hypotheses.org/48453</link>
@@ -122,13 +136,6 @@
             <pubDate>Mon, 18 Apr 2016 15:12:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[discovery]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">discovery</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 18 Apr 2016 15:11:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DG XXXVII:  Lumosity fined $2 million for deceiving customers about its “brain training” programs]]></title>
             <link>http://andrewgelman.com/2016/04/18/dg-xxxvii-lumosity-fined-2-million-for-deceiving-customers-about-its-brain-training-programs/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2016/04/18/dg-xxxvii-lumosity-fined-2-million-for-deceiving-customers-about-its-brain-training-programs/</guid>
@@ -148,13 +155,6 @@
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/its-hard-to-tell-if-problem-is-hard-is.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 18 Apr 2016 14:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[big picture]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">big picture</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 18 Apr 2016 13:57:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On deck this week]]></title>
@@ -773,6 +773,13 @@
             <pubDate>Thu, 14 Apr 2016 09:27:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[axioms of plane geometry]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">axioms of plane geometry</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 14 Apr 2016 09:10:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Exploiting Correlations Among Channels in distributed Compressive Sensing With Convolutional Deep Stacking Networks]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/MhzwlX0O2Gs/exploiting-correlations-among-channels.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/MhzwlX0O2Gs/exploiting-correlations-among-channels.html</guid>
@@ -858,13 +865,6 @@ Erin M...]]></title>
             <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/big-data-tall-wide-and-dense.html</guid>
             <dc:creator><![CDATA[No Hesitations]]></dc:creator>
             <pubDate>Wed, 13 Apr 2016 17:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[smothering functor]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">smothering functor</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 13 Apr 2016 17:02:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tableaux or not tableaux, #1]]></title>
@@ -1227,17 +1227,17 @@ Captain Nieves Fernandez shows an...]]></title>
             <pubDate>Mon, 11 Apr 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Rock Band Name would you choose?]]></title>
-            <link>http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On "The Human Capital Approach to Inference"]]></title>
             <link>http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</link>
             <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</guid>
             <dc:creator><![CDATA[No Hesitations]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Rock Band Name would you choose?]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
         </item>
         <item>
@@ -3171,17 +3171,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Wed, 23 Mar 2016 13:56:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
-            <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
+            <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3552,13 +3552,6 @@ Caspar Friedrich, Monk By the Sea,...]]></title>
             <guid isPermaLink="false">http://meandering-through-mathematics.blogspot.com/2016/03/build-your-own-flat-panel-speakers.html</guid>
             <dc:creator><![CDATA[Meandering Through Mathematics]]></dc:creator>
             <pubDate>Sat, 19 Mar 2016 18:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Actually, I’d just do full Bayes]]></title>
-            <link>http://andrewgelman.com/2016/03/19/actually-id-just-do-full-bayes/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/03/19/actually-id-just-do-full-bayes/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 19 Mar 2016 13:12:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
