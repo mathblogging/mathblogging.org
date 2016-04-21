@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:20:08 GMT</lastBuildDate>
-        <pubDate>Thu, 21 Apr 2016 17:20:03 GMT</pubDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:35:09 GMT</lastBuildDate>
+        <pubDate>Thu, 21 Apr 2016 17:35:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -15,6 +15,34 @@
             <guid isPermaLink="false">http://www.scottaaronson.com/blog/?p=2703</guid>
             <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
             <pubDate>Thu, 21 Apr 2016 15:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Join of transitive reloids (a conjecture in uniformity theory)]]></title>
+            <link>https://portonmath.wordpress.com/2016/04/21/transitive-reloids/</link>
+            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/04/21/transitive-reloids/</guid>
+            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 15:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overdoing it on the golf swing model]]></title>
+            <link>http://models.street-artists.org/2016/04/21/overdoing-it-on-the-golf-swing-model/</link>
+            <guid isPermaLink="false">http://models.street-artists.org/2016/04/21/overdoing-it-on-the-golf-swing-model/</guid>
+            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 15:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CS294 Lecture 19: Expansion of Random Graphs]]></title>
+            <link>https://lucatrevisan.wordpress.com/2016/04/21/cs294-expansion-of-random-graphs/</link>
+            <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2016/04/21/cs294-expansion-of-random-graphs/</guid>
+            <dc:creator><![CDATA[in   theory]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 14:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Type Theory and Philosophy at Kent]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Type Theory and Philosophy at Kent</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 14:05:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[趣题：如果每次只增加一个区域的话]]></title>
@@ -1290,6 +1318,13 @@ Erin M...]]></title>
             <guid isPermaLink="false">Introduction to Stable homotopy theory -- S</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Wed, 13 Apr 2016 05:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Stable homotopy theory -- P]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Introduction to Stable homotopy theory -- P</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 13 Apr 2016 05:25:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris Machine Learning #11 S3: Rogue Waves, Dataiku, eLum, Human Resources, DNN on Matlab, Data and Cars, The Great Convergence]]></title>
@@ -2707,17 +2742,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Thu, 31 Mar 2016 13:31:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Location continued]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 31 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4000th post on Nuit Blanche]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TYZKGhHATqk/4000th-post-on-nuit-blanche.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TYZKGhHATqk/4000th-post-on-nuit-blanche.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Thu, 31 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Location continued]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/location-continued.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 31 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3062,13 +3097,6 @@ SHOULD NOT BE DONE!]]></title>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2016/03/27/concatenation-theorems-for-anti-gowers-uniform-functions-and-host-kra-characteristic-factors-polynomial-patterns-in-primes/</guid>
             <dc:creator><![CDATA[What’s new]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 01:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding Data Dependant Priors]]></title>
-            <link>http://models.street-artists.org/2016/03/27/understanding-data-dependant-priors/</link>
-            <guid isPermaLink="false">http://models.street-artists.org/2016/03/27/understanding-data-dependant-priors/</guid>
-            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
-            <pubDate>Mon, 28 Mar 2016 01:12:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The top 10 signs that you are running the Hejaz 50 Ultramarathon]]></title>
@@ -3449,17 +3477,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Wed, 23 Mar 2016 13:56:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
-            <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
+            <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3637,13 +3665,6 @@ how does this make any sense
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ResearchBlogging-Mathematics-Italian/~3/NDRKh-9EkAQ/breve-storia-del-pi-greco-parte-4.html</guid>
             <dc:creator><![CDATA[Research Blogging - Mathematics - Italian]]></dc:creator>
             <pubDate>Mon, 21 Mar 2016 17:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noise noise noise noise noise]]></title>
-            <link>http://andrewgelman.com/2016/03/21/noise-noise-noise-noise-noise/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/03/21/noise-noise-noise-noise-noise/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 21 Mar 2016 14:44:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
