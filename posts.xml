@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 09:04:45 GMT</lastBuildDate>
-        <pubDate>Thu, 21 Apr 2016 09:04:39 GMT</pubDate>
+        <lastBuildDate>Thu, 21 Apr 2016 09:20:00 GMT</lastBuildDate>
+        <pubDate>Thu, 21 Apr 2016 09:19:54 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[School district spending per student]]></title>
+            <link>http://flowingdata.com/2016/04/21/school-district-spending-per-student/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2016/04/21/school-district-spending-per-student/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 07:26:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Compact all-CMOS spatiotemporal compressive sensing video camera with pixel-wise coded exposure]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/EKyhrPeXHus/compact-all-cmos-spatiotemporal.html</link>
@@ -374,13 +381,6 @@
             <pubDate>Wed, 20 Apr 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Einstein summation convention]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Einstein summation convention</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 20 Apr 2016 08:37:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A General Bounded Envy-free Protocol]]></title>
             <link>http://haris-aziz.blogspot.com/2016/04/a-general-bounded-envy-free-protocol.html</link>
             <guid isPermaLink="false">http://haris-aziz.blogspot.com/2016/04/a-general-bounded-envy-free-protocol.html</guid>
@@ -743,17 +743,17 @@ Buy...]]></title>
             <pubDate>Tue, 19 Apr 2016 11:15:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Double Figure Eight]]></title>
-            <link>http://mathtourist.blogspot.com/2016/04/double-figure-eight.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/double-figure-eight.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 19 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Three ethical viewpoints applied to the Clinton email scandal]]></title>
             <link>http://junkcharts.typepad.com/numbersruleyourworld/2016/04/three-ethical-viewpoints-applied-to-the-clinton-email-scandal.html</link>
             <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2016/04/three-ethical-viewpoints-applied-to-the-clinton-email-scandal.html</guid>
             <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
+            <pubDate>Tue, 19 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Double Figure Eight]]></title>
+            <link>http://mathtourist.blogspot.com/2016/04/double-figure-eight.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/double-figure-eight.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 19 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1265,6 +1265,13 @@ read more comics like this at...]]></title>
             <pubDate>Mon, 18 Apr 2016 11:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SeeMore Computation]]></title>
+            <link>http://mathtourist.blogspot.com/2016/04/seemore-computation.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/seemore-computation.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 18 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[S7.262 - Camp Pain]]></title>
             <link>http://mathtans.blogspot.com/2016/04/s7262-camp-pain.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/04/s7262-camp-pain.html</guid>
@@ -1276,13 +1283,6 @@ read more comics like this at...]]></title>
             <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03rdkkq.mp3</link>
             <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03rdkkq.mp3</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 18 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SeeMore Computation]]></title>
-            <link>http://mathtourist.blogspot.com/2016/04/seemore-computation.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/seemore-computation.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 18 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2369,17 +2369,17 @@ Dudeney dissection from a square to an...]]></title>
             <pubDate>Fri, 15 Apr 2016 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beware of Dating Logicians]]></title>
-            <link>http://math-frolic.blogspot.com/2016/04/beware-of-dating-logicians.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/04/beware-of-dating-logicians.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Fri, 15 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Water Towers]]></title>
             <link>http://mathtourist.blogspot.com/2016/04/water-towers.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/water-towers.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Fri, 15 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beware of Dating Logicians]]></title>
+            <link>http://math-frolic.blogspot.com/2016/04/beware-of-dating-logicians.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/04/beware-of-dating-logicians.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Fri, 15 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2723,13 +2723,6 @@ spongebobfreezeframes:
             <guid isPermaLink="false">http://www.physicspages.com/2016/04/14/interacting-einstein-solids-a-few-examples/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
             <pubDate>Thu, 14 Apr 2016 09:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[axioms of plane geometry]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">axioms of plane geometry</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 14 Apr 2016 09:10:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maths in a minute: n-body problems]]></title>
@@ -3099,13 +3092,6 @@ Mandelbrot fractal pendants...]]></title>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/airport-antenna.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 13 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Members Only: Drawing Squares and Rectangles in R]]></title>
-            <link>http://flowingdata.com/2016/04/13/drawing-squares-and-rectangles-in-r/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2016/04/13/drawing-squares-and-rectangles-in-r/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Wed, 13 Apr 2016 10:02:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New 3D interactive graph]]></title>
@@ -3852,17 +3838,17 @@ Captain Nieves Fernandez shows an...]]></title>
             <pubDate>Mon, 11 Apr 2016 13:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Diagonal . . . and so little time . . .]]></title>
-            <link>http://poetrywithmathematics.blogspot.com/2016/04/a-diagonal-and-so-little-time.html</link>
-            <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2016/04/a-diagonal-and-so-little-time.html</guid>
-            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
-            <pubDate>Mon, 11 Apr 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paul Krugman provides a coda to the naked emperors thread]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/04/paul-krugman-provides-coda-to-naked.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/04/paul-krugman-provides-coda-to-naked.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Diagonal . . . and so little time . . .]]></title>
+            <link>http://poetrywithmathematics.blogspot.com/2016/04/a-diagonal-and-so-little-time.html</link>
+            <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2016/04/a-diagonal-and-so-little-time.html</guid>
+            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
             <pubDate>Mon, 11 Apr 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3901,17 +3887,17 @@ Captain Nieves Fernandez shows an...]]></title>
             <pubDate>Mon, 11 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: The story of average]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03qprkc.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03qprkc.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 11 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mobile Maltese Cross]]></title>
             <link>http://mathtourist.blogspot.com/2016/04/mobile-maltese-cross_11.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/mobile-maltese-cross_11.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: The story of average]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03qprkc.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03qprkc.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 11 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5086,17 +5072,17 @@ In mathematics, the mountain climbing problem is...]]></title>
             <pubDate>Thu, 07 Apr 2016 11:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elliptic Function in Plaster]]></title>
-            <link>http://mathtourist.blogspot.com/2016/04/elliptic-function-in-plaster.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/elliptic-function-in-plaster.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Thu, 07 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[f(f(x)) = 4x]]></title>
             <link>https://calculus7.org/2016/04/07/ffx-4x/</link>
             <guid isPermaLink="false">https://calculus7.org/2016/04/07/ffx-4x/</guid>
             <dc:creator><![CDATA[Calculus VII]]></dc:creator>
+            <pubDate>Thu, 07 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elliptic Function in Plaster]]></title>
+            <link>http://mathtourist.blogspot.com/2016/04/elliptic-function-in-plaster.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/elliptic-function-in-plaster.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 07 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6159,17 +6145,17 @@ Ottesm]]></title>
             <pubDate>Mon, 04 Apr 2016 11:38:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Montana Sunset]]></title>
-            <link>http://mathtourist.blogspot.com/2016/04/montana-sunset.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/montana-sunset.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 04 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S7.260 - Lead Time]]></title>
             <link>http://mathtans.blogspot.com/2016/04/s7260-lead-time.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/04/s7260-lead-time.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 04 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Montana Sunset]]></title>
+            <link>http://mathtourist.blogspot.com/2016/04/montana-sunset.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/montana-sunset.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 04 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6457,17 +6443,17 @@ Timm Ulrichs“Raum-Koordinaten-Raum”, 1973/75paint,...]]></title>
             <pubDate>Sun, 03 Apr 2016 12:30:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The First Annual (maybe, only) MathTango Awards!!]]></title>
-            <link>http://mathtango.blogspot.com/2016/04/the-first-annual-maybe-only-mathtango.html</link>
-            <guid isPermaLink="false">http://mathtango.blogspot.com/2016/04/the-first-annual-maybe-only-mathtango.html</guid>
-            <dc:creator><![CDATA[MathTango...]]></dc:creator>
-            <pubDate>Sun, 03 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[River Sand]]></title>
             <link>http://mathtourist.blogspot.com/2016/04/river-sand.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/river-sand.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 03 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The First Annual (maybe, only) MathTango Awards!!]]></title>
+            <link>http://mathtango.blogspot.com/2016/04/the-first-annual-maybe-only-mathtango.html</link>
+            <guid isPermaLink="false">http://mathtango.blogspot.com/2016/04/the-first-annual-maybe-only-mathtango.html</guid>
+            <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Sun, 03 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7124,17 +7110,17 @@ From “Proofs Without Words” by Roger Nelsen.]]></title>
             <pubDate>Fri, 01 Apr 2016 09:00:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Veterinary Homeopathy]]></title>
-            <link>http://www.madmath.com/2016/04/veterinary-homeopathy.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/04/veterinary-homeopathy.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Fri, 01 Apr 2016 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrong, But Useful: Episode 34]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/wrong-useful-episode-34/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-useful-episode-34/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Fri, 01 Apr 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Veterinary Homeopathy]]></title>
+            <link>http://www.madmath.com/2016/04/veterinary-homeopathy.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/04/veterinary-homeopathy.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Fri, 01 Apr 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7166,17 +7152,17 @@ From “Proofs Without Words” by Roger Nelsen.]]></title>
             <pubDate>Fri, 01 Apr 2016 05:13:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teacher Haiku III]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/04/teacher-haiku-iii.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/04/teacher-haiku-iii.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 01 Apr 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nuit Blanche in Review (March 2016)]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/McYgSK0-1Fo/nuit-blanche-in-review-march-2016.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/McYgSK0-1Fo/nuit-blanche-in-review-march-2016.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 01 Apr 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Haiku III]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/04/teacher-haiku-iii.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/04/teacher-haiku-iii.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 01 Apr 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7735,17 +7721,17 @@ Geometry]]></title>
             <pubDate>Wed, 30 Mar 2016 11:54:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Of Marrieds and Singles...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Wed, 30 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Grain Storage]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/grain-storage.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/grain-storage.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 30 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Of Marrieds and Singles...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/03/of-marrieds-and-singles.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Wed, 30 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8333,17 +8319,17 @@ From “Proofs Without Words” by Roger...]]></title>
             <pubDate>Mon, 28 Mar 2016 11:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S7.259 - Question Marks]]></title>
-            <link>http://mathtans.blogspot.com/2016/03/s7259-question-marks.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7259-question-marks.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 28 Mar 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Splitting a Hexagon]]></title>
             <link>http://mathtourist.blogspot.com/2016/03/splitting-hexagon.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/03/splitting-hexagon.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 28 Mar 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S7.259 - Question Marks]]></title>
+            <link>http://mathtans.blogspot.com/2016/03/s7259-question-marks.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/03/s7259-question-marks.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8354,17 +8340,17 @@ From “Proofs Without Words” by Roger...]]></title>
             <pubDate>Mon, 28 Mar 2016 09:46:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Further Decimal Curiosities]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/further-decimal-curiosities/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/further-decimal-curiosities/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 28 Mar 2016 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The MOOC as a First Album]]></title>
             <link>http://www.madmath.com/2016/03/the-mooc-as-first-album.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2016/03/the-mooc-as-first-album.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 28 Mar 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Further Decimal Curiosities]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/further-decimal-curiosities/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/further-decimal-curiosities/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8658,15 +8644,6 @@ Astrophysicists detect ultra-fast winds near...]]></title>
             <pubDate>Sat, 26 Mar 2016 21:03:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[matthen:
-
-A dodecahedron tumbling inside a circumscribing...]]></title>
-            <link>http://mindfuckmath.com/post/141737865506</link>
-            <guid isPermaLink="false">http://mindfuckmath.com/post/141737865506</guid>
-            <dc:creator><![CDATA[Mindfuck Math]]></dc:creator>
-            <pubDate>Sat, 26 Mar 2016 21:02:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[wired:
 
 NASA’s Solar
@@ -8674,6 +8651,15 @@ Dynamics Observatory captures the sun’s...]]></title>
             <link>http://proofmathisbeautiful.tumblr.com/post/141737862787</link>
             <guid isPermaLink="false">http://proofmathisbeautiful.tumblr.com/post/141737862787</guid>
             <dc:creator><![CDATA[Proof]]></dc:creator>
+            <pubDate>Sat, 26 Mar 2016 21:02:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[matthen:
+
+A dodecahedron tumbling inside a circumscribing...]]></title>
+            <link>http://mindfuckmath.com/post/141737865506</link>
+            <guid isPermaLink="false">http://mindfuckmath.com/post/141737865506</guid>
+            <dc:creator><![CDATA[Mindfuck Math]]></dc:creator>
             <pubDate>Sat, 26 Mar 2016 21:02:46 GMT</pubDate>
         </item>
         <item>
@@ -8895,17 +8881,17 @@ From “Proofs Without Words” by Roger Nelsen.]]></title>
             <pubDate>Sat, 26 Mar 2016 00:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MathML is a failed web standard]]></title>
-            <link>https://www.peterkrautzberger.org/0186/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0186/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 26 Mar 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pizza Bird]]></title>
             <link>http://what-if.xkcd.com/149/</link>
             <guid isPermaLink="false">http://what-if.xkcd.com/149/</guid>
             <dc:creator><![CDATA[What If?]]></dc:creator>
+            <pubDate>Sat, 26 Mar 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MathML is a failed web standard]]></title>
+            <link>https://www.peterkrautzberger.org/0186/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0186/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 26 Mar 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8945,6 +8931,41 @@ From “Proofs Without Words” by Roger Nelsen.]]></title>
         </item>
         <item>
             <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
+            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-4/</link>
+            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-4/</guid>
+            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
+            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-10/</link>
+            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-10/</guid>
+            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
+            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-5/</link>
+            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-5/</guid>
+            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
+            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-3/</link>
+            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-3/</guid>
+            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
+            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-6/</link>
+            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-6/</guid>
+            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
             <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-7/</link>
             <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-7/</guid>
             <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
@@ -8959,43 +8980,8 @@ From “Proofs Without Words” by Roger Nelsen.]]></title>
         </item>
         <item>
             <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
-            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-5/</link>
-            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-5/</guid>
-            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
-            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-4/</link>
-            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-4/</guid>
-            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
-            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-3/</link>
-            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-3/</guid>
-            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
-            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-10/</link>
-            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-10/</guid>
-            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
             <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-8/</link>
             <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-8/</guid>
-            <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stemh Teaching Curriculum Congratulate Of Baltimore]]></title>
-            <link>http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-6/</link>
-            <guid isPermaLink="false">http://mathforgrownups.com/stemh-teaching-curriculum-congratulate-of-6/</guid>
             <dc:creator><![CDATA[Math for Grownups]]></dc:creator>
             <pubDate>Fri, 25 Mar 2016 19:07:56 GMT</pubDate>
         </item>
@@ -9133,17 +9119,17 @@ From “Proofs Without Words” by Roger Nelsen.]]></title>
             <pubDate>Fri, 25 Mar 2016 13:18:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting an early start to the weekend]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/03/getting-early-start-to-weekend.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/getting-early-start-to-weekend.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Two Truths and a Lie: Parent Functions]]></title>
             <link>http://mathequalslove.blogspot.com/2016/03/two-truths-and-lie-parent-functions.html</link>
             <guid isPermaLink="false">http://mathequalslove.blogspot.com/2016/03/two-truths-and-lie-parent-functions.html</guid>
             <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Fri, 25 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting an early start to the weekend]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/03/getting-early-start-to-weekend.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/getting-early-start-to-weekend.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 25 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -10186,27 +10172,6 @@ how does this make any sense
             <guid isPermaLink="false">http://feeds.feedblitz.com/~/145177983/0/oupblogmathematics~Can-design-thinking-challenge-the-scientific-method/</guid>
             <dc:creator><![CDATA[OUPblog » Mathematics]]></dc:creator>
             <pubDate>Mon, 21 Mar 2016 09:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Excellent Exercises − Simplifying Radicals]]></title>
-            <link>http://www.madmath.com/2016/03/excellent-exercises-simplifying-radicals.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/03/excellent-exercises-simplifying-radicals.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 21 Mar 2016 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intégration – alpha et omega]]></title>
-            <link>http://djalil.chafai.net/blog/2016/03/21/integration-alpha-et-omega/</link>
-            <guid isPermaLink="false">http://djalil.chafai.net/blog/2016/03/21/integration-alpha-et-omega/</guid>
-            <dc:creator><![CDATA[Libres pensées d'un mathématicien ordinaire]]></dc:creator>
-            <pubDate>Mon, 21 Mar 2016 08:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Accident and Emergency of Research Software Engineering]]></title>
-            <link>http://www.walkingrandomly.com/?p=5997</link>
-            <guid isPermaLink="false">http://www.walkingrandomly.com/?p=5997</guid>
-            <dc:creator><![CDATA[Walking Randomly]]></dc:creator>
-            <pubDate>Mon, 21 Mar 2016 08:13:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Three reasons for switching to flipped learning]]></title>
