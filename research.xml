@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 13:35:08 GMT</lastBuildDate>
-        <pubDate>Thu, 21 Apr 2016 13:35:04 GMT</pubDate>
+        <lastBuildDate>Thu, 21 Apr 2016 13:50:15 GMT</lastBuildDate>
+        <pubDate>Thu, 21 Apr 2016 13:50:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[趣题：如果每次只增加一个区域的话]]></title>
+            <link>http://www.matrix67.com/blog/archives/6655</link>
+            <guid isPermaLink="false">http://www.matrix67.com/blog/archives/6655</guid>
+            <dc:creator><![CDATA[Matrix67: The Aha Moments]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 13:40:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A new idea for a science core course based entirely on computer simulation]]></title>
+            <link>http://andrewgelman.com/2016/04/21/a-new-idea-for-a-science-core-course-based-entirely-on-computer-simulation/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/04/21/a-new-idea-for-a-science-core-course-based-entirely-on-computer-simulation/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 13:34:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Master Algorithm]]></title>
             <link>http://blog.computationalcomplexity.org/2016/04/the-master-algorithm.html</link>
@@ -17,11 +31,39 @@
             <pubDate>Thu, 21 Apr 2016 13:07:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Suspensions and calm-down rooms in Boston]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/04/suspensions-and-calm-down-rooms-in.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/04/suspensions-and-calm-down-rooms-in.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[in the maths house]]></title>
+            <link>https://xianblog.wordpress.com/2016/04/21/in-the-maths-house/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/04/21/in-the-maths-house/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 12:18:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Readings On Determination • Discussion : 1]]></title>
             <link>https://inquiryintoinquiry.com/2016/04/21/readings-on-determination-%25e2%2580%25a2-discussion-1/</link>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2016/04/21/readings-on-determination-%e2%80%a2-discussion-1/</guid>
             <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
             <pubDate>Thu, 21 Apr 2016 12:12:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sums-of-squares integer programming relaxation: Lecture 6]]></title>
+            <link>https://massimolauria.wordpress.com/2016/04/21/sos2014lecture06/</link>
+            <guid isPermaLink="false">https://massimolauria.wordpress.com/2016/04/21/sos2014lecture06/</guid>
+            <dc:creator><![CDATA[Hard Theorems]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 11:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sums-of-squares integer programming relaxation: Lecture 5]]></title>
+            <link>https://massimolauria.wordpress.com/2016/04/21/sos2014lecture05/</link>
+            <guid isPermaLink="false">https://massimolauria.wordpress.com/2016/04/21/sos2014lecture05/</guid>
+            <dc:creator><![CDATA[Hard Theorems]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 11:39:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[mapping telescope]]></title>
@@ -1023,13 +1065,6 @@ Buy...]]></title>
             <pubDate>Fri, 15 Apr 2016 07:17:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[slice sampling revisited]]></title>
-            <link>https://xianblog.wordpress.com/2016/04/15/slice-sampling-revisited/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/04/15/slice-sampling-revisited/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 14 Apr 2016 22:16:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[2015 APDA Report Update with Program-Specific Data and Graphs]]></title>
             <link>http://www.newappsblog.com/2016/04/2015-apda-report-update-with-program-specific-data-and-graphs.html</link>
             <guid isPermaLink="false">http://www.newappsblog.com/2016/04/2015-apda-report-update-with-program-specific-data-and-graphs.html</guid>
@@ -1248,13 +1283,6 @@ Erin M...]]></title>
             <guid isPermaLink="false">Introduction to Stable homotopy theory -- S</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Wed, 13 Apr 2016 05:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to Stable homotopy theory -- I]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Introduction to Stable homotopy theory -- I</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 13 Apr 2016 05:33:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris Machine Learning #11 S3: Rogue Waves, Dataiku, eLum, Human Resources, DNN on Matlab, Data and Cars, The Great Convergence]]></title>
@@ -3407,17 +3435,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Wed, 23 Mar 2016 13:56:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
             <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3602,20 +3630,6 @@ how does this make any sense
             <guid isPermaLink="false">http://andrewgelman.com/2016/03/21/noise-noise-noise-noise-noise/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Mon, 21 Mar 2016 14:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On deck this week]]></title>
-            <link>http://andrewgelman.com/2016/03/21/on-deck-this-week-44/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/03/21/on-deck-this-week-44/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 21 Mar 2016 13:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Musical Accompaniment]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/03/musical-accompaniment.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/musical-accompaniment.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 21 Mar 2016 13:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
