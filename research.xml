@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 20:20:08 GMT</lastBuildDate>
-        <pubDate>Thu, 21 Apr 2016 20:20:03 GMT</pubDate>
+        <lastBuildDate>Thu, 21 Apr 2016 21:05:06 GMT</lastBuildDate>
+        <pubDate>Thu, 21 Apr 2016 21:05:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Wild Spectral Sequences Ep. 6: The 3×3 Lemma]]></title>
+            <link>http://blog.jpolak.org/?p=1694</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1694</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Thu, 21 Apr 2016 20:58:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[(Not quite) CD choice #5]]></title>
             <link>http://www.logicmatters.net/2016/04/21/not-quite-cd-choice-5/</link>
@@ -555,8 +562,8 @@ Buy...]]></title>
         </item>
         <item>
             <title><![CDATA[Singular Value Decomposition Part 1: Perspectives on Linear Algebra]]></title>
-            <link>http://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/</link>
-            <guid isPermaLink="false">http://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/</guid>
+            <link>https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/</guid>
             <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
             <pubDate>Mon, 18 Apr 2016 16:00:40 GMT</pubDate>
         </item>
@@ -1631,17 +1638,17 @@ Captain Nieves Fernandez shows an...]]></title>
             <pubDate>Mon, 11 Apr 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On "The Human Capital Approach to Inference"]]></title>
-            <link>http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</link>
-            <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</guid>
-            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
-            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What Rock Band Name would you choose?]]></title>
             <link>http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</link>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On "The Human Capital Approach to Inference"]]></title>
+            <link>http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</link>
+            <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</guid>
+            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
             <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
         </item>
         <item>
@@ -3016,8 +3023,8 @@ SHOULD NOT BE DONE!]]></title>
         </item>
         <item>
             <title><![CDATA[Tensorphobia and the Outer Product]]></title>
-            <link>http://jeremykun.com/2016/03/28/tensorphobia-outer-product/</link>
-            <guid isPermaLink="false">http://jeremykun.com/2016/03/28/tensorphobia-outer-product/</guid>
+            <link>https://jeremykun.com/2016/03/28/tensorphobia-outer-product/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2016/03/28/tensorphobia-outer-product/</guid>
             <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
             <pubDate>Mon, 28 Mar 2016 14:00:46 GMT</pubDate>
         </item>
@@ -3484,17 +3491,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Wed, 23 Mar 2016 13:56:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
             <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3658,13 +3665,6 @@ how does this make any sense
             <guid isPermaLink="false">http://datagenetics.com/blog/march42016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 22 Mar 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two different Anti-Clobbers]]></title>
-            <link>http://combinatorialgametheory.blogspot.com/2016/03/two-different-anti-clobbers.html</link>
-            <guid isPermaLink="false">http://combinatorialgametheory.blogspot.com/2016/03/two-different-anti-clobbers.html</guid>
-            <dc:creator><![CDATA[Combinatorial Game Theory]]></dc:creator>
-            <pubDate>Mon, 21 Mar 2016 20:52:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
