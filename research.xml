@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 08:31:56 GMT</lastBuildDate>
-        <pubDate>Fri, 22 Apr 2016 08:31:51 GMT</pubDate>
+        <lastBuildDate>Fri, 22 Apr 2016 08:49:58 GMT</lastBuildDate>
+        <pubDate>Fri, 22 Apr 2016 08:49:53 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Local homotopy theory]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Local homotopy theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 22 Apr 2016 08:29:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Measuring Tapes for Circles and Spheres]]></title>
             <link>https://divisbyzero.com/2016/04/21/measuring-tapes-for-circles-and-spheres/</link>
@@ -421,13 +428,6 @@ Buy...]]></title>
             <pubDate>Tue, 19 Apr 2016 20:48:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[beauty &gt; history]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">beauty &amp;gt; history</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 19 Apr 2016 20:17:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An example with Dedekind cuts]]></title>
             <link>http://m6c.org/w/2016/04/an-example-with-dedekind-cuts/</link>
             <guid isPermaLink="false">http://m6c.org/w/2016/04/an-example-with-dedekind-cuts/</guid>
@@ -610,13 +610,6 @@ Buy...]]></title>
             <pubDate>Mon, 18 Apr 2016 15:12:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[discovery &gt; history]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">discovery &amp;gt; history</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 18 Apr 2016 15:11:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DG XXXVII:  Lumosity fined $2 million for deceiving customers about its “brain training” programs]]></title>
             <link>http://andrewgelman.com/2016/04/18/dg-xxxvii-lumosity-fined-2-million-for-deceiving-customers-about-its-brain-training-programs/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2016/04/18/dg-xxxvii-lumosity-fined-2-million-for-deceiving-customers-about-its-brain-training-programs/</guid>
@@ -636,13 +629,6 @@ Buy...]]></title>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/its-hard-to-tell-if-problem-is-hard-is.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 18 Apr 2016 14:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[big picture &gt; history]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">big picture &amp;gt; history</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 18 Apr 2016 13:57:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On deck this week]]></title>
@@ -1666,17 +1652,17 @@ Captain Nieves Fernandez shows an...]]></title>
             <pubDate>Mon, 11 Apr 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On "The Human Capital Approach to Inference"]]></title>
-            <link>http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</link>
-            <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</guid>
-            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
-            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What Rock Band Name would you choose?]]></title>
             <link>http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</link>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On "The Human Capital Approach to Inference"]]></title>
+            <link>http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</link>
+            <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</guid>
+            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
             <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
         </item>
         <item>
@@ -3519,17 +3505,17 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Wed, 23 Mar 2016 13:56:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
-            <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
+            <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3636,13 +3622,6 @@ SHOULD NOT BE DONE!]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/PEF-BKXJBOI/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Tue, 22 Mar 2016 11:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Brief Notebook on Cryptography]]></title>
-            <link>http://davidlowryduda.com/?p=1956</link>
-            <guid isPermaLink="false">http://davidlowryduda.com/?p=1956</guid>
-            <dc:creator><![CDATA[mixedmath]]></dc:creator>
-            <pubDate>Tue, 22 Mar 2016 02:50:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
