@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 12:49:37 GMT</lastBuildDate>
-        <pubDate>Sat, 23 Apr 2016 12:49:32 GMT</pubDate>
+        <lastBuildDate>Sat, 23 Apr 2016 13:50:52 GMT</lastBuildDate>
+        <pubDate>Sat, 23 Apr 2016 13:50:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Entropy]]></title>
+            <link>http://www.physicspages.com/2016/04/23/entropy/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2016/04/23/entropy/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Sat, 23 Apr 2016 13:34:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photo]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/mAZMo1buD74/143252211395</link>
@@ -1289,13 +1296,6 @@ Buy...]]></title>
             <pubDate>Thu, 14 Apr 2016 19:00:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two-state paramagnet as an Einstein solid]]></title>
-            <link>http://www.physicspages.com/2016/04/14/two-state-paramagnet-as-an-einstein-solid/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2016/04/14/two-state-paramagnet-as-an-einstein-solid/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Thu, 14 Apr 2016 16:42:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Huygens Enigma]]></title>
             <link>https://thonyc.wordpress.com/2016/04/14/the-huygens-enigma/</link>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2016/04/14/the-huygens-enigma/</guid>
@@ -1785,17 +1785,17 @@ Captain Nieves Fernandez shows an...]]></title>
             <pubDate>Mon, 11 Apr 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Rock Band Name would you choose?]]></title>
-            <link>http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On "The Human Capital Approach to Inference"]]></title>
             <link>http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</link>
             <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/04/on-reading-human-capital-approach-to.html</guid>
             <dc:creator><![CDATA[No Hesitations]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Rock Band Name would you choose?]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/04/what-rock-band-name-would-you-choose.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 11 Apr 2016 01:11:00 GMT</pubDate>
         </item>
         <item>
@@ -3617,25 +3617,11 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Wed, 23 Mar 2016 13:56:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Collection of Invalid Correlation Matrices]]></title>
-            <link>https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/03/23/a-collection-of-invalid-correlation-matrices/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Wages of Strauss* -- Part II (Josh edition)]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/03/the-wages-of-strauss-part-ii-josh.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 23 Mar 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitting still against the myth that sitting kills]]></title>
-            <link>http://junkcharts.typepad.com/numbersruleyourworld/2016/03/sitting-still-against-the-myth-that-sitting-kills.html</link>
-            <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2016/03/sitting-still-against-the-myth-that-sitting-kills.html</guid>
-            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
-            <pubDate>Wed, 23 Mar 2016 12:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
