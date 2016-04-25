@@ -21,8 +21,6 @@ title: Editor's picks
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Another fascinating piece from Erica Klarreich, on higher-dimensional sphere-packing (via Quanta): <a href="https://t.co/fBLYTIGBxC">https://t.co/fBLYTIGBxC</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/715293920448667649">March 30, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Discrete Analysis is up and running! <a href="https://t.co/gFdK8ZfVNx">https://t.co/gFdK8ZfVNx</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Izabella Laba (@ilaba) <a href="https://twitter.com/ilaba/status/704693670881075202">March 1, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! <a href="https://t.co/9PGmPrpXJu">https://t.co/9PGmPrpXJu</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/677516866043011076">December 17, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p> <a href="editors-picks.xml">Grab the feed for our Editors' Picks!</a></p>
