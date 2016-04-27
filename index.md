@@ -17,8 +17,6 @@ title: Editor's picks
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Scott Aaronson on the &quot;great mystery of mathematics&quot;: <a href="https://t.co/dKAhkmEGIq">https://t.co/dKAhkmEGIq</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/716219902173057024">April 2, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Favorite spaces, dimensions, Evelyn Lamb, space-filling curves... enough said: <a href="https://t.co/dFI0wYO9xv">https://t.co/dFI0wYO9xv</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/716046126030405633">April 1, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! <a href="https://t.co/9PGmPrpXJu">https://t.co/9PGmPrpXJu</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/677516866043011076">December 17, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p> <a href="editors-picks.xml">Grab the feed for our Editors' Picks!</a></p>
