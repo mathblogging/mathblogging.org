@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 09:17:48 GMT</lastBuildDate>
-        <pubDate>Fri, 29 Apr 2016 09:17:43 GMT</pubDate>
+        <lastBuildDate>Fri, 29 Apr 2016 09:35:50 GMT</lastBuildDate>
+        <pubDate>Fri, 29 Apr 2016 09:35:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[cell spectrum]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">cell spectrum</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 29 Apr 2016 09:19:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Debian auto preview latex with vim]]></title>
             <link>https://lttt.blog.ustc.edu.cn/2016/04/29/debian-auto-preview-latex-with-vim.html</link>
@@ -85,6 +92,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/NuZ7Nk8K98Q/video-sparse-identification-of.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Thu, 28 Apr 2016 14:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[geogebra]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">geogebra</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 28 Apr 2016 13:06:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The acoustics of kettledrums]]></title>
@@ -323,20 +337,6 @@
             <guid isPermaLink="false">https://jeremykun.com/2016/04/25/book-mailing-list/</guid>
             <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
             <pubDate>Mon, 25 Apr 2016 15:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mathematics education]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">mathematics education</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 25 Apr 2016 14:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Math]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">New Math</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 25 Apr 2016 13:45:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Consecutive pair magic square]]></title>
@@ -1583,6 +1583,13 @@ Buy...]]></title>
             <pubDate>Fri, 15 Apr 2016 17:12:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[model structure on topological sequential spectra]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">model structure on topological sequential spectra</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 15 Apr 2016 14:22:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First steps with monads in Scala]]></title>
             <link>https://darrenjw.wordpress.com/2016/04/15/first-steps-with-monads-in-scala/</link>
             <guid isPermaLink="false">https://darrenjw.wordpress.com/2016/04/15/first-steps-with-monads-in-scala/</guid>
@@ -1817,11 +1824,11 @@ Erin M...]]></title>
             <pubDate>Wed, 13 Apr 2016 06:28:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introduction to Stable homotopy theory -- S]]></title>
+            <title><![CDATA[Introduction to Stable homotopy theory -- 1]]></title>
             <link>null</link>
-            <guid isPermaLink="false">Introduction to Stable homotopy theory -- S</guid>
+            <guid isPermaLink="false">Introduction to Stable homotopy theory -- 1</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 13 Apr 2016 05:42:03 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 05:30:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introduction to Stable homotopy theory -- P]]></title>
@@ -2359,13 +2366,6 @@ SHOULD NOT BE DONE!]]></title>
             <guid isPermaLink="false">http://www.newappsblog.com/2016/04/big-data-commodification-and-original-accumulation.html</guid>
             <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
             <pubDate>Fri, 08 Apr 2016 19:20:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[homotopy hypothesis for 1-types]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">homotopy hypothesis for 1-types</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 08 Apr 2016 19:06:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two things about git]]></title>
@@ -3421,25 +3421,11 @@ SHOULD NOT BE DONE!]]></title>
             <pubDate>Mon, 28 Mar 2016 01:36:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The top 10 signs that you are running the Hejaz 50 Ultramarathon]]></title>
-            <link>/2016/03/28/hejaz_50_top_10.html</link>
-            <guid isPermaLink="false">/2016/03/28/hejaz_50_top_10.html</guid>
-            <dc:creator><![CDATA[David Ketcheson]]></dc:creator>
-            <pubDate>Sun, 27 Mar 2016 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“Rbitrary Standards”]]></title>
             <link>http://andrewgelman.com/2016/03/27/rbitrary-standards/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2016/03/27/rbitrary-standards/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sun, 27 Mar 2016 13:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wild Spectral Sequences Ep. 5: Lyndon-Hochschild-Serre]]></title>
-            <link>http://blog.jpolak.org/?p=1689</link>
-            <guid isPermaLink="false">http://blog.jpolak.org/?p=1689</guid>
-            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
-            <pubDate>Sat, 26 Mar 2016 20:39:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[He does mathematical modeling and is asking for career advice:  wants to move from biology to social science]]></title>
