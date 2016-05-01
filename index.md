@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Evelyn Lamb with a prime number meditation worthy of a Sunday morning: <a href="https://t.co/lC6iPH0yE9">https://t.co/lC6iPH0yE9</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/726731542240870402">May 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Mathematical mindsets with <a href="https://twitter.com/joboaler">@joboaler</a> <a href="https://t.co/EbZGkLc7G9">https://t.co/EbZGkLc7G9</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/722765569460711424">April 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Hypocycloid Juggling Patterns<a href="https://t.co/8N1CKfiahU">https://t.co/8N1CKfiahU</a><br>Brilliant, beautiful work from <a href="https://twitter.com/cs_kaplan">@cs_kaplan</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> <a href="https://t.co/4VOkHpiVdV">pic.twitter.com/4VOkHpiVdV</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/721119095983312896">April 15, 2016</a></blockquote>
