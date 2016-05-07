@@ -5,21 +5,21 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 May 2016 14:47:58 GMT</lastBuildDate>
-        <pubDate>Sat, 07 May 2016 14:47:52 GMT</pubDate>
+        <lastBuildDate>Sat, 07 May 2016 15:02:45 GMT</lastBuildDate>
+        <pubDate>Sat, 07 May 2016 15:02:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
-        <item>
-            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
@@ -52,17 +52,17 @@
             <pubDate>Sat, 07 May 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: New Algorithms for Heavy Hitters in Data Streams, David Woodruff at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/S4wnDy0wJ5E/saturday-morning-video-new-algorithms.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/S4wnDy0wJ5E/saturday-morning-video-new-algorithms.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Sat, 07 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Star Flower]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/star-flower.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/star-flower.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sat, 07 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saturday Morning Video: New Algorithms for Heavy Hitters in Data Streams, David Woodruff at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/S4wnDy0wJ5E/saturday-morning-video-new-algorithms.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/S4wnDy0wJ5E/saturday-morning-video-new-algorithms.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -972,6 +972,13 @@ Reblogging in honor of being formally...]]></title>
             <pubDate>Wed, 04 May 2016 11:47:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ask Uncle Colin: Don’t be daunted by D’Hondt?]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[San Diego Reflections]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</guid>
@@ -983,13 +990,6 @@ Reblogging in honor of being formally...]]></title>
             <link>http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ask Uncle Colin: Don’t be daunted by D’Hondt?]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1679,17 +1679,17 @@ From NSF Science360 Picture Of The Day; November 18,...]]></title>
             <pubDate>Mon, 02 May 2016 12:00:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Moebius Eclipse]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/moebius-eclipse.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/moebius-eclipse.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 02 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Post S7: Art Aside Specials]]></title>
             <link>http://mathtans.blogspot.com/2016/05/post-s7-art-aside-specials.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/post-s7-art-aside-specials.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 02 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moebius Eclipse]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/moebius-eclipse.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/moebius-eclipse.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 02 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1936,17 +1936,17 @@ It has always been...]]></title>
             <pubDate>Sun, 01 May 2016 11:32:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ancora Imparo]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/ancora-imparo.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/ancora-imparo.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 01 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Letter To and From a Math Student]]></title>
             <link>http://math-frolic.blogspot.com/2016/05/letter-to-and-from-math-student.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/letter-to-and-from-math-student.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 01 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ancora Imparo]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/ancora-imparo.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/ancora-imparo.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 01 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5177,17 +5177,17 @@ Buy...]]></title>
             <pubDate>Tue, 19 Apr 2016 11:15:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Double Figure Eight]]></title>
-            <link>http://mathtourist.blogspot.com/2016/04/double-figure-eight.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/double-figure-eight.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 19 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Three ethical viewpoints applied to the Clinton email scandal]]></title>
             <link>http://junkcharts.typepad.com/numbersruleyourworld/2016/04/three-ethical-viewpoints-applied-to-the-clinton-email-scandal.html</link>
             <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2016/04/three-ethical-viewpoints-applied-to-the-clinton-email-scandal.html</guid>
             <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
+            <pubDate>Tue, 19 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Double Figure Eight]]></title>
+            <link>http://mathtourist.blogspot.com/2016/04/double-figure-eight.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/double-figure-eight.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 19 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5629,17 +5629,17 @@ read more comics like this at...]]></title>
             <pubDate>Mon, 18 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SeeMore Computation]]></title>
-            <link>http://mathtourist.blogspot.com/2016/04/seemore-computation.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/seemore-computation.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 18 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS More or Less: The life expectancy of a Pope]]></title>
             <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03rdkkq.mp3</link>
             <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p03rdkkq.mp3</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 18 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SeeMore Computation]]></title>
+            <link>http://mathtourist.blogspot.com/2016/04/seemore-computation.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/seemore-computation.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 18 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5966,17 +5966,17 @@ I...]]></title>
             <pubDate>Sun, 17 Apr 2016 11:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pale Blue Dot... Indeed]]></title>
-            <link>http://math-frolic.blogspot.com/2016/04/pale-blue-dot-indeed.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/04/pale-blue-dot-indeed.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 17 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Arch and Grid]]></title>
             <link>http://mathtourist.blogspot.com/2016/04/arch-and-grid.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/arch-and-grid.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 17 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pale Blue Dot... Indeed]]></title>
+            <link>http://math-frolic.blogspot.com/2016/04/pale-blue-dot-indeed.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/04/pale-blue-dot-indeed.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 17 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6584,17 +6584,17 @@ Dudeney dissection from a square to an...]]></title>
             <pubDate>Fri, 15 Apr 2016 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beware of Dating Logicians]]></title>
-            <link>http://math-frolic.blogspot.com/2016/04/beware-of-dating-logicians.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/04/beware-of-dating-logicians.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Fri, 15 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Water Towers]]></title>
             <link>http://mathtourist.blogspot.com/2016/04/water-towers.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/water-towers.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Fri, 15 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beware of Dating Logicians]]></title>
+            <link>http://math-frolic.blogspot.com/2016/04/beware-of-dating-logicians.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/04/beware-of-dating-logicians.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Fri, 15 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7095,17 +7095,17 @@ Erin M...]]></title>
             <pubDate>Wed, 13 Apr 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Airport Antenna]]></title>
-            <link>http://mathtourist.blogspot.com/2016/04/airport-antenna.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/airport-antenna.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 13 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[John Baez Ruminates]]></title>
             <link>http://math-frolic.blogspot.com/2016/04/john-baez-ruminates.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/04/john-baez-ruminates.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Wed, 13 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airport Antenna]]></title>
+            <link>http://mathtourist.blogspot.com/2016/04/airport-antenna.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/airport-antenna.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 13 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7655,17 +7655,17 @@ Captain Nieves Fernandez shows an...]]></title>
             <pubDate>Mon, 11 Apr 2016 13:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paul Krugman provides a coda to the naked emperors thread]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/04/paul-krugman-provides-coda-to-naked.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/04/paul-krugman-provides-coda-to-naked.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 11 Apr 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Diagonal . . . and so little time . . .]]></title>
             <link>http://poetrywithmathematics.blogspot.com/2016/04/a-diagonal-and-so-little-time.html</link>
             <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2016/04/a-diagonal-and-so-little-time.html</guid>
             <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
+            <pubDate>Mon, 11 Apr 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paul Krugman provides a coda to the naked emperors thread]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/04/paul-krugman-provides-coda-to-naked.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/04/paul-krugman-provides-coda-to-naked.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 11 Apr 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8789,13 +8789,6 @@ In mathematics, the mountain climbing problem is...]]></title>
             <guid isPermaLink="false">http://www.math-math.com/2016/04/goldbach-conjecture-explained-in-5.html</guid>
             <dc:creator><![CDATA[MATH - TEACH YOURSELF]]></dc:creator>
             <pubDate>Wed, 06 Apr 2016 14:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Knives and Files, Freedom and Fascism.]]></title>
-            <link>http://vihart.com/on-knives-and-files-freedom-and-fascism/</link>
-            <guid isPermaLink="false">http://vihart.com/on-knives-and-files-freedom-and-fascism/</guid>
-            <dc:creator><![CDATA[Vi Hart]]></dc:creator>
-            <pubDate>Wed, 06 Apr 2016 14:53:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Observations from today]]></title>
