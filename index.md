@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/numberphile">@numberphile</a>: New video with lots about the Riemann Hypothesis - <a href="https://t.co/OwMIC74vTJ">https://t.co/OwMIC74vTJ</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/730120393151885314">May 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">OK, not the usual <a href="https://t.co/3pIidSE705">https://t.co/3pIidSE705</a> pick, but can&#39;t resist passing it along lest anyone has missed it: <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a><a href="https://t.co/TpThd7aqCI">https://t.co/TpThd7aqCI</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/729816127229067265">May 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Guess Again by <a href="https://twitter.com/mathhombre">@mathhombre</a> where John marries <a href="https://twitter.com/MarianSmall">@MarianSmall</a> and <a href="https://twitter.com/geogebra">@geogebra</a> <a href="https://t.co/zjKuwQ0mIR">https://t.co/zjKuwQ0mIR</a> <a href="https://twitter.com/hashtag/MTBoS?src=hash">#MTBoS</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/728429758594191361">May 6, 2016</a></blockquote>
