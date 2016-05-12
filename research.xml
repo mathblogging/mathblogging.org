@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 May 2016 08:47:26 GMT</lastBuildDate>
-        <pubDate>Thu, 12 May 2016 08:47:21 GMT</pubDate>
+        <lastBuildDate>Thu, 12 May 2016 09:32:18 GMT</lastBuildDate>
+        <pubDate>Thu, 12 May 2016 09:32:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Stretching it a bit]]></title>
+            <link>http://feedproxy.google.com/~r/StatsChat/~3/3sKNVGiJ4Os/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/3sKNVGiJ4Os/</guid>
+            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
+            <pubDate>Thu, 12 May 2016 09:26:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SSA helping you find a job]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/BQ0zvnxQVpU/</link>
@@ -319,17 +326,17 @@ via theeidophusikon]]></title>
             <pubDate>Mon, 09 May 2016 05:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[forecast v7 and ggplot2 graphics]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</guid>
-            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dictionary Learning for Massive Matrix Factorization - implementation -]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[forecast v7 and ggplot2 graphics]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</guid>
+            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
             <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -438,16 +445,16 @@ via theeidophusikon]]></title>
             <pubDate>Sat, 07 May 2016 15:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
+            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
+            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
@@ -809,13 +816,6 @@ Path 80, Row 18 2015-05-04 at 22:21:05 GMT]]></title>
             <guid isPermaLink="false">https://xorshammer.com/2016/05/03/a-good-definition-of-randomness/</guid>
             <dc:creator><![CDATA[XOR’s Hammer]]></dc:creator>
             <pubDate>Wed, 04 May 2016 02:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super 18 Predictions for Round 11]]></title>
-            <link>http://feedproxy.google.com/~r/StatsChat/~3/iX9RoBA8m7Q/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/iX9RoBA8m7Q/</guid>
-            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
-            <pubDate>Tue, 03 May 2016 22:46:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 8000th Busy Beaver number eludes ZF set theory: new paper by Adam Yedidia and me]]></title>
