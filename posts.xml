@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 May 2016 09:02:36 GMT</lastBuildDate>
-        <pubDate>Sun, 15 May 2016 09:02:30 GMT</pubDate>
+        <lastBuildDate>Sun, 15 May 2016 09:17:34 GMT</lastBuildDate>
+        <pubDate>Sun, 15 May 2016 09:17:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -231,17 +231,17 @@ A cuboid is inscribed in the Riemann sphere. The...]]></title>
             <pubDate>Sat, 14 May 2016 11:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Mathematician They Made A Feature Movie About]]></title>
-            <link>http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sat, 14 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wheeling Suspension Bridge]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/wheeling-suspension-bridge.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/wheeling-suspension-bridge.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sat, 14 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mathematician They Made A Feature Movie About]]></title>
+            <link>http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sat, 14 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1717,13 +1717,6 @@ Interactive...]]></title>
             <pubDate>Mon, 09 May 2016 11:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spoon Bridge and Cherry]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/spoon-bridge-and-cherry.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/spoon-bridge-and-cherry.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Notebooks!]]></title>
             <link>http://drawingonmath.blogspot.com/2016/05/notebooks.html</link>
             <guid isPermaLink="false">http://drawingonmath.blogspot.com/2016/05/notebooks.html</guid>
@@ -1735,6 +1728,13 @@ Interactive...]]></title>
             <link>http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spoon Bridge and Cherry]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/spoon-bridge-and-cherry.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/spoon-bridge-and-cherry.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2026,17 +2026,17 @@ via theeidophusikon]]></title>
             <pubDate>Sun, 08 May 2016 11:02:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rock Bands]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/rock-bands.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/rock-bands.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 08 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Science, What It Is]]></title>
             <link>http://math-frolic.blogspot.com/2016/05/science-what-it-is.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/science-what-it-is.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 08 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rock Bands]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/rock-bands.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/rock-bands.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 08 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2194,16 +2194,16 @@ via theeidophusikon]]></title>
             <pubDate>Sat, 07 May 2016 14:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
+            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
+            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
@@ -2236,17 +2236,17 @@ via theeidophusikon]]></title>
             <pubDate>Sat, 07 May 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: New Algorithms for Heavy Hitters in Data Streams, David Woodruff at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/S4wnDy0wJ5E/saturday-morning-video-new-algorithms.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/S4wnDy0wJ5E/saturday-morning-video-new-algorithms.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Sat, 07 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Star Flower]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/star-flower.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/star-flower.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sat, 07 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saturday Morning Video: New Algorithms for Heavy Hitters in Data Streams, David Woodruff at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/S4wnDy0wJ5E/saturday-morning-video-new-algorithms.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/S4wnDy0wJ5E/saturday-morning-video-new-algorithms.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3016,6 +3016,13 @@ Reblogging in honor of being formally...]]></title>
             <pubDate>Wed, 04 May 2016 11:47:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[San Diego Reflections]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ask Uncle Colin: Don’t be daunted by D’Hondt?]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</guid>
@@ -3027,13 +3034,6 @@ Reblogging in honor of being formally...]]></title>
             <link>http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[San Diego Reflections]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3805,17 +3805,17 @@ It has always been...]]></title>
             <pubDate>Sun, 01 May 2016 11:32:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Letter To and From a Math Student]]></title>
-            <link>http://math-frolic.blogspot.com/2016/05/letter-to-and-from-math-student.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/letter-to-and-from-math-student.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 01 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ancora Imparo]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/ancora-imparo.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/ancora-imparo.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 01 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Letter To and From a Math Student]]></title>
+            <link>http://math-frolic.blogspot.com/2016/05/letter-to-and-from-math-student.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/letter-to-and-from-math-student.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 01 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
