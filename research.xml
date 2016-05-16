@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 May 2016 13:17:24 GMT</lastBuildDate>
-        <pubDate>Mon, 16 May 2016 13:17:18 GMT</pubDate>
+        <lastBuildDate>Mon, 16 May 2016 15:33:49 GMT</lastBuildDate>
+        <pubDate>Mon, 16 May 2016 15:33:44 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Singular Value Decomposition Part 2: Theorem, Proof, Algorithm]]></title>
+            <link>https://jeremykun.com/2016/05/16/singular-value-decomposition-part-2-theorem-proof-algorithm/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2016/05/16/singular-value-decomposition-part-2-theorem-proof-algorithm/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Mon, 16 May 2016 15:00:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Entropy of diamond and graphite]]></title>
             <link>http://www.physicspages.com/2016/05/16/entropy-of-diamond-and-graphite/</link>
@@ -699,17 +706,17 @@ via theeidophusikon]]></title>
             <pubDate>Mon, 09 May 2016 05:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[forecast v7 and ggplot2 graphics]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</guid>
-            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dictionary Learning for Massive Matrix Factorization - implementation -]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[forecast v7 and ggplot2 graphics]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</guid>
+            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
             <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -818,16 +825,16 @@ via theeidophusikon]]></title>
             <pubDate>Sat, 07 May 2016 15:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
+            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
+            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
@@ -860,16 +867,16 @@ via theeidophusikon]]></title>
             <pubDate>Sat, 07 May 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Stream, sketching and Big Data, Graham Cormode at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/e9La9XcII08/saturday-morning-video-stream-sketching.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/e9La9XcII08/saturday-morning-video-stream-sketching.html</guid>
+            <title><![CDATA[Saturday Morning Video: Dynamics of Randomized Row-Action Methods for High-Dimensional Estimation, Yue Lu at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OnbJ4MqMjbU/saturday-morning-video-dynamics-of.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OnbJ4MqMjbU/saturday-morning-video-dynamics-of.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Dynamics of Randomized Row-Action Methods for High-Dimensional Estimation, Yue Lu at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OnbJ4MqMjbU/saturday-morning-video-dynamics-of.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OnbJ4MqMjbU/saturday-morning-video-dynamics-of.html</guid>
+            <title><![CDATA[Saturday Morning Video: Stream, sketching and Big Data, Graham Cormode at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/e9La9XcII08/saturday-morning-video-stream-sketching.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/e9La9XcII08/saturday-morning-video-stream-sketching.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 09:00:00 GMT</pubDate>
         </item>
@@ -2587,13 +2594,6 @@ Buy...]]></title>
             <guid isPermaLink="false">model structure on topological sequential spectra</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Fri, 15 Apr 2016 14:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First steps with monads in Scala]]></title>
-            <link>https://darrenjw.wordpress.com/2016/04/15/first-steps-with-monads-in-scala/</link>
-            <guid isPermaLink="false">https://darrenjw.wordpress.com/2016/04/15/first-steps-with-monads-in-scala/</guid>
-            <dc:creator><![CDATA[Darren Wilkinson's research blog]]></dc:creator>
-            <pubDate>Fri, 15 Apr 2016 13:57:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Put your own questions on the General Social Survey!]]></title>
