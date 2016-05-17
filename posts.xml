@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 May 2016 14:04:35 GMT</lastBuildDate>
-        <pubDate>Tue, 17 May 2016 14:04:29 GMT</pubDate>
+        <lastBuildDate>Tue, 17 May 2016 14:17:56 GMT</lastBuildDate>
+        <pubDate>Tue, 17 May 2016 14:17:50 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Rubber bands and entropy]]></title>
+            <link>http://www.physicspages.com/2016/05/17/rubber-bands-and-entropy/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2016/05/17/rubber-bands-and-entropy/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Tue, 17 May 2016 14:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dev Cell paper retracted after author admits to doctoring data]]></title>
             <link>http://retractionwatch.com/2016/05/17/dev-cell-paper-retracted-after-author-admits-to-doctoring-data/</link>
@@ -2057,13 +2064,6 @@ Interactive...]]></title>
             <pubDate>Wed, 11 May 2016 15:03:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two-state paramagnet: an experiment with DPPH]]></title>
-            <link>http://www.physicspages.com/2016/05/11/two-state-paramagnet-an-experiment-with-dpph/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2016/05/11/two-state-paramagnet-an-experiment-with-dpph/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Wed, 11 May 2016 14:37:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[xkcd: Substitutions 3]]></title>
             <link>http://www.calculushumor.com/calculus-humor/xkcd-substitutions-3</link>
             <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-substitutions-3</guid>
@@ -2106,17 +2106,17 @@ Interactive...]]></title>
             <pubDate>Wed, 11 May 2016 11:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wood Duck Afloat]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/wood-duck-afloat.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/wood-duck-afloat.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 11 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Follow Up: Standards Based Grading]]></title>
             <link>http://drawingonmath.blogspot.com/2016/05/follow-up-standards-based-grading.html</link>
             <guid isPermaLink="false">http://drawingonmath.blogspot.com/2016/05/follow-up-standards-based-grading.html</guid>
             <dc:creator><![CDATA[Drawing On Math]]></dc:creator>
+            <pubDate>Wed, 11 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wood Duck Afloat]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/wood-duck-afloat.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/wood-duck-afloat.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 11 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2554,16 +2554,16 @@ Interactive...]]></title>
             <pubDate>Tue, 10 May 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Une tour de kaplas qui penche à l'infini]]></title>
-            <link>http://images.math.cnrs.fr/Une-tour-de-kaplas-qui-penche-a-l-infini.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Une-tour-de-kaplas-qui-penche-a-l-infini.html</guid>
+            <title><![CDATA[Compter comme Cauchy]]></title>
+            <link>http://images.math.cnrs.fr/Compter-comme-Cauchy.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Compter-comme-Cauchy.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 10 May 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Compter comme Cauchy]]></title>
-            <link>http://images.math.cnrs.fr/Compter-comme-Cauchy.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Compter-comme-Cauchy.html</guid>
+            <title><![CDATA[Une tour de kaplas qui penche à l'infini]]></title>
+            <link>http://images.math.cnrs.fr/Une-tour-de-kaplas-qui-penche-a-l-infini.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Une-tour-de-kaplas-qui-penche-a-l-infini.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 10 May 2016 05:00:00 GMT</pubDate>
         </item>
@@ -2904,6 +2904,13 @@ Interactive...]]></title>
             <pubDate>Mon, 09 May 2016 11:42:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Series 8: d(Voted)]]></title>
+            <link>http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Notebooks!]]></title>
             <link>http://drawingonmath.blogspot.com/2016/05/notebooks.html</link>
             <guid isPermaLink="false">http://drawingonmath.blogspot.com/2016/05/notebooks.html</guid>
@@ -2915,13 +2922,6 @@ Interactive...]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/spoon-bridge-and-cherry.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/spoon-bridge-and-cherry.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Series 8: d(Voted)]]></title>
-            <link>http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2989,6 +2989,13 @@ via theeidophusikon]]></title>
             <pubDate>Mon, 09 May 2016 05:00:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dictionary Learning for Massive Matrix Factorization - implementation -]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[4.5.18]]></title>
             <link>http://images.math.cnrs.fr/4-5-18.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-5-18.html</guid>
@@ -3000,13 +3007,6 @@ via theeidophusikon]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</guid>
             <dc:creator><![CDATA[Hyndsight]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dictionary Learning for Massive Matrix Factorization - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3282,17 +3282,17 @@ this information is so satisfying but idk what to...]]></title>
             <pubDate>Sun, 08 May 2016 11:02:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Science, What It Is]]></title>
-            <link>http://math-frolic.blogspot.com/2016/05/science-what-it-is.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/science-what-it-is.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 08 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rock Bands]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/rock-bands.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/rock-bands.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 08 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Science, What It Is]]></title>
+            <link>http://math-frolic.blogspot.com/2016/05/science-what-it-is.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/science-what-it-is.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 08 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3471,16 +3471,16 @@ this information is so satisfying but idk what to...]]></title>
             <pubDate>Sat, 07 May 2016 14:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
+            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
+            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
@@ -4384,13 +4384,6 @@ Question and solution from...]]></title>
             <pubDate>Wed, 04 May 2016 11:03:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Beatles Explain Life]]></title>
-            <link>http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ask Uncle Colin: Don’t be daunted by D’Hondt?]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</guid>
@@ -4402,6 +4395,13 @@ Question and solution from...]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Beatles Explain Life]]></title>
+            <link>http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8887,20 +8887,6 @@ I...]]></title>
             <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/langolo-arguto/nicola-ciccoli-i-miei-libri-di-matematica-parte-2/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Sat, 16 Apr 2016 14:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resources for my NCTM Talk on Fermi Problems]]></title>
-            <link>http://www.mathfireworks.com/2016/04/resources-nctm-talk-fermi-problems/</link>
-            <guid isPermaLink="false">http://www.mathfireworks.com/2016/04/resources-nctm-talk-fermi-problems/</guid>
-            <dc:creator><![CDATA[Math Fireworks]]></dc:creator>
-            <pubDate>Sat, 16 Apr 2016 14:02:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arguments on Religious Exemptions to Nondiscrimination Law]]></title>
-            <link>https://hilbertthm90.wordpress.com/2016/04/16/arguments-on-religious-exemptions-to-nondiscrimination-law/</link>
-            <guid isPermaLink="false">https://hilbertthm90.wordpress.com/2016/04/16/arguments-on-religious-exemptions-to-nondiscrimination-law/</guid>
-            <dc:creator><![CDATA[A Mind for Madness]]></dc:creator>
-            <pubDate>Sat, 16 Apr 2016 14:01:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Avoiding model selection in Bayesian social research]]></title>
