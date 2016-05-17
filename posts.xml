@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 May 2016 13:47:22 GMT</lastBuildDate>
-        <pubDate>Tue, 17 May 2016 13:47:16 GMT</pubDate>
+        <lastBuildDate>Tue, 17 May 2016 14:04:35 GMT</lastBuildDate>
+        <pubDate>Tue, 17 May 2016 14:04:29 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -767,17 +767,17 @@ A Reuleaux triangle is built from three circles. As it...]]></title>
             <pubDate>Sun, 15 May 2016 12:30:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Devils Tower Columns]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/devils-tower-columns.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/devils-tower-columns.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 15 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["...an orchestra performing a symphony..."]]></title>
             <link>http://math-frolic.blogspot.com/2016/05/an-orchestra-performing-symphony.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/an-orchestra-performing-symphony.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 15 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Devils Tower Columns]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/devils-tower-columns.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/devils-tower-columns.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 15 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1081,17 +1081,17 @@ A cuboid is inscribed in the Riemann sphere. The...]]></title>
             <pubDate>Sat, 14 May 2016 11:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Mathematician They Made A Feature Movie About]]></title>
-            <link>http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sat, 14 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wheeling Suspension Bridge]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/wheeling-suspension-bridge.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/wheeling-suspension-bridge.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sat, 14 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mathematician They Made A Feature Movie About]]></title>
+            <link>http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sat, 14 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2904,6 +2904,13 @@ Interactive...]]></title>
             <pubDate>Mon, 09 May 2016 11:42:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Notebooks!]]></title>
+            <link>http://drawingonmath.blogspot.com/2016/05/notebooks.html</link>
+            <guid isPermaLink="false">http://drawingonmath.blogspot.com/2016/05/notebooks.html</guid>
+            <dc:creator><![CDATA[Drawing On Math]]></dc:creator>
+            <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Spoon Bridge and Cherry]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/spoon-bridge-and-cherry.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/spoon-bridge-and-cherry.html</guid>
@@ -2915,13 +2922,6 @@ Interactive...]]></title>
             <link>http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Notebooks!]]></title>
-            <link>http://drawingonmath.blogspot.com/2016/05/notebooks.html</link>
-            <guid isPermaLink="false">http://drawingonmath.blogspot.com/2016/05/notebooks.html</guid>
-            <dc:creator><![CDATA[Drawing On Math]]></dc:creator>
             <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2989,13 +2989,6 @@ via theeidophusikon]]></title>
             <pubDate>Mon, 09 May 2016 05:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dictionary Learning for Massive Matrix Factorization - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.5.18]]></title>
             <link>http://images.math.cnrs.fr/4-5-18.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-5-18.html</guid>
@@ -3007,6 +3000,13 @@ via theeidophusikon]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</guid>
             <dc:creator><![CDATA[Hyndsight]]></dc:creator>
+            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dictionary Learning for Massive Matrix Factorization - implementation -]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3471,16 +3471,16 @@ this information is so satisfying but idk what to...]]></title>
             <pubDate>Sat, 07 May 2016 14:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
+            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Near-optimal message-passing algorithms for crowdsourcing, Sewoong Oh at IHP]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/iWriVajKhN0/saturday-morning-video-near-optimal.html</guid>
+            <title><![CDATA[Saturday Morning Video: Factor Graphs, Belief Propagation, and Density Evolution, Henry Pfister]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oqQWSr8B20w/saturday-morning-video-factor-graphs.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 07 May 2016 14:00:00 GMT</pubDate>
         </item>
@@ -4391,17 +4391,17 @@ Question and solution from...]]></title>
             <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[San Diego Reflections]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ask Uncle Colin: Don’t be daunted by D’Hondt?]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-dont-daunted-dhondt/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[San Diego Reflections]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5030,17 +5030,17 @@ From NSF Science360 Picture Of The Day; November 18,...]]></title>
             <pubDate>Mon, 02 May 2016 12:00:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Post S7: Art Aside Specials]]></title>
-            <link>http://mathtans.blogspot.com/2016/05/post-s7-art-aside-specials.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/post-s7-art-aside-specials.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 02 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Moebius Eclipse]]></title>
             <link>http://mathtourist.blogspot.com/2016/05/moebius-eclipse.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/moebius-eclipse.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 02 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post S7: Art Aside Specials]]></title>
+            <link>http://mathtans.blogspot.com/2016/05/post-s7-art-aside-specials.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/post-s7-art-aside-specials.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 02 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8917,13 +8917,6 @@ I...]]></title>
             <pubDate>Sat, 16 Apr 2016 13:42:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Common Core Activity: Square in Right Triangle - One More Variation!]]></title>
-            <link>http://feedproxy.google.com/~r/Mathnotations/~3/MtahzMdM6PI/common-core-activity-square-in-right.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Mathnotations/~3/MtahzMdM6PI/common-core-activity-square-in-right.html</guid>
-            <dc:creator><![CDATA[MathNotations]]></dc:creator>
-            <pubDate>Sat, 16 Apr 2016 13:41:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Summer Reading 2016]]></title>
             <link>https://pamjwilson.wordpress.com/2016/04/16/summer-reading-2016/</link>
             <guid isPermaLink="false">https://pamjwilson.wordpress.com/2016/04/16/summer-reading-2016/</guid>
@@ -8931,25 +8924,11 @@ I...]]></title>
             <pubDate>Sat, 16 Apr 2016 13:15:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Missverständnisse zur hyperbolischen Geometrie]]></title>
-            <link>http://scienceblogs.de/mathlog/2016/04/16/missverstaendnisse-zur-hyperbolischen-geometrie/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=missverstaendnisse-zur-hyperbolischen-geometrie</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2016/04/16/missverstaendnisse-zur-hyperbolischen-geometrie/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=missverstaendnisse-zur-hyperbolischen-geometrie</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Sat, 16 Apr 2016 13:13:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Time. 8 Minutes…]]></title>
             <link>https://pamjwilson.wordpress.com/2016/04/16/time-8-minutes/</link>
             <guid isPermaLink="false">https://pamjwilson.wordpress.com/2016/04/16/time-8-minutes/</guid>
             <dc:creator><![CDATA[the radical rational…]]></dc:creator>
             <pubDate>Sat, 16 Apr 2016 12:54:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the strength of second-order set theories beyond ZFC, PSC-CUNY Research Award grant, 2016]]></title>
-            <link>http://jdh.hamkins.org/psc-cuny-grant-2016/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/psc-cuny-grant-2016/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 16 Apr 2016 12:36:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Equazioni di primo grado e sistemi]]></title>
