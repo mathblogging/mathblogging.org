@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Unraveling Fermat... Jim Propp&#39;s monthly offering: <a href="https://t.co/USeo7nbXwi">https://t.co/USeo7nbXwi</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/732514777981976577">May 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/numberphile">@numberphile</a>: New video with lots about the Riemann Hypothesis - <a href="https://t.co/OwMIC74vTJ">https://t.co/OwMIC74vTJ</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/730120393151885314">May 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">OK, not the usual <a href="https://t.co/3pIidSE705">https://t.co/3pIidSE705</a> pick, but can&#39;t resist passing it along lest anyone has missed it: <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a><a href="https://t.co/TpThd7aqCI">https://t.co/TpThd7aqCI</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/729816127229067265">May 9, 2016</a></blockquote>
