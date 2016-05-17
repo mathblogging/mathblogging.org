@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 May 2016 23:04:46 GMT</lastBuildDate>
-        <pubDate>Tue, 17 May 2016 23:04:40 GMT</pubDate>
+        <lastBuildDate>Tue, 17 May 2016 23:35:45 GMT</lastBuildDate>
+        <pubDate>Tue, 17 May 2016 23:35:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Blue Point Rule]]></title>
+            <link>http://feedproxy.google.com/~r/dydan1/~3/v6gt0f2SL54/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/dydan1/~3/v6gt0f2SL54/</guid>
+            <dc:creator><![CDATA[dy/dan]]></dc:creator>
+            <pubDate>Tue, 17 May 2016 22:55:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On This Day in Math - May 18]]></title>
             <link>http://pballew.blogspot.com/2016/05/on-this-day-in-math-may-18.html</link>
@@ -619,17 +626,17 @@ A Reuleaux triangle is built from three circles. As it...]]></title>
             <pubDate>Mon, 16 May 2016 11:22:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mineral Pool]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/mineral-pool.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/mineral-pool.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 16 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S8.263 - Naming Generator]]></title>
             <link>http://mathtans.blogspot.com/2016/05/s8263-naming-generator.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/s8263-naming-generator.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 16 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mineral Pool]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/mineral-pool.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/mineral-pool.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 16 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1245,17 +1252,17 @@ A cuboid is inscribed in the Riemann sphere. The...]]></title>
             <pubDate>Sat, 14 May 2016 11:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wheeling Suspension Bridge]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/wheeling-suspension-bridge.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/wheeling-suspension-bridge.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sat, 14 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Mathematician They Made A Feature Movie About]]></title>
             <link>http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-mathematician-they-made-feature.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sat, 14 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wheeling Suspension Bridge]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/wheeling-suspension-bridge.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/wheeling-suspension-bridge.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sat, 14 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2690,6 +2697,13 @@ Interactive...]]></title>
             <pubDate>Tue, 10 May 2016 07:45:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Training Neural Networks Without Gradients: A Scalable ADMM Approach]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/nIiRBxwJjbg/training-neural-networks-without.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/nIiRBxwJjbg/training-neural-networks-without.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 10 May 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Compter comme Cauchy]]></title>
             <link>http://images.math.cnrs.fr/Compter-comme-Cauchy.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Compter-comme-Cauchy.html</guid>
@@ -2701,13 +2715,6 @@ Interactive...]]></title>
             <link>http://images.math.cnrs.fr/Une-tour-de-kaplas-qui-penche-a-l-infini.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Une-tour-de-kaplas-qui-penche-a-l-infini.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 10 May 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Training Neural Networks Without Gradients: A Scalable ADMM Approach]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/nIiRBxwJjbg/training-neural-networks-without.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/nIiRBxwJjbg/training-neural-networks-without.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Tue, 10 May 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3054,17 +3061,17 @@ Interactive...]]></title>
             <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Series 8: d(Voted)]]></title>
-            <link>http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Notebooks!]]></title>
             <link>http://drawingonmath.blogspot.com/2016/05/notebooks.html</link>
             <guid isPermaLink="false">http://drawingonmath.blogspot.com/2016/05/notebooks.html</guid>
             <dc:creator><![CDATA[Drawing On Math]]></dc:creator>
+            <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Series 8: d(Voted)]]></title>
+            <link>http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/05/series-8-dvoted.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 09 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3132,13 +3139,6 @@ via theeidophusikon]]></title>
             <pubDate>Mon, 09 May 2016 05:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dictionary Learning for Massive Matrix Factorization - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[forecast v7 and ggplot2 graphics]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/H7hPEcytQNY/</guid>
@@ -3150,6 +3150,13 @@ via theeidophusikon]]></title>
             <link>http://images.math.cnrs.fr/4-5-18.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-5-18.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dictionary Learning for Massive Matrix Factorization - implementation -]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ADULFWnXbSc/dictionary-learning-for-massive-matrix.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 09 May 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4520,10 +4527,10 @@ Question and solution from...]]></title>
             <pubDate>Wed, 04 May 2016 11:03:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Beatles Explain Life]]></title>
-            <link>http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <title><![CDATA[San Diego Reflections]]></title>
+            <link>http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4534,10 +4541,10 @@ Question and solution from...]]></title>
             <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[San Diego Reflections]]></title>
-            <link>http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/05/san-diego-reflections.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <title><![CDATA[The Beatles Explain Life]]></title>
+            <link>http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/05/the-beatles-explain-life.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Wed, 04 May 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6655,17 +6662,17 @@ How to construct a triangle on a given line using...]]></title>
             <pubDate>Mon, 25 Apr 2016 11:42:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Post S7: Art Aside Para2]]></title>
-            <link>http://mathtans.blogspot.com/2016/04/post-s7-art-aside-para2.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/04/post-s7-art-aside-para2.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 25 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Magnetic Field]]></title>
             <link>http://mathtourist.blogspot.com/2016/04/magnetic-field.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/magnetic-field.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 25 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post S7: Art Aside Para2]]></title>
+            <link>http://mathtans.blogspot.com/2016/04/post-s7-art-aside-para2.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/04/post-s7-art-aside-para2.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 25 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6830,17 +6837,17 @@ How to construct a triangle on a given line using...]]></title>
             <pubDate>Sun, 24 Apr 2016 14:23:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Numbers are Very Real]]></title>
-            <link>http://math-frolic.blogspot.com/2016/04/numbers-are-very-real.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/04/numbers-are-very-real.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 24 Apr 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Liberty Bell Slots]]></title>
             <link>http://mathtourist.blogspot.com/2016/04/liberty-bell-slots.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/04/liberty-bell-slots.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 24 Apr 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Numbers are Very Real]]></title>
+            <link>http://math-frolic.blogspot.com/2016/04/numbers-are-very-real.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/04/numbers-are-very-real.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 24 Apr 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
