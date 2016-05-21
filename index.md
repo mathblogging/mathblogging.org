@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Belongingness. Ain&#39;t nothing more important for kids than this. From <a href="https://twitter.com/tchmathculture">@tchmathculture</a> <a href="https://t.co/2JzE29SZdE">https://t.co/2JzE29SZdE</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/733736112611418117">May 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Unraveling Fermat... Jim Propp&#39;s monthly offering: <a href="https://t.co/USeo7nbXwi">https://t.co/USeo7nbXwi</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/732514777981976577">May 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/numberphile">@numberphile</a>: New video with lots about the Riemann Hypothesis - <a href="https://t.co/OwMIC74vTJ">https://t.co/OwMIC74vTJ</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/730120393151885314">May 10, 2016</a></blockquote>
