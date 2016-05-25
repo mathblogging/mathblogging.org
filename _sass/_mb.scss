@@ -214,3 +214,14 @@ a:hover {
     background-color: #FFFFFF;
   }
 }
+
+
+/* 
+ * make the search tall enough on desktop
+*/
+
+@media screen and (min-width: 801px) {
+ #search {
+     min-height:100px;
+ }
+}
