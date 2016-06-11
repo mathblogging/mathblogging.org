@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 10:18:11 GMT</lastBuildDate>
-        <pubDate>Sat, 11 Jun 2016 10:18:08 GMT</pubDate>
+        <lastBuildDate>Sat, 11 Jun 2016 11:19:39 GMT</lastBuildDate>
+        <pubDate>Sat, 11 Jun 2016 11:19:35 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -22,6 +22,13 @@
             <guid isPermaLink="false">http://mathtango.blogspot.com/2016/06/end-of-week-links.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Fri, 10 Jun 2016 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Landkarte der Mathematik]]></title>
+            <link>http://scienceblogs.de/mathlog/2016/06/10/landkarte-der-mathematik/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=landkarte-der-mathematik</link>
+            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2016/06/10/landkarte-der-mathematik/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=landkarte-der-mathematik</guid>
+            <dc:creator><![CDATA[Mathlog]]></dc:creator>
+            <pubDate>Fri, 10 Jun 2016 08:02:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Not To Be Wrong update]]></title>
@@ -248,6 +255,13 @@
             <pubDate>Mon, 06 Jun 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[This Week in Math Ed: June 3, 2016]]></title>
+            <link>http://blog.mathed.net/2016/06/this-week-in-math-ed-june-3-2016.html</link>
+            <guid isPermaLink="false">http://blog.mathed.net/2016/06/this-week-in-math-ed-june-3-2016.html</guid>
+            <dc:creator><![CDATA[MathEd.net]]></dc:creator>
+            <pubDate>Mon, 06 Jun 2016 06:08:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What do Evolution, Same Sex Marriage, and Abstract Set Theory have in Common?]]></title>
             <link>http://blog.computationalcomplexity.org/2016/06/what-do-evolution-same-sex-marriage-and.html</link>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/06/what-do-evolution-same-sex-marriage-and.html</guid>
@@ -267,6 +281,27 @@
             <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2016/06/05/sharing-math-with-the-public-and-especially-with-kids/</guid>
             <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
             <pubDate>Sun, 05 Jun 2016 12:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A geometric interpretation of Schinzel’s Hypothesis]]></title>
+            <link>http://blogs.ethz.ch/kowalski/2016/06/05/a-geometric-interpretation-of-schinzels-hypothesis/</link>
+            <guid isPermaLink="false">http://blogs.ethz.ch/kowalski/2016/06/05/a-geometric-interpretation-of-schinzels-hypothesis/</guid>
+            <dc:creator><![CDATA[E. Kowalski's blog]]></dc:creator>
+            <pubDate>Sun, 05 Jun 2016 10:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Reuleaux Tetrahedron]]></title>
+            <link>http://blog.tanyakhovanova.com/2016/06/the-reuleaux-tetrahedron/</link>
+            <guid isPermaLink="false">http://blog.tanyakhovanova.com/2016/06/the-reuleaux-tetrahedron/</guid>
+            <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
+            <pubDate>Sat, 04 Jun 2016 23:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who is Guilty?]]></title>
+            <link>http://blog.tanyakhovanova.com/2016/06/who-is-guilty/</link>
+            <guid isPermaLink="false">http://blog.tanyakhovanova.com/2016/06/who-is-guilty/</guid>
+            <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
+            <pubDate>Sat, 04 Jun 2016 22:07:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paper accepted for publication in PRE]]></title>
@@ -948,13 +983,6 @@
             <pubDate>Wed, 11 May 2016 18:26:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[L-functions database!]]></title>
-            <link>http://blogs.ethz.ch/kowalski/2016/05/09/l-functions-database/</link>
-            <guid isPermaLink="false">http://blogs.ethz.ch/kowalski/2016/05/09/l-functions-database/</guid>
-            <dc:creator><![CDATA[E. Kowalski's blog]]></dc:creator>
-            <pubDate>Mon, 09 May 2016 19:46:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[George Boole 200: The Legacy Interviews]]></title>
             <link>http://education.lms.ac.uk/2016/05/george-boole-200-the-legacy-interviews/</link>
             <guid isPermaLink="false">http://education.lms.ac.uk/2016/05/george-boole-200-the-legacy-interviews/</guid>
@@ -974,20 +1002,6 @@
             <guid isPermaLink="false">http://www.epsilon-delta.org/2016/05/rate-inrate-out-review.html</guid>
             <dc:creator><![CDATA[EPSILON-DELTA]]></dc:creator>
             <pubDate>Mon, 09 May 2016 02:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Really Big Numbers]]></title>
-            <link>http://blog.tanyakhovanova.com/2016/05/really-big-numbers/</link>
-            <guid isPermaLink="false">http://blog.tanyakhovanova.com/2016/05/really-big-numbers/</guid>
-            <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
-            <pubDate>Sun, 08 May 2016 16:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week in Math Ed: May 6, 2016]]></title>
-            <link>http://blog.mathed.net/2016/05/this-week-in-math-ed-may-6-2016.html</link>
-            <guid isPermaLink="false">http://blog.mathed.net/2016/05/this-week-in-math-ed-may-6-2016.html</guid>
-            <dc:creator><![CDATA[MathEd.net]]></dc:creator>
-            <pubDate>Sat, 07 May 2016 23:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why undegraduate students should not use online matrix calculators]]></title>
