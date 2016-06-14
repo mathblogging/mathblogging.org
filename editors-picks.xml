@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 07:18:05 GMT</lastBuildDate>
-        <pubDate>Tue, 14 Jun 2016 07:18:02 GMT</pubDate>
+        <lastBuildDate>Tue, 14 Jun 2016 08:18:07 GMT</lastBuildDate>
+        <pubDate>Tue, 14 Jun 2016 08:18:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -32,6 +32,22 @@ https://t.co/EbZGkLc7G9 #mbpicks]]></description>
             <pubDate>Wed, 20 Apr 2016 12:35:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[True-False quizzes, entropy, and scoring rules in the wonderful Terry Tao post: 
+https://t.co/wx8Pukx8bD
+#math #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sun, 05 Jun 2016 23:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[Brian Hayes beautifully tackles the non-randomness of the primes: https://t.co/XXW884Vlwk #mbpick 
 attn: @mikeandallie]]></description>
@@ -45,22 +61,6 @@ attn: @mikeandallie]]></description>
             <guid isPermaLink="false">http://ow.ly/WoJV300GJbF</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
             <pubDate>Sat, 28 May 2016 23:13:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[True-False quizzes, entropy, and scoring rules in the wonderful Terry Tao post: 
-https://t.co/wx8Pukx8bD
-#math #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sun, 05 Jun 2016 23:31:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
