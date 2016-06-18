@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 00:17:35 GMT</lastBuildDate>
-        <pubDate>Sat, 18 Jun 2016 00:17:32 GMT</pubDate>
+        <lastBuildDate>Sat, 18 Jun 2016 01:18:03 GMT</lastBuildDate>
+        <pubDate>Sat, 18 Jun 2016 01:18:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -47,15 +47,6 @@ https://t.co/EbZGkLc7G9 #mbpicks]]></description>
             <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[True-False quizzes, entropy, and scoring rules in the wonderful Terry Tao post: 
-https://t.co/wx8Pukx8bD
-#math #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sun, 05 Jun 2016 23:31:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[This month James Propp 'enchants' us with the best post I've ever seen on Ramanujan: https://t.co/VEU6sAUgQz #mbpick #mathchat]]></description>
             <guid isPermaLink="false">http://ow.ly/DYd5301lBtw</guid>
@@ -76,6 +67,15 @@ attn: @mikeandallie]]></description>
             <guid isPermaLink="false">http://ow.ly/WoJV300GJbF</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
             <pubDate>Sat, 28 May 2016 23:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[True-False quizzes, entropy, and scoring rules in the wonderful Terry Tao post: 
+https://t.co/wx8Pukx8bD
+#math #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sun, 05 Jun 2016 23:31:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
