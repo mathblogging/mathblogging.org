@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;A Quirky Function&quot;  (via Azimuth): <a href="https://t.co/lgEMLiePIV">https://t.co/lgEMLiePIV</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/746659266031923200">June 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">This month James Propp &#39;enchants&#39; us with the best post I&#39;ve ever seen on Ramanujan: <a href="https://t.co/VEU6sAUgQz">https://t.co/VEU6sAUgQz</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/743640023153643524">June 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I love these simple-not-simplistic videos from <a href="https://twitter.com/christianp">@christianp</a> at <a href="https://twitter.com/aperiodical">@aperiodical</a> <a href="https://t.co/gj489dl2b8">https://t.co/gj489dl2b8</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/743026762590912512">June 15, 2016</a></blockquote>
