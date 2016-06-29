@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Number theory, geometry, Langlands, reciprocity... another incredible, rich piece from E. Klarreich: <a href="https://t.co/1xNG0Z8RXP">https://t.co/1xNG0Z8RXP</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/747819742942142465">June 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;A Quirky Function&quot;  (via Azimuth): <a href="https://t.co/lgEMLiePIV">https://t.co/lgEMLiePIV</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/746659266031923200">June 25, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">This month James Propp &#39;enchants&#39; us with the best post I&#39;ve ever seen on Ramanujan: <a href="https://t.co/VEU6sAUgQz">https://t.co/VEU6sAUgQz</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/743640023153643524">June 17, 2016</a></blockquote>
