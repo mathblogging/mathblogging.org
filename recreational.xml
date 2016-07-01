@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 14:18:16 GMT</lastBuildDate>
-        <pubDate>Fri, 01 Jul 2016 14:18:13 GMT</pubDate>
+        <lastBuildDate>Fri, 01 Jul 2016 15:18:14 GMT</lastBuildDate>
+        <pubDate>Fri, 01 Jul 2016 15:18:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[xkcd: Speed and Danger]]></title>
+            <link>http://www.calculushumor.com/calculus-humor/xkcd-speed-and-danger</link>
+            <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-speed-and-danger</guid>
+            <dc:creator><![CDATA[Calculus Humor - Calculus Humor]]></dc:creator>
+            <pubDate>Fri, 01 Jul 2016 14:24:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Winery Tour – Domaine Carneros]]></title>
             <link>http://mathscinotes.com/2016/07/winery-tour-domaine-carneros/</link>
@@ -22,13 +29,6 @@
             <guid isPermaLink="false">http://mathmisery.com/wp/2016/07/01/annoying-function-notation/</guid>
             <dc:creator><![CDATA[Math Misery?]]></dc:creator>
             <pubDate>Fri, 01 Jul 2016 07:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Few of My Favorite Spaces: The Empty Set]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/T95n1SeYizU/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/T95n1SeYizU/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Fri, 01 Jul 2016 03:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[6/30/16]]></title>
@@ -46,15 +46,15 @@
         </item>
         <item>
             <title><![CDATA[Gold Links Puzzle]]></title>
-            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</guid>
+            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</guid>
             <dc:creator><![CDATA[CSE Blog - quant, math, computer science puzzles]]></dc:creator>
             <pubDate>Wed, 29 Jun 2016 19:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gold Links Puzzle]]></title>
-            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</guid>
+            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</guid>
             <dc:creator><![CDATA[CSE Blog - quant, math, computer science puzzles]]></dc:creator>
             <pubDate>Wed, 29 Jun 2016 19:23:00 GMT</pubDate>
         </item>
@@ -332,17 +332,17 @@
             <pubDate>Tue, 21 Jun 2016 04:06:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Little Analysis of a Visible Exoplanet]]></title>
-            <link>http://mathscinotes.com/2016/06/a-little-analysis-of-a-visible-exoplanet/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2016/06/a-little-analysis-of-a-visible-exoplanet/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Mon, 20 Jun 2016 12:30:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[6/20/16]]></title>
             <link>http://purenumbers.tumblr.com/post/146204273593</link>
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/146204273593</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
+            <pubDate>Mon, 20 Jun 2016 12:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Little Analysis of a Visible Exoplanet]]></title>
+            <link>http://mathscinotes.com/2016/06/a-little-analysis-of-a-visible-exoplanet/</link>
+            <guid isPermaLink="false">http://mathscinotes.com/2016/06/a-little-analysis-of-a-visible-exoplanet/</guid>
+            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Mon, 20 Jun 2016 12:30:25 GMT</pubDate>
         </item>
         <item>
@@ -945,13 +945,6 @@ A fundamental school maths fact, and timeless piece...]]></title>
             <guid isPermaLink="false">http://mathscinotes.com/2016/06/a-lesson-learned-from-lab-testing-a-colpitts-oscillator/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Tue, 07 Jun 2016 11:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xkcd: Optimization]]></title>
-            <link>http://www.calculushumor.com/calculus-humor/xkcd-optimization</link>
-            <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-optimization</guid>
-            <dc:creator><![CDATA[Calculus Humor - Calculus Humor]]></dc:creator>
-            <pubDate>Tue, 07 Jun 2016 04:15:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Game Theory Of Being FIRST! Lessons From The War Of Attrition – Game Theory Tuesdays]]></title>
