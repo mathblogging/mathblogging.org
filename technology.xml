@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 11:18:27 GMT</lastBuildDate>
-        <pubDate>Sun, 03 Jul 2016 11:18:25 GMT</pubDate>
+        <lastBuildDate>Sun, 03 Jul 2016 12:18:17 GMT</lastBuildDate>
+        <pubDate>Sun, 03 Jul 2016 12:18:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -129,17 +129,17 @@
             <pubDate>Sat, 18 Jun 2016 06:23:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Written elsewhere]]></title>
-            <link>https://www.peterkrautzberger.org/0189/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0189/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Thu, 16 Jun 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A call for flipped learning experiences]]></title>
             <link>/blog/2016/a-call-for-flipped-learning-experiences</link>
             <guid isPermaLink="false">/blog/2016/a-call-for-flipped-learning-experiences</guid>
             <dc:creator><![CDATA[Casting Out Nines]]></dc:creator>
+            <pubDate>Thu, 16 Jun 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Written elsewhere]]></title>
+            <link>https://www.peterkrautzberger.org/0189/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0189/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Thu, 16 Jun 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -232,13 +232,6 @@
             <guid isPermaLink="false">http://climeconnections.blogspot.com/2016/06/response-to-questions-about-tech-use-at.html</guid>
             <dc:creator><![CDATA[CLIME Connections]]></dc:creator>
             <pubDate>Fri, 03 Jun 2016 19:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ODE solver as a functional fold]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/NBJKnjy1lnc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/NBJKnjy1lnc/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Thu, 02 Jun 2016 11:55:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
