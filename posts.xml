@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 20:18:28 GMT</lastBuildDate>
-        <pubDate>Thu, 07 Jul 2016 20:18:23 GMT</pubDate>
+        <lastBuildDate>Thu, 07 Jul 2016 21:18:17 GMT</lastBuildDate>
+        <pubDate>Thu, 07 Jul 2016 21:18:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Koch Snowflake]]></title>
+            <link>https://solvemymaths.com/2016/07/07/koch-snowflake/</link>
+            <guid isPermaLink="false">https://solvemymaths.com/2016/07/07/koch-snowflake/</guid>
+            <dc:creator><![CDATA[Solve My Maths]]></dc:creator>
+            <pubDate>Thu, 07 Jul 2016 20:02:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mathematics and Dance: Enhancing Understanding Through Movement]]></title>
             <link>http://blogs.ams.org/mathgradblog/2016/07/07/mathematics-dance-enhancing-understanding-movement/</link>
@@ -57,6 +64,13 @@
             <guid isPermaLink="false">http://www.logicmatters.net/2016/07/07/ifl2-a-first-instalment/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Thu, 07 Jul 2016 14:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Old school Venn]]></title>
+            <link>https://cavmaths.wordpress.com/2016/07/07/old-school-venn/</link>
+            <guid isPermaLink="false">https://cavmaths.wordpress.com/2016/07/07/old-school-venn/</guid>
+            <dc:creator><![CDATA[cavmaths]]></dc:creator>
+            <pubDate>Thu, 07 Jul 2016 13:59:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Crow’s feet filler study omitted pharma funding, gets retracted]]></title>
@@ -1314,16 +1328,16 @@ Argus by Salvador Dalí, 1963. Original etching and...]]></title>
             <pubDate>Thu, 30 Jun 2016 16:00:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DropNeuron: Simplifying the Structure of Deep Neural Networks  - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/_nV08Y4b6Vg/dropneuron-simplifying-structure-of.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/_nV08Y4b6Vg/dropneuron-simplifying-structure-of.html</guid>
+            <title><![CDATA[ML Hardware: Spintronic nano-devices for bio-inspired computing / Precise deep neural network computation on imprecise low-power analog hardware]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/E7i_yB8tFlQ/ml-hardware-spintronic-nano-devices-for.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/E7i_yB8tFlQ/ml-hardware-spintronic-nano-devices-for.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Thu, 30 Jun 2016 15:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ML Hardware: Spintronic nano-devices for bio-inspired computing / Precise deep neural network computation on imprecise low-power analog hardware]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/E7i_yB8tFlQ/ml-hardware-spintronic-nano-devices-for.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/E7i_yB8tFlQ/ml-hardware-spintronic-nano-devices-for.html</guid>
+            <title><![CDATA[DropNeuron: Simplifying the Structure of Deep Neural Networks  - implementation -]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/_nV08Y4b6Vg/dropneuron-simplifying-structure-of.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/_nV08Y4b6Vg/dropneuron-simplifying-structure-of.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Thu, 30 Jun 2016 15:30:00 GMT</pubDate>
         </item>
@@ -1500,13 +1514,6 @@ Taken with instagram]]></title>
             <pubDate>Wed, 29 Jun 2016 21:00:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Split the clock]]></title>
-            <link>https://solvemymaths.com/2016/06/29/split-the-clock/</link>
-            <guid isPermaLink="false">https://solvemymaths.com/2016/06/29/split-the-clock/</guid>
-            <dc:creator><![CDATA[Solve My Maths]]></dc:creator>
-            <pubDate>Wed, 29 Jun 2016 20:52:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[FMR: Fast randomized algorithms for covariance matrix computations - implementation -]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/APE2sHjD8s0/fmr-fast-randomized-algorithms-for.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/APE2sHjD8s0/fmr-fast-randomized-algorithms-for.html</guid>
@@ -1522,15 +1529,15 @@ Taken with instagram]]></title>
         </item>
         <item>
             <title><![CDATA[Gold Links Puzzle]]></title>
-            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</guid>
+            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</guid>
             <dc:creator><![CDATA[CSE Blog - quant, math, computer science puzzles]]></dc:creator>
             <pubDate>Wed, 29 Jun 2016 19:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gold Links Puzzle]]></title>
-            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</guid>
+            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</guid>
             <dc:creator><![CDATA[CSE Blog - quant, math, computer science puzzles]]></dc:creator>
             <pubDate>Wed, 29 Jun 2016 19:23:00 GMT</pubDate>
         </item>
@@ -2733,17 +2740,17 @@ Today,...]]></title>
             <pubDate>Wed, 22 Jun 2016 11:00:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spires and Pines]]></title>
-            <link>http://mathtourist.blogspot.com/2016/06/spires-and-pines.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/06/spires-and-pines.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 22 Jun 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Putting Lipstick on a Pig]]></title>
             <link>http://math-frolic.blogspot.com/2016/06/putting-lipstick-on-pig.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/06/putting-lipstick-on-pig.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Wed, 22 Jun 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spires and Pines]]></title>
+            <link>http://mathtourist.blogspot.com/2016/06/spires-and-pines.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/06/spires-and-pines.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 22 Jun 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3107,17 +3114,17 @@ can visualize a 3D...]]></title>
             <pubDate>Mon, 20 Jun 2016 11:17:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hawaii Hibiscus]]></title>
-            <link>http://mathtourist.blogspot.com/2016/06/hawaii-hibiscus.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/06/hawaii-hibiscus.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 20 Jun 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S8.268 - Listen to Meme]]></title>
             <link>http://mathtans.blogspot.com/2016/06/s8268-listen-to-meme.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/06/s8268-listen-to-meme.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 20 Jun 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hawaii Hibiscus]]></title>
+            <link>http://mathtourist.blogspot.com/2016/06/hawaii-hibiscus.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/06/hawaii-hibiscus.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 20 Jun 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3816,17 +3823,17 @@ In “taxicab geometry”, circles are square-shaped....]]></title>
             <pubDate>Thu, 16 Jun 2016 00:48:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Written elsewhere]]></title>
-            <link>https://www.peterkrautzberger.org/0189/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0189/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Thu, 16 Jun 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A call for flipped learning experiences]]></title>
             <link>/blog/2016/a-call-for-flipped-learning-experiences</link>
             <guid isPermaLink="false">/blog/2016/a-call-for-flipped-learning-experiences</guid>
             <dc:creator><![CDATA[Casting Out Nines]]></dc:creator>
+            <pubDate>Thu, 16 Jun 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Written elsewhere]]></title>
+            <link>https://www.peterkrautzberger.org/0189/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0189/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Thu, 16 Jun 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4386,9 +4393,9 @@ chromatic...]]></title>
             <pubDate>Mon, 13 Jun 2016 06:00:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Un carrelage original]]></title>
-            <link>http://images.math.cnrs.fr/Un-carrelage-original.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-carrelage-original.html</guid>
+            <title><![CDATA[4.5.23]]></title>
+            <link>http://images.math.cnrs.fr/-4006.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4006.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 13 Jun 2016 05:00:00 GMT</pubDate>
         </item>
@@ -4400,9 +4407,9 @@ chromatic...]]></title>
             <pubDate>Mon, 13 Jun 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.5.23]]></title>
-            <link>http://images.math.cnrs.fr/-4006.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4006.html</guid>
+            <title><![CDATA[Un carrelage original]]></title>
+            <link>http://images.math.cnrs.fr/Un-carrelage-original.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-carrelage-original.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 13 Jun 2016 05:00:00 GMT</pubDate>
         </item>
@@ -5507,13 +5514,6 @@ A fundamental school maths fact, and timeless piece...]]></title>
             <guid isPermaLink="false">https://romathio.wordpress.com/2016/06/06/whats-homework-individual-practice-got-to-do-with-it/</guid>
             <dc:creator><![CDATA[romathio]]></dc:creator>
             <pubDate>Mon, 06 Jun 2016 22:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women in Orchestras]]></title>
-            <link>https://aschinchon.wordpress.com/2016/06/06/women-in-orchestras/</link>
-            <guid isPermaLink="false">https://aschinchon.wordpress.com/2016/06/06/women-in-orchestras/</guid>
-            <dc:creator><![CDATA[Ripples]]></dc:creator>
-            <pubDate>Mon, 06 Jun 2016 20:13:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A poem, a contradiction . . .]]></title>
