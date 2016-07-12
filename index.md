@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Rich piece (as usual) from <a href="https://twitter.com/nattyover">@nattyover</a> about the beauty of hidden order... so many ideas coming together: <a href="https://t.co/MXnXpTd3ZG">https://t.co/MXnXpTd3ZG</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/752970908474769408">July 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Don’t fall for the bullshit. Your success does not depend solely on them liking you.&quot; <a href="https://t.co/Vyq2tKYGDR">https://t.co/Vyq2tKYGDR</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/748804447241850881">July 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Number theory, geometry, Langlands, reciprocity... another incredible, rich piece from E. Klarreich: <a href="https://t.co/1xNG0Z8RXP">https://t.co/1xNG0Z8RXP</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/747819742942142465">June 28, 2016</a></blockquote>
