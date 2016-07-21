@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Terry Tao talks Shannon, entropy, n-grams, and p-values in analyzing whether a certain speech was plagiarized. <a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/755915919050825735">July 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Jim Propp continues his exploration of Ramanujan and what the current movie biopic of his life teaches us: <a href="https://t.co/ZPNASup6Vd">https://t.co/ZPNASup6Vd</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/754643085687226368">July 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Rich piece (as usual) from <a href="https://twitter.com/nattyover">@nattyover</a> about the beauty of hidden order... so many ideas coming together: <a href="https://t.co/MXnXpTd3ZG">https://t.co/MXnXpTd3ZG</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/752970908474769408">July 12, 2016</a></blockquote>
