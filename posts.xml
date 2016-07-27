@@ -5,10 +5,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 10:18:22 GMT</lastBuildDate>
-        <pubDate>Wed, 27 Jul 2016 10:18:18 GMT</pubDate>
+        <lastBuildDate>Wed, 27 Jul 2016 11:18:37 GMT</lastBuildDate>
+        <pubDate>Wed, 27 Jul 2016 11:18:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Ellipsoid Spirals]]></title>
+            <link>http://mathtourist.blogspot.com/2016/07/ellipsoid-spirals.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/07/ellipsoid-spirals.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 27 Jul 2016 11:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Topological Crystals (Part 2)]]></title>
             <link>https://johncarlosbaez.wordpress.com/2016/07/27/topological-crystals-part-2/</link>
@@ -1695,17 +1702,17 @@ Bad area comparisons - my cartographical nemesis]]></title>
             <pubDate>Mon, 18 Jul 2016 05:38:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Polygon Gone!]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/07/polygon-gone.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/07/polygon-gone.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 18 Jul 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An approximate message passing approach for compressive hyperspectral imaging using a simultaneous low-rank and joint-sparsity prior]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t8f8xvCrBao/an-approximate-message-passing-approach.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t8f8xvCrBao/an-approximate-message-passing-approach.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 18 Jul 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polygon Gone!]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/07/polygon-gone.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/07/polygon-gone.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Mon, 18 Jul 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1809,17 +1816,17 @@ Wave - 160614]]></title>
             <pubDate>Sun, 17 Jul 2016 12:30:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[High Lines]]></title>
-            <link>http://mathtourist.blogspot.com/2016/07/high-lines.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/07/high-lines.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 17 Jul 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Of Politics and Science]]></title>
             <link>http://math-frolic.blogspot.com/2016/07/of-politics-and-science.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/07/of-politics-and-science.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 17 Jul 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High Lines]]></title>
+            <link>http://mathtourist.blogspot.com/2016/07/high-lines.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/07/high-lines.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 17 Jul 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2776,13 +2783,6 @@ Pol Bury ‘16 Balls, 16 Cubes in 8 Rows’, 1966]]></title>
             <pubDate>Mon, 11 Jul 2016 11:45:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stone Flower]]></title>
-            <link>http://mathtourist.blogspot.com/2016/07/stone-flower.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/07/stone-flower.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 11 Jul 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S8.271 - Talk, Show]]></title>
             <link>http://mathtans.blogspot.com/2016/07/s8271-talk-show.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2016/07/s8271-talk-show.html</guid>
@@ -2794,6 +2794,13 @@ Pol Bury ‘16 Balls, 16 Cubes in 8 Rows’, 1966]]></title>
             <link>http://mathtango.blogspot.com/2016/07/a-few-books.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2016/07/a-few-books.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <pubDate>Mon, 11 Jul 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stone Flower]]></title>
+            <link>http://mathtourist.blogspot.com/2016/07/stone-flower.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/07/stone-flower.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 11 Jul 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2920,17 +2927,17 @@ Inspired by a talk Frank Farris gave at...]]></title>
             <pubDate>Sun, 10 Jul 2016 11:06:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uplifting...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/07/uplifting.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/07/uplifting.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 10 Jul 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Broken Bridge]]></title>
             <link>http://mathtourist.blogspot.com/2016/07/broken-bridge.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/07/broken-bridge.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 10 Jul 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uplifting...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/07/uplifting.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/07/uplifting.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 10 Jul 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3717,17 +3724,17 @@ To those who celebrate it, Happy Independence...]]></title>
             <pubDate>Mon, 04 Jul 2016 11:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S8.270 - Unit Vector]]></title>
-            <link>http://mathtans.blogspot.com/2016/07/s8270-unit-vector.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/07/s8270-unit-vector.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 04 Jul 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Independence Day Flag]]></title>
             <link>http://mathtourist.blogspot.com/2016/07/independence-day-flag.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/07/independence-day-flag.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 04 Jul 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S8.270 - Unit Vector]]></title>
+            <link>http://mathtans.blogspot.com/2016/07/s8270-unit-vector.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2016/07/s8270-unit-vector.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 04 Jul 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3801,17 +3808,17 @@ To those who celebrate it, Happy Independence...]]></title>
             <pubDate>Sun, 03 Jul 2016 12:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An Incidental Remark...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/07/an-incidental-remark.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/07/an-incidental-remark.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 03 Jul 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pentagons for Floors]]></title>
             <link>http://mathtourist.blogspot.com/2016/07/pentagons-for-floors.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/07/pentagons-for-floors.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 03 Jul 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Incidental Remark...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/07/an-incidental-remark.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/07/an-incidental-remark.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 03 Jul 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3904,13 +3911,6 @@ To those who celebrate it, Happy Independence...]]></title>
             <guid isPermaLink="false">https://mattersmathematical.wordpress.com/2016/07/02/arxiv-faces-changes-and-not-for-the-better/</guid>
             <dc:creator><![CDATA[Matters Mathematical]]></dc:creator>
             <pubDate>Sat, 02 Jul 2016 12:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fifth Third]]></title>
-            <link>http://mathtourist.blogspot.com/2016/07/fifth-third.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/07/fifth-third.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sat, 02 Jul 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End of term emotions]]></title>
@@ -4203,15 +4203,15 @@ Taken with instagram]]></title>
         </item>
         <item>
             <title><![CDATA[Gold Links Puzzle]]></title>
-            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</guid>
+            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</guid>
             <dc:creator><![CDATA[CSE Blog - quant, math, computer science puzzles]]></dc:creator>
             <pubDate>Wed, 29 Jun 2016 19:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gold Links Puzzle]]></title>
-            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/cyXvQ2S8l7s/source-alok-goyal-stellaris-vp-puzzle.html</guid>
+            <link>http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/pratikpoddarcse/~3/VFWmFIz-AMc/gold-links-puzzle.html</guid>
             <dc:creator><![CDATA[CSE Blog - quant, math, computer science puzzles]]></dc:creator>
             <pubDate>Wed, 29 Jun 2016 19:23:00 GMT</pubDate>
         </item>
