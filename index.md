@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/evelynjlamb">@evelynjlamb</a>: Why you should care about high-dimensional sphere packing <a href="https://t.co/hKNKZO2RY1">https://t.co/hKNKZO2RY1</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/759215175266406401">July 30, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-conversation="none" align="center" data-width="500"><p lang="en" dir="ltr">Terry Tao talks Shannon, entropy, n-grams &amp; p-values in analyzing whether a certain speech was plagiarized<a href="https://t.co/HKA3Jnae24">https://t.co/HKA3Jnae24</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/756072804903161856">July 21, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Terry Tao talks Shannon, entropy, n-grams, and p-values in analyzing whether a certain speech was plagiarized. <a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/755915919050825735">July 21, 2016</a></blockquote>
