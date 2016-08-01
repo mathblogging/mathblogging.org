@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Another favorite fractal from Evelyn Lamb -- the Menger Sponge: <a href="https://t.co/g17vFzDpgo">https://t.co/g17vFzDpgo</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/760195061770493952">August 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Habits of Highly Mathematical People, by <a href="https://twitter.com/jeremyjkun">@jeremyjkun</a><a href="https://t.co/niN7b7BpBc">https://t.co/niN7b7BpBc</a><br>Strong essay on the value of studying math.<a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/759752679635705857">July 31, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/evelynjlamb">@evelynjlamb</a>: Why you should care about high-dimensional sphere packing <a href="https://t.co/hKNKZO2RY1">https://t.co/hKNKZO2RY1</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/759215175266406401">July 30, 2016</a></blockquote>
