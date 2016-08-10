@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The 39th Root of 92, by <a href="https://twitter.com/bit_player">@bit_player</a><a href="https://t.co/j1jO39bhjY">https://t.co/j1jO39bhjY</a><br>Wire gauges, geometric series, and 92^(1/39)<a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/763361361464324096">August 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">James Maynard explores the primes: <a href="https://t.co/P2APbiqDU4">https://t.co/P2APbiqDU4</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/760506850630664192">August 2, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/profkeithdevlin">@profkeithdevlin</a> reviews a must-see film, and contemplates the power of mathematics: <a href="https://t.co/FPQSGaXG0B">https://t.co/FPQSGaXG0B</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/760233570640203777">August 1, 2016</a></blockquote>
