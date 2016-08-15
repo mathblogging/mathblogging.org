@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 17:18:53 GMT</lastBuildDate>
-        <pubDate>Mon, 15 Aug 2016 17:18:51 GMT</pubDate>
+        <lastBuildDate>Mon, 15 Aug 2016 19:19:59 GMT</lastBuildDate>
+        <pubDate>Mon, 15 Aug 2016 19:19:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Open data board game]]></title>
+            <link>http://flowingdata.com/2016/08/15/open-data-board-game/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2016/08/15/open-data-board-game/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Mon, 15 Aug 2016 17:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why all the swimming ties in the Olympics]]></title>
+            <link>http://flowingdata.com/2016/08/15/why-all-the-swimming-ties-in-the-olympics/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2016/08/15/why-all-the-swimming-ties-in-the-olympics/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Mon, 15 Aug 2016 09:34:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mathematical Miscellany #5]]></title>
             <link>https://colleenyoung.wordpress.com/2016/08/15/mathematical-miscellany-5/</link>
@@ -31,11 +45,25 @@
             <pubDate>Sat, 13 Aug 2016 16:20:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Generate your own fantasy map]]></title>
+            <link>http://flowingdata.com/2016/08/12/generate-your-own-fantasy-map/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2016/08/12/generate-your-own-fantasy-map/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Fri, 12 Aug 2016 15:31:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tensors 2: Multilinear operators]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/OWd14sy_IBE/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/OWd14sy_IBE/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Fri, 12 Aug 2016 12:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DrawMyData lets you plot points manually and then download the data]]></title>
+            <link>http://flowingdata.com/2016/08/12/drawmydata-lets-you-plot-points-manually-and-then-download-the-data/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2016/08/12/drawmydata-lets-you-plot-points-manually-and-then-download-the-data/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Fri, 12 Aug 2016 10:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Michael Phelps race times since his first Olympics]]></title>
@@ -108,13 +136,6 @@
             <pubDate>Mon, 08 Aug 2016 13:46:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What makes the Olympic athletes great]]></title>
-            <link>http://flowingdata.com/2016/08/08/what-makes-the-olympic-athletes-great/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2016/08/08/what-makes-the-olympic-athletes-great/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Mon, 08 Aug 2016 10:36:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Holiday Time]]></title>
             <link>https://colleenyoung.wordpress.com/2016/08/06/holiday-time/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2016/08/06/holiday-time/</guid>
@@ -141,27 +162,6 @@
             <guid isPermaLink="false">https://ispeakmath.org/2016/08/05/algebra-1-concepts-review-for-algebra-2-students/</guid>
             <dc:creator><![CDATA[I Speak Math]]></dc:creator>
             <pubDate>Fri, 05 Aug 2016 14:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Games to test your skillz against Olympians, from your computer]]></title>
-            <link>http://flowingdata.com/2016/08/05/games-to-test-your-skillz-against-olympians-from-your-computer/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2016/08/05/games-to-test-your-skillz-against-olympians-from-your-computer/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Fri, 05 Aug 2016 09:03:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sponsor: Introduction to Data Science and Data Visualization with D3.js →]]></title>
-            <link>http://www.thisismetis.com/</link>
-            <guid isPermaLink="false">http://www.thisismetis.com/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Thu, 04 Aug 2016 20:26:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a generator for stuff]]></title>
-            <link>http://flowingdata.com/2016/08/04/building-a-generator-for-stuff/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2016/08/04/building-a-generator-for-stuff/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Thu, 04 Aug 2016 09:42:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[13 reasons why Hillary Clinton will (probably) win the Presidential Election]]></title>
