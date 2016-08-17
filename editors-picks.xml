@@ -5,10 +5,31 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 13:18:29 GMT</lastBuildDate>
-        <pubDate>Wed, 17 Aug 2016 13:18:27 GMT</pubDate>
+        <lastBuildDate>Wed, 17 Aug 2016 14:18:36 GMT</lastBuildDate>
+        <pubDate>Wed, 17 Aug 2016 14:18:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA["Don’t fall for the bullshit. Your success does not depend solely on them liking you." https://t.co/Vyq2tKYGDR #mbpicks]]></description>
+            <guid isPermaLink="false">https://xykademiqz.com/2016/03/26/a-good-little-girl/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Fri, 01 Jul 2016 09:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Jim Propp continues his exploration of Ramanujan and what the current movie biopic of his life teaches us: https://t.co/ZPNASup6Vd #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/fIma302jYvO</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Sun, 17 Jul 2016 11:45:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[An approachable video on the solution to the Kelmans-Seymour conjecture https://t.co/CHkdbDdHiD h/t @christianp #mbpicks]]></description>
+            <guid isPermaLink="false">https://youtu.be/kJezlZBrbPk</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Thu, 26 May 2016 20:34:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
             <description><![CDATA[Bertrand's Ballot Problem, by @JimPropp
@@ -21,11 +42,15 @@ Voting, probability, dynamical systems, elegance!
             <pubDate>Wed, 17 Aug 2016 12:48:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
-            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[The 39th Root of 92, by @bit_player
+https://t.co/j1jO39bhjY
+Wire gauges, geometric series, and 92^(1/39)
+#math #mathchat
+#mbpick]]></description>
+            <guid isPermaLink="false">http://bit-player.org/2016/the-39th-root-of-92</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Wed, 10 Aug 2016 13:08:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
@@ -39,13 +64,6 @@ Strong essay on the value of studying math.
         </item>
         <item>
             <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA["Don’t fall for the bullshit. Your success does not depend solely on them liking you." https://t.co/Vyq2tKYGDR #mbpicks]]></description>
-            <guid isPermaLink="false">https://xykademiqz.com/2016/03/26/a-good-little-girl/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Fri, 01 Jul 2016 09:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
             <description><![CDATA[I love these simple-not-simplistic videos from @christianp at @aperiodical 
 https://t.co/gj489dl2b8 #mbpicks]]></description>
             <guid isPermaLink="false">http://aperiodical.com/2016/05/clp-reads-non-sexist-solution-to-the-menage-problem/</guid>
@@ -53,22 +71,11 @@ https://t.co/gj489dl2b8 #mbpicks]]></description>
             <pubDate>Wed, 15 Jun 2016 10:25:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[An approachable video on the solution to the Kelmans-Seymour conjecture https://t.co/CHkdbDdHiD h/t @christianp #mbpicks]]></description>
-            <guid isPermaLink="false">https://youtu.be/kJezlZBrbPk</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Thu, 26 May 2016 20:34:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[The 39th Root of 92, by @bit_player
-https://t.co/j1jO39bhjY
-Wire gauges, geometric series, and 92^(1/39)
-#math #mathchat
-#mbpick]]></description>
-            <guid isPermaLink="false">http://bit-player.org/2016/the-39th-root-of-92</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Wed, 10 Aug 2016 13:08:25 GMT</pubDate>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[James Maynard explores the primes: https://t.co/P2APbiqDU4 #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/9UdS302QGSm</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Tue, 02 Aug 2016 16:05:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -92,18 +99,11 @@ Wire gauges, geometric series, and 92^(1/39)
             <pubDate>Sat, 30 Jul 2016 02:32:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Jim Propp continues his exploration of Ramanujan and what the current movie biopic of his life teaches us: https://t.co/ZPNASup6Vd #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/fIma302jYvO</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Sun, 17 Jul 2016 11:45:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[James Maynard explores the primes: https://t.co/P2APbiqDU4 #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/9UdS302QGSm</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 02 Aug 2016 16:05:37 GMT</pubDate>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! https://t.co/9PGmPrpXJu #mbpick]]></description>
+            <guid isPermaLink="false">http://goo.gl/qms6Tt</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2015 15:53:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
