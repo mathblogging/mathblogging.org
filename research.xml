@@ -5,10 +5,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Sep 2016 19:18:28 GMT</lastBuildDate>
-        <pubDate>Sun, 04 Sep 2016 19:18:24 GMT</pubDate>
+        <lastBuildDate>Sun, 04 Sep 2016 21:18:14 GMT</lastBuildDate>
+        <pubDate>Sun, 04 Sep 2016 21:18:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Stat of the Week Competition: September 3 – 9 2016]]></title>
+            <link>http://feedproxy.google.com/~r/StatsChat/~3/3ANJYiZMKbY/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/3ANJYiZMKbY/</guid>
+            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 20:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stat of the Week Competition Discussion: September 3 – 9 2016]]></title>
+            <link>http://feedproxy.google.com/~r/StatsChat/~3/g75rZXiKm8c/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/g75rZXiKm8c/</guid>
+            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 20:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Proofs and programs]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/xNj14Yyhmk4/</link>
@@ -463,20 +477,6 @@
             <guid isPermaLink="false">https://errorstatistics.com/2016/08/28/tragicomedy-hour-p-values-vs-posterior-probabilities-vs-diagnostic-error-rates/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Sun, 28 Aug 2016 20:15:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stat of the Week Competition: August 27 – September 2 2016]]></title>
-            <link>http://feedproxy.google.com/~r/StatsChat/~3/qpuwBSF6sGQ/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/qpuwBSF6sGQ/</guid>
-            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
-            <pubDate>Sun, 28 Aug 2016 20:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stat of the Week Competition Discussion: August 27 – September 2 2016]]></title>
-            <link>http://feedproxy.google.com/~r/StatsChat/~3/mei1r140rrU/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/mei1r140rrU/</guid>
-            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
-            <pubDate>Sun, 28 Aug 2016 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rmarkdown template for a Monash working paper]]></title>
@@ -1582,16 +1582,16 @@ by Ravi Vakil]]></title>
             <pubDate>Mon, 15 Aug 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Games @ Dal 2016 Wrap Up]]></title>
-            <link>http://combinatorialgametheory.blogspot.com/2016/08/games-dal-2016-wrap-up.html</link>
-            <guid isPermaLink="false">http://combinatorialgametheory.blogspot.com/2016/08/games-dal-2016-wrap-up.html</guid>
+            <title><![CDATA[Games@Dal 2016: Israel talks about Picaria]]></title>
+            <link>http://combinatorialgametheory.blogspot.com/2016/08/gamesdal-2016-israel-talks-about-picaria.html</link>
+            <guid isPermaLink="false">http://combinatorialgametheory.blogspot.com/2016/08/gamesdal-2016-israel-talks-about-picaria.html</guid>
             <dc:creator><![CDATA[Combinatorial Game Theory]]></dc:creator>
             <pubDate>Mon, 15 Aug 2016 11:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Games@Dal 2016: Israel talks about Picaria]]></title>
-            <link>http://combinatorialgametheory.blogspot.com/2016/08/gamesdal-2016-israel-talks-about-picaria.html</link>
-            <guid isPermaLink="false">http://combinatorialgametheory.blogspot.com/2016/08/gamesdal-2016-israel-talks-about-picaria.html</guid>
+            <title><![CDATA[Games @ Dal 2016 Wrap Up]]></title>
+            <link>http://combinatorialgametheory.blogspot.com/2016/08/games-dal-2016-wrap-up.html</link>
+            <guid isPermaLink="false">http://combinatorialgametheory.blogspot.com/2016/08/games-dal-2016-wrap-up.html</guid>
             <dc:creator><![CDATA[Combinatorial Game Theory]]></dc:creator>
             <pubDate>Mon, 15 Aug 2016 11:53:00 GMT</pubDate>
         </item>
@@ -2424,13 +2424,6 @@ A NASA Global Hawk (a drone) and a NOAA WP-3D (a...]]></title>
             <guid isPermaLink="false">http://models.street-artists.org/2016/08/04/a-summary-on-data-dredging/</guid>
             <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
             <pubDate>Thu, 04 Aug 2016 23:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Haskell Symposium paper on “twisted functors”]]></title>
-            <link>https://byorgey.wordpress.com/2016/08/04/new-haskell-symposium-paper-on-twisted-functors/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2016/08/04/new-haskell-symposium-paper-on-twisted-functors/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Thu, 04 Aug 2016 20:08:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bando di concorso per una tesi di laurea di didattica o divulgazione della matematica]]></title>
