@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Mathblogging.org -- Recreational]]></title>
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Sep 2016 18:18:14 GMT</lastBuildDate>
-        <pubDate>Wed, 14 Sep 2016 18:18:11 GMT</pubDate>
+        <lastBuildDate>Wed, 14 Sep 2016 19:57:24 GMT</lastBuildDate>
+        <pubDate>Wed, 14 Sep 2016 19:57:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -50,6 +49,13 @@
             <guid isPermaLink="false">https://mathwithbaddrawings.com/2016/09/14/if-nfl-referees-behaved-like-academic-referees/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
             <pubDate>Wed, 14 Sep 2016 04:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unemployed]]></title>
+            <link>http://blog.amathknauft.com/2016/09/unemployed.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/09/unemployed.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 02:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9/13/16]]></title>
@@ -99,6 +105,13 @@
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/some-interesting-confusion/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 12 Sep 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Share from Repository (weekly)]]></title>
+            <link>http://blog.amathknauft.com/2016/09/share-from-repository-weekly_11.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/09/share-from-repository-weekly_11.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Sun, 11 Sep 2016 22:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can You Solve Google’s Car Probability Interview Question? Sunday Puzzle]]></title>
@@ -234,6 +247,13 @@
             <pubDate>Thu, 08 Sep 2016 12:30:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[(via https://www.youtube.com/watch?v=gSMeawFz0Sw)]]></title>
+            <link>http://singingbanana.tumblr.com/post/150118735012</link>
+            <guid isPermaLink="false">http://singingbanana.tumblr.com/post/150118735012</guid>
+            <dc:creator><![CDATA[singingbanana's lazy microblog]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 12:15:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA["Authentic Maths" (...and proofs)]]></title>
             <link>http://math-frolic.blogspot.com/2016/09/authentic-maths-and-proofs.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/authentic-maths-and-proofs.html</guid>
@@ -304,6 +324,20 @@
             <pubDate>Wed, 07 Sep 2016 04:00:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Thursday is the 50th anniversary of Star Trek, so I’ll celebrate...]]></title>
+            <link>http://singingbanana.tumblr.com/post/150034348632</link>
+            <guid isPermaLink="false">http://singingbanana.tumblr.com/post/150034348632</guid>
+            <dc:creator><![CDATA[singingbanana's lazy microblog]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 16:19:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(via Ten years on YouTube - YouTube)]]></title>
+            <link>http://singingbanana.tumblr.com/post/150030649477</link>
+            <guid isPermaLink="false">http://singingbanana.tumblr.com/post/150030649477</guid>
+            <dc:creator><![CDATA[singingbanana's lazy microblog]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 14:24:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[9/6/16]]></title>
             <link>http://purenumbers.tumblr.com/post/150027386498</link>
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/150027386498</guid>
@@ -367,16 +401,23 @@
             <pubDate>Mon, 05 Sep 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[News catches up with Economists]]></title>
-            <link>http://mysliceofpizza.blogspot.com/2016/09/news-catches-up-with-economists_4.html</link>
-            <guid isPermaLink="false">http://mysliceofpizza.blogspot.com/2016/09/news-catches-up-with-economists_4.html</guid>
-            <dc:creator><![CDATA[my slice of pizza]]></dc:creator>
-            <pubDate>Sun, 04 Sep 2016 20:47:00 GMT</pubDate>
+            <title><![CDATA[Share from Repository (weekly)]]></title>
+            <link>http://blog.amathknauft.com/2016/09/share-from-repository-weekly.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/09/share-from-repository-weekly.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 22:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life Plans Defeated]]></title>
             <link>http://mysliceofpizza.blogspot.com/2016/09/life-plans-defeated.html</link>
             <guid isPermaLink="false">http://mysliceofpizza.blogspot.com/2016/09/life-plans-defeated.html</guid>
+            <dc:creator><![CDATA[my slice of pizza]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 20:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[News catches up with Economists]]></title>
+            <link>http://mysliceofpizza.blogspot.com/2016/09/news-catches-up-with-economists_4.html</link>
+            <guid isPermaLink="false">http://mysliceofpizza.blogspot.com/2016/09/news-catches-up-with-economists_4.html</guid>
             <dc:creator><![CDATA[my slice of pizza]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 20:47:00 GMT</pubDate>
         </item>
@@ -407,6 +448,13 @@
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/to-believe-or-not-to-believe.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photomath can read my writing]]></title>
+            <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
+            <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photomath can read my writing]]></title>
@@ -444,6 +492,13 @@
             <pubDate>Sat, 03 Sep 2016 12:30:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Day 2: A Level Maths and Further Maths]]></title>
+            <link>http://walkthroughmaths.blogspot.com/2016/09/day-2-level-maths-and-further-maths.html</link>
+            <guid isPermaLink="false">http://walkthroughmaths.blogspot.com/2016/09/day-2-level-maths-and-further-maths.html</guid>
+            <dc:creator><![CDATA[A Drunkard's Walk Through Mathematics]]></dc:creator>
+            <pubDate>Fri, 02 Sep 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[9/2/16]]></title>
             <link>http://purenumbers.tumblr.com/post/149835897004</link>
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/149835897004</guid>
@@ -465,6 +520,20 @@
             <pubDate>Fri, 02 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[September 10, 2016 – “Geometric Probability” with MTip Phaovibul]]></title>
+            <link>https://metroplexmathcircle.wordpress.com/2016/09/01/mark-your-calendars/</link>
+            <guid isPermaLink="false">https://metroplexmathcircle.wordpress.com/2016/09/01/mark-your-calendars/</guid>
+            <dc:creator><![CDATA[Metroplex Math Circle]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 21:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do Black Holes Have Cores?]]></title>
+            <link>http://www.math-math.com/2016/09/black-holes-have-cores.html</link>
+            <guid isPermaLink="false">http://www.math-math.com/2016/09/black-holes-have-cores.html</guid>
+            <dc:creator><![CDATA[MATH - MATH]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 18:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Donald Duck Discovers Mathematics]]></title>
             <link>http://mathtricks.org/funny-math-videos/donald-duck-discovers-mathematics/</link>
             <guid isPermaLink="false">http://mathtricks.org/funny-math-videos/donald-duck-discovers-mathematics/</guid>
@@ -476,6 +545,13 @@
             <link>http://mrburkemath.blogspot.com/2016/09/august-2016-common-core-algebra-1.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/09/august-2016-common-core-algebra-1.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Day 1: Preparing for University, An Introduction]]></title>
+            <link>http://walkthroughmaths.blogspot.com/2016/09/day-1-preparing-for-university.html</link>
+            <guid isPermaLink="false">http://walkthroughmaths.blogspot.com/2016/09/day-1-preparing-for-university.html</guid>
+            <dc:creator><![CDATA[A Drunkard's Walk Through Mathematics]]></dc:creator>
             <pubDate>Thu, 01 Sep 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
@@ -654,6 +730,13 @@
             <pubDate>Sun, 28 Aug 2016 10:22:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Diigo Reading Habits]]></title>
+            <link>http://blog.amathknauft.com/2016/08/diigo-reading-habits.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/08/diigo-reading-habits.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2016 04:49:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Age of Presidents at Inauguration]]></title>
             <link>http://mathscinotes.com/2016/08/age-of-presidents-at-inauguration/</link>
             <guid isPermaLink="false">http://mathscinotes.com/2016/08/age-of-presidents-at-inauguration/</guid>
@@ -771,13 +854,6 @@
             <guid isPermaLink="false">http://mathscinotes.com/2016/08/asteroid-size-estimation/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Mon, 22 Aug 2016 19:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Graviton Oscillation Exist?]]></title>
-            <link>http://www.math-math.com/2016/08/do-graviton-oscillations-exist.html</link>
-            <guid isPermaLink="false">http://www.math-math.com/2016/08/do-graviton-oscillations-exist.html</guid>
-            <dc:creator><![CDATA[MATH - MATH]]></dc:creator>
-            <pubDate>Mon, 22 Aug 2016 14:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[xkcd: Meteorite Identification]]></title>
@@ -967,62 +1043,6 @@
             <guid isPermaLink="false">http://blog.amathknauft.com/2016/08/share-from-repository-weekly_14.html</guid>
             <dc:creator><![CDATA[LimSoup]]></dc:creator>
             <pubDate>Sun, 14 Aug 2016 22:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Καλοκαιρινό πρόβλημα νικητήριας στρατηγικής....]]></title>
-            <link>http://mathhmagic.blogspot.com/2016/08/blog-post_14.html</link>
-            <guid isPermaLink="false">http://mathhmagic.blogspot.com/2016/08/blog-post_14.html</guid>
-            <dc:creator><![CDATA[Μαθη...μαγικα]]></dc:creator>
-            <pubDate>Sun, 14 Aug 2016 06:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CENSUS AT SCHOOL]]></title>
-            <link>http://solveandsimplify.blogspot.com/2016/08/census-at-school.html</link>
-            <guid isPermaLink="false">http://solveandsimplify.blogspot.com/2016/08/census-at-school.html</guid>
-            <dc:creator><![CDATA[Solve and Simplify]]></dc:creator>
-            <pubDate>Sat, 13 Aug 2016 12:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>http://solveandsimplify.blogspot.com/2016/08/a-must-watch-i-watched-fastball-on.html</link>
-            <guid isPermaLink="false">http://solveandsimplify.blogspot.com/2016/08/a-must-watch-i-watched-fastball-on.html</guid>
-            <dc:creator><![CDATA[Solve and Simplify]]></dc:creator>
-            <pubDate>Fri, 12 Aug 2016 12:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Profiles: Work in the past and work in the future]]></title>
-            <link>http://xbubbler.blogspot.com/2016/08/profiles-work-in-past-and-work-in-future.html</link>
-            <guid isPermaLink="false">http://xbubbler.blogspot.com/2016/08/profiles-work-in-past-and-work-in-future.html</guid>
-            <dc:creator><![CDATA[X Bubbler]]></dc:creator>
-            <pubDate>Thu, 11 Aug 2016 22:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share from Repository (weekly)]]></title>
-            <link>http://blog.amathknauft.com/2016/08/share-from-repository-weekly.html</link>
-            <guid isPermaLink="false">http://blog.amathknauft.com/2016/08/share-from-repository-weekly.html</guid>
-            <dc:creator><![CDATA[LimSoup]]></dc:creator>
-            <pubDate>Sun, 07 Aug 2016 22:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share from Repository (weekly)]]></title>
-            <link>http://blog.amathknauft.com/2016/07/share-from-repository-weekly_31.html</link>
-            <guid isPermaLink="false">http://blog.amathknauft.com/2016/07/share-from-repository-weekly_31.html</guid>
-            <dc:creator><![CDATA[LimSoup]]></dc:creator>
-            <pubDate>Sun, 31 Jul 2016 22:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DesmosMusic]]></title>
-            <link>http://blog.amathknauft.com/2016/07/desmosmusic.html</link>
-            <guid isPermaLink="false">http://blog.amathknauft.com/2016/07/desmosmusic.html</guid>
-            <dc:creator><![CDATA[LimSoup]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 15:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share from Repository (weekly)]]></title>
-            <link>http://blog.amathknauft.com/2016/07/share-from-repository-weekly_24.html</link>
-            <guid isPermaLink="false">http://blog.amathknauft.com/2016/07/share-from-repository-weekly_24.html</guid>
-            <dc:creator><![CDATA[LimSoup]]></dc:creator>
-            <pubDate>Sun, 24 Jul 2016 22:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

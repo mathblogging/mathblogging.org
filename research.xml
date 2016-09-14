@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Mathblogging.org -- Research]]></title>
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Sep 2016 18:18:15 GMT</lastBuildDate>
-        <pubDate>Wed, 14 Sep 2016 18:18:11 GMT</pubDate>
+        <lastBuildDate>Wed, 14 Sep 2016 19:57:25 GMT</lastBuildDate>
+        <pubDate>Wed, 14 Sep 2016 19:57:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -45,11 +44,32 @@
             <pubDate>Wed, 14 Sep 2016 14:38:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Let’s play Twister, let’s play Risk]]></title>
+            <link>http://andrewgelman.com/2016/09/14/29924/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/14/29924/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 13:57:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Second Edition (2016) of Learning LaTeX by David Griffiths and Des Higham]]></title>
             <link>https://nickhigham.wordpress.com/2016/09/14/second-edition-2016-of-learning-latex/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/14/second-edition-2016-of-learning-latex/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Wed, 14 Sep 2016 12:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pension Funds: a never ending saga]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/pension-funds-never-ending-saga.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/pension-funds-never-ending-saga.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ma sono proprio tutti giusti i test di ammissione a Medicina del Miur?]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/langolo-arguto/ma-sono-proprio-tutti-giusti-i-test-di-ammissione-a-medicina-del-miur/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/langolo-arguto/ma-sono-proprio-tutti-giusti-i-test-di-ammissione-a-medicina-del-miur/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 07:25:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Innocence by BlankaMateno]]></title>
@@ -95,7 +115,6 @@
         </item>
         <item>
             <title><![CDATA[pullback-power]]></title>
-            <link>null</link>
             <guid isPermaLink="false">pullback-power</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Wed, 14 Sep 2016 00:04:29 GMT</pubDate>
@@ -115,11 +134,32 @@
             <pubDate>Tue, 13 Sep 2016 23:22:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GIORNATA SULLE BIBLIOTECHE DI MATEMATICA, Roma, 23 settembre 2016]]></title>
+            <link>http://maddmaths.simai.eu/news-2/giornata-sulle-biblioteche-di-matematica-roma-23-settembre-2016/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/giornata-sulle-biblioteche-di-matematica-roma-23-settembre-2016/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 23:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[local kernel reduction for ABC]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/14/local-kernel-reduction-for-abc/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/14/local-kernel-reduction-for-abc/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 22:16:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Utilizando el método de exhaución para “demostrar” que 2=1]]></title>
             <link>http://feedproxy.google.com/~r/gaussianos/~3/jvby7XCi98I/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/gaussianos/~3/jvby7XCi98I/</guid>
             <dc:creator><![CDATA[Gaussianos]]></dc:creator>
             <pubDate>Tue, 13 Sep 2016 19:11:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twenty Lectures on Algorithmic Game Theory]]></title>
+            <link>https://agtb.wordpress.com/2016/09/13/twenty-lectures-on-algorithmic-game-theory/</link>
+            <guid isPermaLink="false">https://agtb.wordpress.com/2016/09/13/twenty-lectures-on-algorithmic-game-theory/</guid>
+            <dc:creator><![CDATA[Turing's Invisible Hand]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 18:00:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Speeding up Bayesian Optimizations with Random Projections - implementations -]]></title>
@@ -143,6 +183,13 @@
             <pubDate>Tue, 13 Sep 2016 13:45:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No guarantee]]></title>
+            <link>http://andrewgelman.com/2016/09/13/28790/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/13/28790/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 13:44:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Noether’s theorem and conservation of energy and momentum]]></title>
             <link>http://www.physicspages.com/2016/09/13/noethers-theorem-and-conservation-of-energy-and-momentum/</link>
             <guid isPermaLink="false">http://www.physicspages.com/2016/09/13/noethers-theorem-and-conservation-of-energy-and-momentum/</guid>
@@ -150,11 +197,31 @@
             <pubDate>Tue, 13 Sep 2016 13:02:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A reminder that the New York Times is not a monolith]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/a-reminder-that-new-york-times-is-not_13.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/a-reminder-that-new-york-times-is-not_13.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calificaciones MMI ::: Septiembre 2016]]></title>
+            <link>https://cafematematico.wordpress.com/2016/09/13/calificaciones-mmi-septiembre-2016/</link>
+            <guid isPermaLink="false">https://cafematematico.wordpress.com/2016/09/13/calificaciones-mmi-septiembre-2016/</guid>
+            <dc:creator><![CDATA[Café Matemático]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 09:58:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reprise du cours de Statistique]]></title>
             <link>http://freakonometrics.hypotheses.org/49145</link>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49145</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 13 Sep 2016 07:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HoTT and Philosophy]]></title>
+            <guid isPermaLink="false">HoTT and Philosophy</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 07:49:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["In general topology, the extreme value theorem follows from the general fact that compactness is..."]]></title>
@@ -185,6 +252,13 @@
             <pubDate>Mon, 12 Sep 2016 23:10:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Savage-Dickey supermodels]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/13/savage-dickey-supermodels/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/13/savage-dickey-supermodels/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 22:16:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Insufficient statistics]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/Jeg01RLxITE/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/Jeg01RLxITE/</guid>
@@ -213,11 +287,25 @@
             <pubDate>Mon, 12 Sep 2016 20:28:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Solving Statistics Problems Using Stan (my talk at the NYC chapter of the American Statistical Association)]]></title>
+            <link>http://andrewgelman.com/2016/09/12/solving-statistics-problems-using-stan-my-talk-at-the-nyc-chapter-of-the-american-statistical-association/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/12/solving-statistics-problems-using-stan-my-talk-at-the-nyc-chapter-of-the-american-statistical-association/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 20:24:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AlexFest: 60 Faces of Groups]]></title>
             <link>https://gilkalai.wordpress.com/2016/09/12/alexfest-60-faces-of-groups/</link>
             <guid isPermaLink="false">https://gilkalai.wordpress.com/2016/09/12/alexfest-60-faces-of-groups/</guid>
             <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
             <pubDate>Mon, 12 Sep 2016 19:11:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[what Punk Rock #ORMS is reading and listening to]]></title>
+            <link>https://punkrockor.com/2016/09/12/what-punk-rock-orms-is-reading-and-listening-to/</link>
+            <guid isPermaLink="false">https://punkrockor.com/2016/09/12/what-punk-rock-orms-is-reading-and-listening-to/</guid>
+            <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 17:21:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Convexified Convolutional Neural Networks]]></title>
@@ -227,11 +315,32 @@
             <pubDate>Mon, 12 Sep 2016 15:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bayesian Statistics Then and Now]]></title>
+            <link>http://andrewgelman.com/2016/09/12/bayesian-statistics-then-and-now/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/12/bayesian-statistics-then-and-now/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 13:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ddulite watch -- annual Apple post]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/ddulite-watch-annual-apple-post.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/ddulite-watch-annual-apple-post.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Collegio Carlo Alberto]]></title>
             <link>https://statisfaction.wordpress.com/2016/09/12/collegio-carlo-alberto/</link>
             <guid isPermaLink="false">https://statisfaction.wordpress.com/2016/09/12/collegio-carlo-alberto/</guid>
             <dc:creator><![CDATA[Statisfaction]]></dc:creator>
             <pubDate>Mon, 12 Sep 2016 12:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The WiFi experience a week out]]></title>
+            <link>http://models.street-artists.org/2016/09/12/the-wifi-experience-a-week-out/</link>
+            <guid isPermaLink="false">http://models.street-artists.org/2016/09/12/the-wifi-experience-a-week-out/</guid>
+            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 11:51:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Most Obvious Secret in Mathematics]]></title>
@@ -246,6 +355,12 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ResearchBlogging-Mathematics-Italian/~3/2adGi8PeV1A/urschel-un-grande-matematico-sui-campi.html</guid>
             <dc:creator><![CDATA[Research Blogging - Mathematics - Italian]]></dc:creator>
             <pubDate>Mon, 12 Sep 2016 09:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twitter]]></title>
+            <guid isPermaLink="false">Twitter</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 09:32:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[manifold]]></title>
@@ -290,6 +405,20 @@
             <pubDate>Mon, 12 Sep 2016 03:11:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Course announcement: 246A, complex analysis]]></title>
+            <link>https://terrytao.wordpress.com/2016/09/11/course-announcement-246a-complex-analysis/</link>
+            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/09/11/course-announcement-246a-complex-analysis/</guid>
+            <dc:creator><![CDATA[What’s new]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 03:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stan wins again!]]></title>
+            <link>http://andrewgelman.com/2016/09/11/31151/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/11/31151/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 02:25:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Perth spring]]></title>
             <link>https://cameroncounts.wordpress.com/2016/09/12/perth-spring/</link>
             <guid isPermaLink="false">https://cameroncounts.wordpress.com/2016/09/12/perth-spring/</guid>
@@ -302,6 +431,13 @@
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2016/09/12/struggles-with-the-continuum-part-3/</guid>
             <dc:creator><![CDATA[Azimuth]]></dc:creator>
             <pubDate>Mon, 12 Sep 2016 01:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Royal] Series B’log]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/12/royal-series-blog/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/12/royal-series-blog/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sun, 11 Sep 2016 22:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Predicting the Future: The Steamrollers and Machine Learning.]]></title>
@@ -346,6 +482,20 @@
             <pubDate>Sun, 11 Sep 2016 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Two new kinds of product of funcoids]]></title>
+            <link>https://portonmath.wordpress.com/2016/09/11/new-kinds-product-funcoids/</link>
+            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/09/11/new-kinds-product-funcoids/</guid>
+            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
+            <pubDate>Sun, 11 Sep 2016 19:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Genius is not enough:  The sad story of Peter Hagelstein, living monument to the sunk-cost fallacy]]></title>
+            <link>http://andrewgelman.com/2016/09/11/genius-is-not-enough-the-sad-story-of-peter-hagelstein/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/11/genius-is-not-enough-the-sad-story-of-peter-hagelstein/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sun, 11 Sep 2016 13:38:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Peircean Induction and the Error-Correcting Thesis (Part I)]]></title>
             <link>https://errorstatistics.com/2016/09/10/peircean-induction-and-the-error-correcting-thesis-part-i-3/</link>
             <guid isPermaLink="false">https://errorstatistics.com/2016/09/10/peircean-induction-and-the-error-correcting-thesis-part-i-3/</guid>
@@ -367,11 +517,60 @@
             <pubDate>Sun, 11 Sep 2016 01:41:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Is it the Cartan, Coxeter or Gram matrix?]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/11/cartan-coxeter-and-gram/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/11/cartan-coxeter-and-gram/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 11 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congrats to Noam!]]></title>
+            <link>https://agtb.wordpress.com/2016/09/11/congrats-to-noam/</link>
+            <guid isPermaLink="false">https://agtb.wordpress.com/2016/09/11/congrats-to-noam/</guid>
+            <dc:creator><![CDATA[Turing's Invisible Hand]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 23:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The one-hundred year old man who climbed out of the window and disappeared [book review]]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/11/the-one-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-book-review/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/11/the-one-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-book-review/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 22:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hypothesis Testing is a Bad Idea (my talk at Warwick, England, 2pm Thurs 15 Sept)]]></title>
+            <link>http://andrewgelman.com/2016/09/10/my-talk-at-warwick-england-230pm-thurs-15-sept/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/10/my-talk-at-warwick-england-230pm-thurs-15-sept/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 22:01:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Ninth Circuit ruled that vote-swapping is legal.  Let’s use it to stop Trump.]]></title>
             <link>http://www.scottaaronson.com/blog/?p=2891</link>
             <guid isPermaLink="false">http://www.scottaaronson.com/blog/?p=2891</guid>
             <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
             <pubDate>Sat, 10 Sep 2016 19:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Outward reloid of composition vs composition of outward reloids ★★]]></title>
+            <link>http://www.openproblemgarden.org/op/outward_reloid_of_composition_vs_composition_of_outward_reloids</link>
+            <guid isPermaLink="false">http://www.openproblemgarden.org/op/outward_reloid_of_composition_vs_composition_of_outward_reloids</guid>
+            <dc:creator><![CDATA[Open Problem Garden - Open Problems]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 18:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A conjecture about outward funcoids]]></title>
+            <link>https://portonmath.wordpress.com/2016/09/10/conjecture-outward-funcoids/</link>
+            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/09/10/conjecture-outward-funcoids/</guid>
+            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 18:27:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An error in my math book corrected]]></title>
+            <link>https://portonmath.wordpress.com/2016/09/10/error-math-book-corrected/</link>
+            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/09/10/error-math-book-corrected/</guid>
+            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 15:42:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noam Nisan wins the Knuth Prize]]></title>
@@ -381,11 +580,32 @@
             <pubDate>Sat, 10 Sep 2016 15:40:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[An error in my book]]></title>
+            <link>https://portonmath.wordpress.com/2016/09/10/error-in-my-book/</link>
+            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/09/10/error-in-my-book/</guid>
+            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 14:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You may not be interested in peer review, but peer review is interested in you]]></title>
+            <link>http://andrewgelman.com/2016/09/10/there-is-no-research-vacuum/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/10/there-is-no-research-vacuum/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 13:27:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ABC and FLT]]></title>
             <link>http://bit-player.org/2016/abc-and-flt</link>
             <guid isPermaLink="false">http://bit-player.org/2016/abc-and-flt</guid>
             <dc:creator><![CDATA[bit-player]]></dc:creator>
             <pubDate>Sat, 10 Sep 2016 13:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protegido: Calificaciones SFIL]]></title>
+            <link>https://cafematematico.wordpress.com/2016/09/10/calificaciones-sfil-2/</link>
+            <guid isPermaLink="false">https://cafematematico.wordpress.com/2016/09/10/calificaciones-sfil-2/</guid>
+            <dc:creator><![CDATA[Café Matemático]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 11:50:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noether’s theorem and conservation laws]]></title>
@@ -400,6 +620,13 @@
             <guid isPermaLink="false">https://cameroncounts.wordpress.com/2016/09/10/farewell-adelaide/</guid>
             <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
             <pubDate>Sat, 10 Sep 2016 11:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premio «Cesare Cancellieri» per gli insegnanti delle scuole italiane di ogni ordine e grado]]></title>
+            <link>http://maddmaths.simai.eu/news-2/premio-cesare-cancellieri-per-gli-insegnanti-delle-scuole-italiane-di-ogni-ordine-e-grado/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/premio-cesare-cancellieri-per-gli-insegnanti-delle-scuole-italiane-di-ogni-ordine-e-grado/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 09:09:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[You’ve got to be carefully taught]]></title>
@@ -423,6 +650,41 @@
             <pubDate>Sat, 10 Sep 2016 01:53:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Darwin’s radio [book review]]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/10/darwins-radio-book-review/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/10/darwins-radio-book-review/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 22:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Q:  “Is A 50-State Poll As Good As 50 State Polls?”  A:  Use Mister P.]]></title>
+            <link>http://andrewgelman.com/2016/09/09/q-is-a-50-state-poll-as-good-as-50-state-polls-a-use-mister-p/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/09/q-is-a-50-state-poll-as-good-as-50-state-polls-a-use-mister-p/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 21:17:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stan users group hits 2000 registrations]]></title>
+            <link>http://andrewgelman.com/2016/09/09/stan-users-group-hits-2000-members/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/09/stan-users-group-hits-2000-members/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 19:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congratulations to the 2016 Knuth Prize Selection Committee!]]></title>
+            <link>https://lucatrevisan.wordpress.com/2016/09/09/congratulations-to-the-2016-knuth-prize-selection-committee/</link>
+            <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2016/09/09/congratulations-to-the-2016-knuth-prize-selection-committee/</guid>
+            <dc:creator><![CDATA[in   theory]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 17:53:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to the polynomial method (and other similar things)]]></title>
+            <link>https://dustingmixon.wordpress.com/2016/09/09/introduction-to-the-polynomial-method-and-other-similar-things/</link>
+            <guid isPermaLink="false">https://dustingmixon.wordpress.com/2016/09/09/introduction-to-the-polynomial-method-and-other-similar-things/</guid>
+            <dc:creator><![CDATA[Short, Fat Matrices]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 17:48:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ITWIST 2016: Slides and Posters, International Traveling Workshop on Interaction between Sparse models and Technology 2016]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ThLXXIbux_k/itwist-2016-slides-and-posters.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ThLXXIbux_k/itwist-2016-slides-and-posters.html</guid>
@@ -437,11 +699,45 @@
             <pubDate>Fri, 09 Sep 2016 14:36:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Exploration vs. exploitation tradeoff]]></title>
+            <link>http://andrewgelman.com/2016/09/09/exploration-vs-exploitation-tradeoff/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/09/exploration-vs-exploitation-tradeoff/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 14:22:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hokey mas, indeed]]></title>
+            <link>http://andrewgelman.com/2016/09/09/explaining-a-joke-is-the-surest-way-to-kill-it/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/09/explaining-a-joke-is-the-surest-way-to-kill-it/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 13:17:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[So Many Modes Of Mathematical Thought]]></title>
             <link>https://inquiryintoinquiry.com/2016/09/09/so-many-modes-of-mathematical-thought/</link>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2016/09/09/so-many-modes-of-mathematical-thought/</guid>
             <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
             <pubDate>Fri, 09 Sep 2016 13:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A quote to close the week]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/a-quote-to-close-week.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/a-quote-to-close-week.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barcel&#x000F3; and Carbery on the Magnitude of Odd Balls]]></title>
+            <guid isPermaLink="false">Barcel&amp;#x000F3; and Carbery on the Magnitude of Odd Balls</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 12:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeff down-under]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/09/jeff-down-under/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/09/jeff-down-under/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 12:18:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On Self-Publishing]]></title>
@@ -465,6 +761,19 @@
             <pubDate>Fri, 09 Sep 2016 10:01:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Ultimate Question, and its Answer]]></title>
+            <guid isPermaLink="false">The Ultimate Question, and its Answer</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 07:51:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[art brut]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/09/art-brut-74/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/09/art-brut-74/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 07:09:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[linear functional
 scoring system
 dynamic programming]]></title>
@@ -472,6 +781,13 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/OVVwkNcOt_0/150152899555</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Fri, 09 Sep 2016 04:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Benefits of “complete” and “compact” for analysis on Riemannian manifolds]]></title>
+            <link>https://anhngq.wordpress.com/2016/09/09/benefits-of-complete-and-compact-for-analysis-on-riemannian-manifolds/</link>
+            <guid isPermaLink="false">https://anhngq.wordpress.com/2016/09/09/benefits-of-complete-and-compact-for-analysis-on-riemannian-manifolds/</guid>
+            <dc:creator><![CDATA[Ngô Quốc Anh]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 03:08:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Post without words #11]]></title>
@@ -537,6 +853,41 @@ dynamic programming]]></title>
             <pubDate>Thu, 08 Sep 2016 17:06:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How Often Do Mainstream Anglophone Philosophers Cite Non-Anglophone Sources?]]></title>
+            <link>http://www.newappsblog.com/2016/09/how-often-do-mainstream-anglophone-philosophers-cite-non-anglophone-sources.html</link>
+            <guid isPermaLink="false">http://www.newappsblog.com/2016/09/how-often-do-mainstream-anglophone-philosophers-cite-non-anglophone-sources.html</guid>
+            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 16:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Odd king tours on even chessboards]]></title>
+            <link>https://wdjoyner.wordpress.com/2016/09/08/odd-king-tours-on-even-chessboards/</link>
+            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/09/08/odd-king-tours-on-even-chessboards/</guid>
+            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 13:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Several postdoc positions in probabilistic modeling and machine learning in Aalto, Helsinki]]></title>
+            <link>http://andrewgelman.com/2016/09/08/several-postdoc-positions-in-probabilistic-modeling-and-machine-learning-in-aalto-helsinki/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/08/several-postdoc-positions-in-probabilistic-modeling-and-machine-learning-in-aalto-helsinki/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 13:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s not about normality, it’s all about reality]]></title>
+            <link>http://andrewgelman.com/2016/09/08/its-not-about-normality-its-all-about-reality/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/08/its-not-about-normality-its-all-about-reality/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 13:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We haven't talked about this for a while]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/we-havent-talked-about-this-for-while.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/we-havent-talked-about-this-for-while.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[For small values of ‘infinitely’]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/8dwTqaln4yk/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/8dwTqaln4yk/</guid>
@@ -558,11 +909,46 @@ dynamic programming]]></title>
             <pubDate>Thu, 08 Sep 2016 04:59:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[APDA Update]]></title>
+            <link>http://www.newappsblog.com/2016/09/apda-update.html</link>
+            <guid isPermaLink="false">http://www.newappsblog.com/2016/09/apda-update.html</guid>
+            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 01:08:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An award]]></title>
             <link>https://cameroncounts.wordpress.com/2016/09/08/an-award-3/</link>
             <guid isPermaLink="false">https://cameroncounts.wordpress.com/2016/09/08/an-award-3/</guid>
             <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
             <pubDate>Thu, 08 Sep 2016 00:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polling in the 21st century:  There ain’t no urn]]></title>
+            <link>http://andrewgelman.com/2016/09/07/analysis-of-data-from-internet-polls/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/07/analysis-of-data-from-internet-polls/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 22:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A new approach to Bayesian hypothesis testing]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/08/a-new-approach-to-bayesian-hypothesis-testing/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/08/a-new-approach-to-bayesian-hypothesis-testing/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 22:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Multi-Station Home WiFi with WDS 5GHz backbone]]></title>
+            <link>http://models.street-artists.org/2016/09/07/multi-station-home-wifi/</link>
+            <guid isPermaLink="false">http://models.street-artists.org/2016/09/07/multi-station-home-wifi/</guid>
+            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 20:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[research-lies-allegations-windpipe update]]></title>
+            <link>http://andrewgelman.com/2016/09/07/research-lies-allegations-windpipe-update/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/07/research-lies-allegations-windpipe-update/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 20:48:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris Machine Learning Meetup Newsletter September 2016 [mostly in French]]]></title>
@@ -579,11 +965,32 @@ dynamic programming]]></title>
             <pubDate>Wed, 07 Sep 2016 19:48:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vito Volterra. Il coraggio della scienza. Una mostra a Roma organizzata dal Cnr]]></title>
+            <link>http://maddmaths.simai.eu/news-2/vito-volterra-il-coraggio-della-scienza-una-mostra-a-roma-organizzata-dal-cnr/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/vito-volterra-il-coraggio-della-scienza-una-mostra-a-roma-organizzata-dal-cnr/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 19:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Teach Computational Thinking]]></title>
+            <link>http://blog.stephenwolfram.com/2016/09/how-to-teach-computational-thinking/</link>
+            <guid isPermaLink="false">http://blog.stephenwolfram.com/2016/09/how-to-teach-computational-thinking/</guid>
+            <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 19:01:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why there weren’t any scientists before the late nineteenth century.]]></title>
             <link>https://thonyc.wordpress.com/2016/09/07/why-there-werent-any-scientists-before-the-late-nineteenth-century/</link>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2016/09/07/why-there-werent-any-scientists-before-the-late-nineteenth-century/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Wed, 07 Sep 2016 17:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quanto facilmente sono controllabili le interazioni sociali?]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/quanto-facilmente-sono-controllabili-le-interazioni-sociali/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/quanto-facilmente-sono-controllabili-le-interazioni-sociali/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 15:31:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why we need formality in mathematics]]></title>
@@ -593,11 +1000,32 @@ dynamic programming]]></title>
             <pubDate>Wed, 07 Sep 2016 14:47:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The new quantitative journalism]]></title>
+            <link>http://andrewgelman.com/2016/09/07/the-new-quantitative-journalism/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/07/the-new-quantitative-journalism/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 13:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We haven't had a visit from Roger for a while]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/we-havent-had-visit-from-roger-for-while.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/we-havent-had-visit-from-roger-for-while.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Open-Drain Comparator Circuit With Settable Trigger and Output Levels]]></title>
             <link>http://mathscinotes.com/2016/09/open-drain-comparator-circuit-with-settable-trigger-and-output-levels/</link>
             <guid isPermaLink="false">http://mathscinotes.com/2016/09/open-drain-comparator-circuit-with-settable-trigger-and-output-levels/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Wed, 07 Sep 2016 12:43:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London mural [Sacramento]]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/07/london-mural-sacramento/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/07/london-mural-sacramento/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 12:18:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reversing WYSIWYG]]></title>
@@ -607,11 +1035,32 @@ dynamic programming]]></title>
             <pubDate>Wed, 07 Sep 2016 12:16:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bankers’ rounding and floating point arithmetics]]></title>
+            <link>https://calculus7.org/2016/09/07/bankers-rounding-and-floating-point-arithmetics/</link>
+            <guid isPermaLink="false">https://calculus7.org/2016/09/07/bankers-rounding-and-floating-point-arithmetics/</guid>
+            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 11:07:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The new and improved Programming languages zoo]]></title>
             <link>http://math.andrej.com/2016/09/07/the-new-and-improved-programming-languages-zoo/</link>
             <guid isPermaLink="false">http://math.andrej.com/2016/09/07/the-new-and-improved-programming-languages-zoo/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Wed, 07 Sep 2016 08:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drawing 2d modular lattices]]></title>
+            <link>http://11011110.livejournal.com/334654.html</link>
+            <guid isPermaLink="false">http://11011110.livejournal.com/334654.html</guid>
+            <dc:creator><![CDATA[0xDE]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 07:17:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#1 Il problema non è la matematica, ma il modo in cui viene insegnata]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/il-problema-non-e-la-matematica-ma-il-modo-in-cui-viene-insegnata/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/il-problema-non-e-la-matematica-ma-il-modo-in-cui-viene-insegnata/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 05:40:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Estimator That Always Equals A Constant]]></title>
@@ -626,6 +1075,13 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://datagenetics.com/blog/september12016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Wed, 07 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[importance sampling and necessary sample size]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/07/importance-sampling-and-necessary-sample-size/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/07/importance-sampling-and-necessary-sample-size/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 22:18:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[definition of continuity using open sets]]></title>
@@ -677,6 +1133,20 @@ dynamic programming]]></title>
             <pubDate>Tue, 06 Sep 2016 19:55:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why Faculty Lock-Outs Are Irresponsible And Inappropriate]]></title>
+            <link>http://www.newappsblog.com/2016/09/why-faculty-lock-outs-are-irresponsible-and-inappropriate.html</link>
+            <guid isPermaLink="false">http://www.newappsblog.com/2016/09/why-faculty-lock-outs-are-irresponsible-and-inappropriate.html</guid>
+            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 18:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long Island University's Labor Day Gift To The Nation: A Faculty Lock-Out]]></title>
+            <link>http://www.newappsblog.com/2016/09/long-island-universitys-labor-day-gift-to-the-nation-a-faculty-lock-out.html</link>
+            <guid isPermaLink="false">http://www.newappsblog.com/2016/09/long-island-universitys-labor-day-gift-to-the-nation-a-faculty-lock-out.html</guid>
+            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 18:11:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Farewelcome]]></title>
             <link>http://blogs.ams.org/mathgradblog/2016/09/06/farewelcome/</link>
             <guid isPermaLink="false">http://blogs.ams.org/mathgradblog/2016/09/06/farewelcome/</guid>
@@ -698,11 +1168,32 @@ dynamic programming]]></title>
             <pubDate>Tue, 06 Sep 2016 13:57:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[“Brief, decontextualized instances of colaughter”]]></title>
+            <link>http://andrewgelman.com/2016/09/06/29858/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/06/29858/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 13:55:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Floating point: between blissful ignorance and unnecesssary fear]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/PeVQX1eHgwk/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/PeVQX1eHgwk/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Tue, 06 Sep 2016 13:27:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I don't normally link to Twitter, but...]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/i-dont-normally-link-to-twitter-but.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/i-dont-normally-link-to-twitter-but.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[R demos for BDA3]]></title>
+            <link>http://andrewgelman.com/2016/09/06/r-demos-for-bda3/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/06/r-demos-for-bda3/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 12:51:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK Fluids 2016]]></title>
@@ -740,11 +1231,31 @@ dynamic programming]]></title>
             <pubDate>Tue, 06 Sep 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Magnitude Homology]]></title>
+            <guid isPermaLink="false">Magnitude Homology</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 00:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stacks Project Workshop]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/06/stacks-project-workshop/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/06/stacks-project-workshop/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Radio Meteor Signal Path from Transmitter to Spectrogram, Part 3]]></title>
             <link>https://tomroelandts.com/articles/the-radio-meteor-signal-path-from-transmitter-to-spectrogram-part-3</link>
             <guid isPermaLink="false">https://tomroelandts.com/articles/the-radio-meteor-signal-path-from-transmitter-to-spectrogram-part-3</guid>
             <dc:creator><![CDATA[TomRoelandts.com]]></dc:creator>
             <pubDate>Mon, 05 Sep 2016 20:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More on Linux]]></title>
+            <link>https://kristalcantwell.wordpress.com/2016/09/05/more-on-linux/</link>
+            <guid isPermaLink="false">https://kristalcantwell.wordpress.com/2016/09/05/more-on-linux/</guid>
+            <dc:creator><![CDATA[Euclidean Ramsey Theory]]></dc:creator>
+            <pubDate>Mon, 05 Sep 2016 20:05:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Randomized Approach to Efficient Kernel Clustering]]></title>
@@ -766,6 +1277,27 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://www.physicspages.com/2016/09/05/hamiltons-equations-of-motion-in-classical-field-theory/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
             <pubDate>Mon, 05 Sep 2016 15:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garrison Keillor would be spinning etc.]]></title>
+            <link>http://andrewgelman.com/2016/09/05/29852/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/05/29852/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 05 Sep 2016 13:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cognitive dissonance phase]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/the-cognitive-dissonance-phase.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/the-cognitive-dissonance-phase.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 05 Sep 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reproducible research in Ecology]]></title>
+            <link>http://www.walkingrandomly.com/?p=6229</link>
+            <guid isPermaLink="false">http://www.walkingrandomly.com/?p=6229</guid>
+            <dc:creator><![CDATA[Walking Randomly]]></dc:creator>
+            <pubDate>Mon, 05 Sep 2016 06:44:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New lecturing attire]]></title>
@@ -796,6 +1328,13 @@ dynamic programming]]></title>
             <pubDate>Mon, 05 Sep 2016 00:43:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[In Bayesian regression, it’s easy to account for measurement error]]></title>
+            <link>http://andrewgelman.com/2016/09/04/29847/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/04/29847/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 13:56:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Proofs and programs]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/xNj14Yyhmk4/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/xNj14Yyhmk4/</guid>
@@ -810,11 +1349,25 @@ dynamic programming]]></title>
             <pubDate>Sun, 04 Sep 2016 12:11:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fortnightly links (18)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/04/fortnightly-links-18/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/04/fortnightly-links-18/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA["Prisoners convicted of felonies were originally sentenced to serve as oarsmen in the French..."]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/-NiibJXmO_A/149901076009</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/-NiibJXmO_A/149901076009</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Sat, 03 Sep 2016 22:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I’ve solved a conjecture about pseudodifference of filters]]></title>
+            <link>https://portonmath.wordpress.com/2016/09/04/solved-conjecture/</link>
+            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/09/04/solved-conjecture/</guid>
+            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
+            <pubDate>Sat, 03 Sep 2016 21:58:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interview with Hao Wang and Robin Gandy]]></title>
@@ -829,6 +1382,13 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://www.matrix67.com/blog/archives/6877</guid>
             <dc:creator><![CDATA[Matrix67: The Aha Moments]]></dc:creator>
             <pubDate>Sat, 03 Sep 2016 20:21:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Josh Marshall is the most important journalist of the 2016 election.]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/josh-marshall-is-most-important.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/josh-marshall-is-most-important.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Sat, 03 Sep 2016 19:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Videos: Other plenary videos KDD2016 by Joe Hellerstein, Whitfield Diffie and Jennifer Chayes.]]></title>
@@ -873,11 +1433,31 @@ dynamic programming]]></title>
             <pubDate>Sat, 03 Sep 2016 15:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How paracompact is that?]]></title>
+            <link>http://andrewgelman.com/2016/09/03/how-paracompact-is-that/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/03/how-paracompact-is-that/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 03 Sep 2016 13:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Economy of Style]]></title>
+            <guid isPermaLink="false">Economy of Style</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Sat, 03 Sep 2016 13:25:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[All She Wrote (so far): Error Statistics Philosophy: 5 years on]]></title>
             <link>https://errorstatistics.com/2016/09/03/all-she-wrote-so-far-error-statistics-philosophy-5-years-on/</link>
             <guid isPermaLink="false">https://errorstatistics.com/2016/09/03/all-she-wrote-so-far-error-statistics-philosophy-5-years-on/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Sat, 03 Sep 2016 04:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fast CAR:  Two weird tricks for fast conditional autoregressive models in Stan]]></title>
+            <link>http://andrewgelman.com/2016/09/02/two-weird-tricks-for-fast-conditional-autoregressive-models-in-stan/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/02/two-weird-tricks-for-fast-conditional-autoregressive-models-in-stan/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 03 Sep 2016 02:11:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building the future]]></title>
@@ -964,6 +1544,20 @@ dynamic programming]]></title>
             <pubDate>Fri, 02 Sep 2016 13:28:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A four-way conversation on weighting and regression for causal inference]]></title>
+            <link>http://andrewgelman.com/2016/09/02/a-discussion-of-weighting-and-regression-for-causal-inference/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/02/a-discussion-of-weighting-and-regression-for-causal-inference/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 02 Sep 2016 13:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The essential context for this and every other SpaceX story]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/the-essential-context-for-this-and.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/the-essential-context-for-this-and.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 02 Sep 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Twitter]]></title>
             <link>https://johncarlosbaez.wordpress.com/2016/09/02/twitter/</link>
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2016/09/02/twitter/</guid>
@@ -978,6 +1572,13 @@ dynamic programming]]></title>
             <pubDate>Fri, 02 Sep 2016 05:40:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Participate in this cool experiment about online privacy]]></title>
+            <link>http://andrewgelman.com/2016/09/01/31075/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/01/31075/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 02 Sep 2016 02:17:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[100 Year Study on Artificial Intelligence]]></title>
             <link>http://haris-aziz.blogspot.com/2016/09/100-year-study-on-artificial.html</link>
             <guid isPermaLink="false">http://haris-aziz.blogspot.com/2016/09/100-year-study-on-artificial.html</guid>
@@ -985,11 +1586,32 @@ dynamic programming]]></title>
             <pubDate>Thu, 01 Sep 2016 23:47:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Segnavie - Homo Matematicus. I numeri nella quotidianità - Giuseppe Mingione a Padova il 26 settembre 2016]]></title>
+            <link>http://maddmaths.simai.eu/news-2/segnavie-homo-matematicus-i-numeri-nella-quotidianita-giuseppe-mingione-a-padova-il-26-settembre-2016/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/segnavie-homo-matematicus-i-numeri-nella-quotidianita-giuseppe-mingione-a-padova-il-26-settembre-2016/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 20:51:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Horizon]]></title>
             <link>http://blogs.ethz.ch/kowalski/2016/09/01/horizon/</link>
             <guid isPermaLink="false">http://blogs.ethz.ch/kowalski/2016/09/01/horizon/</guid>
             <dc:creator><![CDATA[E. Kowalski's blog]]></dc:creator>
             <pubDate>Thu, 01 Sep 2016 18:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Take that, Bruno Frey!  Pharma company busts through Arrow’s theorem, sets new record!]]></title>
+            <link>http://andrewgelman.com/2016/09/01/29828/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/09/01/29828/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 13:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another Day, another dot]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/09/another-day-another-dot.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/another-day-another-dot.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Letter]]></title>
@@ -1013,6 +1635,13 @@ dynamic programming]]></title>
             <pubDate>Thu, 01 Sep 2016 09:56:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Linkage]]></title>
+            <link>http://11011110.livejournal.com/334348.html</link>
+            <guid isPermaLink="false">http://11011110.livejournal.com/334348.html</guid>
+            <dc:creator><![CDATA[0xDE]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 04:59:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Random Geometry]]></title>
             <link>http://mathrising.com/?p=1409</link>
             <guid isPermaLink="false">http://mathrising.com/?p=1409</guid>
@@ -1021,10 +1650,24 @@ dynamic programming]]></title>
         </item>
         <item>
             <title><![CDATA[{ Information = Comprehension × Extension } • Comment 4]]></title>
-            <link>https://inquiryintoinquiry.com/2016/08/31/information-comprehension-x-extension-%25e2%2580%25a2-comment-4/</link>
+            <link>https://inquiryintoinquiry.com/2016/08/31/information-comprehension-x-extension-%e2%80%a2-comment-4/</link>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2016/08/31/information-comprehension-x-extension-%e2%80%a2-comment-4/</guid>
             <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
             <pubDate>Thu, 01 Sep 2016 03:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why 2016 is not like 1964 and 1972]]></title>
+            <link>http://andrewgelman.com/2016/08/31/31071/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/31/31071/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 02:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I Set Up My First WebAssign Quiz]]></title>
+            <link>http://kalamitykat.com/2016/08/31/how-i-set-up-my-first-webassign-quiz/</link>
+            <guid isPermaLink="false">http://kalamitykat.com/2016/08/31/how-i-set-up-my-first-webassign-quiz/</guid>
+            <dc:creator><![CDATA[Megan Hayes-Golding]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 00:55:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["[S]laves are like other people, and imbibe prejudices … common to others. They think their own..."]]></title>
@@ -1034,11 +1677,32 @@ dynamic programming]]></title>
             <pubDate>Thu, 01 Sep 2016 00:00:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Décomposition ergodique pour le temps 1 d’une mesure ergodique pour le flot]]></title>
+            <link>https://jbuzzi.wordpress.com/2016/08/31/decomposition-ergodique-pour-le-temps-1-dune-mesure-ergodique-pour-le-flot/</link>
+            <guid isPermaLink="false">https://jbuzzi.wordpress.com/2016/08/31/decomposition-ergodique-pour-le-temps-1-dune-mesure-ergodique-pour-le-flot/</guid>
+            <dc:creator><![CDATA[Jérôme Buzzi’s]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 21:25:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Heuristic computation of correlations of higher order divisor functions]]></title>
             <link>https://terrytao.wordpress.com/2016/08/31/heuristic-computation-of-correlations-of-higher-order-divisor-functions/</link>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2016/08/31/heuristic-computation-of-correlations-of-higher-order-divisor-functions/</guid>
             <dc:creator><![CDATA[What’s new]]></dc:creator>
             <pubDate>Wed, 31 Aug 2016 20:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heuristic computation of correlations of higher order divisor functions]]></title>
+            <link>https://terrytao.wordpress.com/2016/08/31/heuristic-computation-of-correlations-of-higher-order-divisor-functions/</link>
+            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/08/31/heuristic-computation-of-correlations-of-higher-order-divisor-functions/</guid>
+            <dc:creator><![CDATA[What’s new]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 20:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uniformité de la décroissance des corrélations et théorème de Banach-Steinhaus]]></title>
+            <link>https://jbuzzi.wordpress.com/2016/08/31/uniformite-de-la-decroissance-des-correlations-et-theoreme-de-banach-steinhaus/</link>
+            <guid isPermaLink="false">https://jbuzzi.wordpress.com/2016/08/31/uniformite-de-la-decroissance-des-correlations-et-theoreme-de-banach-steinhaus/</guid>
+            <dc:creator><![CDATA[Jérôme Buzzi’s]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 19:04:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fast brain decoding with random sampling and random projections]]></title>
@@ -1062,6 +1726,27 @@ dynamic programming]]></title>
             <pubDate>Wed, 31 Aug 2016 16:38:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Graph too clever by half]]></title>
+            <link>http://andrewgelman.com/2016/08/31/graph-too-clever-by-half/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/31/graph-too-clever-by-half/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 13:37:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding the strength and correlates of immunisation programmes]]></title>
+            <link>http://systems-signals.blogspot.com/2016/08/understanding-strength-and-correlates.html</link>
+            <guid isPermaLink="false">http://systems-signals.blogspot.com/2016/08/understanding-strength-and-correlates.html</guid>
+            <dc:creator><![CDATA[Systems and Signals Group]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 13:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cracked takes on AirBNB]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/08/cracked-takes-on-airbnb.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/cracked-takes-on-airbnb.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thank you Buzzfeed for noticing us humans]]></title>
             <link>http://junkcharts.typepad.com/numbersruleyourworld/2016/08/thank-you-buzzfeed-for-noticing-us-humans.html</link>
             <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2016/08/thank-you-buzzfeed-for-noticing-us-humans.html</guid>
@@ -1074,6 +1759,13 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49126</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 31 Aug 2016 08:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#2 Una versione elementare della Congettura di Riemann]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/una-versione-elementare-della-congettura-di-riemann/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/una-versione-elementare-della-congettura-di-riemann/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 07:57:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My QMUL page updated]]></title>
@@ -1090,11 +1782,25 @@ dynamic programming]]></title>
             <pubDate>Wed, 31 Aug 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Issue Opinion Polls are Bad Biopolitics]]></title>
+            <link>http://www.newappsblog.com/2016/08/issue-opinion-polls-are-bad-biopolitics.html</link>
+            <guid isPermaLink="false">http://www.newappsblog.com/2016/08/issue-opinion-polls-are-bad-biopolitics.html</guid>
+            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 04:20:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sponsorship for the Cairns forecasting conference]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/U_oTzqmRORg/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/U_oTzqmRORg/</guid>
             <dc:creator><![CDATA[Hyndsight]]></dc:creator>
             <pubDate>Wed, 31 Aug 2016 02:07:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heuristic computation of correlations of the divisor function]]></title>
+            <link>https://terrytao.wordpress.com/2016/08/30/heuristic-computation-of-correlations-of-the-divisor-function/</link>
+            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/08/30/heuristic-computation-of-correlations-of-the-divisor-function/</guid>
+            <dc:creator><![CDATA[What’s new]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 00:09:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heuristic computation of correlations of the divisor function]]></title>
@@ -1132,11 +1838,32 @@ dynamic programming]]></title>
             <pubDate>Tue, 30 Aug 2016 15:07:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Publication bias occurs within as well as between projects]]></title>
+            <link>http://andrewgelman.com/2016/08/30/publication-bias-occurs-within-as-well-as-between-projects/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/30/publication-bias-occurs-within-as-well-as-between-projects/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2016 13:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There's always Ann Coulter.. No,wait. Strike that.]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/08/theres-always-ann-coulter-nowait-strike.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/theres-always-ann-coulter-nowait-strike.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Big Logic]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/c_NFWasX998/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/c_NFWasX998/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Tue, 30 Aug 2016 12:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los polinomios de Rudin-Shapiro]]></title>
+            <link>https://cafematematico.wordpress.com/2016/08/30/los-polinomios-de-rudin-shapiro-2/</link>
+            <guid isPermaLink="false">https://cafematematico.wordpress.com/2016/08/30/los-polinomios-de-rudin-shapiro-2/</guid>
+            <dc:creator><![CDATA[Café Matemático]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2016 11:41:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baudin in South Australia, 2]]></title>
@@ -1160,6 +1887,13 @@ dynamic programming]]></title>
             <pubDate>Tue, 30 Aug 2016 03:47:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Evaluating election forecasts]]></title>
+            <link>http://andrewgelman.com/2016/08/29/31067/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/29/31067/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2016 01:01:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[View of Jupiter From Satellite Metis]]></title>
             <link>http://mathscinotes.com/2016/08/view-of-jupiter-from-satellite-metis/</link>
             <guid isPermaLink="false">http://mathscinotes.com/2016/08/view-of-jupiter-from-satellite-metis/</guid>
@@ -1174,6 +1908,13 @@ dynamic programming]]></title>
             <pubDate>Tue, 30 Aug 2016 00:25:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Computing relations in Jacobi algebras]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/08/30/computing-relations-in-jacobi-algebras/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/30/computing-relations-in-jacobi-algebras/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Winners Write the Textbook]]></title>
             <link>http://blogs.ams.org/mathgradblog/2016/08/29/winners-write-textbook/</link>
             <guid isPermaLink="false">http://blogs.ams.org/mathgradblog/2016/08/29/winners-write-textbook/</guid>
@@ -1186,6 +1927,27 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/RE-Mr8o53Y4/densely-connected-convolutional-networks.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 29 Aug 2016 18:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematics of Data Science course at NYU Courant]]></title>
+            <link>https://afonsobandeira.wordpress.com/2016/08/29/mathematics-in-data-science-course-at-nyu-courant/</link>
+            <guid isPermaLink="false">https://afonsobandeira.wordpress.com/2016/08/29/mathematics-in-data-science-course-at-nyu-courant/</guid>
+            <dc:creator><![CDATA[Relax and Conquer]]></dc:creator>
+            <pubDate>Mon, 29 Aug 2016 18:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Birthdays and heat waves]]></title>
+            <link>http://andrewgelman.com/2016/08/29/29735/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/29/29735/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 29 Aug 2016 13:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The logical result of an illogical policy]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/08/the-logical-result-of-illogical-policy.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/the-logical-result-of-illogical-policy.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 29 Aug 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fall 2016 edition of Sets, Logic, Computation]]></title>
@@ -1237,11 +1999,38 @@ dynamic programming]]></title>
             <pubDate>Sun, 28 Aug 2016 20:15:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Who owns your code and text and who can use it legally?  Copyright and licensing basics for open-source]]></title>
+            <link>http://andrewgelman.com/2016/08/28/copyright-and-licensing-basics-for-code-and-text/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/28/copyright-and-licensing-basics-for-code-and-text/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2016 19:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Mayberry (1940-2016)]]></title>
+            <link>https://ests.wordpress.com/2016/08/28/john-mayberry-1940-2016/</link>
+            <guid isPermaLink="false">https://ests.wordpress.com/2016/08/28/john-mayberry-1940-2016/</guid>
+            <dc:creator><![CDATA[European Set Theory Society]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2016 15:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oooh, it burns me up]]></title>
+            <link>http://andrewgelman.com/2016/08/28/oooh-it-burns-me-up/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/28/oooh-it-burns-me-up/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2016 13:39:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rmarkdown template for a Monash working paper]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/5KBN836E0tE/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/5KBN836E0tE/</guid>
             <dc:creator><![CDATA[Hyndsight]]></dc:creator>
             <pubDate>Sun, 28 Aug 2016 10:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Topological Crystals (Part 4)]]></title>
+            <guid isPermaLink="false">Topological Crystals (Part 4)</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2016 08:26:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Postoctoral Positions with Karim  and Other Announcements!]]></title>
@@ -1286,6 +2075,13 @@ dynamic programming]]></title>
             <pubDate>Sat, 27 Aug 2016 21:28:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Two new chapters in my math draft]]></title>
+            <link>https://portonmath.wordpress.com/2016/08/27/drafts/</link>
+            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/08/27/drafts/</guid>
+            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
+            <pubDate>Sat, 27 Aug 2016 18:42:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[On anti-foundation and coding the hereditarily finite sets]]></title>
             <link>https://andrescaicedo.wordpress.com/2016/08/27/on-anti-foundation-and-coding-the-hereditarily-finite-sets/</link>
             <guid isPermaLink="false">https://andrescaicedo.wordpress.com/2016/08/27/on-anti-foundation-and-coding-the-hereditarily-finite-sets/</guid>
@@ -1307,11 +2103,32 @@ dynamic programming]]></title>
             <pubDate>Sat, 27 Aug 2016 15:58:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Proofs, beliefs and algorithms through the lens of Sum of Squares]]></title>
+            <link>https://windowsontheory.org/2016/08/27/proofs-beliefs-and-algorithms-through-the-lens-of-sum-of-squares/</link>
+            <guid isPermaLink="false">https://windowsontheory.org/2016/08/27/proofs-beliefs-and-algorithms-through-the-lens-of-sum-of-squares/</guid>
+            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
+            <pubDate>Sat, 27 Aug 2016 14:31:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Saturday Morning Videos: ICML 2016 Plenary, Tutorials  and more....]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/c1MiFqEbNJs/saturday-morning-videos-icml-2016.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/c1MiFqEbNJs/saturday-morning-videos-icml-2016.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 27 Aug 2016 14:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Better to just not see the sausage get made]]></title>
+            <link>http://andrewgelman.com/2016/08/27/better-to-just-not-see-the-sausage-get-made/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/27/better-to-just-not-see-the-sausage-get-made/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 27 Aug 2016 13:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congrats to John Moeller, Ph.D]]></title>
+            <link>http://feedproxy.google.com/~r/TheGeomblog/~3/U50K35Vs17c/congrats-to-john-moeller-phd.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheGeomblog/~3/U50K35Vs17c/congrats-to-john-moeller-phd.html</guid>
+            <dc:creator><![CDATA[The Geomblog]]></dc:creator>
+            <pubDate>Sat, 27 Aug 2016 03:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bernard Schoelkopf
@@ -1322,6 +2139,19 @@ the...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/cx19ccmH3No/149534113972</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Sat, 27 Aug 2016 02:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jobs at Heriot-Watt]]></title>
+            <guid isPermaLink="false">Jobs at Heriot-Watt</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Sat, 27 Aug 2016 01:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An erratum to “Global regularity of wave maps. II. Small energy in two dimensions”]]></title>
+            <link>https://terrytao.wordpress.com/2016/08/26/an-erratum-to-global-regularity-of-wave-maps-ii-small-energy-in-two-dimensions/</link>
+            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/08/26/an-erratum-to-global-regularity-of-wave-maps-ii-small-energy-in-two-dimensions/</guid>
+            <dc:creator><![CDATA[What’s new]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 23:06:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An erratum to “Global regularity of wave maps. II. Small energy in two dimensions”]]></title>
@@ -1366,6 +2196,27 @@ the...]]></title>
             <pubDate>Fri, 26 Aug 2016 14:23:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Letters we never finished reading]]></title>
+            <link>http://andrewgelman.com/2016/08/26/letters-we-never-finished-reading/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/26/letters-we-never-finished-reading/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 13:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Déjà vu all over again]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/08/deja-vu-all-over-again.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/deja-vu-all-over-again.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kajieme Powell, Charles Kinsey, and “Blue Lives Matter” in an age of structural racism]]></title>
+            <link>http://www.newappsblog.com/2016/08/kajieme-powell-charles-kinsey-and-blue-lives-matter-in-an-age-of-structural-racism.html</link>
+            <guid isPermaLink="false">http://www.newappsblog.com/2016/08/kajieme-powell-charles-kinsey-and-blue-lives-matter-in-an-age-of-structural-racism.html</guid>
+            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 04:17:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Primitive recursive functions and enumerable sets]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/wJ7Iqxl7w5U/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/wJ7Iqxl7w5U/</guid>
@@ -1380,11 +2231,38 @@ the...]]></title>
             <pubDate>Fri, 26 Aug 2016 01:00:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Moving from WordPress to Jekyll]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/08/26/moving-from-wordpress-to-jekyll/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/26/moving-from-wordpress-to-jekyll/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monoidal Categories with Projections]]></title>
+            <guid isPermaLink="false">Monoidal Categories with Projections</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2016 21:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Free workshop on Stan for pharmacometrics (Paris, 22 September 2016); preceded by (non-free) three day course on Stan for pharmacometrics]]></title>
+            <link>http://andrewgelman.com/2016/08/25/stan-pharmacometrics-workshop-course-paris-2016/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/25/stan-pharmacometrics-workshop-course-paris-2016/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2016 18:00:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Line Art Portraits of Logicians]]></title>
             <link>http://openlogicproject.org/2016/08/25/line-art-portraits-of-logicians/</link>
             <guid isPermaLink="false">http://openlogicproject.org/2016/08/25/line-art-portraits-of-logicians/</guid>
             <dc:creator><![CDATA[Richard Zach]]></dc:creator>
             <pubDate>Thu, 25 Aug 2016 17:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A day in the life]]></title>
+            <link>http://andrewgelman.com/2016/08/25/29710/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/25/29710/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2016 13:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1956 Was a Fine Vintage]]></title>
@@ -1394,11 +2272,25 @@ the...]]></title>
             <pubDate>Thu, 25 Aug 2016 13:32:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Adam's back]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/08/adams-back.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/adams-back.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Some ways linear algebra is different in infinite dimensions]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/7S0z0Ms0A1Y/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/7S0z0Ms0A1Y/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Thu, 25 Aug 2016 12:12:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#3 Il concetto matematico di cui non potremmo fare a meno: Infinito (di Sandra Lucente)]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/matematica-indispensabile/il-concetto-matematico-di-cui-non-potremmo-fare-a-meno-infinito-di-sandra-lucente/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/matematica-indispensabile/il-concetto-matematico-di-cui-non-potremmo-fare-a-meno-infinito-di-sandra-lucente/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2016 07:01:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[universal property & Yoneda’s lemma
@@ -1407,6 +2299,20 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/0gtgq-HZcUw/149439137637</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Thu, 25 Aug 2016 01:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abstracts for the Antwerp conference]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/08/25/abstracts-for-the-antwerp-conference/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/25/abstracts-for-the-antwerp-conference/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hey pollsters!  Poststratify on party ID, or we’re all gonna have to do it for you.]]></title>
+            <link>http://andrewgelman.com/2016/08/24/31010/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/24/31010/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 24 Aug 2016 21:49:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Factorization diagram card redesign: feedback welcome!]]></title>
@@ -1423,6 +2329,13 @@ by Ravi Vakil]]></title>
             <pubDate>Wed, 24 Aug 2016 18:22:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[His varying slopes don’t seem to follow a normal distribution]]></title>
+            <link>http://andrewgelman.com/2016/08/24/29707/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/24/29707/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 24 Aug 2016 16:45:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Notes on the “slice rank” of tensors]]></title>
             <link>https://terrytao.wordpress.com/2016/08/24/notes-on-the-slice-rank-of-tensors/</link>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2016/08/24/notes-on-the-slice-rank-of-tensors/</guid>
@@ -1430,11 +2343,46 @@ by Ravi Vakil]]></title>
             <pubDate>Wed, 24 Aug 2016 15:52:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Notes on the “slice rank” of tensors]]></title>
+            <link>https://terrytao.wordpress.com/2016/08/24/notes-on-the-slice-rank-of-tensors/</link>
+            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/08/24/notes-on-the-slice-rank-of-tensors/</guid>
+            <dc:creator><![CDATA[What’s new]]></dc:creator>
+            <pubDate>Wed, 24 Aug 2016 15:52:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Software problems in research #1: Excel turns genes into dates!]]></title>
+            <link>http://www.walkingrandomly.com/?p=6220</link>
+            <guid isPermaLink="false">http://www.walkingrandomly.com/?p=6220</guid>
+            <dc:creator><![CDATA[Walking Randomly]]></dc:creator>
+            <pubDate>Wed, 24 Aug 2016 14:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When I have time I need to come back to this]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2016/08/when-i-have-time-i-need-to-come-back-to.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/when-i-have-time-i-need-to-come-back-to.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 24 Aug 2016 13:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Solar power and applied math]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/7GXqmABlozY/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/7GXqmABlozY/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Wed, 24 Aug 2016 12:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Postdoc in Finland with Aki]]></title>
+            <link>http://andrewgelman.com/2016/08/24/postdoc-with-aki-in-finland/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/24/postdoc-with-aki-in-finland/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 24 Aug 2016 12:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balancing bias and variance in the design of behavioral studies: The importance of careful measurement in randomized experiments]]></title>
+            <link>http://andrewgelman.com/2016/08/24/balancing-bias-and-variance-in-the-design-of-behavioral-studies-the-importance-of-careful-measurement-in-randomized-experiments/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/08/24/balancing-bias-and-variance-in-the-design-of-behavioral-studies-the-importance-of-careful-measurement-in-randomized-experiments/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 24 Aug 2016 11:14:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sawada Coffee]]></title>
@@ -1456,13 +2404,6 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">http://www.matrix67.com/blog/archives/6851</guid>
             <dc:creator><![CDATA[Matrix67: The Aha Moments]]></dc:creator>
             <pubDate>Wed, 24 Aug 2016 01:22:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Think-A-Lot-Tots [book review]]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/24/think-a-lot-tots-book-review/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/24/think-a-lot-tots-book-review/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Tue, 23 Aug 2016 22:16:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Math and the Message]]></title>
@@ -1577,13 +2518,6 @@ by Ravi Vakil]]></title>
             <pubDate>Tue, 23 Aug 2016 07:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dos de Mayo [book review]]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/23/dos-de-mayo-book-review/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/23/dos-de-mayo-book-review/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 22 Aug 2016 22:16:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chrisitan Comment on the Jesus Wife Thing misses the important point]]></title>
             <link>http://blog.computationalcomplexity.org/2016/08/chrisitan-comment-on-jesus-wife-thing.html</link>
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/08/chrisitan-comment-on-jesus-wife-thing.html</guid>
@@ -1626,13 +2560,6 @@ by Ravi Vakil]]></title>
             <pubDate>Mon, 22 Aug 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[off to Australia]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/22/off-to-australia/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/22/off-to-australia/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 22 Aug 2016 12:18:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The thief package for R: Temporal HIErarchical Forecasting]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/gJeXQk1kzzY/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/gJeXQk1kzzY/</guid>
@@ -1668,13 +2595,6 @@ by Ravi Vakil]]></title>
             <pubDate>Sun, 21 Aug 2016 23:06:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amtrak [jatp]]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/22/amtrak-jatp/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/22/amtrak-jatp/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sun, 21 Aug 2016 22:16:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Photo]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/xg6Ii0g4lUc/149288076118</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/xg6Ii0g4lUc/149288076118</guid>
@@ -1687,13 +2607,6 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/Lnm0EQH0WuM/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sun, 21 Aug 2016 21:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortnightly links (17)]]></title>
-            <link>https://pbelmans.wordpress.com/2016/08/21/fortnightly-links-17/</link>
-            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/21/fortnightly-links-17/</guid>
-            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
-            <pubDate>Sun, 21 Aug 2016 18:31:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Larry Laudan: “‘Not Guilty’: The Misleading Verdict” (Guest Post)]]></title>
@@ -1766,11 +2679,11 @@ by Ravi Vakil]]></title>
             <pubDate>Sun, 21 Aug 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MCqMC 2016 [#4]]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/21/mcqmc-2016-4/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/21/mcqmc-2016-4/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sat, 20 Aug 2016 22:16:59 GMT</pubDate>
+            <title><![CDATA[Fortnightly links (17)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/08/21/fortnightly-links-17/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/21/fortnightly-links-17/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 21 Aug 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Monochromatic colorings]]></title>
@@ -1787,13 +2700,6 @@ by Ravi Vakil]]></title>
             <pubDate>Sat, 20 Aug 2016 19:56:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anselmann Riesling]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/20/anselmann-riesling/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/20/anselmann-riesling/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sat, 20 Aug 2016 18:20:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Integers 2016]]></title>
             <link>http://combinatorialgametheory.blogspot.com/2016/08/integers-2016.html</link>
             <guid isPermaLink="false">http://combinatorialgametheory.blogspot.com/2016/08/integers-2016.html</guid>
@@ -1806,13 +2712,6 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2016/08/20/michael-porter-as-new-pincushion/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sat, 20 Aug 2016 13:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MCqMC [#3]]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/20/mcqmc-3/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/20/mcqmc-3/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Fri, 19 Aug 2016 22:16:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many ways can you tile a chessboard with dominoes?]]></title>
@@ -1850,13 +2749,6 @@ by Ravi Vakil]]></title>
             <pubDate>Fri, 19 Aug 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Do you want to be my colleague?]]></title>
-            <link>https://pbelmans.wordpress.com/2016/08/19/do-you-want-to-be-my-colleague-2/</link>
-            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/19/do-you-want-to-be-my-colleague-2/</guid>
-            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
-            <pubDate>Fri, 19 Aug 2016 11:22:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[History of statistics sleuths out there? “Ideas came into my head as I sat on a gate overlooking an experimental blackcurrant plot”–No wait, it was apples, probably]]></title>
             <link>https://errorstatistics.com/2016/08/18/history-of-statistics-sleuths-out-there-ideas-came-into-my-head-as-i-sat-on-a-gate-overlooking-an-experimental-blackcurrant-plot-no-wait-it-was-apples-probably/</link>
             <guid isPermaLink="false">https://errorstatistics.com/2016/08/18/history-of-statistics-sleuths-out-there-ideas-came-into-my-head-as-i-sat-on-a-gate-overlooking-an-experimental-blackcurrant-plot-no-wait-it-was-apples-probably/</guid>
@@ -1865,7 +2757,6 @@ by Ravi Vakil]]></title>
         </item>
         <item>
             <title><![CDATA[Compact Closed Bicategories]]></title>
-            <link>null</link>
             <guid isPermaLink="false">Compact Closed Bicategories</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Fri, 19 Aug 2016 02:10:18 GMT</pubDate>
@@ -1878,11 +2769,11 @@ by Ravi Vakil]]></title>
             <pubDate>Fri, 19 Aug 2016 01:33:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sacramento skyline [jatp]]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/19/sacramento-skyline-jatp/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/19/sacramento-skyline-jatp/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 18 Aug 2016 22:16:20 GMT</pubDate>
+            <title><![CDATA[Do you want to be my colleague?]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/08/19/do-you-want-to-be-my-colleague-2/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/19/do-you-want-to-be-my-colleague-2/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GMO labeling is good science]]></title>
@@ -1941,20 +2832,6 @@ by Ravi Vakil]]></title>
             <pubDate>Thu, 18 Aug 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two fuzzy projective lines]]></title>
-            <link>https://pbelmans.wordpress.com/2016/08/18/two-fuzzy-projective-lines/</link>
-            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/18/two-fuzzy-projective-lines/</guid>
-            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
-            <pubDate>Thu, 18 Aug 2016 12:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#5 L'incredibile ubiquità della topologia persistente]]></title>
-            <link>http://maddmaths.simai.eu/divulgazione/focus/lincredibile-ubiquita-della-topologia-persistente/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/focus/lincredibile-ubiquita-della-topologia-persistente/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Thu, 18 Aug 2016 08:00:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Games@Dal 2016: Tanya talks about Cookie Monster Games]]></title>
             <link>http://combinatorialgametheory.blogspot.com/2016/08/gamesdal-2016-tanya-talks-about-cookie.html</link>
             <guid isPermaLink="false">http://combinatorialgametheory.blogspot.com/2016/08/gamesdal-2016-tanya-talks-about-cookie.html</guid>
@@ -1969,11 +2846,11 @@ by Ravi Vakil]]></title>
             <pubDate>Thu, 18 Aug 2016 00:09:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GPU-accelerated Gibbs sampling]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/18/gpu-accelerated-gibbs-sampling/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/18/gpu-accelerated-gibbs-sampling/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 17 Aug 2016 22:16:45 GMT</pubDate>
+            <title><![CDATA[Two fuzzy projective lines]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/08/18/two-fuzzy-projective-lines/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/18/two-fuzzy-projective-lines/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 18 Aug 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FOCS Travel Support]]></title>
@@ -1990,13 +2867,6 @@ by Ravi Vakil]]></title>
             <pubDate>Wed, 17 Aug 2016 21:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stan Course up North (Anchorage, Alaska) 23–24 Aug 2016]]></title>
-            <link>http://andrewgelman.com/2016/08/17/stan-goes-north-anchorage-ak-for-a-course/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/17/stan-goes-north-anchorage-ak-for-a-course/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 17 Aug 2016 19:00:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Multiplicative versus additive fitness and the limit of weak selection]]></title>
             <link>https://egtheory.wordpress.com/2016/08/17/weak-selection/</link>
             <guid isPermaLink="false">https://egtheory.wordpress.com/2016/08/17/weak-selection/</guid>
@@ -2011,32 +2881,11 @@ by Ravi Vakil]]></title>
             <pubDate>Wed, 17 Aug 2016 14:16:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The ICRA award goes to Greg Stevenson and Qiu Yu]]></title>
-            <link>https://pbelmans.wordpress.com/2016/08/17/the-icra-award-goes-to-greg-stevenson-and-qiu-yu/</link>
-            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/17/the-icra-award-goes-to-greg-stevenson-and-qiu-yu/</guid>
-            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
-            <pubDate>Wed, 17 Aug 2016 13:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s gonna happen in November?]]></title>
-            <link>http://andrewgelman.com/2016/08/17/29654/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/17/29654/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 17 Aug 2016 13:22:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[If James Whitmore were alive alive he'd be booked solid]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/08/if-james-whitmore-were-alive-alive-hed.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/if-james-whitmore-were-alive-alive-hed.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 17 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MCqMC 2016 [#2]]]></title>
-            <link>https://xianblog.wordpress.com/2016/08/17/mcqmc-2016-2-2/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/17/mcqmc-2016-2-2/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 17 Aug 2016 12:18:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Acoustic roughness examples]]></title>
@@ -2057,6 +2906,13 @@ by Ravi Vakil]]></title>
             <link>https://scoskey.github.io/bmc-recruiting-for-2016-17</link>
             <guid isPermaLink="false">https://scoskey.github.io/bmc-recruiting-for-2016-17</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 17 Aug 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ICRA award goes to Greg Stevenson and Qiu Yu]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/08/17/the-icra-award-goes-to-greg-stevenson-and-qiu-yu/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/17/the-icra-award-goes-to-greg-stevenson-and-qiu-yu/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Wed, 17 Aug 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2095,25 +2951,11 @@ by Ravi Vakil]]></title>
             <pubDate>Tue, 16 Aug 2016 20:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How schools that obsess about standardized tests ruin them as measures of success]]></title>
-            <link>http://andrewgelman.com/2016/08/16/how-schools-that-obsess-about-standardized-tests-ruin-them-as-measures-of-success/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/16/how-schools-that-obsess-about-standardized-tests-ruin-them-as-measures-of-success/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 16 Aug 2016 20:22:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[My article is ignored]]></title>
             <link>https://portonmath.wordpress.com/2016/08/16/my-article-is-ignored/</link>
             <guid isPermaLink="false">https://portonmath.wordpress.com/2016/08/16/my-article-is-ignored/</guid>
             <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
             <pubDate>Tue, 16 Aug 2016 20:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calorie labeling reduces obesity Obesity increased more slowly in California, Seattle, Portland (Oregon), and NYC, compared to some other places in the west coast and northeast that didn’t have calorie labeling]]></title>
-            <link>http://andrewgelman.com/2016/08/16/29647/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/16/29647/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 16 Aug 2016 13:07:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I grew up with a lot of Trae Crowders]]></title>
@@ -2172,27 +3014,6 @@ by Ravi Vakil]]></title>
             <pubDate>Mon, 15 Aug 2016 19:54:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The history of characterizing groups of people by their averages]]></title>
-            <link>http://andrewgelman.com/2016/08/15/29645/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/15/29645/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2016 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tax Day:  The Birthday Dog That Didn’t Bark]]></title>
-            <link>http://andrewgelman.com/2016/08/15/tax-day-birthday-dog-didnt-bark/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/15/tax-day-birthday-dog-didnt-bark/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2016 13:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On deck this week]]></title>
-            <link>http://andrewgelman.com/2016/08/15/on-deck-this-week-65/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/15/on-deck-this-week-65/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2016 13:00:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Test-based education reform -- when a means to an end becomes the end itself]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/08/test-based-education-reform-when-means.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/test-based-education-reform-when-means.html</guid>
@@ -2219,13 +3040,6 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">http://combinatorialgametheory.blogspot.com/2016/08/gamesdal-2016-carlos-talks-about-3.html</guid>
             <dc:creator><![CDATA[Combinatorial Game Theory]]></dc:creator>
             <pubDate>Mon, 15 Aug 2016 11:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#6 Carnevale della Matematica #91: I concetti indispensabili della matematica]]></title>
-            <link>http://maddmaths.simai.eu/divulgazione/carnevale-della-matematica-91-i-concetti-indispensabili-della-matematica/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/carnevale-della-matematica-91-i-concetti-indispensabili-della-matematica/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2016 08:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tensors 4: Behavior under change of coordinates]]></title>
@@ -2260,790 +3074,6 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">https://mathlesstraveled.com/2016/08/14/post-without-words-9/</guid>
             <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
             <pubDate>Sun, 14 Aug 2016 21:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When is an algebraic geometer skilful enough?]]></title>
-            <link>https://pbelmans.wordpress.com/2016/08/14/when-is-an-algebraic-geometer-skilful-enough/</link>
-            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/14/when-is-an-algebraic-geometer-skilful-enough/</guid>
-            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
-            <pubDate>Sun, 14 Aug 2016 14:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modeling correlation of issue attitudes and partisanship within states]]></title>
-            <link>http://andrewgelman.com/2016/08/14/29641/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/14/29641/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sun, 14 Aug 2016 13:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trace of an Endomorphism on the Symmetric Algebra]]></title>
-            <link>http://blog.jpolak.org/?p=1710</link>
-            <guid isPermaLink="false">http://blog.jpolak.org/?p=1710</guid>
-            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
-            <pubDate>Sun, 14 Aug 2016 06:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Science reporters are getting the picture]]></title>
-            <link>http://andrewgelman.com/2016/08/13/science-reporters-are-getting-the-picture/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/13/science-reporters-are-getting-the-picture/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 13 Aug 2016 13:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“On Functions Whose Mean Value Abscissas are Midpoints, with Connections to Harmonic Functions” (with Paul Carter)]]></title>
-            <link>http://davidlowryduda.com/?p=2080</link>
-            <guid isPermaLink="false">http://davidlowryduda.com/?p=2080</guid>
-            <dc:creator><![CDATA[mixedmath]]></dc:creator>
-            <pubDate>Fri, 12 Aug 2016 22:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will youths who swill Red Bull become adult cocaine addicts?]]></title>
-            <link>http://andrewgelman.com/2016/08/12/will-youths-who-swill-red-bull-become-adult-cocaine-addicts/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/12/will-youths-who-swill-red-bull-become-adult-cocaine-addicts/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 12 Aug 2016 13:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sad]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/sad.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/sad.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Fri, 12 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A little story of the Folk Theorem of Statistical Computing]]></title>
-            <link>http://andrewgelman.com/2016/08/11/a-little-story-of-the-folk-theorem-of-statistical-computing/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/11/a-little-story-of-the-folk-theorem-of-statistical-computing/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 12 Aug 2016 02:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NBA in NYC]]></title>
-            <link>http://andrewgelman.com/2016/08/11/nba-in-nyc/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/11/nba-in-nyc/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 11 Aug 2016 21:26:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Python rant: ‘ from foo import * ‘ is bad]]></title>
-            <link>http://www.walkingrandomly.com/?p=6209</link>
-            <guid isPermaLink="false">http://www.walkingrandomly.com/?p=6209</guid>
-            <dc:creator><![CDATA[Walking Randomly]]></dc:creator>
-            <pubDate>Thu, 11 Aug 2016 15:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#7 Il concetto matematico di cui non potremmo fare a meno: Varietà (di Barbara Fantechi)]]></title>
-            <link>http://maddmaths.simai.eu/divulgazione/matematica-indispensabile/il-concetto-matematico-di-cui-non-potremmo-fare-a-meno-varieta-di-barbara-fantechi/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/matematica-indispensabile/il-concetto-matematico-di-cui-non-potremmo-fare-a-meno-varieta-di-barbara-fantechi/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Thu, 11 Aug 2016 15:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are stereotypes statistically accurate?]]></title>
-            <link>http://andrewgelman.com/2016/08/11/29627/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/11/29627/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 11 Aug 2016 13:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calling all political science grad students]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/calling-all-political-science-grad.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/calling-all-political-science-grad.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 11 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Survey of Magnitude]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">A Survey of Magnitude</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Thu, 11 Aug 2016 09:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[George Orwell on the Olympics]]></title>
-            <link>http://andrewgelman.com/2016/08/10/george-orwell-on-the-olympics/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/10/george-orwell-on-the-olympics/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 11 Aug 2016 01:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You won’t be able to forget this one:  Alleged data manipulation in NIH-funded Alzheimer’s study]]></title>
-            <link>http://andrewgelman.com/2016/08/10/alleged-data-manipulation-in-nih-funded-alzheimers-study/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/10/alleged-data-manipulation-in-nih-funded-alzheimers-study/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 10 Aug 2016 13:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With Trump, everyone gets their own scandal]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/with-trump-everyone-gets-their-own.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/with-trump-everyone-gets-their-own.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 10 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two Miracles of Algebraic Geometry]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Two Miracles of Algebraic Geometry</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Wed, 10 Aug 2016 08:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quote of the Day]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/quote-of-day.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/quote-of-day.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 10 Aug 2016 00:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Physics First without the Supporting Math?]]></title>
-            <link>https://kalamitykat.com/2016/08/09/physics-first-without-the-supporting-math/</link>
-            <guid isPermaLink="false">https://kalamitykat.com/2016/08/09/physics-first-without-the-supporting-math/</guid>
-            <dc:creator><![CDATA[Megan Hayes-Golding]]></dc:creator>
-            <pubDate>Tue, 09 Aug 2016 19:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Praise of the Gershgorin Disc Theorem]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">In Praise of the Gershgorin Disc Theorem</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Tue, 09 Aug 2016 17:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boostrapping your posterior]]></title>
-            <link>http://andrewgelman.com/2016/08/09/29625/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/09/29625/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 09 Aug 2016 13:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The loss of plausible deniability]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/the-loss-of-plausible-deniability.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/the-loss-of-plausible-deniability.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 09 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I know I said I wouldn’t blog for awhile, but this one was just too good to resist]]></title>
-            <link>http://andrewgelman.com/2016/08/08/i-know-i-said-i-wouldnt-blog-for-awhile-but-this-one-was-just-too-good-to-resist/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/08/i-know-i-said-i-wouldnt-blog-for-awhile-but-this-one-was-just-too-good-to-resist/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 09 Aug 2016 02:29:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is a Formal Proof?]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">What is a Formal Proof?</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Mon, 08 Aug 2016 21:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DrawMyData]]></title>
-            <link>http://andrewgelman.com/2016/08/08/drawmydata/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/08/drawmydata/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 08 Aug 2016 20:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today We Launch Version 11!]]></title>
-            <link>http://blog.stephenwolfram.com/2016/08/today-we-launch-version-11/</link>
-            <guid isPermaLink="false">http://blog.stephenwolfram.com/2016/08/today-we-launch-version-11/</guid>
-            <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
-            <pubDate>Mon, 08 Aug 2016 16:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shameless little bullies claim that published triathlon times don’t replicate]]></title>
-            <link>http://andrewgelman.com/2016/08/08/29622/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/08/29622/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 08 Aug 2016 15:29:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heilmeier’s catechism: not all research that is “interesting” is also “important”]]></title>
-            <link>https://punkrockor.com/2016/08/08/heilmeiers-catechism-not-all-research-that-is-interesting-is-also-important/</link>
-            <guid isPermaLink="false">https://punkrockor.com/2016/08/08/heilmeiers-catechism-not-all-research-that-is-interesting-is-also-important/</guid>
-            <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
-            <pubDate>Mon, 08 Aug 2016 13:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On deck this week]]></title>
-            <link>http://andrewgelman.com/2016/08/08/on-deck-this-week-64/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/08/on-deck-this-week-64/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 08 Aug 2016 13:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some of the scariest stuff doesn't even involve Trump]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/some-of-scariest-stuff-doesnt-even.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/some-of-scariest-stuff-doesnt-even.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 08 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bichromatic Euclidean minimum spanning trees]]></title>
-            <link>http://11011110.livejournal.com/333802.html</link>
-            <guid isPermaLink="false">http://11011110.livejournal.com/333802.html</guid>
-            <dc:creator><![CDATA[0xDE]]></dc:creator>
-            <pubDate>Sun, 07 Aug 2016 23:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortnightly links (16)]]></title>
-            <link>https://pbelmans.wordpress.com/2016/08/07/fortnightly-links-16/</link>
-            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/07/fortnightly-links-16/</guid>
-            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
-            <pubDate>Sun, 07 Aug 2016 17:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Documented forking paths in the Competitive Reaction Time Task]]></title>
-            <link>http://andrewgelman.com/2016/08/07/29616/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/07/29616/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sun, 07 Aug 2016 13:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Autogenerated numbers 2]]></title>
-            <link>https://calculus7.org/2016/08/07/autogenerated-numbers-2/</link>
-            <guid isPermaLink="false">https://calculus7.org/2016/08/07/autogenerated-numbers-2/</guid>
-            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
-            <pubDate>Sun, 07 Aug 2016 11:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weekend blogging -- Moondog]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/weekendd-blogging-moondog.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/weekendd-blogging-moondog.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Sun, 07 Aug 2016 08:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dimensionful Matrices]]></title>
-            <link>http://blog.sigfpe.com/2016/08/dimensionful-matrices.html</link>
-            <guid isPermaLink="false">http://blog.sigfpe.com/2016/08/dimensionful-matrices.html</guid>
-            <dc:creator><![CDATA[A Neighborhood of Infinity]]></dc:creator>
-            <pubDate>Sun, 07 Aug 2016 02:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smooth poll aggregation using state-space modeling in Stan, from Jim Savage]]></title>
-            <link>http://andrewgelman.com/2016/08/06/state-space-poll-averaging-model/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/06/state-space-poll-averaging-model/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 06 Aug 2016 23:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upgrade]]></title>
-            <link>https://kristalcantwell.wordpress.com/2016/08/06/upgrade/</link>
-            <guid isPermaLink="false">https://kristalcantwell.wordpress.com/2016/08/06/upgrade/</guid>
-            <dc:creator><![CDATA[Euclidean Ramsey Theory]]></dc:creator>
-            <pubDate>Sat, 06 Aug 2016 18:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real world applications of representation theory]]></title>
-            <link>https://wdjoyner.wordpress.com/2016/08/06/real-world-applications-of-representation-theory/</link>
-            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/08/06/real-world-applications-of-representation-theory/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Sat, 06 Aug 2016 18:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“What can recent replication failures tell us about the theoretical commitments of psychology?”]]></title>
-            <link>http://andrewgelman.com/2016/08/06/the-unplanned-obsolescence-of-psychological-science-and-an-argument-for-its-revival/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/06/the-unplanned-obsolescence-of-psychological-science-and-an-argument-for-its-revival/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 06 Aug 2016 13:24:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Topological Crystals (Part 3)]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Topological Crystals (Part 3)</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Sat, 06 Aug 2016 10:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some recent talk slides]]></title>
-            <link>http://11011110.livejournal.com/333508.html</link>
-            <guid isPermaLink="false">http://11011110.livejournal.com/333508.html</guid>
-            <dc:creator><![CDATA[0xDE]]></dc:creator>
-            <pubDate>Sat, 06 Aug 2016 00:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sets of integral curves described in topological terms]]></title>
-            <link>https://portonmath.wordpress.com/2016/08/06/integral-curves-topologically/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/08/06/integral-curves-topologically/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Fri, 05 Aug 2016 22:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t believe the bounce]]></title>
-            <link>http://andrewgelman.com/2016/08/05/dont-believe-the-bounce/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/05/dont-believe-the-bounce/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 05 Aug 2016 20:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hill verses Hamming]]></title>
-            <link>https://wdjoyner.wordpress.com/2016/08/05/hill-verses-hamming/</link>
-            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/08/05/hill-verses-hamming/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Fri, 05 Aug 2016 17:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to enable the Linux / Bash subsystem in Windows 10]]></title>
-            <link>http://www.walkingrandomly.com/?p=6187</link>
-            <guid isPermaLink="false">http://www.walkingrandomly.com/?p=6187</guid>
-            <dc:creator><![CDATA[Walking Randomly]]></dc:creator>
-            <pubDate>Fri, 05 Aug 2016 15:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The p-value is a random variable]]></title>
-            <link>http://andrewgelman.com/2016/08/05/the-p-value-is-a-random-variable/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/05/the-p-value-is-a-random-variable/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 05 Aug 2016 13:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Of course, Jeff Zucker's standard for doing a really nice job might be different than yours and mine]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/of-course-jeff-zuckers-standard-for.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/of-course-jeff-zuckers-standard-for.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Fri, 05 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call for proposals for FOCS’16 workshop/tutorial (half-)day]]></title>
-            <link>https://windowsontheory.org/2016/08/04/call-for-proposals-for-focs16-workshoptutorial-half-day/</link>
-            <guid isPermaLink="false">https://windowsontheory.org/2016/08/04/call-for-proposals-for-focs16-workshoptutorial-half-day/</guid>
-            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
-            <pubDate>Thu, 04 Aug 2016 23:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A summary of some discussions on data-dredging, hiding data, private models, and regulatory approval]]></title>
-            <link>http://models.street-artists.org/2016/08/04/a-summary-on-data-dredging/</link>
-            <guid isPermaLink="false">http://models.street-artists.org/2016/08/04/a-summary-on-data-dredging/</guid>
-            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
-            <pubDate>Thu, 04 Aug 2016 23:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bando di concorso per una tesi di laurea di didattica o divulgazione della matematica]]></title>
-            <link>http://maddmaths.simai.eu/news-2/bando-di-concorso-per-una-tesi-di-laurea-di-didattica-o-divulgazione-della-matematica/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/bando-di-concorso-per-una-tesi-di-laurea-di-didattica-o-divulgazione-della-matematica/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Thu, 04 Aug 2016 16:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guy Fieri wants your help!  For a TV show on statistical models for real estate]]></title>
-            <link>http://andrewgelman.com/2016/08/04/30844/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/04/30844/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 04 Aug 2016 13:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["On any other day, that might seem strange"]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/on-any-other-day-that-might-seem-strange.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/on-any-other-day-that-might-seem-strange.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 04 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon NYC decision analysis jobs]]></title>
-            <link>http://andrewgelman.com/2016/08/03/30922/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/03/30922/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2016 21:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13 reasons why Hillary Clinton will (probably) win the Presidential Election]]></title>
-            <link>https://punkrockor.com/2016/08/03/13-reasons-why-hillary-clinton-will-probably-win-the-presidential-election/</link>
-            <guid isPermaLink="false">https://punkrockor.com/2016/08/03/13-reasons-why-hillary-clinton-will-probably-win-the-presidential-election/</guid>
-            <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2016 18:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In policing (and elsewhere), regional variation in behavior can be huge, and perhaps give a clue about how to move forward.]]></title>
-            <link>http://andrewgelman.com/2016/08/03/30833/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/03/30833/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2016 13:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To understand Trump, you have to understand right-wing media. To underestand right-wing media, you have to understand...]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/to-understand-trump-you-have-to.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/to-understand-trump-you-have-to.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chess problem 2 by Karl Fabel]]></title>
-            <link>https://wdjoyner.wordpress.com/2016/08/02/chess-problem-2-by-karl-fabel/</link>
-            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/08/02/chess-problem-2-by-karl-fabel/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2016 01:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just when I was about to back off from all the "black swan" references]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/just-when-i-was-about-to-back-off-from.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/just-when-i-was-about-to-back-off-from.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 02 Aug 2016 21:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homework Plan, 2016-17]]></title>
-            <link>https://kalamitykat.com/2016/08/02/homework-plan-2016-17/</link>
-            <guid isPermaLink="false">https://kalamitykat.com/2016/08/02/homework-plan-2016-17/</guid>
-            <dc:creator><![CDATA[Megan Hayes-Golding]]></dc:creator>
-            <pubDate>Tue, 02 Aug 2016 21:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chess problem 1 by Karl Fabel]]></title>
-            <link>https://wdjoyner.wordpress.com/2016/08/02/chess-problem-1-by-k-fabel/</link>
-            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/08/02/chess-problem-1-by-k-fabel/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Tue, 02 Aug 2016 18:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filter rebase generalized]]></title>
-            <link>https://portonmath.wordpress.com/2016/08/02/filter-rebase-generalized/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/08/02/filter-rebase-generalized/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Tue, 02 Aug 2016 18:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My next 170 blog posts (inbox zero and a change of pace)]]></title>
-            <link>http://andrewgelman.com/2016/08/02/inbox-zero-and-a-change-of-pace/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/02/inbox-zero-and-a-change-of-pace/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 02 Aug 2016 13:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's classic movie clip]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/todays-classic-movie-clip.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/todays-classic-movie-clip.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 02 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All maps of parameter estimates remain misleading]]></title>
-            <link>http://andrewgelman.com/2016/08/01/all-maps-of-parameter-estimates-are-inherently-misleading/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/01/all-maps-of-parameter-estimates-are-inherently-misleading/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 02 Aug 2016 01:40:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A kangaroo, a feather, and a scale walk into Viktor Beekman’s office]]></title>
-            <link>http://andrewgelman.com/2016/08/01/30892/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/08/01/30892/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2016 13:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explaining Trump in Four Words]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/08/explaining-trump-in-four-words.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/08/explaining-trump-in-four-words.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linkage]]></title>
-            <link>http://11011110.livejournal.com/333234.html</link>
-            <guid isPermaLink="false">http://11011110.livejournal.com/333234.html</guid>
-            <dc:creator><![CDATA[0xDE]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2016 05:13:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stan 2.11 Good, Stan 2.10 Bad]]></title>
-            <link>http://andrewgelman.com/2016/07/31/stan-2-11-good-stan-2-10-bad/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/31/stan-2-11-good-stan-2-10-bad/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sun, 31 Jul 2016 20:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Directed topological spaces and funcoids]]></title>
-            <link>https://portonmath.wordpress.com/2016/07/31/directed-topological-spaces/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/07/31/directed-topological-spaces/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Sun, 31 Jul 2016 17:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing ncag.info]]></title>
-            <link>https://pbelmans.wordpress.com/2016/07/31/announcing-ncag-info/</link>
-            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/07/31/announcing-ncag-info/</guid>
-            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
-            <pubDate>Sun, 31 Jul 2016 16:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Even social scientists can think like pundits, unfortunately]]></title>
-            <link>http://andrewgelman.com/2016/07/31/even-social-scientists-can-think-like-pundits-unfortunately/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/31/even-social-scientists-can-think-like-pundits-unfortunately/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sun, 31 Jul 2016 13:14:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Papadimitriou on ITCS 2017]]></title>
-            <link>https://agtb.wordpress.com/2016/07/31/papadimitriou-on-itcs-2017/</link>
-            <guid isPermaLink="false">https://agtb.wordpress.com/2016/07/31/papadimitriou-on-itcs-2017/</guid>
-            <dc:creator><![CDATA[Turing's Invisible Hand]]></dc:creator>
-            <pubDate>Sun, 31 Jul 2016 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[András Hajnal (May 13, 1931 — July 30, 2016)]]></title>
-            <link>https://ests.wordpress.com/2016/07/30/andras-hajnal-may-13-1931-july-30-2016/</link>
-            <guid isPermaLink="false">https://ests.wordpress.com/2016/07/30/andras-hajnal-may-13-1931-july-30-2016/</guid>
-            <dc:creator><![CDATA[European Set Theory Society]]></dc:creator>
-            <pubDate>Sat, 30 Jul 2016 22:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What recommendations to give when a medical study is not definitive (which of course will happen all the time, especially considering that new treatments should be compared to best available alternatives, which implies that most improvements will be incremental at best)]]></title>
-            <link>http://andrewgelman.com/2016/07/30/29576/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/30/29576/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 30 Jul 2016 13:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decomposing a function into its even and odd parts]]></title>
-            <link>http://blog.plover.com/math/even-odd.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/math/even-odd.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Sat, 30 Jul 2016 02:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some summaries of Bayesian Decision Theory]]></title>
-            <link>http://models.street-artists.org/2016/07/29/some-summaries-of-bayesian-decision-theory/</link>
-            <guid isPermaLink="false">http://models.street-artists.org/2016/07/29/some-summaries-of-bayesian-decision-theory/</guid>
-            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
-            <pubDate>Sat, 30 Jul 2016 02:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chess problem 3 by Christoph Bandelow]]></title>
-            <link>https://wdjoyner.wordpress.com/2016/07/29/chess-problem-3-by-christoph-bandelow/</link>
-            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/07/29/chess-problem-3-by-christoph-bandelow/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Fri, 29 Jul 2016 15:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Benadryl make you senile?  Challenges in research communication]]></title>
-            <link>http://andrewgelman.com/2016/07/29/does-benadryl-make-you-senile-challenges-in-research-communication/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/29/does-benadryl-make-you-senile-challenges-in-research-communication/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 29 Jul 2016 13:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solomon Feferman (December 13, 1928 — July 26, 2016)]]></title>
-            <link>https://ests.wordpress.com/2016/07/29/solomon-feferman-december-13-1928-july-26-2016/</link>
-            <guid isPermaLink="false">https://ests.wordpress.com/2016/07/29/solomon-feferman-december-13-1928-july-26-2016/</guid>
-            <dc:creator><![CDATA[European Set Theory Society]]></dc:creator>
-            <pubDate>Fri, 29 Jul 2016 13:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chess problem 2 by Christoph Bandelow]]></title>
-            <link>https://wdjoyner.wordpress.com/2016/07/29/chess-problem-2-by-christoph-bandelow/</link>
-            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/07/29/chess-problem-2-by-christoph-bandelow/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Fri, 29 Jul 2016 13:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A fifty-one year old view of the future of high-speed rail]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/07/a-fifty-one-year-old-view-of-future-of.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/07/a-fifty-one-year-old-view-of-future-of.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Fri, 29 Jul 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chess problem 1 by Christoph Bandelow]]></title>
-            <link>https://wdjoyner.wordpress.com/2016/07/29/chess-problem-1-by-christoph-bandelow/</link>
-            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/07/29/chess-problem-1-by-christoph-bandelow/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Fri, 29 Jul 2016 12:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extended eigenvalues for bilateral weighted shifts]]></title>
-            <link>https://cafematematico.wordpress.com/2016/07/29/extended-eigenvalues-for-bilateral-weighted-shifts/</link>
-            <guid isPermaLink="false">https://cafematematico.wordpress.com/2016/07/29/extended-eigenvalues-for-bilateral-weighted-shifts/</guid>
-            <dc:creator><![CDATA[Café Matemático]]></dc:creator>
-            <pubDate>Fri, 29 Jul 2016 08:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A funcoid related to directed topological spaces ★★]]></title>
-            <link>http://www.openproblemgarden.org/op/a_funcoid_related_to_directed_topological_spaces</link>
-            <guid isPermaLink="false">http://www.openproblemgarden.org/op/a_funcoid_related_to_directed_topological_spaces</guid>
-            <dc:creator><![CDATA[Open Problem Garden - Open Problems]]></dc:creator>
-            <pubDate>Thu, 28 Jul 2016 19:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A funcoid related to directed topological spaces]]></title>
-            <link>https://portonmath.wordpress.com/2016/07/28/funcoid-related-directed-topologies/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/07/28/funcoid-related-directed-topologies/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Thu, 28 Jul 2016 19:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Controlling the KDE screen locking works now]]></title>
-            <link>http://blog.plover.com/Unix/qdbus-2.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/Unix/qdbus-2.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Thu, 28 Jul 2016 19:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two equivalent conjectures]]></title>
-            <link>https://portonmath.wordpress.com/2016/07/28/two-equivalent-conjectures/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/07/28/two-equivalent-conjectures/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Thu, 28 Jul 2016 15:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fish cannot carry p-values]]></title>
-            <link>http://andrewgelman.com/2016/07/28/30762/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/28/30762/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 28 Jul 2016 13:01:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aspect Dominance or just reporters loking for a man biting a dog?]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/07/aspect-dominance-or-just-reporters.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/07/aspect-dominance-or-just-reporters.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 28 Jul 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call for research on California water resources]]></title>
-            <link>http://andrewgelman.com/2016/07/27/30831/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/27/30831/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 28 Jul 2016 00:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Controlling KDE screen locking from a shell script]]></title>
-            <link>http://blog.plover.com/Unix/qdbus.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/Unix/qdbus.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 22:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinite distributivity of meet over join for a principal funcoid ★★]]></title>
-            <link>http://www.openproblemgarden.org/op/infinite_distributivity_of_meet_over_join_for_a_principal_funcoid</link>
-            <guid isPermaLink="false">http://www.openproblemgarden.org/op/infinite_distributivity_of_meet_over_join_for_a_principal_funcoid</guid>
-            <dc:creator><![CDATA[Open Problem Garden - Open Problems]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 18:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new conjecture]]></title>
-            <link>https://portonmath.wordpress.com/2016/07/27/new-conjecture-2/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/07/27/new-conjecture-2/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 18:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new theorem about generalized continuity]]></title>
-            <link>https://portonmath.wordpress.com/2016/07/27/a-new-theorem-about-generalized-continuity/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/07/27/a-new-theorem-about-generalized-continuity/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 13:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What makes a mathematical formula beautiful?]]></title>
-            <link>http://andrewgelman.com/2016/07/27/29559/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/27/29559/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 13:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new easy theorem]]></title>
-            <link>https://portonmath.wordpress.com/2016/07/27/a-new-easy-theorem/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/07/27/a-new-easy-theorem/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 13:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Catching up on Tesla]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/07/catching-up-on-tesla.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/07/catching-up-on-tesla.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Topological Crystals (Part 2)]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Topological Crystals (Part 2)</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 10:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call for information: Why do good software people leave academia?]]></title>
-            <link>http://www.walkingrandomly.com/?p=6143</link>
-            <guid isPermaLink="false">http://www.walkingrandomly.com/?p=6143</guid>
-            <dc:creator><![CDATA[Walking Randomly]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 08:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thanks, eBay!]]></title>
-            <link>http://andrewgelman.com/2016/07/26/thanks-ebay/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/26/thanks-ebay/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 00:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everyone loves a good NHST joke]]></title>
-            <link>http://models.street-artists.org/2016/07/26/everyone-loves-a-good-nhst-joke/</link>
-            <guid isPermaLink="false">http://models.street-artists.org/2016/07/26/everyone-loves-a-good-nhst-joke/</guid>
-            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
-            <pubDate>Tue, 26 Jul 2016 17:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More evidence that even top researchers routinely misinterpret p-values]]></title>
-            <link>http://andrewgelman.com/2016/07/26/29552/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/26/29552/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 26 Jul 2016 13:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mathematics of zombies]]></title>
-            <link>https://wdjoyner.wordpress.com/2016/07/26/mathematics-of-zombies/</link>
-            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/07/26/mathematics-of-zombies/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Tue, 26 Jul 2016 13:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complements in the symmetric group]]></title>
-            <link>https://wdjoyner.wordpress.com/2016/07/26/complements-in-the-symmetric-group-2/</link>
-            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/07/26/complements-in-the-symmetric-group-2/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Tue, 26 Jul 2016 13:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[And now a brief musical interlude]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2016/07/and-now-brief-musical-interlude.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/07/and-now-brief-musical-interlude.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 26 Jul 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ricordo di Rudolf "Rudi" Kálmán]]></title>
-            <link>http://maddmaths.simai.eu/news-2/ricordo-di-rudolf-rudi-kalman/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/ricordo-di-rudolf-rudi-kalman/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Tue, 26 Jul 2016 10:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pokégyms at Dagstuhl]]></title>
-            <link>http://feedproxy.google.com/~r/TheGeomblog/~3/moe5fYTKzc4/pokegyms-at-dagstuhl.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheGeomblog/~3/moe5fYTKzc4/pokegyms-at-dagstuhl.html</guid>
-            <dc:creator><![CDATA[The Geomblog]]></dc:creator>
-            <pubDate>Mon, 25 Jul 2016 23:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bayesian Inference with Stan for Pharmacometrics Class]]></title>
-            <link>http://andrewgelman.com/2016/07/25/bayesian-inference-with-stan-for-pharmacometrics-class/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/07/25/bayesian-inference-with-stan-for-pharmacometrics-class/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 25 Jul 2016 22:30:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carl Zimmer's series on exploring his genome]]></title>
-            <link>http://feedproxy.google.com/~r/TheGeomblog/~3/IFFvX8rEEis/carl-zimmers-series-on-exploring-his.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheGeomblog/~3/IFFvX8rEEis/carl-zimmers-series-on-exploring-his.html</guid>
-            <dc:creator><![CDATA[The Geomblog]]></dc:creator>
-            <pubDate>Mon, 25 Jul 2016 17:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RETI - Concetti essenziali e idee di base]]></title>
-            <link>http://maddmaths.simai.eu/divulgazione/reti-concetti-essenziali-e-idee-di-base/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/reti-concetti-essenziali-e-idee-di-base/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Sun, 24 Jul 2016 20:48:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

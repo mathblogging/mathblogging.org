@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Mathblogging.org -- Journalism]]></title>
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Sep 2016 18:18:13 GMT</lastBuildDate>
-        <pubDate>Wed, 14 Sep 2016 18:18:11 GMT</pubDate>
+        <lastBuildDate>Wed, 14 Sep 2016 19:57:24 GMT</lastBuildDate>
+        <pubDate>Wed, 14 Sep 2016 19:57:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -87,6 +86,13 @@
             <pubDate>Tue, 13 Sep 2016 16:05:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dinner with a Side of Data]]></title>
+            <link>http://changetheequation.org/blog/dinner-side-data</link>
+            <guid isPermaLink="false">http://changetheequation.org/blog/dinner-side-data</guid>
+            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 15:58:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Students need to master basic math skills to thrive]]></title>
             <link>http://matthewmadduxeducation.com/post/150357302869</link>
             <guid isPermaLink="false">http://matthewmadduxeducation.com/post/150357302869</guid>
@@ -141,6 +147,13 @@
             <guid isPermaLink="false">https://plus.maths.org/content/maths-minute-einsteins-general-theory-relativity</guid>
             <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
             <pubDate>Mon, 12 Sep 2016 14:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: Drug deaths in the Philippines]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p047cbfp.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p047cbfp.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2016 03:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tool for the (collaborative) job]]></title>
@@ -225,6 +238,13 @@
             <guid isPermaLink="false">http://matthewmadduxeducation.com/post/150173162714</guid>
             <dc:creator><![CDATA[MatthewMaddux Education]]></dc:creator>
             <pubDate>Fri, 09 Sep 2016 17:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supporting STEM Education Will Help Bring More Diversity to Financial Services]]></title>
+            <link>http://changetheequation.org/blog/supporting-stem-education-will-help-bring-more-diversity-financial-services</link>
+            <guid isPermaLink="false">http://changetheequation.org/blog/supporting-stem-education-will-help-bring-more-diversity-financial-services</guid>
+            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 15:52:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Friday Mix]]></title>
@@ -332,6 +352,20 @@
             <pubDate>Mon, 05 Sep 2016 14:00:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[WS More or Less: Menstrual Syncing]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p046wgxd.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p046wgxd.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 05 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Epsilon-Delta, Absolute Values, Inequalities]]></title>
+            <link>http://www.madmath.com/2016/09/epsilon-delta-absolute-values.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/09/epsilon-delta-absolute-values.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 05 Sep 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Il continuo, questo sconosciuto]]></title>
             <link>http://www.ilpost.it/mauriziocodogno/2016/09/05/il-continuo-questo-sconosciuto/</link>
             <guid isPermaLink="false">http://www.ilpost.it/mauriziocodogno/2016/09/05/il-continuo-questo-sconosciuto/</guid>
@@ -343,6 +377,13 @@
             <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
             <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photomath can read my writing]]></title>
+            <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
+            <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
         </item>
         <item>
@@ -379,6 +420,13 @@
             <guid isPermaLink="false">http://news.mit.edu/2016/school-science-appoints-twelve-career-development-professorships-0902</guid>
             <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
             <pubDate>Fri, 02 Sep 2016 16:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irish Passports]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p046n56s.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p046n56s.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Fri, 02 Sep 2016 16:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Citi Bike comes to Columbia]]></title>
@@ -421,6 +469,13 @@
             <guid isPermaLink="false">http://matthewmadduxeducation.com/post/149802781729</guid>
             <dc:creator><![CDATA[MatthewMaddux Education]]></dc:creator>
             <pubDate>Thu, 01 Sep 2016 18:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apply Now for New STEM Scale-Up Grants in Iowa]]></title>
+            <link>http://changetheequation.org/blog/apply-now-new-stem-scale-grants-iowa</link>
+            <guid isPermaLink="false">http://changetheequation.org/blog/apply-now-new-stem-scale-grants-iowa</guid>
+            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 18:24:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How algorithms rule our working lives]]></title>
@@ -500,6 +555,13 @@
             <pubDate>Wed, 31 Aug 2016 16:47:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New Data: High Schoolers Lack Access to Statistics Courses]]></title>
+            <link>http://changetheequation.org/blog/new-data-high-schoolers-lack-access-statistics-courses</link>
+            <guid isPermaLink="false">http://changetheequation.org/blog/new-data-high-schoolers-lack-access-statistics-courses</guid>
+            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 14:23:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Maths at the British Science Festival 2016]]></title>
             <link>http://aperiodical.com/2016/08/maths-at-the-british-science-festival-2016/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/08/maths-at-the-british-science-festival-2016/</guid>
@@ -540,6 +602,13 @@
             <guid isPermaLink="false">http://aperiodical.com/2016/08/carnival-of-mathematics-137/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 30 Aug 2016 10:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death Penalty abolition]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04694nv.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04694nv.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2016 08:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Few Problems - 1]]></title>
@@ -605,11 +674,32 @@
             <pubDate>Sat, 27 Aug 2016 13:14:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gender Pay Gap]]></title>
+            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p045z45z.mp3</link>
+            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p045z45z.mp3</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maryland, My Maryland]]></title>
+            <link>http://changetheequation.org/blog/maryland-my-maryland</link>
+            <guid isPermaLink="false">http://changetheequation.org/blog/maryland-my-maryland</guid>
+            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 14:20:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Some End-of-week Picks]]></title>
             <link>http://mathtango.blogspot.com/2016/08/some-end-of-week-picks.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2016/08/some-end-of-week-picks.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Fri, 26 Aug 2016 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Receipts for Homework]]></title>
+            <link>http://www.madmath.com/2016/08/crypto-receipts-for-homework.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/08/crypto-receipts-for-homework.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foundation Announces Simons Collaboration on Special Holonomy in Geometry, Analysis and Physics]]></title>
@@ -652,13 +742,6 @@
             <guid isPermaLink="false">https://plus.maths.org/content/node/6673</guid>
             <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
             <pubDate>Wed, 24 Aug 2016 09:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Idaho uses STEMworks to fund STEM professional development]]></title>
-            <link>http://changetheequation.org/blog/idaho-uses-stemworks-fund-stem-professional-development</link>
-            <guid isPermaLink="false">http://changetheequation.org/blog/idaho-uses-stemworks-fund-stem-professional-development</guid>
-            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
-            <pubDate>Tue, 23 Aug 2016 23:24:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ronald Fisher and Maximum Likelihood Estimation Video and Slides]]></title>
@@ -781,7 +864,7 @@
         </item>
         <item>
             <title><![CDATA[Rien ne va plus 2 – Tempo fa, in una vasca da bagno]]></title>
-            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2016/08/19/rien-ne-va-plus-2-%25e2%2580%2593-tempo-fa-in-una-vasca-da-bagno/</link>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2016/08/19/rien-ne-va-plus-2-%e2%80%93-tempo-fa-in-una-vasca-da-bagno/</link>
             <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2016/08/19/rien-ne-va-plus-2-%e2%80%93-tempo-fa-in-una-vasca-da-bagno/</guid>
             <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
             <pubDate>Fri, 19 Aug 2016 05:00:05 GMT</pubDate>
@@ -869,111 +952,6 @@
             <guid isPermaLink="false">http://www.ilpost.it/mauriziocodogno/2016/08/15/quizzini-per-ferragosto-2016/</guid>
             <dc:creator><![CDATA[Il Post » Bloggers » mauriziocodogno]]></dc:creator>
             <pubDate>Mon, 15 Aug 2016 02:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grammar Schools]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p044hc0q.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p044hc0q.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 12 Aug 2016 16:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Natural Normality]]></title>
-            <link>http://www.madmath.com/2016/08/natural-normality.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/08/natural-normality.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Fri, 12 Aug 2016 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guest Blog: Celebrating 16 Years of Partnership with the National Math and Science Initiative]]></title>
-            <link>http://changetheequation.org/blog/guest-blog-celebrating-16-years-partnership-national-math-and-science-initiative</link>
-            <guid isPermaLink="false">http://changetheequation.org/blog/guest-blog-celebrating-16-years-partnership-national-math-and-science-initiative</guid>
-            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
-            <pubDate>Thu, 11 Aug 2016 16:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rio’s Olympic Athletes Gear Up with STEM Innovations]]></title>
-            <link>http://changetheequation.org/blog/rio%25E2%2580%2599s-olympic-athletes-gear-stem-innovations</link>
-            <guid isPermaLink="false">http://changetheequation.org/blog/rio%E2%80%99s-olympic-athletes-gear-stem-innovations</guid>
-            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
-            <pubDate>Wed, 10 Aug 2016 16:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Data: Bridging the Computer Science Access Gap]]></title>
-            <link>http://changetheequation.org/blog/new-data-bridging-computer-science-access-gap-0</link>
-            <guid isPermaLink="false">http://changetheequation.org/blog/new-data-bridging-computer-science-access-gap-0</guid>
-            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
-            <pubDate>Tue, 09 Aug 2016 14:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WS More or Less: Predicting Olympic Medals]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p043zqlr.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p043zqlr.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 08 Aug 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plastic Bags]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p043r14d.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p043r14d.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 05 Aug 2016 16:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Education: the Big Issue Few People Are Talking About]]></title>
-            <link>http://changetheequation.org/blog/education-big-issue-few-people-are-talking-about</link>
-            <guid isPermaLink="false">http://changetheequation.org/blog/education-big-issue-few-people-are-talking-about</guid>
-            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2016 18:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To Nail the Landing, Olympic Gymnasts Embody Science]]></title>
-            <link>http://changetheequation.org/blog/nail-landing-olympic-gymnasts-embody-science</link>
-            <guid isPermaLink="false">http://changetheequation.org/blog/nail-landing-olympic-gymnasts-embody-science</guid>
-            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2016 17:19:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WS More or Less: Odd Socks and Algorithms]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p042z3hn.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p042z3hn.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Supermarket Effect]]></title>
-            <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p042yzhm.mp3</link>
-            <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p042yzhm.mp3</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 29 Jul 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Care About R]]></title>
-            <link>http://www.cambridgeblog.org/2016/07/why-you-should-care-about-r/</link>
-            <guid isPermaLink="false">http://www.cambridgeblog.org/2016/07/why-you-should-care-about-r/</guid>
-            <dc:creator><![CDATA[FifteenEightyFour | Cambridge University Press » Mathematics]]></dc:creator>
-            <pubDate>Thu, 28 Jul 2016 12:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Study: Lower Teacher Pay Linked to Lower Math Skills]]></title>
-            <link>http://changetheequation.org/blog/new-study-lower-teacher-pay-linked-lower-math-skills</link>
-            <guid isPermaLink="false">http://changetheequation.org/blog/new-study-lower-teacher-pay-linked-lower-math-skills</guid>
-            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2016 14:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[STEMtistic on Display: AP Exams for Success]]></title>
-            <link>http://changetheequation.org/blog/stemtistic-display-ap-exams-success</link>
-            <guid isPermaLink="false">http://changetheequation.org/blog/stemtistic-display-ap-exams-success</guid>
-            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
-            <pubDate>Tue, 26 Jul 2016 15:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teaching Math with Overhead Presentations]]></title>
-            <link>http://www.madmath.com/2016/07/teaching-math-with-overhead.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/07/teaching-math-with-overhead.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 25 Jul 2016 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
