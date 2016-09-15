@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Sep 2016 05:18:11 GMT</lastBuildDate>
-        <pubDate>Thu, 15 Sep 2016 05:18:07 GMT</pubDate>
+        <lastBuildDate>Thu, 15 Sep 2016 06:18:21 GMT</lastBuildDate>
+        <pubDate>Thu, 15 Sep 2016 06:18:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -29,6 +29,27 @@
             <guid isPermaLink="false">https://egtheory.wordpress.com/2016/09/14/social-algorithms/</guid>
             <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
             <pubDate>Wed, 14 Sep 2016 21:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[n times continuously differentiable functions]]></title>
+            <link>http://www.bookofproofs.org/branches/n-times-continuously-differentiable-functions/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/n-times-continuously-differentiable-functions/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 21:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[higher order directional derivative]]></title>
+            <link>http://www.bookofproofs.org/branches/higher-order-directional-derivative/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/higher-order-directional-derivative/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 21:09:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[directional derivative]]></title>
+            <link>http://www.bookofproofs.org/branches/directional-derivative/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/directional-derivative/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 20:44:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Academic Rankings Foster Competition]]></title>
@@ -133,7 +154,7 @@
             <link>http://www.bookofproofs.org/branches/limit-of-a-function/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/limit-of-a-function/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 13 Sep 2016 23:22:00 GMT</pubDate>
+            <pubDate>Tue, 13 Sep 2016 23:23:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Utilizando el método de exhaución para “demostrar” que 2=1]]></title>
@@ -675,27 +696,6 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/linear-maps/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Tue, 06 Sep 2016 20:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ordered field]]></title>
-            <link>http://www.bookofproofs.org/branches/ordered-field/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/ordered-field/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 06 Sep 2016 20:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[linear order]]></title>
-            <link>http://www.bookofproofs.org/branches/linear-order/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/linear-order/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 06 Sep 2016 20:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[order relation]]></title>
-            <link>http://www.bookofproofs.org/branches/order-relation/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/order-relation/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 06 Sep 2016 19:55:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Farewelcome]]></title>
@@ -2242,13 +2242,6 @@ by Ravi Vakil]]></title>
             <pubDate>Mon, 15 Aug 2016 08:58:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Post without words #9]]></title>
-            <link>https://mathlesstraveled.com/2016/08/14/post-without-words-9/</link>
-            <guid isPermaLink="false">https://mathlesstraveled.com/2016/08/14/post-without-words-9/</guid>
-            <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
-            <pubDate>Sun, 14 Aug 2016 21:39:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[When is an algebraic geometer skilful enough?]]></title>
             <link>https://pbelmans.wordpress.com/2016/08/14/when-is-an-algebraic-geometer-skilful-enough/</link>
             <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/14/when-is-an-algebraic-geometer-skilful-enough/</guid>
@@ -2261,13 +2254,6 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2016/08/14/29641/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sun, 14 Aug 2016 13:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trace of an Endomorphism on the Symmetric Algebra]]></title>
-            <link>http://blog.jpolak.org/?p=1710</link>
-            <guid isPermaLink="false">http://blog.jpolak.org/?p=1710</guid>
-            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
-            <pubDate>Sun, 14 Aug 2016 06:18:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Science reporters are getting the picture]]></title>
