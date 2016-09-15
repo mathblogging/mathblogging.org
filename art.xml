@@ -1,13 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Mathblogging.org -- Art]]></title>
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Sep 2016 22:24:12 GMT</lastBuildDate>
-        <pubDate>Wed, 14 Sep 2016 22:24:11 GMT</pubDate>
+        <lastBuildDate>Thu, 15 Sep 2016 01:17:56 GMT</lastBuildDate>
+        <pubDate>Thu, 15 Sep 2016 01:17:54 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Togliatti Quintic Surface]]></title>
+            <link>http://blogs.ams.org/visualinsight/2016/09/15/togliatti-quintic-surface/</link>
+            <guid isPermaLink="false">http://blogs.ams.org/visualinsight/2016/09/15/togliatti-quintic-surface/</guid>
+            <dc:creator><![CDATA[Visual Insight]]></dc:creator>
+            <pubDate>Thu, 15 Sep 2016 01:00:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[dailyminimal:
 
@@ -102,13 +110,6 @@ JR Eyerman’s photograph of staff at NASA, 1961 (via...]]></title>
             <pubDate>Mon, 12 Sep 2016 19:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maybe This Information is Beautiful, It's Just Not Accurate]]></title>
-            <link>http://statpics.blogspot.com/2016/09/maybe-this-information-is-beautiful-its.html</link>
-            <guid isPermaLink="false">http://statpics.blogspot.com/2016/09/maybe-this-information-is-beautiful-its.html</guid>
-            <dc:creator><![CDATA[Statpics]]></dc:creator>
-            <pubDate>Mon, 12 Sep 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[9/12/16 — Happy Geometric Mean Day!]]></title>
             <link>http://MrHonner.com/archives/17197</link>
             <guid isPermaLink="false">http://MrHonner.com/archives/17197</guid>
@@ -167,13 +168,6 @@ The Weeping Stone by Tdub Photo is created with...]]></title>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/main-street-tensegrity.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 11 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it the Cartan, Coxeter or Gram matrix?]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/11/cartan-coxeter-and-gram/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/11/cartan-coxeter-and-gram/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 11 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photo]]></title>
@@ -374,25 +368,11 @@ Lena Meyer-Bergner. Radiance/Drifting Centre,...]]></title>
             <pubDate>Tue, 06 Sep 2016 19:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Location is Time or Money]]></title>
-            <link>http://statpics.blogspot.com/2016/09/location-is-time-or-money.html</link>
-            <guid isPermaLink="false">http://statpics.blogspot.com/2016/09/location-is-time-or-money.html</guid>
-            <dc:creator><![CDATA[Statpics]]></dc:creator>
-            <pubDate>Tue, 06 Sep 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Black Planes]]></title>
             <link>http://mathtourist.blogspot.com/2016/09/black-planes.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/black-planes.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 06 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stacks Project Workshop]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/06/stacks-project-workshop/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/06/stacks-project-workshop/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Tue, 06 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[regolo54:
@@ -474,13 +454,6 @@ Icosa Cloud - 160801]]></title>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Une-balade-parmi-les-ensembles-de-Julia.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortnightly links (18)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/04/fortnightly-links-18/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/04/fortnightly-links-18/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 04 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Prisoners convicted of felonies were originally sentenced to serve as oarsmen in the French..."]]></title>
@@ -581,7 +554,7 @@ polar shadows]]></title>
             <pubDate>Thu, 01 Sep 2016 01:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kummer Surface]]></title>
+            <title><![CDATA[Kummer’s Quartic Surface]]></title>
             <link>http://blogs.ams.org/visualinsight/2016/09/01/kummers-quartic-surface/</link>
             <guid isPermaLink="false">http://blogs.ams.org/visualinsight/2016/09/01/kummers-quartic-surface/</guid>
             <dc:creator><![CDATA[Visual Insight]]></dc:creator>
@@ -674,13 +647,6 @@ Good Morning From the International Space...]]></title>
             <pubDate>Tue, 30 Aug 2016 09:10:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Computing relations in Jacobi algebras]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/08/30/computing-relations-in-jacobi-algebras/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/30/computing-relations-in-jacobi-algebras/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Tue, 30 Aug 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[pttrnz:
 
 Generative nautical stars.]]></title>
@@ -702,13 +668,6 @@ Generative nautical stars.]]></title>
             <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2016/08/math-play-via-verse-with-george-darley.html</guid>
             <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
             <pubDate>Mon, 29 Aug 2016 16:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, Sunday]]></title>
-            <link>http://statpics.blogspot.com/2016/08/sunday-sunday.html</link>
-            <guid isPermaLink="false">http://statpics.blogspot.com/2016/08/sunday-sunday.html</guid>
-            <dc:creator><![CDATA[Statpics]]></dc:creator>
-            <pubDate>Mon, 29 Aug 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pictographs at Ginkgo]]></title>
@@ -818,13 +777,6 @@ It’s been over two years since we first...]]></title>
             <pubDate>Fri, 26 Aug 2016 00:01:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Moving from WordPress to Jekyll]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/08/26/moving-from-wordpress-to-jekyll/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/26/moving-from-wordpress-to-jekyll/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Fri, 26 Aug 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vi Hart Weekly, Aug 25 2016]]></title>
             <link>http://vihart.com/vi-hart-weekly-aug-25-2016/</link>
             <guid isPermaLink="false">http://vihart.com/vi-hart-weekly-aug-25-2016/</guid>
@@ -852,13 +804,6 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/0gtgq-HZcUw/149439137637</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Thu, 25 Aug 2016 01:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abstracts for the Antwerp conference]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/08/25/abstracts-for-the-antwerp-conference/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/25/abstracts-for-the-antwerp-conference/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Thu, 25 Aug 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hocus]]></title>
@@ -917,17 +862,17 @@ by Ravi Vakil]]></title>
             <pubDate>Mon, 22 Aug 2016 13:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building Trapezoids]]></title>
-            <link>http://mathtourist.blogspot.com/2016/08/building-trapezoids.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/08/building-trapezoids.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 22 Aug 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gli enigmi di Coelum: "Quadranti galattici"]]></title>
             <link>http://misterpalomar.blogspot.com/2016/08/gli-enigmi-di-coelum-quadranti-galattici.html</link>
             <guid isPermaLink="false">http://misterpalomar.blogspot.com/2016/08/gli-enigmi-di-coelum-quadranti-galattici.html</guid>
             <dc:creator><![CDATA[Mr. Palomar]]></dc:creator>
+            <pubDate>Mon, 22 Aug 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building Trapezoids]]></title>
+            <link>http://mathtourist.blogspot.com/2016/08/building-trapezoids.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/08/building-trapezoids.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 22 Aug 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -943,6 +888,13 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/xg6Ii0g4lUc/149288076118</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Sun, 21 Aug 2016 21:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (17)]]></title>
+            <link>https://pbelmans.wordpress.com/2016/08/21/fortnightly-links-17/</link>
+            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/21/fortnightly-links-17/</guid>
+            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
+            <pubDate>Sun, 21 Aug 2016 18:31:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fractal Torso]]></title>
@@ -968,11 +920,11 @@ by Ravi Vakil]]></title>
             <pubDate>Sun, 21 Aug 2016 00:31:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (17)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/08/21/fortnightly-links-17/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/21/fortnightly-links-17/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 21 Aug 2016 00:00:00 GMT</pubDate>
+            <title><![CDATA[Do you want to be my colleague?]]></title>
+            <link>https://pbelmans.wordpress.com/2016/08/19/do-you-want-to-be-my-colleague-2/</link>
+            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/19/do-you-want-to-be-my-colleague-2/</guid>
+            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
+            <pubDate>Fri, 19 Aug 2016 11:22:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[intothecontinuum:
@@ -983,11 +935,11 @@ This year for FILE Electronic Language...]]></title>
             <pubDate>Fri, 19 Aug 2016 00:41:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Do you want to be my colleague?]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/08/19/do-you-want-to-be-my-colleague-2/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/19/do-you-want-to-be-my-colleague-2/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate>
+            <title><![CDATA[Two fuzzy projective lines]]></title>
+            <link>https://pbelmans.wordpress.com/2016/08/18/two-fuzzy-projective-lines/</link>
+            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/18/two-fuzzy-projective-lines/</guid>
+            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
+            <pubDate>Thu, 18 Aug 2016 12:43:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rounded Cross - cross with rounded corners (圓角十字形)]]></title>
@@ -997,13 +949,6 @@ This year for FILE Electronic Language...]]></title>
             <pubDate>Thu, 18 Aug 2016 05:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two fuzzy projective lines]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/08/18/two-fuzzy-projective-lines/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/18/two-fuzzy-projective-lines/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Thu, 18 Aug 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Swim, Girl, Swim -- thirty-five miles]]></title>
             <link>http://poetrywithmathematics.blogspot.com/2016/08/swim-girl-swim-thirty-five-miles.html</link>
             <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2016/08/swim-girl-swim-thirty-five-miles.html</guid>
@@ -1011,18 +956,18 @@ This year for FILE Electronic Language...]]></title>
             <pubDate>Wed, 17 Aug 2016 20:53:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The ICRA award goes to Greg Stevenson and Qiu Yu]]></title>
+            <link>https://pbelmans.wordpress.com/2016/08/17/the-icra-award-goes-to-greg-stevenson-and-qiu-yu/</link>
+            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/17/the-icra-award-goes-to-greg-stevenson-and-qiu-yu/</guid>
+            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
+            <pubDate>Wed, 17 Aug 2016 13:55:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My History of Science Was Wrong]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/QpEsUVOwHH0/149065082661</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/QpEsUVOwHH0/149065082661</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Wed, 17 Aug 2016 05:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ICRA award goes to Greg Stevenson and Qiu Yu]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/08/17/the-icra-award-goes-to-greg-stevenson-and-qiu-yu/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/08/17/the-icra-award-goes-to-greg-stevenson-and-qiu-yu/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Wed, 17 Aug 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[chaosophia218:
@@ -1067,11 +1012,46 @@ Planetary Frequencies.]]></title>
             <pubDate>Mon, 15 Aug 2016 03:00:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cayley’s Nodal Cubic Surface]]></title>
-            <link>http://blogs.ams.org/visualinsight/2016/08/15/cayleys-nodal-cubic-surface/</link>
-            <guid isPermaLink="false">http://blogs.ams.org/visualinsight/2016/08/15/cayleys-nodal-cubic-surface/</guid>
-            <dc:creator><![CDATA[Visual Insight]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2016 01:00:49 GMT</pubDate>
+            <title><![CDATA[When is an algebraic geometer skilful enough?]]></title>
+            <link>https://pbelmans.wordpress.com/2016/08/14/when-is-an-algebraic-geometer-skilful-enough/</link>
+            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/14/when-is-an-algebraic-geometer-skilful-enough/</guid>
+            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
+            <pubDate>Sun, 14 Aug 2016 14:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skewed Fast Food]]></title>
+            <link>http://statpics.blogspot.com/2016/08/skewed-fast-food.html</link>
+            <guid isPermaLink="false">http://statpics.blogspot.com/2016/08/skewed-fast-food.html</guid>
+            <dc:creator><![CDATA[Statpics]]></dc:creator>
+            <pubDate>Mon, 08 Aug 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (16)]]></title>
+            <link>https://pbelmans.wordpress.com/2016/08/07/fortnightly-links-16/</link>
+            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/08/07/fortnightly-links-16/</guid>
+            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
+            <pubDate>Sun, 07 Aug 2016 17:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Distribution on a Cylinder]]></title>
+            <link>http://statpics.blogspot.com/2016/08/a-distribution-on-cylinder.html</link>
+            <guid isPermaLink="false">http://statpics.blogspot.com/2016/08/a-distribution-on-cylinder.html</guid>
+            <dc:creator><![CDATA[Statpics]]></dc:creator>
+            <pubDate>Mon, 01 Aug 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing ncag.info]]></title>
+            <link>https://pbelmans.wordpress.com/2016/07/31/announcing-ncag-info/</link>
+            <guid isPermaLink="false">https://pbelmans.wordpress.com/2016/07/31/announcing-ncag-info/</guid>
+            <dc:creator><![CDATA[On music, computing and math]]></dc:creator>
+            <pubDate>Sun, 31 Jul 2016 16:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salary Dots]]></title>
+            <link>http://statpics.blogspot.com/2016/07/salary-dots.html</link>
+            <guid isPermaLink="false">http://statpics.blogspot.com/2016/07/salary-dots.html</guid>
+            <dc:creator><![CDATA[Statpics]]></dc:creator>
+            <pubDate>Mon, 25 Jul 2016 16:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
