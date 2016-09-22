@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Sep 2016 07:18:28 GMT</lastBuildDate>
-        <pubDate>Thu, 22 Sep 2016 07:18:24 GMT</pubDate>
+        <lastBuildDate>Thu, 22 Sep 2016 08:18:56 GMT</lastBuildDate>
+        <pubDate>Thu, 22 Sep 2016 08:18:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -38,11 +38,25 @@
             <pubDate>Thu, 22 Sep 2016 02:00:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[D=7 super Yang-Mills theory]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">D=7 super Yang-Mills theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 21 Sep 2016 18:37:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[La metamorfosis del señor LeBlanc]]></title>
             <link>http://feedproxy.google.com/~r/gaussianos/~3/aUFR5OKXIUw/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/gaussianos/~3/aUFR5OKXIUw/</guid>
             <dc:creator><![CDATA[Gaussianos]]></dc:creator>
             <pubDate>Wed, 21 Sep 2016 17:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Example: Cohen-Macaulay Ring that is Not Regular]]></title>
+            <link>http://blog.jpolak.org/?p=1720</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1720</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Wed, 21 Sep 2016 10:10:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Generational equivalence]]></title>
@@ -301,20 +315,6 @@ Path 5, Row 47 2014-07-23 at...]]></title>
             <pubDate>Sun, 18 Sep 2016 21:59:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4d supergravity Lie 2-algebra]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">4d supergravity Lie 2-algebra</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2016 21:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Murat Günaydin]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Murat Günaydin</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2016 20:37:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stat of the Week Competition: September 17 – 23 2016]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/Lt33D8vCu64/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/Lt33D8vCu64/</guid>
@@ -383,13 +383,6 @@ Path 5, Row 47 2014-07-23 at...]]></title>
             <guid isPermaLink="false">https://andrescaicedo.wordpress.com/2016/09/17/bogota-september-17-20-2014-50-anos-carrera-de-matematicas-universidad-de-los-andes/</guid>
             <dc:creator><![CDATA[A kind of library]]></dc:creator>
             <pubDate>Sun, 18 Sep 2016 01:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[magic supergravity]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">magic supergravity</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 17 Sep 2016 21:01:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Urgent news from Leicester]]></title>
@@ -1959,13 +1952,6 @@ by Ravi Vakil]]></title>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2016/08/22/off-to-australia/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Mon, 22 Aug 2016 12:18:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The thief package for R: Temporal HIErarchical Forecasting]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/gJeXQk1kzzY/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/gJeXQk1kzzY/</guid>
-            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
-            <pubDate>Mon, 22 Aug 2016 07:58:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Feynman on Physical Law (apropos of Cox's Theorem)]]></title>
