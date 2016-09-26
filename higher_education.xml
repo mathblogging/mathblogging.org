@@ -5,8 +5,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Sep 2016 15:18:02 GMT</lastBuildDate>
-        <pubDate>Mon, 26 Sep 2016 15:17:58 GMT</pubDate>
+        <lastBuildDate>Mon, 26 Sep 2016 18:18:53 GMT</lastBuildDate>
+        <pubDate>Mon, 26 Sep 2016 18:18:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -36,6 +36,13 @@
             <guid isPermaLink="false">http://www.openmathbook.org/2016/09/open-logic-project.html</guid>
             <dc:creator><![CDATA[Open Mathbook]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 00:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Profiling and reducing memory consumption in Python]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/python/2016/09/26/Profiling-and-reducing-memory-consumption-in-python.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/python/2016/09/26/Profiling-and-reducing-memory-consumption-in-python.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dave Radcliffe’s “unit fraction” tweet]]></title>
@@ -437,17 +444,17 @@
             <pubDate>Fri, 09 Sep 2016 12:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Classifying automorphisms of countable trees]]></title>
-            <link>https://scoskey.github.io/classifying-automorphisms-of-countable-trees</link>
-            <guid isPermaLink="false">https://scoskey.github.io/classifying-automorphisms-of-countable-trees</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Fri, 09 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thoughts on going up for tenure... again]]></title>
             <link>/blog/2016/tenure-second-time</link>
             <guid isPermaLink="false">/blog/2016/tenure-second-time</guid>
             <dc:creator><![CDATA[Casting Out Nines]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Classifying automorphisms of countable trees]]></title>
+            <link>https://scoskey.github.io/classifying-automorphisms-of-countable-trees</link>
+            <guid isPermaLink="false">https://scoskey.github.io/classifying-automorphisms-of-countable-trees</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Fri, 09 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -708,13 +715,6 @@
             <guid isPermaLink="false">http://paulwgoldberg.blogspot.com/2016/08/graduate-wage-premium.html</guid>
             <dc:creator><![CDATA[Paul Goldberg]]></dc:creator>
             <pubDate>Sat, 27 Aug 2016 12:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arithmetic progression joke]]></title>
-            <link>https://quomodocumque.wordpress.com/2016/08/26/arithmetic-progression-joke/</link>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/08/26/arithmetic-progression-joke/</guid>
-            <dc:creator><![CDATA[Quomodocumque]]></dc:creator>
-            <pubDate>Fri, 26 Aug 2016 16:54:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Crypto Receipts for Homework]]></title>
