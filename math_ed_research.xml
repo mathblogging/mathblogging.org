@@ -1,20 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Mathblogging.org -- Math Ed Research]]></title>
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Sep 2016 15:18:00 GMT</lastBuildDate>
-        <pubDate>Thu, 29 Sep 2016 15:17:58 GMT</pubDate>
+        <lastBuildDate>Thu, 29 Sep 2016 19:04:20 GMT</lastBuildDate>
+        <pubDate>Thu, 29 Sep 2016 19:04:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Ten Lessons from Ten Years of Blogging]]></title>
+            <link>http://feedproxy.google.com/~r/dydan1/~3/jYVD3lB7Otw/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/dydan1/~3/jYVD3lB7Otw/</guid>
+            <dc:creator><![CDATA[dy/dan]]></dc:creator>
+            <pubDate>Thu, 29 Sep 2016 17:58:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCTM Announces Pro Football Player John Urschel Will Speak at  Annual Meeting and Exposition]]></title>
             <link>http://www.nctm.org/News-and-Calendar/News/NCTM-News-Releases/NCTM-Announces-Pro-Football-Player-John-Urschel-Will-Speak-at--Annual-Meeting-and-Exposition/</link>
             <guid isPermaLink="false">http://www.nctm.org/News-and-Calendar/News/NCTM-News-Releases/NCTM-Announces-Pro-Football-Player-John-Urschel-Will-Speak-at--Annual-Meeting-and-Exposition/</guid>
             <dc:creator><![CDATA[News]]></dc:creator>
             <pubDate>Wed, 28 Sep 2016 09:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New hope for School and District Leaders in Search of Truly Effective Programs]]></title>
+            <link>http://changetheequation.org/blog/new-hope-school-and-district-leaders-search-truly-effective-programs</link>
+            <guid isPermaLink="false">http://changetheequation.org/blog/new-hope-school-and-district-leaders-search-truly-effective-programs</guid>
+            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
+            <pubDate>Tue, 27 Sep 2016 17:05:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ten Years of Blog Comments]]></title>
@@ -276,13 +289,6 @@
             <pubDate>Thu, 01 Sep 2016 14:12:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CBMS and Active Learning]]></title>
-            <link>http://launchings.blogspot.com/2016/09/cbms-and-active-learning.html</link>
-            <guid isPermaLink="false">http://launchings.blogspot.com/2016/09/cbms-and-active-learning.html</guid>
-            <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Christopher Danielson’s “Which One Doesn’t Belong?” Now in Print]]></title>
             <link>http://feedproxy.google.com/~r/dydan1/~3/VvHh7LV4P30/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/dydan1/~3/VvHh7LV4P30/</guid>
@@ -302,13 +308,6 @@
             <guid isPermaLink="false">http://changetheequation.org/blog/new-data-high-schoolers-lack-access-statistics-courses</guid>
             <dc:creator><![CDATA[Change the Equation]]></dc:creator>
             <pubDate>Wed, 31 Aug 2016 14:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A little nervous today]]></title>
-            <link>http://blog.mrwaddell.net/archives/1706</link>
-            <guid isPermaLink="false">http://blog.mrwaddell.net/archives/1706</guid>
-            <dc:creator><![CDATA[Success]]></dc:creator>
-            <pubDate>Mon, 29 Aug 2016 14:42:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

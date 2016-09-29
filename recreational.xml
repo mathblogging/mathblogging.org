@@ -1,14 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Mathblogging.org -- Recreational]]></title>
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Sep 2016 15:18:02 GMT</lastBuildDate>
-        <pubDate>Thu, 29 Sep 2016 15:17:58 GMT</pubDate>
+        <lastBuildDate>Thu, 29 Sep 2016 19:04:21 GMT</lastBuildDate>
+        <pubDate>Thu, 29 Sep 2016 19:04:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Slopefield face]]></title>
+            <link>http://www.10minutemath.com/2016/09/slopefield-face.html</link>
+            <guid isPermaLink="false">http://www.10minutemath.com/2016/09/slopefield-face.html</guid>
+            <dc:creator><![CDATA[10minutemath]]></dc:creator>
+            <pubDate>Thu, 29 Sep 2016 15:19:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[9/29/16]]></title>
             <link>http://purenumbers.tumblr.com/post/151097759020</link>
@@ -36,13 +42,6 @@
             <guid isPermaLink="false">http://www.yummymath.com/2016/steepness-and-fall-hiking/</guid>
             <dc:creator><![CDATA[Yummy Math]]></dc:creator>
             <pubDate>Wed, 28 Sep 2016 12:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Effect of Wire Length on Surge Protector Let-Through Voltage]]></title>
-            <link>http://mathscinotes.com/2016/09/effect-of-wire-length-on-surge-protector-let-through-voltage/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2016/09/effect-of-wire-length-on-surge-protector-let-through-voltage/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Wed, 28 Sep 2016 12:38:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9/28/16]]></title>
@@ -155,6 +154,13 @@
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/getting-closer-pi/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Share from Repository (weekly)]]></title>
+            <link>http://blog.amathknauft.com/2016/09/share-from-repository-weekly_25.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/09/share-from-repository-weekly_25.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2016 22:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 21 Flags Game From Survivor – Game Theory Tuesdays]]></title>
@@ -318,6 +324,13 @@
             <pubDate>Thu, 22 Sep 2016 09:05:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[L'Italia, l'Europa e le opportunità]]></title>
+            <link>http://dionisoo.blogspot.com/2016/09/litalia-leuropa-e-le-opportunita.html</link>
+            <guid isPermaLink="false">http://dionisoo.blogspot.com/2016/09/litalia-leuropa-e-le-opportunita.html</guid>
+            <dc:creator><![CDATA[Blogghetto]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 06:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ΜΑΘΗ..ΜΑΓΙΚΟ ΗΜΕΡΟΛΟΓΙΟ 2017]]></title>
             <link>http://mathhmagic.blogspot.com/2016/09/2017.html</link>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2016/09/2017.html</guid>
@@ -360,6 +373,13 @@
             <pubDate>Wed, 21 Sep 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gli sviluppi urbanistici del quartiere: strade e tranvia]]></title>
+            <link>http://dionisoo.blogspot.com/2016/09/gli-sviluppi-urbanistici-del-quartiere.html</link>
+            <guid isPermaLink="false">http://dionisoo.blogspot.com/2016/09/gli-sviluppi-urbanistici-del-quartiere.html</guid>
+            <dc:creator><![CDATA[Blogghetto]]></dc:creator>
+            <pubDate>Wed, 21 Sep 2016 09:55:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Essence of the HLF, in One Story]]></title>
             <link>https://mathwithbaddrawings.com/2016/09/21/the-essence-of-the-hlf-in-one-story/</link>
             <guid isPermaLink="false">https://mathwithbaddrawings.com/2016/09/21/the-essence-of-the-hlf-in-one-story/</guid>
@@ -379,6 +399,13 @@
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-stretch-indeed/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Wed, 21 Sep 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[octagonal star and monster tilings]]></title>
+            <link>http://feedproxy.google.com/~r/Mathrecreation/~3/s-rHwKI-qCg/octagonal-star-and-monster-tilings.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Mathrecreation/~3/s-rHwKI-qCg/octagonal-star-and-monster-tilings.html</guid>
+            <dc:creator><![CDATA[mathrecreation]]></dc:creator>
+            <pubDate>Wed, 21 Sep 2016 02:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[octagonal star and monster tilings]]></title>
@@ -521,6 +548,13 @@
             <pubDate>Mon, 19 Sep 2016 00:00:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Share from Repository (weekly)]]></title>
+            <link>http://blog.amathknauft.com/2016/09/share-from-repository-weekly_18.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/09/share-from-repository-weekly_18.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 22:31:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can You Solve This 1869 MIT Admissions Geometry Question? Sunday Puzzle]]></title>
             <link>http://feedproxy.google.com/~r/mindyourdecisions/~3/sjmq8iuIzJI/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mindyourdecisions/~3/sjmq8iuIzJI/</guid>
@@ -598,11 +632,25 @@
             <pubDate>Sat, 17 Sep 2016 12:30:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Friday Fun: K-Mean Image Segmentation]]></title>
+            <link>http://blog.amathknauft.com/2016/09/friday-fun-k-mean-image-segmentation.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/09/friday-fun-k-mean-image-segmentation.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Sat, 17 Sep 2016 05:40:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A few weeks ago, I gave a short presentation to my university’s...]]></title>
             <link>http://themathkid.tumblr.com/post/150513573449</link>
             <guid isPermaLink="false">http://themathkid.tumblr.com/post/150513573449</guid>
             <dc:creator><![CDATA[The Math Kid]]></dc:creator>
             <pubDate>Sat, 17 Sep 2016 00:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Further Still On The Wealth Of Stations - student]]></title>
+            <link>http://www.thusspakeak.com/student/2016/09/01-FurtherStillOnTheWealthOfStations.html</link>
+            <guid isPermaLink="false">http://www.thusspakeak.com/student/2016/09/01-FurtherStillOnTheWealthOfStations.html</guid>
+            <dc:creator><![CDATA[thus spake a.k.]]></dc:creator>
+            <pubDate>Fri, 16 Sep 2016 19:17:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cray-Cray!]]></title>
@@ -698,6 +746,13 @@ SOMEI]]></title>
             <pubDate>Thu, 15 Sep 2016 03:04:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[islamic geometric patterns of Eric Broug]]></title>
+            <link>http://feedproxy.google.com/~r/Mathrecreation/~3/KE0rrjyVMJg/islamic-geometric-patterns-of-eric-broug.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Mathrecreation/~3/KE0rrjyVMJg/islamic-geometric-patterns-of-eric-broug.html</guid>
+            <dc:creator><![CDATA[mathrecreation]]></dc:creator>
+            <pubDate>Thu, 15 Sep 2016 03:04:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Programmer’s Intuition for Matrix Multiplication]]></title>
             <link>http://feedproxy.google.com/~r/Betterexplained/~3/ZKKbSkmYYhI/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Betterexplained/~3/ZKKbSkmYYhI/</guid>
@@ -710,6 +765,13 @@ SOMEI]]></title>
             <guid isPermaLink="false">http://mathscinotes.com/2016/09/quick-look-at-a-high-power-poe-graph/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Wed, 14 Sep 2016 16:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[鶯啼序·丙申中秋即景]]></title>
+            <link>https://zx31415.wordpress.com/2016/09/14/%e9%b6%af%e5%95%bc%e5%ba%8f%c2%b7%e4%b8%99%e7%94%b3%e4%b8%ad%e7%a7%8b%e5%8d%b3%e6%99%af/</link>
+            <guid isPermaLink="false">https://zx31415.wordpress.com/2016/09/14/%e9%b6%af%e5%95%bc%e5%ba%8f%c2%b7%e4%b8%99%e7%94%b3%e4%b8%ad%e7%a7%8b%e5%8d%b3%e6%99%af/</guid>
+            <dc:creator><![CDATA[Fight with Infinity]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 15:12:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9/14/16]]></title>
@@ -745,6 +807,13 @@ SOMEI]]></title>
             <guid isPermaLink="false">https://mathwithbaddrawings.com/2016/09/14/if-nfl-referees-behaved-like-academic-referees/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
             <pubDate>Wed, 14 Sep 2016 04:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unemployed]]></title>
+            <link>http://blog.amathknauft.com/2016/09/unemployed.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/09/unemployed.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 02:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9/13/16]]></title>
@@ -787,6 +856,13 @@ SOMEI]]></title>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/some-interesting-confusion/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 12 Sep 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Share from Repository (weekly)]]></title>
+            <link>http://blog.amathknauft.com/2016/09/share-from-repository-weekly_11.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/09/share-from-repository-weekly_11.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Sun, 11 Sep 2016 22:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tripping Up Your Brain]]></title>
@@ -838,6 +914,13 @@ SOMEI]]></title>
             <pubDate>Sat, 10 Sep 2016 23:00:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Confiture de circulation]]></title>
+            <link>http://brouillondepoulet.blogspot.com/2016/09/confiture-de-circulation.html</link>
+            <guid isPermaLink="false">http://brouillondepoulet.blogspot.com/2016/09/confiture-de-circulation.html</guid>
+            <dc:creator><![CDATA[Brouillon de poulet pour l'âne]]></dc:creator>
+            <pubDate>Sat, 10 Sep 2016 21:27:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ABC and FLT]]></title>
             <link>http://bit-player.org/2016/abc-and-flt</link>
             <guid isPermaLink="false">http://bit-player.org/2016/abc-and-flt</guid>
@@ -850,6 +933,20 @@ SOMEI]]></title>
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/150209712491</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Sat, 10 Sep 2016 12:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[www.chihapauradellamatematica.org]]></title>
+            <link>http://www.angelostella.it/www-chihapauradellamatematica-org/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/www-chihapauradellamatematica-org/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 21:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Progetto Matematica]]></title>
+            <link>http://www.angelostella.it/progetto-matematica/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/progetto-matematica/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 21:49:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carat vs. Karat]]></title>
@@ -915,11 +1012,25 @@ SOMEI]]></title>
             <pubDate>Thu, 08 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[调查]]></title>
+            <link>https://zx31415.wordpress.com/2016/09/08/%e8%b0%83%e6%9f%a5/</link>
+            <guid isPermaLink="false">https://zx31415.wordpress.com/2016/09/08/%e8%b0%83%e6%9f%a5/</guid>
+            <dc:creator><![CDATA[Fight with Infinity]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 01:28:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alexander Shapovalov Crosses a River]]></title>
             <link>http://blog.tanyakhovanova.com/2016/09/alexander-shapovalov-crosses-a-river/</link>
             <guid isPermaLink="false">http://blog.tanyakhovanova.com/2016/09/alexander-shapovalov-crosses-a-river/</guid>
             <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
             <pubDate>Wed, 07 Sep 2016 21:33:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chirù]]></title>
+            <link>http://dionisoo.blogspot.com/2016/09/chiru.html</link>
+            <guid isPermaLink="false">http://dionisoo.blogspot.com/2016/09/chiru.html</guid>
+            <dc:creator><![CDATA[Blogghetto]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2016 15:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open-Drain Comparator Circuit With Settable Trigger and Output Levels]]></title>
@@ -999,16 +1110,23 @@ SOMEI]]></title>
             <pubDate>Mon, 05 Sep 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[News catches up with Economists]]></title>
-            <link>http://mysliceofpizza.blogspot.com/2016/09/news-catches-up-with-economists_4.html</link>
-            <guid isPermaLink="false">http://mysliceofpizza.blogspot.com/2016/09/news-catches-up-with-economists_4.html</guid>
-            <dc:creator><![CDATA[my slice of pizza]]></dc:creator>
-            <pubDate>Sun, 04 Sep 2016 20:47:00 GMT</pubDate>
+            <title><![CDATA[Share from Repository (weekly)]]></title>
+            <link>http://blog.amathknauft.com/2016/09/share-from-repository-weekly.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2016/09/share-from-repository-weekly.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 22:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life Plans Defeated]]></title>
             <link>http://mysliceofpizza.blogspot.com/2016/09/life-plans-defeated.html</link>
             <guid isPermaLink="false">http://mysliceofpizza.blogspot.com/2016/09/life-plans-defeated.html</guid>
+            <dc:creator><![CDATA[my slice of pizza]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 20:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[News catches up with Economists]]></title>
+            <link>http://mysliceofpizza.blogspot.com/2016/09/news-catches-up-with-economists_4.html</link>
+            <guid isPermaLink="false">http://mysliceofpizza.blogspot.com/2016/09/news-catches-up-with-economists_4.html</guid>
             <dc:creator><![CDATA[my slice of pizza]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 20:47:00 GMT</pubDate>
         </item>
@@ -1030,8 +1148,29 @@ SOMEI]]></title>
             <title><![CDATA[Photomath can read my writing]]></title>
             <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photomath can read my writing]]></title>
+            <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
+            <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
             <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analisi matematica]]></title>
+            <link>http://www.angelostella.it/analisi-matematica/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/analisi-matematica/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 08:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Hebdo e terremoto: è satira?]]></title>
+            <link>http://dionisoo.blogspot.com/2016/09/charlie-hebdo-e-terremoto-e-satira.html</link>
+            <guid isPermaLink="false">http://dionisoo.blogspot.com/2016/09/charlie-hebdo-e-terremoto-e-satira.html</guid>
+            <dc:creator><![CDATA[Blogghetto]]></dc:creator>
+            <pubDate>Sat, 03 Sep 2016 21:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[August 2016 Common Core Algebra 1 Regents, Parts 3 and 4]]></title>
@@ -1053,6 +1192,20 @@ SOMEI]]></title>
             <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/ipOVmnqB_2M/</guid>
             <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Sat, 03 Sep 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Halton, Here's A Pseud - a.k.]]></title>
+            <link>http://www.thusspakeak.com/ak/2016/09/01-HaltonHeresAPseud.html</link>
+            <guid isPermaLink="false">http://www.thusspakeak.com/ak/2016/09/01-HaltonHeresAPseud.html</guid>
+            <dc:creator><![CDATA[thus spake a.k.]]></dc:creator>
+            <pubDate>Fri, 02 Sep 2016 17:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Day 2: A Level Maths and Further Maths]]></title>
+            <link>http://walkthroughmaths.blogspot.com/2016/09/day-2-level-maths-and-further-maths.html</link>
+            <guid isPermaLink="false">http://walkthroughmaths.blogspot.com/2016/09/day-2-level-maths-and-further-maths.html</guid>
+            <dc:creator><![CDATA[A Drunkard's Walk Through Mathematics]]></dc:creator>
+            <pubDate>Fri, 02 Sep 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Curious...? Any Ideas?]]></title>
@@ -1083,6 +1236,13 @@ SOMEI]]></title>
             <pubDate>Thu, 01 Sep 2016 16:23:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Day 1: Preparing for University, An Introduction]]></title>
+            <link>http://walkthroughmaths.blogspot.com/2016/09/day-1-preparing-for-university.html</link>
+            <guid isPermaLink="false">http://walkthroughmaths.blogspot.com/2016/09/day-1-preparing-for-university.html</guid>
+            <dc:creator><![CDATA[A Drunkard's Walk Through Mathematics]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[August 2016 Common Core Algebra 1 Regents, Part 2]]></title>
             <link>http://mrburkemath.blogspot.com/2016/09/august-2016-common-core-algebra-1.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/09/august-2016-common-core-algebra-1.html</guid>
@@ -1095,6 +1255,13 @@ SOMEI]]></title>
             <guid isPermaLink="false">http://aperiodical.com/2016/09/do-you-use-mixed-fractions/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 01 Sep 2016 13:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[月旦 Ⅶ]]></title>
+            <link>https://zx31415.wordpress.com/2016/09/01/%e6%9c%88%e6%97%a6-%e2%85%a6/</link>
+            <guid isPermaLink="false">https://zx31415.wordpress.com/2016/09/01/%e6%9c%88%e6%97%a6-%e2%85%a6/</guid>
+            <dc:creator><![CDATA[Fight with Infinity]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 12:00:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Review: Weapons of Math Destruction]]></title>
@@ -1139,6 +1306,20 @@ SOMEI]]></title>
             <pubDate>Wed, 31 Aug 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Anna Ippolito – Matematica]]></title>
+            <link>http://www.angelostella.it/anna-ippolito-matematica/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/anna-ippolito-matematica/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2016 17:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5B matematica – Professoressa Corona Paola]]></title>
+            <link>http://www.angelostella.it/5b-matematica-professoressa-corona-paola/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/5b-matematica-professoressa-corona-paola/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2016 17:41:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Carnival of Mathematics 137]]></title>
             <link>http://aperiodical.com/2016/08/carnival-of-mathematics-137/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/08/carnival-of-mathematics-137/</guid>
@@ -1165,6 +1346,48 @@ SOMEI]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Betterexplained/~3/b-IcwhOsit4/</guid>
             <dc:creator><![CDATA[BetterExplained]]></dc:creator>
             <pubDate>Mon, 29 Aug 2016 22:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Terremoto Centro Italia - Come donare e altre informazioni]]></title>
+            <link>http://dionisoo.blogspot.com/2016/08/terremoto-centro-italia-come-donare-e.html</link>
+            <guid isPermaLink="false">http://dionisoo.blogspot.com/2016/08/terremoto-centro-italia-come-donare-e.html</guid>
+            <dc:creator><![CDATA[Blogghetto]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2016 15:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Age of Presidents at Inauguration]]></title>
+            <link>http://mathscinotes.com/2016/08/age-of-presidents-at-inauguration/</link>
+            <guid isPermaLink="false">http://mathscinotes.com/2016/08/age-of-presidents-at-inauguration/</guid>
+            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2016 03:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fibonacci – Sezione Aurea – Quello Che Gli Occhi Non Vedono]]></title>
+            <link>http://www.angelostella.it/fibonacci-sezione-aurea-quello-che-gli-occhi-non-vedono/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/fibonacci-sezione-aurea-quello-che-gli-occhi-non-vedono/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 18:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L’uomo che vide l’infinito – YouTube]]></title>
+            <link>http://www.angelostella.it/luomo-che-vide-linfinito-youtube/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/luomo-che-vide-linfinito-youtube/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2016 07:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Una proposta di ordinamento olimpico di Simon Tatham]]></title>
+            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/YbqXak6Sp8k/una-proposta-di-ordinamento-olimpico-di.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/YbqXak6Sp8k/una-proposta-di-ordinamento-olimpico-di.html</guid>
+            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
+            <pubDate>Tue, 23 Aug 2016 19:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Come di consueto, classifiche olimpiche]]></title>
+            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/OqZx04s8Tes/come-di-consueto-classifiche-olimpiche.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/OqZx04s8Tes/come-di-consueto-classifiche-olimpiche.html</guid>
+            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
+            <pubDate>Tue, 23 Aug 2016 13:02:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

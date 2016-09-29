@@ -1,14 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Mathblogging.org -- Journalism]]></title>
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Sep 2016 15:18:01 GMT</lastBuildDate>
-        <pubDate>Thu, 29 Sep 2016 15:17:58 GMT</pubDate>
+        <lastBuildDate>Thu, 29 Sep 2016 19:04:20 GMT</lastBuildDate>
+        <pubDate>Thu, 29 Sep 2016 19:04:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[“En busca de la caja perfecta”, nuevo artículo en “El Aleph”]]></title>
+            <link>http://feedproxy.google.com/~r/gaussianos/~3/JjhPtMRwsGI/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/gaussianos/~3/JjhPtMRwsGI/</guid>
+            <dc:creator><![CDATA[Gaussianos]]></dc:creator>
+            <pubDate>Thu, 29 Sep 2016 18:32:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scientist faces off with PubPeer commenters in new hearing next week]]></title>
+            <link>http://retractionwatch.com/2016/09/29/scientist-faces-off-with-pubpeer-commenters-in-new-hearing-next-week/</link>
+            <guid isPermaLink="false">http://retractionwatch.com/2016/09/29/scientist-faces-off-with-pubpeer-commenters-in-new-hearing-next-week/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Thu, 29 Sep 2016 18:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MEDLINE/PubMed will stop identifying partial retractions. Here’s why.]]></title>
+            <link>http://retractionwatch.com/2016/09/29/medlinepubmed-will-stop-identifying-partial-retractions-heres-why/</link>
+            <guid isPermaLink="false">http://retractionwatch.com/2016/09/29/medlinepubmed-will-stop-identifying-partial-retractions-heres-why/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Thu, 29 Sep 2016 15:30:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Polls and Sampling Errors in the Presidental Debate Results]]></title>
             <link>http://www.goodmath.org/blog/2016/09/29/polls-and-sampling-errors-in-the-presidental-debate-results/</link>
@@ -32,7 +52,7 @@
         </item>
         <item>
             <title><![CDATA[Il problema di settembre (577) - L’età delle signore]]></title>
-            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2016/09/29/il-problema-di-settembre-577-l%25e2%2580%2599eta-delle-signore/</link>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2016/09/29/il-problema-di-settembre-577-l%e2%80%99eta-delle-signore/</link>
             <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2016/09/29/il-problema-di-settembre-577-l%e2%80%99eta-delle-signore/</guid>
             <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
             <pubDate>Thu, 29 Sep 2016 05:00:24 GMT</pubDate>
@@ -108,6 +128,13 @@
             <pubDate>Tue, 27 Sep 2016 17:58:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New hope for School and District Leaders in Search of Truly Effective Programs]]></title>
+            <link>http://changetheequation.org/blog/new-hope-school-and-district-leaders-search-truly-effective-programs</link>
+            <guid isPermaLink="false">http://changetheequation.org/blog/new-hope-school-and-district-leaders-search-truly-effective-programs</guid>
+            <dc:creator><![CDATA[Change the Equation]]></dc:creator>
+            <pubDate>Tue, 27 Sep 2016 17:05:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reviewers may rate papers differently when blinded to authors’ identities, new study says]]></title>
             <link>http://retractionwatch.com/2016/09/27/reviewers-may-rate-papers-differently-when-blinded-to-authors-identities-new-study-says/</link>
             <guid isPermaLink="false">http://retractionwatch.com/2016/09/27/reviewers-may-rate-papers-differently-when-blinded-to-authors-identities-new-study-says/</guid>
@@ -148,20 +175,6 @@
             <guid isPermaLink="false">http://retractionwatch.com/2016/09/26/data-were-fraudulently-obtained-in-epilepsy-paper-probe-finds/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 15:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coding error sinks cancer study]]></title>
-            <link>http://retractionwatch.com/2016/09/26/coding-error-sinks-cancer-study/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2016/09/26/coding-error-sinks-cancer-study/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 13:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Error in one line of code sinks cancer study]]></title>
-            <link>http://retractionwatch.com/2016/09/26/error-in-one-line-of-code-sinks-2016-seer-cancer-study/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2016/09/26/error-in-one-line-of-code-sinks-2016-seer-cancer-study/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 13:30:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Have you heard? The maths of rumour spreading]]></title>
@@ -437,7 +450,7 @@
             <pubDate>Fri, 16 Sep 2016 12:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mind the Gaps: Improving the Science in Wikipedia]]></title>
+            <title><![CDATA[Mind the Gaps: Improving the Science on Wikipedia]]></title>
             <link>http://www.simonsfoundation.org/features/foundation-news/mind-the-gaps-improving-the-science-in-wikipedia/</link>
             <guid isPermaLink="false">http://www.simonsfoundation.org/features/foundation-news/mind-the-gaps-improving-the-science-in-wikipedia/</guid>
             <dc:creator><![CDATA[Simons FoundationSimons Foundation]]></dc:creator>
@@ -794,6 +807,13 @@
             <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Photomath can read my writing]]></title>
+            <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
+            <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Converting between Addition and Multiplication Makes Math Easier]]></title>
             <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/ipOVmnqB_2M/</link>
             <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/ipOVmnqB_2M/</guid>
@@ -918,27 +938,6 @@
             <guid isPermaLink="false">http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04694nv.mp3</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Tue, 30 Aug 2016 08:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Few Problems - 1]]></title>
-            <link>http://feedproxy.google.com/~r/GonitSora/~3/LeRsmdpk1wk/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/GonitSora/~3/LeRsmdpk1wk/</guid>
-            <dc:creator><![CDATA[Gonit Sora]]></dc:creator>
-            <pubDate>Mon, 29 Aug 2016 18:54:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t Worry, Math Is Still Everywhere]]></title>
-            <link>http://blogs.ams.org/blogonmathblogs/2016/08/29/dont-worry-math-is-still-everywhere/</link>
-            <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2016/08/29/dont-worry-math-is-still-everywhere/</guid>
-            <dc:creator><![CDATA[Blog on math blogs]]></dc:creator>
-            <pubDate>Mon, 29 Aug 2016 14:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mathe-Apps XIII: Knowre]]></title>
-            <link>http://scienceblogs.de/mathlog/2016/08/29/mathe-apps-xiii-knowre/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mathe-apps-xiii-knowre</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2016/08/29/mathe-apps-xiii-knowre/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mathe-apps-xiii-knowre</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Mon, 29 Aug 2016 04:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

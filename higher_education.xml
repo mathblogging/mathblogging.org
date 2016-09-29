@@ -1,20 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Mathblogging.org -- Higher Education]]></title>
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Sep 2016 15:18:02 GMT</lastBuildDate>
-        <pubDate>Thu, 29 Sep 2016 15:17:58 GMT</pubDate>
+        <lastBuildDate>Thu, 29 Sep 2016 19:04:21 GMT</lastBuildDate>
+        <pubDate>Thu, 29 Sep 2016 19:04:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Give a second order statement true in (R,+) but false in (Q,+) or show there isn't one]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/09/give-second-order-statement-true-in-r.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/09/give-second-order-statement-true-in-r.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 29 Sep 2016 17:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Backre(action): nice blog]]></title>
             <link>https://mattersmathematical.wordpress.com/2016/09/29/backreaction-nice-blog/</link>
             <guid isPermaLink="false">https://mattersmathematical.wordpress.com/2016/09/29/backreaction-nice-blog/</guid>
             <dc:creator><![CDATA[Matters Mathematical]]></dc:creator>
             <pubDate>Thu, 29 Sep 2016 14:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[advanced computational methods for complex models in Biology [talk]]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/29/advanced-computational-methods-for-complex-models-in-biology-talk/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/29/advanced-computational-methods-for-complex-models-in-biology-talk/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Wed, 28 Sep 2016 22:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Nöbeling discover toposes?]]></title>
+            <link>http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/NlYfplGIwxU/did-nobeling-discover-toposes</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/NlYfplGIwxU/did-nobeling-discover-toposes</guid>
+            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
+            <pubDate>Wed, 28 Sep 2016 20:45:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A New Kind of Circle: Math Circle at Graterford Prison]]></title>
@@ -38,6 +58,13 @@
             <pubDate>Wed, 28 Sep 2016 14:18:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[G11FPM Foundations of Pure Mathematics Video Archives]]></title>
+            <link>https://explainingmaths.wordpress.com/2016/09/28/g11fpm-foundations-of-pure-mathematics-video-archives/</link>
+            <guid isPermaLink="false">https://explainingmaths.wordpress.com/2016/09/28/g11fpm-foundations-of-pure-mathematics-video-archives/</guid>
+            <dc:creator><![CDATA[Explaining mathematics]]></dc:creator>
+            <pubDate>Wed, 28 Sep 2016 12:52:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Latin@s and Hispanics in the Mathematical Sciences]]></title>
             <link>http://math.williams.edu/latins-and-hispanics-in-the-mathematical-sciences/</link>
             <guid isPermaLink="false">http://math.williams.edu/latins-and-hispanics-in-the-mathematical-sciences/</guid>
@@ -50,6 +77,20 @@
             <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2016/09/27/struggling-through-a-geometry-problem/</guid>
             <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
             <pubDate>Tue, 27 Sep 2016 22:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[stability of noisy Metropolis-Hastings]]></title>
+            <link>https://xianblog.wordpress.com/2016/09/28/stability-of-noisy-metropolis-hastings-2/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/28/stability-of-noisy-metropolis-hastings-2/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 27 Sep 2016 22:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Standards-based Linear Algebra]]></title>
+            <link>http://blogs.cofc.edu/owensks/2016/09/27/standards-based-linear-algebra/</link>
+            <guid isPermaLink="false">http://blogs.cofc.edu/owensks/2016/09/27/standards-based-linear-algebra/</guid>
+            <dc:creator><![CDATA[Kate S. Owens]]></dc:creator>
+            <pubDate>Tue, 27 Sep 2016 18:31:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Verpaßte Gelegenheiten (Physik und Geometrie)]]></title>
@@ -136,6 +177,13 @@
             <pubDate>Sun, 25 Sep 2016 13:08:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Problem of the week, 161]]></title>
+            <link>https://wdjoyner.wordpress.com/2016/09/24/problem-of-the-week-161/</link>
+            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/09/24/problem-of-the-week-161/</guid>
+            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2016 00:59:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Borel complexity theory in mathematics]]></title>
             <link>https://scoskey.github.io/borel-complexity-theory-in-mathematics</link>
             <guid isPermaLink="false">https://scoskey.github.io/borel-complexity-theory-in-mathematics</guid>
@@ -155,6 +203,13 @@
             <guid isPermaLink="false">https://www.sunclipse.org/?p=2179</guid>
             <dc:creator><![CDATA[Science After Sunclipse]]></dc:creator>
             <pubDate>Sat, 24 Sep 2016 21:55:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where are Grothendieck’s writings?]]></title>
+            <link>http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/e1C1bzIyLGY/where-are-grothendiecks-writings</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/e1C1bzIyLGY/where-are-grothendiecks-writings</guid>
+            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
+            <pubDate>Sat, 24 Sep 2016 15:05:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Revisiting James Tanton’s base 3/2 exercise]]></title>
@@ -248,6 +303,13 @@
             <pubDate>Thu, 22 Sep 2016 10:27:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The hard problem of AI and other stories]]></title>
+            <link>http://notstatschat.tumblr.com/post/150767812506</link>
+            <guid isPermaLink="false">http://notstatschat.tumblr.com/post/150767812506</guid>
+            <dc:creator><![CDATA[Biased and Inefficient]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 10:23:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Good question]]></title>
             <link>https://mattersmathematical.wordpress.com/2016/09/22/good-question/</link>
             <guid isPermaLink="false">https://mattersmathematical.wordpress.com/2016/09/22/good-question/</guid>
@@ -263,8 +325,8 @@
         </item>
         <item>
             <title><![CDATA[Meaning and Algorithms]]></title>
-            <link>https://mattcoaty.com/2016/09/21/meaning-and-algorithms/</link>
-            <guid isPermaLink="false">https://mattcoaty.com/2016/09/21/meaning-and-algorithms/</guid>
+            <link>http://feedproxy.google.com/~r/EducationalAspirations/~3/2Bfat3Rbafo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/EducationalAspirations/~3/2Bfat3Rbafo/</guid>
             <dc:creator><![CDATA[Matt Coaty]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 00:38:25 GMT</pubDate>
         </item>
@@ -274,6 +336,13 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/22/monte-carlo-with-determinantal-processes-reply-from-the-authors/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Wed, 21 Sep 2016 22:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The oracle on the symmetries of roots]]></title>
+            <link>http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/X80cjAyQvVE/the-oracle-on-the-symmetries-of-roots</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/X80cjAyQvVE/the-oracle-on-the-symmetries-of-roots</guid>
+            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
+            <pubDate>Wed, 21 Sep 2016 20:17:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blind people use brain’s visual cortex to help do maths]]></title>
@@ -304,13 +373,6 @@
             <pubDate>Tue, 20 Sep 2016 19:28:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chateau Puech-Haut]]></title>
-            <link>https://xianblog.wordpress.com/2016/09/20/chateau-puech-haut/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/20/chateau-puech-haut/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Tue, 20 Sep 2016 18:20:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Mathematics Department at Leicester University]]></title>
             <link>https://mattersmathematical.wordpress.com/2016/09/20/the-mathematics-department-at-leicester-university/</link>
             <guid isPermaLink="false">https://mattersmathematical.wordpress.com/2016/09/20/the-mathematics-department-at-leicester-university/</guid>
@@ -330,13 +392,6 @@
             <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/09/19/such-shall-not-become-the-degradation-of-wisconsin/</guid>
             <dc:creator><![CDATA[Quomodocumque]]></dc:creator>
             <pubDate>Tue, 20 Sep 2016 04:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bayesian model selection without evidence]]></title>
-            <link>https://xianblog.wordpress.com/2016/09/20/bayesian-model-selection-without-evidence/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/20/bayesian-model-selection-without-evidence/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 22:16:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More Linear Algebra, Please]]></title>
@@ -388,11 +443,25 @@
             <pubDate>Sun, 18 Sep 2016 16:53:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[adage confirmed]]></title>
+            <link>https://vlorbik.wordpress.com/2016/09/18/adage-confirmed/</link>
+            <guid isPermaLink="false">https://vlorbik.wordpress.com/2016/09/18/adage-confirmed/</guid>
+            <dc:creator><![CDATA[vlorbik.wordpress.com]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 16:28:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Olivier Gerard: Learning mathematics as a Russian interpreter]]></title>
             <link>http://education.lms.ac.uk/2016/09/olivier-gerard-learning-mathematics-as-a-russian-interpreter/</link>
             <guid isPermaLink="false">http://education.lms.ac.uk/2016/09/olivier-gerard-learning-mathematics-as-a-russian-interpreter/</guid>
             <dc:creator><![CDATA[The De Morgan Forum]]></dc:creator>
             <pubDate>Sun, 18 Sep 2016 16:04:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem of the week, 137]]></title>
+            <link>https://wdjoyner.wordpress.com/2016/09/18/problem-of-the-week-137/</link>
+            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/09/18/problem-of-the-week-137/</guid>
+            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 15:26:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to raise a genius: lessons from a 45-year study of super-smart children]]></title>
@@ -428,6 +497,27 @@
             <guid isPermaLink="false">https://andrescaicedo.wordpress.com/2016/09/17/bogota-september-17-20-2014-50-anos-carrera-de-matematicas-universidad-de-los-andes/</guid>
             <dc:creator><![CDATA[A kind of library]]></dc:creator>
             <pubDate>Sun, 18 Sep 2016 01:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem of the week, 148]]></title>
+            <link>https://wdjoyner.wordpress.com/2016/09/17/problem-of-the-week-148/</link>
+            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/09/17/problem-of-the-week-148/</guid>
+            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 01:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem of the week, 150]]></title>
+            <link>https://wdjoyner.wordpress.com/2016/09/17/problem-of-the-week-150/</link>
+            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/09/17/problem-of-the-week-150/</guid>
+            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 01:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Le Roi des Catalans (2ème partie)]]></title>
+            <link>https://blogdemaths.wordpress.com/2016/09/18/le-roi-des-catalans-2eme-partie/</link>
+            <guid isPermaLink="false">https://blogdemaths.wordpress.com/2016/09/18/le-roi-des-catalans-2eme-partie/</guid>
+            <dc:creator><![CDATA[Blogdemaths]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 00:24:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Talking through Matt Enlow’s “truth” tweet with my older son]]></title>
@@ -556,6 +646,13 @@
             <pubDate>Thu, 15 Sep 2016 02:23:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Releasing a book… one chapter at a time (linear algebra study guide)]]></title>
+            <link>http://www.jerimiannwalker.com/releasing-a-book-one-chapter-at-a-time-linear-algebra-study-guide/</link>
+            <guid isPermaLink="false">http://www.jerimiannwalker.com/releasing-a-book-one-chapter-at-a-time-linear-algebra-study-guide/</guid>
+            <dc:creator><![CDATA[jerimi ann walker]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 22:21:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Students unlock the secrets of cryptography]]></title>
             <link>http://news.mit.edu/2016/students-unlock-secrets-of-cryptography-0914</link>
             <guid isPermaLink="false">http://news.mit.edu/2016/students-unlock-secrets-of-cryptography-0914</guid>
@@ -619,9 +716,16 @@
             <pubDate>Tue, 13 Sep 2016 09:39:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Instructional Design for Vocabulary in Higher Ed (Part 1)]]></title>
+            <link>http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</guid>
+            <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 05:24:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Math Puzzles]]></title>
-            <link>https://mattcoaty.com/2016/09/12/math-puzzles/</link>
-            <guid isPermaLink="false">https://mattcoaty.com/2016/09/12/math-puzzles/</guid>
+            <link>http://feedproxy.google.com/~r/EducationalAspirations/~3/CtbMTQccnzo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/EducationalAspirations/~3/CtbMTQccnzo/</guid>
             <dc:creator><![CDATA[Matt Coaty]]></dc:creator>
             <pubDate>Mon, 12 Sep 2016 21:28:41 GMT</pubDate>
         </item>
@@ -724,6 +828,13 @@
             <pubDate>Fri, 09 Sep 2016 12:14:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ejemplo del Método Simplex (Tutorial y Cómo Funciona)]]></title>
+            <link>http://feedproxy.google.com/~r/gestiondeoperaciones/~3/4wDqF0THDq4/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/gestiondeoperaciones/~3/4wDqF0THDq4/</guid>
+            <dc:creator><![CDATA[Gestión de Operaciones]]></dc:creator>
+            <pubDate>Fri, 09 Sep 2016 03:41:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Classifying automorphisms of countable trees]]></title>
             <link>https://scoskey.github.io/classifying-automorphisms-of-countable-trees</link>
             <guid isPermaLink="false">https://scoskey.github.io/classifying-automorphisms-of-countable-trees</guid>
@@ -738,11 +849,25 @@
             <pubDate>Fri, 09 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Odd king tours on even chessboards]]></title>
+            <link>https://wdjoyner.wordpress.com/2016/09/08/odd-king-tours-on-even-chessboards/</link>
+            <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/09/08/odd-king-tours-on-even-chessboards/</guid>
+            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 13:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Warum Moslems für das Leben in Mitteleuropa ungeeignet sind]]></title>
             <link>http://scienceblogs.de/mathlog/2016/09/08/warum-moslems-fr-das-leben-in-mitteleuropa-ungeeignet-sind/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=warum-moslems-fr-das-leben-in-mitteleuropa-ungeeignet-sind</link>
             <guid isPermaLink="false">http://scienceblogs.de/mathlog/2016/09/08/warum-moslems-fr-das-leben-in-mitteleuropa-ungeeignet-sind/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=warum-moslems-fr-das-leben-in-mitteleuropa-ungeeignet-sind</guid>
             <dc:creator><![CDATA[Mathlog]]></dc:creator>
             <pubDate>Thu, 08 Sep 2016 12:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Come work with us]]></title>
+            <link>http://notstatschat.tumblr.com/post/150103235781</link>
+            <guid isPermaLink="false">http://notstatschat.tumblr.com/post/150103235781</guid>
+            <dc:creator><![CDATA[Biased and Inefficient]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 02:43:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alexander Shapovalov Crosses a River]]></title>
@@ -771,6 +896,13 @@
             <guid isPermaLink="false">http://math.andrej.com/2016/09/07/the-new-and-improved-programming-languages-zoo/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Wed, 07 Sep 2016 08:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On permuting all the things]]></title>
+            <link>http://notstatschat.tumblr.com/post/150049122281</link>
+            <guid isPermaLink="false">http://notstatschat.tumblr.com/post/150049122281</guid>
+            <dc:creator><![CDATA[Biased and Inefficient]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 22:55:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK Fluids 2016]]></title>
@@ -808,6 +940,13 @@
             <pubDate>Tue, 06 Sep 2016 03:19:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The nature of mathematics and statistics and what it means to learn and teach them]]></title>
+            <link>https://learnandteachstatistics.wordpress.com/2016/09/06/philosophical_thoughts/</link>
+            <guid isPermaLink="false">https://learnandteachstatistics.wordpress.com/2016/09/06/philosophical_thoughts/</guid>
+            <dc:creator><![CDATA[Learn and Teach Statistics and Operations Research]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2016 00:52:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[QS ranks MIT the world’s top university for 2016-17]]></title>
             <link>http://news.mit.edu/2016/qs-ranks-mit-top-university-2016-17-0905</link>
             <guid isPermaLink="false">http://news.mit.edu/2016/qs-ranks-mit-top-university-2016-17-0905</guid>
@@ -829,6 +968,13 @@
             <pubDate>Mon, 05 Sep 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ejemplo del Algoritmo de Wagner y Whitin (Sistemas de Loteo)]]></title>
+            <link>http://feedproxy.google.com/~r/gestiondeoperaciones/~3/wgKWui6OkTg/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/gestiondeoperaciones/~3/wgKWui6OkTg/</guid>
+            <dc:creator><![CDATA[Gestión de Operaciones]]></dc:creator>
+            <pubDate>Mon, 05 Sep 2016 04:18:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Early september items]]></title>
             <link>https://thomas1111.wordpress.com/2016/09/04/early-september-items/</link>
             <guid isPermaLink="false">https://thomas1111.wordpress.com/2016/09/04/early-september-items/</guid>
@@ -836,9 +982,16 @@
             <pubDate>Sun, 04 Sep 2016 20:34:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The lithium-powered space bike]]></title>
+            <link>http://notstatschat.tumblr.com/post/149923845091</link>
+            <guid isPermaLink="false">http://notstatschat.tumblr.com/post/149923845091</guid>
+            <dc:creator><![CDATA[Biased and Inefficient]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2016 09:21:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Working Towards Mastery]]></title>
-            <link>https://mattcoaty.com/2016/09/03/wtm/</link>
-            <guid isPermaLink="false">https://mattcoaty.com/2016/09/03/wtm/</guid>
+            <link>http://feedproxy.google.com/~r/EducationalAspirations/~3/uRB33rZlkqs/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/EducationalAspirations/~3/uRB33rZlkqs/</guid>
             <dc:creator><![CDATA[Matt Coaty]]></dc:creator>
             <pubDate>Sat, 03 Sep 2016 12:49:55 GMT</pubDate>
         </item>
@@ -941,6 +1094,13 @@
             <pubDate>Thu, 01 Sep 2016 01:11:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Método de Planos Cortantes (Optimización Dual)]]></title>
+            <link>http://feedproxy.google.com/~r/gestiondeoperaciones/~3/knpGJjAXA7M/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/gestiondeoperaciones/~3/knpGJjAXA7M/</guid>
+            <dc:creator><![CDATA[Gestión de Operaciones]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2016 19:57:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My book at 25% discount ($63.75) as of 6 Sept 2016]]></title>
             <link>https://burttotaro.wordpress.com/2016/08/31/my-book-at-66-discount-29-11-as-of-31-august-2016/</link>
             <guid isPermaLink="false">https://burttotaro.wordpress.com/2016/08/31/my-book-at-66-discount-29-11-as-of-31-august-2016/</guid>
@@ -990,39 +1150,25 @@
             <pubDate>Tue, 30 Aug 2016 12:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TEATRO E SCIENZA 2016: IL BALLO DEGLI INCOERENTI]]></title>
-            <link>http://www.gravita-zero.org/2016/08/teatro-e-scienza-2016-il-ballo-degli.html</link>
-            <guid isPermaLink="false">http://www.gravita-zero.org/2016/08/teatro-e-scienza-2016-il-ballo-degli.html</guid>
-            <dc:creator><![CDATA[Gravità Zero]]></dc:creator>
-            <pubDate>Mon, 29 Aug 2016 10:59:00 GMT</pubDate>
+            <title><![CDATA[two double-shots before breakfast]]></title>
+            <link>https://vlorbik.wordpress.com/2016/08/28/two-double-shots-before-breakfast/</link>
+            <guid isPermaLink="false">https://vlorbik.wordpress.com/2016/08/28/two-double-shots-before-breakfast/</guid>
+            <dc:creator><![CDATA[vlorbik.wordpress.com]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2016 14:42:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathe-Apps XIII: Knowre]]></title>
-            <link>http://scienceblogs.de/mathlog/2016/08/29/mathe-apps-xiii-knowre/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mathe-apps-xiii-knowre</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2016/08/29/mathe-apps-xiii-knowre/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mathe-apps-xiii-knowre</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Mon, 29 Aug 2016 04:24:00 GMT</pubDate>
+            <title><![CDATA[“The” multiple comparisons problem]]></title>
+            <link>http://notstatschat.tumblr.com/post/149591245506</link>
+            <guid isPermaLink="false">http://notstatschat.tumblr.com/post/149591245506</guid>
+            <dc:creator><![CDATA[Biased and Inefficient]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2016 06:54:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IntMath Newsletter: Fourier graph, resources]]></title>
-            <link>http://www.intmath.com/blog/letters/intmath-newsletter-fourier-graph-resources-10922</link>
-            <guid isPermaLink="false">http://www.intmath.com/blog/letters/intmath-newsletter-fourier-graph-resources-10922</guid>
-            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
-            <pubDate>Mon, 29 Aug 2016 03:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SquareCirclez is a “Top 100” math blog!]]></title>
-            <link>http://www.intmath.com/blog/mathematics/squarecirclez-top-100-math-blog-10925</link>
-            <guid isPermaLink="false">http://www.intmath.com/blog/mathematics/squarecirclez-top-100-math-blog-10925</guid>
-            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
-            <pubDate>Mon, 29 Aug 2016 02:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Day Plans]]></title>
-            <link>https://mattcoaty.com/2016/08/27/1stdayexcitement/</link>
-            <guid isPermaLink="false">https://mattcoaty.com/2016/08/27/1stdayexcitement/</guid>
-            <dc:creator><![CDATA[Matt Coaty]]></dc:creator>
-            <pubDate>Sat, 27 Aug 2016 15:00:07 GMT</pubDate>
+            <title><![CDATA[or close the wall up with our life-form dead]]></title>
+            <link>https://vlorbik.wordpress.com/2016/08/26/or-close-the-wall-up-with-our-life-form-dead/</link>
+            <guid isPermaLink="false">https://vlorbik.wordpress.com/2016/08/26/or-close-the-wall-up-with-our-life-form-dead/</guid>
+            <dc:creator><![CDATA[vlorbik.wordpress.com]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2016 12:52:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
