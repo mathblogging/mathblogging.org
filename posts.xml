@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Oct 2016 06:04:51 GMT</lastBuildDate>
-        <pubDate>Sat, 01 Oct 2016 06:04:48 GMT</pubDate>
+        <lastBuildDate>Sat, 01 Oct 2016 06:34:14 GMT</lastBuildDate>
+        <pubDate>Sat, 01 Oct 2016 06:34:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Linkage for the new school year]]></title>
+            <link>http://11011110.livejournal.com/335510.html</link>
+            <guid isPermaLink="false">http://11011110.livejournal.com/335510.html</guid>
+            <dc:creator><![CDATA[0xDE]]></dc:creator>
+            <pubDate>Sat, 01 Oct 2016 06:26:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Writing a blog requires courage to lay it out there and moderation to not sound straight up nutty."]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/OjnG4LNAis8/151177519579</link>
@@ -44,6 +51,13 @@
             <pubDate>Sat, 01 Oct 2016 01:52:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A make file to convert all Jupyter notebooks in a directory to pdfs]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/python/2016/10/01/a-make-file-for-jupyter-notebooks.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/python/2016/10/01/a-make-file-for-jupyter-notebooks.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[On This Day in Math - October 1]]></title>
             <link>http://pballew.blogspot.com/2016/10/on-this-day-in-math-october-1.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/10/on-this-day-in-math-october-1.html</guid>
@@ -51,7 +65,7 @@
             <pubDate>Fri, 30 Sep 2016 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pu Erh]]></title>
+            <title><![CDATA[Pu Erh [普洱茶]]]></title>
             <link>https://xianblog.wordpress.com/2016/10/01/pu-erh/</link>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2016/10/01/pu-erh/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
@@ -1646,17 +1660,17 @@ From “Proofs Without Words” by Roger...]]></title>
             <pubDate>Mon, 26 Sep 2016 12:18:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
-            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bayes's Theorem is not optional]]></title>
             <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
             <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
+            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
         </item>
         <item>
@@ -1730,17 +1744,17 @@ From “Proofs Without Words” by Roger...]]></title>
             <pubDate>Mon, 26 Sep 2016 09:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When Blind People Do Algebra]]></title>
-            <link>http://www.madmath.com/2016/09/when-blind-people-do-algebra.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/09/when-blind-people-do-algebra.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Getting closer to $\pi$]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/getting-closer-pi/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/getting-closer-pi/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Blind People Do Algebra]]></title>
+            <link>http://www.madmath.com/2016/09/when-blind-people-do-algebra.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/09/when-blind-people-do-algebra.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3124,17 +3138,17 @@ This animation is based on the Five...]]></title>
             <pubDate>Thu, 22 Sep 2016 06:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hamiltonian Monte Carlo Acceleration Using Surrogate Functions with Random Bases]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ksARbqKCTuA/hamiltonian-monte-carlo-acceleration.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ksARbqKCTuA/hamiltonian-monte-carlo-acceleration.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Les tours de Hanoï II : le problème avec quatre piquets et plus]]></title>
             <link>http://images.math.cnrs.fr/Les-tours-de-Hanoi-II-le-probleme-avec-quatre-piquets-et-plus.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Les-tours-de-Hanoi-II-le-probleme-avec-quatre-piquets-et-plus.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamiltonian Monte Carlo Acceleration Using Surrogate Functions with Random Bases]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ksARbqKCTuA/hamiltonian-monte-carlo-acceleration.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ksARbqKCTuA/hamiltonian-monte-carlo-acceleration.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3209,17 +3223,17 @@ This animation is based on the Five...]]></title>
             <pubDate>Thu, 22 Sep 2016 00:38:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poker Odds]]></title>
-            <link>http://datagenetics.com/blog/september22016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poker Odds]]></title>
+            <link>http://datagenetics.com/blog/september22016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4613,17 +4627,17 @@ hello new followers! hope you are...]]></title>
             <pubDate>Sun, 18 Sep 2016 11:51:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Other september 2016 items]]></title>
-            <link>https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</link>
-            <guid isPermaLink="false">https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</guid>
-            <dc:creator><![CDATA[episodic thoughts]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2016 11:39:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In a Quaint German Town, Mathematicians Converge]]></title>
             <link>https://mathwithbaddrawings.com/2016/09/18/in-a-quaint-german-town-mathematicians-converge/</link>
             <guid isPermaLink="false">https://mathwithbaddrawings.com/2016/09/18/in-a-quaint-german-town-mathematicians-converge/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 11:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Other september 2016 items]]></title>
+            <link>https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</link>
+            <guid isPermaLink="false">https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</guid>
+            <dc:creator><![CDATA[episodic thoughts]]></dc:creator>
             <pubDate>Sun, 18 Sep 2016 11:39:25 GMT</pubDate>
         </item>
         <item>
@@ -4648,17 +4662,17 @@ hello new followers! hope you are...]]></title>
             <pubDate>Sun, 18 Sep 2016 11:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Squares and Stripes]]></title>
-            <link>http://mathtourist.blogspot.com/2016/09/squares-and-stripes.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/squares-and-stripes.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["...a fundamentally creative act"]]></title>
             <link>http://math-frolic.blogspot.com/2016/09/a-fundamentally-creative-act.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/a-fundamentally-creative-act.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Squares and Stripes]]></title>
+            <link>http://mathtourist.blogspot.com/2016/09/squares-and-stripes.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/squares-and-stripes.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 18 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5697,17 +5711,17 @@ passage]]></title>
             <pubDate>Thu, 15 Sep 2016 01:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Macromolecules-A Beginners Guide]]></title>
-            <link>http://www.moomoomathblog.com/2016/09/macromolecules-beginners-guide.html</link>
-            <guid isPermaLink="false">http://www.moomoomathblog.com/2016/09/macromolecules-beginners-guide.html</guid>
-            <dc:creator><![CDATA[MooMooMath]]></dc:creator>
-            <pubDate>Thu, 15 Sep 2016 01:27:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Day 6 The Super Improver Team]]></title>
             <link>http://fliplearnshare.blogspot.com/2016/09/day-6-super-improver-team.html</link>
             <guid isPermaLink="false">http://fliplearnshare.blogspot.com/2016/09/day-6-super-improver-team.html</guid>
             <dc:creator><![CDATA[Flip! Learn! Share!]]></dc:creator>
+            <pubDate>Thu, 15 Sep 2016 01:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Macromolecules-A Beginners Guide]]></title>
+            <link>http://www.moomoomathblog.com/2016/09/macromolecules-beginners-guide.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2016/09/macromolecules-beginners-guide.html</guid>
+            <dc:creator><![CDATA[MooMooMath]]></dc:creator>
             <pubDate>Thu, 15 Sep 2016 01:27:00 GMT</pubDate>
         </item>
         <item>
@@ -6358,15 +6372,15 @@ Levon Bliss takes magnification to new...]]></title>
         </item>
         <item>
             <title><![CDATA[Instructional Design for Vocabulary in Higher Ed (Part 1)]]></title>
-            <link>http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/-AtFPW55cDc/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/-AtFPW55cDc/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 13 Sep 2016 05:24:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Instructional Design for Vocabulary in Higher Ed (Part 1)]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/-AtFPW55cDc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/-AtFPW55cDc/</guid>
+            <link>http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 13 Sep 2016 05:24:13 GMT</pubDate>
         </item>
@@ -6901,17 +6915,17 @@ The Weeping Stone by Tdub Photo is created with...]]></title>
             <pubDate>Sun, 11 Sep 2016 12:20:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Main Street Tensegrity]]></title>
-            <link>http://mathtourist.blogspot.com/2016/09/main-street-tensegrity.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/main-street-tensegrity.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 11 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Now In the Bookstores]]></title>
             <link>http://math-frolic.blogspot.com/2016/09/now-in-bookstores.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/now-in-bookstores.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 11 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Main Street Tensegrity]]></title>
+            <link>http://mathtourist.blogspot.com/2016/09/main-street-tensegrity.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/main-street-tensegrity.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 11 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7861,17 +7875,17 @@ dynamic programming]]></title>
             <pubDate>Thu, 08 Sep 2016 11:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["Authentic Maths" (...and proofs)]]></title>
-            <link>http://math-frolic.blogspot.com/2016/09/authentic-maths-and-proofs.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/authentic-maths-and-proofs.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Thu, 08 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Costa Surface in Bronze]]></title>
             <link>http://mathtourist.blogspot.com/2016/09/costa-surface-in-bronze.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/costa-surface-in-bronze.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Authentic Maths" (...and proofs)]]></title>
+            <link>http://math-frolic.blogspot.com/2016/09/authentic-maths-and-proofs.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/authentic-maths-and-proofs.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Thu, 08 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8801,14 +8815,14 @@ dynamic programming]]></title>
             <title><![CDATA[Photomath can read my writing]]></title>
             <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photomath can read my writing]]></title>
             <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
         </item>
         <item>
@@ -9310,17 +9324,17 @@ SOMEI]]></title>
             <pubDate>Thu, 01 Sep 2016 16:23:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[August 2016 Common Core Algebra 1 Regents, Part 2]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/09/august-2016-common-core-algebra-1.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/09/august-2016-common-core-algebra-1.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Day 1: Preparing for University, An Introduction]]></title>
             <link>http://walkthroughmaths.blogspot.com/2016/09/day-1-preparing-for-university.html</link>
             <guid isPermaLink="false">http://walkthroughmaths.blogspot.com/2016/09/day-1-preparing-for-university.html</guid>
             <dc:creator><![CDATA[A Drunkard's Walk Through Mathematics]]></dc:creator>
+            <pubDate>Thu, 01 Sep 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[August 2016 Common Core Algebra 1 Regents, Part 2]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/09/august-2016-common-core-algebra-1.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/09/august-2016-common-core-algebra-1.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 01 Sep 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
