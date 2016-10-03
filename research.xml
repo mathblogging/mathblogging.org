@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 17:34:06 GMT</lastBuildDate>
-        <pubDate>Mon, 03 Oct 2016 17:34:04 GMT</pubDate>
+        <lastBuildDate>Mon, 03 Oct 2016 18:04:12 GMT</lastBuildDate>
+        <pubDate>Mon, 03 Oct 2016 18:04:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[NAMA in NOLA]]></title>
+            <link>https://welltemperedspreadsheet.wordpress.com/2016/10/03/nama-in-nola/</link>
+            <guid isPermaLink="false">https://welltemperedspreadsheet.wordpress.com/2016/10/03/nama-in-nola/</guid>
+            <dc:creator><![CDATA[The Well-Tempered Spreadsheet]]></dc:creator>
+            <pubDate>Mon, 03 Oct 2016 17:57:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MALA – Metropolis Adjusted Langevin Algorithm in Julia]]></title>
             <link>http://www.lindonslog.com/mathematics/statistics/mala-metropolis-adjusted-langevin-algorithm-julia/</link>
@@ -84,6 +91,13 @@
             <guid isPermaLink="false">http://divisbyzero.com/2016/10/02/two-more-impossible-cylinders/</guid>
             <dc:creator><![CDATA[Division by Zero]]></dc:creator>
             <pubDate>Mon, 03 Oct 2016 02:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[According to Groth. IV.22]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/10/03/according-to-groth-iv-22/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/10/03/according-to-groth-iv-22/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 03 Oct 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Machine Learning vs. Econometrics, I]]></title>
@@ -3165,20 +3179,6 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://www.scottaaronson.com/blog/?p=2887</guid>
             <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
             <pubDate>Fri, 02 Sep 2016 18:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sleeping Beauty and the Red Dice]]></title>
-            <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/AxFRWfBuxs0/sleeping-beauty-and-red-dice.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/AxFRWfBuxs0/sleeping-beauty-and-red-dice.html</guid>
-            <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
-            <pubDate>Fri, 02 Sep 2016 17:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug holidays and losing resistance with replicator dynamics]]></title>
-            <link>https://egtheory.wordpress.com/2016/09/02/drug-holidays/</link>
-            <guid isPermaLink="false">https://egtheory.wordpress.com/2016/09/02/drug-holidays/</guid>
-            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
-            <pubDate>Fri, 02 Sep 2016 17:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
