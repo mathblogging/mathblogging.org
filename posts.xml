@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 10:04:20 GMT</lastBuildDate>
-        <pubDate>Mon, 03 Oct 2016 10:04:17 GMT</pubDate>
+        <lastBuildDate>Mon, 03 Oct 2016 10:34:42 GMT</lastBuildDate>
+        <pubDate>Mon, 03 Oct 2016 10:34:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -333,17 +333,17 @@ This glorious video explains the...]]></title>
             <pubDate>Sun, 02 Oct 2016 11:02:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Etched Sphere]]></title>
-            <link>http://mathtourist.blogspot.com/2016/10/etched-sphere.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/10/etched-sphere.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 02 Oct 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematics... Powerful Medicine]]></title>
             <link>http://math-frolic.blogspot.com/2016/10/mathematics-powerful-medicine.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/10/mathematics-powerful-medicine.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 02 Oct 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Etched Sphere]]></title>
+            <link>http://mathtourist.blogspot.com/2016/10/etched-sphere.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/10/etched-sphere.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 02 Oct 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1497,6 +1497,13 @@ Locations of traffic lights in Amsterdam from...]]></title>
             <pubDate>Wed, 28 Sep 2016 21:00:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[getsubgraph]]></title>
+            <link>http://www.bookofproofs.org/branches/getsubgraph/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/getsubgraph/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Wed, 28 Sep 2016 20:50:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Did Nöbeling discover toposes?]]></title>
             <link>http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/NlYfplGIwxU/did-nobeling-discover-toposes</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/NlYfplGIwxU/did-nobeling-discover-toposes</guid>
@@ -1511,6 +1518,13 @@ Locations of traffic lights in Amsterdam from...]]></title>
             <pubDate>Wed, 28 Sep 2016 20:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[graph]]></title>
+            <link>http://www.bookofproofs.org/branches/graph/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/graph/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Wed, 28 Sep 2016 20:43:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[انشطة تهييئية للجذع مشترك علمي جزء 9]]></title>
             <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/Ghpv-3APTY4/preparation-tcs-partie9.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/Ghpv-3APTY4/preparation-tcs-partie9.html</guid>
@@ -1518,25 +1532,11 @@ Locations of traffic lights in Amsterdam from...]]></title>
             <pubDate>Wed, 28 Sep 2016 20:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[getsubgraph]]></title>
-            <link>http://www.bookofproofs.org/branches/getsubgraph/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/getsubgraph/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 28 Sep 2016 20:33:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ring of sets measure theoretic definition]]></title>
             <link>http://www.bookofproofs.org/branches/ring-of-sets-measure-theoretic-definition/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/ring-of-sets-measure-theoretic-definition/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Wed, 28 Sep 2016 20:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[graph]]></title>
-            <link>http://www.bookofproofs.org/branches/graph/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/graph/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 28 Sep 2016 20:09:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universal Microbial Diagnostics using Random DNA Probes]]></title>
@@ -4898,17 +4898,17 @@ My fav paper thing I’ve made so...]]></title>
             <pubDate>Mon, 19 Sep 2016 09:05:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Echo and a simple answer]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/echo-simple-answer/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/echo-simple-answer/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NY Times: Stop Grading to a Curve]]></title>
             <link>http://www.madmath.com/2016/09/ny-times-stop-grading-to-curve.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2016/09/ny-times-stop-grading-to-curve.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Echo and a simple answer]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/echo-simple-answer/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/echo-simple-answer/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 19 Sep 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5254,17 +5254,17 @@ hello new followers! hope you are...]]></title>
             <pubDate>Sun, 18 Sep 2016 11:51:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Other september 2016 items]]></title>
-            <link>https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</link>
-            <guid isPermaLink="false">https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</guid>
-            <dc:creator><![CDATA[episodic thoughts]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2016 11:39:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In a Quaint German Town, Mathematicians Converge]]></title>
             <link>https://mathwithbaddrawings.com/2016/09/18/in-a-quaint-german-town-mathematicians-converge/</link>
             <guid isPermaLink="false">https://mathwithbaddrawings.com/2016/09/18/in-a-quaint-german-town-mathematicians-converge/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 11:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Other september 2016 items]]></title>
+            <link>https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</link>
+            <guid isPermaLink="false">https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</guid>
+            <dc:creator><![CDATA[episodic thoughts]]></dc:creator>
             <pubDate>Sun, 18 Sep 2016 11:39:25 GMT</pubDate>
         </item>
         <item>
@@ -6310,17 +6310,17 @@ passage]]></title>
             <pubDate>Thu, 15 Sep 2016 01:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Day 6 The Super Improver Team]]></title>
-            <link>http://fliplearnshare.blogspot.com/2016/09/day-6-super-improver-team.html</link>
-            <guid isPermaLink="false">http://fliplearnshare.blogspot.com/2016/09/day-6-super-improver-team.html</guid>
-            <dc:creator><![CDATA[Flip! Learn! Share!]]></dc:creator>
-            <pubDate>Thu, 15 Sep 2016 01:27:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Macromolecules-A Beginners Guide]]></title>
             <link>http://www.moomoomathblog.com/2016/09/macromolecules-beginners-guide.html</link>
             <guid isPermaLink="false">http://www.moomoomathblog.com/2016/09/macromolecules-beginners-guide.html</guid>
             <dc:creator><![CDATA[MooMooMath]]></dc:creator>
+            <pubDate>Thu, 15 Sep 2016 01:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Day 6 The Super Improver Team]]></title>
+            <link>http://fliplearnshare.blogspot.com/2016/09/day-6-super-improver-team.html</link>
+            <guid isPermaLink="false">http://fliplearnshare.blogspot.com/2016/09/day-6-super-improver-team.html</guid>
+            <dc:creator><![CDATA[Flip! Learn! Share!]]></dc:creator>
             <pubDate>Thu, 15 Sep 2016 01:27:00 GMT</pubDate>
         </item>
         <item>
@@ -6553,17 +6553,17 @@ manacontemporary:
             <pubDate>Wed, 14 Sep 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[20 Years Ago...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/09/20-years-ago.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/20-years-ago.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Wed, 14 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Giant Zome Polytope]]></title>
             <link>http://mathtourist.blogspot.com/2016/09/giant-zome-polytope.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/giant-zome-polytope.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 Years Ago...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/09/20-years-ago.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/20-years-ago.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Wed, 14 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8404,17 +8404,17 @@ dynamic programming]]></title>
             <pubDate>Thu, 08 Sep 2016 11:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Costa Surface in Bronze]]></title>
-            <link>http://mathtourist.blogspot.com/2016/09/costa-surface-in-bronze.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/costa-surface-in-bronze.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Thu, 08 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Authentic Maths" (...and proofs)]]></title>
             <link>http://math-frolic.blogspot.com/2016/09/authentic-maths-and-proofs.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/authentic-maths-and-proofs.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Costa Surface in Bronze]]></title>
+            <link>http://mathtourist.blogspot.com/2016/09/costa-surface-in-bronze.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/costa-surface-in-bronze.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 08 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -9131,17 +9131,17 @@ dynamic programming]]></title>
             <pubDate>Mon, 05 Sep 2016 09:02:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Epsilon-Delta, Absolute Values, Inequalities]]></title>
-            <link>http://www.madmath.com/2016/09/epsilon-delta-absolute-values.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/09/epsilon-delta-absolute-values.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 05 Sep 2016 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Should you need a maths degree to teach maths?]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/need-maths-degree-teach-maths/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/need-maths-degree-teach-maths/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 05 Sep 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Epsilon-Delta, Absolute Values, Inequalities]]></title>
+            <link>http://www.madmath.com/2016/09/epsilon-delta-absolute-values.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/09/epsilon-delta-absolute-values.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 05 Sep 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -9295,14 +9295,14 @@ dynamic programming]]></title>
             <title><![CDATA[Photomath can read my writing]]></title>
             <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photomath can read my writing]]></title>
             <link>http://aperiodical.com/2016/09/photomath-can-read-my-writing/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/09/photomath-can-read-my-writing/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 09:54:11 GMT</pubDate>
         </item>
         <item>
