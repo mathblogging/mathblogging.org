@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 19:04:09 GMT</lastBuildDate>
-        <pubDate>Mon, 03 Oct 2016 19:04:07 GMT</pubDate>
+        <lastBuildDate>Mon, 03 Oct 2016 19:34:12 GMT</lastBuildDate>
+        <pubDate>Mon, 03 Oct 2016 19:34:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -1445,17 +1445,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Thu, 22 Sep 2016 02:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Poker Odds]]></title>
             <link>http://datagenetics.com/blog/september22016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3172,13 +3172,6 @@ dynamic programming]]></title>
             <guid isPermaLink="false">https://byorgey.wordpress.com/2016/09/02/deep-work-and-email-habits/</guid>
             <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
             <pubDate>Fri, 02 Sep 2016 19:54:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time to move on]]></title>
-            <link>https://mathematicswithoutapologies.wordpress.com/2016/09/02/time-to-move-on/</link>
-            <guid isPermaLink="false">https://mathematicswithoutapologies.wordpress.com/2016/09/02/time-to-move-on/</guid>
-            <dc:creator><![CDATA[Mathematics without Apologies, by Michael Harris]]></dc:creator>
-            <pubDate>Fri, 02 Sep 2016 19:12:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
