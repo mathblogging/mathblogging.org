@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Oct 2016 21:34:15 GMT</lastBuildDate>
-        <pubDate>Tue, 04 Oct 2016 21:34:13 GMT</pubDate>
+        <lastBuildDate>Tue, 04 Oct 2016 22:04:17 GMT</lastBuildDate>
+        <pubDate>Tue, 04 Oct 2016 22:04:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[domain of discourse]]></title>
+            <link>http://www.bookofproofs.org/branches/domain-of-discourse/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/domain-of-discourse/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 04 Oct 2016 21:46:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[StanCon: now accepting registrations and submissions]]></title>
             <link>http://andrewgelman.com/2016/10/04/stancon-now-accepting-registrations-submissions/</link>
@@ -257,6 +264,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/mbGgJ65s3wk/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Mon, 03 Oct 2016 11:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[graph]]></title>
+            <link>http://www.bookofproofs.org/branches/graph/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/graph/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 03 Oct 2016 11:42:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flowers, flowers, flowers]]></title>
@@ -830,13 +844,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Wed, 28 Sep 2016 20:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[graph]]></title>
-            <link>http://www.bookofproofs.org/branches/graph/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/graph/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 28 Sep 2016 20:43:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ring of sets measure theoretic definition]]></title>
             <link>http://www.bookofproofs.org/branches/ring-of-sets-measure-theoretic-definition/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/ring-of-sets-measure-theoretic-definition/</guid>
@@ -1270,17 +1277,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Sun, 25 Sep 2016 00:59:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Borel complexity theory in mathematics]]></title>
-            <link>https://scoskey.github.io/borel-complexity-theory-in-mathematics</link>
-            <guid isPermaLink="false">https://scoskey.github.io/borel-complexity-theory-in-mathematics</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live blogging the Antwerp conference (3)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Borel complexity theory in mathematics]]></title>
+            <link>https://scoskey.github.io/borel-complexity-theory-in-mathematics</link>
+            <guid isPermaLink="false">https://scoskey.github.io/borel-complexity-theory-in-mathematics</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1931,17 +1938,17 @@ Path 5, Row 47 2014-07-23 at...]]></title>
             <pubDate>Mon, 19 Sep 2016 01:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (19)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On the set splittability problem]]></title>
             <link>https://scoskey.github.io/the-set-splittability-talk</link>
             <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (19)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2280,13 +2287,6 @@ Ryan Donato, 2015 progress.]]></title>
             <guid isPermaLink="false">http://www.sumsar.net/blog/2016/09/how-i-made-some-pokemon-business-cards/</guid>
             <dc:creator><![CDATA[Publishable Stuff]]></dc:creator>
             <pubDate>Wed, 14 Sep 2016 21:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[n times continuously differentiable functions]]></title>
-            <link>http://www.bookofproofs.org/branches/n-times-continuously-differentiable-functions/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/n-times-continuously-differentiable-functions/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 14 Sep 2016 21:28:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Academic Rankings Foster Competition]]></title>
@@ -3187,20 +3187,6 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/04/fortnightly-links-18/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 04 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Prisoners convicted of felonies were originally sentenced to serve as oarsmen in the French..."]]></title>
-            <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/-NiibJXmO_A/149901076009</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/-NiibJXmO_A/149901076009</guid>
-            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
-            <pubDate>Sat, 03 Sep 2016 22:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I’ve solved a conjecture about pseudodifference of filters]]></title>
-            <link>https://portonmath.wordpress.com/2016/09/04/solved-conjecture/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/09/04/solved-conjecture/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Sat, 03 Sep 2016 21:58:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
