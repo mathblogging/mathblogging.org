@@ -4,10 +4,43 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Oct 2016 13:33:58 GMT</lastBuildDate>
-        <pubDate>Tue, 04 Oct 2016 13:33:55 GMT</pubDate>
+        <lastBuildDate>Tue, 04 Oct 2016 14:04:12 GMT</lastBuildDate>
+        <pubDate>Tue, 04 Oct 2016 14:04:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[How do you like your metavariables?]]></title>
+            <link>http://www.logicmatters.net/2016/10/04/how-do-you-like-your-metavariables/</link>
+            <guid isPermaLink="false">http://www.logicmatters.net/2016/10/04/how-do-you-like-your-metavariables/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Tue, 04 Oct 2016 13:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematics Research Community in HoTT]]></title>
+            <guid isPermaLink="false">Mathematics Research Community in HoTT</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Tue, 04 Oct 2016 13:47:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[photography exhibit in Seattle]]></title>
+            <link>https://xianblog.wordpress.com/2016/10/04/photography-exhibit-in-seattle/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/10/04/photography-exhibit-in-seattle/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 04 Oct 2016 13:15:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ultradistribution]]></title>
+            <guid isPermaLink="false">ultradistribution</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 04 Oct 2016 13:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The never-back-down syndrome and the fundamental attribution error]]></title>
+            <link>http://andrewgelman.com/2016/10/04/the-never-admit-error-syndrome-and-the-fundamental-attribution-error/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/10/04/the-never-admit-error-syndrome-and-the-fundamental-attribution-error/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 04 Oct 2016 13:03:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A very brief Robert Benchley film festival]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/10/a-very-brief-robert-benchley-film.html</link>
@@ -853,13 +886,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Wed, 28 Sep 2016 06:31:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[stability of noisy Metropolis-Hastings]]></title>
-            <link>https://xianblog.wordpress.com/2016/09/28/stability-of-noisy-metropolis-hastings-2/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2016/09/28/stability-of-noisy-metropolis-hastings-2/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Tue, 27 Sep 2016 22:16:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[246A, Notes 2: complex integration]]></title>
             <link>https://terrytao.wordpress.com/2016/09/27/246a-notes-2-complex-integration/</link>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2016/09/27/246a-notes-2-complex-integration/</guid>
@@ -1503,17 +1529,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Thu, 22 Sep 2016 02:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poker Odds]]></title>
-            <link>http://datagenetics.com/blog/september22016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poker Odds]]></title>
+            <link>http://datagenetics.com/blog/september22016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3072,13 +3098,6 @@ dynamic programming]]></title>
             <pubDate>Mon, 05 Sep 2016 20:05:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Garrison Keillor would be spinning etc.]]></title>
-            <link>http://andrewgelman.com/2016/09/05/29852/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/09/05/29852/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 05 Sep 2016 13:02:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The cognitive dissonance phase]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/09/the-cognitive-dissonance-phase.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/the-cognitive-dissonance-phase.html</guid>
@@ -3168,12 +3187,6 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://mathscinotes.com/2016/09/interstellar-radio-communication-misfire/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Sat, 03 Sep 2016 16:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Economy of Style]]></title>
-            <guid isPermaLink="false">Economy of Style</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Sat, 03 Sep 2016 13:25:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
