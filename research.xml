@@ -4,16 +4,30 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Oct 2016 21:04:10 GMT</lastBuildDate>
-        <pubDate>Wed, 05 Oct 2016 21:04:08 GMT</pubDate>
+        <lastBuildDate>Wed, 05 Oct 2016 21:34:09 GMT</lastBuildDate>
+        <pubDate>Wed, 05 Oct 2016 21:34:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[predicate]]></title>
+            <link>http://www.bookofproofs.org/branches/predicate/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/predicate/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Wed, 05 Oct 2016 21:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[functions arity and constants]]></title>
+            <link>http://www.bookofproofs.org/branches/functions-arity-and-constants/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/functions-arity-and-constants/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Wed, 05 Oct 2016 21:24:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[quantifier bound variables free variables]]></title>
             <link>http://www.bookofproofs.org/branches/quantifier-bound-variables-free-variables/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/quantifier-bound-variables-free-variables/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 05 Oct 2016 20:45:38 GMT</pubDate>
+            <pubDate>Wed, 05 Oct 2016 20:46:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hadley Wickham Master R Developer course coming to Melbourne]]></title>
@@ -1292,17 +1306,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Mon, 26 Sep 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
-            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bayes's Theorem is not optional]]></title>
             <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
             <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
+            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
         </item>
         <item>
@@ -1494,13 +1508,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Fri, 23 Sep 2016 21:57:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[converting decimal numbers to roman numbers]]></title>
-            <link>http://www.bookofproofs.org/branches/converting-decimal-numbers-to-roman-numbers/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/converting-decimal-numbers-to-roman-numbers/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 23 Sep 2016 21:43:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[converting roman numbers to decimal numbers]]></title>
             <link>http://www.bookofproofs.org/branches/converting-roman-numbers-to-decimal-numbers/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/converting-roman-numbers-to-decimal-numbers/</guid>
@@ -1627,13 +1634,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Fri, 23 Sep 2016 01:00:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[complex numbers]]></title>
-            <link>http://www.bookofproofs.org/branches/complex-numbers/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/complex-numbers/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 22:51:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Multicollinearity causing risk and uncertainty]]></title>
             <link>http://andrewgelman.com/2016/09/22/30824/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2016/09/22/30824/</guid>
@@ -1732,17 +1732,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Thu, 22 Sep 2016 02:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poker Odds]]></title>
-            <link>http://datagenetics.com/blog/september22016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poker Odds]]></title>
+            <link>http://datagenetics.com/blog/september22016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
