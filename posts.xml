@@ -4,16 +4,30 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Oct 2016 14:04:07 GMT</lastBuildDate>
-        <pubDate>Thu, 06 Oct 2016 14:04:04 GMT</pubDate>
+        <lastBuildDate>Thu, 06 Oct 2016 14:34:14 GMT</lastBuildDate>
+        <pubDate>Thu, 06 Oct 2016 14:34:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Dos Equis XX Math Puzzles]]></title>
+            <link>https://mathjokes4mathyfolks.wordpress.com/2016/10/06/dos-equis-math-puzzles/</link>
+            <guid isPermaLink="false">https://mathjokes4mathyfolks.wordpress.com/2016/10/06/dos-equis-math-puzzles/</guid>
+            <dc:creator><![CDATA[Math Jokes 4 Mathy Folks]]></dc:creator>
+            <pubDate>Thu, 06 Oct 2016 14:10:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jota-Cê …]]></title>
             <link>https://matheuscmss.wordpress.com/2016/10/06/jota-ce/</link>
             <guid isPermaLink="false">https://matheuscmss.wordpress.com/2016/10/06/jota-ce/</guid>
             <dc:creator><![CDATA[Disquisitiones Mathematicae]]></dc:creator>
             <pubDate>Thu, 06 Oct 2016 13:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s ok to criticize]]></title>
+            <link>http://andrewgelman.com/2016/10/06/its-ok-to-criticize/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/10/06/its-ok-to-criticize/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 06 Oct 2016 13:36:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarkar vs. John Doe: What happened at this week’s hearing involving PubPeer]]></title>
@@ -2559,13 +2573,6 @@ inspired by Victor...]]></title>
             <pubDate>Thu, 29 Sep 2016 15:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stuff happens: Time in a block universe]]></title>
-            <link>https://plus.maths.org/content/stuff-happens-block-time</link>
-            <guid isPermaLink="false">https://plus.maths.org/content/stuff-happens-block-time</guid>
-            <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
-            <pubDate>Thu, 29 Sep 2016 14:12:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Polls and Sampling Errors in the Presidental Debate Results]]></title>
             <link>http://www.goodmath.org/blog/2016/09/29/polls-and-sampling-errors-in-the-presidental-debate-results/</link>
             <guid isPermaLink="false">http://www.goodmath.org/blog/2016/09/29/polls-and-sampling-errors-in-the-presidental-debate-results/</guid>
@@ -2655,13 +2662,6 @@ inspired by Victor...]]></title>
             <guid isPermaLink="false">http://flowingdata.com/2016/09/29/rise-in-income-for-the-poor-and-middle-class/</guid>
             <dc:creator><![CDATA[FlowingData]]></dc:creator>
             <pubDate>Thu, 29 Sep 2016 09:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There may be more than one of you]]></title>
-            <link>https://plus.maths.org/content/more-than-one</link>
-            <guid isPermaLink="false">https://plus.maths.org/content/more-than-one</guid>
-            <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
-            <pubDate>Thu, 29 Sep 2016 09:12:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In the beginning was the worm]]></title>
@@ -3661,17 +3661,17 @@ From “Proofs Without Words” by Roger...]]></title>
             <pubDate>Mon, 26 Sep 2016 09:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting closer to $\pi$]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/getting-closer-pi/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/getting-closer-pi/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[When Blind People Do Algebra]]></title>
             <link>http://www.madmath.com/2016/09/when-blind-people-do-algebra.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2016/09/when-blind-people-do-algebra.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting closer to $\pi$]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/getting-closer-pi/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/getting-closer-pi/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3900,17 +3900,17 @@ Test Area - 160923]]></title>
             <pubDate>Sun, 25 Sep 2016 12:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tiled Pentagons]]></title>
-            <link>http://mathtourist.blogspot.com/2016/09/tiled-pentagons.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/tiled-pentagons.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 25 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Authentic Math...]]></title>
             <link>http://math-frolic.blogspot.com/2016/09/authentic-math.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/authentic-math.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tiled Pentagons]]></title>
+            <link>http://mathtourist.blogspot.com/2016/09/tiled-pentagons.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/tiled-pentagons.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 25 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4006,17 +4006,17 @@ Limiting processes, a good way to start the academic...]]></title>
             <pubDate>Sun, 25 Sep 2016 00:59:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Borel complexity theory in mathematics]]></title>
-            <link>https://scoskey.github.io/borel-complexity-theory-in-mathematics</link>
-            <guid isPermaLink="false">https://scoskey.github.io/borel-complexity-theory-in-mathematics</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live blogging the Antwerp conference (3)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Borel complexity theory in mathematics]]></title>
+            <link>https://scoskey.github.io/borel-complexity-theory-in-mathematics</link>
+            <guid isPermaLink="false">https://scoskey.github.io/borel-complexity-theory-in-mathematics</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5007,17 +5007,17 @@ This animation is based on the Five...]]></title>
             <pubDate>Thu, 22 Sep 2016 00:38:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poker Odds]]></title>
-            <link>http://datagenetics.com/blog/september22016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poker Odds]]></title>
+            <link>http://datagenetics.com/blog/september22016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6078,17 +6078,17 @@ Path 5, Row 47 2014-07-23 at...]]></title>
             <pubDate>Mon, 19 Sep 2016 00:00:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (19)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On the set splittability problem]]></title>
             <link>https://scoskey.github.io/the-set-splittability-talk</link>
             <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (19)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7859,17 +7859,17 @@ Levon Bliss takes magnification to new...]]></title>
             <pubDate>Tue, 13 Sep 2016 12:12:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Count 'em]]></title>
-            <link>http://math-frolic.blogspot.com/2016/09/count-em.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/count-em.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Tue, 13 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Steel Nautilus]]></title>
             <link>http://mathtourist.blogspot.com/2016/09/steel-nautilus.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/steel-nautilus.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Count 'em]]></title>
+            <link>http://math-frolic.blogspot.com/2016/09/count-em.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/count-em.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Tue, 13 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7901,15 +7901,15 @@ Levon Bliss takes magnification to new...]]></title>
         </item>
         <item>
             <title><![CDATA[Instructional Design for Vocabulary in Higher Ed (Part 1)]]></title>
-            <link>http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/-AtFPW55cDc/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/-AtFPW55cDc/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 13 Sep 2016 05:24:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Instructional Design for Vocabulary in Higher Ed (Part 1)]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/-AtFPW55cDc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/-AtFPW55cDc/</guid>
+            <link>http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/instructional-design-for-vocabulary-in-higher-ed-part-1/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 13 Sep 2016 05:24:13 GMT</pubDate>
         </item>
@@ -9293,13 +9293,6 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://cheesemonkeysf.blogspot.com/2016/09/katamari-and-speed-demons-and-not.html</guid>
             <dc:creator><![CDATA[cheesemonkey wonders]]></dc:creator>
             <pubDate>Wed, 07 Sep 2016 22:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polling in the 21st century:  There ain’t no urn]]></title>
-            <link>http://andrewgelman.com/2016/09/07/analysis-of-data-from-internet-polls/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/09/07/analysis-of-data-from-internet-polls/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 07 Sep 2016 22:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alexander Shapovalov Crosses a River]]></title>
