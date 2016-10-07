@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Just a fun, simple read and tribute from the reminiscing widow of a mathematician (h/t <a href="https://twitter.com/skdh">@skdh</a>): <a href="https://t.co/tGnLE9jTYg">https://t.co/tGnLE9jTYg</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/784352607678726145">October 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a> <a href="https://t.co/tiJhG0Ejvs">https://t.co/tiJhG0Ejvs</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/780662790696660992">September 27, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="tl" dir="ltr">&quot;quote/unquote&quot;... Michael Atiyah via <a href="https://twitter.com/benorlin">@benorlin</a> : <a href="https://t.co/HewUzkqQSO">https://t.co/HewUzkqQSO</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/778252163772481538">September 20, 2016</a></blockquote>
