@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Oct 2016 06:34:13 GMT</lastBuildDate>
-        <pubDate>Sat, 08 Oct 2016 06:34:10 GMT</pubDate>
+        <lastBuildDate>Sat, 08 Oct 2016 07:04:14 GMT</lastBuildDate>
+        <pubDate>Sat, 08 Oct 2016 07:04:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[13ème Congrès International sur l'Enseignement des Mathématiques]]></title>
+            <link>http://images.math.cnrs.fr/13eme-Congres-International-sur-l-Enseignement-des-Mathematiques.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/13eme-Congres-International-sur-l-Enseignement-des-Mathematiques.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Sat, 08 Oct 2016 07:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Perfectoid Field is Deeply Ramified]]></title>
             <link>http://blog.jpolak.org/?p=1726</link>
@@ -37,7 +44,7 @@
             <pubDate>Sat, 08 Oct 2016 03:34:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maximum de Vraisemblance, à la main]]></title>
+            <title><![CDATA[Maximum de Vraisemblance, approche numérique]]></title>
             <link>http://freakonometrics.hypotheses.org/49340</link>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49340</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
@@ -1880,17 +1887,17 @@ Another new piece: This is going into the “What I...]]></title>
             <pubDate>Mon, 03 Oct 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euclid: The Game]]></title>
-            <link>http://www.madmath.com/2016/10/euclid-game.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/10/euclid-game.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 03 Oct 2016 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A curve-sketching challenge]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/curve-sketching-challenge/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/curve-sketching-challenge/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 03 Oct 2016 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euclid: The Game]]></title>
+            <link>http://www.madmath.com/2016/10/euclid-game.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/10/euclid-game.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 03 Oct 2016 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3559,13 +3566,6 @@ Locations of traffic lights in Amsterdam from...]]></title>
             <pubDate>Wed, 28 Sep 2016 06:31:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Les diagrammes de Feynman 1]]></title>
-            <link>http://images.math.cnrs.fr/Les-diagrammes-de-Feynman-1.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-diagrammes-de-Feynman-1.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 28 Sep 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[xkcd: Fixing Problems]]></title>
             <link>http://www.calculushumor.com/calculus-humor/xkcd-fixing-problems</link>
             <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-fixing-problems</guid>
@@ -4406,17 +4406,17 @@ Test Area - 160923]]></title>
             <pubDate>Sun, 25 Sep 2016 12:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tiled Pentagons]]></title>
-            <link>http://mathtourist.blogspot.com/2016/09/tiled-pentagons.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/tiled-pentagons.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 25 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Authentic Math...]]></title>
             <link>http://math-frolic.blogspot.com/2016/09/authentic-math.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/authentic-math.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tiled Pentagons]]></title>
+            <link>http://mathtourist.blogspot.com/2016/09/tiled-pentagons.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/tiled-pentagons.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 25 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6805,13 +6805,6 @@ hello new followers! hope you are...]]></title>
             <pubDate>Sun, 18 Sep 2016 11:51:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In a Quaint German Town, Mathematicians Converge]]></title>
-            <link>https://mathwithbaddrawings.com/2016/09/18/in-a-quaint-german-town-mathematicians-converge/</link>
-            <guid isPermaLink="false">https://mathwithbaddrawings.com/2016/09/18/in-a-quaint-german-town-mathematicians-converge/</guid>
-            <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2016 11:39:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Other september 2016 items]]></title>
             <link>https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</link>
             <guid isPermaLink="false">https://thomas1111.wordpress.com/2016/09/18/other-september-2016-items/</guid>
@@ -6819,11 +6812,11 @@ hello new followers! hope you are...]]></title>
             <pubDate>Sun, 18 Sep 2016 11:39:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Calculus]]></title>
-            <link>https://colleenyoung.wordpress.com/2016/09/18/introducing-calculus/</link>
-            <guid isPermaLink="false">https://colleenyoung.wordpress.com/2016/09/18/introducing-calculus/</guid>
-            <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2016 11:09:28 GMT</pubDate>
+            <title><![CDATA[In a Quaint German Town, Mathematicians Converge]]></title>
+            <link>https://mathwithbaddrawings.com/2016/09/18/in-a-quaint-german-town-mathematicians-converge/</link>
+            <guid isPermaLink="false">https://mathwithbaddrawings.com/2016/09/18/in-a-quaint-german-town-mathematicians-converge/</guid>
+            <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 11:39:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Calculus]]></title>
@@ -6833,17 +6826,24 @@ hello new followers! hope you are...]]></title>
             <pubDate>Sun, 18 Sep 2016 11:09:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Squares and Stripes]]></title>
-            <link>http://mathtourist.blogspot.com/2016/09/squares-and-stripes.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/squares-and-stripes.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2016 11:00:00 GMT</pubDate>
+            <title><![CDATA[Introducing Calculus]]></title>
+            <link>https://colleenyoung.wordpress.com/2016/09/18/introducing-calculus/</link>
+            <guid isPermaLink="false">https://colleenyoung.wordpress.com/2016/09/18/introducing-calculus/</guid>
+            <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 11:09:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["...a fundamentally creative act"]]></title>
             <link>http://math-frolic.blogspot.com/2016/09/a-fundamentally-creative-act.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/a-fundamentally-creative-act.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Squares and Stripes]]></title>
+            <link>http://mathtourist.blogspot.com/2016/09/squares-and-stripes.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/squares-and-stripes.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 18 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -8263,17 +8263,17 @@ Levon Bliss takes magnification to new...]]></title>
             <pubDate>Tue, 13 Sep 2016 12:12:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Steel Nautilus]]></title>
-            <link>http://mathtourist.blogspot.com/2016/09/steel-nautilus.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/steel-nautilus.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 13 Sep 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Count 'em]]></title>
             <link>http://math-frolic.blogspot.com/2016/09/count-em.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/09/count-em.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steel Nautilus]]></title>
+            <link>http://mathtourist.blogspot.com/2016/09/steel-nautilus.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/09/steel-nautilus.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 13 Sep 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
