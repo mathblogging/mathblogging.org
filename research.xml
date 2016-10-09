@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Oct 2016 21:34:11 GMT</lastBuildDate>
-        <pubDate>Sun, 09 Oct 2016 21:34:09 GMT</pubDate>
+        <lastBuildDate>Sun, 09 Oct 2016 22:04:12 GMT</lastBuildDate>
+        <pubDate>Sun, 09 Oct 2016 22:04:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -1618,17 +1618,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Mon, 26 Sep 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
-            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bayes's Theorem is not optional]]></title>
             <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
             <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
+            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
         </item>
         <item>
@@ -2002,17 +2002,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Thu, 22 Sep 2016 02:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Poker Odds]]></title>
             <link>http://datagenetics.com/blog/september22016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2341,17 +2341,17 @@ Path 5, Row 47 2014-07-23 at...]]></title>
             <pubDate>Mon, 19 Sep 2016 01:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On the set splittability problem]]></title>
-            <link>https://scoskey.github.io/the-set-splittability-talk</link>
-            <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (19)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the set splittability problem]]></title>
+            <link>https://scoskey.github.io/the-set-splittability-talk</link>
+            <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3212,13 +3212,6 @@ dynamic programming]]></title>
             <guid isPermaLink="false">http://mathscinotes.com/2016/09/using-sumproduct-to-evaluate-two-variable-polynomial/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Thu, 08 Sep 2016 23:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intro to Formal Logic 2nd ed. — readers wanted!]]></title>
-            <link>http://www.logicmatters.net/2016/09/08/intro-to-formal-logic-2nd-ed-readers-wanted/</link>
-            <guid isPermaLink="false">http://www.logicmatters.net/2016/09/08/intro-to-formal-logic-2nd-ed-readers-wanted/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Thu, 08 Sep 2016 21:31:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
