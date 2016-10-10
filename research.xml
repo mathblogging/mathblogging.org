@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Oct 2016 16:04:06 GMT</lastBuildDate>
-        <pubDate>Mon, 10 Oct 2016 16:04:04 GMT</pubDate>
+        <lastBuildDate>Mon, 10 Oct 2016 16:34:13 GMT</lastBuildDate>
+        <pubDate>Mon, 10 Oct 2016 16:34:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[measure]]></title>
+            <link>http://www.bookofproofs.org/branches/measure/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/measure/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 10 Oct 2016 16:28:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[measurable set]]></title>
+            <link>http://www.bookofproofs.org/branches/measurable-set/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/measurable-set/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 10 Oct 2016 16:05:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zornian Functional Analysis or: How I Learned to Stop Worrying and Love the Axiom of Choice]]></title>
             <link>http://boolesrings.org/asafk/2016/zornian-functional-analysis-or-how-i-learned-to-stop-worrying-and-love-the-axiom-of-choice/</link>
@@ -68,13 +82,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/measureable-function/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Mon, 10 Oct 2016 11:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[measurable set measure]]></title>
-            <link>http://www.bookofproofs.org/branches/measurable-set-measure/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/measurable-set-measure/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 10 Oct 2016 11:55:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[bilinear form]]></title>
@@ -218,13 +225,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/quantifier-bound-variables-free-variables/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Sun, 09 Oct 2016 21:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[variable]]></title>
-            <link>http://www.bookofproofs.org/branches/variable/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/variable/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 09 Oct 2016 21:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[terms in predicate logic]]></title>
@@ -1785,17 +1785,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Mon, 26 Sep 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
-            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bayes's Theorem is not optional]]></title>
             <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
             <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
+            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
         </item>
         <item>
