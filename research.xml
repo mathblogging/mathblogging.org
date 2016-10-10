@@ -4,10 +4,23 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Oct 2016 10:34:13 GMT</lastBuildDate>
-        <pubDate>Mon, 10 Oct 2016 10:34:10 GMT</pubDate>
+        <lastBuildDate>Mon, 10 Oct 2016 11:04:12 GMT</lastBuildDate>
+        <pubDate>Mon, 10 Oct 2016 11:04:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[mutually disjoint sets]]></title>
+            <link>http://www.bookofproofs.org/branches/mutually-disjoint-sets/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/mutually-disjoint-sets/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 10 Oct 2016 10:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[side effect]]></title>
+            <guid isPermaLink="false">side effect</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 10 Oct 2016 10:31:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vector spaces: definitions and examples]]></title>
             <link>http://www.physicspages.com/2016/10/10/vector-spaces-definitions-and-examples/</link>
@@ -77,25 +90,53 @@
             <pubDate>Sun, 09 Oct 2016 22:16:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[atomic formulae in predicate logic]]></title>
-            <link>http://www.bookofproofs.org/branches/atomic-formulae-in-predicate-logic/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/atomic-formulae-in-predicate-logic/</guid>
+            <title><![CDATA[first order predicate logic]]></title>
+            <link>http://www.bookofproofs.org/branches/first-order-predicate-logic/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/first-order-predicate-logic/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 09 Oct 2016 20:10:47 GMT</pubDate>
+            <pubDate>Sun, 09 Oct 2016 21:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[terms in predicate logic]]></title>
-            <link>http://www.bookofproofs.org/branches/terms-in-predicate-logic/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/terms-in-predicate-logic/</guid>
+            <title><![CDATA[function arity and constant]]></title>
+            <link>http://www.bookofproofs.org/branches/function-arity-and-constant/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/function-arity-and-constant/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 09 Oct 2016 20:04:52 GMT</pubDate>
+            <pubDate>Sun, 09 Oct 2016 21:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[predicate]]></title>
+            <link>http://www.bookofproofs.org/branches/predicate/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/predicate/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 09 Oct 2016 21:36:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[quantifier bound variables free variables]]></title>
             <link>http://www.bookofproofs.org/branches/quantifier-bound-variables-free-variables/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/quantifier-bound-variables-free-variables/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 09 Oct 2016 19:58:14 GMT</pubDate>
+            <pubDate>Sun, 09 Oct 2016 21:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[variable]]></title>
+            <link>http://www.bookofproofs.org/branches/variable/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/variable/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 09 Oct 2016 21:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[terms in predicate logic]]></title>
+            <link>http://www.bookofproofs.org/branches/terms-in-predicate-logic/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/terms-in-predicate-logic/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 09 Oct 2016 21:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[atomic formulae in predicate logic]]></title>
+            <link>http://www.bookofproofs.org/branches/atomic-formulae-in-predicate-logic/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/atomic-formulae-in-predicate-logic/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 09 Oct 2016 21:32:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[signature]]></title>
@@ -503,27 +544,6 @@ Holmes, Craig and Ken Mayhew (2012), “The...]]></title>
             <guid isPermaLink="false">https://gowers.wordpress.com/2016/10/05/discrete-analysis-one-year-on/</guid>
             <dc:creator><![CDATA[Gowers's Weblog]]></dc:creator>
             <pubDate>Wed, 05 Oct 2016 21:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[function arity and constant]]></title>
-            <link>http://www.bookofproofs.org/branches/function-arity-and-constant/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/function-arity-and-constant/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 05 Oct 2016 21:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[variable]]></title>
-            <link>http://www.bookofproofs.org/branches/variable/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/variable/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 05 Oct 2016 21:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[predicate]]></title>
-            <link>http://www.bookofproofs.org/branches/predicate/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/predicate/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 05 Oct 2016 21:27:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hadley Wickham Master R Developer course coming to Melbourne]]></title>
@@ -1803,17 +1823,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Sun, 25 Sep 2016 00:59:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Borel complexity theory in mathematics]]></title>
-            <link>https://scoskey.github.io/borel-complexity-theory-in-mathematics</link>
-            <guid isPermaLink="false">https://scoskey.github.io/borel-complexity-theory-in-mathematics</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live blogging the Antwerp conference (3)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Borel complexity theory in mathematics]]></title>
+            <link>https://scoskey.github.io/borel-complexity-theory-in-mathematics</link>
+            <guid isPermaLink="false">https://scoskey.github.io/borel-complexity-theory-in-mathematics</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1843,20 +1863,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2016/09/24/a-break-in-the-thin-blue-line/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sat, 24 Sep 2016 13:40:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[algebra over a ring]]></title>
-            <link>http://www.bookofproofs.org/branches/algebra-over-a-ring/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/algebra-over-a-ring/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 24 Sep 2016 09:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sigma algebra]]></title>
-            <link>http://www.bookofproofs.org/branches/sigma-algebra/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/sigma-algebra/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 24 Sep 2016 08:57:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Update on a bijective challenge]]></title>
@@ -2076,17 +2082,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Thu, 22 Sep 2016 02:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poker Odds]]></title>
-            <link>http://datagenetics.com/blog/september22016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poker Odds]]></title>
+            <link>http://datagenetics.com/blog/september22016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2408,17 +2414,17 @@ Path 5, Row 47 2014-07-23 at...]]></title>
             <pubDate>Mon, 19 Sep 2016 01:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (19)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On the set splittability problem]]></title>
             <link>https://scoskey.github.io/the-set-splittability-talk</link>
             <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (19)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
