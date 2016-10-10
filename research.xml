@@ -4,16 +4,29 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Oct 2016 12:04:04 GMT</lastBuildDate>
-        <pubDate>Mon, 10 Oct 2016 12:04:01 GMT</pubDate>
+        <lastBuildDate>Mon, 10 Oct 2016 12:34:10 GMT</lastBuildDate>
+        <pubDate>Mon, 10 Oct 2016 12:34:08 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Sam Stanton]]></title>
+            <guid isPermaLink="false">Sam Stanton</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 10 Oct 2016 12:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[polynomials]]></title>
+            <link>http://www.bookofproofs.org/branches/polynomials/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/polynomials/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 10 Oct 2016 12:05:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[measureable function]]></title>
             <link>http://www.bookofproofs.org/branches/measureable-function/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/measureable-function/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 10 Oct 2016 11:57:49 GMT</pubDate>
+            <pubDate>Mon, 10 Oct 2016 11:58:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[measurable set measure]]></title>
@@ -708,13 +721,6 @@ The answer is simple: Administrators work..."]]></title>
             <pubDate>Tue, 04 Oct 2016 22:16:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[domain of discourse]]></title>
-            <link>http://www.bookofproofs.org/branches/domain-of-discourse/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/domain-of-discourse/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 04 Oct 2016 22:02:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[StanCon: now accepting registrations and submissions]]></title>
             <link>http://andrewgelman.com/2016/10/04/stancon-now-accepting-registrations-submissions/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2016/10/04/stancon-now-accepting-registrations-submissions/</guid>
@@ -1318,6 +1324,12 @@ Wolfgang Tillmans, Venus, transit]]></title>
             <pubDate>Fri, 30 Sep 2016 11:53:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[monad (in linguistics)]]></title>
+            <guid isPermaLink="false">monad (in linguistics)</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 30 Sep 2016 09:19:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Monthly Review]]></title>
             <link>http://freakonometrics.hypotheses.org/49191</link>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49191</guid>
@@ -1732,17 +1744,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Mon, 26 Sep 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bayes's Theorem is not optional]]></title>
-            <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
-            <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
             <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bayes's Theorem is not optional]]></title>
+            <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
+            <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
         </item>
         <item>
@@ -2427,17 +2439,17 @@ Path 5, Row 47 2014-07-23 at...]]></title>
             <pubDate>Mon, 19 Sep 2016 01:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On the set splittability problem]]></title>
-            <link>https://scoskey.github.io/the-set-splittability-talk</link>
-            <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (19)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the set splittability problem]]></title>
+            <link>https://scoskey.github.io/the-set-splittability-talk</link>
+            <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3161,12 +3173,6 @@ Ryan Donato, 2015 progress.]]></title>
             <pubDate>Sat, 10 Sep 2016 01:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[topos of recursive sets]]></title>
-            <guid isPermaLink="false">topos of recursive sets</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 09 Sep 2016 22:13:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Q:  “Is A 50-State Poll As Good As 50 State Polls?”  A:  Use Mister P.]]></title>
             <link>http://andrewgelman.com/2016/09/09/q-is-a-50-state-poll-as-good-as-50-state-polls-a-use-mister-p/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2016/09/09/q-is-a-50-state-poll-as-good-as-50-state-polls-a-use-mister-p/</guid>
@@ -3221,12 +3227,6 @@ Ryan Donato, 2015 progress.]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/09/a-quote-to-close-week.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 09 Sep 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barcel&#x000F3; and Carbery on the Magnitude of Odd Balls]]></title>
-            <guid isPermaLink="false">Barcel&amp;#x000F3; and Carbery on the Magnitude of Odd Balls</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Fri, 09 Sep 2016 12:25:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
