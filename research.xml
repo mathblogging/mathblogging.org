@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Oct 2016 13:34:04 GMT</lastBuildDate>
-        <pubDate>Tue, 11 Oct 2016 13:34:01 GMT</pubDate>
+        <lastBuildDate>Tue, 11 Oct 2016 14:04:10 GMT</lastBuildDate>
+        <pubDate>Tue, 11 Oct 2016 14:04:08 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Ideal courses for a comp sci dept/I'm glad we don't do it]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/10/ideal-courses-for-comp-sci-deptim-glad.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/10/ideal-courses-for-comp-sci-deptim-glad.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Tue, 11 Oct 2016 13:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gray graphs look pretty]]></title>
             <link>http://andrewgelman.com/2016/10/11/gray-graphs-look-pretty/</link>
@@ -41,13 +48,6 @@
             <guid isPermaLink="false">https://ayoucis.wordpress.com/2016/10/11/some-notes-on-automorphic-representations/</guid>
             <dc:creator><![CDATA[Hard Arithmetic]]></dc:creator>
             <pubDate>Tue, 11 Oct 2016 11:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Data (2) – phénomène éphémère ou de fond ?]]></title>
-            <link>http://freakonometrics.hypotheses.org/49374</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49374</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Tue, 11 Oct 2016 10:43:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[applicative functor]]></title>
@@ -1958,17 +1958,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Sun, 25 Sep 2016 00:59:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live blogging the Antwerp conference (3)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Borel complexity theory in mathematics]]></title>
             <link>https://scoskey.github.io/borel-complexity-theory-in-mathematics</link>
             <guid isPermaLink="false">https://scoskey.github.io/borel-complexity-theory-in-mathematics</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live blogging the Antwerp conference (3)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2217,17 +2217,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Thu, 22 Sep 2016 02:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poker Odds]]></title>
-            <link>http://datagenetics.com/blog/september22016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live blogging the Antwerp conference (2)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/22/liveblogging-the-antwerp-conference-2/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poker Odds]]></title>
+            <link>http://datagenetics.com/blog/september22016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september22016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2535,17 +2535,17 @@ Path 5, Row 47 2014-07-23 at...]]></title>
             <pubDate>Mon, 19 Sep 2016 01:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On the set splittability problem]]></title>
-            <link>https://scoskey.github.io/the-set-splittability-talk</link>
-            <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (19)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the set splittability problem]]></title>
+            <link>https://scoskey.github.io/the-set-splittability-talk</link>
+            <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
