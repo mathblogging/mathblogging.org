@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Oct 2016 13:01:51 GMT</lastBuildDate>
-        <pubDate>Wed, 19 Oct 2016 13:01:49 GMT</pubDate>
+        <lastBuildDate>Wed, 19 Oct 2016 13:31:00 GMT</lastBuildDate>
+        <pubDate>Wed, 19 Oct 2016 13:30:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -797,17 +797,17 @@ Celia Johnson.]]></title>
             <pubDate>Tue, 11 Oct 2016 00:16:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Einstein's Spacetime]]></title>
-            <link>http://datagenetics.com/blog/october32016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/october32016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The great debate: is it del Pezzo or Del Pezzo?]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/10/11/del-pezzo/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/10/11/del-pezzo/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Einstein's Spacetime]]></title>
+            <link>http://datagenetics.com/blog/october32016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/october32016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2421,17 +2421,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Mon, 26 Sep 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
-            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bayes's Theorem is not optional]]></title>
             <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
             <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
+            <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
         </item>
         <item>
@@ -3009,17 +3009,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Mon, 19 Sep 2016 01:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (19)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On the set splittability problem]]></title>
             <link>https://scoskey.github.io/the-set-splittability-talk</link>
             <guid isPermaLink="false">https://scoskey.github.io/the-set-splittability-talk</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (19)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3063,13 +3063,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2016/09/18/another-item-for-uris-comment-section/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sun, 18 Sep 2016 13:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The most egalitarian of random voting rules]]></title>
-            <link>http://haris-aziz.blogspot.com/2016/09/the-most-egalitarian-of-random-voting.html</link>
-            <guid isPermaLink="false">http://haris-aziz.blogspot.com/2016/09/the-most-egalitarian-of-random-voting.html</guid>
-            <dc:creator><![CDATA[Algorithmic Economics & Other Topics]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2016 13:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Problem of the week, 148]]></title>
