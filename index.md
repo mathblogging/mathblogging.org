@@ -11,8 +11,5 @@ title: Editor's picks
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I’ve shared before but it is worth rereading. “Habits of highly mathematical people” by <a href="https://twitter.com/MathProgramming">@MathProgramming</a> <a href="https://t.co/xsr9ULUBN2">https://t.co/xsr9ULUBN2</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/770655802562531328">August 30, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Excellent post over on the Novice IBL Blog by Jeff Shriner about his journey to IBL. <a href="https://t.co/sqdNVGzl0B">https://t.co/sqdNVGzl0B</a> <a href="https://twitter.com/hashtag/IBLMath?src=hash">#IBLMath</a> <a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/768656356014338048">August 25, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Good Mathematician vs Great Mathematician by “Math with Bad Drawings”. Excellent! <a href="https://t.co/9PGmPrpXJu">https://t.co/9PGmPrpXJu</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/677516866043011076">December 17, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+undefined
 <p> <a href="editors-picks.xml">Grab the feed for our Editors' Picks!</a></p>
