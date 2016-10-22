@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Oct 2016 01:01:03 GMT</lastBuildDate>
-        <pubDate>Sat, 22 Oct 2016 01:01:00 GMT</pubDate>
+        <lastBuildDate>Sat, 22 Oct 2016 01:32:02 GMT</lastBuildDate>
+        <pubDate>Sat, 22 Oct 2016 01:32:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -91,6 +91,13 @@
             <guid isPermaLink="false">https://abagsthoughts.wordpress.com/2016/10/20/paper-published-in-scientific-reports/</guid>
             <dc:creator><![CDATA[abag's thoughts]]></dc:creator>
             <pubDate>Thu, 20 Oct 2016 12:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Primitive roots of unity]]></title>
+            <link>https://mathlesstraveled.com/2016/10/20/primitive-roots-of-unity/</link>
+            <guid isPermaLink="false">https://mathlesstraveled.com/2016/10/20/primitive-roots-of-unity/</guid>
+            <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
+            <pubDate>Thu, 20 Oct 2016 11:15:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“Manhattan, distancias y “el juicio de Pitágoras””, nuevo artículo en “El Aleph”]]></title>
@@ -245,6 +252,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/AykaS013G0g/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Tue, 18 Oct 2016 11:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complex multiplication: proof]]></title>
+            <link>https://mathlesstraveled.com/2016/10/18/complex-multiplication-proof/</link>
+            <guid isPermaLink="false">https://mathlesstraveled.com/2016/10/18/complex-multiplication-proof/</guid>
+            <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
+            <pubDate>Tue, 18 Oct 2016 10:24:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Evidence-based policy chants]]></title>
@@ -2631,17 +2645,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Sun, 25 Sep 2016 00:59:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live blogging the Antwerp conference (3)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Borel complexity theory in mathematics]]></title>
             <link>https://scoskey.github.io/borel-complexity-theory-in-mathematics</link>
             <guid isPermaLink="false">https://scoskey.github.io/borel-complexity-theory-in-mathematics</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live blogging the Antwerp conference (3)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/25/liveblogging-the-antwerp-conference-3/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2876,13 +2890,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Wed, 21 Sep 2016 10:08:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Struggles with the Continuum (Part 6)]]></title>
-            <link>https://johncarlosbaez.wordpress.com/2016/09/21/struggles-with-the-continuum-part-6/</link>
-            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2016/09/21/struggles-with-the-continuum-part-6/</guid>
-            <dc:creator><![CDATA[Azimuth]]></dc:creator>
-            <pubDate>Wed, 21 Sep 2016 01:00:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Fun Gastronomical Dataset: What's on the Menu?]]></title>
             <link>http://www.sumsar.net/blog/2016/09/whats-on-the-menu/</link>
             <guid isPermaLink="false">http://www.sumsar.net/blog/2016/09/whats-on-the-menu/</guid>
@@ -2902,13 +2909,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <guid isPermaLink="false">https://massimolauria.wordpress.com/2016/09/20/sos2014lecture07/</guid>
             <dc:creator><![CDATA[Hard Theorems]]></dc:creator>
             <pubDate>Tue, 20 Sep 2016 21:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La prévention est probablement le seul levier sur lequel les assureurs peuvent utiliser les données personnelles]]></title>
-            <link>http://freakonometrics.hypotheses.org/49169</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49169</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Tue, 20 Sep 2016 20:07:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On "Shorter Papers"]]></title>
@@ -2974,13 +2974,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Mon, 19 Sep 2016 05:30:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tripping over my own inner product]]></title>
-            <link>https://quantumfrontiers.com/2016/09/18/tripping-over-my-own-inner-product/</link>
-            <guid isPermaLink="false">https://quantumfrontiers.com/2016/09/18/tripping-over-my-own-inner-product/</guid>
-            <dc:creator><![CDATA[Quantum Frontiers]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2016 03:24:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (19)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/09/19/fortnightly-links-19/</guid>
@@ -3028,13 +3021,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <guid isPermaLink="false">https://wdjoyner.wordpress.com/2016/09/17/problem-of-the-week-150/</guid>
             <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
             <pubDate>Sun, 18 Sep 2016 01:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Urgent news from Leicester]]></title>
-            <link>https://mathematicswithoutapologies.wordpress.com/2016/09/17/urgent-news-from-leicester/</link>
-            <guid isPermaLink="false">https://mathematicswithoutapologies.wordpress.com/2016/09/17/urgent-news-from-leicester/</guid>
-            <dc:creator><![CDATA[Mathematics without Apologies, by Michael Harris]]></dc:creator>
-            <pubDate>Sat, 17 Sep 2016 15:01:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pro Publica Surgeon Scorecard Update]]></title>
