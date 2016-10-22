@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Oct 2016 21:01:08 GMT</lastBuildDate>
-        <pubDate>Sat, 22 Oct 2016 21:01:05 GMT</pubDate>
+        <lastBuildDate>Sat, 22 Oct 2016 21:31:28 GMT</lastBuildDate>
+        <pubDate>Sat, 22 Oct 2016 21:31:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -23,11 +23,32 @@
             <pubDate>Sat, 22 Oct 2016 16:28:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Niveau et puissance de test (paramétrique)]]></title>
+            <link>http://freakonometrics.hypotheses.org/49416</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49416</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Sat, 22 Oct 2016 16:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magus Muir]]></title>
+            <link>https://cameroncounts.wordpress.com/2016/10/22/magus-muir/</link>
+            <guid isPermaLink="false">https://cameroncounts.wordpress.com/2016/10/22/magus-muir/</guid>
+            <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
+            <pubDate>Sat, 22 Oct 2016 15:22:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tourism forecasting competition data as an R package]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/yEAq5Xb7IoQ/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/yEAq5Xb7IoQ/</guid>
             <dc:creator><![CDATA[Hyndsight]]></dc:creator>
             <pubDate>Sat, 22 Oct 2016 11:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A crossword clue]]></title>
+            <link>https://cameroncounts.wordpress.com/2016/10/22/a-crossword-clue/</link>
+            <guid isPermaLink="false">https://cameroncounts.wordpress.com/2016/10/22/a-crossword-clue/</guid>
+            <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
+            <pubDate>Sat, 22 Oct 2016 08:27:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stat of the Week fixed]]></title>
@@ -2505,13 +2526,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Tue, 27 Sep 2016 08:34:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reducts and Reed-Muller codes]]></title>
-            <link>https://cameroncounts.wordpress.com/2016/09/27/reducts-and-reed-muller-codes/</link>
-            <guid isPermaLink="false">https://cameroncounts.wordpress.com/2016/09/27/reducts-and-reed-muller-codes/</guid>
-            <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
-            <pubDate>Tue, 27 Sep 2016 03:19:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[My First Paper!]]></title>
             <link>http://richardzach.org/2016/09/26/my-first-paper/</link>
             <guid isPermaLink="false">http://richardzach.org/2016/09/26/my-first-paper/</guid>
@@ -2582,17 +2596,17 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <pubDate>Mon, 26 Sep 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bayes's Theorem is not optional]]></title>
-            <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
-            <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
             <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bayes's Theorem is not optional]]></title>
+            <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
+            <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
         </item>
         <item>
@@ -2643,13 +2657,6 @@ Sometimes the initial action A and its subsequent..."]]></title>
             <guid isPermaLink="false">http://www.logicmatters.net/2016/09/25/category-theory-notes/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Sun, 25 Sep 2016 09:22:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perth, week 2]]></title>
-            <link>https://cameroncounts.wordpress.com/2016/09/25/perth-week-2/</link>
-            <guid isPermaLink="false">https://cameroncounts.wordpress.com/2016/09/25/perth-week-2/</guid>
-            <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
-            <pubDate>Sun, 25 Sep 2016 03:51:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Put all these things [style, weight, form, structure] together … and you come to …..."]]></title>
