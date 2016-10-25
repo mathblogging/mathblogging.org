@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Oct 2016 10:01:07 GMT</lastBuildDate>
-        <pubDate>Tue, 25 Oct 2016 10:01:04 GMT</pubDate>
+        <lastBuildDate>Tue, 25 Oct 2016 10:32:11 GMT</lastBuildDate>
+        <pubDate>Tue, 25 Oct 2016 10:32:08 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -147,6 +147,13 @@
             <guid isPermaLink="false">http://www.physicspages.com/2016/10/23/eigenvalues-and-eigenvectors/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
             <pubDate>Sun, 23 Oct 2016 13:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Assurance, solidarité ou individualisation]]></title>
+            <link>http://freakonometrics.hypotheses.org/49439</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49439</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Sun, 23 Oct 2016 13:48:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Q&A time]]></title>
@@ -1114,17 +1121,17 @@ Celia Johnson.]]></title>
             <pubDate>Tue, 11 Oct 2016 00:16:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Einstein's Spacetime]]></title>
-            <link>http://datagenetics.com/blog/october32016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/october32016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The great debate: is it del Pezzo or Del Pezzo?]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/10/11/del-pezzo/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/10/11/del-pezzo/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Einstein's Spacetime]]></title>
+            <link>http://datagenetics.com/blog/october32016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/october32016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1182,6 +1189,13 @@ Celia Johnson.]]></title>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/module/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Mon, 10 Oct 2016 17:22:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Les dérives du principe de précaution]]></title>
+            <link>http://freakonometrics.hypotheses.org/48856</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/48856</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Mon, 10 Oct 2016 17:13:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[measurable set]]></title>
@@ -2680,17 +2694,17 @@ Wolfgang Tillmans, Venus, transit]]></title>
             <pubDate>Mon, 26 Sep 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bayes's Theorem is not optional]]></title>
-            <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
-            <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematical Word Processing: Historical Snippets]]></title>
             <link>https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/09/26/mathematical-word-processing-historical-snippets/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bayes's Theorem is not optional]]></title>
+            <link>http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/ProbablyOverthinkingIt/~3/H2I1MAK11CY/bayess-theorem-is-not-optional.html</guid>
+            <dc:creator><![CDATA[Probably Overthinking It]]></dc:creator>
             <pubDate>Mon, 26 Sep 2016 11:47:00 GMT</pubDate>
         </item>
         <item>
@@ -2797,13 +2811,6 @@ Wolfgang Tillmans, Venus, transit]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2016/09/23/trump-1-in-florida-or-a-quick-comment-on-that-5-groups-analyze-the-same-poll-exercise/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 23 Sep 2016 15:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weapons of Math Destruction: How Big Data Increases Inequality]]></title>
-            <link>http://freakonometrics.hypotheses.org/49175</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49175</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Fri, 23 Sep 2016 13:20:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Andrew Gelman is not the plagiarism police because there is no such thing as the plagiarism police.]]></title>
