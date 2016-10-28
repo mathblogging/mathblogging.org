@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fawn Nguyen, insightful as always for teachers (seeking balance &amp; finding room for ice cream): <a href="https://t.co/Ijycn8BQuO">https://t.co/Ijycn8BQuO</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/791962748905099265">October 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Evelyn Lamb goes not-so-heavy metal on us ;-) ... with fun beyond the golden ratio: <a href="https://t.co/qMRgYuW0g4">https://t.co/qMRgYuW0g4</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/789824196104876032">October 22, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Jim Propp&#39;s latest installment on negative numbers, with lots of great history: <a href="https://t.co/Jce4jBXGsK">https://t.co/Jce4jBXGsK</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/787973964282880000">October 17, 2016</a></blockquote>
