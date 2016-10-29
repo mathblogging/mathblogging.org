@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Evelyn Lamb excited by Ramsey Theory, Facebook, &amp; birthdays: <a href="https://t.co/cppwdFgpgt">https://t.co/cppwdFgpgt</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/792484201153040384">October 29, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fawn Nguyen, insightful as always for teachers (seeking balance &amp; finding room for ice cream): <a href="https://t.co/Ijycn8BQuO">https://t.co/Ijycn8BQuO</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/791962748905099265">October 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Evelyn Lamb goes not-so-heavy metal on us ;-) ... with fun beyond the golden ratio: <a href="https://t.co/qMRgYuW0g4">https://t.co/qMRgYuW0g4</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/789824196104876032">October 22, 2016</a></blockquote>
