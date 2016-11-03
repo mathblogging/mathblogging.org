@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Nov 2016 10:01:19 GMT</lastBuildDate>
-        <pubDate>Thu, 03 Nov 2016 10:01:17 GMT</pubDate>
+        <lastBuildDate>Thu, 03 Nov 2016 10:31:04 GMT</lastBuildDate>
+        <pubDate>Thu, 03 Nov 2016 10:31:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Vector spaces & linear independence – some examples]]></title>
+            <link>http://www.physicspages.com/2016/11/03/vector-spaces-linear-independence-some-examples/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2016/11/03/vector-spaces-linear-independence-some-examples/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Thu, 03 Nov 2016 10:29:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kernel]]></title>
+            <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/nG5VchMmSzs/152680338807</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/nG5VchMmSzs/152680338807</guid>
+            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
+            <pubDate>Thu, 03 Nov 2016 10:00:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a simple random walk]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/EcQlgMkHlko/152679372009</link>
@@ -557,13 +571,6 @@ Simões de...]]></title>
             <pubDate>Wed, 26 Oct 2016 13:38:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Photo]]></title>
-            <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/ecBAQ9XvpEg/152325265671</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/ecBAQ9XvpEg/152325265671</guid>
-            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
-            <pubDate>Wed, 26 Oct 2016 05:30:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Practical Learning of Deep Gaussian Processes via Random Fourier Features]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/YgnNjbAPtMw/practical-learning-of-deep-gaussian.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/YgnNjbAPtMw/practical-learning-of-deep-gaussian.html</guid>
@@ -926,13 +933,6 @@ Simões de...]]></title>
             <guid isPermaLink="false">https://gottwurfelt.com/2016/10/19/roundup-of-the-poll-aggregators/</guid>
             <dc:creator><![CDATA[God plays dice]]></dc:creator>
             <pubDate>Wed, 19 Oct 2016 21:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inverses of linear operators]]></title>
-            <link>http://www.physicspages.com/2016/10/19/inverses-of-linear-operators/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2016/10/19/inverses-of-linear-operators/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Wed, 19 Oct 2016 16:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interim analysis, futility monitoring, and predictive probability]]></title>
@@ -1572,17 +1572,17 @@ Simões de...]]></title>
             <pubDate>Tue, 11 Oct 2016 00:16:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Einstein's Spacetime]]></title>
-            <link>http://datagenetics.com/blog/october32016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/october32016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The great debate: is it del Pezzo or Del Pezzo?]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/10/11/del-pezzo/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/10/11/del-pezzo/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Einstein's Spacetime]]></title>
+            <link>http://datagenetics.com/blog/october32016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/october32016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
