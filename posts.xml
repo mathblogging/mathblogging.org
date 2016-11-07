@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Nov 2016 12:30:42 GMT</lastBuildDate>
-        <pubDate>Mon, 07 Nov 2016 12:30:38 GMT</pubDate>
+        <lastBuildDate>Mon, 07 Nov 2016 13:01:24 GMT</lastBuildDate>
+        <pubDate>Mon, 07 Nov 2016 13:01:21 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Using Martin Holtham’s inversion program]]></title>
+            <link>https://mikesmathpage.wordpress.com/2016/11/07/using-martin-holthams-inversion-program/</link>
+            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2016/11/07/using-martin-holthams-inversion-program/</guid>
+            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
+            <pubDate>Mon, 07 Nov 2016 12:50:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[And the winner is... Harambe]]></title>
             <link>http://blog.computationalcomplexity.org/2016/11/and-winner-is-harambe.html</link>
@@ -228,17 +235,17 @@ Geometry]]></title>
             <pubDate>Sun, 06 Nov 2016 02:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 6]]></title>
             <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -620,17 +627,17 @@ Healing Circle.]]></title>
             <pubDate>Fri, 04 Nov 2016 00:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 4]]></title>
-            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The set splittability problem]]></title>
             <link>https://scoskey.github.io/splittability</link>
             <guid isPermaLink="false">https://scoskey.github.io/splittability</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 4]]></title>
+            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2487,17 +2494,17 @@ The weirdest town name in every state]]></title>
             <pubDate>Tue, 25 Oct 2016 07:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Math Horror Movies: 5000 Digits]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/10/math-horror-movies-5000-digits.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/10/math-horror-movies-5000-digits.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Tue, 25 Oct 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thesis: Spectral Inference Methods on Sparse Graphs: Theory and Applications by Alaa Saade]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/jgjvoeOXRv4/thesis-spectral-inference-methods-on.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/jgjvoeOXRv4/thesis-spectral-inference-methods-on.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 25 Oct 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math Horror Movies: 5000 Digits]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/10/math-horror-movies-5000-digits.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/10/math-horror-movies-5000-digits.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Tue, 25 Oct 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2742,17 +2749,17 @@ one occasion, Erdős met a mathematician and asked him where he was from....]]><
             <pubDate>Mon, 24 Oct 2016 05:30:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Greedy Blind Calibration Method for Compressed Sensing with Unknown Sensor Gains]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/BmrfWh6GLLo/a-greedy-blind-calibration-method-for.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/BmrfWh6GLLo/a-greedy-blind-calibration-method-for.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Mon, 24 Oct 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.5.42]]></title>
             <link>http://images.math.cnrs.fr/-4107.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/-4107.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 24 Oct 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Greedy Blind Calibration Method for Compressed Sensing with Unknown Sensor Gains]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/BmrfWh6GLLo/a-greedy-blind-calibration-method-for.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/BmrfWh6GLLo/a-greedy-blind-calibration-method-for.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 24 Oct 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3075,13 +3082,6 @@ Made with Isometric]]></title>
             <pubDate>Sat, 22 Oct 2016 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Taking kids through John Baez’s post about the Gyroid]]></title>
-            <link>https://mikesmathpage.wordpress.com/2016/10/22/taking-kids-through-john-baezs-post-about-the-gyroid/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2016/10/22/taking-kids-through-john-baezs-post-about-the-gyroid/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Sat, 22 Oct 2016 12:57:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“π – It’s Complicated” – a talk I gave on Pi Day 2016 at Ustinov College Café Scientifique]]></title>
             <link>http://aperiodical.com/2016/10/%25cf%2580-its-complicated-a-talk-i-gave-on-pi-day-2016-at-ustinov-college-cafe-scientifique/</link>
             <guid isPermaLink="false">http://aperiodical.com/2016/10/%cf%80-its-complicated-a-talk-i-gave-on-pi-day-2016-at-ustinov-college-cafe-scientifique/</guid>
@@ -3245,17 +3245,17 @@ Made with Isometric]]></title>
             <pubDate>Fri, 21 Oct 2016 12:30:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Solving Equations Using Inverse Operations Foldable]]></title>
-            <link>http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</link>
-            <guid isPermaLink="false">http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</guid>
-            <dc:creator><![CDATA[Math = Love]]></dc:creator>
-            <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some Miscellany From the Week]]></title>
             <link>http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solving Equations Using Inverse Operations Foldable]]></title>
+            <link>http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</link>
+            <guid isPermaLink="false">http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
             <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
         </item>
         <item>
@@ -4155,17 +4155,17 @@ Randy P. Martin | Tumblr]]></title>
             <pubDate>Sun, 16 Oct 2016 12:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Perspective...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/10/perspective.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/10/perspective.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 16 Oct 2016 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fan Glass]]></title>
             <link>http://mathtourist.blogspot.com/2016/10/fan-glass.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/10/fan-glass.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 16 Oct 2016 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perspective...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/10/perspective.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/10/perspective.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 16 Oct 2016 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6262,13 +6262,6 @@ We have three colored segment in this...]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/10/the-conspiracy-behind-your-glasses.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 07 Oct 2016 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Excel's Icon Sets for Testing Equality -- Ugh]]></title>
-            <link>http://mathscinotes.com/2016/10/using-excels-icon-sets-for-testing-equality-ugh/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2016/10/using-excels-icon-sets-for-testing-equality-ugh/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Fri, 07 Oct 2016 12:45:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Few Reads From the Week]]></title>
