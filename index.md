@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">More math goodliness (Ramsey Theory) from Evelyn Lamb: <a href="https://t.co/4LJ7MnTPVW">https://t.co/4LJ7MnTPVW</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/797038739130380288">November 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Good piece on the particular toxicity of the mathematical community. Warning: don&#39;t read the comments. <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a> <a href="https://t.co/PjiKykLELK">https://t.co/PjiKykLELK</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/795550798088388609">November 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Quick intro to Graham&#39;s Number (in German) by <a href="https://twitter.com/astrodicticum">@astrodicticum</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a>  <a href="https://t.co/uwvnrAztrV">https://t.co/uwvnrAztrV</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/795367039720456194">November 6, 2016</a></blockquote>
