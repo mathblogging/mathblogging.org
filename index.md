@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/rmathematicus">@rmathematicus</a> is back to blogging. Taking apart another <a href="https://twitter.com/hashtag/histSTM?src=hash">#histSTM</a> cliché: &quot;you never heard of&quot;<a href="https://t.co/l16n5MLxFs">https://t.co/l16n5MLxFs</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/799516065353138176">November 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">So many thoughts from Jim Propp to think about thinking about ;-) : <a href="https://t.co/pZEqcinXoG">https://t.co/pZEqcinXoG</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/799231906369961984">November 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fewer laughs, but GREAT thoughts from <a href="https://twitter.com/benorlin">@benorlin</a> today on math curriculum: <a href="https://t.co/Z7s4WEigfF">https://t.co/Z7s4WEigfF</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/798861993486729217">November 16, 2016</a></blockquote>
