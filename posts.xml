@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Nov 2016 17:00:48 GMT</lastBuildDate>
-        <pubDate>Fri, 18 Nov 2016 17:00:46 GMT</pubDate>
+        <lastBuildDate>Fri, 18 Nov 2016 17:30:41 GMT</lastBuildDate>
+        <pubDate>Fri, 18 Nov 2016 17:30:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Scientific publisher hacked, affecting 65 papers]]></title>
+            <link>http://retractionwatch.com/2016/11/18/scientific-publisher-hacked-affecting-65-papers/</link>
+            <guid isPermaLink="false">http://retractionwatch.com/2016/11/18/scientific-publisher-hacked-affecting-65-papers/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Fri, 18 Nov 2016 17:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Self-doubt (partial retraction?)]]></title>
+            <link>https://jessecmckeown.tumblr.com/post/153346611230</link>
+            <guid isPermaLink="false">https://jessecmckeown.tumblr.com/post/153346611230</guid>
+            <dc:creator><![CDATA[https://jessecmckeown.tumblr.com/]]></dc:creator>
+            <pubDate>Fri, 18 Nov 2016 16:08:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jarzynksi on Non-Equilibrium Statistical Mechanics]]></title>
             <link>https://johncarlosbaez.wordpress.com/2016/11/18/jarzynksi-on-non-equilibrium-statistical-mechanics/</link>
@@ -707,13 +721,6 @@
             <guid isPermaLink="false">https://banderson02.wordpress.com/2016/11/14/what-is-rounding-up/</guid>
             <dc:creator><![CDATA[MathLab]]></dc:creator>
             <pubDate>Mon, 14 Nov 2016 17:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two Harvard-led groups pull well-cited cancer papers for duplication]]></title>
-            <link>http://retractionwatch.com/2016/11/14/two-harvard-led-groups-pull-well-cited-cancer-papers-for-duplication/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2016/11/14/two-harvard-led-groups-pull-well-cited-cancer-papers-for-duplication/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Mon, 14 Nov 2016 17:00:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Courant’s Home Movies]]></title>
@@ -2063,17 +2070,17 @@ Geometry]]></title>
             <pubDate>Sun, 06 Nov 2016 02:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 6]]></title>
             <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2371,17 +2378,17 @@ Healing Circle.]]></title>
             <pubDate>Fri, 04 Nov 2016 00:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 4]]></title>
-            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The set splittability problem]]></title>
             <link>https://scoskey.github.io/splittability</link>
             <guid isPermaLink="false">https://scoskey.github.io/splittability</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 4]]></title>
+            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4042,17 +4049,17 @@ The weirdest town name in every state]]></title>
             <pubDate>Tue, 25 Oct 2016 07:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Math Horror Movies: 5000 Digits]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/10/math-horror-movies-5000-digits.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/10/math-horror-movies-5000-digits.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Tue, 25 Oct 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thesis: Spectral Inference Methods on Sparse Graphs: Theory and Applications by Alaa Saade]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/jgjvoeOXRv4/thesis-spectral-inference-methods-on.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/jgjvoeOXRv4/thesis-spectral-inference-methods-on.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 25 Oct 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math Horror Movies: 5000 Digits]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/10/math-horror-movies-5000-digits.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/10/math-horror-movies-5000-digits.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Tue, 25 Oct 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4967,13 +4974,6 @@ one occasion, Erdős met a mathematician and asked him where he was from....]]><
             <guid isPermaLink="false">http://scienzaemusica.blogspot.com/2016/10/il-gruppo-14-della-tavola-periodica-2-e.html</guid>
             <dc:creator><![CDATA[Scienza e Musica]]></dc:creator>
             <pubDate>Tue, 18 Oct 2016 17:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complex Adaptive System Design (Part 2)]]></title>
-            <link>https://johncarlosbaez.wordpress.com/2016/10/18/complex-adaptive-system-design-part-2/</link>
-            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2016/10/18/complex-adaptive-system-design-part-2/</guid>
-            <dc:creator><![CDATA[Azimuth]]></dc:creator>
-            <pubDate>Tue, 18 Oct 2016 17:19:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Helping Operations Researchers start young]]></title>
