@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Nov 2016 04:30:23 GMT</lastBuildDate>
-        <pubDate>Wed, 23 Nov 2016 04:30:21 GMT</pubDate>
+        <lastBuildDate>Wed, 23 Nov 2016 05:01:37 GMT</lastBuildDate>
+        <pubDate>Wed, 23 Nov 2016 05:01:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[An integration approach to the Toeplitz square peg problem]]></title>
+            <link>https://terrytao.wordpress.com/2016/11/22/an-integration-approach-to-the-toeplitz-square-peg-problem/</link>
+            <guid isPermaLink="false">https://terrytao.wordpress.com/2016/11/22/an-integration-approach-to-the-toeplitz-square-peg-problem/</guid>
+            <dc:creator><![CDATA[What's new]]></dc:creator>
+            <pubDate>Wed, 23 Nov 2016 04:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[DITL] The Last Day Before Thankgiving]]></title>
+            <link>https://hilbertshotel.wordpress.com/2016/11/22/ditl-the-last-day-before-thankgiving/</link>
+            <guid isPermaLink="false">https://hilbertshotel.wordpress.com/2016/11/22/ditl-the-last-day-before-thankgiving/</guid>
+            <dc:creator><![CDATA[Hilbert's Hotel]]></dc:creator>
+            <pubDate>Wed, 23 Nov 2016 04:24:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[More Faculty Lounge Math]]></title>
             <link>http://exit10a.blogspot.com/2016/11/more-faculty-lounge-math_22.html</link>
@@ -2521,17 +2535,17 @@ Geometry]]></title>
             <pubDate>Sun, 06 Nov 2016 02:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 6]]></title>
             <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4671,13 +4685,6 @@ one occasion, Erdős met a mathematician and asked him where he was from....]]><
             <pubDate>Sun, 23 Oct 2016 06:23:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The greatest Cub/Indian]]></title>
-            <link>https://quomodocumque.wordpress.com/2016/10/22/the-greatest-cubindian/</link>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2016/10/22/the-greatest-cubindian/</guid>
-            <dc:creator><![CDATA[Quomodocumque]]></dc:creator>
-            <pubDate>Sun, 23 Oct 2016 04:17:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Angle theorems reference page]]></title>
             <link>http://homeschoolmath.blogspot.com/2016/10/angle-theorems-reference-page.html</link>
             <guid isPermaLink="false">http://homeschoolmath.blogspot.com/2016/10/angle-theorems-reference-page.html</guid>
@@ -4734,17 +4741,17 @@ one occasion, Erdős met a mathematician and asked him where he was from....]]><
             <pubDate>Fri, 21 Oct 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Solving Equations Using Inverse Operations Foldable]]></title>
-            <link>http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</link>
-            <guid isPermaLink="false">http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</guid>
-            <dc:creator><![CDATA[Math = Love]]></dc:creator>
-            <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some Miscellany From the Week]]></title>
             <link>http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solving Equations Using Inverse Operations Foldable]]></title>
+            <link>http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</link>
+            <guid isPermaLink="false">http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
             <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
         </item>
         <item>
@@ -4825,17 +4832,17 @@ one occasion, Erdős met a mathematician and asked him where he was from....]]><
             <pubDate>Thu, 20 Oct 2016 10:08:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Autour du théorème de Sprague-Grundy]]></title>
-            <link>http://images.math.cnrs.fr/Autour-du-theoreme-de-Sprague-Grundy.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Autour-du-theoreme-de-Sprague-Grundy.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Thu, 20 Oct 2016 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Horror Movies: Pendulum]]></title>
             <link>http://mrburkemath.blogspot.com/2016/10/math-horror-movies-pendulum.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/10/math-horror-movies-pendulum.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Thu, 20 Oct 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autour du théorème de Sprague-Grundy]]></title>
+            <link>http://images.math.cnrs.fr/Autour-du-theoreme-de-Sprague-Grundy.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Autour-du-theoreme-de-Sprague-Grundy.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Thu, 20 Oct 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
