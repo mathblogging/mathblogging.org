@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Nov 2016 13:30:24 GMT</lastBuildDate>
-        <pubDate>Sat, 26 Nov 2016 13:30:22 GMT</pubDate>
+        <lastBuildDate>Sat, 26 Nov 2016 14:01:30 GMT</lastBuildDate>
+        <pubDate>Sat, 26 Nov 2016 14:01:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Revisiting our Zometool Snowman]]></title>
+            <link>https://mikesmathpage.wordpress.com/2016/11/26/revisiting-our-zometool-snowman/</link>
+            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2016/11/26/revisiting-our-zometool-snowman/</guid>
+            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
+            <pubDate>Sat, 26 Nov 2016 13:27:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fun with rotopo]]></title>
             <link>https://mikesmathpage.wordpress.com/2016/11/26/fun-with-rotopo/</link>
@@ -1851,13 +1858,6 @@ Featured Student Project: Silly...]]></title>
             <pubDate>Sun, 13 Nov 2016 13:30:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A zipper Möbius strip from Mathjams]]></title>
-            <link>https://mikesmathpage.wordpress.com/2016/11/13/a-zipper-mobius-strip-from-mathjams/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2016/11/13/a-zipper-mobius-strip-from-mathjams/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Sun, 13 Nov 2016 12:45:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sunday Morning Insight: Antipodal Seismic Maps ?]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Y1V6CQMIRqw/sunday-morning-insight-antipodal.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Y1V6CQMIRqw/sunday-morning-insight-antipodal.html</guid>
@@ -2638,17 +2638,17 @@ Animated GIF (500x500)Created with...]]></title>
             <pubDate>Mon, 07 Nov 2016 13:23:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[And the winner is... Harambe]]></title>
-            <link>http://blog.computationalcomplexity.org/2016/11/and-winner-is-harambe.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/11/and-winner-is-harambe.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Mon, 07 Nov 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Oak Leaves]]></title>
             <link>http://mathtourist.blogspot.com/2016/11/oak-leaves.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/11/oak-leaves.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 07 Nov 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[And the winner is... Harambe]]></title>
+            <link>http://blog.computationalcomplexity.org/2016/11/and-winner-is-harambe.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/11/and-winner-is-harambe.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 07 Nov 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2850,17 +2850,17 @@ Geometry]]></title>
             <pubDate>Sun, 06 Nov 2016 02:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 6]]></title>
-            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 6]]></title>
+            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4262,13 +4262,6 @@ Made with Isometric]]></title>
             <pubDate>Wed, 26 Oct 2016 16:18:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Natural growth]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/Zxt1hskjLqk/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/Zxt1hskjLqk/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Wed, 26 Oct 2016 13:38:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chemistry Gossip Activity]]></title>
             <link>http://mathequalslove.blogspot.com/2016/10/chemistry-gossip-activity.html</link>
             <guid isPermaLink="false">http://mathequalslove.blogspot.com/2016/10/chemistry-gossip-activity.html</guid>
@@ -4542,17 +4535,17 @@ Made with Isometric]]></title>
             <pubDate>Fri, 21 Oct 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Some Miscellany From the Week]]></title>
-            <link>http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</link>
-            <guid isPermaLink="false">http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</guid>
-            <dc:creator><![CDATA[MathTango...]]></dc:creator>
-            <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Solving Equations Using Inverse Operations Foldable]]></title>
             <link>http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</link>
             <guid isPermaLink="false">http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</guid>
             <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some Miscellany From the Week]]></title>
+            <link>http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</link>
+            <guid isPermaLink="false">http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</guid>
+            <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
         </item>
         <item>
