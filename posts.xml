@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Nov 2016 20:30:25 GMT</lastBuildDate>
-        <pubDate>Sat, 26 Nov 2016 20:30:23 GMT</pubDate>
+        <lastBuildDate>Sat, 26 Nov 2016 21:01:21 GMT</lastBuildDate>
+        <pubDate>Sat, 26 Nov 2016 21:01:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -30,11 +30,25 @@
             <pubDate>Sat, 26 Nov 2016 17:57:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lagrangian for a spherically symmetric potential energy function]]></title>
+            <link>http://www.physicspages.com/2016/11/26/lagrangian-for-a-spherically-symmetric-potential-energy-function/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2016/11/26/lagrangian-for-a-spherically-symmetric-potential-energy-function/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Sat, 26 Nov 2016 16:10:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Weekend reads: Fake scientists; fake research; major evils of modern research]]></title>
             <link>http://retractionwatch.com/2016/11/26/weekend-reads-fake-scientists-fake-research-major-evils-of-modern-research/</link>
             <guid isPermaLink="false">http://retractionwatch.com/2016/11/26/weekend-reads-fake-scientists-fake-research-major-evils-of-modern-research/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Sat, 26 Nov 2016 14:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11/26/16]]></title>
+            <link>http://purenumbers.tumblr.com/post/153683383730</link>
+            <guid isPermaLink="false">http://purenumbers.tumblr.com/post/153683383730</guid>
+            <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
+            <pubDate>Sat, 26 Nov 2016 13:30:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Revisiting our Zometool Snowman]]></title>
@@ -1650,13 +1664,6 @@ Schmeh]]></title>
             <pubDate>Mon, 14 Nov 2016 17:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coupled masses on springs – a  solution using matrix diagonalization]]></title>
-            <link>http://www.physicspages.com/2016/11/14/coupled-masses-on-springs-a-solution-using-matrix-diagonalization/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2016/11/14/coupled-masses-on-springs-a-solution-using-matrix-diagonalization/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Mon, 14 Nov 2016 17:25:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What is “Rounding Up”?]]></title>
             <link>https://banderson02.wordpress.com/2016/11/14/what-is-rounding-up/</link>
             <guid isPermaLink="false">https://banderson02.wordpress.com/2016/11/14/what-is-rounding-up/</guid>
@@ -2815,13 +2822,6 @@ Geometry]]></title>
             <pubDate>Sun, 06 Nov 2016 14:00:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[11/6/16]]></title>
-            <link>http://purenumbers.tumblr.com/post/152807748960</link>
-            <guid isPermaLink="false">http://purenumbers.tumblr.com/post/152807748960</guid>
-            <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
-            <pubDate>Sun, 06 Nov 2016 12:30:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Italianate Details and Symmetry]]></title>
             <link>http://mathtourist.blogspot.com/2016/11/italianate-details-and-symmetry.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/11/italianate-details-and-symmetry.html</guid>
@@ -2871,17 +2871,17 @@ Geometry]]></title>
             <pubDate>Sun, 06 Nov 2016 02:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 6]]></title>
             <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3158,17 +3158,17 @@ Healing Circle.]]></title>
             <pubDate>Fri, 04 Nov 2016 00:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 4]]></title>
-            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The set splittability problem]]></title>
             <link>https://scoskey.github.io/splittability</link>
             <guid isPermaLink="false">https://scoskey.github.io/splittability</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 4]]></title>
+            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-4.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4237,15 +4237,6 @@ Short Of Breath.]]></title>
             <guid isPermaLink="false">https://danpearcymaths.wordpress.com/2016/10/26/teaching-and-learning-framework-for-a-lesson-in-mathematics/</guid>
             <dc:creator><![CDATA[Teaching Mathematics]]></dc:creator>
             <pubDate>Wed, 26 Oct 2016 21:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[madewithisometric:
-
-Made with Isometric]]></title>
-            <link>http://milwardh.tumblr.com/post/152350250526</link>
-            <guid isPermaLink="false">http://milwardh.tumblr.com/post/152350250526</guid>
-            <dc:creator><![CDATA[YofX]]></dc:creator>
-            <pubDate>Wed, 26 Oct 2016 21:00:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chemistry Gossip Activity]]></title>
