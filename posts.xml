@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Nov 2016 12:31:02 GMT</lastBuildDate>
-        <pubDate>Tue, 29 Nov 2016 12:31:00 GMT</pubDate>
+        <lastBuildDate>Tue, 29 Nov 2016 13:00:34 GMT</lastBuildDate>
+        <pubDate>Tue, 29 Nov 2016 13:00:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Box Cutter Stats]]></title>
+            <link>https://mathbabe.org/2016/11/29/box-cutter-stats/</link>
+            <guid isPermaLink="false">https://mathbabe.org/2016/11/29/box-cutter-stats/</guid>
+            <dc:creator><![CDATA[mathbabe]]></dc:creator>
+            <pubDate>Tue, 29 Nov 2016 12:38:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Corinth Ruins]]></title>
             <link>http://mathtourist.blogspot.com/2016/11/corinth-ruins.html</link>
@@ -2683,13 +2690,6 @@ Anoka Faruqee (American, b. 1972), 2013P-52,...]]></title>
             <pubDate>Wed, 09 Nov 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We are all activists now]]></title>
-            <link>https://mathbabe.org/2016/11/09/we-are-all-activists-now/</link>
-            <guid isPermaLink="false">https://mathbabe.org/2016/11/09/we-are-all-activists-now/</guid>
-            <dc:creator><![CDATA[mathbabe]]></dc:creator>
-            <pubDate>Wed, 09 Nov 2016 10:22:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ask Uncle Colin: is there a link?]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-link/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-link/</guid>
@@ -3144,17 +3144,17 @@ Geometry]]></title>
             <pubDate>Sun, 06 Nov 2016 02:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 6]]></title>
             <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
