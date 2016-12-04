@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Dec 2016 11:00:23 GMT</lastBuildDate>
-        <pubDate>Sun, 04 Dec 2016 11:00:21 GMT</pubDate>
+        <lastBuildDate>Sun, 04 Dec 2016 11:30:49 GMT</lastBuildDate>
+        <pubDate>Sun, 04 Dec 2016 11:30:47 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Transum Mathematics]]></title>
+            <link>https://colleenyoung.wordpress.com/2016/12/04/transum-mathematics/</link>
+            <guid isPermaLink="false">https://colleenyoung.wordpress.com/2016/12/04/transum-mathematics/</guid>
+            <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
+            <pubDate>Sun, 04 Dec 2016 10:03:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gelman at the PSA: “Confirmationist and Falsificationist Paradigms in Statistical Practice”: Comments & Queries]]></title>
             <link>https://errorstatistics.com/2016/12/03/gelman-at-the-psa-confirmationist-and-falsificationist-paradigms-in-statistical-practice-comments-queries/</link>
@@ -560,6 +567,13 @@
             <guid isPermaLink="false">https://errorstatistics.com/2016/11/28/3-years-ago-november-2013-memory-lane/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Mon, 28 Nov 2016 05:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il problema di novembre (579) - Vampiri lineari e quadratici]]></title>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2016/11/28/il-problema-di-novembre-579-vampiri-lineari-e-quadratici/</link>
+            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2016/11/28/il-problema-di-novembre-579-vampiri-lineari-e-quadratici/</guid>
+            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
+            <pubDate>Mon, 28 Nov 2016 05:00:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photo]]></title>
@@ -3198,17 +3212,17 @@ Animated GIF (500x500)Created with...]]></title>
             <pubDate>Mon, 07 Nov 2016 05:30:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GTD for Academics: Engaging the system]]></title>
-            <link>/blog/2016/gtd-for-academics-engaging-system</link>
-            <guid isPermaLink="false">/blog/2016/gtd-for-academics-engaging-system</guid>
-            <dc:creator><![CDATA[Casting Out Nines]]></dc:creator>
-            <pubDate>Mon, 07 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 7]]></title>
             <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-7.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-7.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Mon, 07 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GTD for Academics: Engaging the system]]></title>
+            <link>/blog/2016/gtd-for-academics-engaging-system</link>
+            <guid isPermaLink="false">/blog/2016/gtd-for-academics-engaging-system</guid>
+            <dc:creator><![CDATA[Casting Out Nines]]></dc:creator>
             <pubDate>Mon, 07 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3361,17 +3375,17 @@ Geometry]]></title>
             <pubDate>Sun, 06 Nov 2016 02:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 6]]></title>
             <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3697,13 +3711,6 @@ Fractal]]></title>
             <guid isPermaLink="false">http://www.yummymath.com/2016/the-cubs/</guid>
             <dc:creator><![CDATA[Yummy Math]]></dc:creator>
             <pubDate>Thu, 03 Nov 2016 10:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“Los tesoros matemáticos que esconde el triángulo de Pascal”, nuevo artículo en “El Aleph”]]></title>
-            <link>http://feedproxy.google.com/~r/gaussianos/~3/JEO6v4O6c0g/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/gaussianos/~3/JEO6v4O6c0g/</guid>
-            <dc:creator><![CDATA[Gaussianos]]></dc:creator>
-            <pubDate>Thu, 03 Nov 2016 10:30:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Waiters, Waiters, everywhere…]]></title>
@@ -4357,17 +4364,17 @@ Fractal]]></title>
             <pubDate>Fri, 21 Oct 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Some Miscellany From the Week]]></title>
-            <link>http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</link>
-            <guid isPermaLink="false">http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</guid>
-            <dc:creator><![CDATA[MathTango...]]></dc:creator>
-            <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Solving Equations Using Inverse Operations Foldable]]></title>
             <link>http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</link>
             <guid isPermaLink="false">http://mathequalslove.blogspot.com/2016/10/solving-equations-using-inverse.html</guid>
             <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some Miscellany From the Week]]></title>
+            <link>http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</link>
+            <guid isPermaLink="false">http://mathtango.blogspot.com/2016/10/some-miscellany-from-week.html</guid>
+            <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Fri, 21 Oct 2016 12:30:00 GMT</pubDate>
         </item>
         <item>
