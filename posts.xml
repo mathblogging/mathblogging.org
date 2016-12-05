@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Dec 2016 12:30:49 GMT</lastBuildDate>
-        <pubDate>Mon, 05 Dec 2016 12:30:47 GMT</pubDate>
+        <lastBuildDate>Mon, 05 Dec 2016 13:00:36 GMT</lastBuildDate>
+        <pubDate>Mon, 05 Dec 2016 13:00:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Cross-validation for time series]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/_Z_lT40MO0o/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/_Z_lT40MO0o/</guid>
+            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
+            <pubDate>Mon, 05 Dec 2016 12:43:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In the New York Review of Books!]]></title>
+            <link>https://mathbabe.org/2016/12/05/in-the-new-york-review-of-books/</link>
+            <guid isPermaLink="false">https://mathbabe.org/2016/12/05/in-the-new-york-review-of-books/</guid>
+            <dc:creator><![CDATA[mathbabe]]></dc:creator>
+            <pubDate>Mon, 05 Dec 2016 12:43:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It’s Not What’s on the Outside…]]></title>
             <link>https://mathjokes4mathyfolks.wordpress.com/2016/12/05/its-not-whats-on-the-outside/</link>
@@ -2714,13 +2728,6 @@ Trypophobia - 161022]]></title>
             <pubDate>Fri, 11 Nov 2016 13:30:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Models Were Telling Us Trump Could Win]]></title>
-            <link>https://mathbabe.org/2016/11/11/the-models-were-telling-us-trump-could-win/</link>
-            <guid isPermaLink="false">https://mathbabe.org/2016/11/11/the-models-were-telling-us-trump-could-win/</guid>
-            <dc:creator><![CDATA[mathbabe]]></dc:creator>
-            <pubDate>Fri, 11 Nov 2016 13:15:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[xkcd: Astrophysics]]></title>
             <link>http://www.calculushumor.com/calculus-humor/xkcd-astrophysics</link>
             <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-astrophysics</guid>
@@ -3233,17 +3240,17 @@ Animated GIF (500x500)Created with...]]></title>
             <pubDate>Mon, 07 Nov 2016 05:30:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 7]]></title>
-            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-7.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-7.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 07 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[GTD for Academics: Engaging the system]]></title>
             <link>/blog/2016/gtd-for-academics-engaging-system</link>
             <guid isPermaLink="false">/blog/2016/gtd-for-academics-engaging-system</guid>
             <dc:creator><![CDATA[Casting Out Nines]]></dc:creator>
+            <pubDate>Mon, 07 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 7]]></title>
+            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-7.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-7.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 07 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3396,17 +3403,17 @@ Geometry]]></title>
             <pubDate>Sun, 06 Nov 2016 02:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 6]]></title>
             <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A linear algebraic implementation of support enumeration for the computation of equilibria using numpy]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
