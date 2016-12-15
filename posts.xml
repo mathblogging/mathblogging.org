@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Dec 2016 19:03:07 GMT</lastBuildDate>
-        <pubDate>Thu, 15 Dec 2016 19:03:03 GMT</pubDate>
+        <lastBuildDate>Thu, 15 Dec 2016 19:34:08 GMT</lastBuildDate>
+        <pubDate>Thu, 15 Dec 2016 19:34:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[High-profile Science paper retracted for misconduct]]></title>
+            <link>http://retractionwatch.com/2016/12/15/high-profile-science-paper-retracted-misconduct/</link>
+            <guid isPermaLink="false">http://retractionwatch.com/2016/12/15/high-profile-science-paper-retracted-misconduct/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Thu, 15 Dec 2016 19:00:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How can time series information be used to choose a control group?]]></title>
             <link>http://andrewgelman.com/2016/12/15/can-time-series-information-used-choose-control-group/</link>
@@ -28,13 +35,6 @@
             <guid isPermaLink="false">http://www.logicmatters.net/2016/12/15/postcard-from-florence-2/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Thu, 15 Dec 2016 18:21:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protetto: p]]></title>
-            <link>http://www.angelostella.it/lezioni/p/</link>
-            <guid isPermaLink="false">http://www.angelostella.it/lezioni/p/</guid>
-            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
-            <pubDate>Thu, 15 Dec 2016 17:35:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Subjectivity in statistics]]></title>
@@ -212,6 +212,13 @@
             <pubDate>Thu, 15 Dec 2016 10:48:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Let's decipher a thousand-year-old magic square]]></title>
+            <link>http://blog.plover.com/math/magic-square-puzzle.html</link>
+            <guid isPermaLink="false">http://blog.plover.com/math/magic-square-puzzle.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Thu, 15 Dec 2016 09:36:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A quelle distance d’une banque habite-t-on ?]]></title>
             <link>http://freakonometrics.hypotheses.org/49864</link>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49864</guid>
@@ -278,13 +285,6 @@ untitled  - 1958
             <guid isPermaLink="false">http://feedproxy.google.com/~r/dydan1/~3/gATkKW9eOQE/</guid>
             <dc:creator><![CDATA[dy/dan]]></dc:creator>
             <pubDate>Thu, 15 Dec 2016 02:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's decipher a thousand-year-old magic square]]></title>
-            <link>http://blog.plover.com/math/magic-square-puzzle.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/math/magic-square-puzzle.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Thu, 15 Dec 2016 01:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lessons from this year - supporting struggling students]]></title>
@@ -483,17 +483,17 @@ untitled  - 1958
             <pubDate>Wed, 14 Dec 2016 14:01:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Het kleinste gemene veelvoud...]]></title>
-            <link>http://wiskundeleraar.blogspot.com/2016/12/het-kleinste-gemene-veelvoud.html</link>
-            <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2016/12/het-kleinste-gemene-veelvoud.html</guid>
-            <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
-            <pubDate>Wed, 14 Dec 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vanishing overhead bins in the upsell economy]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/12/vanishing-overhead-bins-in-upsell.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/12/vanishing-overhead-bins-in-upsell.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Het kleinste gemene veelvoud...]]></title>
+            <link>http://wiskundeleraar.blogspot.com/2016/12/het-kleinste-gemene-veelvoud.html</link>
+            <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2016/12/het-kleinste-gemene-veelvoud.html</guid>
+            <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
             <pubDate>Wed, 14 Dec 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -504,17 +504,17 @@ untitled  - 1958
             <pubDate>Wed, 14 Dec 2016 13:30:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Five Interlaced Moons]]></title>
-            <link>http://feedproxy.google.com/~r/BeniceEquation/~3/NgtwHPcP3fY/five-interlaced-moons.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/BeniceEquation/~3/NgtwHPcP3fY/five-interlaced-moons.html</guid>
-            <dc:creator><![CDATA[Fun math art (pictures) - benice equation]]></dc:creator>
-            <pubDate>Wed, 14 Dec 2016 13:02:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I made it out of clay]]></title>
             <link>https://gottwurfelt.com/2016/12/14/i-made-it-out-of-clay/</link>
             <guid isPermaLink="false">https://gottwurfelt.com/2016/12/14/i-made-it-out-of-clay/</guid>
             <dc:creator><![CDATA[God plays dice]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2016 13:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five Interlaced Moons]]></title>
+            <link>http://feedproxy.google.com/~r/BeniceEquation/~3/NgtwHPcP3fY/five-interlaced-moons.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/BeniceEquation/~3/NgtwHPcP3fY/five-interlaced-moons.html</guid>
+            <dc:creator><![CDATA[Fun math art (pictures) - benice equation]]></dc:creator>
             <pubDate>Wed, 14 Dec 2016 13:02:00 GMT</pubDate>
         </item>
         <item>
@@ -1148,13 +1148,6 @@ untitled  - 1958
             <pubDate>Mon, 12 Dec 2016 18:56:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Entomology journal retracts 2016 study with flawed analyses]]></title>
-            <link>http://retractionwatch.com/2016/12/12/entomology-journal-retracts-2016-study-flawed-analyses/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2016/12/12/entomology-journal-retracts-2016-study-flawed-analyses/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Mon, 12 Dec 2016 18:30:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Area Problem #40]]></title>
             <link>https://solvemymaths.com/2016/12/12/area-problem-40/</link>
             <guid isPermaLink="false">https://solvemymaths.com/2016/12/12/area-problem-40/</guid>
@@ -1379,17 +1372,17 @@ untitled  - 1958
             <pubDate>Mon, 12 Dec 2016 02:08:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - December 12]]></title>
-            <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-12.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-12.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 12 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Think slow, think fast]]></title>
             <link>http://datagenetics.com/blog/december32016/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/december32016/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 12 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - December 12]]></title>
+            <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-12.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-12.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 12 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1641,17 +1634,17 @@ Every...]]></title>
             <pubDate>Sun, 11 Dec 2016 12:15:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fall Drips]]></title>
-            <link>http://mathtourist.blogspot.com/2016/12/fall-drips.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/fall-drips.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 11 Dec 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Leaving the Safe Familiarity of the Shore...]]></title>
             <link>http://math-frolic.blogspot.com/2016/12/leaving-safe-familiarity-of-shore.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/leaving-safe-familiarity-of-shore.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 11 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fall Drips]]></title>
+            <link>http://mathtourist.blogspot.com/2016/12/fall-drips.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/fall-drips.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 11 Dec 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2104,15 +2097,15 @@ Every...]]></title>
         </item>
         <item>
             <title><![CDATA[Learners Need to Focus on Errors]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/PaAWvPUL0so/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/PaAWvPUL0so/</guid>
+            <link>http://busynessgirl.com/learners-need-to-focus-on-errors/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/learners-need-to-focus-on-errors/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 09 Dec 2016 06:13:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learners Need to Focus on Errors]]></title>
-            <link>http://busynessgirl.com/learners-need-to-focus-on-errors/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/learners-need-to-focus-on-errors/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/PaAWvPUL0so/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/PaAWvPUL0so/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 09 Dec 2016 06:13:05 GMT</pubDate>
         </item>
@@ -2346,6 +2339,13 @@ Every...]]></title>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/iced-house.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 08 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Circonferenza. Esercizi svolti]]></title>
+            <link>http://www.angelostella.it/classe3/circonferenza-esercizi-svolti/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/classe3/circonferenza-esercizi-svolti/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Thu, 08 Dec 2016 11:58:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Facebook, the FBI, D&S, and Quartz]]></title>
@@ -3338,17 +3338,17 @@ colorful gradient 27994]]></title>
             <pubDate>Mon, 05 Dec 2016 10:14:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Observed Belief That 1/2 = 1.2]]></title>
-            <link>http://www.madmath.com/2016/12/observed-belief-that-12-12.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/12/observed-belief-that-12-12.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 05 Dec 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A nice bit of nrichment]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/nice-bit-nrichment/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/nice-bit-nrichment/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 05 Dec 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Observed Belief That 1/2 = 1.2]]></title>
+            <link>http://www.madmath.com/2016/12/observed-belief-that-12-12.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/12/observed-belief-that-12-12.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 05 Dec 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3380,16 +3380,16 @@ colorful gradient 27994]]></title>
             <pubDate>Mon, 05 Dec 2016 07:05:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.6.5]]></title>
-            <link>http://images.math.cnrs.fr/-4123.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4123.html</guid>
+            <title><![CDATA[Je suis daltonien, mais je m'en sors...]]></title>
+            <link>http://images.math.cnrs.fr/Je-suis-daltonien-mais-je-m-en-sors.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Je-suis-daltonien-mais-je-m-en-sors.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 05 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Je suis daltonien, mais je m'en sors...]]></title>
-            <link>http://images.math.cnrs.fr/Je-suis-daltonien-mais-je-m-en-sors.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Je-suis-daltonien-mais-je-m-en-sors.html</guid>
+            <title><![CDATA[4.6.5]]></title>
+            <link>http://images.math.cnrs.fr/-4123.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4123.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 05 Dec 2016 06:00:00 GMT</pubDate>
         </item>
@@ -3537,15 +3537,15 @@ I could fix a lot of...]]></title>
         </item>
         <item>
             <title><![CDATA[Learning Math is Not a Spectator Sport]]></title>
-            <link>http://busynessgirl.com/learning-math-is-not-a-spectator-sport/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/learning-math-is-not-a-spectator-sport/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/H4t0yO58Y7U/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/H4t0yO58Y7U/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 04 Dec 2016 17:53:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learning Math is Not a Spectator Sport]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/H4t0yO58Y7U/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/H4t0yO58Y7U/</guid>
+            <link>http://busynessgirl.com/learning-math-is-not-a-spectator-sport/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/learning-math-is-not-a-spectator-sport/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 04 Dec 2016 17:53:30 GMT</pubDate>
         </item>
@@ -3599,17 +3599,17 @@ I could fix a lot of...]]></title>
             <pubDate>Sun, 04 Dec 2016 12:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Measurement...]]></title>
-            <link>http://math-frolic.blogspot.com/2016/12/measurement.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/measurement.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 04 Dec 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Star Points]]></title>
             <link>http://mathtourist.blogspot.com/2016/12/star-points.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/star-points.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 04 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measurement...]]></title>
+            <link>http://math-frolic.blogspot.com/2016/12/measurement.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/measurement.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 04 Dec 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4538,15 +4538,15 @@ I could fix a lot of...]]></title>
         </item>
         <item>
             <title><![CDATA[Recorded Webinar: Teaching Math in 2020]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</guid>
+            <link>http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 01 Dec 2016 02:51:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recorded Webinar: Teaching Math in 2020]]></title>
-            <link>http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 01 Dec 2016 02:51:45 GMT</pubDate>
         </item>
@@ -4901,17 +4901,17 @@ I could fix a lot of...]]></title>
             <pubDate>Wed, 30 Nov 2016 01:56:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 30]]></title>
-            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-30.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-30.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Wed, 30 Nov 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Improved open and closed immersions in tikz-cd]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/11/30/improved-open-and-closed-immersions-in-tikz-cd/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/11/30/improved-open-and-closed-immersions-in-tikz-cd/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Wed, 30 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 30]]></title>
+            <link>http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-30.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/11/on-this-day-in-math-november-30.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Wed, 30 Nov 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5056,15 +5056,15 @@ I could fix a lot of...]]></title>
         </item>
         <item>
             <title><![CDATA[Strategies for Escaping the Echo Chamber]]></title>
-            <link>http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 29 Nov 2016 16:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strategies for Escaping the Echo Chamber]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</guid>
+            <link>http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 29 Nov 2016 16:40:42 GMT</pubDate>
         </item>
@@ -6865,15 +6865,15 @@ Schmeh]]></title>
         </item>
         <item>
             <title><![CDATA[AMATYC Keynote Notes: Durable Learning]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/zCDztQB9dFE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/zCDztQB9dFE/</guid>
+            <link>http://busynessgirl.com/amatyc-keynote-notes-durable-learning/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/amatyc-keynote-notes-durable-learning/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 22 Nov 2016 13:11:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AMATYC Keynote Notes: Durable Learning]]></title>
-            <link>http://busynessgirl.com/amatyc-keynote-notes-durable-learning/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/amatyc-keynote-notes-durable-learning/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/zCDztQB9dFE/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/zCDztQB9dFE/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 22 Nov 2016 13:11:08 GMT</pubDate>
         </item>
@@ -7448,15 +7448,15 @@ Derivative waves]]></title>
         </item>
         <item>
             <title><![CDATA[AMATYC Keynote Notes: Interaction and Impasse]]></title>
-            <link>http://busynessgirl.com/amatyc-keynote-notes-interaction-and-impasse/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/amatyc-keynote-notes-interaction-and-impasse/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/RZmaTNoJ9n4/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/RZmaTNoJ9n4/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 19 Nov 2016 19:54:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AMATYC Keynote Notes: Interaction and Impasse]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/RZmaTNoJ9n4/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/RZmaTNoJ9n4/</guid>
+            <link>http://busynessgirl.com/amatyc-keynote-notes-interaction-and-impasse/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/amatyc-keynote-notes-interaction-and-impasse/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 19 Nov 2016 19:54:03 GMT</pubDate>
         </item>
