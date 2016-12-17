@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Dec 2016 20:03:54 GMT</lastBuildDate>
-        <pubDate>Sat, 17 Dec 2016 20:03:52 GMT</pubDate>
+        <lastBuildDate>Sat, 17 Dec 2016 20:33:16 GMT</lastBuildDate>
+        <pubDate>Sat, 17 Dec 2016 20:33:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[www.math.harvard.edu/~gross/preprints/sat.pdf]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">www.math.harvard.edu/~gross/preprints/sat.pdf</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 17 Dec 2016 20:04:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Working with SBML using Scala]]></title>
             <link>https://darrenjw.wordpress.com/2016/12/17/working-with-sbml-using-scala/</link>
@@ -3321,20 +3328,6 @@ Schmeh]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/189LAMtpIyo/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Wed, 16 Nov 2016 20:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A little late to the US Election Party]]></title>
-            <link>http://mathfest.blogspot.com/2016/11/a-little-late-to-us-election-party.html</link>
-            <guid isPermaLink="false">http://mathfest.blogspot.com/2016/11/a-little-late-to-us-election-party.html</guid>
-            <dc:creator><![CDATA[mathfest]]></dc:creator>
-            <pubDate>Wed, 16 Nov 2016 20:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[frame of reference]]></title>
-            <link>http://www.bookofproofs.org/branches/frame-of-reference/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/frame-of-reference/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 16 Nov 2016 20:18:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
