@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Jim Propp on David Kelly&#39;s &quot;national treasure&quot; (includes plenty of great links as well): <a href="https://t.co/eV62JcJnV2">https://t.co/eV62JcJnV2</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/810108584688283648">December 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Evelyn Lamb on &quot;Pseudocontext&quot; from Dan Meyer: <a href="https://t.co/ZkT4Rj3eKj">https://t.co/ZkT4Rj3eKj</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/807012758369792000">December 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Dear Major Textbook Publisher&quot;: A Rant, by <a href="https://twitter.com/StatModeling">@StatModeling</a><a href="https://t.co/2KYbhnB34Z">https://t.co/2KYbhnB34Z</a><br>Andrew Gelman goes off.<a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a> <a href="https://twitter.com/hashtag/statschat?src=hash">#statschat</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/806658721053024256">December 8, 2016</a></blockquote>
