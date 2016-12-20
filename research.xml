@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Dec 2016 16:03:05 GMT</lastBuildDate>
-        <pubDate>Tue, 20 Dec 2016 16:03:03 GMT</pubDate>
+        <lastBuildDate>Tue, 20 Dec 2016 16:33:01 GMT</lastBuildDate>
+        <pubDate>Tue, 20 Dec 2016 16:32:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Stan 2.10 through Stan 2.13 produce biased samples]]></title>
+            <link>http://andrewgelman.com/2016/12/20/stan-2-10-stan-2-13-produce-biased-samples/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/12/20/stan-2-10-stan-2-13-produce-biased-samples/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 20 Dec 2016 16:12:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Steve Fienberg]]></title>
             <link>http://andrewgelman.com/2016/12/20/steve-fienberg/</link>
@@ -3080,13 +3087,6 @@ Schmeh]]></title>
             <pubDate>Mon, 21 Nov 2016 17:07:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deep learning, model checking, AI, the no-homunculus principle, and the unitary nature of consciousness]]></title>
-            <link>http://andrewgelman.com/2016/11/21/deep-learning-model-checking-ai-no-homunculus-principle-unitary-nature-consciousness/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/11/21/deep-learning-model-checking-ai-no-homunculus-principle-unitary-nature-consciousness/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 21 Nov 2016 15:13:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hard work]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/WCrruIznnGA/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/WCrruIznnGA/</guid>
@@ -3225,13 +3225,6 @@ Schmeh]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/9X_F-Zx98rw/saturday-morning-videos-machine.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 19 Nov 2016 17:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensuring Stable DC Power Delivery To Switching Loads]]></title>
-            <link>http://mathscinotes.com/2016/11/ensuring-stable-dc-power-delivery-to-switching-loads/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2016/11/ensuring-stable-dc-power-delivery-to-switching-loads/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Sat, 19 Nov 2016 16:18:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
