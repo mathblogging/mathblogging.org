@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Dec 2016 23:32:29 GMT</lastBuildDate>
-        <pubDate>Fri, 23 Dec 2016 23:32:26 GMT</pubDate>
+        <lastBuildDate>Sat, 24 Dec 2016 00:02:26 GMT</lastBuildDate>
+        <pubDate>Sat, 24 Dec 2016 00:02:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Sethi on Schelling]]></title>
+            <link>http://andrewgelman.com/2016/12/23/sethi-on-schelling/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2016/12/23/sethi-on-schelling/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 23 Dec 2016 23:36:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sleeping beauty]]></title>
             <link>https://xianblog.wordpress.com/2016/12/24/sleeping-beauty/</link>
@@ -3039,13 +3046,6 @@ colorful gradient 27994]]></title>
             <pubDate>Fri, 25 Nov 2016 17:20:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Discussion on overfitting in cluster analysis]]></title>
-            <link>http://andrewgelman.com/2016/11/25/30605/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/11/25/30605/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 25 Nov 2016 14:35:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“Una fórmula para dominarlos a todos (los poliedros convexos)”, nuevo artículo en “El Aleph]]></title>
             <link>http://feedproxy.google.com/~r/gaussianos/~3/BPICV8rNYh0/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/gaussianos/~3/BPICV8rNYh0/</guid>
@@ -3252,20 +3252,6 @@ colorful gradient 27994]]></title>
             <guid isPermaLink="false">http://blog.jpolak.org/?p=1743</guid>
             <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
             <pubDate>Wed, 23 Nov 2016 00:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yet Another Algebra that is not Separable]]></title>
-            <link>http://blog.jpolak.org/?p=1742</link>
-            <guid isPermaLink="false">http://blog.jpolak.org/?p=1742</guid>
-            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
-            <pubDate>Wed, 23 Nov 2016 00:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grazing in a circular field]]></title>
-            <link>http://datagenetics.com/blog/november42016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/november42016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Wed, 23 Nov 2016 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
