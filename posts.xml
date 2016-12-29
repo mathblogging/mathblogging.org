@@ -4,16 +4,30 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Dec 2016 11:03:25 GMT</lastBuildDate>
-        <pubDate>Thu, 29 Dec 2016 11:03:22 GMT</pubDate>
+        <lastBuildDate>Thu, 29 Dec 2016 11:33:55 GMT</lastBuildDate>
+        <pubDate>Thu, 29 Dec 2016 11:33:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[general polynomial function]]></title>
-            <link>http://www.bookofproofs.org/branches/general-polynomial-function/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/general-polynomial-function/</guid>
+            <title><![CDATA[eigenvector]]></title>
+            <link>http://www.bookofproofs.org/branches/eigenvector/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/eigenvector/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Thu, 29 Dec 2016 10:57:09 GMT</pubDate>
+            <pubDate>Thu, 29 Dec 2016 11:28:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[alternating multilinear map]]></title>
+            <link>http://www.bookofproofs.org/branches/alternating-multilinear-map/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/alternating-multilinear-map/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Thu, 29 Dec 2016 11:18:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[generalized polynomial function]]></title>
+            <link>http://www.bookofproofs.org/branches/generalized-polynomial-function/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/generalized-polynomial-function/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Thu, 29 Dec 2016 10:57:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Earth’s Perihelion]]></title>
@@ -854,17 +868,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 11:36:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On Famous Things]]></title>
-            <link>http://www.madmath.com/2016/12/on-famous-things.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/12/on-famous-things.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some charitable suggestions]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Famous Things]]></title>
+            <link>http://www.madmath.com/2016/12/on-famous-things.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/12/on-famous-things.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -882,13 +896,6 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 07:01:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.7.2]]></title>
-            <link>http://images.math.cnrs.fr/-4126.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4126.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bourbaki : lexique, symboles, dessins et choix mathématiques]]></title>
             <link>http://images.math.cnrs.fr/Bourbaki-lexique-symboles-dessins-et-choix-mathematiques.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Bourbaki-lexique-symboles-dessins-et-choix-mathematiques.html</guid>
@@ -900,6 +907,13 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/uH1JWddFjZA/thesis-sketch-and-project-randomized.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/uH1JWddFjZA/thesis-sketch-and-project-randomized.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.7.2]]></title>
+            <link>http://images.math.cnrs.fr/-4126.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4126.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1043,17 +1057,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Sun, 25 Dec 2016 13:30:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cathedral at Christmas]]></title>
-            <link>http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sharing the Pleasure]]></title>
             <link>http://math-frolic.blogspot.com/2016/12/sharing-pleasure.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/sharing-pleasure.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cathedral at Christmas]]></title>
+            <link>http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1370,20 +1384,6 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/tangent-bundle/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Sat, 24 Dec 2016 06:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[right inverse]]></title>
-            <link>http://www.bookofproofs.org/branches/right-inverse/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/right-inverse/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 24 Dec 2016 06:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ring of integers]]></title>
-            <link>http://www.bookofproofs.org/branches/ring-of-integers/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/ring-of-integers/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 24 Dec 2016 06:06:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are programming competitions a good use of time?]]></title>
@@ -2662,15 +2662,15 @@ Path 93, Row 56 2013-12-03 at...]]></title>
         </item>
         <item>
             <title><![CDATA[Clickety Click Click: Awful Measures for Learning]]></title>
-            <link>http://busynessgirl.com/clickety-click-click-awful-measures-for-learning/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/clickety-click-click-awful-measures-for-learning/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZedEKfZpsVU/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZedEKfZpsVU/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 20 Dec 2016 01:25:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clickety Click Click: Awful Measures for Learning]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZedEKfZpsVU/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZedEKfZpsVU/</guid>
+            <link>http://busynessgirl.com/clickety-click-click-awful-measures-for-learning/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/clickety-click-click-awful-measures-for-learning/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 20 Dec 2016 01:25:40 GMT</pubDate>
         </item>
@@ -3576,15 +3576,15 @@ via @sc_evans: Trying to plot the convex hulls...]]></title>
         </item>
         <item>
             <title><![CDATA[The Importance of Findability for Learners]]></title>
-            <link>http://busynessgirl.com/the-importance-of-findability-for-learners/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/the-importance-of-findability-for-learners/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/E6TRSPmVyKE/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/E6TRSPmVyKE/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 16 Dec 2016 15:47:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Importance of Findability for Learners]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/E6TRSPmVyKE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/E6TRSPmVyKE/</guid>
+            <link>http://busynessgirl.com/the-importance-of-findability-for-learners/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/the-importance-of-findability-for-learners/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 16 Dec 2016 15:47:51 GMT</pubDate>
         </item>
@@ -4182,17 +4182,17 @@ untitled  - 1958
             <pubDate>Wed, 14 Dec 2016 14:01:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Het kleinste gemene veelvoud...]]></title>
-            <link>http://wiskundeleraar.blogspot.com/2016/12/het-kleinste-gemene-veelvoud.html</link>
-            <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2016/12/het-kleinste-gemene-veelvoud.html</guid>
-            <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
-            <pubDate>Wed, 14 Dec 2016 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vanishing overhead bins in the upsell economy]]></title>
             <link>http://observationalepidemiology.blogspot.com/2016/12/vanishing-overhead-bins-in-upsell.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2016/12/vanishing-overhead-bins-in-upsell.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2016 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Het kleinste gemene veelvoud...]]></title>
+            <link>http://wiskundeleraar.blogspot.com/2016/12/het-kleinste-gemene-veelvoud.html</link>
+            <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2016/12/het-kleinste-gemene-veelvoud.html</guid>
+            <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
             <pubDate>Wed, 14 Dec 2016 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4273,17 +4273,17 @@ untitled  - 1958
             <pubDate>Wed, 14 Dec 2016 10:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ask Uncle Colin: How do I multiply big numbers together?]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-multiply-big-numbers-together/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-multiply-big-numbers-together/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Wed, 14 Dec 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CSjob:  PhD. position, Compressed sensing in transmission electron microscopy, EMAT, Antwerp, Belgium]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/IR9E0c36R3o/csjob-phd-position-compressed-sensing.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/IR9E0c36R3o/csjob-phd-position-compressed-sensing.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ask Uncle Colin: How do I multiply big numbers together?]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-multiply-big-numbers-together/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-multiply-big-numbers-together/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Wed, 14 Dec 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6928,15 +6928,15 @@ I could fix a lot of...]]></title>
         </item>
         <item>
             <title><![CDATA[Why high contextual interference?]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/0CfkyBmDH84/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/0CfkyBmDH84/</guid>
+            <link>http://busynessgirl.com/why-high-contextual-interference/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/why-high-contextual-interference/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 03 Dec 2016 01:50:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why high contextual interference?]]></title>
-            <link>http://busynessgirl.com/why-high-contextual-interference/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/why-high-contextual-interference/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/0CfkyBmDH84/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/0CfkyBmDH84/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 03 Dec 2016 01:50:49 GMT</pubDate>
         </item>
@@ -6983,17 +6983,17 @@ I could fix a lot of...]]></title>
             <pubDate>Fri, 02 Dec 2016 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don Quixote]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Fri, 02 Dec 2016 19:49:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Learning from the audience at my Prisoners' Dilemma talk]]></title>
             <link>http://tonysmaths.blogspot.com/2016/12/learning-from-audience-at-my-prisoners.html</link>
             <guid isPermaLink="false">http://tonysmaths.blogspot.com/2016/12/learning-from-audience-at-my-prisoners.html</guid>
             <dc:creator><![CDATA[Tony's Maths Blog]]></dc:creator>
+            <pubDate>Fri, 02 Dec 2016 19:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don Quixote]]></title>
+            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</guid>
+            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Fri, 02 Dec 2016 19:49:00 GMT</pubDate>
         </item>
         <item>
@@ -7460,15 +7460,15 @@ I could fix a lot of...]]></title>
         </item>
         <item>
             <title><![CDATA[Recorded Webinar: Teaching Math in 2020]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</guid>
+            <link>http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 01 Dec 2016 02:51:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recorded Webinar: Teaching Math in 2020]]></title>
-            <link>http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 01 Dec 2016 02:51:45 GMT</pubDate>
         </item>
@@ -7866,15 +7866,15 @@ I could fix a lot of...]]></title>
         </item>
         <item>
             <title><![CDATA[Strategies for Escaping the Echo Chamber]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</guid>
+            <link>http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 29 Nov 2016 16:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strategies for Escaping the Echo Chamber]]></title>
-            <link>http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 29 Nov 2016 16:40:42 GMT</pubDate>
         </item>
@@ -8106,15 +8106,15 @@ People born in 2016...]]></title>
         </item>
         <item>
             <title><![CDATA[Why Random Practice is Important]]></title>
-            <link>http://busynessgirl.com/why-random-practice-is-important/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/why-random-practice-is-important/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/7xgow137Qlo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/7xgow137Qlo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 28 Nov 2016 17:23:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Random Practice is Important]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/7xgow137Qlo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/7xgow137Qlo/</guid>
+            <link>http://busynessgirl.com/why-random-practice-is-important/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/why-random-practice-is-important/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 28 Nov 2016 17:23:36 GMT</pubDate>
         </item>
@@ -8159,13 +8159,6 @@ People born in 2016...]]></title>
             <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/11/harald-uhlig-gary-gorton-and-great.html</guid>
             <dc:creator><![CDATA[No Hesitations]]></dc:creator>
             <pubDate>Mon, 28 Nov 2016 12:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WS More or Less: Good news on renewables?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p04j6y0d</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p04j6y0d</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 28 Nov 2016 11:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
