@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Dec 2016 04:02:46 GMT</lastBuildDate>
-        <pubDate>Thu, 29 Dec 2016 04:02:43 GMT</pubDate>
+        <lastBuildDate>Thu, 29 Dec 2016 04:33:48 GMT</lastBuildDate>
+        <pubDate>Thu, 29 Dec 2016 04:33:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Book Review: deMeyer and Ingraham’s “Separable Algebras over Commutative Rings”]]></title>
+            <link>http://blog.jpolak.org/?p=1752</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1752</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Thu, 29 Dec 2016 04:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two Elements Mutually Divisible, Unit Multiple?]]></title>
+            <link>http://blog.jpolak.org/?p=1751</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1751</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Thu, 29 Dec 2016 04:05:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“I thought it would be most unfortunate if a lab . . . wasted time and effort trying to replicate our results.”]]></title>
             <link>http://andrewgelman.com/2016/12/28/thought-unfortunate-lab-wasted-time-effort-trying-replicate-results/</link>
@@ -390,17 +404,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chuck-a-Luck]]></title>
-            <link>http://datagenetics.com/blog/january12017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (26)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chuck-a-Luck]]></title>
+            <link>http://datagenetics.com/blog/january12017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -907,13 +921,6 @@ Hut in Niigata prefecture, Japan by Karissa Seltz.]]></title>
             <pubDate>Thu, 22 Dec 2016 11:26:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Worst. Legislature. Ever.]]></title>
-            <link>http://www.newappsblog.com/2016/12/worst-legislature-ever.html</link>
-            <guid isPermaLink="false">http://www.newappsblog.com/2016/12/worst-legislature-ever.html</guid>
-            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
-            <pubDate>Thu, 22 Dec 2016 04:35:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Michael found the bug in Stan’s new sampler]]></title>
             <link>http://andrewgelman.com/2016/12/21/michael-found-bug-stans-new-sampler/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2016/12/21/michael-found-bug-stans-new-sampler/</guid>
@@ -942,13 +949,6 @@ Path 93, Row 56 2013-12-03 at...]]></title>
             <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/corsoastre/scuola-astre-5-sei-gradi-di-separazione-un-mondo-sempre-piu-piccolo/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Wed, 21 Dec 2016 21:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Most of the Intelligence in the Universe Non-Conscious AI?]]></title>
-            <link>http://www.newappsblog.com/2016/12/is-most-of-the-intelligence-in-the-universe-non-conscious-ai.html</link>
-            <guid isPermaLink="false">http://www.newappsblog.com/2016/12/is-most-of-the-intelligence-in-the-universe-non-conscious-ai.html</guid>
-            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
-            <pubDate>Wed, 21 Dec 2016 19:54:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[You’ll have to figure this one out for yourselves.]]></title>
@@ -1180,13 +1180,6 @@ Path 93, Row 56 2013-12-03 at...]]></title>
             <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2016/12/what-do-these-items-have-in-common.html</guid>
             <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
             <pubDate>Mon, 19 Dec 2016 17:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shameless Self-Promotion Dept: Papers on Foucault, and on Spinoza]]></title>
-            <link>http://www.newappsblog.com/2016/12/shameless-self-promotion-dept-papers-on-foucault-and-on-spinoza.html</link>
-            <guid isPermaLink="false">http://www.newappsblog.com/2016/12/shameless-self-promotion-dept-papers-on-foucault-and-on-spinoza.html</guid>
-            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
-            <pubDate>Mon, 19 Dec 2016 17:23:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Postulates of quantum mechanics: states and measurements]]></title>
@@ -1688,13 +1681,6 @@ untitled  - 1958
             <pubDate>Wed, 14 Dec 2016 21:44:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[More on the Troubling Neoliberal Privatization of Health Care]]></title>
-            <link>http://www.newappsblog.com/2016/12/more-on-the-troubling-neoliberal-privatization-of-health-care.html</link>
-            <guid isPermaLink="false">http://www.newappsblog.com/2016/12/more-on-the-troubling-neoliberal-privatization-of-health-care.html</guid>
-            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
-            <pubDate>Wed, 14 Dec 2016 20:38:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Möbius inversion]]></title>
             <link>https://mathlesstraveled.com/2016/12/14/mobius-inversion/</link>
             <guid isPermaLink="false">https://mathlesstraveled.com/2016/12/14/mobius-inversion/</guid>
@@ -1847,13 +1833,6 @@ untitled  - 1958
             <guid isPermaLink="false">http://www.physicspages.com/2016/12/13/hamiltons-equations-of-motion-under-a-regular-canonical-transformation/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
             <pubDate>Tue, 13 Dec 2016 17:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Taste of Tangles]]></title>
-            <link>http://matroidunion.org/?p=2075</link>
-            <guid isPermaLink="false">http://matroidunion.org/?p=2075</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Tue, 13 Dec 2016 17:38:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Putnam 2016 – A4]]></title>
@@ -3085,13 +3064,6 @@ colorful gradient 27994]]></title>
             <guid isPermaLink="false">https://gowers.wordpress.com/2016/11/29/time-for-elsexit/</guid>
             <dc:creator><![CDATA[Gowers's Weblog]]></dc:creator>
             <pubDate>Tue, 29 Nov 2016 14:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[$P_{8}^{=}$ is not a gammoid]]></title>
-            <link>http://matroidunion.org/?p=2044</link>
-            <guid isPermaLink="false">http://matroidunion.org/?p=2044</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Tue, 29 Nov 2016 09:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Computing an integral over an absolute value using Cauchy’s theorem]]></title>
