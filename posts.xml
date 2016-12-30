@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Dec 2016 00:34:11 GMT</lastBuildDate>
-        <pubDate>Fri, 30 Dec 2016 00:34:08 GMT</pubDate>
+        <lastBuildDate>Fri, 30 Dec 2016 01:04:04 GMT</lastBuildDate>
+        <pubDate>Fri, 30 Dec 2016 01:04:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -522,17 +522,17 @@ Moving hyperbolic tilling. Finally I...]]></title>
             <pubDate>Wed, 28 Dec 2016 12:34:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sampler Symmetries]]></title>
-            <link>http://mathtourist.blogspot.com/2016/12/sampler-symmetries.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/sampler-symmetries.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 28 Dec 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Inmates Are Running The Asylum]]></title>
             <link>http://math-frolic.blogspot.com/2016/12/inmates-are-running-asylum.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/inmates-are-running-asylum.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Wed, 28 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sampler Symmetries]]></title>
+            <link>http://mathtourist.blogspot.com/2016/12/sampler-symmetries.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/sampler-symmetries.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 28 Dec 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1043,17 +1043,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 11:36:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On Famous Things]]></title>
-            <link>http://www.madmath.com/2016/12/on-famous-things.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/12/on-famous-things.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some charitable suggestions]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Famous Things]]></title>
+            <link>http://www.madmath.com/2016/12/on-famous-things.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/12/on-famous-things.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1099,13 +1099,6 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 03:14:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (26)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 26]]></title>
             <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-26.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-26.html</guid>
@@ -1117,6 +1110,13 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <link>http://datagenetics.com/blog/january12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (26)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1873,15 +1873,15 @@ Scott Locke // Original Digital Manipulation]]></title>
         </item>
         <item>
             <title><![CDATA[Unizor - Derivatives - Limit of Sequence - Big O, Little o]]></title>
-            <link>http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_55.html</link>
-            <guid isPermaLink="false">http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_55.html</guid>
+            <link>http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_22.html</link>
+            <guid isPermaLink="false">http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_22.html</guid>
             <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
             <pubDate>Fri, 23 Dec 2016 05:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unizor - Derivatives - Limit of Sequence - Big O, Little o]]></title>
-            <link>http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_22.html</link>
-            <guid isPermaLink="false">http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_22.html</guid>
+            <link>http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_55.html</link>
+            <guid isPermaLink="false">http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_55.html</guid>
             <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
             <pubDate>Fri, 23 Dec 2016 05:11:00 GMT</pubDate>
         </item>
@@ -1924,17 +1924,17 @@ Hut in Niigata prefecture, Japan by Karissa Seltz.]]></title>
             <pubDate>Fri, 23 Dec 2016 00:00:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematically, what is the optimal pitch for a roof?]]></title>
-            <link>http://datagenetics.com/blog/december42016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/december42016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Fri, 23 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 23]]></title>
             <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-23.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-23.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 23 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematically, what is the optimal pitch for a roof?]]></title>
+            <link>http://datagenetics.com/blog/december42016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/december42016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Fri, 23 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3834,17 +3834,17 @@ via @sc_evans: Trying to plot the convex hulls...]]></title>
             <pubDate>Fri, 16 Dec 2016 06:53:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[6 ème concours « Bulles au carré » : Maths et langages]]></title>
-            <link>http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 16 Dec 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Interpretable Recurrent Neural Networks Using Sequential Sparse Recovery]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/UgTZ8dAqlzE/interpretable-recurrent-neural-networks.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/UgTZ8dAqlzE/interpretable-recurrent-neural-networks.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 16 Dec 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 ème concours « Bulles au carré » : Maths et langages]]></title>
+            <link>http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 16 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5600,15 +5600,15 @@ Every...]]></title>
         </item>
         <item>
             <title><![CDATA[Learners Need to Focus on Errors]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/PaAWvPUL0so/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/PaAWvPUL0so/</guid>
+            <link>http://busynessgirl.com/learners-need-to-focus-on-errors/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/learners-need-to-focus-on-errors/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 09 Dec 2016 06:13:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learners Need to Focus on Errors]]></title>
-            <link>http://busynessgirl.com/learners-need-to-focus-on-errors/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/learners-need-to-focus-on-errors/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/PaAWvPUL0so/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/PaAWvPUL0so/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 09 Dec 2016 06:13:05 GMT</pubDate>
         </item>
@@ -7005,15 +7005,15 @@ I could fix a lot of...]]></title>
         </item>
         <item>
             <title><![CDATA[Why high contextual interference?]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/0CfkyBmDH84/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/0CfkyBmDH84/</guid>
+            <link>http://busynessgirl.com/why-high-contextual-interference/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/why-high-contextual-interference/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 03 Dec 2016 01:50:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why high contextual interference?]]></title>
-            <link>http://busynessgirl.com/why-high-contextual-interference/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/why-high-contextual-interference/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/0CfkyBmDH84/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/0CfkyBmDH84/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 03 Dec 2016 01:50:49 GMT</pubDate>
         </item>
@@ -7060,17 +7060,17 @@ I could fix a lot of...]]></title>
             <pubDate>Fri, 02 Dec 2016 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don Quixote]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Fri, 02 Dec 2016 19:49:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Learning from the audience at my Prisoners' Dilemma talk]]></title>
             <link>http://tonysmaths.blogspot.com/2016/12/learning-from-audience-at-my-prisoners.html</link>
             <guid isPermaLink="false">http://tonysmaths.blogspot.com/2016/12/learning-from-audience-at-my-prisoners.html</guid>
             <dc:creator><![CDATA[Tony's Maths Blog]]></dc:creator>
+            <pubDate>Fri, 02 Dec 2016 19:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don Quixote]]></title>
+            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</guid>
+            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Fri, 02 Dec 2016 19:49:00 GMT</pubDate>
         </item>
         <item>
@@ -7537,15 +7537,15 @@ I could fix a lot of...]]></title>
         </item>
         <item>
             <title><![CDATA[Recorded Webinar: Teaching Math in 2020]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</guid>
+            <link>http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 01 Dec 2016 02:51:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recorded Webinar: Teaching Math in 2020]]></title>
-            <link>http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/recorded-webinar-teaching-math-in-2020/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 01 Dec 2016 02:51:45 GMT</pubDate>
         </item>
@@ -7943,15 +7943,15 @@ I could fix a lot of...]]></title>
         </item>
         <item>
             <title><![CDATA[Strategies for Escaping the Echo Chamber]]></title>
-            <link>http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 29 Nov 2016 16:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strategies for Escaping the Echo Chamber]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/06OnQ0H-8qs/</guid>
+            <link>http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/strategies-for-escaping-the-echo-chamber/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 29 Nov 2016 16:40:42 GMT</pubDate>
         </item>
@@ -8096,20 +8096,6 @@ People born in 2016...]]></title>
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2016/11/29/compositionality-in-network-theory/</guid>
             <dc:creator><![CDATA[Azimuth]]></dc:creator>
             <pubDate>Tue, 29 Nov 2016 01:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Memories of TS Michael, by Bryan Shader]]></title>
-            <link>https://yetanothermathblog.com/2016/11/28/memories-of-ts-michael-by-bryan-shader/</link>
-            <guid isPermaLink="false">https://yetanothermathblog.com/2016/11/28/memories-of-ts-michael-by-bryan-shader/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Tue, 29 Nov 2016 00:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Light in Darkness #onegoodthing]]></title>
-            <link>https://pamjwilson.wordpress.com/2016/11/28/light-in-darkness-onegoodthing/</link>
-            <guid isPermaLink="false">https://pamjwilson.wordpress.com/2016/11/28/light-in-darkness-onegoodthing/</guid>
-            <dc:creator><![CDATA[the radical rational…]]></dc:creator>
-            <pubDate>Tue, 29 Nov 2016 00:38:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
