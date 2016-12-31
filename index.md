@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">For all fans of prime numbers, a fun end to 2016, from Evelyn Lamb: <a href="https://t.co/cgu5brG87r">https://t.co/cgu5brG87r</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/815240825496072192">December 31, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/benorlin">@benorlin</a> splendid as usual, this time on the freakin&#39; number line: <a href="https://t.co/XwFbB3RBUB">https://t.co/XwFbB3RBUB</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/814080986959020033">December 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Jim Propp on David Kelly&#39;s &quot;national treasure&quot; (includes plenty of great links as well): <a href="https://t.co/eV62JcJnV2">https://t.co/eV62JcJnV2</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/810108584688283648">December 17, 2016</a></blockquote>
