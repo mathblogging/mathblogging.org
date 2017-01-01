@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Jan 2017 02:03:09 GMT</lastBuildDate>
-        <pubDate>Sun, 01 Jan 2017 02:03:05 GMT</pubDate>
+        <lastBuildDate>Sun, 01 Jan 2017 02:32:46 GMT</lastBuildDate>
+        <pubDate>Sun, 01 Jan 2017 02:32:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -573,17 +573,17 @@ ALEX WILLIAMS]]></title>
             <pubDate>Fri, 30 Dec 2016 12:02:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elliptic Suffusion]]></title>
-            <link>http://mathtourist.blogspot.com/2016/12/elliptic-suffusion.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/elliptic-suffusion.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 30 Dec 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Critical Thinking"... A Simple Example]]></title>
             <link>http://math-frolic.blogspot.com/2016/12/critical-thinking-simple-example.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/critical-thinking-simple-example.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Fri, 30 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elliptic Suffusion]]></title>
+            <link>http://mathtourist.blogspot.com/2016/12/elliptic-suffusion.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/elliptic-suffusion.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 30 Dec 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1523,9 +1523,9 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Tue, 27 Dec 2016 00:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introduction to linear algebra]]></title>
-            <link>https://scoskey.github.io/1617s-301</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
+            <title><![CDATA[Calculus I]]></title>
+            <link>https://scoskey.github.io/1617s-170</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
@@ -1537,9 +1537,9 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Calculus I]]></title>
-            <link>https://scoskey.github.io/1617s-170</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
+            <title><![CDATA[Introduction to linear algebra]]></title>
+            <link>https://scoskey.github.io/1617s-301</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
@@ -1670,17 +1670,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 11:36:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Some charitable suggestions]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On Famous Things]]></title>
             <link>http://www.madmath.com/2016/12/on-famous-things.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2016/12/on-famous-things.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some charitable suggestions]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1698,6 +1698,13 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 07:01:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bourbaki : lexique, symboles, dessins et choix mathématiques]]></title>
+            <link>http://images.math.cnrs.fr/Bourbaki-lexique-symboles-dessins-et-choix-mathematiques.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Bourbaki-lexique-symboles-dessins-et-choix-mathematiques.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[4.7.2]]></title>
             <link>http://images.math.cnrs.fr/-4126.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/-4126.html</guid>
@@ -1712,13 +1719,6 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bourbaki : lexique, symboles, dessins et choix mathématiques]]></title>
-            <link>http://images.math.cnrs.fr/Bourbaki-lexique-symboles-dessins-et-choix-mathematiques.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Bourbaki-lexique-symboles-dessins-et-choix-mathematiques.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Best And Worst Of The Year]]></title>
             <link>http://blogs.ams.org/blogonmathblogs/2016/12/25/best-and-worst-of-the-year/</link>
             <guid isPermaLink="false">http://blogs.ams.org/blogonmathblogs/2016/12/25/best-and-worst-of-the-year/</guid>
@@ -1726,17 +1726,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 03:14:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - December 26]]></title>
-            <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-26.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-26.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (26)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - December 26]]></title>
+            <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-26.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-26.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1852,17 +1852,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Sun, 25 Dec 2016 13:30:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sharing the Pleasure]]></title>
-            <link>http://math-frolic.blogspot.com/2016/12/sharing-pleasure.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/sharing-pleasure.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cathedral at Christmas]]></title>
             <link>http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sharing the Pleasure]]></title>
+            <link>http://math-frolic.blogspot.com/2016/12/sharing-pleasure.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/sharing-pleasure.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2523,17 +2523,17 @@ Hut in Niigata prefecture, Japan by Karissa Seltz.]]></title>
             <pubDate>Fri, 23 Dec 2016 00:00:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematically, what is the optimal pitch for a roof?]]></title>
-            <link>http://datagenetics.com/blog/december42016/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/december42016/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Fri, 23 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 23]]></title>
             <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-23.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-23.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 23 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematically, what is the optimal pitch for a roof?]]></title>
+            <link>http://datagenetics.com/blog/december42016/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/december42016/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Fri, 23 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2586,17 +2586,17 @@ Hut in Niigata prefecture, Japan by Karissa Seltz.]]></title>
             <pubDate>Thu, 22 Dec 2016 21:17:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Holly Jolly]]></title>
-            <link>http://mrburkemath.blogspot.com/2016/12/holly-jolly.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/12/holly-jolly.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Thu, 22 Dec 2016 19:38:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Guitar Music at the Well]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/d03uQFVA6GE/guitar-music-at-well.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/d03uQFVA6GE/guitar-music-at-well.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
+            <pubDate>Thu, 22 Dec 2016 19:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holly Jolly]]></title>
+            <link>http://mrburkemath.blogspot.com/2016/12/holly-jolly.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2016/12/holly-jolly.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 22 Dec 2016 19:38:00 GMT</pubDate>
         </item>
         <item>
@@ -2685,15 +2685,15 @@ Hut in Niigata prefecture, Japan by Karissa Seltz.]]></title>
         </item>
         <item>
             <title><![CDATA[The Four Processors: A Neogeneralist Problem?]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Kp5Vq7M9QJw/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Kp5Vq7M9QJw/</guid>
+            <link>http://busynessgirl.com/the-four-processors/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/the-four-processors/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 22 Dec 2016 14:24:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Four Processors: A Neogeneralist Problem?]]></title>
-            <link>http://busynessgirl.com/the-four-processors/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/the-four-processors/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Kp5Vq7M9QJw/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Kp5Vq7M9QJw/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 22 Dec 2016 14:24:43 GMT</pubDate>
         </item>
@@ -4280,15 +4280,15 @@ via @sc_evans: Trying to plot the convex hulls...]]></title>
         </item>
         <item>
             <title><![CDATA[The Importance of Findability for Learners]]></title>
-            <link>http://busynessgirl.com/the-importance-of-findability-for-learners/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/the-importance-of-findability-for-learners/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/E6TRSPmVyKE/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/E6TRSPmVyKE/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 16 Dec 2016 15:47:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Importance of Findability for Learners]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/E6TRSPmVyKE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/E6TRSPmVyKE/</guid>
+            <link>http://busynessgirl.com/the-importance-of-findability-for-learners/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/the-importance-of-findability-for-learners/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 16 Dec 2016 15:47:51 GMT</pubDate>
         </item>
@@ -4412,17 +4412,17 @@ via @sc_evans: Trying to plot the convex hulls...]]></title>
             <pubDate>Fri, 16 Dec 2016 06:53:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[6 ème concours « Bulles au carré » : Maths et langages]]></title>
-            <link>http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 16 Dec 2016 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Interpretable Recurrent Neural Networks Using Sequential Sparse Recovery]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/UgTZ8dAqlzE/interpretable-recurrent-neural-networks.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/UgTZ8dAqlzE/interpretable-recurrent-neural-networks.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 16 Dec 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 ème concours « Bulles au carré » : Maths et langages]]></title>
+            <link>http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 16 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4970,17 +4970,17 @@ untitled  - 1958
             <pubDate>Wed, 14 Dec 2016 10:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ask Uncle Colin: How do I multiply big numbers together?]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-multiply-big-numbers-together/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-multiply-big-numbers-together/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Wed, 14 Dec 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CSjob:  PhD. position, Compressed sensing in transmission electron microscopy, EMAT, Antwerp, Belgium]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/IR9E0c36R3o/csjob-phd-position-compressed-sensing.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/IR9E0c36R3o/csjob-phd-position-compressed-sensing.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ask Uncle Colin: How do I multiply big numbers together?]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-multiply-big-numbers-together/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-multiply-big-numbers-together/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Wed, 14 Dec 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5806,17 +5806,17 @@ Every...]]></title>
             <pubDate>Sun, 11 Dec 2016 12:15:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fall Drips]]></title>
-            <link>http://mathtourist.blogspot.com/2016/12/fall-drips.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/fall-drips.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 11 Dec 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Leaving the Safe Familiarity of the Shore...]]></title>
             <link>http://math-frolic.blogspot.com/2016/12/leaving-safe-familiarity-of-shore.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/leaving-safe-familiarity-of-shore.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 11 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fall Drips]]></title>
+            <link>http://mathtourist.blogspot.com/2016/12/fall-drips.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/fall-drips.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 11 Dec 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5841,17 +5841,17 @@ Every...]]></title>
             <pubDate>Sun, 11 Dec 2016 05:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - December 11]]></title>
-            <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-11.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-11.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 11 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (25)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/12/11/fortnightly-links-25/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/11/fortnightly-links-25/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 11 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - December 11]]></title>
+            <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-11.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-11.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 11 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7519,17 +7519,17 @@ I could fix a lot of...]]></title>
             <pubDate>Fri, 02 Dec 2016 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don Quixote]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Fri, 02 Dec 2016 19:49:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Learning from the audience at my Prisoners' Dilemma talk]]></title>
             <link>http://tonysmaths.blogspot.com/2016/12/learning-from-audience-at-my-prisoners.html</link>
             <guid isPermaLink="false">http://tonysmaths.blogspot.com/2016/12/learning-from-audience-at-my-prisoners.html</guid>
             <dc:creator><![CDATA[Tony's Maths Blog]]></dc:creator>
+            <pubDate>Fri, 02 Dec 2016 19:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don Quixote]]></title>
+            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/5zkW_XFJzag/don-quixote.html</guid>
+            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Fri, 02 Dec 2016 19:49:00 GMT</pubDate>
         </item>
         <item>
@@ -7979,13 +7979,6 @@ I could fix a lot of...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nnd39sCGQ1g/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 01 Dec 2016 02:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Riddle of the Month (November)]]></title>
-            <link>http://blogs.ams.org/mathgradblog/2016/11/30/riddle-month-november/</link>
-            <guid isPermaLink="false">http://blogs.ams.org/mathgradblog/2016/11/30/riddle-month-november/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Thu, 01 Dec 2016 02:09:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
