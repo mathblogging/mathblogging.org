@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Jan 2017 12:32:45 GMT</lastBuildDate>
-        <pubDate>Mon, 02 Jan 2017 12:32:44 GMT</pubDate>
+        <lastBuildDate>Mon, 02 Jan 2017 13:02:47 GMT</lastBuildDate>
+        <pubDate>Mon, 02 Jan 2017 13:02:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[xkcd: Appliance Repair]]></title>
+            <link>http://www.calculushumor.com/calculus-humor/xkcd-appliance-repair</link>
+            <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-appliance-repair</guid>
+            <dc:creator><![CDATA[Calculus Humor - Calculus Humor]]></dc:creator>
+            <pubDate>Mon, 02 Jan 2017 12:45:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[S8.285 - Secretive Service]]></title>
             <link>http://mathtans.blogspot.com/2017/01/s8285-secretive-service.html</link>
@@ -1024,13 +1031,6 @@
             <pubDate>Fri, 09 Dec 2016 23:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[xkcd: UI Change]]></title>
-            <link>http://www.calculushumor.com/calculus-humor/xkcd-ui-change</link>
-            <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-ui-change</guid>
-            <dc:creator><![CDATA[Calculus Humor - Calculus Humor]]></dc:creator>
-            <pubDate>Fri, 09 Dec 2016 12:26:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Photo]]></title>
             <link>http://themathkid.tumblr.com/post/154229089011</link>
             <guid isPermaLink="false">http://themathkid.tumblr.com/post/154229089011</guid>
@@ -1269,13 +1269,6 @@ I could fix a lot of...]]></title>
             <guid isPermaLink="false">http://mathscinotes.com/2016/12/bore-diameter-measurement-using-gage-balls/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Fri, 02 Dec 2016 13:56:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prescience... [+Addendum]]]></title>
-            <link>http://math-frolic.blogspot.com/2016/12/prescience-addendum.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/prescience-addendum.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Fri, 02 Dec 2016 12:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
