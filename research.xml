@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Jan 2017 02:32:43 GMT</lastBuildDate>
-        <pubDate>Mon, 02 Jan 2017 02:32:40 GMT</pubDate>
+        <lastBuildDate>Mon, 02 Jan 2017 03:02:38 GMT</lastBuildDate>
+        <pubDate>Mon, 02 Jan 2017 03:02:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Stan 2.14 released for R and Python; fixes bug with sampler]]></title>
+            <link>http://andrewgelman.com/2017/01/01/stan-2-14-released-r-python-fixes-bug-sampler/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/01/01/stan-2-14-released-r-python-fixes-bug-sampler/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 02 Jan 2017 02:40:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is a Linear Trend, by the way?]]></title>
             <link>http://freakonometrics.hypotheses.org/50003</link>
@@ -2900,13 +2907,6 @@ colorful gradient 27994]]></title>
             <guid isPermaLink="false">http://fxdiebold.blogspot.com/2016/12/exogenous-vs-endogenous-volatility.html</guid>
             <dc:creator><![CDATA[No Hesitations]]></dc:creator>
             <pubDate>Mon, 05 Dec 2016 15:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Stan in an agent-based model:  Simulation suggests that a market could be useful for building public consensus on climate change]]></title>
-            <link>http://andrewgelman.com/2016/12/05/using-stan-in-an-agent-based-model/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/12/05/using-stan-in-an-agent-based-model/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 05 Dec 2016 14:45:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[h-index]]></title>
