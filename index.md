@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">1.2 Trillion Ways to Play the Same Sudoku<a href="https://t.co/Ec5f72vUyF">https://t.co/Ec5f72vUyF</a><a href="https://twitter.com/benorlin">@benorlin</a>&#39;s puzzle about counting puzzles<a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/816813275501494272">January 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The trillion+ symmetries of Sudoku via Ben Orlin: <a href="https://t.co/rJbQlSlTEr">https://t.co/rJbQlSlTEr</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/816638712910147584">January 4, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">For all fans of prime numbers, a fun end to 2016, from Evelyn Lamb: <a href="https://t.co/cgu5brG87r">https://t.co/cgu5brG87r</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/815240825496072192">December 31, 2016</a></blockquote>
