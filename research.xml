@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Jan 2017 14:33:19 GMT</lastBuildDate>
-        <pubDate>Fri, 06 Jan 2017 14:33:17 GMT</pubDate>
+        <lastBuildDate>Fri, 06 Jan 2017 15:02:45 GMT</lastBuildDate>
+        <pubDate>Fri, 06 Jan 2017 15:02:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[“Which curve fitting model should I use?”]]></title>
+            <link>http://andrewgelman.com/2017/01/06/30814/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/01/06/30814/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 06 Jan 2017 14:43:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yes, I do plan to keep harping on this]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/01/yes-i-do-plan-to-keep-harping-on-this.html</link>
@@ -1427,17 +1434,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (26)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chuck-a-Luck]]></title>
             <link>http://datagenetics.com/blog/january12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (26)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2966,13 +2973,6 @@ Every...]]></title>
             <pubDate>Sat, 10 Dec 2016 01:15:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling”]]></title>
-            <link>http://andrewgelman.com/2016/12/09/fundamental-incompatibility-scalable-hamiltonian-monte-carlo-naive-data-subsampling/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/12/09/fundamental-incompatibility-scalable-hamiltonian-monte-carlo-naive-data-subsampling/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 10 Dec 2016 00:37:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Modelling Interconnected Systems with Decorated Corelations]]></title>
             <link>https://johncarlosbaez.wordpress.com/2016/12/09/modelling-interconnected-systems-with-decorated-corelations/</link>
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2016/12/09/modelling-interconnected-systems-with-decorated-corelations/</guid>
@@ -3153,13 +3153,6 @@ Every...]]></title>
             <guid isPermaLink="false">https://mathlesstraveled.com/2016/12/06/dirichlet-convolution/</guid>
             <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
             <pubDate>Tue, 06 Dec 2016 17:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A students unusual  proof might be a better proof]]></title>
-            <link>http://blog.computationalcomplexity.org/2016/12/a-students-unusual-proof-might-be.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/12/a-students-unusual-proof-might-be.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Tue, 06 Dec 2016 14:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
