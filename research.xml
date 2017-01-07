@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Jan 2017 19:33:05 GMT</lastBuildDate>
-        <pubDate>Sat, 07 Jan 2017 19:33:02 GMT</pubDate>
+        <lastBuildDate>Sat, 07 Jan 2017 20:03:40 GMT</lastBuildDate>
+        <pubDate>Sat, 07 Jan 2017 20:03:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -28,6 +28,13 @@
             <guid isPermaLink="false">https://gottwurfelt.com/2017/01/07/how-dangerous-was-2016/</guid>
             <dc:creator><![CDATA[God plays dice]]></dc:creator>
             <pubDate>Sat, 07 Jan 2017 17:37:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inequality, Welfare and Poverty]]></title>
+            <link>http://freakonometrics.hypotheses.org/50075</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50075</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Sat, 07 Jan 2017 14:47:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Toujours Charlie]]></title>
@@ -292,6 +299,13 @@ Make sure you leap from Silicon Valley to David Cameron without batting...]]></t
             <pubDate>Thu, 05 Jan 2017 14:15:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Excel登记成绩的一个宏]]></title>
+            <link>https://lttt.blog.ustc.edu.cn/exceldengjichengjideyigehong/</link>
+            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/exceldengjichengjideyigehong/</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Thu, 05 Jan 2017 14:14:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nooooooo, just make it stop, please!]]></title>
             <link>http://andrewgelman.com/2017/01/05/30811/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/01/05/30811/</guid>
@@ -311,6 +325,13 @@ Make sure you leap from Silicon Valley to David Cameron without batting...]]></t
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/01/cracked-has-some-fun-with-lottery.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 05 Jan 2017 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我的Windows7 vim配置(VimTeX)]]></title>
+            <link>https://lttt.blog.ustc.edu.cn/wodewindows7-vimpeizhivimtex/</link>
+            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/wodewindows7-vimpeizhivimtex/</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Thu, 05 Jan 2017 07:19:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Divisibilit� avec factorielles]]></title>
@@ -713,7 +734,7 @@ now this is the kind of math i can really get...]]></title>
             <pubDate>Mon, 02 Jan 2017 13:18:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Forcasting Natural Catastrophes (is rather difficult)]]></title>
+            <title><![CDATA[Forecasting Natural Catastrophes (is rather difficult)]]></title>
             <link>http://freakonometrics.hypotheses.org/50057</link>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50057</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
@@ -1553,17 +1574,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (26)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chuck-a-Luck]]></title>
             <link>http://datagenetics.com/blog/january12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (26)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3167,13 +3188,6 @@ Every...]]></title>
             <guid isPermaLink="false">http://punkrockor.com/2016/12/07/chocolate-chip-cookies-are-poisson-distributed/</guid>
             <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
             <pubDate>Wed, 07 Dec 2016 20:18:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple unsolved math problem, 7]]></title>
-            <link>https://yetanothermathblog.com/2016/12/07/simple-unsolved-math-problem-7/</link>
-            <guid isPermaLink="false">https://yetanothermathblog.com/2016/12/07/simple-unsolved-math-problem-7/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Wed, 07 Dec 2016 19:49:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
