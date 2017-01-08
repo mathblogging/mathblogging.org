@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Great to see an intro to Riemann Hypothesis tackled at Medium for a wide audience: <a href="https://t.co/nNUJcAWwsr">https://t.co/nNUJcAWwsr</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/818074001801150464">January 8, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">1.2 Trillion Ways to Play the Same Sudoku<a href="https://t.co/Ec5f72vUyF">https://t.co/Ec5f72vUyF</a><a href="https://twitter.com/benorlin">@benorlin</a>&#39;s puzzle about counting puzzles<a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/816813275501494272">January 5, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The trillion+ symmetries of Sudoku via Ben Orlin: <a href="https://t.co/rJbQlSlTEr">https://t.co/rJbQlSlTEr</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/816638712910147584">January 4, 2017</a></blockquote>
