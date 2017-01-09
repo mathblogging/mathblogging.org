@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Jan 2017 09:33:56 GMT</lastBuildDate>
-        <pubDate>Mon, 09 Jan 2017 09:33:54 GMT</pubDate>
+        <lastBuildDate>Mon, 09 Jan 2017 10:03:25 GMT</lastBuildDate>
+        <pubDate>Mon, 09 Jan 2017 10:03:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Do Numbers Come First?]]></title>
+            <link>http://www.madmath.com/2017/01/do-numbers-come-first.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/01/do-numbers-come-first.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 09 Jan 2017 10:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Using 3d printing to explore some basic ideas from calculus.]]></title>
             <link>https://mikesmathpage.wordpress.com/2017/01/09/using-3d-printing-to-explore-some-basic-ideas-from-calculus/</link>
@@ -562,16 +569,16 @@
             <pubDate>Tue, 27 Dec 2016 06:37:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introduction to linear algebra]]></title>
-            <link>https://scoskey.github.io/1617s-301</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
+            <title><![CDATA[Calculus I]]></title>
+            <link>https://scoskey.github.io/1617s-170</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Calculus I]]></title>
-            <link>https://scoskey.github.io/1617s-170</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
+            <title><![CDATA[Introduction to linear algebra]]></title>
+            <link>https://scoskey.github.io/1617s-301</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
@@ -952,13 +959,6 @@
             <guid isPermaLink="false">http://mathtango.blogspot.com/2016/12/some-reads-from-week.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Fri, 09 Dec 2016 13:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[how much to spend on (cat)books?]]></title>
-            <link>http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/JtwlfJrezgw/how-much-to-spend-on-catbooks</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/JtwlfJrezgw/how-much-to-spend-on-catbooks</guid>
-            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
-            <pubDate>Fri, 09 Dec 2016 09:56:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
