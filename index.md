@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The Bitplayer recounts interesting bits he came across at <a href="https://twitter.com/hashtag/JMM17?src=hash">#JMM17</a>  <a href="https://t.co/gGju4PYx0D">https://t.co/gGju4PYx0D</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/818661942906814464">January 10, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“Mathematics for Human Flourishing” by <a href="https://twitter.com/mathyawp">@mathyawp</a> <a href="https://t.co/qx5Cd6y004">https://t.co/qx5Cd6y004</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/818162164934422531">January 8, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Mathematics For Human Flourishing&quot; -- Francis Su&#39;s address to the joint math meetings: <a href="https://t.co/vQCdstotU5">https://t.co/vQCdstotU5</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/818160798619107328">January 8, 2017</a></blockquote>
