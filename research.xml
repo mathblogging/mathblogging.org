@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Jan 2017 02:03:06 GMT</lastBuildDate>
-        <pubDate>Wed, 11 Jan 2017 02:03:04 GMT</pubDate>
+        <lastBuildDate>Wed, 11 Jan 2017 02:32:59 GMT</lastBuildDate>
+        <pubDate>Wed, 11 Jan 2017 02:32:56 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[R packages interfacing with Stan: brms]]></title>
+            <link>http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 11 Jan 2017 01:45:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[anytime algorithm]]></title>
             <link>https://xianblog.wordpress.com/2017/01/11/anytime-algorithm/</link>
@@ -1933,17 +1940,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chuck-a-Luck]]></title>
-            <link>http://datagenetics.com/blog/january12017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (26)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chuck-a-Luck]]></title>
+            <link>http://datagenetics.com/blog/january12017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3103,13 +3110,6 @@ untitled  - 1958
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/49846</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 13 Dec 2016 15:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The social world is (in many ways) continuous but people’s mental models of the world are Boolean]]></title>
-            <link>http://andrewgelman.com/2016/12/13/30720/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/12/13/30720/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 13 Dec 2016 14:51:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Practices for Orchestrating Productive Mathematical Discussions]]></title>
