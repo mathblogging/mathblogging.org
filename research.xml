@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Jan 2017 17:03:31 GMT</lastBuildDate>
-        <pubDate>Thu, 12 Jan 2017 17:03:29 GMT</pubDate>
+        <lastBuildDate>Thu, 12 Jan 2017 17:32:54 GMT</lastBuildDate>
+        <pubDate>Thu, 12 Jan 2017 17:32:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Regula Krapf, Ph.D. 2017, University of Bonn]]></title>
+            <link>http://jdh.hamkins.org/regula-krapf/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/regula-krapf/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 12 Jan 2017 17:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“A Conceptual Introduction to Hamiltonian Monte Carlo”]]></title>
+            <link>http://andrewgelman.com/2017/01/12/conceptual-introduction-hamiltonian-monte-carlo/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/01/12/conceptual-introduction-hamiltonian-monte-carlo/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 12 Jan 2017 16:30:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The unreasonable effectiveness of getting your code to run on someone else’s machine]]></title>
             <link>http://www.walkingrandomly.com/?p=6275</link>
@@ -2129,17 +2143,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (26)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chuck-a-Luck]]></title>
             <link>http://datagenetics.com/blog/january12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (26)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2981,13 +2995,6 @@ via @sc_evans: Trying to plot the convex hulls...]]></title>
             <pubDate>Fri, 16 Dec 2016 00:07:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How can time series information be used to choose a control group?]]></title>
-            <link>http://andrewgelman.com/2016/12/15/can-time-series-information-used-choose-control-group/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2016/12/15/can-time-series-information-used-choose-control-group/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 15 Dec 2016 18:50:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Unicyclic groups]]></title>
             <link>http://blogs.ethz.ch/kowalski/2016/12/15/unicyclic-groups/</link>
             <guid isPermaLink="false">http://blogs.ethz.ch/kowalski/2016/12/15/unicyclic-groups/</guid>
@@ -3229,13 +3236,6 @@ untitled  - 1958
             <guid isPermaLink="false">http://blog.stephenwolfram.com/2016/12/launching-wolframalpha-open-code/</guid>
             <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
             <pubDate>Mon, 12 Dec 2016 18:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guest post by Samir Khuller on Humans, Machines, and the Future of Work (a workshop)]]></title>
-            <link>http://blog.computationalcomplexity.org/2016/12/guest-post-by-samir-khuller-on-humans.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2016/12/guest-post-by-samir-khuller-on-humans.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Mon, 12 Dec 2016 17:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
