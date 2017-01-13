@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Jan 2017 23:03:54 GMT</lastBuildDate>
-        <pubDate>Fri, 13 Jan 2017 23:03:52 GMT</pubDate>
+        <lastBuildDate>Fri, 13 Jan 2017 23:33:26 GMT</lastBuildDate>
+        <pubDate>Fri, 13 Jan 2017 23:33:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[la maison des mathématiques]]></title>
+            <link>https://xianblog.wordpress.com/2017/01/14/la-maison-des-mathematiques/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/14/la-maison-des-mathematiques/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Fri, 13 Jan 2017 23:17:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My new programming languages course]]></title>
             <link>https://byorgey.wordpress.com/2017/01/13/my-new-programming-languages-course/</link>
@@ -1062,13 +1069,6 @@ Make sure you leap from Silicon Valley to David Cameron without batting...]]></t
             <guid isPermaLink="false">https://dantopology.wordpress.com/2017/01/05/spaces-with-shrinking-properties/</guid>
             <dc:creator><![CDATA[Dan Ma's Topology Blog]]></dc:creator>
             <pubDate>Fri, 06 Jan 2017 01:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Great North Road [book review]]]></title>
-            <link>https://xianblog.wordpress.com/2017/01/06/great-north-road-book-review/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/06/great-north-road-book-review/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 05 Jan 2017 23:17:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joint Mathematics Morsels]]></title>
@@ -2150,16 +2150,16 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Tue, 27 Dec 2016 00:16:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introduction to linear algebra]]></title>
-            <link>https://scoskey.github.io/1617s-301</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
+            <title><![CDATA[Calculus I]]></title>
+            <link>https://scoskey.github.io/1617s-170</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Calculus I]]></title>
-            <link>https://scoskey.github.io/1617s-170</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
+            <title><![CDATA[Introduction to linear algebra]]></title>
+            <link>https://scoskey.github.io/1617s-301</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
