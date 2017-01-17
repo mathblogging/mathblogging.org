@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Jan 2017 23:02:53 GMT</lastBuildDate>
-        <pubDate>Tue, 17 Jan 2017 23:02:51 GMT</pubDate>
+        <lastBuildDate>Tue, 17 Jan 2017 23:32:48 GMT</lastBuildDate>
+        <pubDate>Tue, 17 Jan 2017 23:32:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Bayesian methods in cosmology]]></title>
+            <link>https://xianblog.wordpress.com/2017/01/18/bayesian-methods-in-cosmology/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/18/bayesian-methods-in-cosmology/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 17 Jan 2017 23:17:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[30 tickets left to StanCon 2017! New sponsor!]]></title>
             <link>http://andrewgelman.com/2017/01/17/30-tickets-left-stancon-2017-new-sponsor/</link>
@@ -1248,13 +1255,6 @@ https://twitter.com/Lowpolybot/status/67545416799821...]]></title>
             <guid isPermaLink="false">http://datagenetics.com/blog/january32017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 09 Jan 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[empirical Bayes, reference priors, entropy & EM]]></title>
-            <link>https://xianblog.wordpress.com/2017/01/09/empirical-bayes-reference-priors-entropy-em/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/09/empirical-bayes-reference-priors-entropy-em/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sun, 08 Jan 2017 23:16:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[News to look forward to]]></title>
@@ -2612,17 +2612,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 09:08:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (26)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chuck-a-Luck]]></title>
             <link>http://datagenetics.com/blog/january12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (26)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>

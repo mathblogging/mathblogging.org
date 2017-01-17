@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Jan 2017 23:02:53 GMT</lastBuildDate>
-        <pubDate>Tue, 17 Jan 2017 23:02:51 GMT</pubDate>
+        <lastBuildDate>Tue, 17 Jan 2017 23:32:47 GMT</lastBuildDate>
+        <pubDate>Tue, 17 Jan 2017 23:32:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Bayesian methods in cosmology]]></title>
+            <link>https://xianblog.wordpress.com/2017/01/18/bayesian-methods-in-cosmology/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/18/bayesian-methods-in-cosmology/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 17 Jan 2017 23:17:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A bus-watching bot]]></title>
             <link>http://notstatschat.tumblr.com/post/156007757906</link>
@@ -420,13 +427,6 @@
             <guid isPermaLink="false">http://blog.mathed.net/2017/01/this-week-in-math-ed-january-6-2017.html</guid>
             <dc:creator><![CDATA[MathEd.net]]></dc:creator>
             <pubDate>Mon, 09 Jan 2017 00:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[empirical Bayes, reference priors, entropy & EM]]></title>
-            <link>https://xianblog.wordpress.com/2017/01/09/empirical-bayes-reference-priors-entropy-em/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/09/empirical-bayes-reference-priors-entropy-em/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sun, 08 Jan 2017 23:16:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sharing Kelsey Houston-Edwards’s Pi video with kids]]></title>
@@ -870,16 +870,16 @@
             <pubDate>Tue, 27 Dec 2016 06:37:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introduction to linear algebra]]></title>
-            <link>https://scoskey.github.io/1617s-301</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
+            <title><![CDATA[Calculus I]]></title>
+            <link>https://scoskey.github.io/1617s-170</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Calculus I]]></title>
-            <link>https://scoskey.github.io/1617s-170</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
+            <title><![CDATA[Introduction to linear algebra]]></title>
+            <link>https://scoskey.github.io/1617s-301</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
