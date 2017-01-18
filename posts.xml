@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Jan 2017 16:02:49 GMT</lastBuildDate>
-        <pubDate>Wed, 18 Jan 2017 16:02:46 GMT</pubDate>
+        <lastBuildDate>Wed, 18 Jan 2017 16:32:43 GMT</lastBuildDate>
+        <pubDate>Wed, 18 Jan 2017 16:32:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[semi hamiltonian graph]]></title>
+            <link>http://www.bookofproofs.org/branches/semi-hamiltonian-graph/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/semi-hamiltonian-graph/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Wed, 18 Jan 2017 16:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[semi hamiltonian path]]></title>
+            <link>http://www.bookofproofs.org/branches/semi-hamiltonian-path/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/semi-hamiltonian-path/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Wed, 18 Jan 2017 16:19:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My return]]></title>
             <link>https://symmetricblog.wordpress.com/2017/01/18/my-return/</link>
@@ -233,17 +247,17 @@
             <pubDate>Wed, 18 Jan 2017 06:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An NlogN Parallel Fast Direct Solver for Kernel Matrices]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/pBfRLvf3ViQ/an-nlogn-parallel-fast-direct-solver.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/pBfRLvf3ViQ/an-nlogn-parallel-fast-direct-solver.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 18 Jan 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Les mathématiques sont-elles encore vivantes ou ne nous servent-elles strictement à rien ?]]></title>
             <link>http://images.math.cnrs.fr/Les-mathematiques-sont-elles-encore-vivantes-ou-ne-nous-servent-elles.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Les-mathematiques-sont-elles-encore-vivantes-ou-ne-nous-servent-elles.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 18 Jan 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An NlogN Parallel Fast Direct Solver for Kernel Matrices]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/pBfRLvf3ViQ/an-nlogn-parallel-fast-direct-solver.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/pBfRLvf3ViQ/an-nlogn-parallel-fast-direct-solver.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 18 Jan 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -352,13 +366,6 @@
             <pubDate>Tue, 17 Jan 2017 22:07:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[girth and circumference]]></title>
-            <link>http://www.bookofproofs.org/branches/girth-and-circumference/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/girth-and-circumference/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 17 Jan 2017 22:06:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Investigación: Creencias, actitudes y presencia de los procesos matemáticos en la práctica docente]]></title>
             <link>http://matematicas11235813.luismiglesias.es/2017/01/18/investigacion-creencias-actitudes-y-presencia-de-los-procesos-matematicos-en-la-practica-docente/</link>
             <guid isPermaLink="false">http://matematicas11235813.luismiglesias.es/2017/01/18/investigacion-creencias-actitudes-y-presencia-de-los-procesos-matematicos-en-la-practica-docente/</guid>
@@ -385,13 +392,6 @@
             <guid isPermaLink="false">http://notstatschat.tumblr.com/post/156007757906</guid>
             <dc:creator><![CDATA[Biased and Inefficient]]></dc:creator>
             <pubDate>Tue, 17 Jan 2017 21:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[euler characteristic for planar graphs]]></title>
-            <link>http://www.bookofproofs.org/branches/euler-characteristic-for-planar-graphs/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/euler-characteristic-for-planar-graphs/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 17 Jan 2017 21:49:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Potent Quotables]]></title>
@@ -807,7 +807,7 @@
             <pubDate>Mon, 16 Jan 2017 15:56:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Protetto: Goniometria fino ad equazioni]]></title>
+            <title><![CDATA[Goniometria fino ad equazioni]]></title>
             <link>http://www.angelostella.it/quiz/goniometria-ad-equazioni/</link>
             <guid isPermaLink="false">http://www.angelostella.it/quiz/goniometria-ad-equazioni/</guid>
             <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
@@ -1010,17 +1010,17 @@
             <pubDate>Mon, 16 Jan 2017 06:30:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.7.5]]></title>
-            <link>http://images.math.cnrs.fr/4-7-5.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-7-5.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 16 Jan 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thesis: Privacy-aware and Scalable Recommender Systems using Sketching Techniques by Raghavendran Balu]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/JaGzJSSi4vA/thesis-privacy-aware-and-scalable.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/JaGzJSSi4vA/thesis-privacy-aware-and-scalable.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 16 Jan 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.7.5]]></title>
+            <link>http://images.math.cnrs.fr/4-7-5.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-7-5.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 16 Jan 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1227,17 +1227,17 @@
             <pubDate>Sun, 15 Jan 2017 13:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glacial Lake]]></title>
-            <link>http://mathtourist.blogspot.com/2017/01/glacial-lake.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/glacial-lake.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 15 Jan 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Numbers and Mind]]></title>
             <link>http://math-frolic.blogspot.com/2017/01/numbers-and-mind.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/01/numbers-and-mind.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 15 Jan 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glacial Lake]]></title>
+            <link>http://mathtourist.blogspot.com/2017/01/glacial-lake.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/glacial-lake.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 15 Jan 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1752,17 +1752,17 @@
             <pubDate>Fri, 13 Jan 2017 10:14:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Les interviews du CIRM : Jean-Pierre Serre (avec Jean-Louis Colliot-Thélène)]]></title>
-            <link>http://images.math.cnrs.fr/Les-interviews-du-CIRM-Jean-Pierre-Serre-avec-Jean-Louis-Colliot-Thelene.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-interviews-du-CIRM-Jean-Pierre-Serre-avec-Jean-Louis-Colliot-Thelene.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 13 Jan 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Your Face]]></title>
             <link>http://mrburkemath.blogspot.com/2017/01/your-face.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/01/your-face.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 13 Jan 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Les interviews du CIRM : Jean-Pierre Serre (avec Jean-Louis Colliot-Thélène)]]></title>
+            <link>http://images.math.cnrs.fr/Les-interviews-du-CIRM-Jean-Pierre-Serre-avec-Jean-Louis-Colliot-Thelene.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-interviews-du-CIRM-Jean-Pierre-Serre-avec-Jean-Louis-Colliot-Thelene.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 13 Jan 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2795,9 +2795,9 @@
             <pubDate>Tue, 10 Jan 2017 06:46:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[6 ème concours « Bulles au carré » : Maths et langages]]></title>
-            <link>http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</guid>
+            <title><![CDATA[Problèmes de reconstruction de phase]]></title>
+            <link>http://images.math.cnrs.fr/Problemes-de-reconstruction-de-phase.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Problemes-de-reconstruction-de-phase.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 10 Jan 2017 06:00:00 GMT</pubDate>
         </item>
@@ -2809,9 +2809,9 @@
             <pubDate>Tue, 10 Jan 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Problèmes de reconstruction de phase]]></title>
-            <link>http://images.math.cnrs.fr/Problemes-de-reconstruction-de-phase.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Problemes-de-reconstruction-de-phase.html</guid>
+            <title><![CDATA[6 ème concours « Bulles au carré » : Maths et langages]]></title>
+            <link>http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 10 Jan 2017 06:00:00 GMT</pubDate>
         </item>
@@ -3083,17 +3083,17 @@ Thought the political compass meme for...]]></title>
             <pubDate>Mon, 09 Jan 2017 12:31:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Royal Poinciana]]></title>
-            <link>http://mathtourist.blogspot.com/2017/01/royal-poinciana.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/royal-poinciana.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 09 Jan 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S8.286 - Re: Cycling]]></title>
             <link>http://mathtans.blogspot.com/2017/01/s8286-re-cycling.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/01/s8286-re-cycling.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 09 Jan 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal Poinciana]]></title>
+            <link>http://mathtourist.blogspot.com/2017/01/royal-poinciana.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/royal-poinciana.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 09 Jan 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3132,17 +3132,17 @@ Thought the political compass meme for...]]></title>
             <pubDate>Mon, 09 Jan 2017 10:08:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On a Crossnumber Clue]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/on-a-crossnumber-clue/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/on-a-crossnumber-clue/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 09 Jan 2017 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Do Numbers Come First?]]></title>
             <link>http://www.madmath.com/2017/01/do-numbers-come-first.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/01/do-numbers-come-first.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 09 Jan 2017 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On a Crossnumber Clue]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/on-a-crossnumber-clue/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/on-a-crossnumber-clue/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 09 Jan 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3174,17 +3174,17 @@ Thought the political compass meme for...]]></title>
             <pubDate>Mon, 09 Jan 2017 06:03:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.7.4]]></title>
-            <link>http://images.math.cnrs.fr/-4128.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4128.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 09 Jan 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/7VumzgEZQIE/a-matrix-factorization-approach-for.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/7VumzgEZQIE/a-matrix-factorization-approach-for.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 09 Jan 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.7.4]]></title>
+            <link>http://images.math.cnrs.fr/-4128.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4128.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 09 Jan 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3246,17 +3246,17 @@ https://twitter.com/Lowpolybot/status/67545416799821...]]></title>
             <pubDate>Mon, 09 Jan 2017 00:07:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 9]]></title>
-            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-9.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-9.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 09 Jan 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CES 2017]]></title>
             <link>http://datagenetics.com/blog/january32017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january32017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 09 Jan 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 9]]></title>
+            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-9.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-9.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 09 Jan 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3386,17 +3386,17 @@ https://twitter.com/Lowpolybot/status/67545416799821...]]></title>
             <pubDate>Sun, 08 Jan 2017 12:53:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shore Shells]]></title>
-            <link>http://mathtourist.blogspot.com/2017/01/shore-shells.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/shore-shells.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 08 Jan 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Unknown Unknowns"]]></title>
             <link>http://math-frolic.blogspot.com/2017/01/unknown-unknowns.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/01/unknown-unknowns.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 08 Jan 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shore Shells]]></title>
+            <link>http://mathtourist.blogspot.com/2017/01/shore-shells.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/shore-shells.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 08 Jan 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5124,17 +5124,17 @@ now this is the kind of math i can really get...]]></title>
             <pubDate>Mon, 02 Jan 2017 12:45:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heads or Tails]]></title>
-            <link>http://mathtourist.blogspot.com/2017/01/heads-or-tails.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/heads-or-tails.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 02 Jan 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S8.285 - Secretive Service]]></title>
             <link>http://mathtans.blogspot.com/2017/01/s8285-secretive-service.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/01/s8285-secretive-service.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 02 Jan 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heads or Tails]]></title>
+            <link>http://mathtourist.blogspot.com/2017/01/heads-or-tails.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/heads-or-tails.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 02 Jan 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5272,15 +5272,15 @@ now this is the kind of math i can really get...]]></title>
         </item>
         <item>
             <title><![CDATA[Write an Operating System for Your Brain]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZX65PDsNdfU/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZX65PDsNdfU/</guid>
+            <link>http://busynessgirl.com/write-your-own-personal-operating-system/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/write-your-own-personal-operating-system/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 01 Jan 2017 17:11:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Write an Operating System for Your Brain]]></title>
-            <link>http://busynessgirl.com/write-your-own-personal-operating-system/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/write-your-own-personal-operating-system/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZX65PDsNdfU/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZX65PDsNdfU/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 01 Jan 2017 17:11:56 GMT</pubDate>
         </item>
@@ -5341,17 +5341,17 @@ now this is the kind of math i can really get...]]></title>
             <pubDate>Sun, 01 Jan 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IJRUME: Approximation in Calculus]]></title>
-            <link>http://launchings.blogspot.com/2017/01/ijrume-approximation-in-calculus.html</link>
-            <guid isPermaLink="false">http://launchings.blogspot.com/2017/01/ijrume-approximation-in-calculus.html</guid>
-            <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
-            <pubDate>Sun, 01 Jan 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["the linguistic aspect of mathematics"]]></title>
             <link>http://math-frolic.blogspot.com/2017/01/the-linguistic-aspect-of-mathematics.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/01/the-linguistic-aspect-of-mathematics.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 01 Jan 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IJRUME: Approximation in Calculus]]></title>
+            <link>http://launchings.blogspot.com/2017/01/ijrume-approximation-in-calculus.html</link>
+            <guid isPermaLink="false">http://launchings.blogspot.com/2017/01/ijrume-approximation-in-calculus.html</guid>
+            <dc:creator><![CDATA[Launchings by David Bressoud]]></dc:creator>
             <pubDate>Sun, 01 Jan 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5912,17 +5912,17 @@ ALEX WILLIAMS]]></title>
             <pubDate>Fri, 30 Dec 2016 12:02:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elliptic Suffusion]]></title>
-            <link>http://mathtourist.blogspot.com/2016/12/elliptic-suffusion.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/elliptic-suffusion.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 30 Dec 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Critical Thinking"... A Simple Example]]></title>
             <link>http://math-frolic.blogspot.com/2016/12/critical-thinking-simple-example.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/critical-thinking-simple-example.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Fri, 30 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elliptic Suffusion]]></title>
+            <link>http://mathtourist.blogspot.com/2016/12/elliptic-suffusion.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/elliptic-suffusion.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 30 Dec 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6582,13 +6582,6 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Tue, 27 Dec 2016 00:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Calculus I]]></title>
-            <link>https://scoskey.github.io/1617s-170</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introduction to linear algebra]]></title>
             <link>https://scoskey.github.io/1617s-301</link>
             <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
@@ -6600,6 +6593,13 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-27.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-27.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calculus I]]></title>
+            <link>https://scoskey.github.io/1617s-170</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6701,17 +6701,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 11:36:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On Famous Things]]></title>
-            <link>http://www.madmath.com/2016/12/on-famous-things.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2016/12/on-famous-things.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some charitable suggestions]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/some-charitable-suggestions/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Famous Things]]></title>
+            <link>http://www.madmath.com/2016/12/on-famous-things.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2016/12/on-famous-things.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6736,6 +6736,13 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Mon, 26 Dec 2016 03:14:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chuck-a-Luck]]></title>
+            <link>http://datagenetics.com/blog/january12017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fortnightly links (26)]]></title>
             <link>http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2016/12/26/fortnightly-links-26/</guid>
@@ -6747,13 +6754,6 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <link>http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-26.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2016/12/on-this-day-in-math-december-26.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chuck-a-Luck]]></title>
-            <link>http://datagenetics.com/blog/january12017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january12017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6799,17 +6799,17 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Sun, 25 Dec 2016 14:47:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cathedral at Christmas]]></title>
-            <link>http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sharing the Pleasure]]></title>
             <link>http://math-frolic.blogspot.com/2016/12/sharing-pleasure.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/sharing-pleasure.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cathedral at Christmas]]></title>
+            <link>http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2016/12/cathedral-at-christmas.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7314,15 +7314,15 @@ Scott Locke // Original Digital Manipulation]]></title>
         </item>
         <item>
             <title><![CDATA[Unizor - Derivatives - Limit of Sequence - Big O, Little o]]></title>
-            <link>http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_55.html</link>
-            <guid isPermaLink="false">http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_55.html</guid>
+            <link>http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_22.html</link>
+            <guid isPermaLink="false">http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_22.html</guid>
             <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
             <pubDate>Fri, 23 Dec 2016 05:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unizor - Derivatives - Limit of Sequence - Big O, Little o]]></title>
-            <link>http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_22.html</link>
-            <guid isPermaLink="false">http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_22.html</guid>
+            <link>http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_55.html</link>
+            <guid isPermaLink="false">http://unizor.blogspot.com/2016/12/unizor-derivatives-limit-of-sequence_55.html</guid>
             <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
             <pubDate>Fri, 23 Dec 2016 05:11:00 GMT</pubDate>
         </item>
@@ -7485,15 +7485,15 @@ Hut in Niigata prefecture, Japan by Karissa Seltz.]]></title>
         </item>
         <item>
             <title><![CDATA[The Four Processors: A Neogeneralist Problem?]]></title>
-            <link>http://busynessgirl.com/the-four-processors/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/the-four-processors/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Kp5Vq7M9QJw/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Kp5Vq7M9QJw/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 22 Dec 2016 14:24:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Four Processors: A Neogeneralist Problem?]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Kp5Vq7M9QJw/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Kp5Vq7M9QJw/</guid>
+            <link>http://busynessgirl.com/the-four-processors/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/the-four-processors/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 22 Dec 2016 14:24:43 GMT</pubDate>
         </item>
@@ -7879,15 +7879,15 @@ Path 93, Row 56 2013-12-03 at...]]></title>
         </item>
         <item>
             <title><![CDATA[Clickety Click Click: Awful Measures for Learning]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZedEKfZpsVU/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZedEKfZpsVU/</guid>
+            <link>http://busynessgirl.com/clickety-click-click-awful-measures-for-learning/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/clickety-click-click-awful-measures-for-learning/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 20 Dec 2016 01:25:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clickety Click Click: Awful Measures for Learning]]></title>
-            <link>http://busynessgirl.com/clickety-click-click-awful-measures-for-learning/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/clickety-click-click-awful-measures-for-learning/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZedEKfZpsVU/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZedEKfZpsVU/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 20 Dec 2016 01:25:40 GMT</pubDate>
         </item>
@@ -8123,13 +8123,6 @@ Narwhals y’all (Taken with instagram)]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/g2SCnShOsjA/2016-2017.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Sun, 18 Dec 2016 16:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herbal medicine and its dangers]]></title>
-            <link>https://alanrendall.wordpress.com/2016/12/18/herbal-medicine-and-its-dangers/</link>
-            <guid isPermaLink="false">https://alanrendall.wordpress.com/2016/12/18/herbal-medicine-and-its-dangers/</guid>
-            <dc:creator><![CDATA[Hydrobates]]></dc:creator>
-            <pubDate>Sun, 18 Dec 2016 16:24:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
