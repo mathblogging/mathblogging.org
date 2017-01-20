@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Jan 2017 19:03:06 GMT</lastBuildDate>
-        <pubDate>Fri, 20 Jan 2017 19:03:04 GMT</pubDate>
+        <lastBuildDate>Fri, 20 Jan 2017 19:33:16 GMT</lastBuildDate>
+        <pubDate>Fri, 20 Jan 2017 19:33:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Matematica per scuole medie]]></title>
+            <link>http://www.angelostella.it/quiz/matematica-per-scuole-medie/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/quiz/matematica-per-scuole-medie/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Fri, 20 Jan 2017 19:25:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I sistemi di Lindenmayer (parte prima: la successione di Thue-Morse)]]></title>
             <link>http://misterpalomar.blogspot.com/2017/01/i-sistemi-di-lindenmayer-parte-prima-la.html</link>
@@ -491,13 +498,6 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mindyourdecisions/~3/sKDsOOIXDDw/</guid>
             <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
             <pubDate>Thu, 12 Jan 2017 00:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Limiti ed asintoti]]></title>
-            <link>http://www.angelostella.it/quiz/limiti-ed-asintoti/</link>
-            <guid isPermaLink="false">http://www.angelostella.it/quiz/limiti-ed-asintoti/</guid>
-            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
-            <pubDate>Wed, 11 Jan 2017 22:55:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life Lessons After 10 Years of BetterExplained.com]]></title>
@@ -1260,13 +1260,6 @@ Honestly...]]></title>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2016/12/another-book-blurb.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Tue, 20 Dec 2016 22:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chameleon Coins]]></title>
-            <link>http://blog.tanyakhovanova.com/2016/12/chameleon-coins/</link>
-            <guid isPermaLink="false">http://blog.tanyakhovanova.com/2016/12/chameleon-coins/</guid>
-            <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
-            <pubDate>Tue, 20 Dec 2016 19:28:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
