@@ -4,10 +4,31 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Jan 2017 23:02:44 GMT</lastBuildDate>
-        <pubDate>Sat, 21 Jan 2017 23:02:40 GMT</pubDate>
+        <lastBuildDate>Sat, 21 Jan 2017 23:32:41 GMT</lastBuildDate>
+        <pubDate>Sat, 21 Jan 2017 23:32:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[sieve for twin primes]]></title>
+            <link>http://www.bookofproofs.org/branches/sieve-for-twin-primes/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/sieve-for-twin-primes/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 21 Jan 2017 23:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Initial, Caen [*]]]></title>
+            <link>https://xianblog.wordpress.com/2017/01/22/initial-caen/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/22/initial-caen/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sat, 21 Jan 2017 23:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sieve of eratosthenes]]></title>
+            <link>http://www.bookofproofs.org/branches/sieve-of-eratosthenes/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/sieve-of-eratosthenes/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 21 Jan 2017 23:04:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Things to print and do in the 4th dimension]]></title>
             <link>https://mikesmathpage.wordpress.com/2017/01/21/things-to-print-and-do-in-the-4th-dimension/</link>
@@ -16,18 +37,18 @@
             <pubDate>Sat, 21 Jan 2017 22:48:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[twin prime numbers]]></title>
+            <link>http://www.bookofproofs.org/branches/twin-prime-numbers/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/twin-prime-numbers/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 21 Jan 2017 22:43:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Counting Principles – Counting and Cardinality]]></title>
             <link>https://tapintoteenminds.com/counting-principles-counting-and-cardinality/</link>
             <guid isPermaLink="false">https://tapintoteenminds.com/counting-principles-counting-and-cardinality/</guid>
             <dc:creator><![CDATA[Tap Into Teen Minds]]></dc:creator>
             <pubDate>Sat, 21 Jan 2017 22:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sieve of eratosthenes]]></title>
-            <link>http://www.bookofproofs.org/branches/sieve-of-eratosthenes/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/sieve-of-eratosthenes/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 21 Jan 2017 22:19:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About 2017]]></title>
@@ -1012,17 +1033,17 @@ This is one of the first images I made...]]></title>
             <pubDate>Wed, 18 Jan 2017 19:16:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Double Castle]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/E-QvLkCKhzk/double-castle.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/E-QvLkCKhzk/double-castle.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Wed, 18 Jan 2017 19:16:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New GCSE: Functions]]></title>
             <link>http://www.resourceaholic.com/2017/01/functions.html</link>
             <guid isPermaLink="false">http://www.resourceaholic.com/2017/01/functions.html</guid>
             <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
+            <pubDate>Wed, 18 Jan 2017 19:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Double Castle]]></title>
+            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/E-QvLkCKhzk/double-castle.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/E-QvLkCKhzk/double-castle.html</guid>
+            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Wed, 18 Jan 2017 19:16:00 GMT</pubDate>
         </item>
         <item>
@@ -1083,13 +1104,6 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Wed, 18 Jan 2017 16:22:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[semi hamiltonian path]]></title>
-            <link>http://www.bookofproofs.org/branches/semi-hamiltonian-path/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/semi-hamiltonian-path/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 18 Jan 2017 16:19:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[My return]]></title>
             <link>https://symmetricblog.wordpress.com/2017/01/18/my-return/</link>
             <guid isPermaLink="false">https://symmetricblog.wordpress.com/2017/01/18/my-return/</guid>
@@ -1109,13 +1123,6 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <guid isPermaLink="false">http://retractionwatch.com/2017/01/18/spot-citation-cartel/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Wed, 18 Jan 2017 14:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[characterization of semi eulerian graphs proof]]></title>
-            <link>http://www.bookofproofs.org/branches/characterization-of-semi-eulerian-graphs/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/characterization-of-semi-eulerian-graphs/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 18 Jan 2017 14:10:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Ideology In Math Education"]]></title>
@@ -1888,17 +1895,17 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Mon, 16 Jan 2017 12:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lake Reflections]]></title>
-            <link>http://mathtourist.blogspot.com/2017/01/lake-reflections.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/lake-reflections.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 16 Jan 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S8.287 - Dressing Down]]></title>
             <link>http://mathtans.blogspot.com/2017/01/s8287-dressing-down.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/01/s8287-dressing-down.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 16 Jan 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lake Reflections]]></title>
+            <link>http://mathtourist.blogspot.com/2017/01/lake-reflections.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/lake-reflections.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 16 Jan 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2056,17 +2063,17 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Mon, 16 Jan 2017 00:16:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Centroids of semicircles and hemispheres]]></title>
-            <link>http://datagenetics.com/blog/january52017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january52017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Mon, 16 Jan 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 16]]></title>
             <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-16.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-16.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Mon, 16 Jan 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Centroids of semicircles and hemispheres]]></title>
+            <link>http://datagenetics.com/blog/january52017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january52017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 16 Jan 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2518,13 +2525,6 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Fri, 13 Jan 2017 23:46:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[la maison des mathématiques]]></title>
-            <link>https://xianblog.wordpress.com/2017/01/14/la-maison-des-mathematiques/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/14/la-maison-des-mathematiques/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Fri, 13 Jan 2017 23:17:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[My new programming languages course]]></title>
             <link>https://byorgey.wordpress.com/2017/01/13/my-new-programming-languages-course/</link>
             <guid isPermaLink="false">https://byorgey.wordpress.com/2017/01/13/my-new-programming-languages-course/</guid>
@@ -2700,17 +2700,17 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Fri, 13 Jan 2017 10:14:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Your Face]]></title>
-            <link>http://mrburkemath.blogspot.com/2017/01/your-face.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/01/your-face.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 13 Jan 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Les interviews du CIRM : Jean-Pierre Serre (avec Jean-Louis Colliot-Thélène)]]></title>
             <link>http://images.math.cnrs.fr/Les-interviews-du-CIRM-Jean-Pierre-Serre-avec-Jean-Louis-Colliot-Thelene.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Les-interviews-du-CIRM-Jean-Pierre-Serre-avec-Jean-Louis-Colliot-Thelene.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 13 Jan 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your Face]]></title>
+            <link>http://mrburkemath.blogspot.com/2017/01/your-face.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/01/your-face.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 13 Jan 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3295,17 +3295,17 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Wed, 11 Jan 2017 06:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cinnamon Rolls]]></title>
-            <link>http://mrburkemath.blogspot.com/2017/01/cinnamon-rolls.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/01/cinnamon-rolls.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Wed, 11 Jan 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paris Machine Learning Meetup #5 Season 4: LIME 'Why should I trust you', Apache SAMOA, GAN for Cracks, Opps, NIPS2016]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oXm_3rsw4Bw/ce-soir-paris-machine-learning-meetup-5.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oXm_3rsw4Bw/ce-soir-paris-machine-learning-meetup-5.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 11 Jan 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cinnamon Rolls]]></title>
+            <link>http://mrburkemath.blogspot.com/2017/01/cinnamon-rolls.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/01/cinnamon-rolls.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Wed, 11 Jan 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3666,17 +3666,17 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Tue, 10 Jan 2017 06:46:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FINN: A Framework for Fast, Scalable Binarized Neural Network Inference / Scaling Binarized Neural Networks on Reconfigurable Logic]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oDC7gwz8ykg/finn-framework-for-fast-scalable.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oDC7gwz8ykg/finn-framework-for-fast-scalable.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Tue, 10 Jan 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[6 ème concours « Bulles au carré » : Maths et langages]]></title>
             <link>http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/6-eme-concours-Bulles-au-carre-Maths-et-langages.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 10 Jan 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FINN: A Framework for Fast, Scalable Binarized Neural Network Inference / Scaling Binarized Neural Networks on Reconfigurable Logic]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oDC7gwz8ykg/finn-framework-for-fast-scalable.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/oDC7gwz8ykg/finn-framework-for-fast-scalable.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Tue, 10 Jan 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3730,17 +3730,17 @@ Thought the political compass meme for...]]></title>
             <pubDate>Tue, 10 Jan 2017 00:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 10]]></title>
-            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-10.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-10.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 10 Jan 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Self Driving Cars]]></title>
             <link>http://datagenetics.com/blog/january42017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january42017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Tue, 10 Jan 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 10]]></title>
+            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-10.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-10.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 10 Jan 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4215,17 +4215,17 @@ https://twitter.com/Lowpolybot/status/67545416799821...]]></title>
             <pubDate>Sun, 08 Jan 2017 04:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (27)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/01/08/fortnightly-links-27/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/01/08/fortnightly-links-27/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 08 Jan 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 8]]></title>
             <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-8.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-8.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 08 Jan 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (27)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/01/08/fortnightly-links-27/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/01/08/fortnightly-links-27/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 08 Jan 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
