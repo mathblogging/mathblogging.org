@@ -4,16 +4,51 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Jan 2017 23:03:13 GMT</lastBuildDate>
-        <pubDate>Mon, 23 Jan 2017 23:03:11 GMT</pubDate>
+        <lastBuildDate>Mon, 23 Jan 2017 23:32:46 GMT</lastBuildDate>
+        <pubDate>Mon, 23 Jan 2017 23:32:44 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[enumerated type]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">enumerated type</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 23 Jan 2017 23:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[empty 160]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">empty 160</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 23 Jan 2017 23:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[odd times odd number proof]]></title>
+            <link>http://www.bookofproofs.org/branches/odd-times-odd-number/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/odd-times-odd-number/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 23 Jan 2017 23:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[odd times odd number]]></title>
+            <link>http://www.bookofproofs.org/branches/odd-times-odd-number/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/odd-times-odd-number/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 23 Jan 2017 22:57:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[even times odd number proof]]></title>
             <link>http://www.bookofproofs.org/branches/even-times-odd-number/proof/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/even-times-odd-number/proof/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 22:50:02 GMT</pubDate>
+            <pubDate>Mon, 23 Jan 2017 22:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[even times odd number]]></title>
+            <link>http://www.bookofproofs.org/branches/even-times-odd-number/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/even-times-odd-number/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 23 Jan 2017 22:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[even times even number proof]]></title>
@@ -21,13 +56,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/even-times-even-number/proof/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Mon, 23 Jan 2017 22:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[even times odd number]]></title>
-            <link>http://www.bookofproofs.org/branches/even-times-odd-number/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/even-times-odd-number/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 22:45:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[even times even number]]></title>
@@ -301,20 +329,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/divisor-closed-subsets-of-natural-numbers/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Sun, 22 Jan 2017 11:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[subsets of prime numbers not dividing a natural number]]></title>
-            <link>http://www.bookofproofs.org/branches/subsets-of-prime-numbers-not-dividing-a-natural-number/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/subsets-of-prime-numbers-not-dividing-a-natural-number/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 22 Jan 2017 11:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[subsets of natural numbers relatively prime to a natural number]]></title>
-            <link>http://www.bookofproofs.org/branches/subsets-of-natural-numbers-relatively-prime-to-a-natural-number/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/subsets-of-natural-numbers-relatively-prime-to-a-natural-number/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 22 Jan 2017 10:45:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harmonic oscillator – zero-point energy from uncertainty principle]]></title>
