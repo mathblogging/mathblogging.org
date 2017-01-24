@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Jan 2017 21:02:39 GMT</lastBuildDate>
-        <pubDate>Tue, 24 Jan 2017 21:02:36 GMT</pubDate>
+        <lastBuildDate>Tue, 24 Jan 2017 21:32:48 GMT</lastBuildDate>
+        <pubDate>Tue, 24 Jan 2017 21:32:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[James Munkres]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">James Munkres</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 24 Jan 2017 21:15:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unizor - Derivatives - Differential Along a Curve]]></title>
             <link>http://unizor.blogspot.com/2017/01/unizor-derivatives-differential-along.html</link>
@@ -189,13 +196,6 @@
             <guid isPermaLink="false">http://flowingdata.com/2017/01/24/one-dataset-visualized-25-ways/</guid>
             <dc:creator><![CDATA[FlowingData]]></dc:creator>
             <pubDate>Tue, 24 Jan 2017 13:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fundamental theorem of covering spaces]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">fundamental theorem of covering spaces</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 24 Jan 2017 12:48:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Profound Impact]]></title>
@@ -800,17 +800,17 @@
             <pubDate>Mon, 23 Jan 2017 00:42:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 23]]></title>
-            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-23.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-23.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Applying the Distributive Property]]></title>
             <link>http://www.moomoomathblog.com/2017/01/applying-distributive-property.html</link>
             <guid isPermaLink="false">http://www.moomoomathblog.com/2017/01/applying-distributive-property.html</guid>
             <dc:creator><![CDATA[MooMooMath]]></dc:creator>
+            <pubDate>Mon, 23 Jan 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 23]]></title>
+            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-23.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-23.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 23 Jan 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1582,8 +1582,8 @@ This is one of the first images I made...]]></title>
         </item>
         <item>
             <title><![CDATA[The “P-values overstate the evidence against the null” fallacy]]></title>
-            <link>https://errorstatistics.com/2017/01/19/the-p-values-overstate-the-evidence-against-the-null-fallacy-2/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2017/01/19/the-p-values-overstate-the-evidence-against-the-null-fallacy-2/</guid>
+            <link>http://errorstatistics.com/2017/01/19/the-p-values-overstate-the-evidence-against-the-null-fallacy-2/</link>
+            <guid isPermaLink="false">http://errorstatistics.com/2017/01/19/the-p-values-overstate-the-evidence-against-the-null-fallacy-2/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Fri, 20 Jan 2017 02:50:16 GMT</pubDate>
         </item>
@@ -2191,17 +2191,17 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Wed, 18 Jan 2017 06:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Les mathématiques sont-elles encore vivantes ou ne nous servent-elles strictement à rien ?]]></title>
-            <link>http://images.math.cnrs.fr/Les-mathematiques-sont-elles-encore-vivantes-ou-ne-nous-servent-elles.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-mathematiques-sont-elles-encore-vivantes-ou-ne-nous-servent-elles.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 18 Jan 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An NlogN Parallel Fast Direct Solver for Kernel Matrices]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/pBfRLvf3ViQ/an-nlogn-parallel-fast-direct-solver.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/pBfRLvf3ViQ/an-nlogn-parallel-fast-direct-solver.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 18 Jan 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Les mathématiques sont-elles encore vivantes ou ne nous servent-elles strictement à rien ?]]></title>
+            <link>http://images.math.cnrs.fr/Les-mathematiques-sont-elles-encore-vivantes-ou-ne-nous-servent-elles.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-mathematiques-sont-elles-encore-vivantes-ou-ne-nous-servent-elles.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 18 Jan 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3094,17 +3094,17 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Sun, 15 Jan 2017 13:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[تصحيح الفرض التجريبي حول المرجح والمتتاليات 2017]]></title>
-            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/Sp9jHQGqm48/suites-barycentre-evaluation-1bac.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/Sp9jHQGqm48/suites-barycentre-evaluation-1bac.html</guid>
-            <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
-            <pubDate>Sun, 15 Jan 2017 13:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[2016: Year In Review]]></title>
             <link>http://mathequalslove.blogspot.com/2017/01/2016-year-in-review.html</link>
             <guid isPermaLink="false">http://mathequalslove.blogspot.com/2017/01/2016-year-in-review.html</guid>
             <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Sun, 15 Jan 2017 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[تصحيح الفرض التجريبي حول المرجح والمتتاليات 2017]]></title>
+            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/Sp9jHQGqm48/suites-barycentre-evaluation-1bac.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/Sp9jHQGqm48/suites-barycentre-evaluation-1bac.html</guid>
+            <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Sun, 15 Jan 2017 13:30:00 GMT</pubDate>
         </item>
         <item>
@@ -3151,8 +3151,8 @@ Saint Michael, The Archangel, Slaying...]]></title>
         </item>
         <item>
             <title><![CDATA[Winners of December Palindrome: Kyle Griffiths & Eileen Flanagan]]></title>
-            <link>https://errorstatistics.com/2017/01/14/winners-of-december-palindrome-kyle-griffiths-eileen-flanagan/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2017/01/14/winners-of-december-palindrome-kyle-griffiths-eileen-flanagan/</guid>
+            <link>http://errorstatistics.com/2017/01/14/winners-of-december-palindrome-kyle-griffiths-eileen-flanagan/</link>
+            <guid isPermaLink="false">http://errorstatistics.com/2017/01/14/winners-of-december-palindrome-kyle-griffiths-eileen-flanagan/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Sun, 15 Jan 2017 02:12:40 GMT</pubDate>
         </item>
@@ -3228,15 +3228,15 @@ Saint Michael, The Archangel, Slaying...]]></title>
         </item>
         <item>
             <title><![CDATA[Video of AMATYC Keynote]]></title>
-            <link>http://busynessgirl.com/video-of-amatyc-keynote/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/video-of-amatyc-keynote/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nl1LhvO00aQ/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nl1LhvO00aQ/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 14 Jan 2017 20:39:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Video of AMATYC Keynote]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nl1LhvO00aQ/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/Nl1LhvO00aQ/</guid>
+            <link>http://busynessgirl.com/video-of-amatyc-keynote/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/video-of-amatyc-keynote/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 14 Jan 2017 20:39:09 GMT</pubDate>
         </item>
@@ -5030,8 +5030,8 @@ https://twitter.com/Lowpolybot/status/67545416799821...]]></title>
         </item>
         <item>
             <title><![CDATA[BOSTON COLLOQUIUM FOR PHILOSOPHY OF SCIENCE:  Understanding Reproducibility & Error Correction in Science]]></title>
-            <link>https://errorstatistics.com/2017/01/07/boston-colloquium-for-philosophy-of-science-understanding-reproducibility-error-correction-in-science/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2017/01/07/boston-colloquium-for-philosophy-of-science-understanding-reproducibility-error-correction-in-science/</guid>
+            <link>http://errorstatistics.com/2017/01/07/boston-colloquium-for-philosophy-of-science-understanding-reproducibility-error-correction-in-science/</link>
+            <guid isPermaLink="false">http://errorstatistics.com/2017/01/07/boston-colloquium-for-philosophy-of-science-understanding-reproducibility-error-correction-in-science/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Sat, 07 Jan 2017 21:36:57 GMT</pubDate>
         </item>
@@ -6964,8 +6964,8 @@ now this is the kind of math i can really get...]]></title>
         </item>
         <item>
             <title><![CDATA[Midnight With Birnbaum (Happy New Year 2016)]]></title>
-            <link>https://errorstatistics.com/2016/12/31/midnight-with-birnbaum-happy-new-year-2016/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2016/12/31/midnight-with-birnbaum-happy-new-year-2016/</guid>
+            <link>http://errorstatistics.com/2016/12/31/midnight-with-birnbaum-happy-new-year-2016/</link>
+            <guid isPermaLink="false">http://errorstatistics.com/2016/12/31/midnight-with-birnbaum-happy-new-year-2016/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Sat, 31 Dec 2016 21:42:56 GMT</pubDate>
         </item>
@@ -7241,8 +7241,8 @@ ALEX WILLIAMS]]></title>
         </item>
         <item>
             <title><![CDATA[Szucs & Ioannidis Revive the Limb-Sawing Fallacy]]></title>
-            <link>https://errorstatistics.com/2016/12/30/szucs-ioannidis-revive-the-limb-sawing-fallacy/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2016/12/30/szucs-ioannidis-revive-the-limb-sawing-fallacy/</guid>
+            <link>http://errorstatistics.com/2016/12/30/szucs-ioannidis-revive-the-limb-sawing-fallacy/</link>
+            <guid isPermaLink="false">http://errorstatistics.com/2016/12/30/szucs-ioannidis-revive-the-limb-sawing-fallacy/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Fri, 30 Dec 2016 20:17:00 GMT</pubDate>
         </item>
@@ -7974,8 +7974,8 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
         </item>
         <item>
             <title><![CDATA[3 YEARS AGO (DECEMBER 2013): MEMORY LANE]]></title>
-            <link>https://errorstatistics.com/2016/12/26/3-years-ago-december-2013-memory-lane/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2016/12/26/3-years-ago-december-2013-memory-lane/</guid>
+            <link>http://errorstatistics.com/2016/12/26/3-years-ago-december-2013-memory-lane/</link>
+            <guid isPermaLink="false">http://errorstatistics.com/2016/12/26/3-years-ago-december-2013-memory-lane/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Mon, 26 Dec 2016 15:07:56 GMT</pubDate>
         </item>
