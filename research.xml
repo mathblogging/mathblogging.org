@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Jan 2017 16:02:39 GMT</lastBuildDate>
-        <pubDate>Tue, 24 Jan 2017 16:02:37 GMT</pubDate>
+        <lastBuildDate>Tue, 24 Jan 2017 16:32:28 GMT</lastBuildDate>
+        <pubDate>Tue, 24 Jan 2017 16:32:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The problem with the "Living Wage"]]></title>
+            <link>http://models.street-artists.org/2017/01/24/the-problem-with-the-living-wage/</link>
+            <guid isPermaLink="false">http://models.street-artists.org/2017/01/24/the-problem-with-the-living-wage/</guid>
+            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
+            <pubDate>Tue, 24 Jan 2017 16:30:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hidden Figures recibe tres nominaciones al Oscar]]></title>
             <link>https://seriesdivergentes.wordpress.com/2017/01/24/hidden-figures-recibe-tres-nominaciones-al-oscar/</link>
@@ -91,13 +98,6 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/24/and-it-only-gets-worse/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Mon, 23 Jan 2017 23:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[enumerated type]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">enumerated type</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 23:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[odd times odd number proof]]></title>
@@ -224,6 +224,13 @@
             <guid isPermaLink="false">http://www.physicspages.com/2017/01/23/harmonic-oscillator-eigenfunctions-in-momentum-space/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
             <pubDate>Mon, 23 Jan 2017 15:39:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[topological invariance of dimension]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">topological invariance of dimension</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 23 Jan 2017 15:24:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[70]]></title>
@@ -3039,16 +3046,16 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <pubDate>Tue, 27 Dec 2016 00:16:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Calculus I]]></title>
-            <link>https://scoskey.github.io/1617s-170</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
+            <title><![CDATA[Introduction to linear algebra]]></title>
+            <link>https://scoskey.github.io/1617s-301</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introduction to linear algebra]]></title>
-            <link>https://scoskey.github.io/1617s-301</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1617s-301</guid>
+            <title><![CDATA[Calculus I]]></title>
+            <link>https://scoskey.github.io/1617s-170</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1617s-170</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 27 Dec 2016 00:00:00 GMT</pubDate>
         </item>
