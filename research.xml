@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Jan 2017 21:32:47 GMT</lastBuildDate>
-        <pubDate>Tue, 24 Jan 2017 21:32:45 GMT</pubDate>
+        <lastBuildDate>Tue, 24 Jan 2017 22:02:33 GMT</lastBuildDate>
+        <pubDate>Tue, 24 Jan 2017 22:02:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[interesting nine]]></title>
+            <link>http://www.bookofproofs.org/branches/interesting-nine/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/interesting-nine/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 24 Jan 2017 21:53:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[odd times odd number]]></title>
+            <link>http://www.bookofproofs.org/branches/odd-times-odd-number/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/odd-times-odd-number/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 24 Jan 2017 21:53:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[James Munkres]]></title>
             <link>null</link>
@@ -133,20 +147,6 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/24/and-it-only-gets-worse/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Mon, 23 Jan 2017 23:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[odd times odd number proof]]></title>
-            <link>http://www.bookofproofs.org/branches/odd-times-odd-number/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/odd-times-odd-number/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 23:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[odd times odd number]]></title>
-            <link>http://www.bookofproofs.org/branches/odd-times-odd-number/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/odd-times-odd-number/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 22:57:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[even times odd number proof]]></title>
@@ -3212,13 +3212,6 @@ a symmetric matrix over  {☹,😐,😃}.]]></title>
             <guid isPermaLink="false">https://galoisrepresentations.wordpress.com/2016/12/24/correspondance-serre-tate-part-i/</guid>
             <dc:creator><![CDATA[Persiflage]]></dc:creator>
             <pubDate>Sun, 25 Dec 2016 02:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new counter-example]]></title>
-            <link>https://portonmath.wordpress.com/2016/12/24/new-counter-example/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2016/12/24/new-counter-example/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Sat, 24 Dec 2016 21:44:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
