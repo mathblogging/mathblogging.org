@@ -4,10 +4,38 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Jan 2017 14:32:35 GMT</lastBuildDate>
-        <pubDate>Sat, 28 Jan 2017 14:32:32 GMT</pubDate>
+        <lastBuildDate>Sat, 28 Jan 2017 15:02:38 GMT</lastBuildDate>
+        <pubDate>Sat, 28 Jan 2017 15:02:35 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[any divisor dividing two numbers divides their greatest common divisor proof]]></title>
+            <link>http://www.bookofproofs.org/branches/any-divisor-dividing-two-numbers-divides-their-greatest-common-divisor/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/any-divisor-dividing-two-numbers-divides-their-greatest-common-divisor/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 28 Jan 2017 15:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[any divisor dividing two numbers divides their greatest common divisor]]></title>
+            <link>http://www.bookofproofs.org/branches/any-divisor-dividing-two-numbers-divides-their-greatest-common-divisor/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/any-divisor-dividing-two-numbers-divides-their-greatest-common-divisor/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 28 Jan 2017 14:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[greatest common divisor of two numbers   euclidean algorithm proof]]></title>
+            <link>http://www.bookofproofs.org/branches/greatest-common-divisor-of-two-numbers---euclidean-algorithm/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/greatest-common-divisor-of-two-numbers---euclidean-algorithm/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 28 Jan 2017 14:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[greatest common divisor of two numbers   euclidean algorithm]]></title>
+            <link>http://www.bookofproofs.org/branches/greatest-common-divisor-of-two-numbers---euclidean-algorithm/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/greatest-common-divisor-of-two-numbers---euclidean-algorithm/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 28 Jan 2017 14:56:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Linear programming #1 – Project Euler 185]]></title>
             <link>https://mathproblems123.wordpress.com/2017/01/28/linear-programming-1-project-euler-185/</link>
@@ -561,13 +589,6 @@ I wasn't religious...]]></title>
             <pubDate>Tue, 24 Jan 2017 22:21:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[odd times odd number]]></title>
-            <link>http://www.bookofproofs.org/branches/odd-times-odd-number/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/odd-times-odd-number/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 24 Jan 2017 21:56:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[YoungEC Workshop in Tel-Aviv]]></title>
             <link>https://agtb.wordpress.com/2017/01/24/youngec-workshop-in-tel-aviv/</link>
             <guid isPermaLink="false">https://agtb.wordpress.com/2017/01/24/youngec-workshop-in-tel-aviv/</guid>
@@ -671,27 +692,6 @@ I wasn't religious...]]></title>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2017/01/24/and-it-only-gets-worse/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Mon, 23 Jan 2017 23:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[odd times odd number proof]]></title>
-            <link>http://www.bookofproofs.org/branches/odd-times-odd-number/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/odd-times-odd-number/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 23:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[even times odd number proof]]></title>
-            <link>http://www.bookofproofs.org/branches/even-times-odd-number/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/even-times-odd-number/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 22:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[even times odd number]]></title>
-            <link>http://www.bookofproofs.org/branches/even-times-odd-number/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/even-times-odd-number/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 22:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jobs: Data Science Postdoctoral Fellows, Harvard University]]></title>
@@ -3306,13 +3306,6 @@ ALEX WILLIAMS]]></title>
             <guid isPermaLink="false">https://micromath.wordpress.com/2016/12/28/maslovs-hierarchy-of-needs-a-missing-component/</guid>
             <dc:creator><![CDATA[Mathematics under the Microscope]]></dc:creator>
             <pubDate>Wed, 28 Dec 2016 16:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Numerical Linear Algebra Group 2016]]></title>
-            <link>https://nickhigham.wordpress.com/2016/12/28/numerical-linear-algebra-group-2016/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2016/12/28/numerical-linear-algebra-group-2016/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Wed, 28 Dec 2016 14:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
