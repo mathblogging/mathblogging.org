@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Feb 2017 15:33:04 GMT</lastBuildDate>
-        <pubDate>Mon, 06 Feb 2017 15:33:02 GMT</pubDate>
+        <lastBuildDate>Mon, 06 Feb 2017 16:03:01 GMT</lastBuildDate>
+        <pubDate>Mon, 06 Feb 2017 16:02:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Path integral formulation of quantum mechanics: free particle propagator]]></title>
+            <link>http://www.physicspages.com/2017/02/06/path-integral-formulation-of-quantum-mechanics-free-particle-propagator/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2017/02/06/path-integral-formulation-of-quantum-mechanics-free-particle-propagator/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Mon, 06 Feb 2017 15:36:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dirac delta function as limit of a gaussian integral]]></title>
             <link>http://www.physicspages.com/2017/02/06/dirac-delta-function-as-limit-of-a-gaussian-integral/</link>
@@ -1217,13 +1224,6 @@ https://twitter.com/Lowpolybot/status/58514309569779...]]></title>
             <pubDate>Sun, 29 Jan 2017 14:36:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harmonic oscillator – mixed initial state and Ehrenfest’s theorem]]></title>
-            <link>http://www.physicspages.com/2017/01/29/harmonic-oscillator-mixed-initial-state-and-ehrenfests-theorem/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/01/29/harmonic-oscillator-mixed-initial-state-and-ehrenfests-theorem/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Sun, 29 Jan 2017 13:27:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ما همه ایرانی]]></title>
             <link>https://lucatrevisan.wordpress.com/2017/01/29/%25d9%2585%25d8%25a7-%25d9%2587%25d9%2585%25d9%2587-%25d8%25a7%25db%258c%25d8%25b1%25d8%25a7%25d9%2586%25db%258c/</link>
             <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2017/01/29/%d9%85%d8%a7-%d9%87%d9%85%d9%87-%d8%a7%db%8c%d8%b1%d8%a7%d9%86%db%8c/</guid>
@@ -1627,6 +1627,13 @@ I wasn't religious...]]></title>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50103</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 25 Jan 2017 09:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Topologie]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Topologie</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 25 Jan 2017 09:49:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Abelian Group of Endoprojective Dimension One]]></title>
@@ -2334,13 +2341,6 @@ I wasn't religious...]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2017/01/17/laurie-davies-time-series-decomposition-birthday-data/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Tue, 17 Jan 2017 15:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Category Theory Anyway?]]></title>
-            <link>http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway</link>
-            <guid isPermaLink="false">http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway</guid>
-            <dc:creator><![CDATA[Math3ma]]></dc:creator>
-            <pubDate>Tue, 17 Jan 2017 14:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The most troubling part of a troubling story]]></title>
@@ -3267,13 +3267,6 @@ https://twitter.com/Lowpolybot/status/67545416799821...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ResearchBloggingMathematicsGerman/~3/koUzpcw14f0/</guid>
             <dc:creator><![CDATA[Research Blogging - Mathematics - German]]></dc:creator>
             <pubDate>Fri, 06 Jan 2017 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Would Wolfe Choose a Torturer in New Sun?]]></title>
-            <link>https://hilbertthm90.wordpress.com/2017/01/06/why-would-wolfe-choose-a-torturer-in-new-sun/</link>
-            <guid isPermaLink="false">https://hilbertthm90.wordpress.com/2017/01/06/why-would-wolfe-choose-a-torturer-in-new-sun/</guid>
-            <dc:creator><![CDATA[A Mind for Madness]]></dc:creator>
-            <pubDate>Fri, 06 Jan 2017 15:42:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
