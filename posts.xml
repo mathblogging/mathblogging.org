@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Feb 2017 11:02:48 GMT</lastBuildDate>
-        <pubDate>Wed, 08 Feb 2017 11:02:45 GMT</pubDate>
+        <lastBuildDate>Wed, 08 Feb 2017 11:32:49 GMT</lastBuildDate>
+        <pubDate>Wed, 08 Feb 2017 11:32:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -834,17 +834,17 @@ A term I’d always found...]]></title>
             <pubDate>Mon, 06 Feb 2017 10:53:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Milliken on CUNY Connected and Remediation]]></title>
-            <link>http://www.madmath.com/2017/02/milliken-on-cuny-connected-and.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/02/milliken-on-cuny-connected-and.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 06 Feb 2017 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Going around incircles]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/going-around-incircles/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/going-around-incircles/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 06 Feb 2017 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milliken on CUNY Connected and Remediation]]></title>
+            <link>http://www.madmath.com/2017/02/milliken-on-cuny-connected-and.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/02/milliken-on-cuny-connected-and.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 06 Feb 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -876,13 +876,6 @@ A term I’d always found...]]></title>
             <pubDate>Mon, 06 Feb 2017 08:00:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lire les statistiques, cela s'apprend]]></title>
-            <link>http://images.math.cnrs.fr/Lire-les-statistiques-cela-s-apprend.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Lire-les-statistiques-cela-s-apprend.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 06 Feb 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ma lo sapete perché usate i quaderni a quadretti?]]></title>
             <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/BVxO3f3QTkk/ma-lo-sapete-perche-usate-i-quaderni.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/BVxO3f3QTkk/ma-lo-sapete-perche-usate-i-quaderni.html</guid>
@@ -890,17 +883,24 @@ A term I’d always found...]]></title>
             <pubDate>Mon, 06 Feb 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Randomness in Neural Networks: An Overview]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Cyb_k6XLN0E/randomness-in-neural-networks-overview.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Cyb_k6XLN0E/randomness-in-neural-networks-overview.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Mon, 06 Feb 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.7.8]]></title>
             <link>http://images.math.cnrs.fr/4-7-8.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-7-8.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 06 Feb 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lire les statistiques, cela s'apprend]]></title>
+            <link>http://images.math.cnrs.fr/Lire-les-statistiques-cela-s-apprend.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Lire-les-statistiques-cela-s-apprend.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 06 Feb 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Randomness in Neural Networks: An Overview]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Cyb_k6XLN0E/randomness-in-neural-networks-overview.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Cyb_k6XLN0E/randomness-in-neural-networks-overview.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 06 Feb 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3407,17 +3407,17 @@ https://twitter.com/Lowpolybot/status/58514309569779...]]></title>
             <pubDate>Mon, 30 Jan 2017 10:04:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Milliken on NY1]]></title>
-            <link>http://www.madmath.com/2017/01/milliken-on-ny1.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/01/milliken-on-ny1.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 30 Jan 2017 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How the Mathematical Ninja approximates $\sin(55º)$]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-approximates-sin55o/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-approximates-sin55o/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 30 Jan 2017 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milliken on NY1]]></title>
+            <link>http://www.madmath.com/2017/01/milliken-on-ny1.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/01/milliken-on-ny1.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 30 Jan 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3659,17 +3659,17 @@ https://twitter.com/Lowpolybot/status/58514309569779...]]></title>
             <pubDate>Sun, 29 Jan 2017 12:21:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[the depths of existence...]]></title>
-            <link>http://math-frolic.blogspot.com/2017/01/the-depths-of-existence.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/01/the-depths-of-existence.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 29 Jan 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brick Shadows]]></title>
             <link>http://mathtourist.blogspot.com/2017/01/brick-shadows.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/brick-shadows.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 29 Jan 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[the depths of existence...]]></title>
+            <link>http://math-frolic.blogspot.com/2017/01/the-depths-of-existence.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/01/the-depths-of-existence.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 29 Jan 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5142,17 +5142,17 @@ I wasn't religious...]]></title>
             <pubDate>Tue, 24 Jan 2017 01:38:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 24]]></title>
-            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-24.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-24.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Radiocarbon dating]]></title>
             <link>http://datagenetics.com/blog/january62017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january62017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 24]]></title>
+            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-24.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-24.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5620,17 +5620,17 @@ I’ve never done any...]]></title>
             <pubDate>Sun, 22 Jan 2017 01:00:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 22]]></title>
-            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-22.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-22.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 22 Jan 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (28)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/01/22/fortnightly-links-28/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/01/22/fortnightly-links-28/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 22 Jan 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 22]]></title>
+            <link>http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-22.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/01/on-this-day-in-math-january-22.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 22 Jan 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6960,17 +6960,17 @@ Saint Michael, The Archangel, Slaying...]]></title>
             <pubDate>Mon, 16 Jan 2017 12:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S8.287 - Dressing Down]]></title>
-            <link>http://mathtans.blogspot.com/2017/01/s8287-dressing-down.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/01/s8287-dressing-down.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 16 Jan 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lake Reflections]]></title>
             <link>http://mathtourist.blogspot.com/2017/01/lake-reflections.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/01/lake-reflections.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 16 Jan 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S8.287 - Dressing Down]]></title>
+            <link>http://mathtans.blogspot.com/2017/01/s8287-dressing-down.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/01/s8287-dressing-down.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 16 Jan 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
