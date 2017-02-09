@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Long piece on foundations of (symplectic) geometry via Quanta: <a href="https://t.co/1KqoaLqNDF">https://t.co/1KqoaLqNDF</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/829780336313790465">February 9, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/evelynjlamb">@evelynjlamb</a> I&#39;m starting an email newsletter. Sign up here: <a href="https://t.co/PvvY2B1azK">https://t.co/PvvY2B1azK</a> First issue going out later today!</p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/826769643176153088">February 1, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Brian Hayes interesting/entertaining as always (...with an assist from James Tanton): <a href="https://t.co/8XTPtcJt06">https://t.co/8XTPtcJt06</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/825188368577335296">January 28, 2017</a></blockquote>
