@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Feb 2017 15:03:02 GMT</lastBuildDate>
-        <pubDate>Thu, 09 Feb 2017 15:03:01 GMT</pubDate>
+        <lastBuildDate>Thu, 09 Feb 2017 15:32:53 GMT</lastBuildDate>
+        <pubDate>Thu, 09 Feb 2017 15:32:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Fantastic Fibonacci]]></title>
+            <link>https://plus.maths.org/content/fantastic-fibonacci</link>
+            <guid isPermaLink="false">https://plus.maths.org/content/fantastic-fibonacci</guid>
+            <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
+            <pubDate>Thu, 09 Feb 2017 15:06:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elsevier to retract six more papers by computer scientist, citing duplication and fake reviews]]></title>
             <link>http://retractionwatch.com/2017/02/09/elsevier-retract-six-papers-computer-scientist-citing-duplication-fake-reviews/</link>
@@ -1029,13 +1036,6 @@
             <guid isPermaLink="false">http://aperiodical.com/2017/01/carnival-of-mathematics-141/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 10 Jan 2017 11:16:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['A farewell to ice']]></title>
-            <link>https://plus.maths.org/content/node/6769</link>
-            <guid isPermaLink="false">https://plus.maths.org/content/node/6769</guid>
-            <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
-            <pubDate>Mon, 09 Jan 2017 15:14:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
