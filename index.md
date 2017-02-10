@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">TIL from <a href="https://twitter.com/rmathematicus">@rmathematicus</a> how to multiply and divide with Roman numerals. Mind blown! <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a> <a href="https://t.co/iCyfOCEr0F">https://t.co/iCyfOCEr0F</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/830057830333964288">February 10, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Long piece on foundations of (symplectic) geometry via Quanta: <a href="https://t.co/1KqoaLqNDF">https://t.co/1KqoaLqNDF</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/829780336313790465">February 9, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/evelynjlamb">@evelynjlamb</a> I&#39;m starting an email newsletter. Sign up here: <a href="https://t.co/PvvY2B1azK">https://t.co/PvvY2B1azK</a> First issue going out later today!</p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/826769643176153088">February 1, 2017</a></blockquote>
