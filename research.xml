@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Feb 2017 21:03:03 GMT</lastBuildDate>
-        <pubDate>Thu, 23 Feb 2017 21:03:01 GMT</pubDate>
+        <lastBuildDate>Thu, 23 Feb 2017 21:33:40 GMT</lastBuildDate>
+        <pubDate>Thu, 23 Feb 2017 21:33:37 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[closed real intervals are compact proof]]></title>
+            <link>http://www.bookofproofs.org/branches/closed-real-intervals-are-compact/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/closed-real-intervals-are-compact/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Thu, 23 Feb 2017 21:22:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[closed real intervals are compact]]></title>
+            <link>http://www.bookofproofs.org/branches/closed-real-intervals-are-compact/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/closed-real-intervals-are-compact/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Thu, 23 Feb 2017 21:16:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SIGACT Distinguished Service Prize Call, 2017]]></title>
             <link>http://mybiasedcoin.blogspot.com/2017/02/sigact-distinguished-service-prize-call.html</link>
@@ -709,17 +723,17 @@
             <pubDate>Sun, 19 Feb 2017 09:30:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (30)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Price is Right]]></title>
             <link>http://datagenetics.com/blog/february22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (30)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -865,13 +879,6 @@ psykz]]></title>
             <pubDate>Fri, 17 Feb 2017 08:25:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[construction of polyhedron in outer of concentric spheres 1 proof]]></title>
-            <link>http://www.bookofproofs.org/branches/construction-of-polyhedron-in-outer-of-concentric-spheres-1/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/construction-of-polyhedron-in-outer-of-concentric-spheres-1/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 17 Feb 2017 08:20:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ICLR 2017 workshop track open review]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/VwQB7HXX-hs/iclr-2017-workshop-track-open-review.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/VwQB7HXX-hs/iclr-2017-workshop-track-open-review.html</guid>
@@ -912,13 +919,6 @@ psykz]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2017/02/16/combining-results-multiply-imputed-datasets/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Thu, 16 Feb 2017 21:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[volumes of similar tetrahedra are in cubed ratio of corresponding sides 1 proof]]></title>
-            <link>http://www.bookofproofs.org/branches/volumes-of-similar-tetrahedra-are-in-cubed-ratio-of-corresponding-sides-1/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/volumes-of-similar-tetrahedra-are-in-cubed-ratio-of-corresponding-sides-1/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Thu, 16 Feb 2017 21:25:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Winner of the January 2017 Palindrome contest: Cristiano Sabiu]]></title>
@@ -3298,13 +3298,6 @@ I wasn't religious...]]></title>
             <guid isPermaLink="false">http://datagenetics.com/blog/january62017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Utopian or Dystopian future?]]></title>
-            <link>http://models.street-artists.org/2017/01/23/utopian-or-dystopian-future/</link>
-            <guid isPermaLink="false">http://models.street-artists.org/2017/01/23/utopian-or-dystopian-future/</guid>
-            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 21:17:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
