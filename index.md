@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Excellent blog post by <a href="https://twitter.com/thewordninja_bk">@thewordninja_bk</a>:  A Case for Teaching Inquiry <a href="https://t.co/YBqSxzXZrr">https://t.co/YBqSxzXZrr</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/835286115217096705">February 25, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fascinating Nautilus piece on Harvey Friedman &amp; foundational mathematics: <a href="https://t.co/xhUUcWtzwx">https://t.co/xhUUcWtzwx</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/834745915936210945">February 23, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Language and Error-Correcting Codes<a href="https://t.co/0kpIMzqwyA">https://t.co/0kpIMzqwyA</a><a href="https://twitter.com/evelynjlamb">@evelynjlamb</a> on our innate ability to error-correct<a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/833819549967466498">February 20, 2017</a></blockquote>
