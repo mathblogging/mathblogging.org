@@ -4,10 +4,31 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Feb 2017 23:03:22 GMT</lastBuildDate>
-        <pubDate>Sat, 25 Feb 2017 23:03:19 GMT</pubDate>
+        <lastBuildDate>Sat, 25 Feb 2017 23:33:13 GMT</lastBuildDate>
+        <pubDate>Sat, 25 Feb 2017 23:33:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[nested closed subset theorem]]></title>
+            <link>http://www.bookofproofs.org/branches/nested-closed-subset-theorem/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/nested-closed-subset-theorem/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 25 Feb 2017 23:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a new John Scalzi]]></title>
+            <link>https://xianblog.wordpress.com/2017/02/26/a-new-john-scalzi/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/02/26/a-new-john-scalzi/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sat, 25 Feb 2017 23:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[complete metric space]]></title>
+            <link>http://www.bookofproofs.org/branches/complete-metric-space/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/complete-metric-space/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 25 Feb 2017 22:35:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This bit is even nerdier]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/NUd4XkHqWzM/</link>
@@ -755,13 +776,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <pubDate>Mon, 20 Feb 2017 20:55:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Albert’s block]]></title>
-            <link>https://xianblog.wordpress.com/2017/02/20/alberts-block/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/02/20/alberts-block/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 20 Feb 2017 19:20:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Fontaine-Winterberger theorem: going full tilt]]></title>
             <link>https://ayoucis.wordpress.com/2017/02/20/the-fontaine-winterberger-theorem-going-full-tilt/</link>
             <guid isPermaLink="false">https://ayoucis.wordpress.com/2017/02/20/the-fontaine-winterberger-theorem-going-full-tilt/</guid>
@@ -1105,20 +1119,6 @@ psykz]]></title>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/construction-of-regular-tetrahedron-within-given-sphere-1/proof/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Fri, 17 Feb 2017 09:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[decagon]]></title>
-            <link>http://www.bookofproofs.org/branches/decagon/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/decagon/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 17 Feb 2017 08:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[converse of area of square on greater segment of straight line cut in extreme and mean ratio 1 proof]]></title>
-            <link>http://www.bookofproofs.org/branches/converse-of-area-of-square-on-greater-segment-of-straight-line-cut-in-extreme-and-mean-ratio-1/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/converse-of-area-of-square-on-greater-segment-of-straight-line-cut-in-extreme-and-mean-ratio-1/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 17 Feb 2017 08:25:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICLR 2017 workshop track open review]]></title>
@@ -3274,13 +3274,6 @@ I wasn't religious...]]></title>
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2017/01/25/how-to-check-a-proof/</guid>
             <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
             <pubDate>Thu, 26 Jan 2017 00:19:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The political problem with UBI (or why "Taxation is theft" is both right and wrong depending...)]]></title>
-            <link>http://models.street-artists.org/2017/01/25/the-political-problem-with-ubi-or-why-taxation-is-theft-is-both-right-and-wrong-depending/</link>
-            <guid isPermaLink="false">http://models.street-artists.org/2017/01/25/the-political-problem-with-ubi-or-why-taxation-is-theft-is-both-right-and-wrong-depending/</guid>
-            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
-            <pubDate>Wed, 25 Jan 2017 23:07:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
