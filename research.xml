@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Mar 2017 09:04:43 GMT</lastBuildDate>
-        <pubDate>Wed, 01 Mar 2017 09:04:40 GMT</pubDate>
+        <lastBuildDate>Wed, 01 Mar 2017 09:34:23 GMT</lastBuildDate>
+        <pubDate>Wed, 01 Mar 2017 09:34:21 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -63,6 +63,13 @@
             <guid isPermaLink="false">https://errorstatistics.com/2017/02/28/3-years-ago-february-2014-memory-lane/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Wed, 01 Mar 2017 03:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scheduling class presentations using linear programming with Python]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/01/Scheduling-class-presentations-using-pulp.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/01/Scheduling-class-presentations-using-pulp.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Wed, 01 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deep Learning to Hash: HashNet and DHN]]></title>
@@ -3319,13 +3326,6 @@ https://twitter.com/Lowpolybot/status/58514309569779...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/gaussianos/~3/vUkLuR1ITCQ/</guid>
             <dc:creator><![CDATA[Gaussianos]]></dc:creator>
             <pubDate>Sun, 29 Jan 2017 19:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ما همه ایرانی]]></title>
-            <link>https://lucatrevisan.wordpress.com/2017/01/29/%25d9%2585%25d8%25a7-%25d9%2587%25d9%2585%25d9%2587-%25d8%25a7%25db%258c%25d8%25b1%25d8%25a7%25d9%2586%25db%258c/</link>
-            <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2017/01/29/%d9%85%d8%a7-%d9%87%d9%85%d9%87-%d8%a7%db%8c%d8%b1%d8%a7%d9%86%db%8c/</guid>
-            <dc:creator><![CDATA[in   theory]]></dc:creator>
-            <pubDate>Sun, 29 Jan 2017 09:15:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
