@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Kevin Hartnett on &quot;class numbers&quot; &amp; more (for Quanta Magazine): <a href="https://t.co/29tUEeykrm">https://t.co/29tUEeykrm</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/837458108070780928">March 3, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Excellent blog post by <a href="https://twitter.com/thewordninja_bk">@thewordninja_bk</a>:  A Case for Teaching Inquiry <a href="https://t.co/YBqSxzXZrr">https://t.co/YBqSxzXZrr</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/835286115217096705">February 25, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fascinating Nautilus piece on Harvey Friedman &amp; foundational mathematics: <a href="https://t.co/xhUUcWtzwx">https://t.co/xhUUcWtzwx</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/834745915936210945">February 23, 2017</a></blockquote>
