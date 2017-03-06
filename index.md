@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Buckets of Fish, by <a href="https://twitter.com/JDHamkins">@JDHamkins</a> <a href="https://t.co/kq0wThkf89">https://t.co/kq0wThkf89</a><br>Interesting game with beautiful solutions!<a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/838554011825553408">March 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The Grumpy Programmer on Arithmetic, sawdust and real life consequences <a href="https://t.co/asz6VGPtjD">https://t.co/asz6VGPtjD</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/837597781795745792">March 3, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Kevin Hartnett on &quot;class numbers&quot; &amp; more (for Quanta Magazine): <a href="https://t.co/29tUEeykrm">https://t.co/29tUEeykrm</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/837458108070780928">March 3, 2017</a></blockquote>
