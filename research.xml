@@ -4,10 +4,31 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Mar 2017 19:32:48 GMT</lastBuildDate>
-        <pubDate>Tue, 07 Mar 2017 19:32:45 GMT</pubDate>
+        <lastBuildDate>Tue, 07 Mar 2017 20:03:23 GMT</lastBuildDate>
+        <pubDate>Tue, 07 Mar 2017 20:03:20 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[dg-comodule]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">dg-comodule</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 07 Mar 2017 19:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A fistful of Stan case studies: divergences and bias, identifying mixtures, and weakly informative priors]]></title>
+            <link>http://andrewgelman.com/2017/03/07/fistful-stan-case-studies-divergences-bias-identifying-mixtures-weakly-informative-priors/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/03/07/fistful-stan-case-studies-divergences-bias-identifying-mixtures-weakly-informative-priors/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 07 Mar 2017 19:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leonid Positselski]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Leonid Positselski</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 07 Mar 2017 19:31:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[model structure on dg-comodules]]></title>
             <link>null</link>
@@ -79,20 +100,6 @@
             <pubDate>Tue, 07 Mar 2017 10:22:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[automorphism Lie group]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">automorphism Lie group</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 07 Mar 2017 09:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[derivation Lie algebra]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">derivation Lie algebra</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 07 Mar 2017 09:48:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Si avvicina il Pi Day 2017]]></title>
             <link>http://maddmaths.simai.eu/comunicare/links/si-avvicina-il-pi-day-2017/</link>
             <guid isPermaLink="false">http://maddmaths.simai.eu/comunicare/links/si-avvicina-il-pi-day-2017/</guid>
@@ -129,8 +136,8 @@
         </item>
         <item>
             <title><![CDATA[Rota’s Basis Conjecture: Polymath 12]]></title>
-            <link>http://polymathprojects.org/2017/03/06/rotas-basis-conjecture-polymath-12-2/</link>
-            <guid isPermaLink="false">http://polymathprojects.org/2017/03/06/rotas-basis-conjecture-polymath-12-2/</guid>
+            <link>https://polymathprojects.org/2017/03/06/rotas-basis-conjecture-polymath-12-2/</link>
+            <guid isPermaLink="false">https://polymathprojects.org/2017/03/06/rotas-basis-conjecture-polymath-12-2/</guid>
             <dc:creator><![CDATA[The polymath blog]]></dc:creator>
             <pubDate>Mon, 06 Mar 2017 23:18:15 GMT</pubDate>
         </item>
@@ -415,17 +422,17 @@
             <pubDate>Sun, 05 Mar 2017 02:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NSA Easter Egg Puzzle]]></title>
-            <link>http://datagenetics.com/blog/march12017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (31)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA Easter Egg Puzzle]]></title>
+            <link>http://datagenetics.com/blog/march12017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -628,6 +635,13 @@
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2017/03/international-science.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Thu, 02 Mar 2017 13:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[comodule spectrum]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">comodule spectrum</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 02 Mar 2017 10:33:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nuit Blanche in Review (February 2017)]]></title>
@@ -845,8 +859,8 @@ GJCKTLYZZ{HTYMYFCTUJLYZ, 2016]]></title>
         </item>
         <item>
             <title><![CDATA[Blog theme changed]]></title>
-            <link>http://polymathprojects.org/2017/02/28/blog-theme-changed/</link>
-            <guid isPermaLink="false">http://polymathprojects.org/2017/02/28/blog-theme-changed/</guid>
+            <link>https://polymathprojects.org/2017/02/28/blog-theme-changed/</link>
+            <guid isPermaLink="false">https://polymathprojects.org/2017/02/28/blog-theme-changed/</guid>
             <dc:creator><![CDATA[The polymath blog]]></dc:creator>
             <pubDate>Tue, 28 Feb 2017 17:19:06 GMT</pubDate>
         </item>
@@ -1488,8 +1502,8 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
         </item>
         <item>
             <title><![CDATA[Rota’s Basis Conjecture: Polymath 12?]]></title>
-            <link>http://polymathprojects.org/2017/02/23/rotas-basis-conjecture-polymath-12/</link>
-            <guid isPermaLink="false">http://polymathprojects.org/2017/02/23/rotas-basis-conjecture-polymath-12/</guid>
+            <link>https://polymathprojects.org/2017/02/23/rotas-basis-conjecture-polymath-12/</link>
+            <guid isPermaLink="false">https://polymathprojects.org/2017/02/23/rotas-basis-conjecture-polymath-12/</guid>
             <dc:creator><![CDATA[The polymath blog]]></dc:creator>
             <pubDate>Thu, 23 Feb 2017 23:44:33 GMT</pubDate>
         </item>
@@ -2950,13 +2964,6 @@ psykz]]></title>
             <guid isPermaLink="false">Functional Equations I: Cauchy&apos;s Equation</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Tue, 07 Feb 2017 23:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HMMs in Stan?  Absolutely!]]></title>
-            <link>http://andrewgelman.com/2017/02/07/hmms-stan-absolutely/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/02/07/hmms-stan-absolutely/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 07 Feb 2017 19:20:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MSRI introductory workshop]]></title>
