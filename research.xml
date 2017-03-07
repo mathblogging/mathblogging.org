@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Mar 2017 07:03:19 GMT</lastBuildDate>
-        <pubDate>Tue, 07 Mar 2017 07:03:17 GMT</pubDate>
+        <lastBuildDate>Tue, 07 Mar 2017 07:33:14 GMT</lastBuildDate>
+        <pubDate>Tue, 07 Mar 2017 07:33:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[McGan: Mean and Covariance Feature Matching]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/fZVMf3TuS7o/mcgan-mean-and-covariance-feature.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/fZVMf3TuS7o/mcgan-mean-and-covariance-feature.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 07 Mar 2017 06:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WOMBAT MeDaScIn 2017]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/Xrc2SMrVLgM/</link>
@@ -317,17 +324,17 @@
             <pubDate>Sun, 05 Mar 2017 02:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NSA Easter Egg Puzzle]]></title>
-            <link>http://datagenetics.com/blog/march12017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (31)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA Easter Egg Puzzle]]></title>
+            <link>http://datagenetics.com/blog/march12017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2902,13 +2909,6 @@ psykz]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2017/02/07/can-fit-hidden-markov-models-stan/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Tue, 07 Feb 2017 18:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wasserstein GAN - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ucyc_jQ-sCc/wasserstein-gan-implementation.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ucyc_jQ-sCc/wasserstein-gan-implementation.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Tue, 07 Feb 2017 18:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tidying up trivial details]]></title>
