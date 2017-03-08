@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Mar 2017 16:03:03 GMT</lastBuildDate>
-        <pubDate>Wed, 08 Mar 2017 16:03:01 GMT</pubDate>
+        <lastBuildDate>Wed, 08 Mar 2017 16:33:50 GMT</lastBuildDate>
+        <pubDate>Wed, 08 Mar 2017 16:33:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[box plot [xkcd]]]></title>
+            <link>https://xianblog.wordpress.com/2017/03/08/box-plot-xkcd/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/03/08/box-plot-xkcd/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Wed, 08 Mar 2017 16:17:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Une brève à propos des bases orthonormées positives en dimension 3]]></title>
             <link>https://pierrelecomte.wordpress.com/2017/03/08/une-breve-a-propos-des-bases-orthonormees-positives-en-dimension-3/</link>
@@ -555,17 +562,17 @@
             <pubDate>Sun, 05 Mar 2017 02:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (31)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NSA Easter Egg Puzzle]]></title>
             <link>http://datagenetics.com/blog/march12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (31)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -779,13 +786,6 @@ GJCKTLYZZ{HTYMYFCTUJLYZ, 2016]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/z6HjOHaTCKE/157891344619</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Thu, 02 Mar 2017 05:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[multiplying a Gaussian matrix and a Gaussian vector]]></title>
-            <link>https://xianblog.wordpress.com/2017/03/02/multiplying-a-gaussian-matrix-and-a-gaussian-vector/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/03/02/multiplying-a-gaussian-matrix-and-a-gaussian-vector/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 01 Mar 2017 23:17:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arrow's Impossibility Theorem]]></title>
@@ -3277,20 +3277,6 @@ Eli Reed]]></title>
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2017/02/05/a-panel-on-p-vs-np/</guid>
             <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
             <pubDate>Sun, 05 Feb 2017 17:38:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Project Euler Problem 144 – Laser light escaping an ellipse]]></title>
-            <link>https://mathproblems123.wordpress.com/2017/02/05/project-euler-problem-144-laser-light-escaping-an-ellipse/</link>
-            <guid isPermaLink="false">https://mathproblems123.wordpress.com/2017/02/05/project-euler-problem-144-laser-light-escaping-an-ellipse/</guid>
-            <dc:creator><![CDATA[Beni Bogoşel's blog]]></dc:creator>
-            <pubDate>Sun, 05 Feb 2017 16:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prédire ou Prévoir, réflexions (probablement) personnelles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50157</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50157</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Sun, 05 Feb 2017 16:15:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
