@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Mar 2017 17:33:57 GMT</lastBuildDate>
-        <pubDate>Wed, 08 Mar 2017 17:33:54 GMT</pubDate>
+        <lastBuildDate>Wed, 08 Mar 2017 18:03:44 GMT</lastBuildDate>
+        <pubDate>Wed, 08 Mar 2017 18:03:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -119,6 +119,13 @@
             <guid isPermaLink="false">Functional Equations V: Expected Surprise</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Wed, 08 Mar 2017 01:36:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple evolutionary process in 40 lines of Python]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IWD 1914 & 2017]]></title>
@@ -548,17 +555,17 @@
             <pubDate>Sun, 05 Mar 2017 02:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NSA Easter Egg Puzzle]]></title>
-            <link>http://datagenetics.com/blog/march12017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (31)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA Easter Egg Puzzle]]></title>
+            <link>http://datagenetics.com/blog/march12017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2124,17 +2131,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <pubDate>Sun, 19 Feb 2017 09:30:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (30)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Price is Right]]></title>
             <link>http://datagenetics.com/blog/february22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (30)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3249,13 +3256,6 @@ Eli Reed]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/DocMadhattan/~3/fWLkWv5G83I/spherex-road-to-bb-8.html</guid>
             <dc:creator><![CDATA[Doc Madhattan]]></dc:creator>
             <pubDate>Sun, 05 Feb 2017 18:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Panel On P vs. NP]]></title>
-            <link>https://rjlipton.wordpress.com/2017/02/05/a-panel-on-p-vs-np/</link>
-            <guid isPermaLink="false">https://rjlipton.wordpress.com/2017/02/05/a-panel-on-p-vs-np/</guid>
-            <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
-            <pubDate>Sun, 05 Feb 2017 17:38:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
