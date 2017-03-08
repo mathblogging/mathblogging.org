@@ -3,7 +3,7 @@ layout: page
 title: Editor's picks
 ---
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A primer of the many different sizes of infinity. <a href="https://t.co/QcBOjtkRER">https://t.co/QcBOjtkRER</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Izabella Laba (@ilaba) <a href="https://twitter.com/ilaba/status/839574606369304577">March 8, 2017</a></blockquote>
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A primer on the many different sizes of infinity. <a href="https://t.co/QcBOjtkRER">https://t.co/QcBOjtkRER</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Izabella Laba (@ilaba) <a href="https://twitter.com/ilaba/status/839575027338993664">March 8, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Hidden Figures reviewed by <a href="https://twitter.com/stecks">@stecks</a>  <a href="https://t.co/BOiOTIsM0X">https://t.co/BOiOTIsM0X</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/839549004803342338">March 8, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
