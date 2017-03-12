@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Mar 2017 15:03:02 GMT</lastBuildDate>
-        <pubDate>Sun, 12 Mar 2017 15:02:58 GMT</pubDate>
+        <lastBuildDate>Sun, 12 Mar 2017 15:32:50 GMT</lastBuildDate>
+        <pubDate>Sun, 12 Mar 2017 15:32:47 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Simple But Evil #3 — L’Hospital’s Rule]]></title>
+            <link>http://mathmisery.com/wp/2017/03/12/simple-but-evil-3-lhospitals-rule/</link>
+            <guid isPermaLink="false">http://mathmisery.com/wp/2017/03/12/simple-but-evil-3-lhospitals-rule/</guid>
+            <dc:creator><![CDATA[Math Misery?]]></dc:creator>
+            <pubDate>Sun, 12 Mar 2017 15:03:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Using Technology Alongside #SlowMath to Promote Productive Struggle]]></title>
             <link>https://easingthehurrysyndrome.wordpress.com/2017/03/12/using-technology-alongside-slowmath-to-promote-productive-struggle/</link>
@@ -28,6 +35,13 @@
             <guid isPermaLink="false">http://www.resourceaholic.com/2017/03/mathsconf9.html</guid>
             <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
             <pubDate>Sun, 12 Mar 2017 14:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[accumulation point metric spaces]]></title>
+            <link>http://www.bookofproofs.org/branches/accumulation-point-metric-spaces/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/accumulation-point-metric-spaces/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 12 Mar 2017 14:36:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[real subsequence]]></title>
@@ -622,13 +636,6 @@ devi...]]></title>
             <guid isPermaLink="false">http://momath.org/dallas-arts-district-hunt-oil-building/</guid>
             <dc:creator><![CDATA[National Museum of Mathematics]]></dc:creator>
             <pubDate>Fri, 10 Mar 2017 20:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[heine borel theorem]]></title>
-            <link>http://www.bookofproofs.org/branches/heine-borel-theorem/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/heine-borel-theorem/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 10 Mar 2017 20:08:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tattoo sketches]]></title>
@@ -1276,17 +1283,17 @@ devi...]]></title>
             <pubDate>Thu, 09 Mar 2017 00:01:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - March 9]]></title>
-            <link>http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-9.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-9.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Thu, 09 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Electrofishing for Whales]]></title>
             <link>http://what-if.xkcd.com/156/</link>
             <guid isPermaLink="false">http://what-if.xkcd.com/156/</guid>
             <dc:creator><![CDATA[What If?]]></dc:creator>
+            <pubDate>Thu, 09 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - March 9]]></title>
+            <link>http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-9.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-9.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Thu, 09 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1710,17 +1717,17 @@ devi...]]></title>
             <pubDate>Wed, 08 Mar 2017 00:25:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vestigial trigonometry functions]]></title>
-            <link>http://datagenetics.com/blog/march22017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march22017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 8]]></title>
             <link>http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-8.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-8.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vestigial trigonometry functions]]></title>
+            <link>http://datagenetics.com/blog/march22017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march22017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2060,13 +2067,6 @@ devi...]]></title>
             <pubDate>Tue, 07 Mar 2017 00:34:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fair Sharing For Second Grade — Part 3]]></title>
-            <link>http://mathmisery.com/wp/2017/03/06/fair-sharing-for-second-grade-part-3/</link>
-            <guid isPermaLink="false">http://mathmisery.com/wp/2017/03/06/fair-sharing-for-second-grade-part-3/</guid>
-            <dc:creator><![CDATA[Math Misery?]]></dc:creator>
-            <pubDate>Tue, 07 Mar 2017 00:32:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 7]]></title>
             <link>http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-7.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-7.html</guid>
@@ -2403,20 +2403,6 @@ devi...]]></title>
             <pubDate>Mon, 06 Mar 2017 06:49:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.7.12]]></title>
-            <link>http://images.math.cnrs.fr/-4181.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4181.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 06 Mar 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[P = NP]]></title>
-            <link>http://mrburkemath.blogspot.com/2017/03/p-np.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/03/p-np.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 06 Mar 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[(x, why?) Mini: Improper Fraction]]></title>
             <link>http://mrburkemath.blogspot.com/2017/03/x-why-mini-improper-fraction_6.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/03/x-why-mini-improper-fraction_6.html</guid>
@@ -2428,6 +2414,20 @@ devi...]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/2tNe0DHVdmM/the-great-convergence-goes-mainstream.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/2tNe0DHVdmM/the-great-convergence-goes-mainstream.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 06 Mar 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.7.12]]></title>
+            <link>http://images.math.cnrs.fr/-4181.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4181.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 06 Mar 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[P = NP]]></title>
+            <link>http://mrburkemath.blogspot.com/2017/03/p-np.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/03/p-np.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Mon, 06 Mar 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2704,13 +2704,6 @@ devi...]]></title>
             <pubDate>Sun, 05 Mar 2017 02:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (31)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 5]]></title>
             <link>http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-5.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-5.html</guid>
@@ -2722,6 +2715,13 @@ devi...]]></title>
             <link>http://datagenetics.com/blog/march12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (31)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3703,17 +3703,17 @@ What does it take to teach a bee to use tools? A...]]></title>
             <pubDate>Wed, 01 Mar 2017 01:07:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scheduling class presentations using linear programming with Python]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/01/Scheduling-class-presentations-using-pulp.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/01/Scheduling-class-presentations-using-pulp.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Wed, 01 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 1]]></title>
             <link>http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-1.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-1.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Wed, 01 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scheduling class presentations using linear programming with Python]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/01/Scheduling-class-presentations-using-pulp.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/01/Scheduling-class-presentations-using-pulp.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Wed, 01 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4616,15 +4616,15 @@ If investors make money on a market view,..."]]></title>
         </item>
         <item>
             <title><![CDATA[Elaborations for Creative Thinking in STEM]]></title>
-            <link>http://busynessgirl.com/elaborations-for-creative-thinking-in-stem/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/elaborations-for-creative-thinking-in-stem/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/oPlgU8P4CBo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/oPlgU8P4CBo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 25 Feb 2017 18:56:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elaborations for Creative Thinking in STEM]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/oPlgU8P4CBo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/oPlgU8P4CBo/</guid>
+            <link>http://busynessgirl.com/elaborations-for-creative-thinking-in-stem/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/elaborations-for-creative-thinking-in-stem/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 25 Feb 2017 18:56:52 GMT</pubDate>
         </item>
@@ -5053,17 +5053,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <pubDate>Thu, 23 Feb 2017 20:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SIGACT Distinguished Service Prize Call, 2017]]></title>
-            <link>http://mybiasedcoin.blogspot.com/2017/02/sigact-distinguished-service-prize-call.html</link>
-            <guid isPermaLink="false">http://mybiasedcoin.blogspot.com/2017/02/sigact-distinguished-service-prize-call.html</guid>
-            <dc:creator><![CDATA[My Biased Coin]]></dc:creator>
-            <pubDate>Thu, 23 Feb 2017 20:12:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hammock]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/NQYHBuLipWE/hammock.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/NQYHBuLipWE/hammock.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
+            <pubDate>Thu, 23 Feb 2017 20:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SIGACT Distinguished Service Prize Call, 2017]]></title>
+            <link>http://mybiasedcoin.blogspot.com/2017/02/sigact-distinguished-service-prize-call.html</link>
+            <guid isPermaLink="false">http://mybiasedcoin.blogspot.com/2017/02/sigact-distinguished-service-prize-call.html</guid>
+            <dc:creator><![CDATA[My Biased Coin]]></dc:creator>
             <pubDate>Thu, 23 Feb 2017 20:12:00 GMT</pubDate>
         </item>
         <item>
@@ -6131,17 +6131,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <pubDate>Sun, 19 Feb 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tower Triangles]]></title>
-            <link>http://mathtourist.blogspot.com/2017/02/tower-triangles.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/02/tower-triangles.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 19 Feb 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematical Thinking, Not Rule-Following]]></title>
             <link>http://math-frolic.blogspot.com/2017/02/mathematical-thinking-not-rule-following.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/02/mathematical-thinking-not-rule-following.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 19 Feb 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tower Triangles]]></title>
+            <link>http://mathtourist.blogspot.com/2017/02/tower-triangles.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/02/tower-triangles.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 19 Feb 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6180,6 +6180,13 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <pubDate>Sun, 19 Feb 2017 09:30:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Here Goes!]]></title>
+            <link>http://marybourassa.blogspot.com/2017/02/here-goes.html</link>
+            <guid isPermaLink="false">http://marybourassa.blogspot.com/2017/02/here-goes.html</guid>
+            <dc:creator><![CDATA[M^3 (Making Math Meaningful)]]></dc:creator>
+            <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[On This Day in Math - February 19]]></title>
             <link>http://pballew.blogspot.com/2017/02/on-this-day-in-math-february-19.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/02/on-this-day-in-math-february-19.html</guid>
@@ -6191,13 +6198,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/02/19/fortnightly-links-30/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here Goes!]]></title>
-            <link>http://marybourassa.blogspot.com/2017/02/here-goes.html</link>
-            <guid isPermaLink="false">http://marybourassa.blogspot.com/2017/02/here-goes.html</guid>
-            <dc:creator><![CDATA[M^3 (Making Math Meaningful)]]></dc:creator>
             <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
