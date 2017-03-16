@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Mar 2017 11:02:55 GMT</lastBuildDate>
-        <pubDate>Thu, 16 Mar 2017 11:02:52 GMT</pubDate>
+        <lastBuildDate>Thu, 16 Mar 2017 11:32:44 GMT</lastBuildDate>
+        <pubDate>Thu, 16 Mar 2017 11:32:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Insert D-Wave Post Here]]></title>
+            <link>http://www.scottaaronson.com/blog/?p=3192</link>
+            <guid isPermaLink="false">http://www.scottaaronson.com/blog/?p=3192</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Thu, 16 Mar 2017 11:00:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I problemi dell'anonimo giochista 1 - Un regalo inusuale]]></title>
             <link>http://maddmaths.simai.eu/rubriche/i-problemi-dellanonimo-giochista/i-problemi-dellanonimo-giochista-1-un-regalo-inusuale/</link>
@@ -1031,17 +1038,17 @@
             <pubDate>Wed, 08 Mar 2017 01:36:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A simple evolutionary process in 40 lines of Python]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vestigial trigonometry functions]]></title>
             <link>http://datagenetics.com/blog/march22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/march22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple evolutionary process in 40 lines of Python]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1468,6 +1475,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/tDymktNvJoM/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Fri, 03 Mar 2017 12:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[spectral super-scheme]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">spectral super-scheme</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 03 Mar 2017 08:14:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Decoupling the two-particle Hamiltonian]]></title>
@@ -3202,13 +3216,6 @@ psykz]]></title>
             <guid isPermaLink="false">M-theory from the Superpoint</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Mon, 13 Feb 2017 13:21:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinite Life I: Apeirophobia]]></title>
-            <link>https://pointatinfinityblog.wordpress.com/2017/02/13/infinite-life-i-apeirophobia/</link>
-            <guid isPermaLink="false">https://pointatinfinityblog.wordpress.com/2017/02/13/infinite-life-i-apeirophobia/</guid>
-            <dc:creator><![CDATA[Point at Infinity]]></dc:creator>
-            <pubDate>Mon, 13 Feb 2017 11:05:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
