@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Mar 2017 20:33:58 GMT</lastBuildDate>
-        <pubDate>Sat, 18 Mar 2017 20:33:56 GMT</pubDate>
+        <lastBuildDate>Sat, 18 Mar 2017 21:03:14 GMT</lastBuildDate>
+        <pubDate>Sat, 18 Mar 2017 21:03:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The uniqueness constraint]]></title>
+            <link>http://bit-player.org/2017/the-uniqueness-constraint</link>
+            <guid isPermaLink="false">http://bit-player.org/2017/the-uniqueness-constraint</guid>
+            <dc:creator><![CDATA[bit-player]]></dc:creator>
+            <pubDate>Sat, 18 Mar 2017 20:44:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Samuel Dobson]]></title>
             <link>null</link>
@@ -16,7 +23,7 @@
             <pubDate>Sat, 18 Mar 2017 20:24:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Noise and bias]]></title>
+            <title><![CDATA[“Bias” and “variance” are two ways of looking at the same thing.  (“Bias” is conditional, “variance” is unconditional.)]]></title>
             <link>http://andrewgelman.com/2017/03/18/noise-and-bias/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/03/18/noise-and-bias/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
@@ -126,13 +133,6 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2017/03/18/jonathan-strange-mr-norrell-bbc-one/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Fri, 17 Mar 2017 23:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sandbox2]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Sandbox2</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 17 Mar 2017 20:11:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Unreasonable Effectiveness of Random Orthogonal Embeddings]]></title>
@@ -1584,17 +1584,17 @@
             <pubDate>Sun, 05 Mar 2017 02:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NSA Easter Egg Puzzle]]></title>
-            <link>http://datagenetics.com/blog/march12017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (31)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA Easter Egg Puzzle]]></title>
+            <link>http://datagenetics.com/blog/march12017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
