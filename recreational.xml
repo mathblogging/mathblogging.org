@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Mar 2017 10:33:47 GMT</lastBuildDate>
-        <pubDate>Sat, 18 Mar 2017 10:33:46 GMT</pubDate>
+        <lastBuildDate>Sat, 18 Mar 2017 11:03:08 GMT</lastBuildDate>
+        <pubDate>Sat, 18 Mar 2017 11:03:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[p]]></title>
+            <link>http://www.angelostella.it/p/</link>
+            <guid isPermaLink="false">http://www.angelostella.it/p/</guid>
+            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
+            <pubDate>Sat, 18 Mar 2017 08:24:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3 Planets and a Rational War]]></title>
             <link>http://headinside.blogspot.com/2017/03/3-planets-and-rational-war.html</link>
@@ -23,13 +30,6 @@
             <pubDate>Fri, 17 Mar 2017 23:53:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Materiali didattici di Matematica]]></title>
-            <link>http://www.angelostella.it/materiali-didattici-di-matematica/</link>
-            <guid isPermaLink="false">http://www.angelostella.it/materiali-didattici-di-matematica/</guid>
-            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
-            <pubDate>Fri, 17 Mar 2017 19:40:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On A Calculus Of Differences - student]]></title>
             <link>http://www.thusspakeak.com/student/2017/03/01-OnACalculusOfDifferences.html</link>
             <guid isPermaLink="false">http://www.thusspakeak.com/student/2017/03/01-OnACalculusOfDifferences.html</guid>
@@ -42,13 +42,6 @@
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/158509378481</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Fri, 17 Mar 2017 12:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Retta]]></title>
-            <link>http://www.angelostella.it/retta-2/</link>
-            <guid isPermaLink="false">http://www.angelostella.it/retta-2/</guid>
-            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
-            <pubDate>Fri, 17 Mar 2017 10:57:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Video: New mathematical card trick]]></title>
@@ -126,27 +119,6 @@
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/03/sides.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 16 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Problemi risolti di Geometria]]></title>
-            <link>http://www.angelostella.it/problemi-risolti-di-geometria/</link>
-            <guid isPermaLink="false">http://www.angelostella.it/problemi-risolti-di-geometria/</guid>
-            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
-            <pubDate>Wed, 15 Mar 2017 21:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La curva normale]]></title>
-            <link>http://www.angelostella.it/la-curva-normale/</link>
-            <guid isPermaLink="false">http://www.angelostella.it/la-curva-normale/</guid>
-            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
-            <pubDate>Wed, 15 Mar 2017 20:19:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Il paradosso del compleanno]]></title>
-            <link>http://www.angelostella.it/il-paradosso-del-compleanno/</link>
-            <guid isPermaLink="false">http://www.angelostella.it/il-paradosso-del-compleanno/</guid>
-            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
-            <pubDate>Wed, 15 Mar 2017 19:55:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[xkcd: Best-Tasting Colors]]></title>
@@ -1434,13 +1406,6 @@ Aluísio Carvão - Geométrico, 1954]]></title>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/02/what-im-reading.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Wed, 15 Feb 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carnevale della Matematica #106 - libri di matematica e insalate di cibernetica]]></title>
-            <link>http://dionisoo.blogspot.com/2017/02/carnevale-della-matematica-106-libri-di.html</link>
-            <guid isPermaLink="false">http://dionisoo.blogspot.com/2017/02/carnevale-della-matematica-106-libri-di.html</guid>
-            <dc:creator><![CDATA[Blogghetto]]></dc:creator>
-            <pubDate>Wed, 15 Feb 2017 10:48:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
