@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Mar 2017 00:33:28 GMT</lastBuildDate>
-        <pubDate>Sat, 18 Mar 2017 00:33:26 GMT</pubDate>
+        <lastBuildDate>Sat, 18 Mar 2017 01:02:48 GMT</lastBuildDate>
+        <pubDate>Sat, 18 Mar 2017 01:02:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Two cheers for genomics]]></title>
+            <link>http://feedproxy.google.com/~r/StatsChat/~3/lD4ff87naQk/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/lD4ff87naQk/</guid>
+            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
+            <pubDate>Sat, 18 Mar 2017 00:38:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jonathan Strange & Mr Norrell [BBC One]]]></title>
             <link>https://xianblog.wordpress.com/2017/03/18/jonathan-strange-mr-norrell-bbc-one/</link>
@@ -1122,13 +1129,6 @@
             <pubDate>Wed, 08 Mar 2017 23:45:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Causation, correlation, and gaps]]></title>
-            <link>http://feedproxy.google.com/~r/StatsChat/~3/UbCh-PSfSFE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/UbCh-PSfSFE/</guid>
-            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
-            <pubDate>Wed, 08 Mar 2017 22:32:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Applying statistics in science will likely remain unreasonably difficult in my life time: but I have no intention of changing careers.]]></title>
             <link>http://andrewgelman.com/2017/03/08/applying-statistics-science-will-likely-remain-unreasonably-difficult-life-time-no-intention-changing-careers/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/03/08/applying-statistics-science-will-likely-remain-unreasonably-difficult-life-time-no-intention-changing-careers/</guid>
@@ -1227,17 +1227,17 @@
             <pubDate>Wed, 08 Mar 2017 01:36:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vestigial trigonometry functions]]></title>
-            <link>http://datagenetics.com/blog/march22017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march22017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A simple evolutionary process in 40 lines of Python]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vestigial trigonometry functions]]></title>
+            <link>http://datagenetics.com/blog/march22017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march22017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1535,17 +1535,17 @@
             <pubDate>Sun, 05 Mar 2017 02:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (31)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NSA Easter Egg Puzzle]]></title>
             <link>http://datagenetics.com/blog/march12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (31)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3174,27 +3174,6 @@ psykz]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ResearchBloggingMathematicsGerman/~3/m5pa0ztBELo/</guid>
             <dc:creator><![CDATA[Research Blogging - Mathematics - German]]></dc:creator>
             <pubDate>Wed, 15 Feb 2017 02:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More thoughts on a line of code with three errors]]></title>
-            <link>http://blog.plover.com/prog/three-errors.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/prog/three-errors.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Wed, 15 Feb 2017 00:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Australian Macro Database]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/DjU8PKzqw-M/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/DjU8PKzqw-M/</guid>
-            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
-            <pubDate>Wed, 15 Feb 2017 00:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Last minute Valentine’s Day idea: chocolate covered strawberries]]></title>
-            <link>https://bakingandmath.com/2017/02/14/last-minute-valentines-day-idea-chocolate-covered-strawberries/</link>
-            <guid isPermaLink="false">https://bakingandmath.com/2017/02/14/last-minute-valentines-day-idea-chocolate-covered-strawberries/</guid>
-            <dc:creator><![CDATA[Baking and Math]]></dc:creator>
-            <pubDate>Tue, 14 Feb 2017 22:57:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
