@@ -4,10 +4,31 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Mar 2017 10:03:37 GMT</lastBuildDate>
-        <pubDate>Sun, 19 Mar 2017 10:03:34 GMT</pubDate>
+        <lastBuildDate>Sun, 19 Mar 2017 10:33:31 GMT</lastBuildDate>
+        <pubDate>Sun, 19 Mar 2017 10:33:29 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[sum and difference of two ratios]]></title>
+            <link>http://www.bookofproofs.org/branches/sum-and-difference-of-two-ratios/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/sum-and-difference-of-two-ratios/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 19 Mar 2017 10:31:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[equality of two ratios]]></title>
+            <link>http://www.bookofproofs.org/branches/equality-of-two-ratios/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/equality-of-two-ratios/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 19 Mar 2017 10:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[product of two sums generalized distributivity rule]]></title>
+            <link>http://www.bookofproofs.org/branches/product-of-two-sums-generalized-distributivity-rule/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/product-of-two-sums-generalized-distributivity-rule/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 19 Mar 2017 10:17:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I will not log in to your website]]></title>
             <link>http://www.scottaaronson.com/blog/?p=3203</link>
@@ -765,20 +786,6 @@
             <pubDate>Mon, 13 Mar 2017 19:17:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[continuous real functions on closed intervals are uniformly continuous]]></title>
-            <link>http://www.bookofproofs.org/branches/continuous-real-functions-on-closed-intervals-are-uniformly-continuous/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/continuous-real-functions-on-closed-intervals-are-uniformly-continuous/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 13 Mar 2017 19:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[continuous functions on compact domains are uniformly continuous proof]]></title>
-            <link>http://www.bookofproofs.org/branches/continuous-functions-on-compact-domains-are-uniformly-continuous/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/continuous-functions-on-compact-domains-are-uniformly-continuous/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 13 Mar 2017 19:03:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Singular value decomposition]]></title>
             <link>https://qchu.wordpress.com/2017/03/13/singular-value-decomposition/</link>
             <guid isPermaLink="false">https://qchu.wordpress.com/2017/03/13/singular-value-decomposition/</guid>
@@ -847,13 +854,6 @@
             <guid isPermaLink="false">http://www.physicspages.com/2017/03/13/identical-particles-bosons-and-fermions-revisited/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
             <pubDate>Mon, 13 Mar 2017 11:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[continuous functions on compact domains are uniformly continuous]]></title>
-            <link>http://www.bookofproofs.org/branches/continuous-functions-on-compact-domains-are-uniformly-continuous/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/continuous-functions-on-compact-domains-are-uniformly-continuous/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 13 Mar 2017 11:42:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BOSTON COLLOQUIUM FOR PHILOSOPHY OF SCIENCE:  Understanding Reproducibility & Error Correction in Science]]></title>
@@ -1325,17 +1325,17 @@
             <pubDate>Wed, 08 Mar 2017 01:36:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vestigial trigonometry functions]]></title>
-            <link>http://datagenetics.com/blog/march22017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march22017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A simple evolutionary process in 40 lines of Python]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vestigial trigonometry functions]]></title>
+            <link>http://datagenetics.com/blog/march22017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march22017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1626,17 +1626,17 @@
             <pubDate>Sun, 05 Mar 2017 02:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (31)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NSA Easter Egg Puzzle]]></title>
             <link>http://datagenetics.com/blog/march12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/march12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (31)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/05/fortnightly-links-31/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 05 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
