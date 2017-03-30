@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/mikeandallie">@mikeandallie</a><br>The new video from Numberphile on the Collatz conjecture is terrific. <a href="https://t.co/WO54NS2Wu6">https://t.co/WO54NS2Wu6</a> …</p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/847241980841046016">March 30, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Ever thoughtful, entertaining Jim Propp has bedbugs, rubber bands, and loops on his mind: <a href="https://t.co/pOh7PhFvEV">https://t.co/pOh7PhFvEV</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/842855084862160898">March 17, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Finding solace in the Kakeya needle problem (via Evelyn Lamb): <a href="https://t.co/oc7GILhk2P">https://t.co/oc7GILhk2P</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/840967245929074691">March 12, 2017</a></blockquote>
