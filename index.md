@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Nice intro to a few basic probability &#39;paradoxes&#39;:<a href="https://t.co/IpSINLd4Hn">https://t.co/IpSINLd4Hn</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/849594995619356674">April 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Super <a href="https://twitter.com/nattyover">@nattyover</a> piece on physicists broaching the Riemann Hypothesis: <a href="https://t.co/dn1q5dtKqQ">https://t.co/dn1q5dtKqQ</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/849415245273726976">April 5, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A fascinating story that touches on many issues in today&#39;s math research ecosystem <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a> <a href="https://t.co/BKTVPUeQ54">https://t.co/BKTVPUeQ54</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/848839614135775232">April 3, 2017</a></blockquote>
