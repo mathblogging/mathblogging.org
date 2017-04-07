@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Apr 2017 11:33:27 GMT</lastBuildDate>
-        <pubDate>Fri, 07 Apr 2017 11:33:25 GMT</pubDate>
+        <lastBuildDate>Fri, 07 Apr 2017 12:03:32 GMT</lastBuildDate>
+        <pubDate>Fri, 07 Apr 2017 12:03:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[“Lord Kelvin, Pekín 2008 y un monólogo de humor”, nuevo artículo en “El Aleph”]]></title>
+            <link>http://feedproxy.google.com/~r/gaussianos/~3/cOFt_XaRIYs/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/gaussianos/~3/cOFt_XaRIYs/</guid>
+            <dc:creator><![CDATA[Gaussianos]]></dc:creator>
+            <pubDate>Fri, 07 Apr 2017 11:30:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jacobson ring]]></title>
             <link>null</link>
@@ -735,17 +742,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Sat, 01 Apr 2017 01:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Privilege-based Open Source]]></title>
-            <link>https://www.peterkrautzberger.org/0193/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cake cutting part 2]]></title>
             <link>http://datagenetics.com/blog/april22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Privilege-based Open Source]]></title>
+            <link>https://www.peterkrautzberger.org/0193/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -905,6 +912,13 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <guid isPermaLink="false">http://www.physicspages.com/2017/03/30/translation-operator-from-passive-transformations/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
             <pubDate>Thu, 30 Mar 2017 17:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Topology]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Introduction to Topology</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 30 Mar 2017 17:27:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Geometric Proof of Brooks’s Trisection?]]></title>
@@ -2052,17 +2066,17 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <pubDate>Sun, 19 Mar 2017 01:54:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A video about Python in Namibia]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (32)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A video about Python in Namibia]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2934,17 +2948,17 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <pubDate>Wed, 08 Mar 2017 01:36:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A simple evolutionary process in 40 lines of Python]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vestigial trigonometry functions]]></title>
             <link>http://datagenetics.com/blog/march22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/march22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple evolutionary process in 40 lines of Python]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
