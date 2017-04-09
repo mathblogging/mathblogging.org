@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Apr 2017 21:32:52 GMT</lastBuildDate>
-        <pubDate>Sun, 09 Apr 2017 21:32:50 GMT</pubDate>
+        <lastBuildDate>Sun, 09 Apr 2017 22:03:20 GMT</lastBuildDate>
+        <pubDate>Sun, 09 Apr 2017 22:03:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Strane storie matematiche (materiali online)]]></title>
+            <link>http://maddmaths.simai.eu/archimede/strane-storie-matematiche-materiali-online/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/archimede/strane-storie-matematiche-materiali-online/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sun, 09 Apr 2017 21:55:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Matematica applicata all'Ingegneria: dinamica delle vibrazioni]]></title>
             <link>http://maddmaths.simai.eu/archimede/matematica-applicata-allingegneria-dinamica-delle-vibrazioni/</link>
@@ -903,17 +910,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Sat, 01 Apr 2017 01:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cake cutting part 2]]></title>
-            <link>http://datagenetics.com/blog/april22017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Privilege-based Open Source]]></title>
             <link>https://www.peterkrautzberger.org/0193/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cake cutting part 2]]></title>
+            <link>http://datagenetics.com/blog/april22017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2150,13 +2157,6 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <pubDate>Sun, 19 Mar 2017 11:32:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La matematica contro la malaria]]></title>
-            <link>http://maddmaths.simai.eu/news-2/13130/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/13130/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2017 11:12:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ratio of two ratios]]></title>
             <link>http://www.bookofproofs.org/branches/ratio-of-two-ratios/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/ratio-of-two-ratios/</guid>
@@ -2227,17 +2227,17 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <pubDate>Sun, 19 Mar 2017 01:54:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (32)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A video about Python in Namibia]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (32)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2911,13 +2911,6 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <guid isPermaLink="false">Postdocs in Sydney</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Fri, 10 Mar 2017 00:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Beauty of Computation]]></title>
-            <link>http://blog.computationalcomplexity.org/2017/03/the-beauty-of-computation.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2017/03/the-beauty-of-computation.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Thu, 09 Mar 2017 21:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bet-Proofness as a property of Confidence Interval Construction Procedures (Not realized intervals)]]></title>
