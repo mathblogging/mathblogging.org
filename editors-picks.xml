@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Apr 2017 12:05:13 GMT</lastBuildDate>
-        <pubDate>Tue, 11 Apr 2017 12:05:10 GMT</pubDate>
+        <lastBuildDate>Tue, 11 Apr 2017 12:33:25 GMT</lastBuildDate>
+        <pubDate>Tue, 11 Apr 2017 12:33:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -79,33 +79,6 @@
             <pubDate>Wed, 08 Mar 2017 22:12:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Pi and the Golden Ratio, by @johncarlosbaez https://t.co/3FvhSYAEYB
-Geometry, trigonometry, and a side of history!
-#math #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2017/03/07/pi-and-the-golden-ratio/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Wed, 08 Mar 2017 01:32:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Buckets of Fish, by @JDHamkins 
-https://t.co/kq0wThkf89
-Interesting game with beautiful solutions!
-#math #mathchat #mbpick]]></description>
-            <guid isPermaLink="false">http://jdh.hamkins.org/buckets-of-fish/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Mon, 06 Mar 2017 00:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Nice intro to a few basic probability 'paradoxes':
-https://t.co/IpSINLd4Hn #mbpick]]></description>
-            <guid isPermaLink="false">http://theconversation.com/paradoxes-of-probability-and-other-statistical-strangeness-74440</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 05 Apr 2017 12:10:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[Super @nattyover piece on physicists broaching the Riemann Hypothesis: https://t.co/dn1q5dtKqQ #mbpick]]></description>
             <guid isPermaLink="false">http://ow.ly/GGBu30azAxM</guid>
@@ -150,6 +123,33 @@ https://t.co/PlcFyGMtfO
             <guid isPermaLink="false">http://notstatschat.tumblr.com/post/158976786141/prerequisites</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Sun, 02 Apr 2017 12:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Pi and the Golden Ratio, by @johncarlosbaez https://t.co/3FvhSYAEYB
+Geometry, trigonometry, and a side of history!
+#math #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2017/03/07/pi-and-the-golden-ratio/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Wed, 08 Mar 2017 01:32:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Buckets of Fish, by @JDHamkins 
+https://t.co/kq0wThkf89
+Interesting game with beautiful solutions!
+#math #mathchat #mbpick]]></description>
+            <guid isPermaLink="false">http://jdh.hamkins.org/buckets-of-fish/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Mon, 06 Mar 2017 00:57:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Nice intro to a few basic probability 'paradoxes':
+https://t.co/IpSINLd4Hn #mbpick]]></description>
+            <guid isPermaLink="false">http://theconversation.com/paradoxes-of-probability-and-other-statistical-strangeness-74440</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Wed, 05 Apr 2017 12:10:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
