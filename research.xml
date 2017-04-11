@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Apr 2017 13:35:09 GMT</lastBuildDate>
-        <pubDate>Tue, 11 Apr 2017 13:35:06 GMT</pubDate>
+        <lastBuildDate>Tue, 11 Apr 2017 14:04:06 GMT</lastBuildDate>
+        <pubDate>Tue, 11 Apr 2017 14:04:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Colloqui scientifici e Assemblea dell'Unione Matematica Italiana]]></title>
+            <link>http://maddmaths.simai.eu/news-2/colloqui-scientifici-e-assemblea-dellunione-matematica-italiana/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/colloqui-scientifici-e-assemblea-dellunione-matematica-italiana/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Tue, 11 Apr 2017 13:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[They just want to help their children overcome the disadvantages of being rich in 21st Century America]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/04/they-just-want-to-help-their-children.html</link>
@@ -1059,17 +1066,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Sat, 01 Apr 2017 01:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cake cutting part 2]]></title>
-            <link>http://datagenetics.com/blog/april22017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Privilege-based Open Source]]></title>
             <link>https://www.peterkrautzberger.org/0193/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cake cutting part 2]]></title>
+            <link>http://datagenetics.com/blog/april22017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1446,13 +1453,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <guid isPermaLink="false">http://math.andrej.com/2017/03/28/two-phd-positions-in-ljubljana-starting-october-2017/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Tue, 28 Mar 2017 11:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yves Meyer e come nacquero le wavelets]]></title>
-            <link>http://maddmaths.simai.eu/news-2/yves-meyer/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/yves-meyer/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Tue, 28 Mar 2017 11:00:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Project Euler tips]]></title>
@@ -2064,17 +2064,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Tue, 21 Mar 2017 13:24:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Job: Machine Learning, LightOn, Paris.]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/GLftzedshQA/job-machine-learning-lighton-paris.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/GLftzedshQA/job-machine-learning-lighton-paris.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Tue, 21 Mar 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[It's always reassuring when Josh Marshall agrees with you]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/03/its-always-reassuring-when-josh.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/03/its-always-reassuring-when-josh.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 21 Mar 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Job: Machine Learning, LightOn, Paris.]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/GLftzedshQA/job-machine-learning-lighton-paris.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/GLftzedshQA/job-machine-learning-lighton-paris.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Tue, 21 Mar 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
