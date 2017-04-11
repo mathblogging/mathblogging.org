@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Apr 2017 14:04:06 GMT</lastBuildDate>
-        <pubDate>Tue, 11 Apr 2017 14:04:04 GMT</pubDate>
+        <lastBuildDate>Tue, 11 Apr 2017 14:35:41 GMT</lastBuildDate>
+        <pubDate>Tue, 11 Apr 2017 14:35:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Stacking, pseudo-BMA, and AIC type weights for combining Bayesian predictive distributions]]></title>
+            <link>http://andrewgelman.com/2017/04/11/stacking-pseudo-bma-and-aic-weights/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/04/11/stacking-pseudo-bma-and-aic-weights/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 11 Apr 2017 13:59:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colloqui scientifici e Assemblea dell'Unione Matematica Italiana]]></title>
             <link>http://maddmaths.simai.eu/news-2/colloqui-scientifici-e-assemblea-dellunione-matematica-italiana/</link>
@@ -2362,17 +2369,17 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <pubDate>Sun, 19 Mar 2017 01:54:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (32)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A video about Python in Namibia]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (32)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2927,13 +2934,6 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/to1d4K7SqmU/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sat, 11 Mar 2017 14:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expectation propagation as a way of life:  A framework for Bayesian inference on partitioned data]]></title>
-            <link>http://andrewgelman.com/2017/03/11/expectation-propagation-way-life-framework-bayesian-inference-partitioned-data/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/03/11/expectation-propagation-way-life-framework-bayesian-inference-partitioned-data/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 11 Mar 2017 14:07:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Call for Book Recommendations on Game Theory]]></title>
