@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Apr 2017 00:03:25 GMT</lastBuildDate>
-        <pubDate>Thu, 13 Apr 2017 00:03:22 GMT</pubDate>
+        <lastBuildDate>Thu, 13 Apr 2017 00:33:57 GMT</lastBuildDate>
+        <pubDate>Thu, 13 Apr 2017 00:33:54 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Improving How Students Analyze Their Work]]></title>
+            <link>https://mattcoaty.com/2017/04/12/erroranalysis/</link>
+            <guid isPermaLink="false">https://mattcoaty.com/2017/04/12/erroranalysis/</guid>
+            <dc:creator><![CDATA[Educational Aspirations]]></dc:creator>
+            <pubDate>Thu, 13 Apr 2017 00:26:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On This Day in Math - April 13]]></title>
             <link>http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-13.html</link>
@@ -2608,13 +2615,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Mon, 03 Apr 2017 12:00:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S8.299b - Square Space]]></title>
-            <link>http://mathtans.blogspot.com/2017/04/s8299b-square-space.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/s8299b-square-space.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 03 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Crystal Arts]]></title>
             <link>http://mathtourist.blogspot.com/2017/04/crystal-arts.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/crystal-arts.html</guid>
@@ -2622,17 +2622,24 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Mon, 03 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Mathematical Ninja lets the student investigate… cube roots]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 03 Apr 2017 09:00:00 GMT</pubDate>
+            <title><![CDATA[S8.299b - Square Space]]></title>
+            <link>http://mathtans.blogspot.com/2017/04/s8299b-square-space.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/s8299b-square-space.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 03 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No, we probably don’t live in a computer simulation]]></title>
             <link>http://www.madmath.com/2017/04/no-we-probably-dont-live-in-computer.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/04/no-we-probably-dont-live-in-computer.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 03 Apr 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mathematical Ninja lets the student investigate… cube roots]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 03 Apr 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3265,17 +3272,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Sat, 01 Apr 2017 01:05:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Privilege-based Open Source]]></title>
-            <link>https://www.peterkrautzberger.org/0193/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cake cutting part 2]]></title>
             <link>http://datagenetics.com/blog/april22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Privilege-based Open Source]]></title>
+            <link>https://www.peterkrautzberger.org/0193/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3419,17 +3426,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Fri, 31 Mar 2017 12:24:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fountain Channels]]></title>
-            <link>http://mathtourist.blogspot.com/2017/03/fountain-channels.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/03/fountain-channels.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 31 Mar 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ICYM any of these...]]></title>
             <link>http://mathtango.blogspot.com/2017/03/icym-any-of-these.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2017/03/icym-any-of-these.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <pubDate>Fri, 31 Mar 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fountain Channels]]></title>
+            <link>http://mathtourist.blogspot.com/2017/03/fountain-channels.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/03/fountain-channels.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 31 Mar 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4550,17 +4557,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Mon, 27 Mar 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How the Mathematical Ninja approximates $\ln(5)$]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-approximates-ln5/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-approximates-ln5/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 27 Mar 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How To Ruin Your Favorite Sitcoms With Simple Math]]></title>
             <link>http://www.madmath.com/2017/03/how-to-ruin-your-favorite-sitcoms-with.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/03/how-to-ruin-your-favorite-sitcoms-with.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 27 Mar 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Mathematical Ninja approximates $\ln(5)$]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-approximates-ln5/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-approximates-ln5/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 27 Mar 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5096,17 +5103,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Sat, 25 Mar 2017 00:14:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - March 25]]></title>
-            <link>http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-25.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-25.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sat, 25 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nikita Koshkin's 24 preludes and fugues are now published]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/03/25/koshkins-24-preludes-and-fuges/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/25/koshkins-24-preludes-and-fuges/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sat, 25 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - March 25]]></title>
+            <link>http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-25.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-25.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sat, 25 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5572,17 +5579,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Thu, 23 Mar 2017 00:20:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Three Bag Logic Puzzle]]></title>
-            <link>http://datagenetics.com/blog/march42017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march42017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 23 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 23]]></title>
             <link>http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-23.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/03/on-this-day-in-math-march-23.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Thu, 23 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three Bag Logic Puzzle]]></title>
+            <link>http://datagenetics.com/blog/march42017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march42017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 23 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7186,17 +7193,17 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <pubDate>Thu, 16 Mar 2017 04:45:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[overlay journals]]></title>
-            <link>https://www.peterkrautzberger.org/0191/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0191/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Thu, 16 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sides]]></title>
             <link>http://mrburkemath.blogspot.com/2017/03/sides.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/03/sides.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Thu, 16 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[overlay journals]]></title>
+            <link>https://www.peterkrautzberger.org/0191/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0191/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Thu, 16 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7807,13 +7814,6 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <guid isPermaLink="false">https://samjshah.com/2017/03/13/how-i-did-trig-review-in-adv-precalculus-this-year/</guid>
             <dc:creator><![CDATA[Continuous Everywhere but Differentiable Nowhere]]></dc:creator>
             <pubDate>Mon, 13 Mar 2017 01:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WAGS @ UBC, 8–9 April 2017]]></title>
-            <link>https://burttotaro.wordpress.com/2017/03/13/wags-ubc-8-9-april-2017/</link>
-            <guid isPermaLink="false">https://burttotaro.wordpress.com/2017/03/13/wags-ubc-8-9-april-2017/</guid>
-            <dc:creator><![CDATA[Geometry Bulletin Board]]></dc:creator>
-            <pubDate>Mon, 13 Mar 2017 00:15:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proporzioni. Esercizi]]></title>
