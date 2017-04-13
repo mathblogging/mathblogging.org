@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Starting from James Tanton, Brian Hayes heads off into number theory, coincidence, Diophantine analysis... <a href="https://t.co/bDk8hRqMdv">https://t.co/bDk8hRqMdv</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/852560828373094401">April 13, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Nice intro to a few basic probability &#39;paradoxes&#39;:<a href="https://t.co/IpSINLd4Hn">https://t.co/IpSINLd4Hn</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/849594995619356674">April 5, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Super <a href="https://twitter.com/nattyover">@nattyover</a> piece on physicists broaching the Riemann Hypothesis: <a href="https://t.co/dn1q5dtKqQ">https://t.co/dn1q5dtKqQ</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/849415245273726976">April 5, 2017</a></blockquote>
