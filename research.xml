@@ -4,23 +4,37 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Apr 2017 04:03:14 GMT</lastBuildDate>
-        <pubDate>Fri, 14 Apr 2017 04:03:12 GMT</pubDate>
+        <lastBuildDate>Fri, 14 Apr 2017 04:33:27 GMT</lastBuildDate>
+        <pubDate>Fri, 14 Apr 2017 04:33:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[difference of convergent real series]]></title>
-            <link>http://www.bookofproofs.org/branches/difference-of-convergent-real-series/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/difference-of-convergent-real-series/</guid>
+            <title><![CDATA[product of a real number and a convergent real series]]></title>
+            <link>http://www.bookofproofs.org/branches/product-of-a-real-number-and-a-convergent-real-series/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/product-of-a-real-number-and-a-convergent-real-series/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 14 Apr 2017 03:59:24 GMT</pubDate>
+            <pubDate>Fri, 14 Apr 2017 04:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[difference of convergent real series proof]]></title>
+            <link>http://www.bookofproofs.org/branches/difference-of-convergent-real-series/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/difference-of-convergent-real-series/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 14 Apr 2017 04:10:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[sum of convergent real series proof]]></title>
             <link>http://www.bookofproofs.org/branches/sum-of-convergent-real-series/proof/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/sum-of-convergent-real-series/proof/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 14 Apr 2017 03:56:01 GMT</pubDate>
+            <pubDate>Fri, 14 Apr 2017 04:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[difference of convergent real series]]></title>
+            <link>http://www.bookofproofs.org/branches/difference-of-convergent-real-series/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/difference-of-convergent-real-series/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 14 Apr 2017 03:59:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[sum of convergent real series]]></title>
@@ -128,13 +142,6 @@
             <pubDate>Thu, 13 Apr 2017 12:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[closed subspaces of compact Hausdorff spaces are equivalently compact subspaces]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">closed subspaces of compact Hausdorff spaces are equivalently compact subspaces</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 13 Apr 2017 10:38:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Air rage rage]]></title>
             <link>http://andrewgelman.com/2017/04/13/air-rage-rage/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/04/13/air-rage-rage/</guid>
@@ -179,11 +186,32 @@ Katharina Grosse at Gagosian.]]></title>
             <pubDate>Wed, 12 Apr 2017 19:00:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[sequentially compact metric spaces are totally bounded]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">sequentially compact metric spaces are totally bounded</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 12 Apr 2017 18:57:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sequentially compact metric spaces are equivalently compact metric spaces]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">sequentially compact metric spaces are equivalently compact metric spaces</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 12 Apr 2017 18:00:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Two jobs, Research Scientists, NVIDIA]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/smhi_xwfwng/two-jobs-research-scientists-nvidia.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/smhi_xwfwng/two-jobs-research-scientists-nvidia.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 12 Apr 2017 17:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebesgue number lemma]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Lebesgue number lemma</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 12 Apr 2017 17:28:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time reversal, antiunitary operators and Wigner’s theorem]]></title>
@@ -1307,17 +1335,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Sat, 01 Apr 2017 01:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cake cutting part 2]]></title>
-            <link>http://datagenetics.com/blog/april22017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Privilege-based Open Source]]></title>
             <link>https://www.peterkrautzberger.org/0193/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cake cutting part 2]]></title>
+            <link>http://datagenetics.com/blog/april22017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2510,20 +2538,6 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/product-of-two-ratios/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Sun, 19 Mar 2017 10:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sum and difference of two ratios]]></title>
-            <link>http://www.bookofproofs.org/branches/sum-and-difference-of-two-ratios/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/sum-and-difference-of-two-ratios/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2017 10:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[equality of two ratios]]></title>
-            <link>http://www.bookofproofs.org/branches/equality-of-two-ratios/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/equality-of-two-ratios/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2017 10:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I will not log in to your website]]></title>
