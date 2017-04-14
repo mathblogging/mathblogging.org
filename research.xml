@@ -4,16 +4,23 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Apr 2017 10:33:12 GMT</lastBuildDate>
-        <pubDate>Fri, 14 Apr 2017 10:33:10 GMT</pubDate>
+        <lastBuildDate>Fri, 14 Apr 2017 11:03:15 GMT</lastBuildDate>
+        <pubDate>Fri, 14 Apr 2017 11:03:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[real sequences contain monotonic subsequences]]></title>
+            <link>http://www.bookofproofs.org/branches/real-sequences-contain-monotonic-subsequences/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/real-sequences-contain-monotonic-subsequences/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Fri, 14 Apr 2017 10:31:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[decimal representation of real numbers]]></title>
             <link>http://www.bookofproofs.org/branches/decimal-representation-of-real-numbers/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/decimal-representation-of-real-numbers/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 14 Apr 2017 09:58:25 GMT</pubDate>
+            <pubDate>Fri, 14 Apr 2017 10:07:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elements of MATLAB Style]]></title>
@@ -1396,17 +1403,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Sat, 01 Apr 2017 01:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Privilege-based Open Source]]></title>
-            <link>https://www.peterkrautzberger.org/0193/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cake cutting part 2]]></title>
             <link>http://datagenetics.com/blog/april22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Privilege-based Open Source]]></title>
+            <link>https://www.peterkrautzberger.org/0193/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2552,13 +2559,6 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <pubDate>Sun, 19 Mar 2017 13:23:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[inequality between powers of 2 and factorials]]></title>
-            <link>http://www.bookofproofs.org/branches/inequality-between-powers-of-2-and-factorials/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/inequality-between-powers-of-2-and-factorials/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2017 11:51:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I will not log in to your website]]></title>
             <link>http://www.scottaaronson.com/blog/?p=3203</link>
             <guid isPermaLink="false">http://www.scottaaronson.com/blog/?p=3203</guid>
@@ -2580,17 +2580,17 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <pubDate>Sun, 19 Mar 2017 01:54:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A video about Python in Namibia]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (32)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A video about Python in Namibia]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
