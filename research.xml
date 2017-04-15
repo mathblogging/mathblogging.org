@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Apr 2017 19:02:55 GMT</lastBuildDate>
-        <pubDate>Sat, 15 Apr 2017 19:02:53 GMT</pubDate>
+        <lastBuildDate>Sat, 15 Apr 2017 19:33:00 GMT</lastBuildDate>
+        <pubDate>Sat, 15 Apr 2017 19:32:58 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[extended real numbers]]></title>
+            <link>http://www.bookofproofs.org/branches/extended-real-numbers/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/extended-real-numbers/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 15 Apr 2017 19:31:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a criterion for subsets of real numbers to be bounded]]></title>
             <link>http://www.bookofproofs.org/branches/a-criterion-for-subsets-of-real-numbers-to-be-bounded/</link>
@@ -273,13 +280,6 @@
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/04/14/elements-of-matlab-style/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Fri, 14 Apr 2017 08:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[product of a convergent real sequence and a real sequence tending to infinity]]></title>
-            <link>http://www.bookofproofs.org/branches/product-of-a-convergent-real-sequence-and-a-real-sequence-tending-to-infinity/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/product-of-a-convergent-real-sequence-and-a-real-sequence-tending-to-infinity/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Fri, 14 Apr 2017 05:49:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[notes-on-business-models:
@@ -1550,17 +1550,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Sat, 01 Apr 2017 01:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Privilege-based Open Source]]></title>
-            <link>https://www.peterkrautzberger.org/0193/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cake cutting part 2]]></title>
             <link>http://datagenetics.com/blog/april22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Privilege-based Open Source]]></title>
+            <link>https://www.peterkrautzberger.org/0193/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2664,17 +2664,17 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <pubDate>Sun, 19 Mar 2017 01:54:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (32)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A video about Python in Namibia]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/python/2017/03/19/a-video-about-python-in-namibia.html</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (32)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/03/19/fortnightly-links-32/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2872,20 +2872,6 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0191/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Thu, 16 Mar 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensemble Methods are Doomed to Fail in High Dimensions]]></title>
-            <link>http://andrewgelman.com/2017/03/15/ensemble-methods-doomed-fail-high-dimensions/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/03/15/ensemble-methods-doomed-fail-high-dimensions/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 15 Mar 2017 19:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a few last minute thoughts on filling out a perfect bracket]]></title>
-            <link>https://punkrockor.com/2017/03/15/a-few-last-minute-thoughts-on-filling-out-a-perfect-bracket/</link>
-            <guid isPermaLink="false">https://punkrockor.com/2017/03/15/a-few-last-minute-thoughts-on-filling-out-a-perfect-bracket/</guid>
-            <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
-            <pubDate>Wed, 15 Mar 2017 19:25:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Visualizing Pandas GroupBy object]]></title>
