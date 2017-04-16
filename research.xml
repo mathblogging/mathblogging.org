@@ -4,16 +4,23 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Apr 2017 11:03:13 GMT</lastBuildDate>
-        <pubDate>Sun, 16 Apr 2017 11:03:11 GMT</pubDate>
+        <lastBuildDate>Sun, 16 Apr 2017 11:33:14 GMT</lastBuildDate>
+        <pubDate>Sun, 16 Apr 2017 11:33:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[real identity function]]></title>
+            <link>http://www.bookofproofs.org/branches/real-identity-function/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/real-identity-function/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 16 Apr 2017 11:13:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[graph of a real function]]></title>
             <link>http://www.bookofproofs.org/branches/graph-of-a-real-function/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/graph-of-a-real-function/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 16 Apr 2017 10:35:01 GMT</pubDate>
+            <pubDate>Sun, 16 Apr 2017 10:38:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[uncountable and countable subsets of natural numbers]]></title>
@@ -135,13 +142,6 @@ by Eli Reed]]></title>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/rational-numbers-are-dense-in-the-real-numbers/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Sat, 15 Apr 2017 18:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[open intervals contain uncountably many irrational numbers]]></title>
-            <link>http://www.bookofproofs.org/branches/open-intervals-contain-uncountably-many-irrational-numbers/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/open-intervals-contain-uncountably-many-irrational-numbers/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 15 Apr 2017 18:06:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The triple Klein bottle]]></title>
@@ -3021,13 +3021,6 @@ DHJNZT<FKNT{RNJYTGJYBVFTNVJTBCRECCNDJ...]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/03/iphones-versus-health-care.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 16 Mar 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Insert D-Wave Post Here]]></title>
-            <link>http://www.scottaaronson.com/blog/?p=3192</link>
-            <guid isPermaLink="false">http://www.scottaaronson.com/blog/?p=3192</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Thu, 16 Mar 2017 11:00:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
