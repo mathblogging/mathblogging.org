@@ -4,16 +4,58 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Apr 2017 06:03:33 GMT</lastBuildDate>
-        <pubDate>Sun, 16 Apr 2017 06:03:32 GMT</pubDate>
+        <lastBuildDate>Sun, 16 Apr 2017 06:33:07 GMT</lastBuildDate>
+        <pubDate>Sun, 16 Apr 2017 06:33:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Post Conference Debrief]]></title>
+            <link>http://climeconnections.blogspot.com/2017/04/post-conference-debrief.html</link>
+            <guid isPermaLink="false">http://climeconnections.blogspot.com/2017/04/post-conference-debrief.html</guid>
+            <dc:creator><![CDATA[CLIME Connections]]></dc:creator>
+            <pubDate>Fri, 14 Apr 2017 14:52:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UKMT Maths Challenges]]></title>
             <link>https://colleenyoung.wordpress.com/2017/04/14/ukmt-maths-challenges/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2017/04/14/ukmt-maths-challenges/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Fri, 14 Apr 2017 14:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Love in the age of data, without data]]></title>
+            <link>http://flowingdata.com/2017/04/14/love-in-the-age-of-data-without-data/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/14/love-in-the-age-of-data-without-data/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Fri, 14 Apr 2017 07:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate Change Coloring Book]]></title>
+            <link>http://flowingdata.com/2017/04/13/climate-change-coloring-book/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/13/climate-change-coloring-book/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Thu, 13 Apr 2017 17:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quickly browse large CSV files on the desktop with Tad]]></title>
+            <link>http://flowingdata.com/2017/04/13/quickly-browse-large-csv-files-on-the-desktop-with-tad/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/13/quickly-browse-large-csv-files-on-the-desktop-with-tad/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Thu, 13 Apr 2017 10:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A century of facial hair styles]]></title>
+            <link>http://flowingdata.com/2017/04/13/a-century-of-facial-hair-styles/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/13/a-century-of-facial-hair-styles/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Thu, 13 Apr 2017 07:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Challenges of visualization in industry]]></title>
+            <link>http://flowingdata.com/2017/04/12/challenges-of-visualization-in-industry/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/12/challenges-of-visualization-in-industry/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Wed, 12 Apr 2017 17:30:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A digital device policy in the classroom]]></title>
@@ -23,11 +65,39 @@
             <pubDate>Wed, 12 Apr 2017 15:58:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Visualize large datasets with deck.gl]]></title>
+            <link>http://flowingdata.com/2017/04/12/visualize-large-datasets-with-deck-gl/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/12/visualize-large-datasets-with-deck-gl/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Wed, 12 Apr 2017 09:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A story of humanity in the pixels of a Reddit April Fool’s experiment]]></title>
+            <link>http://flowingdata.com/2017/04/11/a-story-of-humanity-in-the-pixels-of-a-reddit-april-fools-experiment/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/11/a-story-of-humanity-in-the-pixels-of-a-reddit-april-fools-experiment/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Tue, 11 Apr 2017 11:08:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Twitter icons]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/t9f9_sneGjw/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/t9f9_sneGjw/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Tue, 11 Apr 2017 03:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing a Course for Mapping in R]]></title>
+            <link>http://flowingdata.com/2017/04/10/introducing-mapping-r/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/10/introducing-mapping-r/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Mon, 10 Apr 2017 16:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Listen to soundtrack based on FedEx shipment tracking]]></title>
+            <link>http://flowingdata.com/2017/04/10/listen-to-soundtrack-based-on-fedex-shipment-tracking/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/10/listen-to-soundtrack-based-on-fedex-shipment-tracking/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Mon, 10 Apr 2017 11:52:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mercury and the bandwagon effect]]></title>
@@ -49,6 +119,13 @@
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2017/04/09/mathematical-miscellany-11/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 09 Apr 2017 12:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best infographics in the news]]></title>
+            <link>http://flowingdata.com/2017/04/07/best-infographics-in-the-news/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/04/07/best-infographics-in-the-news/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Fri, 07 Apr 2017 10:30:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GeoGebra Math Apps for Desktop]]></title>
@@ -149,6 +226,13 @@
             <pubDate>Thu, 30 Mar 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NCTM San Antonio Conference Technology Preview]]></title>
+            <link>http://climeconnections.blogspot.com/2017/03/nctm-san-antonio-conference-technology.html</link>
+            <guid isPermaLink="false">http://climeconnections.blogspot.com/2017/03/nctm-san-antonio-conference-technology.html</guid>
+            <dc:creator><![CDATA[CLIME Connections]]></dc:creator>
+            <pubDate>Wed, 29 Mar 2017 14:19:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Surface Pro 4: Episode 13]]></title>
             <link>https://explainingmaths.wordpress.com/2017/03/28/surface-pro-4-episode-13/</link>
             <guid isPermaLink="false">https://explainingmaths.wordpress.com/2017/03/28/surface-pro-4-episode-13/</guid>
@@ -184,39 +268,11 @@
             <pubDate>Fri, 24 Mar 2017 14:05:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fastest way to alphabetize your bookshelf]]></title>
-            <link>http://flowingdata.com/2017/03/24/fastest-way-to-alphabetize-your-bookshelf/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/24/fastest-way-to-alphabetize-your-bookshelf/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Fri, 24 Mar 2017 09:34:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Freudian hypothesis testing]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/iKoTFm1VKkI/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/iKoTFm1VKkI/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Thu, 23 Mar 2017 19:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Towards simple visualization]]></title>
-            <link>http://flowingdata.com/2017/03/23/simple-visualization/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/23/simple-visualization/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Thu, 23 Mar 2017 18:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Catching a real ball in virtual reality]]></title>
-            <link>http://flowingdata.com/2017/03/23/virtual-ball/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/23/virtual-ball/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Thu, 23 Mar 2017 10:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Economics of airline class]]></title>
-            <link>http://flowingdata.com/2017/03/22/economics-of-airline-class/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/22/economics-of-airline-class/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Wed, 22 Mar 2017 18:15:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[constructing a NCAA basketball tournament bracket is NP-hard]]></title>
@@ -233,32 +289,11 @@
             <pubDate>Wed, 22 Mar 2017 14:04:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conflicted public opinion about global warming]]></title>
-            <link>http://flowingdata.com/2017/03/22/conflicted-public-opinion-about-global-warming/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/22/conflicted-public-opinion-about-global-warming/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Wed, 22 Mar 2017 09:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simulation shows how your mouth works when you talk]]></title>
-            <link>http://flowingdata.com/2017/03/21/simulation-shows-how-your-mouth-works-when-you-talk/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/21/simulation-shows-how-your-mouth-works-when-you-talk/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Tue, 21 Mar 2017 15:38:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Math Behind March Madness]]></title>
             <link>https://punkrockor.com/2017/03/20/the-math-behind-march-madness/</link>
             <guid isPermaLink="false">https://punkrockor.com/2017/03/20/the-math-behind-march-madness/</guid>
             <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
             <pubDate>Mon, 20 Mar 2017 18:15:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shifting national budget]]></title>
-            <link>http://flowingdata.com/2017/03/20/shifting-national-budget/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/20/shifting-national-budget/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Mon, 20 Mar 2017 15:40:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Antidepressants for van Gogh]]></title>
@@ -296,13 +331,6 @@
             <pubDate>Fri, 17 Mar 2017 14:30:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When Straight Americans Lost Their Virginity]]></title>
-            <link>http://flowingdata.com/2017/03/17/when-americans-lost-their-virginity/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/17/when-americans-lost-their-virginity/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Fri, 17 Mar 2017 09:58:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Duals and double duals of Banach spaces]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/dD3W4pxpKYw/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/dD3W4pxpKYw/</guid>
@@ -315,20 +343,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/sd4k8Xi9MV8/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Thu, 16 Mar 2017 15:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Penrose map binning]]></title>
-            <link>http://flowingdata.com/2017/03/16/penrose-map-binning/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/16/penrose-map-binning/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Thu, 16 Mar 2017 10:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interactive or not to interactive visualization?]]></title>
-            <link>http://flowingdata.com/2017/03/15/interactive-or-not-to-interactive-visualization/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/03/15/interactive-or-not-to-interactive-visualization/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Wed, 15 Mar 2017 13:21:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
