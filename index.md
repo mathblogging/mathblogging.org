@@ -37,6 +37,4 @@ title: Editor's picks
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“Mathematics for Human Flourishing” by <a href="https://twitter.com/mathyawp">@mathyawp</a> <a href="https://t.co/qx5Cd6y004">https://t.co/qx5Cd6y004</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/818162164934422531">January 8, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I’ve shared before but it is worth rereading. “Habits of highly mathematical people” by <a href="https://twitter.com/MathProgramming">@MathProgramming</a> <a href="https://t.co/xsr9ULUBN2">https://t.co/xsr9ULUBN2</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/770655802562531328">August 30, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p> <a href="editors-picks.xml">Grab the feed for our Editors' Picks!</a></p>

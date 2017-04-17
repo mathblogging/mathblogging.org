@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Apr 2017 21:03:43 GMT</lastBuildDate>
-        <pubDate>Mon, 17 Apr 2017 21:03:40 GMT</pubDate>
+        <lastBuildDate>Mon, 17 Apr 2017 21:33:08 GMT</lastBuildDate>
+        <pubDate>Mon, 17 Apr 2017 21:33:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Donald Trump’s nomination as an unintended consequence of Citizens United]]></title>
+            <link>http://andrewgelman.com/2017/04/17/donald-trumps-nomination-unintended-consequence-citizens-united/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/04/17/donald-trumps-nomination-unintended-consequence-citizens-united/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2017 21:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Machine Learning]]></title>
+            <link>http://blog.computationalcomplexity.org/2017/04/understanding-machine-learning.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2017/04/understanding-machine-learning.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2017 21:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[If Google achieves superintelligence, time zones will be its Achilles heel]]></title>
             <link>http://www.scottaaronson.com/blog/?p=3221</link>
@@ -35,13 +49,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/continuous-real-functions-on-closed-intervals-take-maximum-and-minimum-values-within-these-intervals/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 17:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nilpotent infinitesimal]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">nilpotent infinitesimal</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 17:26:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[intermediate root value theorem bolzano proof]]></title>
@@ -140,13 +147,6 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/sum-of-arguments-of-hyperbolic-cosine/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 10:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[infinitesimal analysis]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">infinitesimal analysis</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 10:45:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[hyperbolic sine]]></title>
@@ -1804,17 +1804,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Sat, 01 Apr 2017 01:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Privilege-based Open Source]]></title>
-            <link>https://www.peterkrautzberger.org/0193/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cake cutting part 2]]></title>
             <link>http://datagenetics.com/blog/april22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Privilege-based Open Source]]></title>
+            <link>https://www.peterkrautzberger.org/0193/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
