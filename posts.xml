@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Apr 2017 21:33:17 GMT</lastBuildDate>
-        <pubDate>Fri, 21 Apr 2017 21:33:13 GMT</pubDate>
+        <lastBuildDate>Fri, 21 Apr 2017 22:03:19 GMT</lastBuildDate>
+        <pubDate>Fri, 21 Apr 2017 22:03:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Slides from a Dissertation Defense]]></title>
+            <link>http://davidlowryduda.com/slides-from-a-dissertation-defense/</link>
+            <guid isPermaLink="false">http://davidlowryduda.com/slides-from-a-dissertation-defense/</guid>
+            <dc:creator><![CDATA[mixedmath]]></dc:creator>
+            <pubDate>Fri, 21 Apr 2017 22:00:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Budget 2017, Naylor’s review, and the Mathematical Sciences in Canada]]></title>
             <link>https://nghoussoub.com/2017/04/21/budget-2017-naylors-review-and-the-mathematical-sciences-in-canada/</link>
@@ -224,6 +231,13 @@
             <guid isPermaLink="false">http://images.math.cnrs.fr/Avril-2017-3e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 21 Apr 2017 02:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Living standards and Kate Bush maths]]></title>
+            <link>http://www.bbc.co.uk/programmes/p050rsl1</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p050rsl1</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Fri, 21 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alphabear Solver]]></title>
@@ -947,17 +961,17 @@
             <pubDate>Tue, 18 Apr 2017 08:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La quête du Graal électoral]]></title>
-            <link>http://images.math.cnrs.fr/La-quete-du-Graal-electoral.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/La-quete-du-Graal-electoral.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 18 Apr 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[MLHardware: Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent / WRPN: Training and Inference using Wide Reduced-Precision Networks]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gRg_kAfu9Is/mlhardware-understanding-and-optimizing.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gRg_kAfu9Is/mlhardware-understanding-and-optimizing.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 18 Apr 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La quête du Graal électoral]]></title>
+            <link>http://images.math.cnrs.fr/La-quete-du-Graal-electoral.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/La-quete-du-Graal-electoral.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 18 Apr 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1290,17 +1304,17 @@
             <pubDate>Mon, 17 Apr 2017 05:00:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Understanding Shallower Networks]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Sqex9OSeg0A/understanding-shallower-networks.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Sqex9OSeg0A/understanding-shallower-networks.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.7.18]]></title>
             <link>http://images.math.cnrs.fr/-4221.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/-4221.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Shallower Networks]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Sqex9OSeg0A/understanding-shallower-networks.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Sqex9OSeg0A/understanding-shallower-networks.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1326,8 +1340,8 @@
         </item>
         <item>
             <title><![CDATA[Visualizing (censored) lifetime distributions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50629</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50629</guid>
+            <link>https://freakonometrics.hypotheses.org/50629</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50629</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 01:50:44 GMT</pubDate>
         </item>
@@ -2420,8 +2434,8 @@ Katharina Grosse at Gagosian.]]></title>
         </item>
         <item>
             <title><![CDATA[Sondages, intentions de vote et “vote utile”]]></title>
-            <link>http://freakonometrics.hypotheses.org/50619</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50619</guid>
+            <link>https://freakonometrics.hypotheses.org/50619</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50619</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 12 Apr 2017 21:12:03 GMT</pubDate>
         </item>
@@ -3253,17 +3267,17 @@ What do you get when you cross a Fat...]]></title>
             <pubDate>Mon, 10 Apr 2017 11:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S8.300 - Rhys's Pieces]]></title>
-            <link>http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 10 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Weather Garden Star]]></title>
             <link>http://mathtourist.blogspot.com/2017/04/weather-garden-star.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/weather-garden-star.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 10 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S8.300 - Rhys's Pieces]]></title>
+            <link>http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 10 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4245,8 +4259,8 @@ Albert Fathi, François Laudenbach, Valentin...]]></title>
         </item>
         <item>
             <title><![CDATA[C’est normal ! (partie 1)    et si la normalité n’existait pas?]]></title>
-            <link>http://freakonometrics.hypotheses.org/50412</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50412</guid>
+            <link>https://freakonometrics.hypotheses.org/50412</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50412</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 06 Apr 2017 01:31:20 GMT</pubDate>
         </item>
@@ -4706,17 +4720,17 @@ Albert Fathi, François Laudenbach, Valentin...]]></title>
             <pubDate>Tue, 04 Apr 2017 11:28:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kopernik]]></title>
-            <link>http://mathtourist.blogspot.com/2017/04/kopernik.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/kopernik.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 04 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[National Math Festival ... I love FESTIVALS!]]></title>
             <link>http://algebrasfriend.blogspot.com/2017/04/national-math-festival-i-love-festivals.html</link>
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2017/04/national-math-festival-i-love-festivals.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
+            <pubDate>Tue, 04 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kopernik]]></title>
+            <link>http://mathtourist.blogspot.com/2017/04/kopernik.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/kopernik.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 04 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4983,17 +4997,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Mon, 03 Apr 2017 11:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Crystal Arts]]></title>
-            <link>http://mathtourist.blogspot.com/2017/04/crystal-arts.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/crystal-arts.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 03 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S8.299b - Square Space]]></title>
             <link>http://mathtans.blogspot.com/2017/04/s8299b-square-space.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/s8299b-square-space.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 03 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crystal Arts]]></title>
+            <link>http://mathtourist.blogspot.com/2017/04/crystal-arts.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/crystal-arts.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 03 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5288,17 +5302,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI_02MAKRO...]]></title>
             <pubDate>Sun, 02 Apr 2017 12:15:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beyond the Boundary of Logic]]></title>
-            <link>http://math-frolic.blogspot.com/2017/04/beyond-boundary-of-logic.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/04/beyond-boundary-of-logic.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 02 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tilted Tree]]></title>
             <link>http://mathtourist.blogspot.com/2017/04/tilted-tree.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/tilted-tree.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 02 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond the Boundary of Logic]]></title>
+            <link>http://math-frolic.blogspot.com/2017/04/beyond-boundary-of-logic.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/04/beyond-boundary-of-logic.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 02 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7024,8 +7038,8 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
         </item>
         <item>
             <title><![CDATA[Supprimer des données ?]]></title>
-            <link>http://freakonometrics.hypotheses.org/50572</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50572</guid>
+            <link>https://freakonometrics.hypotheses.org/50572</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50572</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 27 Mar 2017 05:22:40 GMT</pubDate>
         </item>
@@ -7668,8 +7682,8 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
         </item>
         <item>
             <title><![CDATA[Toi aussi, raconte ce que tu veux avec des graphiques]]></title>
-            <link>http://freakonometrics.hypotheses.org/50518</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50518</guid>
+            <link>https://freakonometrics.hypotheses.org/50518</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50518</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 23 Mar 2017 11:42:09 GMT</pubDate>
         </item>
@@ -7871,8 +7885,8 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
         </item>
         <item>
             <title><![CDATA[Le Master Statistique & Econométrie est mort]]></title>
-            <link>http://freakonometrics.hypotheses.org/50506</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50506</guid>
+            <link>https://freakonometrics.hypotheses.org/50506</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50506</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 22 Mar 2017 10:44:02 GMT</pubDate>
         </item>
