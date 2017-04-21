@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/rmathematicus">@rmathematicus</a> is The Man from Nowhere <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a> <a href="https://t.co/CdCciUPNr7">https://t.co/CdCciUPNr7</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/855405431912615936">April 21, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Jim Propp&#39;s latest: <a href="https://t.co/LtZsnsfHxp">https://t.co/LtZsnsfHxp</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/854151096691982336">April 18, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fun essay on the beauty of math: <a href="https://t.co/SwVLAJNpMK">https://t.co/SwVLAJNpMK</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/853688211264155648">April 16, 2017</a></blockquote>
