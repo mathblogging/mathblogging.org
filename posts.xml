@@ -4,10 +4,45 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Apr 2017 13:33:02 GMT</lastBuildDate>
-        <pubDate>Sat, 22 Apr 2017 13:32:59 GMT</pubDate>
+        <lastBuildDate>Sat, 22 Apr 2017 14:03:18 GMT</lastBuildDate>
+        <pubDate>Sat, 22 Apr 2017 14:03:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Walter Rudin]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Walter Rudin</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 22 Apr 2017 13:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A neat expected value problem from Expii]]></title>
+            <link>https://mikesmathpage.wordpress.com/2017/04/22/a-neat-expected-value-problem-from-expii/</link>
+            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2017/04/22/a-neat-expected-value-problem-from-expii/</guid>
+            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
+            <pubDate>Sat, 22 Apr 2017 13:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eric Schechter]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Eric Schechter</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 22 Apr 2017 13:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[modulus of continuity is continuous]]></title>
+            <link>http://www.bookofproofs.org/branches/modulus-of-continuity-is-continuous/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/modulus-of-continuity-is-continuous/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 22 Apr 2017 13:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weekend reads: A “culture of fear?”; blogs vs. academic papers; neurosurgery retractions on the rise]]></title>
+            <link>http://retractionwatch.com/2017/04/22/weekend-reads-culture-fear-blogs-vs-academic-papers-neurosurgery-retractions-rise/</link>
+            <guid isPermaLink="false">http://retractionwatch.com/2017/04/22/weekend-reads-culture-fear-blogs-vs-academic-papers-neurosurgery-retractions-rise/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Sat, 22 Apr 2017 13:30:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[modulus of continuity is monotonically increasing]]></title>
             <link>http://www.bookofproofs.org/branches/modulus-of-continuity-is-monotonically-increasing/</link>
@@ -980,13 +1015,6 @@ in...]]></title>
             <pubDate>Tue, 18 Apr 2017 14:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prominent physicist loses four more papers for duplication]]></title>
-            <link>http://retractionwatch.com/2017/04/18/prominent-physicist-loses-four-papers-duplication/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/04/18/prominent-physicist-loses-four-papers-duplication/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Tue, 18 Apr 2017 13:30:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Geometry Problems of the Day]]></title>
             <link>http://mrburkemath.blogspot.com/2017/04/geometry-problems-of-day_18.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/04/geometry-problems-of-day_18.html</guid>
@@ -1099,17 +1127,17 @@ in...]]></title>
             <pubDate>Tue, 18 Apr 2017 08:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MLHardware: Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent / WRPN: Training and Inference using Wide Reduced-Precision Networks]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gRg_kAfu9Is/mlhardware-understanding-and-optimizing.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gRg_kAfu9Is/mlhardware-understanding-and-optimizing.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Tue, 18 Apr 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La quête du Graal électoral]]></title>
             <link>http://images.math.cnrs.fr/La-quete-du-Graal-electoral.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/La-quete-du-Graal-electoral.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 18 Apr 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLHardware: Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent / WRPN: Training and Inference using Wide Reduced-Precision Networks]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gRg_kAfu9Is/mlhardware-understanding-and-optimizing.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gRg_kAfu9Is/mlhardware-understanding-and-optimizing.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Tue, 18 Apr 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1155,17 +1183,17 @@ in...]]></title>
             <pubDate>Mon, 17 Apr 2017 23:55:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Math Character Bible]]></title>
-            <link>http://mathtans.blogspot.com/2017/04/math-character-bible.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-character-bible.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - April 18]]></title>
             <link>http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math Character Bible]]></title>
+            <link>http://mathtans.blogspot.com/2017/04/math-character-bible.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-character-bible.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1379,13 +1407,6 @@ in...]]></title>
             <pubDate>Mon, 17 Apr 2017 11:15:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[limits of polynomials at infinity]]></title>
-            <link>http://www.bookofproofs.org/branches/limits-of-polynomials-at-infinity/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/limits-of-polynomials-at-infinity/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 11:12:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wells Cathedral Organ Pipes]]></title>
             <link>http://mathtourist.blogspot.com/2017/04/wells-cathedral-organ-pipes.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/wells-cathedral-organ-pipes.html</guid>
@@ -1428,17 +1449,17 @@ in...]]></title>
             <pubDate>Mon, 17 Apr 2017 05:00:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.7.18]]></title>
-            <link>http://images.math.cnrs.fr/-4221.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4221.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Understanding Shallower Networks]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Sqex9OSeg0A/understanding-shallower-networks.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Sqex9OSeg0A/understanding-shallower-networks.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.7.18]]></title>
+            <link>http://images.math.cnrs.fr/-4221.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4221.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2177,16 +2198,16 @@ real✻ cheese!!
             <pubDate>Fri, 14 Apr 2017 01:08:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: The Ignorance Test]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0500z8p</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0500z8p</guid>
+            <title><![CDATA[Economics of Overbooking]]></title>
+            <link>http://www.bbc.co.uk/programmes/p0500yjw</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0500yjw</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 14 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Economics of Overbooking]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0500yjw</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0500yjw</guid>
+            <title><![CDATA[WS More or Less: The Ignorance Test]]></title>
+            <link>http://www.bbc.co.uk/programmes/p0500z8p</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0500z8p</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 14 Apr 2017 00:00:00 GMT</pubDate>
         </item>
@@ -3370,17 +3391,17 @@ What do you get when you cross a Fat...]]></title>
             <pubDate>Mon, 10 Apr 2017 11:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S8.300 - Rhys's Pieces]]></title>
-            <link>http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 10 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Weather Garden Star]]></title>
             <link>http://mathtourist.blogspot.com/2017/04/weather-garden-star.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/weather-garden-star.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 10 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S8.300 - Rhys's Pieces]]></title>
+            <link>http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 10 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3391,17 +3412,17 @@ What do you get when you cross a Fat...]]></title>
             <pubDate>Mon, 10 Apr 2017 09:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mercator Projection All the Way Down]]></title>
-            <link>http://www.madmath.com/2017/04/mercator-projection-all-way-down.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/04/mercator-projection-all-way-down.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 10 Apr 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Mathematical Pirate and The Quotient Rule]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/mathematical-pirate-quotient-rule/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-pirate-quotient-rule/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 10 Apr 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mercator Projection All the Way Down]]></title>
+            <link>http://www.madmath.com/2017/04/mercator-projection-all-way-down.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/04/mercator-projection-all-way-down.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 10 Apr 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3846,13 +3867,6 @@ Path 153, Row 109 2017-03-06 at 06:29:11 GMT...]]></title>
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/159335309165</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Sat, 08 Apr 2017 12:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Random walks with kids]]></title>
-            <link>https://mikesmathpage.wordpress.com/2017/04/08/random-walks-with-kids/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2017/04/08/random-walks-with-kids/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Sat, 08 Apr 2017 11:57:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leaf Shadow]]></title>
@@ -5384,17 +5398,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI_02MAKRO...]]></title>
             <pubDate>Sun, 02 Apr 2017 12:15:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tilted Tree]]></title>
-            <link>http://mathtourist.blogspot.com/2017/04/tilted-tree.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/tilted-tree.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 02 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Beyond the Boundary of Logic]]></title>
             <link>http://math-frolic.blogspot.com/2017/04/beyond-boundary-of-logic.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/04/beyond-boundary-of-logic.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 02 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tilted Tree]]></title>
+            <link>http://mathtourist.blogspot.com/2017/04/tilted-tree.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/tilted-tree.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 02 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5743,17 +5757,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Sat, 01 Apr 2017 01:05:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cake cutting part 2]]></title>
-            <link>http://datagenetics.com/blog/april22017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Privilege-based Open Source]]></title>
             <link>https://www.peterkrautzberger.org/0193/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0193/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cake cutting part 2]]></title>
+            <link>http://datagenetics.com/blog/april22017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/april22017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5904,17 +5918,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
             <pubDate>Fri, 31 Mar 2017 12:24:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fountain Channels]]></title>
-            <link>http://mathtourist.blogspot.com/2017/03/fountain-channels.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/03/fountain-channels.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 31 Mar 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ICYM any of these...]]></title>
             <link>http://mathtango.blogspot.com/2017/03/icym-any-of-these.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2017/03/icym-any-of-these.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <pubDate>Fri, 31 Mar 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fountain Channels]]></title>
+            <link>http://mathtourist.blogspot.com/2017/03/fountain-channels.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/03/fountain-channels.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 31 Mar 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7901,13 +7915,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/YgHjnQAh3VI/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Wed, 22 Mar 2017 14:04:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s New in MATLAB R2017a?]]></title>
-            <link>https://nickhigham.wordpress.com/2017/03/22/whats-new-in-matlab-r2017a/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/03/22/whats-new-in-matlab-r2017a/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Wed, 22 Mar 2017 13:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I salumi sono dannosi?]]></title>
