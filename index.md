@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Think it&#39;s easy to tell if two polynomials are the same? Read <a href="https://twitter.com/jeremyjkun">@jeremyjkun</a>&#39;s Testing Polynomial Equality!<a href="https://t.co/P1CYUfV7PW">https://t.co/P1CYUfV7PW</a> …<a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/856677868826439680">April 25, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/rmathematicus">@rmathematicus</a> is The Man from Nowhere <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a> <a href="https://t.co/CdCciUPNr7">https://t.co/CdCciUPNr7</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/855405431912615936">April 21, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Jim Propp&#39;s latest: <a href="https://t.co/LtZsnsfHxp">https://t.co/LtZsnsfHxp</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/854151096691982336">April 18, 2017</a></blockquote>
