@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Graham&#39;s Number for middle-schoolers:<a href="https://t.co/Cgr5uLie0d">https://t.co/Cgr5uLie0d</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/857212693702430721">April 26, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Ben Orlin introducing series as only he could: <a href="https://t.co/4rA7XFXPxx">https://t.co/4rA7XFXPxx</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/857200107363717120">April 26, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Think it&#39;s easy to tell if two polynomials are the same? Read <a href="https://twitter.com/jeremyjkun">@jeremyjkun</a>&#39;s Testing Polynomial Equality!<a href="https://t.co/P1CYUfV7PW">https://t.co/P1CYUfV7PW</a> …<a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/856677868826439680">April 25, 2017</a></blockquote>
