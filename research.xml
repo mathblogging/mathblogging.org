@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Apr 2017 18:03:48 GMT</lastBuildDate>
-        <pubDate>Fri, 28 Apr 2017 18:03:45 GMT</pubDate>
+        <lastBuildDate>Fri, 28 Apr 2017 18:33:12 GMT</lastBuildDate>
+        <pubDate>Fri, 28 Apr 2017 18:33:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[binary number]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">binary number</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 28 Apr 2017 18:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dyadic rational number]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">dyadic rational number</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 28 Apr 2017 18:09:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Camembert day?!]]></title>
             <link>https://xianblog.wordpress.com/2017/04/28/camembert-day/</link>
@@ -77,13 +91,6 @@
             <guid isPermaLink="false">http://www.physicspages.com/2017/04/28/eigenvalues-of-two-dimensional-angular-momentum/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
             <pubDate>Fri, 28 Apr 2017 10:38:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[shrinking lemma]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">shrinking lemma</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 28 Apr 2017 09:59:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EGMO 2017 -- Parte seconda]]></title>
@@ -234,8 +241,8 @@
         </item>
         <item>
             <title><![CDATA[Le retour des abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50692</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50692</guid>
+            <link>https://freakonometrics.hypotheses.org/50692</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50692</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 27 Apr 2017 06:18:44 GMT</pubDate>
         </item>
@@ -297,8 +304,8 @@
         </item>
         <item>
             <title><![CDATA[Maudites Abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50673</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50673</guid>
+            <link>https://freakonometrics.hypotheses.org/50673</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50673</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 15:21:50 GMT</pubDate>
         </item>
@@ -339,8 +346,8 @@
         </item>
         <item>
             <title><![CDATA[Visualiser les résultats du premier tour]]></title>
-            <link>http://freakonometrics.hypotheses.org/50657</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50657</guid>
+            <link>https://freakonometrics.hypotheses.org/50657</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50657</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 08:10:10 GMT</pubDate>
         </item>
@@ -833,8 +840,8 @@ Having worked in manufacturing..."]]></title>
         </item>
         <item>
             <title><![CDATA[Débat sur les prévisions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50633</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50633</guid>
+            <link>https://freakonometrics.hypotheses.org/50633</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50633</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 05:30:12 GMT</pubDate>
         </item>
@@ -852,8 +859,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[CartoStats, la Cartographie Statistique]]></title>
-            <link>http://freakonometrics.hypotheses.org/50553</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50553</guid>
+            <link>https://freakonometrics.hypotheses.org/50553</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50553</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 03:38:59 GMT</pubDate>
         </item>
@@ -919,6 +926,13 @@ in...]]></title>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2017/04/21/the-man-from-nowhere/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Fri, 21 Apr 2017 11:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vimtex不能运行latexmk的原因]]></title>
+            <link>https://lttt.blog.ustc.edu.cn/2017/04/21/vimtexbunengyunxinglatexmkdeyuanyin.html</link>
+            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/2017/04/21/vimtexbunengyunxinglatexmkdeyuanyin.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Fri, 21 Apr 2017 09:13:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Random Feature Expansions for Deep Gaussian Processes / AutoGP: Exploring the Capabilities and Limitations of Gaussian Process Models - implementation -]]></title>
@@ -1370,8 +1384,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[Visualizing (censored) lifetime distributions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50629</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50629</guid>
+            <link>https://freakonometrics.hypotheses.org/50629</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50629</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 01:50:44 GMT</pubDate>
         </item>
@@ -1708,8 +1722,8 @@ Katharina Grosse at Gagosian.]]></title>
         </item>
         <item>
             <title><![CDATA[Sondages, intentions de vote et “vote utile”]]></title>
-            <link>http://freakonometrics.hypotheses.org/50619</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50619</guid>
+            <link>https://freakonometrics.hypotheses.org/50619</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50619</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 12 Apr 2017 21:12:03 GMT</pubDate>
         </item>
@@ -1740,6 +1754,13 @@ Katharina Grosse at Gagosian.]]></title>
             <guid isPermaLink="false">https://punkrockor.com/2017/04/12/a-digital-device-policy-in-the-classroom/</guid>
             <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
             <pubDate>Wed, 12 Apr 2017 15:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基于学习曲线的一个销售预测模型]]></title>
+            <link>https://lttt.blog.ustc.edu.cn/2017/04/12/jiyuxuexiquxiandeyigexiaoshouyucemoxing.html</link>
+            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/2017/04/12/jiyuxuexiquxiandeyigexiaoshouyucemoxing.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Wed, 12 Apr 2017 14:12:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pizzagate update!  Response from the Cornell University Media Relations Office]]></title>
@@ -2116,6 +2137,13 @@ Path 153, Row 109 2017-03-06 at 06:29:11 GMT...]]></title>
             <pubDate>Sat, 08 Apr 2017 05:00:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[推荐一个参考文献整理插件]]></title>
+            <link>https://lttt.blog.ustc.edu.cn/2017/04/08/tuijianyigecankaowenxianzhenglichajian.html</link>
+            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/2017/04/08/tuijianyigecankaowenxianzhenglichajian.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Sat, 08 Apr 2017 01:22:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turing Award 2016]]></title>
             <link>https://rjlipton.wordpress.com/2017/04/07/turing-award-2016/</link>
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2017/04/07/turing-award-2016/</guid>
@@ -2252,8 +2280,8 @@ Albert Fathi, François Laudenbach, Valentin...]]></title>
         </item>
         <item>
             <title><![CDATA[C’est normal ! (partie 1)    et si la normalité n’existait pas?]]></title>
-            <link>http://freakonometrics.hypotheses.org/50412</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50412</guid>
+            <link>https://freakonometrics.hypotheses.org/50412</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50412</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 06 Apr 2017 01:31:20 GMT</pubDate>
         </item>
