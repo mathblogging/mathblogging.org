@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The Chaos Game via Numberphile: <a href="https://t.co/ttt5SjXVn9">https://t.co/ttt5SjXVn9</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/858294814189793281">April 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/3Blue1Brown">@3Blue1Brown</a> <br>New videos every day for the next 10 days, which you can track in this playlist: <a href="https://t.co/wuJKOc4v53">https://t.co/wuJKOc4v53</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/858060785569984513">April 28, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Mike Lawler throws down a gauntlet to math lovers/communicators: <a href="https://t.co/Aj1PxWbBye">https://t.co/Aj1PxWbBye</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/857335994428923909">April 26, 2017</a></blockquote>
