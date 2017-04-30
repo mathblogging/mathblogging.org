@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Apr 2017 02:03:46 GMT</lastBuildDate>
-        <pubDate>Sun, 30 Apr 2017 02:03:44 GMT</pubDate>
+        <lastBuildDate>Sun, 30 Apr 2017 02:33:14 GMT</lastBuildDate>
+        <pubDate>Sun, 30 Apr 2017 02:33:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -65,25 +65,6 @@
             <pubDate>Sun, 08 Jan 2017 18:27:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Think it's easy to tell if two polynomials are the same? Read @jeremyjkun's Testing Polynomial Equality!
-https://t.co/P1CYUfV7PW …
-#mbpick]]></description>
-            <guid isPermaLink="false">https://jeremykun.com/2017/04/24/testing-polynomial-equality/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Tue, 25 Apr 2017 01:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <description><![CDATA[Prerequisites
-https://t.co/PlcFyGMtfO
-@tslumley's take on the Calculus-before-Statistics debate
-#math #mathchat #statschat #mbpick]]></description>
-            <guid isPermaLink="false">http://notstatschat.tumblr.com/post/158976786141/prerequisites</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sun, 02 Apr 2017 12:42:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[The Chaos Game via Numberphile: https://t.co/ttt5SjXVn9 #mbpick]]></description>
             <guid isPermaLink="false">http://ow.ly/6txh30bhIEN</guid>
@@ -91,11 +72,12 @@ https://t.co/PlcFyGMtfO
             <pubDate>Sat, 29 Apr 2017 12:20:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[A fascinating story that touches on many issues in today's math research ecosystem #mbpicks https://t.co/BKTVPUeQ54]]></description>
-            <guid isPermaLink="false">https://www.quantamagazine.org/20170328-statistician-proves-gaussian-correlation-inequality/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Mon, 03 Apr 2017 10:08:29 GMT</pubDate>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[#mbpick RT @3Blue1Brown 
+New videos every day for the next 10 days, which you can track in this playlist: https://t.co/wuJKOc4v53]]></description>
+            <guid isPermaLink="false">http://3b1b.co/calculus</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Fri, 28 Apr 2017 20:50:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -105,12 +87,11 @@ https://t.co/PlcFyGMtfO
             <pubDate>Wed, 26 Apr 2017 20:50:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Graham's Number for middle-schoolers:
-https://t.co/Cgr5uLie0d #mbpick]]></description>
-            <guid isPermaLink="false">https://samjshah.com/2017/04/26/grahams-number/</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 26 Apr 2017 12:40:07 GMT</pubDate>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[A fascinating story that touches on many issues in today's math research ecosystem #mbpicks https://t.co/BKTVPUeQ54]]></description>
+            <guid isPermaLink="false">https://www.quantamagazine.org/20170328-statistician-proves-gaussian-correlation-inequality/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Mon, 03 Apr 2017 10:08:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -171,12 +152,31 @@ The new video from Numberphile on the Collatz conjecture is terrific. https://t.
             <pubDate>Thu, 30 Mar 2017 00:20:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Think it's easy to tell if two polynomials are the same? Read @jeremyjkun's Testing Polynomial Equality!
+https://t.co/P1CYUfV7PW …
+#mbpick]]></description>
+            <guid isPermaLink="false">https://jeremykun.com/2017/04/24/testing-polynomial-equality/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Tue, 25 Apr 2017 01:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[Prerequisites
+https://t.co/PlcFyGMtfO
+@tslumley's take on the Calculus-before-Statistics debate
+#math #mathchat #statschat #mbpick]]></description>
+            <guid isPermaLink="false">http://notstatschat.tumblr.com/post/158976786141/prerequisites</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sun, 02 Apr 2017 12:42:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[#mbpick RT @3Blue1Brown 
-New videos every day for the next 10 days, which you can track in this playlist: https://t.co/wuJKOc4v53]]></description>
-            <guid isPermaLink="false">http://3b1b.co/calculus</guid>
+            <description><![CDATA[Graham's Number for middle-schoolers:
+https://t.co/Cgr5uLie0d #mbpick]]></description>
+            <guid isPermaLink="false">https://samjshah.com/2017/04/26/grahams-number/</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Fri, 28 Apr 2017 20:50:07 GMT</pubDate>
+            <pubDate>Wed, 26 Apr 2017 12:40:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
