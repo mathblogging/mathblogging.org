@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Apr 2017 03:03:55 GMT</lastBuildDate>
-        <pubDate>Sun, 30 Apr 2017 03:03:52 GMT</pubDate>
+        <lastBuildDate>Sun, 30 Apr 2017 03:33:17 GMT</lastBuildDate>
+        <pubDate>Sun, 30 Apr 2017 03:33:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Converting to blogdown]]></title>
+            <link>/hyndsight/blogdown/</link>
+            <guid isPermaLink="false">/hyndsight/blogdown/</guid>
+            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On This Day in Math - April 30]]></title>
             <link>http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-30.html</link>
@@ -675,8 +682,8 @@
         </item>
         <item>
             <title><![CDATA[Le retour des abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50692</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50692</guid>
+            <link>https://freakonometrics.hypotheses.org/50692</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50692</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 27 Apr 2017 06:18:44 GMT</pubDate>
         </item>
@@ -836,8 +843,8 @@
         </item>
         <item>
             <title><![CDATA[Maudites Abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50673</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50673</guid>
+            <link>https://freakonometrics.hypotheses.org/50673</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50673</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 15:21:50 GMT</pubDate>
         </item>
@@ -948,8 +955,8 @@
         </item>
         <item>
             <title><![CDATA[Visualiser les résultats du premier tour]]></title>
-            <link>http://freakonometrics.hypotheses.org/50657</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50657</guid>
+            <link>https://freakonometrics.hypotheses.org/50657</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50657</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 08:10:10 GMT</pubDate>
         </item>
@@ -1330,6 +1337,13 @@ Math life is mostly just feeling awkward about the plural form of the word...]]>
             <pubDate>Tue, 25 Apr 2017 05:34:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Grouped functional time series forecasting: an application to age-specific mortality rates]]></title>
+            <link>/publications/grouped-functional-time-series-forecasting-an-application-to-age-specific-mortality-rates/</link>
+            <guid isPermaLink="false">/publications/grouped-functional-time-series-forecasting-an-application-to-age-specific-mortality-rates/</guid>
+            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
+            <pubDate>Tue, 25 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Every Handout from NCTM 2017]]></title>
             <link>http://feedproxy.google.com/~r/dydan1/~3/IAr074NvSKw/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/dydan1/~3/IAr074NvSKw/</guid>
@@ -1547,17 +1561,17 @@ Math life is mostly just feeling awkward about the plural form of the word...]]>
             <pubDate>Mon, 24 Apr 2017 11:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Math Settings Info]]></title>
-            <link>http://mathtans.blogspot.com/2017/04/math-settings-info.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-settings-info.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 24 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Columbia River Vista]]></title>
             <link>http://mathtourist.blogspot.com/2017/04/columbia-river-vista.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/columbia-river-vista.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 24 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math Settings Info]]></title>
+            <link>http://mathtans.blogspot.com/2017/04/math-settings-info.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-settings-info.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 24 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1596,17 +1610,17 @@ Math life is mostly just feeling awkward about the plural form of the word...]]>
             <pubDate>Mon, 24 Apr 2017 05:00:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.7.19]]></title>
-            <link>http://images.math.cnrs.fr/-4222.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4222.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 24 Apr 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[#ICLR2017 Monday Morning Program]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/H71kftqD2yY/iclr2017-monday-morning-program.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/H71kftqD2yY/iclr2017-monday-morning-program.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 24 Apr 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.7.19]]></title>
+            <link>http://images.math.cnrs.fr/-4222.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4222.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 24 Apr 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2066,8 +2080,8 @@ Math life is mostly just feeling awkward about the plural form of the word...]]>
         </item>
         <item>
             <title><![CDATA[Débat sur les prévisions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50633</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50633</guid>
+            <link>https://freakonometrics.hypotheses.org/50633</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50633</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 05:30:12 GMT</pubDate>
         </item>
@@ -2092,8 +2106,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[CartoStats, la Cartographie Statistique]]></title>
-            <link>http://freakonometrics.hypotheses.org/50553</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50553</guid>
+            <link>https://freakonometrics.hypotheses.org/50553</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50553</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 03:38:59 GMT</pubDate>
         </item>
@@ -2966,6 +2980,13 @@ in...]]></title>
             <pubDate>Tue, 18 Apr 2017 00:06:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Follow-up Forecasting Forum]]></title>
+            <link>/seminars/Eindhoven2017/</link>
+            <guid isPermaLink="false">/seminars/Eindhoven2017/</guid>
+            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
+            <pubDate>Tue, 18 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Math is Like Science, Only Proof-y]]></title>
             <link>http://blogs.ams.org/phdplus/2017/04/17/math-is-like-science-only-proof-y/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=math-is-like-science-only-proof-y</link>
             <guid isPermaLink="false">http://blogs.ams.org/phdplus/2017/04/17/math-is-like-science-only-proof-y/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=math-is-like-science-only-proof-y</guid>
@@ -2973,17 +2994,17 @@ in...]]></title>
             <pubDate>Mon, 17 Apr 2017 23:55:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - April 18]]></title>
-            <link>http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Character Bible]]></title>
             <link>http://mathtans.blogspot.com/2017/04/math-character-bible.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-character-bible.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - April 18]]></title>
+            <link>http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3226,8 +3247,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[Visualizing (censored) lifetime distributions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50629</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50629</guid>
+            <link>https://freakonometrics.hypotheses.org/50629</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50629</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 01:50:44 GMT</pubDate>
         </item>
@@ -4208,8 +4229,8 @@ Katharina Grosse at Gagosian.]]></title>
         </item>
         <item>
             <title><![CDATA[Sondages, intentions de vote et “vote utile”]]></title>
-            <link>http://freakonometrics.hypotheses.org/50619</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50619</guid>
+            <link>https://freakonometrics.hypotheses.org/50619</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50619</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 12 Apr 2017 21:12:03 GMT</pubDate>
         </item>
@@ -4908,17 +4929,17 @@ What do you get when you cross a Fat...]]></title>
             <pubDate>Mon, 10 Apr 2017 11:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Weather Garden Star]]></title>
-            <link>http://mathtourist.blogspot.com/2017/04/weather-garden-star.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/weather-garden-star.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 10 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S8.300 - Rhys's Pieces]]></title>
             <link>http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/s8300-rhyss-pieces.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 10 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weather Garden Star]]></title>
+            <link>http://mathtourist.blogspot.com/2017/04/weather-garden-star.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/weather-garden-star.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 10 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4929,17 +4950,17 @@ What do you get when you cross a Fat...]]></title>
             <pubDate>Mon, 10 Apr 2017 09:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Mathematical Pirate and The Quotient Rule]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/mathematical-pirate-quotient-rule/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-pirate-quotient-rule/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 10 Apr 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mercator Projection All the Way Down]]></title>
             <link>http://www.madmath.com/2017/04/mercator-projection-all-way-down.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/04/mercator-projection-all-way-down.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 10 Apr 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mathematical Pirate and The Quotient Rule]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/mathematical-pirate-quotient-rule/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-pirate-quotient-rule/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 10 Apr 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4994,17 +5015,17 @@ Path 153, Row 109 2017-03-06 at 06:29:11 GMT...]]></title>
             <pubDate>Mon, 10 Apr 2017 00:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cake cutting part 3]]></title>
-            <link>http://datagenetics.com/blog/april32017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/april32017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS More or Less: Could North Korea Wipe out 90% of Americans?]]></title>
             <link>http://www.bbc.co.uk/programmes/p04zd388</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p04zd388</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cake cutting part 3]]></title>
+            <link>http://datagenetics.com/blog/april32017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/april32017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5774,8 +5795,8 @@ Albert Fathi, François Laudenbach, Valentin...]]></title>
         </item>
         <item>
             <title><![CDATA[C’est normal ! (partie 1)    et si la normalité n’existait pas?]]></title>
-            <link>http://freakonometrics.hypotheses.org/50412</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50412</guid>
+            <link>https://freakonometrics.hypotheses.org/50412</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50412</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 06 Apr 2017 01:31:20 GMT</pubDate>
         </item>
@@ -6047,9 +6068,9 @@ Albert Fathi, François Laudenbach, Valentin...]]></title>
         </item>
         <item>
             <title><![CDATA[Software for honours students]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/a_xXjbicnqw/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/a_xXjbicnqw/</guid>
-            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
+            <link>/hyndsight/software-for-honours-students/</link>
+            <guid isPermaLink="false">/hyndsight/software-for-honours-students/</guid>
+            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
             <pubDate>Tue, 04 Apr 2017 23:00:58 GMT</pubDate>
         </item>
         <item>
@@ -6316,6 +6337,13 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Tue, 04 Apr 2017 00:13:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Software for honours students]]></title>
+            <link>/seminars/2017-04-04-software-for-honours-students/</link>
+            <guid isPermaLink="false">/seminars/2017-04-04-software-for-honours-students/</guid>
+            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
+            <pubDate>Tue, 04 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cryptarithmetic Puzzle #82 — Gonzaga vs UNC]]></title>
             <link>http://mathmisery.com/wp/2017/04/03/cryptarithmetic-puzzle-82/</link>
             <guid isPermaLink="false">http://mathmisery.com/wp/2017/04/03/cryptarithmetic-puzzle-82/</guid>
@@ -6463,17 +6491,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Mon, 03 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No, we probably don’t live in a computer simulation]]></title>
-            <link>http://www.madmath.com/2017/04/no-we-probably-dont-live-in-computer.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/04/no-we-probably-dont-live-in-computer.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 03 Apr 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Mathematical Ninja lets the student investigate… cube roots]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 03 Apr 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No, we probably don’t live in a computer simulation]]></title>
+            <link>http://www.madmath.com/2017/04/no-we-probably-dont-live-in-computer.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/04/no-we-probably-dont-live-in-computer.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 03 Apr 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7275,9 +7303,9 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_33M...]]></title>
         </item>
         <item>
             <title><![CDATA[Monash Rmarkdown templates on github]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/_Tq_qdhRzGQ/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/_Tq_qdhRzGQ/</guid>
-            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
+            <link>/hyndsight/monash-rmarkdown-templates-on-github/</link>
+            <guid isPermaLink="false">/hyndsight/monash-rmarkdown-templates-on-github/</guid>
+            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
             <pubDate>Thu, 30 Mar 2017 21:53:14 GMT</pubDate>
         </item>
         <item>
