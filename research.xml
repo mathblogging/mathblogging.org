@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 May 2017 22:33:04 GMT</lastBuildDate>
-        <pubDate>Tue, 02 May 2017 22:33:02 GMT</pubDate>
+        <lastBuildDate>Tue, 02 May 2017 23:03:46 GMT</lastBuildDate>
+        <pubDate>Tue, 02 May 2017 23:03:44 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -21,6 +21,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/GwAWdp5jbzM/designing-neural-network-architectures.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Tue, 02 May 2017 22:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thoughts on the murderer outside my building]]></title>
+            <link>http://www.scottaaronson.com/blog/?p=3242</link>
+            <guid isPermaLink="false">http://www.scottaaronson.com/blog/?p=3242</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Tue, 02 May 2017 21:57:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Perfect Teacher Move to Support LGBTQ Students]]></title>
@@ -432,7 +439,7 @@
             <title><![CDATA[Converting to blogdown]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</guid>
-            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
+            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -937,13 +944,6 @@ Having worked in manufacturing..."]]></title>
             <pubDate>Tue, 25 Apr 2017 01:41:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grouped functional time series forecasting: an application to age-specific mortality rates]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/JAwufmLb2HY/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/JAwufmLb2HY/</guid>
-            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
-            <pubDate>Tue, 25 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Super 18 Predictions for Round 10]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/iLaW3Qnj494/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/iLaW3Qnj494/</guid>
@@ -1014,17 +1014,17 @@ Having worked in manufacturing..."]]></title>
             <pubDate>Mon, 24 Apr 2017 13:00:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dispute over analysis of school quality and home prices shows social science is hard]]></title>
-            <link>http://junkcharts.typepad.com/numbersruleyourworld/2017/04/dispute-over-analysis-of-school-quality-and-home-prices-shows-social-science-is-hard.html</link>
-            <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2017/04/dispute-over-analysis-of-school-quality-and-home-prices-shows-social-science-is-hard.html</guid>
-            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
-            <pubDate>Mon, 24 Apr 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A duopoly never provides “sufficient competition”]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/04/a-duopoly-never-provides-sufficient.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/04/a-duopoly-never-provides-sufficient.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 24 Apr 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dispute over analysis of school quality and home prices shows social science is hard]]></title>
+            <link>http://junkcharts.typepad.com/numbersruleyourworld/2017/04/dispute-over-analysis-of-school-quality-and-home-prices-shows-social-science-is-hard.html</link>
+            <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2017/04/dispute-over-analysis-of-school-quality-and-home-prices-shows-social-science-is-hard.html</guid>
+            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
             <pubDate>Mon, 24 Apr 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1703,13 +1703,6 @@ in...]]></title>
             <guid isPermaLink="false">https://quantumfrontiers.com/2017/04/17/the-entangled-fabric-of-space/</guid>
             <dc:creator><![CDATA[Quantum Frontiers]]></dc:creator>
             <pubDate>Tue, 18 Apr 2017 00:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Follow-up Forecasting Forum]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/iSxKBEq3iY4/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/iSxKBEq3iY4/</guid>
-            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
-            <pubDate>Tue, 18 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[F2F: A Library For Fast Kernel Expansions]]></title>
@@ -2758,7 +2751,7 @@ Albert Fathi, François Laudenbach, Valentin...]]></title>
             <title><![CDATA[Software for honours students]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/a_xXjbicnqw/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/a_xXjbicnqw/</guid>
-            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
+            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
             <pubDate>Tue, 04 Apr 2017 23:00:58 GMT</pubDate>
         </item>
         <item>
@@ -2862,13 +2855,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <guid isPermaLink="false">https://errorstatistics.com/2017/04/03/announcement-columbia-workshop-on-probability-and-learning-april-8/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Tue, 04 Apr 2017 01:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Software for honours students]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/QAITzH-Ah84/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/QAITzH-Ah84/</guid>
-            <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
-            <pubDate>Tue, 04 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lensless Imaging with Compressive Ultrafast Sensing]]></title>
