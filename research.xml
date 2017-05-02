@@ -4,16 +4,37 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 May 2017 15:33:28 GMT</lastBuildDate>
-        <pubDate>Tue, 02 May 2017 15:33:26 GMT</pubDate>
+        <lastBuildDate>Tue, 02 May 2017 16:03:42 GMT</lastBuildDate>
+        <pubDate>Tue, 02 May 2017 16:03:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Cauchy, Benford, and a problem with NHST]]></title>
+            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/nszKU2ayUb0/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/nszKU2ayUb0/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Tue, 02 May 2017 15:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[proof of negation]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">proof of negation</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 02 May 2017 15:38:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A small fact about the Petersen graph]]></title>
             <link>https://cameroncounts.wordpress.com/2017/05/02/a-small-fact-about-the-petersen-graph/</link>
             <guid isPermaLink="false">https://cameroncounts.wordpress.com/2017/05/02/a-small-fact-about-the-petersen-graph/</guid>
             <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
             <pubDate>Tue, 02 May 2017 15:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proportion of people alive in 1945 that are still alive]]></title>
+            <link>https://freakonometrics.hypotheses.org/50695</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50695</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Tue, 02 May 2017 14:26:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Bolt from the Blue]]></title>
@@ -359,17 +380,17 @@
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (35)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Converting to blogdown]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</guid>
             <dc:creator><![CDATA[Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (35)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -654,8 +675,8 @@
         </item>
         <item>
             <title><![CDATA[Le retour des abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50692</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50692</guid>
+            <link>https://freakonometrics.hypotheses.org/50692</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50692</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 27 Apr 2017 06:18:44 GMT</pubDate>
         </item>
@@ -703,8 +724,8 @@
         </item>
         <item>
             <title><![CDATA[Maudites Abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50673</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50673</guid>
+            <link>https://freakonometrics.hypotheses.org/50673</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50673</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 15:21:50 GMT</pubDate>
         </item>
@@ -745,8 +766,8 @@
         </item>
         <item>
             <title><![CDATA[Visualiser les résultats du premier tour]]></title>
-            <link>http://freakonometrics.hypotheses.org/50657</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50657</guid>
+            <link>https://freakonometrics.hypotheses.org/50657</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50657</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 08:10:10 GMT</pubDate>
         </item>
@@ -1183,8 +1204,8 @@ Having worked in manufacturing..."]]></title>
         </item>
         <item>
             <title><![CDATA[Débat sur les prévisions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50633</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50633</guid>
+            <link>https://freakonometrics.hypotheses.org/50633</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50633</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 05:30:12 GMT</pubDate>
         </item>
@@ -1202,8 +1223,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[CartoStats, la Cartographie Statistique]]></title>
-            <link>http://freakonometrics.hypotheses.org/50553</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50553</guid>
+            <link>https://freakonometrics.hypotheses.org/50553</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50553</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 03:38:59 GMT</pubDate>
         </item>
@@ -1677,13 +1698,6 @@ in...]]></title>
             <pubDate>Mon, 17 Apr 2017 21:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[If Google achieves superintelligence, time zones will be its Achilles heel]]></title>
-            <link>http://www.scottaaronson.com/blog/?p=3221</link>
-            <guid isPermaLink="false">http://www.scottaaronson.com/blog/?p=3221</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 20:38:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fitting hierarchical GLMs in package X is like driving car Y]]></title>
             <link>http://andrewgelman.com/2017/04/17/hierarchical-glm-like-driving-car/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/04/17/hierarchical-glm-like-driving-car/</guid>
@@ -1748,8 +1762,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[Visualizing (censored) lifetime distributions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50629</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50629</guid>
+            <link>https://freakonometrics.hypotheses.org/50629</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50629</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 01:50:44 GMT</pubDate>
         </item>
@@ -2065,8 +2079,8 @@ Katharina Grosse at Gagosian.]]></title>
         </item>
         <item>
             <title><![CDATA[Sondages, intentions de vote et “vote utile”]]></title>
-            <link>http://freakonometrics.hypotheses.org/50619</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50619</guid>
+            <link>https://freakonometrics.hypotheses.org/50619</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50619</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 12 Apr 2017 21:12:03 GMT</pubDate>
         </item>
@@ -2616,8 +2630,8 @@ Albert Fathi, François Laudenbach, Valentin...]]></title>
         </item>
         <item>
             <title><![CDATA[C’est normal ! (partie 1)    et si la normalité n’existait pas?]]></title>
-            <link>http://freakonometrics.hypotheses.org/50412</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50412</guid>
+            <link>https://freakonometrics.hypotheses.org/50412</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50412</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 06 Apr 2017 01:31:20 GMT</pubDate>
         </item>
