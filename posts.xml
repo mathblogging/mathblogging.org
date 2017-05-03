@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 May 2017 04:33:14 GMT</lastBuildDate>
-        <pubDate>Wed, 03 May 2017 04:33:11 GMT</pubDate>
+        <lastBuildDate>Wed, 03 May 2017 05:02:59 GMT</lastBuildDate>
+        <pubDate>Wed, 03 May 2017 05:02:56 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Computing optimal play for the greedy coins game]]></title>
+            <link>https://mathlesstraveled.com/2017/05/02/computing-optimal-play-for-the-greedy-coins-game/</link>
+            <guid isPermaLink="false">https://mathlesstraveled.com/2017/05/02/computing-optimal-play-for-the-greedy-coins-game/</guid>
+            <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
+            <pubDate>Wed, 03 May 2017 04:53:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prior information, not prior belief]]></title>
             <link>http://andrewgelman.com/2017/05/02/prior-information-not-prior-belief-2/</link>
@@ -742,6 +749,13 @@
             <guid isPermaLink="false">http://retractionwatch.com/2017/05/01/university-suggests-journal-correct-diabetes-paper-publisher-retracts/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Mon, 01 May 2017 13:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[使用Mp3tag批量修改音乐的id3标签]]></title>
+            <link>https://lttt.blog.ustc.edu.cn/2017/05/01/shiyongmp3tagpiliangxiugaiyinledeid3biaoqian.html</link>
+            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/2017/05/01/shiyongmp3tagpiliangxiugaiyinledeid3biaoqian.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Mon, 01 May 2017 13:18:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[xkcd: Here to Help]]></title>
@@ -2768,17 +2782,17 @@ Math life is mostly just feeling awkward about the plural form of the word...]]>
             <pubDate>Mon, 24 Apr 2017 11:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Math Settings Info]]></title>
-            <link>http://mathtans.blogspot.com/2017/04/math-settings-info.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-settings-info.html</guid>
-            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
-            <pubDate>Mon, 24 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Columbia River Vista]]></title>
             <link>http://mathtourist.blogspot.com/2017/04/columbia-river-vista.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/columbia-river-vista.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 24 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math Settings Info]]></title>
+            <link>http://mathtans.blogspot.com/2017/04/math-settings-info.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-settings-info.html</guid>
+            <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
             <pubDate>Mon, 24 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3020,17 +3034,17 @@ Math life is mostly just feeling awkward about the plural form of the word...]]>
             <pubDate>Sun, 23 Apr 2017 12:30:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mount Vernon]]></title>
-            <link>http://mathtourist.blogspot.com/2017/04/mount-vernon.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/mount-vernon.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 23 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Truth, Certainty, Explanation... and Mathematics]]></title>
             <link>http://math-frolic.blogspot.com/2017/04/truth-certainty-explanation-and.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/04/truth-certainty-explanation-and.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 23 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mount Vernon]]></title>
+            <link>http://mathtourist.blogspot.com/2017/04/mount-vernon.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/mount-vernon.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 23 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3452,6 +3466,13 @@ in...]]></title>
             <pubDate>Fri, 21 Apr 2017 10:03:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vimtex不能运行latexmk的原因]]></title>
+            <link>https://lttt.blog.ustc.edu.cn/2017/04/21/vimtexbunengyunxinglatexmkdeyuanyin.html</link>
+            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/2017/04/21/vimtexbunengyunxinglatexmkdeyuanyin.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Fri, 21 Apr 2017 09:13:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Random Feature Expansions for Deep Gaussian Processes / AutoGP: Exploring the Capabilities and Limitations of Gaussian Process Models - implementation -]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SkrRIHD3siU/random-feature-expansions-for-deep.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SkrRIHD3siU/random-feature-expansions-for-deep.html</guid>
@@ -3522,16 +3543,16 @@ in...]]></title>
             <pubDate>Fri, 21 Apr 2017 02:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less:The death rate of white Americans – What’s going on?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p050rsx2</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p050rsx2</guid>
+            <title><![CDATA[Living standards and Kate Bush maths]]></title>
+            <link>http://www.bbc.co.uk/programmes/p050rsl1</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p050rsl1</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 21 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Living standards and Kate Bush maths]]></title>
-            <link>http://www.bbc.co.uk/programmes/p050rsl1</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p050rsl1</guid>
+            <title><![CDATA[WS More or Less:The death rate of white Americans – What’s going on?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p050rsx2</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p050rsx2</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 21 Apr 2017 00:00:00 GMT</pubDate>
         </item>
@@ -4208,17 +4229,17 @@ in...]]></title>
             <pubDate>Mon, 17 Apr 2017 23:55:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - April 18]]></title>
-            <link>http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Character Bible]]></title>
             <link>http://mathtans.blogspot.com/2017/04/math-character-bible.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-character-bible.html</guid>
             <dc:creator><![CDATA[Any ~Qs]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - April 18]]></title>
+            <link>http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5069,16 +5090,16 @@ real✻ cheese!!
             <pubDate>Fri, 14 Apr 2017 01:08:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Economics of Overbooking]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0500yjw</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0500yjw</guid>
+            <title><![CDATA[WS More or Less: The Ignorance Test]]></title>
+            <link>http://www.bbc.co.uk/programmes/p0500z8p</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0500z8p</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 14 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: The Ignorance Test]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0500z8p</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0500z8p</guid>
+            <title><![CDATA[Economics of Overbooking]]></title>
+            <link>http://www.bbc.co.uk/programmes/p0500yjw</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0500yjw</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 14 Apr 2017 00:00:00 GMT</pubDate>
         </item>
@@ -5468,6 +5489,13 @@ Katharina Grosse at Gagosian.]]></title>
             <guid isPermaLink="false">http://changetheequation.org/blog/could-shortage-career-and-technical-educators-slow-progress-career-readiness</guid>
             <dc:creator><![CDATA[Change the Equation]]></dc:creator>
             <pubDate>Wed, 12 Apr 2017 14:49:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基于学习曲线的一个销售预测模型]]></title>
+            <link>https://lttt.blog.ustc.edu.cn/2017/04/12/jiyuxuexiquxiandeyigexiaoshouyucemoxing.html</link>
+            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/2017/04/12/jiyuxuexiquxiandeyigexiaoshouyucemoxing.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Wed, 12 Apr 2017 14:12:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make Math Easy - 10 Math Shortcuts]]></title>
@@ -6096,17 +6124,17 @@ Path 153, Row 109 2017-03-06 at 06:29:11 GMT...]]></title>
             <pubDate>Mon, 10 Apr 2017 00:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cake cutting part 3]]></title>
-            <link>http://datagenetics.com/blog/april32017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/april32017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS More or Less: Could North Korea Wipe out 90% of Americans?]]></title>
             <link>http://www.bbc.co.uk/programmes/p04zd388</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p04zd388</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cake cutting part 3]]></title>
+            <link>http://datagenetics.com/blog/april32017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/april32017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6472,6 +6500,13 @@ Path 153, Row 109 2017-03-06 at 06:29:11 GMT...]]></title>
             <guid isPermaLink="false">http://mathequalslove.blogspot.com/2017/04/new-timers-thanks-to-generous-donor.html</guid>
             <dc:creator><![CDATA[Math = Love]]></dc:creator>
             <pubDate>Sat, 08 Apr 2017 02:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推荐一个参考文献整理插件]]></title>
+            <link>https://lttt.blog.ustc.edu.cn/2017/04/08/tuijianyigecankaowenxianzhenglichajian.html</link>
+            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/2017/04/08/tuijianyigecankaowenxianzhenglichajian.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Sat, 08 Apr 2017 01:22:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turing Award 2016]]></title>
@@ -7467,17 +7502,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <pubDate>Mon, 03 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Mathematical Ninja lets the student investigate… cube roots]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 03 Apr 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No, we probably don’t live in a computer simulation]]></title>
             <link>http://www.madmath.com/2017/04/no-we-probably-dont-live-in-computer.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/04/no-we-probably-dont-live-in-computer.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 03 Apr 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mathematical Ninja lets the student investigate… cube roots]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-lets-student-investigate-cube-roots/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 03 Apr 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7731,13 +7766,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_4...]]></title>
             <guid isPermaLink="false">http://www.angelostella.it/come-potenziare-lintelligenza-numerica/</guid>
             <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
             <pubDate>Sun, 02 Apr 2017 08:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does Kaggle use Log-loss?]]></title>
-            <link>http://angrystatistician.blogspot.com/2017/04/why-does-kaggle-use-log-loss.html</link>
-            <guid isPermaLink="false">http://angrystatistician.blogspot.com/2017/04/why-does-kaggle-use-log-loss.html</guid>
-            <dc:creator><![CDATA[The Angry Statistician]]></dc:creator>
-            <pubDate>Sun, 02 Apr 2017 04:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
