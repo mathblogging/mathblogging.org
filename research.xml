@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 May 2017 09:33:27 GMT</lastBuildDate>
-        <pubDate>Sat, 06 May 2017 09:33:25 GMT</pubDate>
+        <lastBuildDate>Sat, 06 May 2017 10:02:38 GMT</lastBuildDate>
+        <pubDate>Sat, 06 May 2017 10:02:35 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Two-dimensional harmonic oscillator – Part 2: Series solution]]></title>
+            <link>http://www.physicspages.com/2017/05/06/two-dimensional-harmonic-oscillator-part-2-series-solution/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2017/05/06/two-dimensional-harmonic-oscillator-part-2-series-solution/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Sat, 06 May 2017 09:43:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[free diagrams -- table]]></title>
             <link>null</link>
@@ -63,13 +70,6 @@
             <guid isPermaLink="false">http://andrewgelman.com/2017/05/05/completely-reasonable-sounding-statement-strongly-disagree-2/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 05 May 2017 19:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[free category]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">free category</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 05 May 2017 19:05:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New bounds for Szemerédi’s theorem, III: A polylogarithmic bound for r_4(N)]]></title>
@@ -1141,6 +1141,13 @@
             <guid isPermaLink="false">http://www.goodmath.org/blog/2017/04/27/introduction-to-neural-networks/</guid>
             <dc:creator><![CDATA[Good Math/Bad Math]]></dc:creator>
             <pubDate>Thu, 27 Apr 2017 15:43:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[paracompact Hausdorff space]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">paracompact Hausdorff space</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 27 Apr 2017 14:35:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[So Was I]]></title>
@@ -2440,13 +2447,6 @@ real✻ cheese!!
             <pubDate>Thu, 13 Apr 2017 18:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Translation invariance in two dimensions]]></title>
-            <link>http://www.physicspages.com/2017/04/13/translation-invariance-in-two-dimensions/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/04/13/translation-invariance-in-two-dimensions/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Thu, 13 Apr 2017 16:15:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The short arm of coincidence]]></title>
             <link>http://bit-player.org/2017/the-short-arm-of-coincidence</link>
             <guid isPermaLink="false">http://bit-player.org/2017/the-short-arm-of-coincidence</guid>
@@ -3089,13 +3089,6 @@ Albert Fathi, François Laudenbach, Valentin...]]></title>
             <guid isPermaLink="false">Functional Equations IX: Entropy on a Metric Space</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Wed, 05 Apr 2017 12:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has The Renaissance Mathematicus gone over to the dark side?]]></title>
-            <link>https://thonyc.wordpress.com/2017/04/05/has-the-renaissance-mathematicus-gone-over-to-the-dark-side/</link>
-            <guid isPermaLink="false">https://thonyc.wordpress.com/2017/04/05/has-the-renaissance-mathematicus-gone-over-to-the-dark-side/</guid>
-            <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
-            <pubDate>Wed, 05 Apr 2017 09:35:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
