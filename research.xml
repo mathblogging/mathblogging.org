@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 May 2017 01:03:36 GMT</lastBuildDate>
-        <pubDate>Tue, 09 May 2017 01:03:34 GMT</pubDate>
+        <lastBuildDate>Tue, 09 May 2017 01:33:34 GMT</lastBuildDate>
+        <pubDate>Tue, 09 May 2017 01:33:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[How to tell what’s true about power if you’re practicing within the error-statistical tribe]]></title>
+            <link>https://errorstatistics.com/2017/05/08/how-to-tell-whats-true-about-power-if-youre-practicing-within-the-error-statistical-tribe/</link>
+            <guid isPermaLink="false">https://errorstatistics.com/2017/05/08/how-to-tell-whats-true-about-power-if-youre-practicing-within-the-error-statistical-tribe/</guid>
+            <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
+            <pubDate>Tue, 09 May 2017 01:23:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Super 18 Predictions for Round 12]]></title>
+            <link>http://feedproxy.google.com/~r/StatsChat/~3/IgLXsbiR1BI/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/IgLXsbiR1BI/</guid>
+            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
+            <pubDate>Tue, 09 May 2017 01:11:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why should I be Bayesian when my model is wrong?]]></title>
             <link>https://xianblog.wordpress.com/2017/05/09/why-should-i-be-bayesian-when-my-model-is-wrong/</link>
@@ -1185,17 +1199,17 @@
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Converting to blogdown]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</guid>
-            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (35)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Converting to blogdown]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</guid>
+            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1465,13 +1479,6 @@
             <pubDate>Thu, 27 Apr 2017 01:30:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On debates about data]]></title>
-            <link>http://feedproxy.google.com/~r/StatsChat/~3/a0HhJV-uu5k/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/a0HhJV-uu5k/</guid>
-            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
-            <pubDate>Thu, 27 Apr 2017 01:10:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“Data sleaze: Uber and beyond”]]></title>
             <link>http://andrewgelman.com/2017/04/26/data-sleaze-uber-beyond/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/04/26/data-sleaze-uber-beyond/</guid>
@@ -1707,17 +1714,17 @@ Having worked in manufacturing..."]]></title>
             <pubDate>Mon, 24 Apr 2017 13:00:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A duopoly never provides “sufficient competition”]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2017/04/a-duopoly-never-provides-sufficient.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/04/a-duopoly-never-provides-sufficient.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 24 Apr 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dispute over analysis of school quality and home prices shows social science is hard]]></title>
             <link>http://junkcharts.typepad.com/numbersruleyourworld/2017/04/dispute-over-analysis-of-school-quality-and-home-prices-shows-social-science-is-hard.html</link>
             <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2017/04/dispute-over-analysis-of-school-quality-and-home-prices-shows-social-science-is-hard.html</guid>
             <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
+            <pubDate>Mon, 24 Apr 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A duopoly never provides “sufficient competition”]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2017/04/a-duopoly-never-provides-sufficient.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/04/a-duopoly-never-provides-sufficient.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 24 Apr 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3066,13 +3073,6 @@ Path 153, Row 109 2017-03-06 at 06:29:11 GMT...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/BMtLoymmakA/159326563548</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Sat, 08 Apr 2017 05:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推荐一个参考文献整理插件]]></title>
-            <link>https://lttt.blog.ustc.edu.cn/2017/04/08/tuijianyigecankaowenxianzhenglichajian.html</link>
-            <guid isPermaLink="false">https://lttt.blog.ustc.edu.cn/2017/04/08/tuijianyigecankaowenxianzhenglichajian.html</guid>
-            <dc:creator><![CDATA[小小泪]]></dc:creator>
-            <pubDate>Sat, 08 Apr 2017 01:22:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
