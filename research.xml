@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 May 2017 12:03:30 GMT</lastBuildDate>
-        <pubDate>Wed, 10 May 2017 12:03:28 GMT</pubDate>
+        <lastBuildDate>Wed, 10 May 2017 12:33:13 GMT</lastBuildDate>
+        <pubDate>Wed, 10 May 2017 12:33:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[descriptive set theory]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">descriptive set theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 10 May 2017 12:05:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Laszlo Babai in St Andrews]]></title>
             <link>https://cameroncounts.wordpress.com/2017/05/10/laszlo-babai-in-st-andrews/</link>
@@ -89,20 +96,6 @@ Open sensor image printed on...]]></title>
             <pubDate>Tue, 09 May 2017 18:13:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Borel-Moore homology]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Borel-Moore homology</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 09 May 2017 17:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[open point]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">open point</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 09 May 2017 16:44:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Real-Life Equipment Optimization Problem]]></title>
             <link>http://mathscinotes.com/2017/05/real-life-equipment-optimization-problem/</link>
             <guid isPermaLink="false">http://mathscinotes.com/2017/05/real-life-equipment-optimization-problem/</guid>
@@ -115,13 +108,6 @@ Open sensor image printed on...]]></title>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2017/05/09/icon-index-symbol-%e2%80%a2-17/</guid>
             <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
             <pubDate>Tue, 09 May 2017 15:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[interior point]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">interior point</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 09 May 2017 14:40:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Honesty and transparency are not enough]]></title>
@@ -388,13 +374,6 @@ Open sensor image printed on...]]></title>
             <guid isPermaLink="false">http://jdh.hamkins.org/a-program-that-accepts-any-desired-finite-set-in-the-right-universe/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 07 May 2017 00:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[closed-projection characterization of compactness]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">closed-projection characterization of compactness</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 06 May 2017 23:04:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[village fountain [jatp]]]></title>
@@ -1328,17 +1307,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (35)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Converting to blogdown]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</guid>
             <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (35)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2653,6 +2632,13 @@ by Eli Reed]]></title>
             <guid isPermaLink="false">https://polylogblog.wordpress.com/2017/04/14/open-problems-in-communication-complexity/</guid>
             <dc:creator><![CDATA[the polylogblog]]></dc:creator>
             <pubDate>Fri, 14 Apr 2017 18:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Topology -- 1]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Introduction to Topology -- 1</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 14 Apr 2017 17:54:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Value]]></title>
