@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 May 2017 13:04:00 GMT</lastBuildDate>
-        <pubDate>Thu, 11 May 2017 13:03:57 GMT</pubDate>
+        <lastBuildDate>Thu, 11 May 2017 13:33:34 GMT</lastBuildDate>
+        <pubDate>Thu, 11 May 2017 13:33:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[How to Solve It]]></title>
+            <link>http://blog.computationalcomplexity.org/2017/05/how-to-solve-it.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2017/05/how-to-solve-it.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 11 May 2017 13:07:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Charles Pierce continues to hammer away at the differences between 1974 and 2017]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/05/charles-pierce-continues-to-hammer-away.html</link>
@@ -238,13 +245,6 @@
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/160512782629</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Wed, 10 May 2017 12:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[descriptive set theory]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">descriptive set theory</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 10 May 2017 12:05:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[H Slope]]></title>
@@ -635,17 +635,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Tue, 09 May 2017 05:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andrew Wiles : ce que l'on ressent lorsqu'on « fait des maths ».]]></title>
-            <link>http://images.math.cnrs.fr/Andrew-Wiles-ce-que-l-on-ressent-lorsqu-on-fait-des-maths.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Andrew-Wiles-ce-que-l-on-ressent-lorsqu-on-fait-des-maths.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 09 May 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Video: "Can the brain do back-propagation?" Goeff Hinton]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/B-qGvGpyyF8/video-can-brain-do-back-propagation.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/B-qGvGpyyF8/video-can-brain-do-back-propagation.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 09 May 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Wiles : ce que l'on ressent lorsqu'on « fait des maths ».]]></title>
+            <link>http://images.math.cnrs.fr/Andrew-Wiles-ce-que-l-on-ressent-lorsqu-on-fait-des-maths.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Andrew-Wiles-ce-que-l-on-ressent-lorsqu-on-fait-des-maths.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 09 May 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -901,17 +901,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 12:30:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
-            <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An anagrammatic cautionary tale]]></title>
             <link>http://blog.plover.com/misc/redpill.html</link>
             <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
+            <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
         </item>
         <item>
@@ -929,17 +929,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 11:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.302 - Sixth Sense]]></title>
-            <link>http://mathtans.blogspot.com/2017/05/s9302-sixth-sense.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/05/s9302-sixth-sense.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Toronto Alchemy]]></title>
             <link>http://mathtourist.blogspot.com/2017/05/toronto-alchemy.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/toronto-alchemy.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 08 May 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.302 - Sixth Sense]]></title>
+            <link>http://mathtans.blogspot.com/2017/05/s9302-sixth-sense.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/05/s9302-sixth-sense.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 08 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1762,16 +1762,16 @@ Open sensor image printed on...]]></title>
             <pubDate>Fri, 05 May 2017 11:17:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blue Karma]]></title>
-            <link>http://mathtourist.blogspot.com/2017/05/blue-karma.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/blue-karma.html</guid>
+            <title><![CDATA[Reza Sarhangi (1952-2016)]]></title>
+            <link>http://mathtourist.blogspot.com/2017/05/reza-sarhangi-1952-2016.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/reza-sarhangi-1952-2016.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 05 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reza Sarhangi (1952-2016)]]></title>
-            <link>http://mathtourist.blogspot.com/2017/05/reza-sarhangi-1952-2016.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/reza-sarhangi-1952-2016.html</guid>
+            <title><![CDATA[Blue Karma]]></title>
+            <link>http://mathtourist.blogspot.com/2017/05/blue-karma.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/blue-karma.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 05 May 2017 11:00:00 GMT</pubDate>
         </item>
@@ -3445,17 +3445,17 @@ Someone left a diet pepsi...]]></title>
             <pubDate>Sun, 30 Apr 2017 12:30:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Some Classic Thoughts]]></title>
-            <link>http://math-frolic.blogspot.com/2017/04/some-classic-thoughts.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/04/some-classic-thoughts.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Broken Ring]]></title>
             <link>http://mathtourist.blogspot.com/2017/04/broken-ring.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/broken-ring.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some Classic Thoughts]]></title>
+            <link>http://math-frolic.blogspot.com/2017/04/some-classic-thoughts.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/04/some-classic-thoughts.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4948,17 +4948,17 @@ Math life is mostly just feeling awkward about the plural form of the word...]]>
             <pubDate>Mon, 24 Apr 2017 05:00:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.7.19]]></title>
-            <link>http://images.math.cnrs.fr/-4222.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4222.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 24 Apr 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[#ICLR2017 Monday Morning Program]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/H71kftqD2yY/iclr2017-monday-morning-program.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/H71kftqD2yY/iclr2017-monday-morning-program.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Mon, 24 Apr 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.7.19]]></title>
+            <link>http://images.math.cnrs.fr/-4222.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4222.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 24 Apr 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5095,17 +5095,17 @@ Math life is mostly just feeling awkward about the plural form of the word...]]>
             <pubDate>Sun, 23 Apr 2017 12:30:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Truth, Certainty, Explanation... and Mathematics]]></title>
-            <link>http://math-frolic.blogspot.com/2017/04/truth-certainty-explanation-and.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/04/truth-certainty-explanation-and.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 23 Apr 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mount Vernon]]></title>
             <link>http://mathtourist.blogspot.com/2017/04/mount-vernon.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/04/mount-vernon.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 23 Apr 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Truth, Certainty, Explanation... and Mathematics]]></title>
+            <link>http://math-frolic.blogspot.com/2017/04/truth-certainty-explanation-and.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/04/truth-certainty-explanation-and.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 23 Apr 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6178,17 +6178,17 @@ in...]]></title>
             <pubDate>Mon, 17 Apr 2017 23:55:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Math Character Bible]]></title>
-            <link>http://mathtans.blogspot.com/2017/04/math-character-bible.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-character-bible.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - April 18]]></title>
             <link>http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/04/on-this-day-in-math-april-18.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math Character Bible]]></title>
+            <link>http://mathtans.blogspot.com/2017/04/math-character-bible.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/04/math-character-bible.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 23:00:00 GMT</pubDate>
         </item>
         <item>
