@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 May 2017 21:33:36 GMT</lastBuildDate>
-        <pubDate>Thu, 11 May 2017 21:33:34 GMT</pubDate>
+        <lastBuildDate>Thu, 11 May 2017 22:03:40 GMT</lastBuildDate>
+        <pubDate>Thu, 11 May 2017 22:03:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Can you account for this?]]></title>
+            <link>http://andrewgelman.com/2017/05/11/statistical-issues-accounting-research/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/05/11/statistical-issues-accounting-research/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 11 May 2017 21:43:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Feynman in comics]]></title>
             <link>http://feedproxy.google.com/~r/DocMadhattan/~3/2AwweY3zdLY/feynman-in-comics.html</link>
@@ -404,17 +411,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An anagrammatic cautionary tale]]></title>
-            <link>http://blog.plover.com/misc/redpill.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
             <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An anagrammatic cautionary tale]]></title>
+            <link>http://blog.plover.com/misc/redpill.html</link>
+            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
         </item>
         <item>
@@ -1447,17 +1454,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Converting to blogdown]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</guid>
-            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (35)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Converting to blogdown]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7myvVeyLnco/</guid>
+            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2928,13 +2935,6 @@ Katharina Grosse at Gagosian.]]></title>
             <pubDate>Wed, 12 Apr 2017 21:12:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bayesian Posteriors are Calibrated by Definition]]></title>
-            <link>http://andrewgelman.com/2017/04/12/bayesian-posteriors-calibrated/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/04/12/bayesian-posteriors-calibrated/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 12 Apr 2017 19:00:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A digital device policy in the classroom]]></title>
             <link>https://punkrockor.com/2017/04/12/a-digital-device-policy-in-the-classroom/</link>
             <guid isPermaLink="false">https://punkrockor.com/2017/04/12/a-digital-device-policy-in-the-classroom/</guid>
@@ -3053,13 +3053,6 @@ What do you get when you cross a Fat...]]></title>
             <guid isPermaLink="false">http://jdh.hamkins.org/the-definable-cut-of-a-model-of-set-theory-can-be-changed-by-small-forcing/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 10 Apr 2017 23:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Association for Symbolic Logic at the Pacific APA]]></title>
-            <link>http://richardzach.org/2017/04/10/association-for-symbolic-logic-at-the-pacific-apa/</link>
-            <guid isPermaLink="false">http://richardzach.org/2017/04/10/association-for-symbolic-logic-at-the-pacific-apa/</guid>
-            <dc:creator><![CDATA[Richard Zach]]></dc:creator>
-            <pubDate>Mon, 10 Apr 2017 21:31:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Under Stan-ding the Hot Hand]]></title>
