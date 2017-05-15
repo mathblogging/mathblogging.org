@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 May 2017 19:33:24 GMT</lastBuildDate>
-        <pubDate>Mon, 15 May 2017 19:33:22 GMT</pubDate>
+        <lastBuildDate>Mon, 15 May 2017 20:03:11 GMT</lastBuildDate>
+        <pubDate>Mon, 15 May 2017 20:03:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[special values for real sine real cosine and complex exponential function]]></title>
+            <link>http://www.bookofproofs.org/branches/special-values-for-real-sine-real-cosine-and-complex-exponential-function/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/special-values-for-real-sine-real-cosine-and-complex-exponential-function/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 15 May 2017 20:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pi]]></title>
+            <link>http://www.bookofproofs.org/branches/pi/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/pi/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Mon, 15 May 2017 19:48:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[zero of cosine]]></title>
             <link>http://www.bookofproofs.org/branches/zero-of-cosine/</link>
@@ -1685,20 +1699,6 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 01 May 2017 17:22:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[inverse hyperbolic cosine]]></title>
-            <link>http://www.bookofproofs.org/branches/inverse-hyperbolic-cosine/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/inverse-hyperbolic-cosine/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 01 May 2017 16:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[inverse hyperbolic sine]]></title>
-            <link>http://www.bookofproofs.org/branches/inverse-hyperbolic-sine/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/inverse-hyperbolic-sine/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Mon, 01 May 2017 16:39:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ramp metering magic]]></title>
             <link>http://junkcharts.typepad.com/numbersruleyourworld/2017/05/ramp-metering-magic.html</link>
             <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2017/05/ramp-metering-magic.html</guid>
@@ -1839,17 +1839,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (35)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Converting to blogdown]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
             <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (35)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3017,13 +3017,6 @@ by Eli Reed]]></title>
             <guid isPermaLink="false">https://errorstatistics.com/2017/04/15/if-youre-seeing-limb-sawing-in-p-value-logic-youre-sawing-off-the-limbs-of-reductio-arguments/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Sat, 15 Apr 2017 04:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seventeen Facts about 17]]></title>
-            <link>https://divisbyzero.com/2017/04/14/seventeen-facts-about-17/</link>
-            <guid isPermaLink="false">https://divisbyzero.com/2017/04/14/seventeen-facts-about-17/</guid>
-            <dc:creator><![CDATA[Division by Zero]]></dc:creator>
-            <pubDate>Fri, 14 Apr 2017 19:34:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
