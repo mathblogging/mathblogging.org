@@ -4,10 +4,31 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 May 2017 16:33:39 GMT</lastBuildDate>
-        <pubDate>Tue, 16 May 2017 16:33:36 GMT</pubDate>
+        <lastBuildDate>Tue, 16 May 2017 17:03:21 GMT</lastBuildDate>
+        <pubDate>Tue, 16 May 2017 17:03:18 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[locally compact and sigma-compact spaces are paracompact]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">locally compact and sigma-compact spaces are paracompact</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 16 May 2017 16:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[second-countable regular spaces are paracompact]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">second-countable regular spaces are paracompact</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 16 May 2017 16:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Levi-Civita antisymmetric tensor, vector products and systems of 3 fermions]]></title>
+            <link>http://www.physicspages.com/2017/05/16/levi-civita-antisymmetric-tensor-vector-products-and-systems-of-3-fermions/</link>
+            <guid isPermaLink="false">http://www.physicspages.com/2017/05/16/levi-civita-antisymmetric-tensor-vector-products-and-systems-of-3-fermions/</guid>
+            <dc:creator><![CDATA[Physics pages]]></dc:creator>
+            <pubDate>Tue, 16 May 2017 16:34:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thesis: Robust Low-rank and Sparse Decomposition for Moving Object Detection: From Matrices to Tensors by Andrews Cordolino Sobral]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/INoKWSu-FpE/thesis-robust-low-rank-and-sparse.html</link>
@@ -21,6 +42,13 @@
             <guid isPermaLink="false">https://punkrockor.com/2017/05/16/what-healthcare-can-learn-from-aviation-security/</guid>
             <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
             <pubDate>Tue, 16 May 2017 15:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A New Kind of Science: A 15-Year View]]></title>
+            <link>http://blog.stephenwolfram.com/2017/05/a-new-kind-of-science-a-15-year-view/</link>
+            <guid isPermaLink="false">http://blog.stephenwolfram.com/2017/05/a-new-kind-of-science-a-15-year-view/</guid>
+            <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
+            <pubDate>Tue, 16 May 2017 13:43:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If an ugrad asks `is field  X worth studying' the answer is almost always yes]]></title>
@@ -198,13 +226,6 @@
             <pubDate>Mon, 15 May 2017 15:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[fractal dimension]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">fractal dimension</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 15 May 2017 14:43:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What is needed to do good research (hint:  it’s not just the avoidance of “too much weight given to small samples, a tendency to publish positive results and not negative results, and perhaps an unconscious bias from the researchers themselves”)]]></title>
             <link>http://andrewgelman.com/2017/05/15/needed-good-research-hint-not-just-much-weight-given-small-samples-tendency-publish-positive-results-not-negative-results-perhaps-unconscious-bias/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/05/15/needed-good-research-hint-not-just-much-weight-given-small-samples-tendency-publish-positive-results-not-negative-results-perhaps-unconscious-bias/</guid>
@@ -245,13 +266,6 @@
             <guid isPermaLink="false">https://pointatinfinityblog.wordpress.com/2017/05/15/an-infinitude-of-proofs-part-1/</guid>
             <dc:creator><![CDATA[Point at Infinity]]></dc:creator>
             <pubDate>Mon, 15 May 2017 10:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fractal]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">fractal</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 15 May 2017 10:24:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Highly Technical Reference Page: "the GAN Zoo" and "Delving deep into Generative Adversarial Networks (GANs)"]]></title>
@@ -916,8 +930,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[“Statistical Learning and Econometrics” Workshop at Erasmus University Rotterdam]]></title>
-            <link>http://freakonometrics.hypotheses.org/49964</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49964</guid>
+            <link>https://freakonometrics.hypotheses.org/49964</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/49964</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 08 May 2017 20:25:58 GMT</pubDate>
         </item>
@@ -971,17 +985,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An anagrammatic cautionary tale]]></title>
-            <link>http://blog.plover.com/misc/redpill.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
             <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An anagrammatic cautionary tale]]></title>
+            <link>http://blog.plover.com/misc/redpill.html</link>
+            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
         </item>
         <item>
@@ -1146,6 +1160,13 @@ Open sensor image printed on...]]></title>
             <pubDate>Sat, 06 May 2017 13:18:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[sigma-compact topological space]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">sigma-compact topological space</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 06 May 2017 12:08:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Le grandi domande della vita: speciale Ridi Topolino]]></title>
             <link>http://feedproxy.google.com/~r/ResearchBlogging-Mathematics-Italian/~3/c2hvDcWUZxM/le-grandi-domande-della-vita-speciale.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ResearchBlogging-Mathematics-Italian/~3/c2hvDcWUZxM/le-grandi-domande-della-vita-speciale.html</guid>
@@ -1224,8 +1245,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Peut-on vraiment prévoir la probabilité de gagner une élection présidentielle ?]]></title>
-            <link>http://freakonometrics.hypotheses.org/50706</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50706</guid>
+            <link>https://freakonometrics.hypotheses.org/50706</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50706</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 05 May 2017 15:41:38 GMT</pubDate>
         </item>
@@ -1651,8 +1672,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Proportion of people alive in 1945 that are still alive]]></title>
-            <link>http://freakonometrics.hypotheses.org/50695</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50695</guid>
+            <link>https://freakonometrics.hypotheses.org/50695</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50695</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 02 May 2017 14:26:57 GMT</pubDate>
         </item>
@@ -1909,17 +1930,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Converting to blogdown]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
-            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (35)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Converting to blogdown]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
+            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2026,6 +2047,13 @@ Open sensor image printed on...]]></title>
             <guid isPermaLink="false">http://www.logicmatters.net/2017/04/28/nerdy-annoyance/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Fri, 28 Apr 2017 12:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[paracompact Hausdorff spaces are normal]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">paracompact Hausdorff spaces are normal</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 28 Apr 2017 11:35:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Icon Index Symbol • 12]]></title>
@@ -2141,8 +2169,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Le retour des abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50692</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50692</guid>
+            <link>https://freakonometrics.hypotheses.org/50692</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50692</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 27 Apr 2017 06:18:44 GMT</pubDate>
         </item>
@@ -2183,8 +2211,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Maudites Abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50673</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50673</guid>
+            <link>https://freakonometrics.hypotheses.org/50673</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50673</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 15:21:50 GMT</pubDate>
         </item>
@@ -2211,8 +2239,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Visualiser les résultats du premier tour]]></title>
-            <link>http://freakonometrics.hypotheses.org/50657</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50657</guid>
+            <link>https://freakonometrics.hypotheses.org/50657</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50657</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 08:10:10 GMT</pubDate>
         </item>
@@ -2345,13 +2373,6 @@ Having worked in manufacturing..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/gaussianos/~3/40Pn4C7xXKc/</guid>
             <dc:creator><![CDATA[Gaussianos]]></dc:creator>
             <pubDate>Mon, 24 Apr 2017 17:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Combining translations and rotations]]></title>
-            <link>http://www.physicspages.com/2017/04/24/combining-translations-and-rotations/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/04/24/combining-translations-and-rotations/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Mon, 24 Apr 2017 17:00:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Testing Polynomial Equality]]></title>
@@ -2488,8 +2509,8 @@ Having worked in manufacturing..."]]></title>
         </item>
         <item>
             <title><![CDATA[Débat sur les prévisions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50633</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50633</guid>
+            <link>https://freakonometrics.hypotheses.org/50633</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50633</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 05:30:12 GMT</pubDate>
         </item>
@@ -2507,8 +2528,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[CartoStats, la Cartographie Statistique]]></title>
-            <link>http://freakonometrics.hypotheses.org/50553</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50553</guid>
+            <link>https://freakonometrics.hypotheses.org/50553</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50553</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 03:38:59 GMT</pubDate>
         </item>
@@ -2962,8 +2983,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[Visualizing (censored) lifetime distributions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50629</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50629</guid>
+            <link>https://freakonometrics.hypotheses.org/50629</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50629</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 17 Apr 2017 01:50:44 GMT</pubDate>
         </item>
