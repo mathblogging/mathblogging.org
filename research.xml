@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 May 2017 04:32:50 GMT</lastBuildDate>
-        <pubDate>Tue, 16 May 2017 04:32:47 GMT</pubDate>
+        <lastBuildDate>Tue, 16 May 2017 05:03:25 GMT</lastBuildDate>
+        <pubDate>Tue, 16 May 2017 05:03:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -107,13 +107,6 @@
             <pubDate>Mon, 15 May 2017 17:20:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[subsets are closed in a closed subspace precisely if they are closed in the ambient space]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">subsets are closed in a closed subspace precisely if they are closed in the ambient space</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 15 May 2017 16:15:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Book review: Everybody Lies by Seth Stephens-Davidowitz]]></title>
             <link>http://junkcharts.typepad.com/numbersruleyourworld/2017/05/book-review-everybody-lies-by-seth-stephens-davidowitz.html</link>
             <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2017/05/book-review-everybody-lies-by-seth-stephens-davidowitz.html</guid>
@@ -126,6 +119,13 @@
             <guid isPermaLink="false">http://mathfest.blogspot.com/2017/05/another-visualization-task.html</guid>
             <dc:creator><![CDATA[mathfest]]></dc:creator>
             <pubDate>Mon, 15 May 2017 15:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fractal dimension]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">fractal dimension</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 15 May 2017 14:43:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is needed to do good research (hint:  it’s not just the avoidance of “too much weight given to small samples, a tendency to publish positive results and not negative results, and perhaps an unconscious bias from the researchers themselves”)]]></title>
@@ -175,6 +175,13 @@
             <guid isPermaLink="false">Mandelbrot set</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Mon, 15 May 2017 10:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fractal]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">fractal</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 15 May 2017 10:24:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Highly Technical Reference Page: "the GAN Zoo" and "Delving deep into Generative Adversarial Networks (GANs)"]]></title>
@@ -908,17 +915,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
-            <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An anagrammatic cautionary tale]]></title>
             <link>http://blog.plover.com/misc/redpill.html</link>
             <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
+            <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
+            <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
         </item>
         <item>
@@ -1853,17 +1860,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (35)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Converting to blogdown]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
             <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (35)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
