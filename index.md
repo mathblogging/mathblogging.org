@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A lot to chew on from Stephen Wolfram commemorating the 15th anniversary of his &#39;New Kind of Science&#39;:<a href="https://t.co/p8WAoszVZC">https://t.co/p8WAoszVZC</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/864870208367939584">May 17, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">It’s a banner Wed. when both Ben Orlin &amp; Jim Propp open your day:<a href="https://t.co/dWvBzxCU3f">https://t.co/dWvBzxCU3f</a><a href="https://t.co/JULyQDAdlZ">https://t.co/JULyQDAdlZ</a><a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/864802706300522496">May 17, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The Chaos Game via Numberphile: <a href="https://t.co/ttt5SjXVn9">https://t.co/ttt5SjXVn9</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/858294814189793281">April 29, 2017</a></blockquote>
