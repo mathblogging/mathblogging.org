@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 May 2017 17:03:44 GMT</lastBuildDate>
-        <pubDate>Sat, 20 May 2017 17:03:42 GMT</pubDate>
+        <lastBuildDate>Sat, 20 May 2017 17:33:34 GMT</lastBuildDate>
+        <pubDate>Sat, 20 May 2017 17:33:31 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[adjoints preserve (co-)limits]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">adjoints preserve (co-)limits</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 20 May 2017 17:28:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hotel room aliases of the statisticians]]></title>
             <link>http://andrewgelman.com/2017/05/20/hotel-room-aliases-statisticians/</link>
@@ -86,13 +93,6 @@
             <pubDate>Fri, 19 May 2017 14:31:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[compact subspaces in Hausdorff spaces are separated by neighbourhoods from points]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">compact subspaces in Hausdorff spaces are separated by neighbourhoods from points</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 19 May 2017 14:10:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Critical Postmodern Readings, Part 1: Lyotard]]></title>
             <link>https://hilbertthm90.wordpress.com/2017/05/19/critical-postmodern-readings-part-1-lyotard/</link>
             <guid isPermaLink="false">https://hilbertthm90.wordpress.com/2017/05/19/critical-postmodern-readings-part-1-lyotard/</guid>
@@ -112,6 +112,13 @@
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/05/understanding-ailes.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 19 May 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pre-images preserve unions and intersections]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">pre-images preserve unions and intersections</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 19 May 2017 12:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[interactions of images and pre-images with unions and intersections]]></title>
@@ -161,13 +168,6 @@
             <guid isPermaLink="false">http://andrewgelman.com/2017/05/18/review-duncan-wattss-book-everything-obvious-know-answer/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Thu, 18 May 2017 19:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[countable unions of countable sets are countable]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">countable unions of countable sets are countable</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 18 May 2017 18:06:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Perpetuating the myths addendum – ‘The Copernican Shock]]></title>
@@ -1372,13 +1372,6 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 13:55:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[diagram of a first-order structure]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">diagram of a first-order structure</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 13:22:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Trying to imagine the pitches that get turned down...]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/05/trying-to-imagine-pitches-that-get.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/05/trying-to-imagine-pitches-that-get.html</guid>
@@ -2009,13 +2002,6 @@ Open sensor image printed on...]]></title>
             <pubDate>Tue, 02 May 2017 18:42:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[space attachment]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">space attachment</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 02 May 2017 16:19:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cauchy, Benford, and a problem with NHST]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/nszKU2ayUb0/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/nszKU2ayUb0/</guid>
@@ -2289,17 +2275,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Converting to blogdown]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
-            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (35)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Converting to blogdown]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
+            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3045,20 +3031,6 @@ in...]]></title>
             <guid isPermaLink="false">http://models.street-artists.org/2017/04/19/combining-information-from-independent-experiments-further-ideas/</guid>
             <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
             <pubDate>Wed, 19 Apr 2017 23:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Functional Equations, Entropy and Diversity: A Seminar Course]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Functional Equations, Entropy and Diversity: A Seminar Course</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Wed, 19 Apr 2017 17:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Diversity of a Metacommunity]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">The Diversity of a Metacommunity</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Wed, 19 Apr 2017 16:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
