@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 May 2017 22:03:34 GMT</lastBuildDate>
-        <pubDate>Sun, 21 May 2017 22:03:31 GMT</pubDate>
+        <lastBuildDate>Sun, 21 May 2017 22:33:19 GMT</lastBuildDate>
+        <pubDate>Sun, 21 May 2017 22:33:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The Riddle of the Sands [not a book review]]]></title>
+            <link>https://xianblog.wordpress.com/2017/05/22/the-riddle-of-the-sands-not-a-book-review/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/05/22/the-riddle-of-the-sands-not-a-book-review/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sun, 21 May 2017 22:17:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stat of the Week Competition: May 20 – 26 2017]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/_CVwOycXf9s/</link>
@@ -848,13 +855,6 @@ Isogonal
             <pubDate>Mon, 15 May 2017 02:02:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dutch book for sleeping beauty]]></title>
-            <link>https://xianblog.wordpress.com/2017/05/15/dutch-book-for-sleeping-beauty/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/05/15/dutch-book-for-sleeping-beauty/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sun, 14 May 2017 22:17:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stat of the Week Competition: May 13 – 19 2017]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/5lyErW2VWoU/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/5lyErW2VWoU/</guid>
@@ -1460,17 +1460,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An anagrammatic cautionary tale]]></title>
-            <link>http://blog.plover.com/misc/redpill.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
             <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An anagrammatic cautionary tale]]></title>
+            <link>http://blog.plover.com/misc/redpill.html</link>
+            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
         </item>
         <item>
@@ -2349,17 +2349,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Converting to blogdown]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
-            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (35)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Converting to blogdown]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
+            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2993,13 +2993,6 @@ in...]]></title>
             <guid isPermaLink="false">http://datagenetics.com/blog/april42017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Fri, 21 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will talk about Harry Lewis 70th bday conference later but for now- that was then/this is now]]></title>
-            <link>http://blog.computationalcomplexity.org/2017/04/will-talk-about-harry-lewis-70th-bday.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2017/04/will-talk-about-harry-lewis-70th-bday.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Thu, 20 Apr 2017 22:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Automated Time-Series Forecasting at Google]]></title>
