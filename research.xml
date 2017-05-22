@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 May 2017 19:33:20 GMT</lastBuildDate>
-        <pubDate>Mon, 22 May 2017 19:33:17 GMT</pubDate>
+        <lastBuildDate>Mon, 22 May 2017 20:03:19 GMT</lastBuildDate>
+        <pubDate>Mon, 22 May 2017 20:03:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[colimits of normal spaces]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">colimits of normal spaces</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 22 May 2017 19:41:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Picard groupoid]]></title>
             <link>null</link>
@@ -28,6 +35,13 @@
             <guid isPermaLink="false">http://andrewgelman.com/2017/05/22/design-top-code-bottom/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Mon, 22 May 2017 17:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Applied Steenrod; or, Playing catch-up might be good exercise.]]></title>
+            <link>https://jessecmckeown.tumblr.com/post/160951554890</link>
+            <guid isPermaLink="false">https://jessecmckeown.tumblr.com/post/160951554890</guid>
+            <dc:creator><![CDATA[https://jessecmckeown.tumblr.com/]]></dc:creator>
+            <pubDate>Mon, 22 May 2017 16:27:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big Data in Econometric Modeling]]></title>
@@ -248,8 +262,8 @@
         </item>
         <item>
             <title><![CDATA[Dependence in Finance and Insurance, Aegina, Greece]]></title>
-            <link>http://freakonometrics.hypotheses.org/50766</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50766</guid>
+            <link>https://freakonometrics.hypotheses.org/50766</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50766</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 21 May 2017 08:54:45 GMT</pubDate>
         </item>
@@ -497,8 +511,8 @@ Exhibition “Children: personal...]]></title>
         </item>
         <item>
             <title><![CDATA[Conference on Finance and Insurance in Aegina, Greece]]></title>
-            <link>http://freakonometrics.hypotheses.org/49157</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49157</guid>
+            <link>https://freakonometrics.hypotheses.org/49157</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/49157</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 18 May 2017 06:26:49 GMT</pubDate>
         </item>
@@ -627,8 +641,8 @@ YERJULF:TVTYZYFRJYTW_NJPFVTNZN<KZZZZZ...]]></title>
         </item>
         <item>
             <title><![CDATA[Journée à Caen]]></title>
-            <link>http://freakonometrics.hypotheses.org/50731</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50731</guid>
+            <link>https://freakonometrics.hypotheses.org/50731</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50731</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 17 May 2017 07:20:03 GMT</pubDate>
         </item>
@@ -1545,8 +1559,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[“Statistical Learning and Econometrics” Workshop at Erasmus University Rotterdam]]></title>
-            <link>http://freakonometrics.hypotheses.org/49964</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49964</guid>
+            <link>https://freakonometrics.hypotheses.org/49964</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/49964</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 08 May 2017 20:25:58 GMT</pubDate>
         </item>
@@ -1600,17 +1614,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An anagrammatic cautionary tale]]></title>
-            <link>http://blog.plover.com/misc/redpill.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
             <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An anagrammatic cautionary tale]]></title>
+            <link>http://blog.plover.com/misc/redpill.html</link>
+            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
         </item>
         <item>
@@ -1825,8 +1839,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Peut-on vraiment prévoir la probabilité de gagner une élection présidentielle ?]]></title>
-            <link>http://freakonometrics.hypotheses.org/50706</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50706</guid>
+            <link>https://freakonometrics.hypotheses.org/50706</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50706</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 05 May 2017 15:41:38 GMT</pubDate>
         </item>
@@ -2203,8 +2217,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Proportion of people alive in 1945 that are still alive]]></title>
-            <link>http://freakonometrics.hypotheses.org/50695</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50695</guid>
+            <link>https://freakonometrics.hypotheses.org/50695</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50695</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 02 May 2017 14:26:57 GMT</pubDate>
         </item>
@@ -2454,17 +2468,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (35)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Converting to blogdown]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
             <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (35)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2580,6 +2594,13 @@ Open sensor image printed on...]]></title>
             <pubDate>Fri, 28 Apr 2017 11:00:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[shrinking lemma]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">shrinking lemma</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 28 Apr 2017 09:59:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thesis: Randomized Algorithms for Large-Scale Data Analysis by Farhad Pourkamali-Anaraki]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ChVWT-ld6jo/thesis-randomized-algorithms-for-large.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ChVWT-ld6jo/thesis-randomized-algorithms-for-large.html</guid>
@@ -2672,8 +2693,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Le retour des abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50692</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50692</guid>
+            <link>https://freakonometrics.hypotheses.org/50692</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50692</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 27 Apr 2017 06:18:44 GMT</pubDate>
         </item>
@@ -2714,8 +2735,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Maudites Abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50673</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50673</guid>
+            <link>https://freakonometrics.hypotheses.org/50673</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50673</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 15:21:50 GMT</pubDate>
         </item>
@@ -2742,8 +2763,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Visualiser les résultats du premier tour]]></title>
-            <link>http://freakonometrics.hypotheses.org/50657</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50657</guid>
+            <link>https://freakonometrics.hypotheses.org/50657</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50657</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 08:10:10 GMT</pubDate>
         </item>
@@ -2949,8 +2970,8 @@ Having worked in manufacturing..."]]></title>
         </item>
         <item>
             <title><![CDATA[Débat sur les prévisions]]></title>
-            <link>http://freakonometrics.hypotheses.org/50633</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50633</guid>
+            <link>https://freakonometrics.hypotheses.org/50633</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50633</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 05:30:12 GMT</pubDate>
         </item>
@@ -2968,8 +2989,8 @@ in...]]></title>
         </item>
         <item>
             <title><![CDATA[CartoStats, la Cartographie Statistique]]></title>
-            <link>http://freakonometrics.hypotheses.org/50553</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50553</guid>
+            <link>https://freakonometrics.hypotheses.org/50553</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50553</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 22 Apr 2017 03:38:59 GMT</pubDate>
         </item>
@@ -2993,13 +3014,6 @@ in...]]></title>
             <guid isPermaLink="false">http://emergentmath.com/2017/04/21/post-it-problem-grades-2-3/</guid>
             <dc:creator><![CDATA[emergent math]]></dc:creator>
             <pubDate>Fri, 21 Apr 2017 20:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Makinson’s Sets, Logic and Maths]]></title>
-            <link>http://www.logicmatters.net/2017/04/21/david-makinsons-sets-logic-and-maths/</link>
-            <guid isPermaLink="false">http://www.logicmatters.net/2017/04/21/david-makinsons-sets-logic-and-maths/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Fri, 21 Apr 2017 19:35:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
