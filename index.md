@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">If you enjoy Jim Propp&#39;s writing then you have to watch his wonderful talk on &quot;math, magic, and mystery&quot;: <a href="https://t.co/K4N6rv05nu">https://t.co/K4N6rv05nu</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/867418209560997891">May 24, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fabulous... <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a> RT <a href="https://twitter.com/benorlin">@benorlin</a> <br>The Three Phases of the Mathematical Life<a href="https://t.co/P5pOe1dpDR">https://t.co/P5pOe1dpDR</a> …</p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/867409921486323712">May 24, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A lot to chew on from Stephen Wolfram commemorating the 15th anniversary of his &#39;New Kind of Science&#39;:<a href="https://t.co/p8WAoszVZC">https://t.co/p8WAoszVZC</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/864870208367939584">May 17, 2017</a></blockquote>
