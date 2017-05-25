@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 May 2017 08:03:16 GMT</lastBuildDate>
-        <pubDate>Thu, 25 May 2017 08:03:13 GMT</pubDate>
+        <lastBuildDate>Thu, 25 May 2017 08:32:54 GMT</lastBuildDate>
+        <pubDate>Thu, 25 May 2017 08:32:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Week 21]]></title>
+            <link>http://wiskundeleraar.blogspot.com/2017/05/week-21.html</link>
+            <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2017/05/week-21.html</guid>
+            <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
+            <pubDate>Thu, 25 May 2017 08:29:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Primzahllücken und hyperbolische Geometrie]]></title>
             <link>http://scienceblogs.de/mathlog/2017/05/25/primzahllcken-und-hyperbolische-geometrie/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=primzahllcken-und-hyperbolische-geometrie</link>
@@ -163,13 +170,6 @@ Jack Morava said “Wow…”.]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2017/05/24/take-two-laura-arnolds-tedx-talk/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Wed, 24 May 2017 18:51:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[locally compact and second-countable spaces are sigma-compact]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">locally compact and second-countable spaces are sigma-compact</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 24 May 2017 18:32:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WTF Economics: shifting curves UP/DOWN or LEFT/RIGHT?]]></title>
@@ -361,17 +361,17 @@ Jack Morava said “Wow…”.]]></title>
             <pubDate>Wed, 24 May 2017 06:07:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DEvol - Automated deep neural network design with genetic programming]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/9YmvMlc2Eco/devol-automated-deep-neural-network.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/9YmvMlc2Eco/devol-automated-deep-neural-network.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 24 May 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Orbit Memory]]></title>
             <link>http://mrburkemath.blogspot.com/2017/05/orbit-memory.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/05/orbit-memory.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Wed, 24 May 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DEvol - Automated deep neural network design with genetic programming]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/9YmvMlc2Eco/devol-automated-deep-neural-network.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/9YmvMlc2Eco/devol-automated-deep-neural-network.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 24 May 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -557,17 +557,17 @@ Jack Morava said “Wow…”.]]></title>
             <pubDate>Tue, 23 May 2017 11:42:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cantor Weirdness]]></title>
-            <link>http://math-frolic.blogspot.com/2017/05/cantor-weirdness.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/05/cantor-weirdness.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Tue, 23 May 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Niagara Falls in Spring]]></title>
             <link>http://mathtourist.blogspot.com/2017/05/niagara-falls-in-spring.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/niagara-falls-in-spring.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 23 May 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cantor Weirdness]]></title>
+            <link>http://math-frolic.blogspot.com/2017/05/cantor-weirdness.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/05/cantor-weirdness.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Tue, 23 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1292,17 +1292,17 @@ Jack Morava said “Wow…”.]]></title>
             <pubDate>Sun, 21 May 2017 12:30:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Toronto Time]]></title>
-            <link>http://mathtourist.blogspot.com/2017/05/toronto-time.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/toronto-time.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 21 May 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Melancholy]]></title>
             <link>http://math-frolic.blogspot.com/2017/05/math-melancholy.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/05/math-melancholy.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 21 May 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toronto Time]]></title>
+            <link>http://mathtourist.blogspot.com/2017/05/toronto-time.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/toronto-time.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 21 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1328,8 +1328,8 @@ Jack Morava said “Wow…”.]]></title>
         </item>
         <item>
             <title><![CDATA[Dependence in Finance and Insurance, Aegina, Greece]]></title>
-            <link>http://freakonometrics.hypotheses.org/50766</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50766</guid>
+            <link>https://freakonometrics.hypotheses.org/50766</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50766</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 21 May 2017 08:54:45 GMT</pubDate>
         </item>
@@ -1962,8 +1962,8 @@ Exhibition “Children: personal...]]></title>
         </item>
         <item>
             <title><![CDATA[Conference on Finance and Insurance in Aegina, Greece]]></title>
-            <link>http://freakonometrics.hypotheses.org/49157</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49157</guid>
+            <link>https://freakonometrics.hypotheses.org/49157</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/49157</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 18 May 2017 06:26:49 GMT</pubDate>
         </item>
@@ -2063,16 +2063,16 @@ YERJULF:TVTYZYFRJYTW_NJPFVTNZN<KZZZZZ...]]></title>
             <pubDate>Wed, 17 May 2017 19:00:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[تصحيح الامتحان الجهوي 2016 تمرين 7 الهندسة الفضائية]]></title>
-            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/ysDKPsGr65U/2016-7.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/ysDKPsGr65U/2016-7.html</guid>
+            <title><![CDATA[تصحيح الامتحان الجهوي 2016 تمرين 6 حول الازاحة]]></title>
+            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/p9yr8A1P6EI/2016-6.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/p9yr8A1P6EI/2016-6.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Wed, 17 May 2017 18:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[تصحيح الامتحان الجهوي 2016 تمرين 6 حول الازاحة]]></title>
-            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/p9yr8A1P6EI/2016-6.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/p9yr8A1P6EI/2016-6.html</guid>
+            <title><![CDATA[تصحيح الامتحان الجهوي 2016 تمرين 7 الهندسة الفضائية]]></title>
+            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/ysDKPsGr65U/2016-7.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/ysDKPsGr65U/2016-7.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Wed, 17 May 2017 18:47:00 GMT</pubDate>
         </item>
@@ -2225,8 +2225,8 @@ YERJULF:TVTYZYFRJYTW_NJPFVTNZN<KZZZZZ...]]></title>
         </item>
         <item>
             <title><![CDATA[Journée à Caen]]></title>
-            <link>http://freakonometrics.hypotheses.org/50731</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50731</guid>
+            <link>https://freakonometrics.hypotheses.org/50731</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50731</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 17 May 2017 07:20:03 GMT</pubDate>
         </item>
@@ -2264,17 +2264,17 @@ Isogonal
             <pubDate>Wed, 17 May 2017 05:00:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thesis (Honors): Improved Genomic Selection using VowpalWabbit with Random Fourier Features, Jiaqin Jaslyn Zhang]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/8Wqys1YH3NU/thesis-honors-improved-genomic.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/8Wqys1YH3NU/thesis-honors-improved-genomic.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 17 May 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Center, Pt. 3]]></title>
             <link>http://mrburkemath.blogspot.com/2017/05/center-pt-3.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/05/center-pt-3.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Wed, 17 May 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thesis (Honors): Improved Genomic Selection using VowpalWabbit with Random Fourier Features, Jiaqin Jaslyn Zhang]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/8Wqys1YH3NU/thesis-honors-improved-genomic.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/8Wqys1YH3NU/thesis-honors-improved-genomic.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 17 May 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2908,17 +2908,17 @@ Isogonal
             <pubDate>Mon, 15 May 2017 11:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.303 - Secant Touch This]]></title>
-            <link>http://mathtans.blogspot.com/2017/05/s9303-secant-touch-this.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/05/s9303-secant-touch-this.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 15 May 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Park Vessel]]></title>
             <link>http://mathtourist.blogspot.com/2017/05/park-vessel.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/park-vessel.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 15 May 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.303 - Secant Touch This]]></title>
+            <link>http://mathtans.blogspot.com/2017/05/s9303-secant-touch-this.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/05/s9303-secant-touch-this.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 15 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3146,17 +3146,17 @@ Isogonal
             <pubDate>Sun, 14 May 2017 12:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Saintly Erdös...]]></title>
-            <link>http://math-frolic.blogspot.com/2017/05/the-saintly-erdos.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/05/the-saintly-erdos.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 14 May 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sandstone Petals]]></title>
             <link>http://mathtourist.blogspot.com/2017/05/sandstone-petals.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/sandstone-petals.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 14 May 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Saintly Erdös...]]></title>
+            <link>http://math-frolic.blogspot.com/2017/05/the-saintly-erdos.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/05/the-saintly-erdos.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 14 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3671,17 +3671,17 @@ Isogonal
             <pubDate>Fri, 12 May 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: Is my Baby a Giant?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p052rtpr</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p052rtpr</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 12 May 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Voronoi Diagrams]]></title>
             <link>http://datagenetics.com/blog/may12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/may12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Fri, 12 May 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: Is my Baby a Giant?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p052rtpr</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p052rtpr</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 12 May 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4529,8 +4529,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[“Statistical Learning and Econometrics” Workshop at Erasmus University Rotterdam]]></title>
-            <link>http://freakonometrics.hypotheses.org/49964</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49964</guid>
+            <link>https://freakonometrics.hypotheses.org/49964</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/49964</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 08 May 2017 20:25:58 GMT</pubDate>
         </item>
@@ -4934,17 +4934,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 07 May 2017 11:30:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wisdom Versus Quantification]]></title>
-            <link>http://math-frolic.blogspot.com/2017/05/wisdom-versus-quantification.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/05/wisdom-versus-quantification.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 07 May 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nestled Circles]]></title>
             <link>http://mathtourist.blogspot.com/2017/05/nestled-circles.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/nestled-circles.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 07 May 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wisdom Versus Quantification]]></title>
+            <link>http://math-frolic.blogspot.com/2017/05/wisdom-versus-quantification.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/05/wisdom-versus-quantification.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 07 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5278,8 +5278,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Peut-on vraiment prévoir la probabilité de gagner une élection présidentielle ?]]></title>
-            <link>http://freakonometrics.hypotheses.org/50706</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50706</guid>
+            <link>https://freakonometrics.hypotheses.org/50706</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50706</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 05 May 2017 15:41:38 GMT</pubDate>
         </item>
@@ -5396,16 +5396,16 @@ Open sensor image printed on...]]></title>
             <pubDate>Fri, 05 May 2017 11:17:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blue Karma]]></title>
-            <link>http://mathtourist.blogspot.com/2017/05/blue-karma.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/blue-karma.html</guid>
+            <title><![CDATA[Reza Sarhangi (1952-2016)]]></title>
+            <link>http://mathtourist.blogspot.com/2017/05/reza-sarhangi-1952-2016.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/reza-sarhangi-1952-2016.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 05 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reza Sarhangi (1952-2016)]]></title>
-            <link>http://mathtourist.blogspot.com/2017/05/reza-sarhangi-1952-2016.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/reza-sarhangi-1952-2016.html</guid>
+            <title><![CDATA[Blue Karma]]></title>
+            <link>http://mathtourist.blogspot.com/2017/05/blue-karma.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/blue-karma.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 05 May 2017 11:00:00 GMT</pubDate>
         </item>
@@ -6090,8 +6090,8 @@ Open sensor image printed on...]]></title>
         </item>
         <item>
             <title><![CDATA[Proportion of people alive in 1945 that are still alive]]></title>
-            <link>http://freakonometrics.hypotheses.org/50695</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50695</guid>
+            <link>https://freakonometrics.hypotheses.org/50695</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50695</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 02 May 2017 14:26:57 GMT</pubDate>
         </item>
@@ -7283,8 +7283,8 @@ Someone left a diet pepsi...]]></title>
         </item>
         <item>
             <title><![CDATA[Le retour des abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50692</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50692</guid>
+            <link>https://freakonometrics.hypotheses.org/50692</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50692</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 27 Apr 2017 06:18:44 GMT</pubDate>
         </item>
@@ -7367,8 +7367,8 @@ Someone left a diet pepsi...]]></title>
         </item>
         <item>
             <title><![CDATA[Maudites Abeilles]]></title>
-            <link>http://freakonometrics.hypotheses.org/50673</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50673</guid>
+            <link>https://freakonometrics.hypotheses.org/50673</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50673</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 15:21:50 GMT</pubDate>
         </item>
@@ -7430,8 +7430,8 @@ Someone left a diet pepsi...]]></title>
         </item>
         <item>
             <title><![CDATA[Visualiser les résultats du premier tour]]></title>
-            <link>http://freakonometrics.hypotheses.org/50657</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50657</guid>
+            <link>https://freakonometrics.hypotheses.org/50657</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50657</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 26 Apr 2017 08:10:10 GMT</pubDate>
         </item>
