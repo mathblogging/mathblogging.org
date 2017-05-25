@@ -4,10 +4,31 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 May 2017 15:03:31 GMT</lastBuildDate>
-        <pubDate>Thu, 25 May 2017 15:03:29 GMT</pubDate>
+        <lastBuildDate>Thu, 25 May 2017 15:32:43 GMT</lastBuildDate>
+        <pubDate>Thu, 25 May 2017 15:32:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[normal vector]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">normal vector</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 25 May 2017 15:23:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[differentiable vector bundle]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">differentiable vector bundle</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 25 May 2017 15:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[topological vector bundle]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">topological vector bundle</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 25 May 2017 15:08:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[San Francisco housing debate:  A yimby responds]]></title>
             <link>http://andrewgelman.com/2017/05/25/san-francisco-housing-debate-yimby-responds/</link>
@@ -42,13 +63,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/DocMadhattan/~3/ynld6t4wmWI/holistic-detective-agency.html</guid>
             <dc:creator><![CDATA[Doc Madhattan]]></dc:creator>
             <pubDate>Thu, 25 May 2017 11:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ehrenfeucht-Fraïssé games]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Ehrenfeucht-Fraïssé games</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 25 May 2017 10:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Semismooth Newton Method for Fast, Generic Convex Programming - implmentation -]]></title>
@@ -137,7 +151,7 @@ Jack Morava said “Wow…”.]]></title>
             <pubDate>Wed, 24 May 2017 17:22:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Total angular momentum – commutation relations]]></title>
+            <title><![CDATA[Total angular momentum – matrix elements and commutation relations]]></title>
             <link>http://www.physicspages.com/2017/05/24/total-angular-momentum-commutation-relations/</link>
             <guid isPermaLink="false">http://www.physicspages.com/2017/05/24/total-angular-momentum-commutation-relations/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
@@ -2722,17 +2736,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (35)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Converting to blogdown]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
             <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (35)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3046,13 +3060,6 @@ Having worked in manufacturing..."]]></title>
             <guid isPermaLink="false">https://jeremykun.com/2017/04/24/testing-polynomial-equality/</guid>
             <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
             <pubDate>Mon, 24 Apr 2017 16:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As good as it gets]]></title>
-            <link>http://www.logicmatters.net/2017/04/24/8562/</link>
-            <guid isPermaLink="false">http://www.logicmatters.net/2017/04/24/8562/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Mon, 24 Apr 2017 15:17:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
