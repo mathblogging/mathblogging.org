@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 May 2017 22:04:21 GMT</lastBuildDate>
-        <pubDate>Sun, 28 May 2017 22:04:18 GMT</pubDate>
+        <lastBuildDate>Sun, 28 May 2017 22:33:17 GMT</lastBuildDate>
+        <pubDate>Sun, 28 May 2017 22:33:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[accelerating MCMC]]></title>
+            <link>https://xianblog.wordpress.com/2017/05/29/accelerating-mcmc/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/05/29/accelerating-mcmc/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sun, 28 May 2017 22:17:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stat of the Week Competition: May 27 – June 2 2017]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/7SX1N2ORcx0/</link>
@@ -816,13 +823,6 @@ Jack Morava said “Wow…”.]]></title>
             <pubDate>Sun, 21 May 2017 23:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Riddle of the Sands [not a book review]]]></title>
-            <link>https://xianblog.wordpress.com/2017/05/22/the-riddle-of-the-sands-not-a-book-review/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/05/22/the-riddle-of-the-sands-not-a-book-review/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sun, 21 May 2017 22:17:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stat of the Week Competition: May 20 – 26 2017]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/_CVwOycXf9s/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/_CVwOycXf9s/</guid>
@@ -1450,13 +1450,6 @@ Isogonal
             <guid isPermaLink="false">https://byorgey.wordpress.com/2017/05/15/algorithms-lecture-notes-and-assignments/</guid>
             <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
             <pubDate>Mon, 15 May 2017 18:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tautological line bundle]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">tautological line bundle</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 15 May 2017 17:58:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3 YEARS AGO (APRIL 2014): MEMORY LANE]]></title>
@@ -2993,13 +2986,6 @@ Open sensor image printed on...]]></title>
             <guid isPermaLink="false">https://jessecmckeown.tumblr.com/post/160065026600</guid>
             <dc:creator><![CDATA[https://jessecmckeown.tumblr.com/]]></dc:creator>
             <pubDate>Thu, 27 Apr 2017 23:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biology as Information Dynamics (Part 2)]]></title>
-            <link>https://johncarlosbaez.wordpress.com/2017/04/27/biology-as-information-dynamics-part-2/</link>
-            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2017/04/27/biology-as-information-dynamics-part-2/</guid>
-            <dc:creator><![CDATA[Azimuth]]></dc:creator>
-            <pubDate>Thu, 27 Apr 2017 22:28:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
