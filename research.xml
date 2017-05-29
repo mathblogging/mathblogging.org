@@ -4,10 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 May 2017 13:03:30 GMT</lastBuildDate>
-        <pubDate>Mon, 29 May 2017 13:03:27 GMT</pubDate>
+        <lastBuildDate>Mon, 29 May 2017 13:33:03 GMT</lastBuildDate>
+        <pubDate>Mon, 29 May 2017 13:33:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Basic Bundle Theory and K-Cohomology Invariants]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">Basic Bundle Theory and K-Cohomology Invariants</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 29 May 2017 13:29:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Static sensitivity analysis]]></title>
+            <link>http://andrewgelman.com/2017/05/29/static-sensitivity-analysis/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/05/29/static-sensitivity-analysis/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 29 May 2017 13:28:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In memory]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/05/in-memory.html</link>
@@ -702,13 +716,6 @@ Jack Morava said “Wow…”.]]></title>
             <guid isPermaLink="false">http://www.logicmatters.net/2017/05/22/gerhard-gentzens-shorthand-notes/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Mon, 22 May 2017 21:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[colimits of normal spaces]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">colimits of normal spaces</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 22 May 2017 19:41:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Design top down, Code bottom up]]></title>
@@ -2645,13 +2652,6 @@ Open sensor image printed on...]]></title>
             <pubDate>Wed, 03 May 2017 04:53:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prior information, not prior belief]]></title>
-            <link>http://andrewgelman.com/2017/05/02/prior-information-not-prior-belief-2/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/05/02/prior-information-not-prior-belief-2/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 03 May 2017 03:29:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In defense of integration by parts]]></title>
             <link>https://williewong.wordpress.com/2017/05/02/in-defense-of-integration-by-parts/</link>
             <guid isPermaLink="false">https://williewong.wordpress.com/2017/05/02/in-defense-of-integration-by-parts/</guid>
@@ -2911,17 +2911,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Sun, 30 Apr 2017 05:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (35)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Converting to blogdown]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/41Bo1f0RICA/</guid>
             <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (35)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/04/30/fortnightly-links-35/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
