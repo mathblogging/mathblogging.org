@@ -4,14 +4,21 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jun 2017 11:32:53 GMT</lastBuildDate>
-        <pubDate>Tue, 06 Jun 2017 11:32:50 GMT</pubDate>
+        <lastBuildDate>Tue, 06 Jun 2017 12:03:30 GMT</lastBuildDate>
+        <pubDate>Tue, 06 Jun 2017 12:03:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[planar]]></title>
+            <title><![CDATA[Poincare symmetry transformations]]></title>
             <link>null</link>
-            <guid isPermaLink="false">planar</guid>
+            <guid isPermaLink="false">Poincare symmetry transformations</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 06 Jun 2017 11:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[planar graph]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">planar graph</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Tue, 06 Jun 2017 11:29:11 GMT</pubDate>
         </item>
@@ -133,6 +140,13 @@
             <guid isPermaLink="false">https://jeremykun.com/2017/06/05/formulating-the-support-vector-machine-optimization-problem/</guid>
             <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 15:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[hereditary property]]></title>
+            <link>null</link>
+            <guid isPermaLink="false">hereditary property</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 05 Jun 2017 14:22:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How has my advice to psychology researchers changed since 2013?]]></title>
@@ -679,13 +693,6 @@
             <guid isPermaLink="false">http://andrewgelman.com/2017/05/31/click-graphics-demonstration-visualization-project-someone/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Wed, 31 May 2017 13:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[colimits of paracompact Hausdorff spaces]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">colimits of paracompact Hausdorff spaces</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 31 May 2017 13:27:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[War on Science -- part [really big number]]]></title>
@@ -2778,17 +2785,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An anagrammatic cautionary tale]]></title>
-            <link>http://blog.plover.com/misc/redpill.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
             <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An anagrammatic cautionary tale]]></title>
+            <link>http://blog.plover.com/misc/redpill.html</link>
+            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
         </item>
         <item>
@@ -2867,13 +2874,6 @@ Open sensor image printed on...]]></title>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2017/05/06/icon-index-symbol-%e2%80%a2-16/</guid>
             <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
             <pubDate>Sat, 06 May 2017 18:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[embedding of topological spaces]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">embedding of topological spaces</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 06 May 2017 17:01:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
