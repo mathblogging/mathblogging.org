@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Jun 2017 03:32:53 GMT</lastBuildDate>
-        <pubDate>Wed, 07 Jun 2017 03:32:51 GMT</pubDate>
+        <lastBuildDate>Wed, 07 Jun 2017 04:03:02 GMT</lastBuildDate>
+        <pubDate>Wed, 07 Jun 2017 04:03:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[A relaxation technique]]></title>
+            <link>http://blog.sigfpe.com/2017/06/a-relaxation-technique.html</link>
+            <guid isPermaLink="false">http://blog.sigfpe.com/2017/06/a-relaxation-technique.html</guid>
+            <dc:creator><![CDATA[A Neighborhood of Infinity]]></dc:creator>
+            <pubDate>Wed, 07 Jun 2017 03:32:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Childhood memories]]></title>
             <link>http://blogs.adelaide.edu.au/maths-learning/2017/06/07/childhood-memories/</link>
@@ -119,13 +126,6 @@
             <guid isPermaLink="false">http://www.physicspages.com/2017/06/06/spherical-harmonics-from-power-series-examples-for-m0/</guid>
             <dc:creator><![CDATA[Physics pages]]></dc:creator>
             <pubDate>Tue, 06 Jun 2017 14:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kahn-Priddy theorem]]></title>
-            <link>null</link>
-            <guid isPermaLink="false">Kahn-Priddy theorem</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 06 Jun 2017 14:03:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[inverse tangent and complex exponential function]]></title>
@@ -2362,16 +2362,16 @@ Isogonal
             <pubDate>Mon, 15 May 2017 02:02:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The classification problem for models of set theory]]></title>
-            <link>https://scoskey.github.io/the-classification-problem-for-models-of-zfc</link>
-            <guid isPermaLink="false">https://scoskey.github.io/the-classification-problem-for-models-of-zfc</guid>
+            <title><![CDATA[On the classification of vertex-transitive structures]]></title>
+            <link>https://scoskey.github.io/on-the-classification-of-vertex-transitive-structures</link>
+            <guid isPermaLink="false">https://scoskey.github.io/on-the-classification-of-vertex-transitive-structures</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 15 May 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On the classification of vertex-transitive structures]]></title>
-            <link>https://scoskey.github.io/on-the-classification-of-vertex-transitive-structures</link>
-            <guid isPermaLink="false">https://scoskey.github.io/on-the-classification-of-vertex-transitive-structures</guid>
+            <title><![CDATA[The classification problem for models of set theory]]></title>
+            <link>https://scoskey.github.io/the-classification-problem-for-models-of-zfc</link>
+            <guid isPermaLink="false">https://scoskey.github.io/the-classification-problem-for-models-of-zfc</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 15 May 2017 00:00:00 GMT</pubDate>
         </item>
@@ -2827,17 +2827,17 @@ Open sensor image printed on...]]></title>
             <pubDate>Mon, 08 May 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An anagrammatic cautionary tale]]></title>
-            <link>http://blog.plover.com/misc/redpill.html</link>
-            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dot Grid Paper for Writing Mathematics]]></title>
             <link>https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</link>
             <guid isPermaLink="false">https://nickhigham.wordpress.com/2017/05/08/dot-grid-paper-for-writing-mathematics/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An anagrammatic cautionary tale]]></title>
+            <link>http://blog.plover.com/misc/redpill.html</link>
+            <guid isPermaLink="false">http://blog.plover.com/misc/redpill.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Mon, 08 May 2017 12:25:00 GMT</pubDate>
         </item>
         <item>
