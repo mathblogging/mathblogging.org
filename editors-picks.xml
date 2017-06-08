@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Jun 2017 21:32:55 GMT</lastBuildDate>
-        <pubDate>Thu, 08 Jun 2017 21:32:53 GMT</pubDate>
+        <lastBuildDate>Thu, 08 Jun 2017 22:03:16 GMT</lastBuildDate>
+        <pubDate>Thu, 08 Jun 2017 22:03:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -32,27 +32,6 @@ https://t.co/P1CYUfV7PW …
             <pubDate>Mon, 03 Apr 2017 10:08:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[Excellent blog post by @thewordninja_bk:  A Case for Teaching Inquiry https://t.co/YBqSxzXZrr #mbpick]]></description>
-            <guid isPermaLink="false">https://www.artofmathematics.org/blogs/cvonrenesse/brian-katz-a-case-for-teaching-inquiry</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Sat, 25 Feb 2017 00:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <description><![CDATA[What is an Experimental Math Course &amp; Why Should We Care? By Lara Pudwell @amermathsoc #mbpick https://t.co/vyL1vwbnvh]]></description>
-            <guid isPermaLink="false">http://blogs.ams.org/matheducation/2017/01/23/what-is-an-experimental-math-course-and-why-should-we-care/</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Mon, 23 Jan 2017 23:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <description><![CDATA[The @rmathematicus is The Man from Nowhere #mbpicks https://t.co/CdCciUPNr7]]></description>
-            <guid isPermaLink="false">https://thonyc.wordpress.com/2017/04/21/the-man-from-nowhere/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Fri, 21 Apr 2017 12:58:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
             <description><![CDATA[If you enjoy Jim Propp's writing then you have to watch his wonderful talk on "math, magic, and mystery": https://t.co/K4N6rv05nu #mbpick]]></description>
             <guid isPermaLink="false">http://ow.ly/BGjE30c0G7f</guid>
@@ -69,12 +48,11 @@ https://t.co/P5pOe1dpDR …]]></description>
             <pubDate>Wed, 24 May 2017 16:00:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[A lot to chew on from Stephen Wolfram commemorating the 15th anniversary of his 'New Kind of Science':
-https://t.co/p8WAoszVZC #mbpick]]></description>
-            <guid isPermaLink="false">http://ow.ly/TjSE30bO8Le</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 17 May 2017 15:48:20 GMT</pubDate>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <description><![CDATA[The @rmathematicus is The Man from Nowhere #mbpicks https://t.co/CdCciUPNr7]]></description>
+            <guid isPermaLink="false">https://thonyc.wordpress.com/2017/04/21/the-man-from-nowhere/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Fri, 21 Apr 2017 12:58:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -88,10 +66,32 @@ https://t.co/JULyQDAdlZ
         </item>
         <item>
             <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[Excellent blog post by @thewordninja_bk:  A Case for Teaching Inquiry https://t.co/YBqSxzXZrr #mbpick]]></description>
+            <guid isPermaLink="false">https://www.artofmathematics.org/blogs/cvonrenesse/brian-katz-a-case-for-teaching-inquiry</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Sat, 25 Feb 2017 00:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@danaernst's pick]]></title>
+            <description><![CDATA[What is an Experimental Math Course &amp; Why Should We Care? By Lara Pudwell @amermathsoc #mbpick https://t.co/vyL1vwbnvh]]></description>
+            <guid isPermaLink="false">http://blogs.ams.org/matheducation/2017/01/23/what-is-an-experimental-math-course-and-why-should-we-care/</guid>
+            <dc:creator><![CDATA[@danaernst]]></dc:creator>
+            <pubDate>Mon, 23 Jan 2017 23:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@danaernst's pick]]></title>
             <description><![CDATA[“Mathematics for Human Flourishing” by @mathyawp https://t.co/qx5Cd6y004 #mbpick]]></description>
             <guid isPermaLink="false">https://bit.ly/math-flourish</guid>
             <dc:creator><![CDATA[@danaernst]]></dc:creator>
             <pubDate>Sun, 08 Jan 2017 18:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[A lot to chew on from Stephen Wolfram commemorating the 15th anniversary of his 'New Kind of Science':
+https://t.co/p8WAoszVZC #mbpick]]></description>
+            <guid isPermaLink="false">http://ow.ly/TjSE30bO8Le</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Wed, 17 May 2017 15:48:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
