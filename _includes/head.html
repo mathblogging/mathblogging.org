@@ -8,7 +8,7 @@
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{% if page.title %}{{site.title}} - {{ page.title }}{% else %}{{ site.title }}{% endif %}" href="{{ site.url }}{{ site.baseurl }}{% if page.feedLink %}{{ page.feedLink }}{% else %}posts{% endif %}.xml" />
   <script type="text/javascript">
     window.onload = function() {
       var times = document.getElementsByTagName("time");
