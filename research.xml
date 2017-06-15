@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jun 2017 22:03:39 GMT</lastBuildDate>
-        <pubDate>Thu, 15 Jun 2017 22:03:37 GMT</pubDate>
+        <lastBuildDate>Thu, 15 Jun 2017 22:32:49 GMT</lastBuildDate>
+        <pubDate>Thu, 15 Jun 2017 22:32:47 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[convergence of MCMC]]></title>
+            <link>https://xianblog.wordpress.com/2017/06/16/convergence-of-mcmc/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/06/16/convergence-of-mcmc/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Thu, 15 Jun 2017 22:17:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Game Description: Cutthroat and Impartial Cutthroat]]></title>
             <link>http://combinatorialgametheory.blogspot.com/2017/06/game-description-cutthroat-and.html</link>
@@ -822,13 +829,6 @@ A new geometric design every day]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2017/06/07/workshop-reproducibility-machine-learning/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Wed, 07 Jun 2017 22:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fast ε-free ABC]]></title>
-            <link>https://xianblog.wordpress.com/2017/06/08/fast-%25ce%25b5-free-abc/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2017/06/08/fast-%ce%b5-free-abc/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 07 Jun 2017 22:17:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Structural Change and Big Data]]></title>
@@ -2986,13 +2986,6 @@ Isogonal
             <guid isPermaLink="false">https://symomega.wordpress.com/2017/05/16/forrest-fellowships/</guid>
             <dc:creator><![CDATA[SymOmega]]></dc:creator>
             <pubDate>Tue, 16 May 2017 02:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linkage]]></title>
-            <link>https://11011110.github.io/blog/2017/05/15/linkage.html</link>
-            <guid isPermaLink="false">https://11011110.github.io/blog/2017/05/15/linkage.html</guid>
-            <dc:creator><![CDATA[11011110]]></dc:creator>
-            <pubDate>Mon, 15 May 2017 22:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
