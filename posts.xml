@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jun 2017 13:02:57 GMT</lastBuildDate>
-        <pubDate>Fri, 16 Jun 2017 13:02:54 GMT</pubDate>
+        <lastBuildDate>Fri, 16 Jun 2017 13:33:06 GMT</lastBuildDate>
+        <pubDate>Fri, 16 Jun 2017 13:33:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[SPEED:  Parallelizing Stan using the Message Passing Interface (MPI)]]></title>
+            <link>http://andrewgelman.com/2017/06/16/speed-parallelizing-stan-using-message-passing-interface-mpi/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/06/16/speed-parallelizing-stan-using-message-passing-interface-mpi/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 16 Jun 2017 13:01:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I know you've probably already seen this, but it's too good not to post.]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/06/i-know-youve-probably-already-seen-this.html</link>
@@ -1303,13 +1310,6 @@ Bust - 160105]]></title>
             <pubDate>Mon, 12 Jun 2017 12:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mall Castle]]></title>
-            <link>http://mathtourist.blogspot.com/2017/06/mall-castle.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/mall-castle.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[For Alan Turing Wannabes]]></title>
             <link>http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</guid>
@@ -1317,10 +1317,10 @@ Bust - 160105]]></title>
             <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.307 - Tourism de Force]]></title>
-            <link>http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <title><![CDATA[Mall Castle]]></title>
+            <link>http://mathtourist.blogspot.com/2017/06/mall-castle.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/mall-castle.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1328,6 +1328,13 @@ Bust - 160105]]></title>
             <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/0ZOI4HtF6ME/</link>
             <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/0ZOI4HtF6ME/</guid>
             <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
+            <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.307 - Tourism de Force]]></title>
+            <link>http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1569,17 +1576,17 @@ Bust - 160105]]></title>
             <pubDate>Sun, 11 Jun 2017 11:39:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Infinite and Perfect, Studied by the Finite and Flawed]]></title>
-            <link>http://math-frolic.blogspot.com/2017/06/the-infinite-and-perfect-studied-by.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/06/the-infinite-and-perfect-studied-by.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 11 Jun 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[City Halls of Toronto]]></title>
             <link>http://mathtourist.blogspot.com/2017/06/city-halls-of-toronto.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/city-halls-of-toronto.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 11 Jun 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Infinite and Perfect, Studied by the Finite and Flawed]]></title>
+            <link>http://math-frolic.blogspot.com/2017/06/the-infinite-and-perfect-studied-by.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/06/the-infinite-and-perfect-studied-by.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 11 Jun 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3107,16 +3114,16 @@ rubik’s donut]]></title>
             <pubDate>Mon, 05 Jun 2017 17:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting Detailed with Tech (Guest Post)]]></title>
-            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</guid>
+            <title><![CDATA[Transitioning from Teacher-Based to Teacher-Facilitated Learning with Technology (Guest Post - Ken Cooper)]]></title>
+            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</guid>
             <dc:creator><![CDATA[Flipping with Kirch]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 17:57:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Transitioning from Teacher-Based to Teacher-Facilitated Learning with Technology (Guest Post - Ken Cooper)]]></title>
-            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</guid>
+            <title><![CDATA[Getting Detailed with Tech (Guest Post)]]></title>
+            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</guid>
             <dc:creator><![CDATA[Flipping with Kirch]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 17:57:00 GMT</pubDate>
         </item>
@@ -3219,17 +3226,17 @@ rubik’s donut]]></title>
             <pubDate>Mon, 05 Jun 2017 11:18:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Red Waterfall]]></title>
-            <link>http://mathtourist.blogspot.com/2017/06/red-waterfall.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/red-waterfall.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 05 Jun 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.306 - Side Kicks]]></title>
             <link>http://mathtans.blogspot.com/2017/06/s9306-side-kicks.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/06/s9306-side-kicks.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 05 Jun 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Red Waterfall]]></title>
+            <link>http://mathtourist.blogspot.com/2017/06/red-waterfall.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/red-waterfall.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3555,17 +3562,17 @@ rubik’s donut]]></title>
             <pubDate>Sun, 04 Jun 2017 11:27:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rapunzel's Braid]]></title>
-            <link>http://mathtourist.blogspot.com/2017/06/rapunzels-braid.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/rapunzels-braid.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 04 Jun 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Day the Light Dawned]]></title>
             <link>http://math-frolic.blogspot.com/2017/06/the-day-light-dawned.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/06/the-day-light-dawned.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 04 Jun 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rapunzel's Braid]]></title>
+            <link>http://mathtourist.blogspot.com/2017/06/rapunzels-braid.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/rapunzels-braid.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 04 Jun 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5011,17 +5018,17 @@ rubik’s donut]]></title>
             <pubDate>Mon, 29 May 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.305 - Be Trade]]></title>
-            <link>http://mathtans.blogspot.com/2017/05/s9305-be-trade.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/05/s9305-be-trade.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 29 May 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Autumn Star]]></title>
             <link>http://mathtourist.blogspot.com/2017/05/autumn-star.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/autumn-star.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 29 May 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.305 - Be Trade]]></title>
+            <link>http://mathtans.blogspot.com/2017/05/s9305-be-trade.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/05/s9305-be-trade.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 29 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5291,17 +5298,17 @@ rubik’s donut]]></title>
             <pubDate>Sun, 28 May 2017 00:56:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (37)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/05/28/fortnightly-links-37/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/05/28/fortnightly-links-37/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 28 May 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS More or Less: Have 65% of future jobs not yet been invented?]]></title>
             <link>http://www.bbc.co.uk/programmes/p05436k2</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05436k2</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Sun, 28 May 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (37)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/05/28/fortnightly-links-37/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/05/28/fortnightly-links-37/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 28 May 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5655,17 +5662,17 @@ rubik’s donut]]></title>
             <pubDate>Fri, 26 May 2017 00:46:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spies, care homes, and ending sneak peeks]]></title>
-            <link>http://www.bbc.co.uk/programmes/p05436sf</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05436sf</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 26 May 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.304b - Art Aside: Sine]]></title>
             <link>http://mathtans.blogspot.com/2017/05/s9304b-art-aside-sine.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/05/s9304b-art-aside-sine.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Fri, 26 May 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spies, care homes, and ending sneak peeks]]></title>
+            <link>http://www.bbc.co.uk/programmes/p05436sf</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05436sf</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 26 May 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6301,17 +6308,17 @@ Jack Morava said “Wow…”.]]></title>
             <pubDate>Tue, 23 May 2017 11:42:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Niagara Falls in Spring]]></title>
-            <link>http://mathtourist.blogspot.com/2017/05/niagara-falls-in-spring.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/niagara-falls-in-spring.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 23 May 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cantor Weirdness]]></title>
             <link>http://math-frolic.blogspot.com/2017/05/cantor-weirdness.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/05/cantor-weirdness.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Tue, 23 May 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Niagara Falls in Spring]]></title>
+            <link>http://mathtourist.blogspot.com/2017/05/niagara-falls-in-spring.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/05/niagara-falls-in-spring.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 23 May 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7173,13 +7180,6 @@ Exhibition “Children: personal...]]></title>
             <pubDate>Thu, 18 May 2017 19:53:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My review of Duncan Watts’s book, “Everything is Obvious (once you know the answer)”]]></title>
-            <link>http://andrewgelman.com/2017/05/18/review-duncan-wattss-book-everything-obvious-know-answer/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/05/18/review-duncan-wattss-book-everything-obvious-know-answer/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 18 May 2017 19:37:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Neutron Star]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Bd7BJhlJh0g/neutron-star.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Bd7BJhlJh0g/neutron-star.html</guid>
@@ -7317,16 +7317,16 @@ YERJULF:TVTYZYFRJYTW_NJPFVTNZN<KZZZZZ...]]></title>
             <pubDate>Wed, 17 May 2017 19:00:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[تصحيح الامتحان الجهوي 2016 تمرين 7 الهندسة الفضائية]]></title>
-            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/ysDKPsGr65U/2016-7.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/ysDKPsGr65U/2016-7.html</guid>
+            <title><![CDATA[تصحيح الامتحان الجهوي 2016 تمرين 6 حول الازاحة]]></title>
+            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/p9yr8A1P6EI/2016-6.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/p9yr8A1P6EI/2016-6.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Wed, 17 May 2017 18:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[تصحيح الامتحان الجهوي 2016 تمرين 6 حول الازاحة]]></title>
-            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/p9yr8A1P6EI/2016-6.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/p9yr8A1P6EI/2016-6.html</guid>
+            <title><![CDATA[تصحيح الامتحان الجهوي 2016 تمرين 7 الهندسة الفضائية]]></title>
+            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/ysDKPsGr65U/2016-7.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/ysDKPsGr65U/2016-7.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Wed, 17 May 2017 18:47:00 GMT</pubDate>
         </item>
@@ -7614,13 +7614,6 @@ Isogonal
             <guid isPermaLink="false">http://blog.stephenwolfram.com/2017/05/a-new-kind-of-science-a-15-year-view/</guid>
             <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
             <pubDate>Tue, 16 May 2017 13:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If an ugrad asks `is field  X worth studying' the answer is almost always yes]]></title>
-            <link>http://blog.computationalcomplexity.org/2017/05/if-ugrad-asks-is-field-x-worth-studying.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2017/05/if-ugrad-asks-is-field-x-worth-studying.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Tue, 16 May 2017 13:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

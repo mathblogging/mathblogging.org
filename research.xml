@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jun 2017 13:02:56 GMT</lastBuildDate>
-        <pubDate>Fri, 16 Jun 2017 13:02:54 GMT</pubDate>
+        <lastBuildDate>Fri, 16 Jun 2017 13:33:05 GMT</lastBuildDate>
+        <pubDate>Fri, 16 Jun 2017 13:33:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[SPEED:  Parallelizing Stan using the Message Passing Interface (MPI)]]></title>
+            <link>http://andrewgelman.com/2017/06/16/speed-parallelizing-stan-using-message-passing-interface-mpi/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/06/16/speed-parallelizing-stan-using-message-passing-interface-mpi/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 16 Jun 2017 13:01:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I know you've probably already seen this, but it's too good not to post.]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/06/i-know-youve-probably-already-seen-this.html</link>
@@ -2755,13 +2762,6 @@ Exhibition “Children: personal...]]></title>
             <pubDate>Thu, 18 May 2017 19:53:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My review of Duncan Watts’s book, “Everything is Obvious (once you know the answer)”]]></title>
-            <link>http://andrewgelman.com/2017/05/18/review-duncan-wattss-book-everything-obvious-know-answer/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/05/18/review-duncan-wattss-book-everything-obvious-know-answer/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 18 May 2017 19:37:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Perpetuating the myths addendum – ‘The Copernican Shock]]></title>
             <link>https://thonyc.wordpress.com/2017/05/18/perpetuating-the-myths-addendum-the-copernican-shock/</link>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2017/05/18/perpetuating-the-myths-addendum-the-copernican-shock/</guid>
@@ -2972,13 +2972,6 @@ Isogonal
             <guid isPermaLink="false">http://blog.stephenwolfram.com/2017/05/a-new-kind-of-science-a-15-year-view/</guid>
             <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
             <pubDate>Tue, 16 May 2017 13:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If an ugrad asks `is field  X worth studying' the answer is almost always yes]]></title>
-            <link>http://blog.computationalcomplexity.org/2017/05/if-ugrad-asks-is-field-x-worth-studying.html</link>
-            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2017/05/if-ugrad-asks-is-field-x-worth-studying.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Tue, 16 May 2017 13:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
