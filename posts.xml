@@ -4,8 +4,8 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jun 2017 04:03:34 GMT</lastBuildDate>
-        <pubDate>Mon, 19 Jun 2017 04:03:31 GMT</pubDate>
+        <lastBuildDate>Mon, 19 Jun 2017 04:33:05 GMT</lastBuildDate>
+        <pubDate>Mon, 19 Jun 2017 04:33:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -322,6 +322,13 @@
             <guid isPermaLink="false">http://windowsontheory.org/2017/06/17/the-1st-symposium-on-simplicity-in-algorithms-guest-post/</guid>
             <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
             <pubDate>Sat, 17 Jun 2017 17:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[internal type theory]]></title>
+            <link>https://ncatlab.org/nlab/show/internal+type+theory</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/internal+type+theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 17 Jun 2017 17:35:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big Moments: Push]]></title>
@@ -1863,17 +1870,17 @@ Bust - 160105]]></title>
             <pubDate>Mon, 12 Jun 2017 12:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[For Alan Turing Wannabes]]></title>
-            <link>http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</link>
-            <guid isPermaLink="false">http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</guid>
-            <dc:creator><![CDATA[MathTango...]]></dc:creator>
-            <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mall Castle]]></title>
             <link>http://mathtourist.blogspot.com/2017/06/mall-castle.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/mall-castle.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For Alan Turing Wannabes]]></title>
+            <link>http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</link>
+            <guid isPermaLink="false">http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</guid>
+            <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2296,17 +2303,17 @@ Patience]]></title>
             <pubDate>Sat, 10 Jun 2017 05:00:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Deep Learning Meets Sparse Coding, Chandra Sekhar Seelamantula]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Y9rrWUomMMQ/saturday-morning-video-deep-learning.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Y9rrWUomMMQ/saturday-morning-video-deep-learning.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Sat, 10 Jun 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[« Rien ne sert de courir, il faut pointer à part », dit la tortue Logo]]></title>
             <link>http://images.math.cnrs.fr/Rien-ne-sert-de-courir-il-faut-pointer-a-part-dit-la-tortue-Logo.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Rien-ne-sert-de-courir-il-faut-pointer-a-part-dit-la-tortue-Logo.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Sat, 10 Jun 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saturday Morning Video: Deep Learning Meets Sparse Coding, Chandra Sekhar Seelamantula]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Y9rrWUomMMQ/saturday-morning-video-deep-learning.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Y9rrWUomMMQ/saturday-morning-video-deep-learning.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 10 Jun 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3590,16 +3597,16 @@ rubik’s donut]]></title>
             <pubDate>Mon, 05 Jun 2017 17:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Transitioning from Teacher-Based to Teacher-Facilitated Learning with Technology (Guest Post - Ken Cooper)]]></title>
-            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</guid>
+            <title><![CDATA[Getting Detailed with Tech (Guest Post)]]></title>
+            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</guid>
             <dc:creator><![CDATA[Flipping with Kirch]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 17:57:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting Detailed with Tech (Guest Post)]]></title>
-            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</guid>
+            <title><![CDATA[Transitioning from Teacher-Based to Teacher-Facilitated Learning with Technology (Guest Post - Ken Cooper)]]></title>
+            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</guid>
             <dc:creator><![CDATA[Flipping with Kirch]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 17:57:00 GMT</pubDate>
         </item>
@@ -3744,17 +3751,17 @@ rubik’s donut]]></title>
             <pubDate>Mon, 05 Jun 2017 09:28:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[More Reading Fractions as Decimals]]></title>
-            <link>http://www.madmath.com/2017/06/more-reading-fractions-as-decimals.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/06/more-reading-fractions-as-decimals.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 05 Jun 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Summary Of Some Summery Summation]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/summary-summery-summation/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/summary-summery-summation/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 05 Jun 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Reading Fractions as Decimals]]></title>
+            <link>http://www.madmath.com/2017/06/more-reading-fractions-as-decimals.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/06/more-reading-fractions-as-decimals.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4836,13 +4843,6 @@ rubik’s donut]]></title>
             <pubDate>Wed, 31 May 2017 18:08:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[diagonal fill-in &gt; history]]></title>
-            <link>https://ncatlab.org/nlab/show/diagonal+fill-in+%253E+history</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/diagonal+fill-in+%3E+history</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 31 May 2017 18:01:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kandinsky's geometry inspires poetry . . .]]></title>
             <link>http://poetrywithmathematics.blogspot.com/2017/05/kandinskys-geometry-inspires-poetry.html</link>
             <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2017/05/kandinskys-geometry-inspires-poetry.html</guid>
@@ -5466,17 +5466,17 @@ rubik’s donut]]></title>
             <pubDate>Mon, 29 May 2017 10:30:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Monday Must Reads: Volume 5]]></title>
-            <link>http://mathequalslove.blogspot.com/2017/05/monday-must-reads-volume-5.html</link>
-            <guid isPermaLink="false">http://mathequalslove.blogspot.com/2017/05/monday-must-reads-volume-5.html</guid>
-            <dc:creator><![CDATA[Math = Love]]></dc:creator>
-            <pubDate>Mon, 29 May 2017 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Random Graph (Universal Structures II)]]></title>
             <link>https://pointatinfinityblog.wordpress.com/2017/05/29/the-random-graph-universal-structures-ii/</link>
             <guid isPermaLink="false">https://pointatinfinityblog.wordpress.com/2017/05/29/the-random-graph-universal-structures-ii/</guid>
             <dc:creator><![CDATA[Point at Infinity]]></dc:creator>
+            <pubDate>Mon, 29 May 2017 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monday Must Reads: Volume 5]]></title>
+            <link>http://mathequalslove.blogspot.com/2017/05/monday-must-reads-volume-5.html</link>
+            <guid isPermaLink="false">http://mathequalslove.blogspot.com/2017/05/monday-must-reads-volume-5.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
             <pubDate>Mon, 29 May 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6222,17 +6222,17 @@ rubik’s donut]]></title>
             <pubDate>Thu, 25 May 2017 14:15:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Taxicab geometry]]></title>
-            <link>http://blog.mathedpage.org/2017/05/taxicab-geometry.html</link>
-            <guid isPermaLink="false">http://blog.mathedpage.org/2017/05/taxicab-geometry.html</guid>
-            <dc:creator><![CDATA[My Math Education Blog]]></dc:creator>
-            <pubDate>Thu, 25 May 2017 13:44:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A poem with 90 lines, 269 words . . .]]></title>
             <link>http://poetrywithmathematics.blogspot.com/2017/05/a-poem-with-90-lines-269-words.html</link>
             <guid isPermaLink="false">http://poetrywithmathematics.blogspot.com/2017/05/a-poem-with-90-lines-269-words.html</guid>
             <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
+            <pubDate>Thu, 25 May 2017 13:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taxicab geometry]]></title>
+            <link>http://blog.mathedpage.org/2017/05/taxicab-geometry.html</link>
+            <guid isPermaLink="false">http://blog.mathedpage.org/2017/05/taxicab-geometry.html</guid>
+            <dc:creator><![CDATA[My Math Education Blog]]></dc:creator>
             <pubDate>Thu, 25 May 2017 13:44:00 GMT</pubDate>
         </item>
         <item>
@@ -6539,17 +6539,17 @@ Jack Morava said “Wow…”.]]></title>
             <pubDate>Wed, 24 May 2017 06:07:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DEvol - Automated deep neural network design with genetic programming]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/9YmvMlc2Eco/devol-automated-deep-neural-network.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/9YmvMlc2Eco/devol-automated-deep-neural-network.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 24 May 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Orbit Memory]]></title>
             <link>http://mrburkemath.blogspot.com/2017/05/orbit-memory.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/05/orbit-memory.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Wed, 24 May 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DEvol - Automated deep neural network design with genetic programming]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/9YmvMlc2Eco/devol-automated-deep-neural-network.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/9YmvMlc2Eco/devol-automated-deep-neural-network.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 24 May 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
