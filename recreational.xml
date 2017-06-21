@@ -4,10 +4,17 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jun 2017 15:03:27 GMT</lastBuildDate>
-        <pubDate>Wed, 21 Jun 2017 15:03:26 GMT</pubDate>
+        <lastBuildDate>Wed, 21 Jun 2017 15:32:40 GMT</lastBuildDate>
+        <pubDate>Wed, 21 Jun 2017 15:32:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[xkcd: Once Per Day]]></title>
+            <link>http://www.calculushumor.com/calculus-humor/xkcd-once-per-day</link>
+            <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-once-per-day</guid>
+            <dc:creator><![CDATA[Calculus Humor - Calculus Humor]]></dc:creator>
+            <pubDate>Wed, 21 Jun 2017 15:28:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ask Uncle Colin: A STEP in the right direction]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-step-right-direction/</link>
@@ -1032,13 +1039,6 @@ rubik’s donut]]></title>
             <pubDate>Mon, 29 May 2017 13:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[xkcd: Opening Crawl]]></title>
-            <link>http://www.calculushumor.com/calculus-humor/xkcd-opening-crawl</link>
-            <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-opening-crawl</guid>
-            <dc:creator><![CDATA[Calculus Humor - Calculus Humor]]></dc:creator>
-            <pubDate>Mon, 29 May 2017 13:12:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.305 - Be Trade]]></title>
             <link>http://mathtans.blogspot.com/2017/05/s9305-be-trade.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/05/s9305-be-trade.html</guid>
@@ -1268,13 +1268,6 @@ rubik’s donut]]></title>
             <guid isPermaLink="false">http://mathscinotes.com/2017/05/recoil-calculation-example/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Sun, 21 May 2017 16:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Collective Coin Coincidence]]></title>
-            <link>http://headinside.blogspot.com/2017/05/the-collective-coin-coincidence.html</link>
-            <guid isPermaLink="false">http://headinside.blogspot.com/2017/05/the-collective-coin-coincidence.html</guid>
-            <dc:creator><![CDATA[Grey Matters: Blog]]></dc:creator>
-            <pubDate>Sun, 21 May 2017 15:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
