@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The ever curious <a href="https://twitter.com/christianp">@christianp</a> tries something new and talks topoi with David Roberts <a href="https://t.co/DAo8pzvS39">https://t.co/DAo8pzvS39</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/878534016500211712">June 24, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">On shelves and serendipity in research by <a href="https://twitter.com/rmathematicus">@rmathematicus</a>  <a href="https://t.co/3OrwLewwa7">https://t.co/3OrwLewwa7</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/873500795949518848">June 10, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">On math and genius by <a href="https://twitter.com/mathbabedotorg">@mathbabedotorg</a> <a href="https://t.co/ysUIwKWXw8">https://t.co/ysUIwKWXw8</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/872434078724886528">June 7, 2017</a></blockquote>
