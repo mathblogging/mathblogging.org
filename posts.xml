@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Jul 2017 01:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2017 01:32:29 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Jul 2017 01:02:57 GMT</pubDate>
+        <pubDate>Sun, 02 Jul 2017 01:32:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Haskell Curry]]></title>
+            <link>https://ncatlab.org/nlab/show/Haskell+Curry</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Haskell+Curry</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 02 Jul 2017 01:28:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[vive le phoque et le castor]]></title>
             <link>https://ifwisdomwereteachable.wordpress.com/2017/07/02/vive-le-phoque-et-le-castor/</link>
@@ -397,13 +404,6 @@ Rainbow 31, 2017]]></title>
             <pubDate>Fri, 30 Jun 2017 16:09:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My New Cabin Construction]]></title>
-            <link>http://mathscinotes.com/2017/06/my-new-cabin-construction/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2017/06/my-new-cabin-construction/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Fri, 30 Jun 2017 16:09:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Researcher who tangled with CrossFit loses two more papers]]></title>
             <link>http://retractionwatch.com/2017/06/30/researcher-tangled-crossfit-loses-two-papers/</link>
             <guid isPermaLink="false">http://retractionwatch.com/2017/06/30/researcher-tangled-crossfit-loses-two-papers/</guid>
@@ -605,13 +605,6 @@ Rainbow 31, 2017]]></title>
             <guid isPermaLink="false">https://kristalcantwell.wordpress.com/2017/06/30/various-problems/</guid>
             <dc:creator><![CDATA[Euclidean Ramsey Theory]]></dc:creator>
             <pubDate>Fri, 30 Jun 2017 05:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis of 555-Based PWM Circuit]]></title>
-            <link>http://mathscinotes.com/2017/06/analysis-of-555-based-pwm-circuit/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2017/06/analysis-of-555-based-pwm-circuit/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Fri, 30 Jun 2017 03:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unizor - Partial Differential Equations - Heat Equation]]></title>
@@ -1329,8 +1322,8 @@ Rainbow 31, 2017]]></title>
         </item>
         <item>
             <title><![CDATA[Short visit in Boston, MA]]></title>
-            <link>http://freakonometrics.hypotheses.org/49967</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/49967</guid>
+            <link>https://freakonometrics.hypotheses.org/49967</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/49967</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Wed, 28 Jun 2017 04:29:26 GMT</pubDate>
         </item>
@@ -1616,8 +1609,8 @@ Rainbow 31, 2017]]></title>
         </item>
         <item>
             <title><![CDATA[Short trip in Detroit, MI]]></title>
-            <link>http://freakonometrics.hypotheses.org/50723</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50723</guid>
+            <link>https://freakonometrics.hypotheses.org/50723</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50723</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 20:43:07 GMT</pubDate>
         </item>
@@ -1711,13 +1704,6 @@ Rainbow 31, 2017]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/DocMadhattan/~3/gqPN19Q2lzA/jmp-58-4-path-integrals-and-friends.html</guid>
             <dc:creator><![CDATA[Doc Madhattan]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 16:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visualizing US vs IJN Aircraft Carrier Numbers During WW2]]></title>
-            <link>http://mathscinotes.com/2017/06/visualizing-us-vs-ijn-aircraft-carrier-numbers-during-ww2/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2017/06/visualizing-us-vs-ijn-aircraft-carrier-numbers-during-ww2/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Mon, 26 Jun 2017 15:37:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[xkcd: Telephoto]]></title>
@@ -1847,23 +1833,23 @@ Rainbow 31, 2017]]></title>
         </item>
         <item>
             <title><![CDATA[Les marchés prédictifs comme technique de prévision]]></title>
-            <link>http://freakonometrics.hypotheses.org/50870</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50870</guid>
+            <link>https://freakonometrics.hypotheses.org/50870</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50870</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 10:01:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Classroom Contracts]]></title>
-            <link>http://www.madmath.com/2017/06/on-classroom-contracts.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/06/on-classroom-contracts.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 26 Jun 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Attack of the Mathematical Zombies: Calc vs non-calc]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 26 Jun 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Classroom Contracts]]></title>
+            <link>http://www.madmath.com/2017/06/on-classroom-contracts.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/06/on-classroom-contracts.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2179,8 +2165,8 @@ Group IX/SUW, No. 17. The Swan, No. 17 by Hilma af...]]></title>
         </item>
         <item>
             <title><![CDATA[Short trip in St Louis, MO]]></title>
-            <link>http://freakonometrics.hypotheses.org/50720</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50720</guid>
+            <link>https://freakonometrics.hypotheses.org/50720</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50720</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 25 Jun 2017 04:05:40 GMT</pubDate>
         </item>
@@ -2965,8 +2951,8 @@ Group IX/SUW, No. 17. The Swan, No. 17 by Hilma af...]]></title>
         </item>
         <item>
             <title><![CDATA[On my way to Montréal]]></title>
-            <link>http://freakonometrics.hypotheses.org/50650</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50650</guid>
+            <link>https://freakonometrics.hypotheses.org/50650</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50650</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 22 Jun 2017 03:55:17 GMT</pubDate>
         </item>
@@ -3767,17 +3753,17 @@ Why use a...]]></title>
             <pubDate>Mon, 19 Jun 2017 09:39:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A curve-sketching masterclass]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 19 Jun 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Good Teaching, Bad Results]]></title>
             <link>http://www.madmath.com/2017/06/good-teaching-bad-results.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/06/good-teaching-bad-results.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 19 Jun 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A curve-sketching masterclass]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 19 Jun 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5048,8 +5034,8 @@ Bust - 160105]]></title>
         </item>
         <item>
             <title><![CDATA[New challenges in the measurement of economic inequalities and injustices]]></title>
-            <link>http://freakonometrics.hypotheses.org/50648</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50648</guid>
+            <link>https://freakonometrics.hypotheses.org/50648</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50648</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 13 Jun 2017 03:53:20 GMT</pubDate>
         </item>
@@ -5076,8 +5062,8 @@ Bust - 160105]]></title>
         </item>
         <item>
             <title><![CDATA[Rencontre Chaire Actinfo #7]]></title>
-            <link>http://freakonometrics.hypotheses.org/50857</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50857</guid>
+            <link>https://freakonometrics.hypotheses.org/50857</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50857</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 13 Jun 2017 00:24:59 GMT</pubDate>
         </item>
@@ -5278,17 +5264,17 @@ Bust - 160105]]></title>
             <pubDate>Mon, 12 Jun 2017 12:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.307 - Tourism de Force]]></title>
-            <link>http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mall Castle]]></title>
             <link>http://mathtourist.blogspot.com/2017/06/mall-castle.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/mall-castle.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.307 - Tourism de Force]]></title>
+            <link>http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6060,8 +6046,8 @@ A new geometric design every day]]></title>
         </item>
         <item>
             <title><![CDATA[La Ville, Conférence CartoStats]]></title>
-            <link>http://freakonometrics.hypotheses.org/50641</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50641</guid>
+            <link>https://freakonometrics.hypotheses.org/50641</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50641</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 08 Jun 2017 04:22:35 GMT</pubDate>
         </item>
@@ -6410,8 +6396,8 @@ A new geometric design every day]]></title>
         </item>
         <item>
             <title><![CDATA[R in Insurance, in Paris]]></title>
-            <link>http://freakonometrics.hypotheses.org/50742</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50742</guid>
+            <link>https://freakonometrics.hypotheses.org/50742</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50742</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 06 Jun 2017 22:24:11 GMT</pubDate>
         </item>
@@ -6624,13 +6610,6 @@ A new geometric design every day]]></title>
             <guid isPermaLink="false">http://blogs.adelaide.edu.au/maths-learning/2017/06/06/book-reading-play-brain-imagination-soul/</guid>
             <dc:creator><![CDATA[Making Your Own Sense]]></dc:creator>
             <pubDate>Tue, 06 Jun 2017 04:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coal Production By State]]></title>
-            <link>http://mathscinotes.com/2017/06/coal-production-by-state/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2017/06/coal-production-by-state/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Tue, 06 Jun 2017 03:53:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unizor - Partial Derivatives - ∂²/∂x ∂y = ∂²/∂y ∂x]]></title>
@@ -6872,17 +6851,17 @@ rubik’s donut]]></title>
             <pubDate>Mon, 05 Jun 2017 09:28:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[More Reading Fractions as Decimals]]></title>
-            <link>http://www.madmath.com/2017/06/more-reading-fractions-as-decimals.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/06/more-reading-fractions-as-decimals.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 05 Jun 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Summary Of Some Summery Summation]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/summary-summery-summation/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/summary-summery-summation/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 05 Jun 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Reading Fractions as Decimals]]></title>
+            <link>http://www.madmath.com/2017/06/more-reading-fractions-as-decimals.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/06/more-reading-fractions-as-decimals.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7584,20 +7563,6 @@ rubik’s donut]]></title>
             <guid isPermaLink="false">https://tapintoteenminds.com/3act-math/great-canadian-flag/</guid>
             <dc:creator><![CDATA[Tap Into Teen Minds]]></dc:creator>
             <pubDate>Thu, 01 Jun 2017 02:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More graphs of mortality trends]]></title>
-            <link>http://andrewgelman.com/2017/05/31/graphs-mortality-trends/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/05/31/graphs-mortality-trends/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 01 Jun 2017 01:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MAA Section Meetings]]></title>
-            <link>http://blogs.ams.org/phdplus/2017/05/31/maa-section-meetings/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maa-section-meetings</link>
-            <guid isPermaLink="false">http://blogs.ams.org/phdplus/2017/05/31/maa-section-meetings/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maa-section-meetings</guid>
-            <dc:creator><![CDATA[PhD + epsilon]]></dc:creator>
-            <pubDate>Thu, 01 Jun 2017 01:09:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
