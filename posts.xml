@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Jul 2017 14:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2017 15:03:28 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Jul 2017 14:33:33 GMT</pubDate>
+        <pubDate>Mon, 03 Jul 2017 15:03:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[xkcd: 4th of July]]></title>
+            <link>http://www.calculushumor.com/calculus-humor/xkcd-4th-of-july</link>
+            <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-4th-of-july</guid>
+            <dc:creator><![CDATA[Calculus Humor - Calculus Humor]]></dc:creator>
+            <pubDate>Mon, 03 Jul 2017 14:38:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“The Null Hypothesis Screening Fallacy”?]]></title>
             <link>http://andrewgelman.com/2017/07/03/humans-can-discriminate-more-than-1-trillion-olfactory-stimuli-not/</link>
@@ -73,24 +80,17 @@
             <pubDate>Mon, 03 Jul 2017 12:00:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[restricted formal power series]]></title>
-            <link>https://ncatlab.org/nlab/show/restricted+formal+power+series</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/restricted+formal+power+series</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 03 Jul 2017 11:18:27 GMT</pubDate>
+            <title><![CDATA[S9.310 - Raze the Bar]]></title>
+            <link>http://mathtans.blogspot.com/2017/07/s9310-raze-bar.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9310-raze-bar.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 03 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quiet Time]]></title>
             <link>http://mathtourist.blogspot.com/2017/07/quiet-time.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/quiet-time.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 03 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[S9.310 - Raze the Bar]]></title>
-            <link>http://mathtans.blogspot.com/2017/07/s9310-raze-bar.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9310-raze-bar.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 03 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -964,17 +964,17 @@ Rainbow 31, 2017]]></title>
             <pubDate>Fri, 30 Jun 2017 12:00:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Few of My Favorite Spaces: The Kovalevskaya Top]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/0gPGja_JgrY/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/0gPGja_JgrY/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Fri, 30 Jun 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Potpourri]]></title>
             <link>http://mathtango.blogspot.com/2017/06/potpourri_30.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2017/06/potpourri_30.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <pubDate>Fri, 30 Jun 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Few of My Favorite Spaces: The Kovalevskaya Top]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/0gPGja_JgrY/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/0gPGja_JgrY/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Fri, 30 Jun 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2210,17 +2210,17 @@ Rainbow 31, 2017]]></title>
             <pubDate>Mon, 26 Jun 2017 13:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Goop criteria]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2017/06/the-goop-criteria.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/06/the-goop-criteria.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 26 Jun 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chaos Versus the Multiverse]]></title>
             <link>http://math-frolic.blogspot.com/2017/06/chaos-versus-multiverse.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/06/chaos-versus-multiverse.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 26 Jun 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Goop criteria]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2017/06/the-goop-criteria.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/06/the-goop-criteria.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2266,17 +2266,17 @@ Rainbow 31, 2017]]></title>
             <pubDate>Mon, 26 Jun 2017 10:01:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Attack of the Mathematical Zombies: Calc vs non-calc]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 26 Jun 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On Classroom Contracts]]></title>
             <link>http://www.madmath.com/2017/06/on-classroom-contracts.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/06/on-classroom-contracts.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 26 Jun 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attack of the Mathematical Zombies: Calc vs non-calc]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2367,17 +2367,17 @@ Group IX/SUW, No. 17. The Swan, No. 17 by Hilma af...]]></title>
             <pubDate>Mon, 26 Jun 2017 01:05:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hex stickers for the forecast package]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/EDYRM98NID4/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/EDYRM98NID4/</guid>
-            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
-            <pubDate>Mon, 26 Jun 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How rare are deadly tower block fires?]]></title>
             <link>http://www.bbc.co.uk/programmes/p056zv0b</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p056zv0b</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 26 Jun 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hex stickers for the forecast package]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/EDYRM98NID4/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/EDYRM98NID4/</guid>
+            <dc:creator><![CDATA[Hyndsights on Rob J Hyndman]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4124,17 +4124,17 @@ Why use a...]]></title>
             <pubDate>Mon, 19 Jun 2017 09:39:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A curve-sketching masterclass]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 19 Jun 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Good Teaching, Bad Results]]></title>
             <link>http://www.madmath.com/2017/06/good-teaching-bad-results.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/06/good-teaching-bad-results.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 19 Jun 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A curve-sketching masterclass]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 19 Jun 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4187,17 +4187,17 @@ Why use a...]]></title>
             <pubDate>Mon, 19 Jun 2017 00:01:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wind Turbine Efficiency]]></title>
-            <link>http://datagenetics.com/blog/june12017/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/june12017/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Mon, 19 Jun 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Post-Election Special]]></title>
             <link>http://www.bbc.co.uk/programmes/p056b7l1</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p056b7l1</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 19 Jun 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wind Turbine Efficiency]]></title>
+            <link>http://datagenetics.com/blog/june12017/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/june12017/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 19 Jun 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5600,13 +5600,6 @@ Bust - 160105]]></title>
             <pubDate>Mon, 12 Jun 2017 12:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[For Alan Turing Wannabes]]></title>
-            <link>http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</link>
-            <guid isPermaLink="false">http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</guid>
-            <dc:creator><![CDATA[MathTango...]]></dc:creator>
-            <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mall Castle]]></title>
             <link>http://mathtourist.blogspot.com/2017/06/mall-castle.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/06/mall-castle.html</guid>
@@ -5618,6 +5611,13 @@ Bust - 160105]]></title>
             <link>http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/06/s9307-tourism-de-force.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For Alan Turing Wannabes]]></title>
+            <link>http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</link>
+            <guid isPermaLink="false">http://mathtango.blogspot.com/2017/06/for-alan-turing-wannabes.html</guid>
+            <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Mon, 12 Jun 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6108,13 +6108,6 @@ Patience]]></title>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/06/failure.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 09 Jun 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xkcd: Glacial Erratic]]></title>
-            <link>http://www.calculushumor.com/calculus-humor/xkcd-glacial-erratic</link>
-            <guid isPermaLink="false">http://www.calculushumor.com/calculus-humor/xkcd-glacial-erratic</guid>
-            <dc:creator><![CDATA[Calculus Humor - Calculus Humor]]></dc:creator>
-            <pubDate>Fri, 09 Jun 2017 04:06:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unizor - Partial Derivatives - Basic Properties]]></title>
@@ -7005,16 +6998,16 @@ rubik’s donut]]></title>
             <pubDate>Mon, 05 Jun 2017 17:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting Detailed with Tech (Guest Post)]]></title>
-            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</guid>
+            <title><![CDATA[Transitioning from Teacher-Based to Teacher-Facilitated Learning with Technology (Guest Post - Ken Cooper)]]></title>
+            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</guid>
             <dc:creator><![CDATA[Flipping with Kirch]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 17:57:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Transitioning from Teacher-Based to Teacher-Facilitated Learning with Technology (Guest Post - Ken Cooper)]]></title>
-            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/iN1TePtFaWM/transitioning-from-teacher-based-to.html</guid>
+            <title><![CDATA[Getting Detailed with Tech (Guest Post)]]></title>
+            <link>http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/FlippingWithKirch/~3/BZRtfnfH2Zs/getting-detailed-with-tech-guest-post.html</guid>
             <dc:creator><![CDATA[Flipping with Kirch]]></dc:creator>
             <pubDate>Mon, 05 Jun 2017 17:57:00 GMT</pubDate>
         </item>
@@ -7535,20 +7528,6 @@ rubik’s donut]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2017/06/02/hey-tips-communicating-data-statistics/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 02 Jun 2017 18:31:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Moments: Assessment]]></title>
-            <link>http://infinitesums.com/commentary/2017/big-moments-assessment</link>
-            <guid isPermaLink="false">http://infinitesums.com/commentary/2017/big-moments-assessment</guid>
-            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
-            <pubDate>Fri, 02 Jun 2017 15:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer Reading 2017 #MTBoS #BlogItBINGO Challenge]]></title>
-            <link>https://pamjwilson.wordpress.com/2017/06/02/summer-reading-2017-mtbos-blogitbingo-challenge/</link>
-            <guid isPermaLink="false">https://pamjwilson.wordpress.com/2017/06/02/summer-reading-2017-mtbos-blogitbingo-challenge/</guid>
-            <dc:creator><![CDATA[the radical rational…]]></dc:creator>
-            <pubDate>Fri, 02 Jun 2017 14:45:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
