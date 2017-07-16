@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Jul 2017 13:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2017 14:03:38 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Jul 2017 13:33:56 GMT</pubDate>
+        <pubDate>Sun, 16 Jul 2017 14:03:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Graphs as comparisons:  A case study]]></title>
+            <link>http://andrewgelman.com/2017/07/16/graphs-comparisons-case-study/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/07/16/graphs-comparisons-case-study/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sun, 16 Jul 2017 13:27:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[grouplike geometric morphism]]></title>
             <link>https://ncatlab.org/nlab/show/grouplike+geometric+morphism</link>
@@ -71,13 +78,6 @@
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/Henri+Epstein</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Sun, 16 Jul 2017 11:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vladimir Glaser]]></title>
-            <link>https://ncatlab.org/nlab/show/Vladimir+Glaser</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Vladimir+Glaser</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 16 Jul 2017 11:53:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Role of locality in perturbation theory]]></title>
@@ -1732,17 +1732,17 @@ GLTCH/FSHYE+TRPLMAKRO+SCRN_026, 2017]]></title>
             <pubDate>Tue, 11 Jul 2017 05:38:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clin d'œil]]></title>
-            <link>http://images.math.cnrs.fr/Clin-d-oeil.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Clin-d-oeil.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 11 Jul 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't Think, So?]]></title>
             <link>http://mrburkemath.blogspot.com/2017/07/dont-think-so.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/07/dont-think-so.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Tue, 11 Jul 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clin d'œil]]></title>
+            <link>http://images.math.cnrs.fr/Clin-d-oeil.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Clin-d-oeil.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 11 Jul 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1900,17 +1900,17 @@ GLTCH/FSHYE+TRPLMAKRO+SCRN_026, 2017]]></title>
             <pubDate>Mon, 10 Jul 2017 11:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Central Station]]></title>
-            <link>http://mathtourist.blogspot.com/2017/07/central-station.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/central-station.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 10 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.311 - Hear We Go]]></title>
             <link>http://mathtans.blogspot.com/2017/07/s9311-hear-we-go.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9311-hear-we-go.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 10 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Central Station]]></title>
+            <link>http://mathtourist.blogspot.com/2017/07/central-station.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/central-station.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 10 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1963,17 +1963,17 @@ GLTCH/FSHYE+TRPLMAKRO+SCRN_026, 2017]]></title>
             <pubDate>Mon, 10 Jul 2017 00:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On the classification of vertex-transitive structures]]></title>
-            <link>https://scoskey.github.io/vertex-transitive</link>
-            <guid isPermaLink="false">https://scoskey.github.io/vertex-transitive</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Is Steph Curry cheap and how random is random?]]></title>
             <link>http://www.bbc.co.uk/programmes/p05827jm</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05827jm</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the classification of vertex-transitive structures]]></title>
+            <link>https://scoskey.github.io/vertex-transitive</link>
+            <guid isPermaLink="false">https://scoskey.github.io/vertex-transitive</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3647,16 +3647,16 @@ things I cannot easily typeset in...]]></title>
             <pubDate>Sun, 02 Jul 2017 15:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DALI 2017 - Workshop - Data Efficient Reinforcement Learning]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</guid>
+            <title><![CDATA[Saturday Morning Video: Martin Arjovsky (WGAN) Interview on Alex Lamb's "The Nutty Netter" YouTube channel.]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sun, 02 Jul 2017 15:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Martin Arjovsky (WGAN) Interview on Alex Lamb's "The Nutty Netter" YouTube channel.]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</guid>
+            <title><![CDATA[DALI 2017 - Workshop - Data Efficient Reinforcement Learning]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sun, 02 Jul 2017 15:30:00 GMT</pubDate>
         </item>
@@ -3710,17 +3710,17 @@ things I cannot easily typeset in...]]></title>
             <pubDate>Sun, 02 Jul 2017 11:00:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Read This Sentence.]]></title>
-            <link>http://math-frolic.blogspot.com/2017/07/read-this-sentence.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/read-this-sentence.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 02 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Armored Rider]]></title>
             <link>http://mathtourist.blogspot.com/2017/07/armored-rider.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/armored-rider.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 02 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Read This Sentence.]]></title>
+            <link>http://math-frolic.blogspot.com/2017/07/read-this-sentence.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/read-this-sentence.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 02 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6491,17 +6491,17 @@ What can we learn from ants and plants?  That’s what...]]></title>
             <pubDate>Wed, 21 Jun 2017 01:44:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trumpton Extra]]></title>
-            <link>http://www.bbc.co.uk/programmes/p056klfk</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p056klfk</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Wed, 21 Jun 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why I'm not celebrating the 2016 impact factors]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/FXopg5Pr5aE/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/FXopg5Pr5aE/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Wed, 21 Jun 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trumpton Extra]]></title>
+            <link>http://www.bbc.co.uk/programmes/p056klfk</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p056klfk</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Wed, 21 Jun 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7229,13 +7229,6 @@ Why use a...]]></title>
             <pubDate>Fri, 16 Jun 2017 18:26:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stan Weekly Roundup, 16 June 2017]]></title>
-            <link>http://andrewgelman.com/2017/06/16/stan-weekly-roundup-16-june-2017/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/06/16/stan-weekly-roundup-16-june-2017/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 16 Jun 2017 18:00:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math results show we must end two decades of educational malpractice]]></title>
             <link>http://matthewmadduxeducation.com/post/161894504069</link>
             <guid isPermaLink="false">http://matthewmadduxeducation.com/post/161894504069</guid>
@@ -7416,13 +7409,6 @@ Why use a...]]></title>
             <guid isPermaLink="false">https://bakingandmath.com/2017/06/15/defended-also-29-silly-wonder-woman-questions/</guid>
             <dc:creator><![CDATA[Baking and Math]]></dc:creator>
             <pubDate>Thu, 15 Jun 2017 15:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and Theoretical Computer Science (guest post by Eli Ben-Sasson)]]></title>
-            <link>https://windowsontheory.org/2017/06/15/bitcoin-and-theoretical-computer-science-guest-post-by-eli-ben-sasson/</link>
-            <guid isPermaLink="false">https://windowsontheory.org/2017/06/15/bitcoin-and-theoretical-computer-science-guest-post-by-eli-ben-sasson/</guid>
-            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
-            <pubDate>Thu, 15 Jun 2017 13:32:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
