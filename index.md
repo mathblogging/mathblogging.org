@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">If you enjoyed James Tanton&#39;s &quot;exploding dots&quot; you&#39;ll certainly want to read Jim Propp&#39;s &quot;Swine in a line&quot;: <a href="https://t.co/44UZHRhRsh">https://t.co/44UZHRhRsh</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/886976366377357317">July 17, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Finding all the convex pentagons/polygons that tile the plane, via N. Wolchover: <a href="https://t.co/E7kdSryR7z">https://t.co/E7kdSryR7z</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/884915982174695426">July 11, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">What next, &#39;Why did the chicken cross the road?&#39; ;) <a href="https://twitter.com/bit_player">@bit_player</a> on the circle-pecking problem: <a href="https://t.co/XyNYr7FXAs">https://t.co/XyNYr7FXAs</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/882746683574153218">July 5, 2017</a></blockquote>
