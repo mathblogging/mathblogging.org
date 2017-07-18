@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A prime number excursion (h/t <a href="https://twitter.com/evelynjlamb">@evelynjlamb</a> ): <a href="https://t.co/fCxvRzSHv3">https://t.co/fCxvRzSHv3</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/887435688991481856">July 18, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">If you enjoyed James Tanton&#39;s &quot;exploding dots&quot; you&#39;ll certainly want to read Jim Propp&#39;s &quot;Swine in a line&quot;: <a href="https://t.co/44UZHRhRsh">https://t.co/44UZHRhRsh</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/886976366377357317">July 17, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Finding all the convex pentagons/polygons that tile the plane, via N. Wolchover: <a href="https://t.co/E7kdSryR7z">https://t.co/E7kdSryR7z</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/884915982174695426">July 11, 2017</a></blockquote>
