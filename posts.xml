@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Jul 2017 18:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2017 18:33:38 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Jul 2017 18:03:41 GMT</pubDate>
+        <pubDate>Tue, 18 Jul 2017 18:33:35 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Science journal flags cancer paper under investigation for image manipulation]]></title>
+            <link>http://retractionwatch.com/2017/07/18/science-journal-flags-cancer-paper-investigation-image-manipulation/</link>
+            <guid isPermaLink="false">http://retractionwatch.com/2017/07/18/science-journal-flags-cancer-paper-investigation-image-manipulation/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Tue, 18 Jul 2017 18:00:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An excellent puzzle]]></title>
             <link>https://cavmaths.wordpress.com/2017/07/18/an-excellent-puzzle/</link>
@@ -1421,13 +1428,6 @@ GLTCH/FSHYE+TRPLMAKRO+SCRN_026, 2017]]></title>
             <pubDate>Thu, 13 Jul 2017 12:00:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nature Chemistry issues its first retraction]]></title>
-            <link>http://retractionwatch.com/2017/07/13/nature-chemistry-issues-first-retraction/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/13/nature-chemistry-issues-first-retraction/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Thu, 13 Jul 2017 12:00:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Congettura di Collatz]]></title>
             <link>https://www.angelostella.it/congettura-di-collatz/</link>
             <guid isPermaLink="false">https://www.angelostella.it/congettura-di-collatz/</guid>
@@ -2278,17 +2278,17 @@ GLTCH/FSHYE+TRPLMAKRO+SCRN_026, 2017]]></title>
             <pubDate>Tue, 11 Jul 2017 05:38:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clin d'œil]]></title>
-            <link>http://images.math.cnrs.fr/Clin-d-oeil.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Clin-d-oeil.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 11 Jul 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't Think, So?]]></title>
             <link>http://mrburkemath.blogspot.com/2017/07/dont-think-so.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/07/dont-think-so.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Tue, 11 Jul 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clin d'œil]]></title>
+            <link>http://images.math.cnrs.fr/Clin-d-oeil.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Clin-d-oeil.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 11 Jul 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2509,17 +2509,17 @@ GLTCH/FSHYE+TRPLMAKRO+SCRN_026, 2017]]></title>
             <pubDate>Mon, 10 Jul 2017 00:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Steph Curry cheap and how random is random?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p05827jm</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05827jm</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On the classification of vertex-transitive structures]]></title>
             <link>https://scoskey.github.io/vertex-transitive</link>
             <guid isPermaLink="false">https://scoskey.github.io/vertex-transitive</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Steph Curry cheap and how random is random?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p05827jm</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05827jm</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3584,6 +3584,13 @@ things I cannot easily typeset in...]]></title>
             <pubDate>Wed, 05 Jul 2017 09:47:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[geometric series]]></title>
+            <link>https://ncatlab.org/nlab/show/geometric+series</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/geometric+series</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 05 Jul 2017 09:01:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ask Uncle Colin: Factors!]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-factors/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-factors/</guid>
@@ -4109,16 +4116,16 @@ things I cannot easily typeset in...]]></title>
             <pubDate>Sun, 02 Jul 2017 15:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DALI 2017 - Workshop - Data Efficient Reinforcement Learning]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</guid>
+            <title><![CDATA[Saturday Morning Video: Martin Arjovsky (WGAN) Interview on Alex Lamb's "The Nutty Netter" YouTube channel.]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sun, 02 Jul 2017 15:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Martin Arjovsky (WGAN) Interview on Alex Lamb's "The Nutty Netter" YouTube channel.]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</guid>
+            <title><![CDATA[DALI 2017 - Workshop - Data Efficient Reinforcement Learning]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sun, 02 Jul 2017 15:30:00 GMT</pubDate>
         </item>
@@ -7215,17 +7222,17 @@ Why use a...]]></title>
             <pubDate>Mon, 19 Jun 2017 09:39:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A curve-sketching masterclass]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 19 Jun 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Good Teaching, Bad Results]]></title>
             <link>http://www.madmath.com/2017/06/good-teaching-bad-results.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/06/good-teaching-bad-results.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 19 Jun 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A curve-sketching masterclass]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/curve-sketching-masterclass/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 19 Jun 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7395,13 +7402,6 @@ Why use a...]]></title>
             <guid isPermaLink="false">https://mathlesstraveled.com/2017/06/17/the-curious-powers-of-1-sqrt-2-conjecture/</guid>
             <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
             <pubDate>Sat, 17 Jun 2017 22:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Tessellation Day 2017]]></title>
-            <link>http://mathhombre.blogspot.com/2017/06/world-tessellation-day-2017.html</link>
-            <guid isPermaLink="false">http://mathhombre.blogspot.com/2017/06/world-tessellation-day-2017.html</guid>
-            <dc:creator><![CDATA[Math Hombre]]></dc:creator>
-            <pubDate>Sat, 17 Jun 2017 18:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
