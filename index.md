@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="fi" dir="ltr">Fascinating Kevin Hartnett piece on Kaisa Matomäki &amp; those elusive prime numbers: <a href="https://t.co/RWb1aF9F6c">https://t.co/RWb1aF9F6c</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/888101997081223169">July 20, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I love this wonderful profile of Robert Langlands; so many great thoughts &amp; quotes: <a href="https://t.co/Na3Dkg51wZ">https://t.co/Na3Dkg51wZ</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/887852753862766592">July 20, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A prime number excursion (h/t <a href="https://twitter.com/evelynjlamb">@evelynjlamb</a> ): <a href="https://t.co/fCxvRzSHv3">https://t.co/fCxvRzSHv3</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/887435688991481856">July 18, 2017</a></blockquote>
