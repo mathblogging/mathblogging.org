@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Jul 2017 16:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2017 16:33:09 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Jul 2017 16:03:41 GMT</pubDate>
+        <pubDate>Mon, 24 Jul 2017 16:33:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Boolean Logic in Polynomials]]></title>
+            <link>https://jeremykun.com/2017/07/24/boolean-logic-in-quadratic-polynomials/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2017/07/24/boolean-logic-in-quadratic-polynomials/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 16:00:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tate diagonal]]></title>
             <link>https://ncatlab.org/nlab/show/Tate+diagonal</link>
@@ -106,13 +113,6 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2017/07/24/forward-event-chain-monte-carlo/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Sun, 23 Jul 2017 22:17:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farrell-Tate cohomology]]></title>
-            <link>https://ncatlab.org/nlab/show/Farrell-Tate+cohomology</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Farrell-Tate+cohomology</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 23 Jul 2017 21:14:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stat of the Week Competition: July 22 – 28 2017]]></title>
@@ -2763,20 +2763,6 @@ Group IX/SUW, No. 17. The Swan, No. 17 by Hilma af...]]></title>
             <guid isPermaLink="false">http://blogs.ams.org/mathgradblog/2017/06/23/experience-ams-mathematical-research-community/</guid>
             <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
             <pubDate>Fri, 23 Jun 2017 17:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Results in Modularity, Part II]]></title>
-            <link>https://galoisrepresentations.wordpress.com/2017/06/23/new-results-in-modularity-part-ii/</link>
-            <guid isPermaLink="false">https://galoisrepresentations.wordpress.com/2017/06/23/new-results-in-modularity-part-ii/</guid>
-            <dc:creator><![CDATA[Persiflage]]></dc:creator>
-            <pubDate>Fri, 23 Jun 2017 16:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Results In Modularity, Part I]]></title>
-            <link>https://galoisrepresentations.wordpress.com/2017/06/23/new-results-in-modularity-part-i/</link>
-            <guid isPermaLink="false">https://galoisrepresentations.wordpress.com/2017/06/23/new-results-in-modularity-part-i/</guid>
-            <dc:creator><![CDATA[Persiflage]]></dc:creator>
-            <pubDate>Fri, 23 Jun 2017 16:14:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
