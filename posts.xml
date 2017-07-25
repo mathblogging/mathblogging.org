@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Jul 2017 08:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2017 09:03:41 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Jul 2017 08:33:02 GMT</pubDate>
+        <pubDate>Tue, 25 Jul 2017 09:03:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[cyclotomic space]]></title>
+            <link>https://ncatlab.org/nlab/show/cyclotomic+space</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/cyclotomic+space</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 25 Jul 2017 08:57:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[X-box Factoring with Color]]></title>
             <link>http://misscalculate.blogspot.com/2017/07/x-box-factoring-with-color.html</link>
@@ -325,13 +332,6 @@
             <pubDate>Mon, 24 Jul 2017 11:48:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Attempt to Introduce the Concept of Negative Quantities into Philosophy]]></title>
-            <link>https://ncatlab.org/nlab/show/Attempt+to+Introduce+the+Concept+of+Negative+Quantities+into+Philosophy</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Attempt+to+Introduce+the+Concept+of+Negative+Quantities+into+Philosophy</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 11:41:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[TheoryFest 2017: Organizers’ take (guest post)]]></title>
             <link>https://windowsontheory.org/2017/07/24/theoryfest-2017-organizers-take-guest-post/</link>
             <guid isPermaLink="false">https://windowsontheory.org/2017/07/24/theoryfest-2017-organizers-take-guest-post/</guid>
@@ -346,17 +346,17 @@
             <pubDate>Mon, 24 Jul 2017 11:02:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.312b - We'll Want Stats]]></title>
-            <link>http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[McGill Physics]]></title>
             <link>http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.312b - We'll Want Stats]]></title>
+            <link>http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -388,17 +388,17 @@
             <pubDate>Mon, 24 Jul 2017 09:39:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Return Of The Cav]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/the-return-of-the-cav/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-return-of-the-cav/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Laptops in class considered harmful]]></title>
             <link>http://www.madmath.com/2017/07/laptops-in-class-considered-harmful.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/07/laptops-in-class-considered-harmful.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Return Of The Cav]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/the-return-of-the-cav/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-return-of-the-cav/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2103,17 +2103,17 @@
             <pubDate>Mon, 17 Jul 2017 03:19:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The classification of countable models of set theory]]></title>
-            <link>https://scoskey.github.io/zfcmod</link>
-            <guid isPermaLink="false">https://scoskey.github.io/zfcmod</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 17 Jul 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Calling the shots at Wimbledon]]></title>
             <link>http://www.bbc.co.uk/programmes/p058py5v</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p058py5v</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 17 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The classification of countable models of set theory]]></title>
+            <link>https://scoskey.github.io/zfcmod</link>
+            <guid isPermaLink="false">https://scoskey.github.io/zfcmod</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 17 Jul 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2250,17 +2250,17 @@
             <pubDate>Sun, 16 Jul 2017 11:15:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Marjorie Rice (1923-2017)]]></title>
-            <link>http://mathtourist.blogspot.com/2017/07/marjorie-rice-1923-2017.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/marjorie-rice-1923-2017.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 16 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In Memoriam]]></title>
             <link>http://math-frolic.blogspot.com/2017/07/in-memoriam.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/in-memoriam.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 16 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marjorie Rice (1923-2017)]]></title>
+            <link>http://mathtourist.blogspot.com/2017/07/marjorie-rice-1923-2017.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/marjorie-rice-1923-2017.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 16 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3832,17 +3832,17 @@ GLTCH/FSHYE+TRPLMAKRO+SCRN_026, 2017]]></title>
             <pubDate>Mon, 10 Jul 2017 11:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Central Station]]></title>
-            <link>http://mathtourist.blogspot.com/2017/07/central-station.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/central-station.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 10 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.311 - Hear We Go]]></title>
             <link>http://mathtans.blogspot.com/2017/07/s9311-hear-we-go.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9311-hear-we-go.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 10 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Central Station]]></title>
+            <link>http://mathtourist.blogspot.com/2017/07/central-station.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/central-station.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 10 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3881,17 +3881,17 @@ GLTCH/FSHYE+TRPLMAKRO+SCRN_026, 2017]]></title>
             <pubDate>Mon, 10 Jul 2017 00:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Steph Curry cheap and how random is random?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p05827jm</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05827jm</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On the classification of vertex-transitive structures]]></title>
             <link>https://scoskey.github.io/vertex-transitive</link>
             <guid isPermaLink="false">https://scoskey.github.io/vertex-transitive</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Steph Curry cheap and how random is random?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p05827jm</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05827jm</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4021,17 +4021,17 @@ GLTCH/FSHYE+TRPLMAKRO+SCRN_026, 2017]]></title>
             <pubDate>Sun, 09 Jul 2017 11:30:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mountain Rosebay]]></title>
-            <link>http://mathtourist.blogspot.com/2017/07/mountain-rosebay.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/mountain-rosebay.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 09 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fearing the Wrong Things]]></title>
             <link>http://math-frolic.blogspot.com/2017/07/fearing-wrong-things.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/fearing-wrong-things.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 09 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mountain Rosebay]]></title>
+            <link>http://mathtourist.blogspot.com/2017/07/mountain-rosebay.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/mountain-rosebay.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 09 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6729,17 +6729,17 @@ Rainbow 31, 2017]]></title>
             <pubDate>Mon, 26 Jun 2017 10:01:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Attack of the Mathematical Zombies: Calc vs non-calc]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 26 Jun 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On Classroom Contracts]]></title>
             <link>http://www.madmath.com/2017/06/on-classroom-contracts.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/06/on-classroom-contracts.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 26 Jun 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attack of the Mathematical Zombies: Calc vs non-calc]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/attack-mathematical-zombies-calc-vs-non-calc/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
