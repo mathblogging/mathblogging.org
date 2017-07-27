@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Jul 2017 11:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2017 12:04:13 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Jul 2017 11:33:27 GMT</pubDate>
+        <pubDate>Thu, 27 Jul 2017 12:04:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Data analytics for personalized healthcare]]></title>
+            <link>https://punkrockor.com/2017/07/27/data-analytics-for-personalized-healthcare/</link>
+            <guid isPermaLink="false">https://punkrockor.com/2017/07/27/data-analytics-for-personalized-healthcare/</guid>
+            <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
+            <pubDate>Thu, 27 Jul 2017 11:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lessons from Norway]]></title>
+            <link>http://blog.computationalcomplexity.org/2017/07/lessons-from-norway.html</link>
+            <guid isPermaLink="false">http://blog.computationalcomplexity.org/2017/07/lessons-from-norway.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 27 Jul 2017 11:42:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Michael Harris Asks "Do Mathematicians Have Responsibilities?"]]></title>
             <link>http://math-frolic.blogspot.com/2017/07/michael-harris-asks-do-mathematicians.html</link>
@@ -206,13 +220,6 @@
             <pubDate>Wed, 26 Jul 2017 15:28:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Controversial CRISPR paper earns second editorial note]]></title>
-            <link>http://retractionwatch.com/2017/07/26/controversial-crispr-paper-earns-second-editorial-note/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/26/controversial-crispr-paper-earns-second-editorial-note/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2017 15:00:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Died in the Wool]]></title>
             <link>http://andrewgelman.com/2017/07/26/died-in-the-wool/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/07/26/died-in-the-wool/</guid>
@@ -262,13 +269,6 @@
             <pubDate>Wed, 26 Jul 2017 12:18:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PLOS ONE retracts paper after researcher admits to fabricating data]]></title>
-            <link>http://retractionwatch.com/2017/07/26/plos-one-retracts-paper-researcher-admits-fabricating-data/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/26/plos-one-retracts-paper-researcher-admits-fabricating-data/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2017 12:00:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Two Things]]></title>
             <link>https://mathjokes4mathyfolks.wordpress.com/2017/07/26/the-two-things/</link>
             <guid isPermaLink="false">https://mathjokes4mathyfolks.wordpress.com/2017/07/26/the-two-things/</guid>
@@ -277,8 +277,8 @@
         </item>
         <item>
             <title><![CDATA[Never Buy Two Lottery Tickets]]></title>
-            <link>http://mathwithbaddrawings.com/2017/07/26/never-buy-two-lottery-tickets/</link>
-            <guid isPermaLink="false">http://mathwithbaddrawings.com/2017/07/26/never-buy-two-lottery-tickets/</guid>
+            <link>https://mathwithbaddrawings.com/2017/07/26/never-buy-two-lottery-tickets/</link>
+            <guid isPermaLink="false">https://mathwithbaddrawings.com/2017/07/26/never-buy-two-lottery-tickets/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
             <pubDate>Wed, 26 Jul 2017 11:00:17 GMT</pubDate>
         </item>
@@ -332,17 +332,17 @@
             <pubDate>Wed, 26 Jul 2017 05:00:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Des animaux et des maths]]></title>
-            <link>http://images.math.cnrs.fr/Des-animaux-et-des-maths.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Des-animaux-et-des-maths.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7XodG8HPdE/cardiologist-level-arrhythmia-detection.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7XodG8HPdE/cardiologist-level-arrhythmia-detection.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 26 Jul 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Des animaux et des maths]]></title>
+            <link>http://images.math.cnrs.fr/Des-animaux-et-des-maths.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Des-animaux-et-des-maths.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 26 Jul 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -507,13 +507,6 @@
             <pubDate>Tue, 25 Jul 2017 14:36:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[May the sting be with you: Another journal prank, too good to overlook]]></title>
-            <link>http://retractionwatch.com/2017/07/25/may-sting-another-journal-prank-good-overlook/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/25/may-sting-another-journal-prank-good-overlook/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Tue, 25 Jul 2017 14:05:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[6S at the Toronto Bridge Club]]></title>
             <link>http://sites.williams.edu/Morgan/2017/07/25/6s-at-the-toronto-bridge-club/</link>
             <guid isPermaLink="false">http://sites.williams.edu/Morgan/2017/07/25/6s-at-the-toronto-bridge-club/</guid>
@@ -547,13 +540,6 @@
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/163405472626</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Tue, 25 Jul 2017 12:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uni dings schizophrenia studies for problems with informed consent, other flaws]]></title>
-            <link>http://retractionwatch.com/2017/07/25/uni-dings-schizophrenia-studies-problems-informed-consent-flaws/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/25/uni-dings-schizophrenia-studies-problems-informed-consent-flaws/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Tue, 25 Jul 2017 12:00:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Replicate THIS]]></title>
@@ -766,13 +752,6 @@
             <pubDate>Mon, 24 Jul 2017 17:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Following uproar, surgery journal retracts paper with male-only pronouns]]></title>
-            <link>http://retractionwatch.com/2017/07/24/following-uproar-surgery-journal-retracts-paper-male-pronouns/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/24/following-uproar-surgery-journal-retracts-paper-male-pronouns/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 17:00:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boolean Logic in Polynomials]]></title>
             <link>https://jeremykun.com/2017/07/24/boolean-logic-in-quadratic-polynomials/</link>
             <guid isPermaLink="false">https://jeremykun.com/2017/07/24/boolean-logic-in-quadratic-polynomials/</guid>
@@ -806,13 +785,6 @@
             <guid isPermaLink="false">https://luckytoilet.wordpress.com/2017/07/24/using-waveform-plots-to-improve-your-accent-and-a-dive-into-english-phonology/</guid>
             <dc:creator><![CDATA[Lucky's Notes]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 15:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NIH section chief with 19 retractions is no longer running a lab]]></title>
-            <link>http://retractionwatch.com/2017/07/24/nih-section-chief-19-retractions-no-longer-running-lab/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/24/nih-section-chief-19-retractions-no-longer-running-lab/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 15:00:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Congratulations, Dr. Derka!]]></title>
@@ -864,17 +836,17 @@
             <pubDate>Mon, 24 Jul 2017 13:00:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maryam Mirzakhani – A Genius of Maths]]></title>
-            <link>http://www.bbc.co.uk/programmes/p059b1jw</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p059b1jw</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Disruption Fetish]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/07/the-disruption-fetish.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/07/the-disruption-fetish.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maryam Mirzakhani – A Genius of Maths]]></title>
+            <link>http://www.bbc.co.uk/programmes/p059b1jw</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p059b1jw</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -890,13 +862,6 @@
             <guid isPermaLink="false">http://blogs.ams.org/matheducation/2017/07/24/the-mathematical-encounter-that-changed-my-life/</guid>
             <dc:creator><![CDATA[On Teaching and Learning Mathematics]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 12:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Work by group at Australian university faces scrutiny]]></title>
-            <link>http://retractionwatch.com/2017/07/24/work-group-australian-university-faces-scrutiny/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/24/work-group-australian-university-faces-scrutiny/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 12:00:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Difference That Makes A Difference That Peirce Makes : 18]]></title>
@@ -927,17 +892,17 @@
             <pubDate>Mon, 24 Jul 2017 11:02:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.312b - We'll Want Stats]]></title>
-            <link>http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[McGill Physics]]></title>
             <link>http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.312b - We'll Want Stats]]></title>
+            <link>http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1144,17 +1109,17 @@
             <pubDate>Sun, 23 Jul 2017 11:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Real Numbers... not simple at all]]></title>
-            <link>http://math-frolic.blogspot.com/2017/07/real-numbers-not-simple-at-all.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/real-numbers-not-simple-at-all.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 23 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lamp and Columns]]></title>
             <link>http://mathtourist.blogspot.com/2017/07/lamp-and-columns.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/lamp-and-columns.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 23 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real Numbers... not simple at all]]></title>
+            <link>http://math-frolic.blogspot.com/2017/07/real-numbers-not-simple-at-all.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/real-numbers-not-simple-at-all.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 23 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1305,13 +1270,6 @@
             <pubDate>Sat, 22 Jul 2017 18:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Weekend reads: 10 rules for research misconduct; peer review’s black box; the rich get richer]]></title>
-            <link>http://retractionwatch.com/2017/07/22/weekend-reads-10-rules-research-misconduct-peer-reviews-black-box-rich-get-richer/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/22/weekend-reads-10-rules-research-misconduct-peer-reviews-black-box-rich-get-richer/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Sat, 22 Jul 2017 13:36:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A stunned Dyson]]></title>
             <link>http://andrewgelman.com/2017/07/22/a-stunned-dyson/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/07/22/a-stunned-dyson/</guid>
@@ -1459,13 +1417,6 @@
             <pubDate>Fri, 21 Jul 2017 15:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Months after neuroscientist flagged errors, Nature journal corrects them — and more]]></title>
-            <link>http://retractionwatch.com/2017/07/21/months-neuroscientist-flagged-errors-nature-journal-corrects/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/21/months-neuroscientist-flagged-errors-nature-journal-corrects/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Fri, 21 Jul 2017 14:30:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“Bayes factor”:  where the term came from, and some references to why I generally hate it]]></title>
             <link>http://andrewgelman.com/2017/07/21/bayes-factor-term-came-references-generally-hate/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/07/21/bayes-factor-term-came-references-generally-hate/</guid>
@@ -1506,13 +1457,6 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2017/07/21/boots-is-deliberately-overcharging-for-the-morning-after-pill/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Fri, 21 Jul 2017 12:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jumped the gun: Paper about non-finalized guidelines is retracted]]></title>
-            <link>http://retractionwatch.com/2017/07/21/jumped-gun-paper-non-finalized-guidelines-retracted/</link>
-            <guid isPermaLink="false">http://retractionwatch.com/2017/07/21/jumped-gun-paper-non-finalized-guidelines-retracted/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Fri, 21 Jul 2017 12:00:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[07/21/2017 — Happy Derangement Day!]]></title>
@@ -1992,8 +1936,8 @@
         </item>
         <item>
             <title><![CDATA[100-Word Stories]]></title>
-            <link>http://mathwithbaddrawings.com/2017/07/19/100-word-stories/</link>
-            <guid isPermaLink="false">http://mathwithbaddrawings.com/2017/07/19/100-word-stories/</guid>
+            <link>https://mathwithbaddrawings.com/2017/07/19/100-word-stories/</link>
+            <guid isPermaLink="false">https://mathwithbaddrawings.com/2017/07/19/100-word-stories/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
             <pubDate>Wed, 19 Jul 2017 11:00:37 GMT</pubDate>
         </item>
@@ -2761,17 +2705,17 @@
             <pubDate>Sun, 16 Jul 2017 11:15:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In Memoriam]]></title>
-            <link>http://math-frolic.blogspot.com/2017/07/in-memoriam.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/in-memoriam.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 16 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Marjorie Rice (1923-2017)]]></title>
             <link>http://mathtourist.blogspot.com/2017/07/marjorie-rice-1923-2017.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/marjorie-rice-1923-2017.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 16 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Memoriam]]></title>
+            <link>http://math-frolic.blogspot.com/2017/07/in-memoriam.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/in-memoriam.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 16 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3679,8 +3623,8 @@
         </item>
         <item>
             <title><![CDATA[Math-staches]]></title>
-            <link>http://mathwithbaddrawings.com/2017/07/12/math-staches/</link>
-            <guid isPermaLink="false">http://mathwithbaddrawings.com/2017/07/12/math-staches/</guid>
+            <link>https://mathwithbaddrawings.com/2017/07/12/math-staches/</link>
+            <guid isPermaLink="false">https://mathwithbaddrawings.com/2017/07/12/math-staches/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
             <pubDate>Wed, 12 Jul 2017 11:35:29 GMT</pubDate>
         </item>
@@ -4273,17 +4217,17 @@
             <pubDate>Mon, 10 Jul 2017 13:49:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Steph Curry cheap and how random is random?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p05827jm</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05827jm</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 10 Jul 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bring red flags, lots of red flags – part IV:If your marketing is good, you don't have to be]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/07/bring-red-flags-lots-of-red-flags-part_10.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/07/bring-red-flags-lots-of-red-flags-part_10.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 10 Jul 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Steph Curry cheap and how random is random?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p05827jm</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05827jm</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 10 Jul 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5200,8 +5144,8 @@ things I cannot easily typeset in...]]></title>
         </item>
         <item>
             <title><![CDATA[What Do You Do With 11-to-13-Year-Olds?]]></title>
-            <link>http://mathwithbaddrawings.com/2017/07/05/what-do-you-do-with-11-to-13-year-olds/</link>
-            <guid isPermaLink="false">http://mathwithbaddrawings.com/2017/07/05/what-do-you-do-with-11-to-13-year-olds/</guid>
+            <link>https://mathwithbaddrawings.com/2017/07/05/what-do-you-do-with-11-to-13-year-olds/</link>
+            <guid isPermaLink="false">https://mathwithbaddrawings.com/2017/07/05/what-do-you-do-with-11-to-13-year-olds/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
             <pubDate>Wed, 05 Jul 2017 16:00:25 GMT</pubDate>
         </item>
@@ -6642,8 +6586,8 @@ things I cannot easily typeset in...]]></title>
         </item>
         <item>
             <title><![CDATA[Mathematicians Explain Sports to Each Other]]></title>
-            <link>http://mathwithbaddrawings.com/2017/06/28/mathematicians-explain-sports-to-each-other/</link>
-            <guid isPermaLink="false">http://mathwithbaddrawings.com/2017/06/28/mathematicians-explain-sports-to-each-other/</guid>
+            <link>https://mathwithbaddrawings.com/2017/06/28/mathematicians-explain-sports-to-each-other/</link>
+            <guid isPermaLink="false">https://mathwithbaddrawings.com/2017/06/28/mathematicians-explain-sports-to-each-other/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
             <pubDate>Wed, 28 Jun 2017 11:00:53 GMT</pubDate>
         </item>
@@ -6991,17 +6935,17 @@ things I cannot easily typeset in...]]></title>
             <pubDate>Mon, 26 Jun 2017 13:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Goop criteria]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2017/06/the-goop-criteria.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/06/the-goop-criteria.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 26 Jun 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chaos Versus the Multiverse]]></title>
             <link>http://math-frolic.blogspot.com/2017/06/chaos-versus-multiverse.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/06/chaos-versus-multiverse.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 26 Jun 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Goop criteria]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2017/06/the-goop-criteria.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/06/the-goop-criteria.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7010,13 +6954,6 @@ things I cannot easily typeset in...]]></title>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p056zv0b</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 26 Jun 2017 12:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Math-Ed Research All About? As Explained by a Muggle in a Math Department]]></title>
-            <link>http://blogs.ams.org/matheducation/2017/06/26/what-is-math-ed-research-all-about-as-explained-by-a-muggle-in-a-math-department/</link>
-            <guid isPermaLink="false">http://blogs.ams.org/matheducation/2017/06/26/what-is-math-ed-research-all-about-as-explained-by-a-muggle-in-a-math-department/</guid>
-            <dc:creator><![CDATA[On Teaching and Learning Mathematics]]></dc:creator>
-            <pubDate>Mon, 26 Jun 2017 12:00:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
