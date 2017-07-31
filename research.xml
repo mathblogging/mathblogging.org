@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Jul 2017 03:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2017 03:33:31 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Jul 2017 03:03:42 GMT</pubDate>
+        <pubDate>Mon, 31 Jul 2017 03:33:29 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[A Compositional Framework for Reaction Networks]]></title>
+            <link>http://golem.ph.utexas.edu/category/2017/07/a_compositional_framework_for_2.html</link>
+            <guid isPermaLink="false">http://golem.ph.utexas.edu/category/2017/07/a_compositional_framework_for_2.html</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Mon, 31 Jul 2017 03:31:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Limitless Home Surveillance by your Vacuum Cleaner]]></title>
+            <link>http://www.newappsblog.com/2017/07/limitless-home-surveillance-by-your-vacuum-cleaner.html</link>
+            <guid isPermaLink="false">http://www.newappsblog.com/2017/07/limitless-home-surveillance-by-your-vacuum-cleaner.html</guid>
+            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
+            <pubDate>Mon, 31 Jul 2017 03:00:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is nothing > data?]]></title>
             <link>https://xianblog.wordpress.com/2017/07/31/is-nothing-data/</link>
@@ -449,6 +463,13 @@
             <guid isPermaLink="false">http://combinatorialgametheory.blogspot.com/2017/07/game-description-slimetrail.html</guid>
             <dc:creator><![CDATA[Combinatorial Game Theory]]></dc:creator>
             <pubDate>Thu, 27 Jul 2017 16:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sign problem(s)]]></title>
+            <link>https://quantumfrontiers.com/2017/07/27/the-sign-problems/</link>
+            <guid isPermaLink="false">https://quantumfrontiers.com/2017/07/27/the-sign-problems/</guid>
+            <dc:creator><![CDATA[Quantum Frontiers]]></dc:creator>
+            <pubDate>Thu, 27 Jul 2017 15:44:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“Statistics textbooks (including mine) are part of the problem, I think, in that we just set out ‘theta’ as a parameter to be estimated, without much reflection on the meaning of ‘theta’ in the real world.”]]></title>
@@ -2602,16 +2623,16 @@ things I cannot easily typeset in...]]></title>
             <pubDate>Sun, 02 Jul 2017 15:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DALI 2017 - Workshop - Data Efficient Reinforcement Learning]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</guid>
+            <title><![CDATA[Saturday Morning Video: Martin Arjovsky (WGAN) Interview on Alex Lamb's "The Nutty Netter" YouTube channel.]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sun, 02 Jul 2017 15:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saturday Morning Video: Martin Arjovsky (WGAN) Interview on Alex Lamb's "The Nutty Netter" YouTube channel.]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/juhRz8hx_54/saturday-morning-video-martin-arjovsky.html</guid>
+            <title><![CDATA[DALI 2017 - Workshop - Data Efficient Reinforcement Learning]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/TS9KZFrs6cA/dali-2017-workshop-data-efficient.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sun, 02 Jul 2017 15:30:00 GMT</pubDate>
         </item>
@@ -2782,13 +2803,6 @@ things I cannot easily typeset in...]]></title>
             <guid isPermaLink="false">https://kristalcantwell.wordpress.com/2017/06/30/various-problems/</guid>
             <dc:creator><![CDATA[Euclidean Ramsey Theory]]></dc:creator>
             <pubDate>Fri, 30 Jun 2017 05:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis of 555-Based PWM Circuit]]></title>
-            <link>http://mathscinotes.com/2017/06/analysis-of-555-based-pwm-circuit/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2017/06/analysis-of-555-based-pwm-circuit/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Fri, 30 Jun 2017 03:05:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
