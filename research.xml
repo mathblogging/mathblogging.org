@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Aug 2017 13:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2017 13:33:38 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Aug 2017 13:03:55 GMT</pubDate>
+        <pubDate>Fri, 04 Aug 2017 13:33:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[oriented graph]]></title>
+            <link>https://ncatlab.org/nlab/show/oriented+graph</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/oriented+graph</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 04 Aug 2017 13:04:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PPNAS again:  If it hadn’t been for the jet lag, would Junior have banged out 756 HRs in his career?]]></title>
             <link>http://andrewgelman.com/2017/08/04/hadnt-jet-lag-junior-certainly-wouldve-banged-756-hrs-career/</link>
@@ -31,18 +38,11 @@
             <pubDate>Fri, 04 Aug 2017 12:40:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[quasi-free state]]></title>
-            <link>https://ncatlab.org/nlab/show/quasi-free+state</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/quasi-free+state</guid>
+            <title><![CDATA[quasi-free quantum state]]></title>
+            <link>https://ncatlab.org/nlab/show/quasi-free+quantum+state</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/quasi-free+quantum+state</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Fri, 04 Aug 2017 12:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marek Radzikowski]]></title>
-            <link>https://ncatlab.org/nlab/show/Marek+Radzikowski</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Marek+Radzikowski</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 04 Aug 2017 11:36:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Puntos primitivos (y un EXTRA)]]></title>
@@ -571,8 +571,8 @@
         </item>
         <item>
             <title><![CDATA[In the Alps, for a break]]></title>
-            <link>https://freakonometrics.hypotheses.org/51020</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/51020</guid>
+            <link>http://freakonometrics.hypotheses.org/51020</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/51020</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 31 Jul 2017 12:23:01 GMT</pubDate>
         </item>
@@ -683,8 +683,8 @@
         </item>
         <item>
             <title><![CDATA[Matching, Optimal Transport and Statistical Tests]]></title>
-            <link>https://freakonometrics.hypotheses.org/50958</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50958</guid>
+            <link>http://freakonometrics.hypotheses.org/50958</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50958</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 30 Jul 2017 12:54:15 GMT</pubDate>
         </item>
@@ -746,8 +746,8 @@
         </item>
         <item>
             <title><![CDATA[De la symbolique des grandeurs statistiques]]></title>
-            <link>https://freakonometrics.hypotheses.org/50994</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50994</guid>
+            <link>http://freakonometrics.hypotheses.org/50994</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50994</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 29 Jul 2017 12:37:10 GMT</pubDate>
         </item>
@@ -886,15 +886,15 @@
         </item>
         <item>
             <title><![CDATA[Les votes à l’assemblée nationale]]></title>
-            <link>https://freakonometrics.hypotheses.org/50973</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50973</guid>
+            <link>http://freakonometrics.hypotheses.org/50973</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50973</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 28 Jul 2017 08:50:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Accidents de voiture et de deux roues à Paris]]></title>
-            <link>https://freakonometrics.hypotheses.org/50956</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50956</guid>
+            <link>http://freakonometrics.hypotheses.org/50956</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50956</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 28 Jul 2017 00:30:50 GMT</pubDate>
         </item>
@@ -2055,8 +2055,8 @@
         </item>
         <item>
             <title><![CDATA[Time for a break]]></title>
-            <link>https://freakonometrics.hypotheses.org/50652</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50652</guid>
+            <link>http://freakonometrics.hypotheses.org/50652</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50652</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 15 Jul 2017 03:58:10 GMT</pubDate>
         </item>
@@ -2817,13 +2817,6 @@ things I cannot easily typeset in...]]></title>
             <guid isPermaLink="false">https://portonmath.wordpress.com/2017/07/04/a-wrong-result/</guid>
             <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
             <pubDate>Tue, 04 Jul 2017 14:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new unexpected result (ERROR!)]]></title>
-            <link>https://portonmath.wordpress.com/2017/07/04/unexpected-result/</link>
-            <guid isPermaLink="false">https://portonmath.wordpress.com/2017/07/04/unexpected-result/</guid>
-            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
-            <pubDate>Tue, 04 Jul 2017 13:13:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
