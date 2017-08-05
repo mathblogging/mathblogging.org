@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Aug 2017 14:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2017 15:03:35 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Aug 2017 14:34:12 GMT</pubDate>
+        <pubDate>Sat, 05 Aug 2017 15:03:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -66,13 +66,6 @@
             <pubDate>Fri, 04 Aug 2017 22:17:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[bicharacteristic flow]]></title>
-            <link>https://ncatlab.org/nlab/show/bicharacteristic+flow</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/bicharacteristic+flow</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 04 Aug 2017 19:30:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stan Weekly Roundup, 3 August 2017]]></title>
             <link>http://andrewgelman.com/2017/08/04/stan-weekly-update-3-august-2017/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/08/04/stan-weekly-update-3-august-2017/</guid>
@@ -113,6 +106,13 @@
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/08/it-turns-out-that-key-to-bipartisanship.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 04 Aug 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[quasi-free quantum state]]></title>
+            <link>https://ncatlab.org/nlab/show/quasi-free+quantum+state</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/quasi-free+quantum+state</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 04 Aug 2017 12:38:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Puntos primitivos (y un EXTRA)]]></title>
@@ -330,6 +330,13 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/sum-of-cosines/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Thu, 03 Aug 2017 10:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wick algebra]]></title>
+            <link>https://ncatlab.org/nlab/show/Wick+algebra</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Wick+algebra</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 03 Aug 2017 08:08:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CfP: 17th Conference on Artificial and Computational Intelligence and its Applications to the Environmental Sciences, American Meteorological Society]]></title>
@@ -641,8 +648,8 @@
         </item>
         <item>
             <title><![CDATA[In the Alps, for a break]]></title>
-            <link>http://freakonometrics.hypotheses.org/51020</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/51020</guid>
+            <link>https://freakonometrics.hypotheses.org/51020</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/51020</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 31 Jul 2017 12:23:01 GMT</pubDate>
         </item>
@@ -753,8 +760,8 @@
         </item>
         <item>
             <title><![CDATA[Matching, Optimal Transport and Statistical Tests]]></title>
-            <link>http://freakonometrics.hypotheses.org/50958</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50958</guid>
+            <link>https://freakonometrics.hypotheses.org/50958</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50958</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 30 Jul 2017 12:54:15 GMT</pubDate>
         </item>
@@ -816,8 +823,8 @@
         </item>
         <item>
             <title><![CDATA[De la symbolique des grandeurs statistiques]]></title>
-            <link>http://freakonometrics.hypotheses.org/50994</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50994</guid>
+            <link>https://freakonometrics.hypotheses.org/50994</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50994</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 29 Jul 2017 12:37:10 GMT</pubDate>
         </item>
@@ -949,15 +956,15 @@
         </item>
         <item>
             <title><![CDATA[Les votes à l’assemblée nationale]]></title>
-            <link>http://freakonometrics.hypotheses.org/50973</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50973</guid>
+            <link>https://freakonometrics.hypotheses.org/50973</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50973</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 28 Jul 2017 08:50:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Accidents de voiture et de deux roues à Paris]]></title>
-            <link>http://freakonometrics.hypotheses.org/50956</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50956</guid>
+            <link>https://freakonometrics.hypotheses.org/50956</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50956</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 28 Jul 2017 00:30:50 GMT</pubDate>
         </item>
@@ -2104,8 +2111,8 @@
         </item>
         <item>
             <title><![CDATA[Time for a break]]></title>
-            <link>http://freakonometrics.hypotheses.org/50652</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50652</guid>
+            <link>https://freakonometrics.hypotheses.org/50652</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50652</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 15 Jul 2017 03:58:10 GMT</pubDate>
         </item>
