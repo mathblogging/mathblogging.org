@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Aug 2017 14:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2017 14:33:32 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Aug 2017 14:03:35 GMT</pubDate>
+        <pubDate>Sun, 06 Aug 2017 14:33:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[scaling degree of a distribution]]></title>
+            <link>https://ncatlab.org/nlab/show/scaling+degree+of+a+distribution</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/scaling+degree+of+a+distribution</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 06 Aug 2017 14:27:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“This finding did not reach statistical sig­nificance, but it indicates a 94.6% prob­ability that statins were responsible for the symptoms.”]]></title>
             <link>http://andrewgelman.com/2017/08/06/35135/</link>
@@ -351,13 +358,6 @@
             <guid isPermaLink="false">https://thonyc.wordpress.com/2017/08/03/the-house-of-blaeu-vs-the-house-of-hondius-the-battle-of-the-globes-and-atlases/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Thu, 03 Aug 2017 16:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hadamard distribution]]></title>
-            <link>https://ncatlab.org/nlab/show/Hadamard+distribution</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Hadamard+distribution</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 03 Aug 2017 16:18:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[optimization for medicine: past, present, and future]]></title>
@@ -739,8 +739,8 @@
         </item>
         <item>
             <title><![CDATA[In the Alps, for a break]]></title>
-            <link>http://freakonometrics.hypotheses.org/51020</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/51020</guid>
+            <link>https://freakonometrics.hypotheses.org/51020</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/51020</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Mon, 31 Jul 2017 12:23:01 GMT</pubDate>
         </item>
@@ -851,8 +851,8 @@
         </item>
         <item>
             <title><![CDATA[Matching, Optimal Transport and Statistical Tests]]></title>
-            <link>http://freakonometrics.hypotheses.org/50958</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50958</guid>
+            <link>https://freakonometrics.hypotheses.org/50958</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50958</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sun, 30 Jul 2017 12:54:15 GMT</pubDate>
         </item>
@@ -914,8 +914,8 @@
         </item>
         <item>
             <title><![CDATA[De la symbolique des grandeurs statistiques]]></title>
-            <link>http://freakonometrics.hypotheses.org/50994</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50994</guid>
+            <link>https://freakonometrics.hypotheses.org/50994</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50994</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 29 Jul 2017 12:37:10 GMT</pubDate>
         </item>
@@ -1040,15 +1040,15 @@
         </item>
         <item>
             <title><![CDATA[Les votes à l’assemblée nationale]]></title>
-            <link>http://freakonometrics.hypotheses.org/50973</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50973</guid>
+            <link>https://freakonometrics.hypotheses.org/50973</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50973</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 28 Jul 2017 08:50:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Accidents de voiture et de deux roues à Paris]]></title>
-            <link>http://freakonometrics.hypotheses.org/50956</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50956</guid>
+            <link>https://freakonometrics.hypotheses.org/50956</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50956</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Fri, 28 Jul 2017 00:30:50 GMT</pubDate>
         </item>
@@ -2188,8 +2188,8 @@
         </item>
         <item>
             <title><![CDATA[Time for a break]]></title>
-            <link>http://freakonometrics.hypotheses.org/50652</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/50652</guid>
+            <link>https://freakonometrics.hypotheses.org/50652</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/50652</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 15 Jul 2017 03:58:10 GMT</pubDate>
         </item>
