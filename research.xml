@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Aug 2017 09:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2017 09:34:32 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Aug 2017 09:05:20 GMT</pubDate>
+        <pubDate>Mon, 07 Aug 2017 09:34:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -122,6 +122,13 @@
             <pubDate>Sun, 06 Aug 2017 17:20:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[extension of distributions]]></title>
+            <link>https://ncatlab.org/nlab/show/extension+of+distributions</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/extension+of+distributions</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 06 Aug 2017 17:03:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Shazam works]]></title>
             <link>http://blog.plover.com/tech/machine-perception-2.html</link>
             <guid isPermaLink="false">http://blog.plover.com/tech/machine-perception-2.html</guid>
@@ -197,13 +204,6 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2017/08/06/art-brut-79/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Sat, 05 Aug 2017 22:17:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[main theorem of perturbative renormalization]]></title>
-            <link>https://ncatlab.org/nlab/show/main+theorem+of+perturbative+renormalization</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/main+theorem+of+perturbative+renormalization</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 05 Aug 2017 18:00:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Instantaneous Dimension of Finite Metric Spaces via Magnitude and Spread]]></title>
@@ -631,6 +631,13 @@
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/08/a-few-points-to-keep-in-mind-when.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 02 Aug 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[product of distributions]]></title>
+            <link>https://ncatlab.org/nlab/show/product+of+distributions</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/product+of+distributions</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 02 Aug 2017 11:13:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Closer Look at Memorization in Deep Networks]]></title>
@@ -2208,13 +2215,6 @@
             <pubDate>Sun, 16 Jul 2017 12:07:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Role of locality in perturbation theory]]></title>
-            <link>https://ncatlab.org/nlab/show/The+Role+of+locality+in+perturbation+theory</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/The+Role+of+locality+in+perturbation+theory</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 16 Jul 2017 11:29:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Infinity and Foundation]]></title>
             <link>https://cameroncounts.wordpress.com/2017/07/16/infinity-and-foundation/</link>
             <guid isPermaLink="false">https://cameroncounts.wordpress.com/2017/07/16/infinity-and-foundation/</guid>
@@ -2836,13 +2836,6 @@
             <guid isPermaLink="false">https://calculus7.org/2017/07/07/the-kolakoski-cantor-set/</guid>
             <dc:creator><![CDATA[Calculus VII]]></dc:creator>
             <pubDate>Fri, 07 Jul 2017 10:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strong coloring]]></title>
-            <link>https://boolesrings.org/asafk/2017/strong-coloring/</link>
-            <guid isPermaLink="false">https://boolesrings.org/asafk/2017/strong-coloring/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Fri, 07 Jul 2017 09:02:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

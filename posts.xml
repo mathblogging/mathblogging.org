@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Aug 2017 09:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2017 09:34:33 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Aug 2017 09:05:20 GMT</pubDate>
+        <pubDate>Mon, 07 Aug 2017 09:34:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -269,6 +269,13 @@
             <pubDate>Sun, 06 Aug 2017 17:04:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[extension of distributions]]></title>
+            <link>https://ncatlab.org/nlab/show/extension+of+distributions</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/extension+of+distributions</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 06 Aug 2017 17:03:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Shazam works]]></title>
             <link>http://blog.plover.com/tech/machine-perception-2.html</link>
             <guid isPermaLink="false">http://blog.plover.com/tech/machine-perception-2.html</guid>
@@ -339,17 +346,17 @@
             <pubDate>Sun, 06 Aug 2017 12:30:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dome Symmetries]]></title>
-            <link>http://mathtourist.blogspot.com/2017/08/dome-symmetries.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/dome-symmetries.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 06 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Methods Versus Math Tricks]]></title>
             <link>http://math-frolic.blogspot.com/2017/08/math-methods-versus-math-tricks.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/math-methods-versus-math-tricks.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 06 Aug 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dome Symmetries]]></title>
+            <link>http://mathtourist.blogspot.com/2017/08/dome-symmetries.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/dome-symmetries.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 06 Aug 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -484,13 +491,6 @@
             <guid isPermaLink="false">http://mrcollinsmaths.blogspot.com/2017/08/being-hodhof.html</guid>
             <dc:creator><![CDATA[Mr Collins Mathematics Blog]]></dc:creator>
             <pubDate>Sat, 05 Aug 2017 20:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[main theorem of perturbative renormalization]]></title>
-            <link>https://ncatlab.org/nlab/show/main+theorem+of+perturbative+renormalization</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/main+theorem+of+perturbative+renormalization</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 05 Aug 2017 18:00:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Instantaneous Dimension of Finite Metric Spaces via Magnitude and Spread]]></title>
@@ -969,16 +969,16 @@
             <pubDate>Fri, 04 Aug 2017 04:18:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Les mathématiques dans notre monde du XXIe siècle]]></title>
-            <link>http://images.math.cnrs.fr/Les-mathematiques-dans-notre-monde-du-XXIe-siecle.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-mathematiques-dans-notre-monde-du-XXIe-siecle.html</guid>
+            <title><![CDATA[Août 2017, 1er défi]]></title>
+            <link>http://images.math.cnrs.fr/Aout-2017-1er-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Aout-2017-1er-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 04 Aug 2017 02:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Août 2017, 1er défi]]></title>
-            <link>http://images.math.cnrs.fr/Aout-2017-1er-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Aout-2017-1er-defi.html</guid>
+            <title><![CDATA[Les mathématiques dans notre monde du XXIe siècle]]></title>
+            <link>http://images.math.cnrs.fr/Les-mathematiques-dans-notre-monde-du-XXIe-siecle.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-mathematiques-dans-notre-monde-du-XXIe-siecle.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 04 Aug 2017 02:00:00 GMT</pubDate>
         </item>
@@ -1277,17 +1277,17 @@
             <pubDate>Thu, 03 Aug 2017 12:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Derangement]]></title>
-            <link>http://math-frolic.blogspot.com/2017/08/derangement.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/derangement.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Thu, 03 Aug 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dave Richeson's Favorite Theorem]]></title>
             <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/s5EqGUtSZQk/</link>
             <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/s5EqGUtSZQk/</guid>
             <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
+            <pubDate>Thu, 03 Aug 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Derangement]]></title>
+            <link>http://math-frolic.blogspot.com/2017/08/derangement.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/derangement.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Thu, 03 Aug 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1627,6 +1627,13 @@
             <pubDate>Wed, 02 Aug 2017 11:26:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[product of distributions]]></title>
+            <link>https://ncatlab.org/nlab/show/product+of+distributions</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/product+of+distributions</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 02 Aug 2017 11:13:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thunder Bay Moon]]></title>
             <link>http://mathtourist.blogspot.com/2017/08/thunder-bay-moon.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/thunder-bay-moon.html</guid>
@@ -1795,13 +1802,6 @@
             <pubDate>Tue, 01 Aug 2017 22:17:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[#TMC17 Post 1: My TMC17 Scrapbook Story]]></title>
-            <link>http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-1-my-tmc17-scrapbook-story.html</link>
-            <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-1-my-tmc17-scrapbook-story.html</guid>
-            <dc:creator><![CDATA[8 is my lucky number]]></dc:creator>
-            <pubDate>Tue, 01 Aug 2017 21:38:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[#TMC17 Post 3: My Morning Sessions]]></title>
             <link>http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-3-my-morning-sessions.html</link>
             <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-3-my-morning-sessions.html</guid>
@@ -1816,9 +1816,23 @@
             <pubDate>Tue, 01 Aug 2017 21:38:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[#TMC17 Post 1: My TMC17 Scrapbook Story]]></title>
+            <link>http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-1-my-tmc17-scrapbook-story.html</link>
+            <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-1-my-tmc17-scrapbook-story.html</guid>
+            <dc:creator><![CDATA[8 is my lucky number]]></dc:creator>
+            <pubDate>Tue, 01 Aug 2017 21:38:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#TMC17 Post 5: My Mentee]]></title>
             <link>http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-5-my-mentee.html</link>
             <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-5-my-mentee.html</guid>
+            <dc:creator><![CDATA[8 is my lucky number]]></dc:creator>
+            <pubDate>Tue, 01 Aug 2017 21:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#TMC17 Post 7: My Presentations]]></title>
+            <link>http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-7-my-presentations.html</link>
+            <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-7-my-presentations.html</guid>
             <dc:creator><![CDATA[8 is my lucky number]]></dc:creator>
             <pubDate>Tue, 01 Aug 2017 21:37:00 GMT</pubDate>
         </item>
@@ -1830,13 +1844,6 @@
             <pubDate>Tue, 01 Aug 2017 21:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[#TMC17 Post 6: My Dinners and Evening Fun]]></title>
-            <link>http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-6-my-dinners-and-evening-fun.html</link>
-            <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-6-my-dinners-and-evening-fun.html</guid>
-            <dc:creator><![CDATA[8 is my lucky number]]></dc:creator>
-            <pubDate>Tue, 01 Aug 2017 21:37:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[#TMC17 Post 8: My Takeaways]]></title>
             <link>http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-8-my-takeaways.html</link>
             <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-8-my-takeaways.html</guid>
@@ -1844,9 +1851,9 @@
             <pubDate>Tue, 01 Aug 2017 21:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[#TMC17 Post 7: My Presentations]]></title>
-            <link>http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-7-my-presentations.html</link>
-            <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-7-my-presentations.html</guid>
+            <title><![CDATA[#TMC17 Post 6: My Dinners and Evening Fun]]></title>
+            <link>http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-6-my-dinners-and-evening-fun.html</link>
+            <guid isPermaLink="false">http://8ismyluckynumber.blogspot.com/2017/08/tmc17-post-6-my-dinners-and-evening-fun.html</guid>
             <dc:creator><![CDATA[8 is my lucky number]]></dc:creator>
             <pubDate>Tue, 01 Aug 2017 21:37:00 GMT</pubDate>
         </item>
@@ -2467,17 +2474,17 @@
             <pubDate>Mon, 31 Jul 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My Stab At Colin’s Puzzle]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 31 Jul 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Traditional practice best for struggling 1st-graders]]></title>
             <link>http://www.madmath.com/2017/07/traditional-practice-best-for.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/07/traditional-practice-best-for.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 31 Jul 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Stab At Colin’s Puzzle]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 31 Jul 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2586,17 +2593,17 @@
             <pubDate>Sun, 30 Jul 2017 23:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - July 31]]></title>
-            <link>http://pballew.blogspot.com/2017/07/on-this-day-in-math-july-31.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/07/on-this-day-in-math-july-31.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 30 Jul 2017 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Le langage mathématique dans tous ses états]]></title>
             <link>http://images.math.cnrs.fr/Le-langage-mathematique-dans-tous-ses-etats.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Le-langage-mathematique-dans-tous-ses-etats.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Sun, 30 Jul 2017 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - July 31]]></title>
+            <link>http://pballew.blogspot.com/2017/07/on-this-day-in-math-july-31.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/07/on-this-day-in-math-july-31.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 30 Jul 2017 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2761,17 +2768,17 @@
             <pubDate>Sun, 30 Jul 2017 11:04:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Black Polygon]]></title>
-            <link>http://mathtourist.blogspot.com/2017/07/black-polygon.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/black-polygon.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 30 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Objectivity...]]></title>
             <link>http://math-frolic.blogspot.com/2017/07/objectivity.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/objectivity.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 30 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Polygon]]></title>
+            <link>http://mathtourist.blogspot.com/2017/07/black-polygon.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/black-polygon.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 30 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3769,17 +3776,17 @@
             <pubDate>Wed, 26 Jul 2017 05:00:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Des animaux et des maths]]></title>
-            <link>http://images.math.cnrs.fr/Des-animaux-et-des-maths.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Des-animaux-et-des-maths.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7XodG8HPdE/cardiologist-level-arrhythmia-detection.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7XodG8HPdE/cardiologist-level-arrhythmia-detection.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 26 Jul 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Des animaux et des maths]]></title>
+            <link>http://images.math.cnrs.fr/Des-animaux-et-des-maths.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Des-animaux-et-des-maths.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 26 Jul 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4189,17 +4196,17 @@
             <pubDate>Mon, 24 Jul 2017 13:00:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Disruption Fetish]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2017/07/the-disruption-fetish.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/07/the-disruption-fetish.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Maryam Mirzakhani – A Genius of Maths]]></title>
             <link>http://www.bbc.co.uk/programmes/p059b1jw</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p059b1jw</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Disruption Fetish]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2017/07/the-disruption-fetish.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/07/the-disruption-fetish.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4238,17 +4245,17 @@
             <pubDate>Mon, 24 Jul 2017 11:02:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.312b - We'll Want Stats]]></title>
-            <link>http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[McGill Physics]]></title>
             <link>http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.312b - We'll Want Stats]]></title>
+            <link>http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5645,17 +5652,17 @@
             <pubDate>Mon, 17 Jul 2017 10:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A coin sequence conundrum]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/coin-sequence-conundrum/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/coin-sequence-conundrum/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 17 Jul 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scientific American: Math is now a key weapon against disease]]></title>
             <link>http://www.madmath.com/2017/07/scientific-american-math-is-now-key.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/07/scientific-american-math-is-now-key.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 17 Jul 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A coin sequence conundrum]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/coin-sequence-conundrum/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/coin-sequence-conundrum/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 17 Jul 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5811,13 +5818,6 @@
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/causal+perturbation+theory</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Sun, 16 Jul 2017 12:07:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Role of locality in perturbation theory]]></title>
-            <link>https://ncatlab.org/nlab/show/The+Role+of+locality+in+perturbation+theory</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/The+Role+of+locality+in+perturbation+theory</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 16 Jul 2017 11:29:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Play Factris!]]></title>
@@ -7080,17 +7080,17 @@
             <pubDate>Mon, 10 Jul 2017 13:49:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Steph Curry cheap and how random is random?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p05827jm</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05827jm</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 10 Jul 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bring red flags, lots of red flags – part IV:If your marketing is good, you don't have to be]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/07/bring-red-flags-lots-of-red-flags-part_10.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/07/bring-red-flags-lots-of-red-flags-part_10.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 10 Jul 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Steph Curry cheap and how random is random?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p05827jm</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05827jm</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 10 Jul 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7526,13 +7526,6 @@
             <guid isPermaLink="false">https://calculus7.org/2017/07/07/the-kolakoski-cantor-set/</guid>
             <dc:creator><![CDATA[Calculus VII]]></dc:creator>
             <pubDate>Fri, 07 Jul 2017 10:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strong coloring]]></title>
-            <link>https://boolesrings.org/asafk/2017/strong-coloring/</link>
-            <guid isPermaLink="false">https://boolesrings.org/asafk/2017/strong-coloring/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Fri, 07 Jul 2017 09:02:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
