@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Aug 2017 13:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2017 14:03:31 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Aug 2017 13:33:38 GMT</pubDate>
+        <pubDate>Tue, 08 Aug 2017 14:03:29 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -171,17 +171,17 @@
             <pubDate>Thu, 03 Aug 2017 12:30:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dave Richeson's Favorite Theorem]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/s5EqGUtSZQk/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/s5EqGUtSZQk/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Thu, 03 Aug 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Derangement]]></title>
             <link>http://math-frolic.blogspot.com/2017/08/derangement.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/derangement.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 03 Aug 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dave Richeson's Favorite Theorem]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/s5EqGUtSZQk/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/s5EqGUtSZQk/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Thu, 03 Aug 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1177,13 +1177,6 @@
             <guid isPermaLink="false">http://blog.tanyakhovanova.com/2017/07/a-domino-covering-problem/</guid>
             <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
             <pubDate>Sat, 08 Jul 2017 20:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Numbers that decouple from the Integers]]></title>
-            <link>http://www.math-math.com/2017/07/numbers-that-decouple-from-integers.html</link>
-            <guid isPermaLink="false">http://www.math-math.com/2017/07/numbers-that-decouple-from-integers.html</guid>
-            <dc:creator><![CDATA[Math Math]]></dc:creator>
-            <pubDate>Sat, 08 Jul 2017 13:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
