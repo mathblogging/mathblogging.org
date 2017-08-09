@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Aug 2017 18:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2017 18:33:30 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Aug 2017 18:03:26 GMT</pubDate>
+        <pubDate>Wed, 09 Aug 2017 18:33:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -108,6 +108,13 @@
             <pubDate>Wed, 09 Aug 2017 00:59:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The problem with MathML as a web standard (part 1)]]></title>
+            <link>https://www.peterkrautzberger.org/0197/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0197/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Wed, 09 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Stacks project workshop: the aftermath]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/08/09/stacks-project-workshop-discussion/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/08/09/stacks-project-workshop-discussion/</guid>
@@ -141,6 +148,20 @@
             <guid isPermaLink="false">https://punkrockor.com/2017/08/08/risk-analysis-and-extreme-uncertainty-in-beijing/</guid>
             <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
             <pubDate>Tue, 08 Aug 2017 15:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dmitry Shirkov]]></title>
+            <link>https://ncatlab.org/nlab/show/Dmitry+Shirkov</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Dmitry+Shirkov</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 08 Aug 2017 14:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nikolay Bogolyubov]]></title>
+            <link>https://ncatlab.org/nlab/show/Nikolay+Bogolyubov</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Nikolay+Bogolyubov</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 08 Aug 2017 14:01:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Irwin Shaw, John Updike, and Donald Trump]]></title>
@@ -2397,6 +2418,13 @@
             <pubDate>Sun, 16 Jul 2017 12:43:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[causal perturbation theory]]></title>
+            <link>https://ncatlab.org/nlab/show/causal+perturbation+theory</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/causal+perturbation+theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 16 Jul 2017 12:07:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Infinity and Foundation]]></title>
             <link>https://cameroncounts.wordpress.com/2017/07/16/infinity-and-foundation/</link>
             <guid isPermaLink="false">https://cameroncounts.wordpress.com/2017/07/16/infinity-and-foundation/</guid>
@@ -2822,13 +2850,6 @@
             <guid isPermaLink="false">http://blog.computationalcomplexity.org/2017/07/two-hat-problems-you-may-or-may-not.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Sun, 09 Jul 2017 21:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6000 pages]]></title>
-            <link>http://math.columbia.edu/~dejong/wordpress/?p=4181</link>
-            <guid isPermaLink="false">http://math.columbia.edu/~dejong/wordpress/?p=4181</guid>
-            <dc:creator><![CDATA[Stacks Project Blog]]></dc:creator>
-            <pubDate>Sun, 09 Jul 2017 18:15:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
