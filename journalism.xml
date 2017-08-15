@@ -4,24 +4,38 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Aug 2017 21:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2017 22:24:11 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Aug 2017 21:24:49 GMT</pubDate>
+        <pubDate>Tue, 15 Aug 2017 22:24:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[composition of injective functions is injective proof]]></title>
-            <link>http://www.bookofproofs.org/branches/composition-of-injective-functions-is-injective/proof/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/composition-of-injective-functions-is-injective/proof/</guid>
+            <title><![CDATA[composition of bijective functions is bijective proof]]></title>
+            <link>http://www.bookofproofs.org/branches/composition-of-bijective-functions-is-bijective/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/composition-of-bijective-functions-is-bijective/proof/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 15 Aug 2017 21:05:28 GMT</pubDate>
+            <pubDate>Tue, 15 Aug 2017 21:14:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[composition of bijective functions is bijective]]></title>
+            <link>http://www.bookofproofs.org/branches/composition-of-bijective-functions-is-bijective/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/composition-of-bijective-functions-is-bijective/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 15 Aug 2017 21:14:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[composition of injective functions is injective]]></title>
             <link>http://www.bookofproofs.org/branches/composition-of-injective-functions-is-injective/</link>
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/composition-of-injective-functions-is-injective/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 15 Aug 2017 20:58:25 GMT</pubDate>
+            <pubDate>Tue, 15 Aug 2017 21:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[composition of injective functions is injective proof]]></title>
+            <link>http://www.bookofproofs.org/branches/composition-of-injective-functions-is-injective/proof/</link>
+            <guid isPermaLink="false">http://www.bookofproofs.org/branches/composition-of-injective-functions-is-injective/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 15 Aug 2017 21:05:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[composition of surjective functions is surjective proof]]></title>
@@ -141,13 +155,6 @@
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/164212646205</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Tue, 15 Aug 2017 12:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Magnetic moment in precessing magnetic field]]></title>
-            <link>http://www.physicspages.com/2017/08/15/magnetic-moment-in-precessing-magnetic-field/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/08/15/magnetic-moment-in-precessing-magnetic-field/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Tue, 15 Aug 2017 12:29:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Did web scraping just received a legal boost?]]></title>
@@ -351,6 +358,13 @@
             <guid isPermaLink="false">http://www.moomoomathblog.com/2017/08/temperate-deciduous-forest-world-biomes.html</guid>
             <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
             <pubDate>Tue, 15 Aug 2017 01:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[逛书店一记]]></title>
+            <link>https://lttt.vanabel.cn/2017/08/15/guangshudianyiji.html</link>
+            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/08/15/guangshudianyiji.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Tue, 15 Aug 2017 01:13:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dennis Gallagher]]></title>
@@ -654,6 +668,13 @@
             <pubDate>Mon, 14 Aug 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[修复Seahub启动失败：django-pylibmc.memcached未找到]]></title>
+            <link>https://lttt.vanabel.cn/2017/08/14/xiufuseahubqidongshibaidjango-pylibmc-memcachedweizhaodao.html</link>
+            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/08/14/xiufuseahubqidongshibaidjango-pylibmc-memcachedweizhaodao.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Mon, 14 Aug 2017 10:32:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NY State backs off from Common Core]]></title>
             <link>http://www.madmath.com/2017/08/ny-state-backs-off-from-common-core.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/08/ny-state-backs-off-from-common-core.html</guid>
@@ -920,13 +941,6 @@
             <pubDate>Sun, 13 Aug 2017 14:18:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[de morgans laws logic]]></title>
-            <link>http://www.bookofproofs.org/branches/de-morgans-laws-logic/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/de-morgans-laws-logic/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 13 Aug 2017 14:18:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bird fight!  (Kroodsma vs. Podos)]]></title>
             <link>http://andrewgelman.com/2017/08/13/bird-fight/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/08/13/bird-fight/</guid>
@@ -939,13 +953,6 @@
             <guid isPermaLink="false">https://ispeakmath.org/2017/08/13/first-day-blogs-2017-18-mtbos/</guid>
             <dc:creator><![CDATA[I Speak Math]]></dc:creator>
             <pubDate>Sun, 13 Aug 2017 13:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[set union is associative proof of equality of sets]]></title>
-            <link>http://www.bookofproofs.org/branches/set-union-is-associative/proof-of-equality-of-sets/</link>
-            <guid isPermaLink="false">http://www.bookofproofs.org/branches/set-union-is-associative/proof-of-equality-of-sets/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 13 Aug 2017 13:09:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[American Tune...]]></title>
@@ -1128,13 +1135,6 @@
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/164095760484</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Sat, 12 Aug 2017 12:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Precession of angular momentum in a magnetic field]]></title>
-            <link>http://www.physicspages.com/2017/08/12/precession-of-angular-momentum-in-a-magnetic-field/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/08/12/precession-of-angular-momentum-in-a-magnetic-field/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Sat, 12 Aug 2017 12:25:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Propeller Pillar]]></title>
@@ -1387,6 +1387,13 @@
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/ferry-crossing.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 11 Aug 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[使用Acobat Adobe制作Kindle电子书]]></title>
+            <link>https://lttt.vanabel.cn/2017/08/11/shiyongacobat-adobezhizuokindledianzishu.html</link>
+            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/08/11/shiyongacobat-adobezhizuokindledianzishu.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Fri, 11 Aug 2017 07:57:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Machine learning to find spy planes]]></title>
@@ -1697,13 +1704,6 @@ The dashed lines are...]]></title>
             <guid isPermaLink="false">http://blog.ingo-bartling.de/2017/08/10/wo-ich-war/</guid>
             <dc:creator><![CDATA[Lehrzeit]]></dc:creator>
             <pubDate>Thu, 10 Aug 2017 09:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pauli matrices: a couple of theorems about commutators and anticommutators]]></title>
-            <link>http://www.physicspages.com/2017/08/10/pauli-matrices-a-couple-of-theorems-about-commutators-and-anticommutators/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/08/10/pauli-matrices-a-couple-of-theorems-about-commutators-and-anticommutators/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Thu, 10 Aug 2017 08:47:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Solving ill-posed inverse problems using iterative deep neural networks  / Jobs: 2 Postdocs @ KTH, Sweden - implementation -]]></title>
@@ -2021,17 +2021,17 @@ The dashed lines are...]]></title>
             <pubDate>Wed, 09 Aug 2017 05:00:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sketched Subspace Clustering]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/e49HKiFlDqE/sketched-subspace-clustering.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/e49HKiFlDqE/sketched-subspace-clustering.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 09 Aug 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Crochet floral]]></title>
             <link>http://images.math.cnrs.fr/Crochet-floral.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Crochet-floral.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 09 Aug 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sketched Subspace Clustering]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/e49HKiFlDqE/sketched-subspace-clustering.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/e49HKiFlDqE/sketched-subspace-clustering.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 09 Aug 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2336,13 +2336,6 @@ The dashed lines are...]]></title>
             <pubDate>Tue, 08 Aug 2017 10:00:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pauli matrices: a few example calculations]]></title>
-            <link>http://www.physicspages.com/2017/08/08/pauli-matrices-a-few-example-calculations/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/08/08/pauli-matrices-a-few-example-calculations/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Tue, 08 Aug 2017 09:28:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dimensione zero: il punto]]></title>
             <link>http://maddmaths.simai.eu/divulgazione/spazi/dimensione-zero/</link>
             <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/spazi/dimensione-zero/</guid>
@@ -2588,13 +2581,6 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 07 Aug 2017 12:00:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rotation of the spin axis]]></title>
-            <link>http://www.physicspages.com/2017/08/07/rotation-of-the-spin-axis/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/08/07/rotation-of-the-spin-axis/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Mon, 07 Aug 2017 11:47:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Un quizzino non proprio così facile]]></title>
             <link>http://www.ilpost.it/mauriziocodogno/2017/08/07/un-quizzino-non-proprio-cosi-facile/</link>
             <guid isPermaLink="false">http://www.ilpost.it/mauriziocodogno/2017/08/07/un-quizzino-non-proprio-cosi-facile/</guid>
@@ -2621,13 +2607,6 @@ The dashed lines are...]]></title>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/08/s9315-pan-pan-door-aha.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 07 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arbitrary 2×2 matrix as a linear combination of Pauli matrices]]></title>
-            <link>http://www.physicspages.com/2017/08/07/arbitrary-2x2-matrix-as-a-linear-combination-of-pauli-matrices/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/08/07/arbitrary-2x2-matrix-as-a-linear-combination-of-pauli-matrices/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Mon, 07 Aug 2017 10:10:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Very fractional geometric progressions with an integer ratio]]></title>
@@ -2931,25 +2910,11 @@ The dashed lines are...]]></title>
             <pubDate>Sun, 06 Aug 2017 10:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pauli matrices: a useful identity]]></title>
-            <link>http://www.physicspages.com/2017/08/06/pauli-matrices-a-useful-identity/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/08/06/pauli-matrices-a-useful-identity/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Sun, 06 Aug 2017 10:11:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Who’s going back to school?]]></title>
             <link>https://www.yummymath.com/2017/whos-going-back-to-school-2/</link>
             <guid isPermaLink="false">https://www.yummymath.com/2017/whos-going-back-to-school-2/</guid>
             <dc:creator><![CDATA[Yummy Math]]></dc:creator>
             <pubDate>Sun, 06 Aug 2017 10:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pauli matrices: trace]]></title>
-            <link>http://www.physicspages.com/2017/08/06/pauli-matrices-trace/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/08/06/pauli-matrices-trace/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Sun, 06 Aug 2017 08:16:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are we running out of problems?]]></title>
@@ -3167,13 +3132,6 @@ The dashed lines are...]]></title>
             <guid isPermaLink="false">http://mathequalslove.blogspot.com/2017/08/21-ideas-for-first-week-of-school.html</guid>
             <dc:creator><![CDATA[Math = Love]]></dc:creator>
             <pubDate>Sat, 05 Aug 2017 10:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Any spinor is an eigenket of the spin operator for some direction of spin]]></title>
-            <link>http://www.physicspages.com/2017/08/05/any-spinor-is-an-eigenket-of-the-spin-operator-for-some-direction-of-spin/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/08/05/any-spinor-is-an-eigenket-of-the-spin-operator-for-some-direction-of-spin/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Sat, 05 Aug 2017 10:08:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rise and Spread of Algebraic Topology]]></title>
@@ -4208,14 +4166,14 @@ The dashed lines are...]]></title>
             <title><![CDATA[Maths at the Edinburgh Fringe]]></title>
             <link>http://aperiodical.com/2017/08/maths-at-the-edinburgh-fringe/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/08/maths-at-the-edinburgh-fringe/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 01 Aug 2017 13:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maths at the Edinburgh Fringe]]></title>
             <link>http://aperiodical.com/2017/08/maths-at-the-edinburgh-fringe/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/08/maths-at-the-edinburgh-fringe/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 01 Aug 2017 13:10:51 GMT</pubDate>
         </item>
         <item>
@@ -4688,17 +4646,17 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 31 Jul 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My Stab At Colin’s Puzzle]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 31 Jul 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Traditional practice best for struggling 1st-graders]]></title>
             <link>http://www.madmath.com/2017/07/traditional-practice-best-for.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/07/traditional-practice-best-for.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 31 Jul 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Stab At Colin’s Puzzle]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 31 Jul 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4863,13 +4821,6 @@ The dashed lines are...]]></title>
             <pubDate>Sun, 30 Jul 2017 14:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kinematics of spin: Hilbert space for an electron]]></title>
-            <link>http://www.physicspages.com/2017/07/30/kinematics-of-spin-hilbert-space-for-an-electron/</link>
-            <guid isPermaLink="false">http://www.physicspages.com/2017/07/30/kinematics-of-spin-hilbert-space-for-an-electron/</guid>
-            <dc:creator><![CDATA[Physics pages]]></dc:creator>
-            <pubDate>Sun, 30 Jul 2017 14:41:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Twitter Math Camp 2017: “I want to cultivate a relationship with you.”]]></title>
             <link>https://roughlynormal.com/2017/07/30/tmc2017-i-want-to-cultivate-a-relationship-with-you/</link>
             <guid isPermaLink="false">https://roughlynormal.com/2017/07/30/tmc2017-i-want-to-cultivate-a-relationship-with-you/</guid>
@@ -4947,17 +4898,17 @@ The dashed lines are...]]></title>
             <pubDate>Sun, 30 Jul 2017 11:04:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Black Polygon]]></title>
-            <link>http://mathtourist.blogspot.com/2017/07/black-polygon.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/black-polygon.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 30 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Objectivity...]]></title>
             <link>http://math-frolic.blogspot.com/2017/07/objectivity.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/07/objectivity.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 30 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Polygon]]></title>
+            <link>http://mathtourist.blogspot.com/2017/07/black-polygon.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/black-polygon.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 30 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4973,6 +4924,13 @@ The dashed lines are...]]></title>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2017/07/n.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικα]]></dc:creator>
             <pubDate>Sun, 30 Jul 2017 04:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[请客吃饭]]></title>
+            <link>https://lttt.vanabel.cn/2017/07/30/qingkechifan.html</link>
+            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/07/30/qingkechifan.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Sun, 30 Jul 2017 00:30:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Forecasting workshop in Perth]]></title>
@@ -6270,17 +6228,17 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 24 Jul 2017 13:00:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maryam Mirzakhani – A Genius of Maths]]></title>
-            <link>http://www.bbc.co.uk/programmes/p059b1jw</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p059b1jw</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Disruption Fetish]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/07/the-disruption-fetish.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/07/the-disruption-fetish.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maryam Mirzakhani – A Genius of Maths]]></title>
+            <link>http://www.bbc.co.uk/programmes/p059b1jw</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p059b1jw</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6312,17 +6270,17 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 24 Jul 2017 11:02:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.312b - We'll Want Stats]]></title>
-            <link>http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[McGill Physics]]></title>
             <link>http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.312b - We'll Want Stats]]></title>
+            <link>http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6898,6 +6856,13 @@ The dashed lines are...]]></title>
             <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2017/07/zo-geef-je-jezelf-een-loonsverhoging.html</guid>
             <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
             <pubDate>Thu, 20 Jul 2017 08:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mac下如何快速查找Word文件的内容？]]></title>
+            <link>https://lttt.vanabel.cn/2017/07/20/macxiaruhekuaisuchazhaowordwenjiandeneirong.html</link>
+            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/07/20/macxiaruhekuaisuchazhaowordwenjiandeneirong.html</guid>
+            <dc:creator><![CDATA[小小泪]]></dc:creator>
+            <pubDate>Thu, 20 Jul 2017 06:32:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dragon Trainer rich mathematical task]]></title>
@@ -7481,17 +7446,17 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 17 Jul 2017 10:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A coin sequence conundrum]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/coin-sequence-conundrum/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/coin-sequence-conundrum/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 17 Jul 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scientific American: Math is now a key weapon against disease]]></title>
             <link>http://www.madmath.com/2017/07/scientific-american-math-is-now-key.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/07/scientific-american-math-is-now-key.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 17 Jul 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A coin sequence conundrum]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/coin-sequence-conundrum/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/coin-sequence-conundrum/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 17 Jul 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7675,13 +7640,6 @@ The dashed lines are...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/t_HthlzB2Ag/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sat, 15 Jul 2017 22:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The language(s) of first-order logic #1]]></title>
-            <link>http://www.logicmatters.net/2017/07/15/the-languages-of-first-order-logic-1/</link>
-            <guid isPermaLink="false">http://www.logicmatters.net/2017/07/15/the-languages-of-first-order-logic-1/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Sat, 15 Jul 2017 21:56:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
