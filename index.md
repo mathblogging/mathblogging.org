@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Lösung für P-NP-Problem? (in German) best summary so far on recent PvsNP paper, with lots of links  <a href="https://t.co/c5DxMrtqJm">https://t.co/c5DxMrtqJm</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/897866797969440769">August 16, 2017</a></blockquote>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">If you only read one blog post per month, make it this one: Gifted while female by <a href="https://twitter.com/ilaba">@ilaba</a> <a href="https://t.co/6H1sNUfggI">https://t.co/6H1sNUfggI</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/879954722286862337">June 28, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The ever curious <a href="https://twitter.com/christianp">@christianp</a> tries something new and talks topoi with David Roberts <a href="https://t.co/DAo8pzvS39">https://t.co/DAo8pzvS39</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/878534016500211712">June 24, 2017</a></blockquote>
