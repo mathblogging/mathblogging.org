@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Patrick Honner explains symmetry &amp; groups for Quanta readers: <a href="https://t.co/qDZf8mYO9p">https://t.co/qDZf8mYO9p</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/898250791990972416">August 17, 2017</a></blockquote>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A heavy lift, but maybe a worthwhile read if you&#39;re trying to get a better sense of the Langlands Program: <a href="https://t.co/IAqVLEQxYA">https://t.co/IAqVLEQxYA</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/897918084052377600">August 16, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Lösung für P-NP-Problem? (in German) best summary so far on recent PvsNP paper, with lots of links  <a href="https://t.co/c5DxMrtqJm">https://t.co/c5DxMrtqJm</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/897866797969440769">August 16, 2017</a></blockquote>
