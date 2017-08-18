@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Aug 2017 09:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2017 10:23:50 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Aug 2017 09:23:51 GMT</pubDate>
+        <pubDate>Fri, 18 Aug 2017 10:23:50 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Learning Transferable Architectures for Scalable Image Recognition / The Cost of Everything and the Value of Nothing]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/3CcvPDPdyDc/learning-transferable-architectures-for.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/3CcvPDPdyDc/learning-transferable-architectures-for.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 18 Aug 2017 08:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Souvenier van Margriet]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/HpuQ4K3j9nQ/souvenier-van-margriet.html</link>
@@ -43,13 +50,6 @@
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/08/add-two.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 18 Aug 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安装与取下全框眼镜片]]></title>
-            <link>https://lttt.vanabel.cn/2017/08/18/anzhuangyuquxiaquankuangyanjingpian.html</link>
-            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/08/18/anzhuangyuquxiaquankuangyanjingpian.html</guid>
-            <dc:creator><![CDATA[小小泪]]></dc:creator>
-            <pubDate>Fri, 18 Aug 2017 04:33:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Green and full of terrors]]></title>
@@ -421,6 +421,13 @@
             <guid isPermaLink="false">http://www.bookofproofs.org/branches/examples-of-functions-continuous-at-a-single-point/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Wed, 16 Aug 2017 22:04:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Citations in your CV]]></title>
+            <link>http://richardzach.org/2017/08/16/citations-in-your-cv/</link>
+            <guid isPermaLink="false">http://richardzach.org/2017/08/16/citations-in-your-cv/</guid>
+            <dc:creator><![CDATA[Richard Zach]]></dc:creator>
+            <pubDate>Wed, 16 Aug 2017 21:35:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“Prove” 13 = 12 With Geometry. The Vanishing Line Paradox]]></title>
@@ -1116,13 +1123,6 @@
             <pubDate>Tue, 15 Aug 2017 04:38:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Problemini per ferragosto 2017]]></title>
-            <link>http://www.ilpost.it/mauriziocodogno/2017/08/15/problemini-per-ferragosto-2017/</link>
-            <guid isPermaLink="false">http://www.ilpost.it/mauriziocodogno/2017/08/15/problemini-per-ferragosto-2017/</guid>
-            <dc:creator><![CDATA[Il Post » Bloggers » mauriziocodogno]]></dc:creator>
-            <pubDate>Tue, 15 Aug 2017 02:04:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[First Day Plans – Year 33]]></title>
             <link>http://geekymathteacher.com/2017/08/first-day-plans-year-33/</link>
             <guid isPermaLink="false">http://geekymathteacher.com/2017/08/first-day-plans-year-33/</guid>
@@ -1142,13 +1142,6 @@
             <guid isPermaLink="false">http://www.moomoomathblog.com/2017/08/temperate-deciduous-forest-world-biomes.html</guid>
             <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
             <pubDate>Tue, 15 Aug 2017 01:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[逛书店一记]]></title>
-            <link>https://lttt.vanabel.cn/2017/08/15/guangshudianyiji.html</link>
-            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/08/15/guangshudianyiji.html</guid>
-            <dc:creator><![CDATA[小小泪]]></dc:creator>
-            <pubDate>Tue, 15 Aug 2017 01:13:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dennis Gallagher]]></title>
@@ -1436,13 +1429,6 @@
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/san-jose-sunrise.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 14 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[修复Seahub启动失败：django-pylibmc.memcached未找到]]></title>
-            <link>https://lttt.vanabel.cn/2017/08/14/xiufuseahubqidongshibaidjango-pylibmc-memcachedweizhaodao.html</link>
-            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/08/14/xiufuseahubqidongshibaidjango-pylibmc-memcachedweizhaodao.html</guid>
-            <dc:creator><![CDATA[小小泪]]></dc:creator>
-            <pubDate>Mon, 14 Aug 2017 10:32:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NY State backs off from Common Core]]></title>
@@ -2005,6 +1991,13 @@
             <pubDate>Fri, 11 Aug 2017 19:00:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A Fistful of Commits]]></title>
+            <link>http://openlogicproject.org/2017/08/11/a-fistful-of-commits/</link>
+            <guid isPermaLink="false">http://openlogicproject.org/2017/08/11/a-fistful-of-commits/</guid>
+            <dc:creator><![CDATA[Richard Zach]]></dc:creator>
+            <pubDate>Fri, 11 Aug 2017 18:46:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[30 new Numerical Tours in Julia - implementation -]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/uWFoBa6iPTA/30-new-numerical-tours-in-julia.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/uWFoBa6iPTA/30-new-numerical-tours-in-julia.html</guid>
@@ -2122,13 +2115,6 @@
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/ferry-crossing.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 11 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[使用Acobat Adobe制作Kindle电子书]]></title>
-            <link>https://lttt.vanabel.cn/2017/08/11/shiyongacobat-adobezhizuokindledianzishu.html</link>
-            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/08/11/shiyongacobat-adobezhizuokindledianzishu.html</guid>
-            <dc:creator><![CDATA[小小泪]]></dc:creator>
-            <pubDate>Fri, 11 Aug 2017 07:57:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Machine learning to find spy planes]]></title>
@@ -2271,17 +2257,17 @@
             <pubDate>Thu, 10 Aug 2017 17:59:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bigshot statistician keeps publishing papers with errors; is there anything we can do to get him to stop???]]></title>
-            <link>http://andrewgelman.com/2017/08/10/bigshot-statistician-keeps-publishing-papers-errors-anything-can-get-stop/</link>
-            <guid isPermaLink="false">http://andrewgelman.com/2017/08/10/bigshot-statistician-keeps-publishing-papers-errors-anything-can-get-stop/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 10 Aug 2017 17:30:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An Infinite Understanding]]></title>
             <link>http://blogs.ams.org/mathgradblog/2017/08/10/infinite-understanding/</link>
             <guid isPermaLink="false">http://blogs.ams.org/mathgradblog/2017/08/10/infinite-understanding/</guid>
             <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Thu, 10 Aug 2017 17:30:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bigshot statistician keeps publishing papers with errors; is there anything we can do to get him to stop???]]></title>
+            <link>http://andrewgelman.com/2017/08/10/bigshot-statistician-keeps-publishing-papers-errors-anything-can-get-stop/</link>
+            <guid isPermaLink="false">http://andrewgelman.com/2017/08/10/bigshot-statistician-keeps-publishing-papers-errors-anything-can-get-stop/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Thu, 10 Aug 2017 17:30:22 GMT</pubDate>
         </item>
         <item>
@@ -2397,13 +2383,6 @@ The dashed lines are...]]></title>
             <guid isPermaLink="false">http://changetheequation.org/blog/google-trends-has-good-news-about-stem</guid>
             <dc:creator><![CDATA[Change the Equation]]></dc:creator>
             <pubDate>Thu, 10 Aug 2017 10:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perché il meteoterrorismo non funziona]]></title>
-            <link>http://www.ilpost.it/mauriziocodogno/2017/08/10/perche-il-meteoterrorismo-non-funziona/</link>
-            <guid isPermaLink="false">http://www.ilpost.it/mauriziocodogno/2017/08/10/perche-il-meteoterrorismo-non-funziona/</guid>
-            <dc:creator><![CDATA[Il Post » Bloggers » mauriziocodogno]]></dc:creator>
-            <pubDate>Thu, 10 Aug 2017 10:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adorno, l'estetica musicale e la dodecafonia]]></title>
@@ -2763,17 +2742,17 @@ The dashed lines are...]]></title>
             <pubDate>Wed, 09 Aug 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Stacks project workshop: the aftermath]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/08/09/stacks-project-workshop-discussion/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/08/09/stacks-project-workshop-discussion/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Wed, 09 Aug 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We can do better than the ALR or Softmax Transform]]></title>
             <link>http://statsathome.com/2017/08/09/we-can-do-better-than-the-alr-or-softmax-transform/</link>
             <guid isPermaLink="false">http://statsathome.com/2017/08/09/we-can-do-better-than-the-alr-or-softmax-transform/</guid>
             <dc:creator><![CDATA[Statistics @ Home]]></dc:creator>
+            <pubDate>Wed, 09 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Stacks project workshop: the aftermath]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/08/09/stacks-project-workshop-discussion/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/08/09/stacks-project-workshop-discussion/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Wed, 09 Aug 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3253,13 +3232,6 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 07 Aug 2017 11:47:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Un quizzino non proprio così facile]]></title>
-            <link>http://www.ilpost.it/mauriziocodogno/2017/08/07/un-quizzino-non-proprio-cosi-facile/</link>
-            <guid isPermaLink="false">http://www.ilpost.it/mauriziocodogno/2017/08/07/un-quizzino-non-proprio-cosi-facile/</guid>
-            <dc:creator><![CDATA[Il Post » Bloggers » mauriziocodogno]]></dc:creator>
-            <pubDate>Mon, 07 Aug 2017 11:46:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Limiting Factors in an Ecosystem]]></title>
             <link>http://www.moomoomathblog.com/2017/08/limiting-factors-in-ecosystem.html</link>
             <guid isPermaLink="false">http://www.moomoomathblog.com/2017/08/limiting-factors-in-ecosystem.html</guid>
@@ -3267,17 +3239,17 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 07 Aug 2017 11:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.315 - Pan-Pan Door Aha]]></title>
-            <link>http://mathtans.blogspot.com/2017/08/s9315-pan-pan-door-aha.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/08/s9315-pan-pan-door-aha.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 07 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bird of Paradise]]></title>
             <link>http://mathtourist.blogspot.com/2017/08/bird-of-paradise.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/bird-of-paradise.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 07 Aug 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.315 - Pan-Pan Door Aha]]></title>
+            <link>http://mathtans.blogspot.com/2017/08/s9315-pan-pan-door-aha.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/08/s9315-pan-pan-door-aha.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 07 Aug 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3561,17 +3533,17 @@ The dashed lines are...]]></title>
             <pubDate>Sun, 06 Aug 2017 12:30:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dome Symmetries]]></title>
-            <link>http://mathtourist.blogspot.com/2017/08/dome-symmetries.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/dome-symmetries.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 06 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Methods Versus Math Tricks]]></title>
             <link>http://math-frolic.blogspot.com/2017/08/math-methods-versus-math-tricks.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/math-methods-versus-math-tricks.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 06 Aug 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dome Symmetries]]></title>
+            <link>http://mathtourist.blogspot.com/2017/08/dome-symmetries.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/dome-symmetries.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 06 Aug 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4824,14 +4796,14 @@ The dashed lines are...]]></title>
             <title><![CDATA[Maths at the Edinburgh Fringe]]></title>
             <link>http://aperiodical.com/2017/08/maths-at-the-edinburgh-fringe/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/08/maths-at-the-edinburgh-fringe/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 01 Aug 2017 13:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maths at the Edinburgh Fringe]]></title>
             <link>http://aperiodical.com/2017/08/maths-at-the-edinburgh-fringe/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/08/maths-at-the-edinburgh-fringe/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 01 Aug 2017 13:10:51 GMT</pubDate>
         </item>
         <item>
@@ -4891,17 +4863,17 @@ The dashed lines are...]]></title>
             <pubDate>Tue, 01 Aug 2017 11:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lunenburg Mist]]></title>
-            <link>http://mathtourist.blogspot.com/2017/08/lunenburg-mist.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/lunenburg-mist.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 01 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.314 - Who's the Bos?]]></title>
             <link>http://mathtans.blogspot.com/2017/08/s9314-whos-bos.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/08/s9314-whos-bos.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Tue, 01 Aug 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lunenburg Mist]]></title>
+            <link>http://mathtourist.blogspot.com/2017/08/lunenburg-mist.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/lunenburg-mist.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 01 Aug 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5262,17 +5234,17 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 31 Jul 2017 11:42:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.313 - Tan Lines]]></title>
-            <link>http://mathtans.blogspot.com/2017/07/s9313-tan-lines.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9313-tan-lines.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 31 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Roofline]]></title>
             <link>http://mathtourist.blogspot.com/2017/07/roofline.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/roofline.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 31 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.313 - Tan Lines]]></title>
+            <link>http://mathtans.blogspot.com/2017/07/s9313-tan-lines.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9313-tan-lines.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 31 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5297,17 +5269,17 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 31 Jul 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My Stab At Colin’s Puzzle]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 31 Jul 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Traditional practice best for struggling 1st-graders]]></title>
             <link>http://www.madmath.com/2017/07/traditional-practice-best-for.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/07/traditional-practice-best-for.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 31 Jul 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Stab At Colin’s Puzzle]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/stab-colins-puzzle/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 31 Jul 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5575,13 +5547,6 @@ The dashed lines are...]]></title>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2017/07/n.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικα]]></dc:creator>
             <pubDate>Sun, 30 Jul 2017 04:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[请客吃饭]]></title>
-            <link>https://lttt.vanabel.cn/2017/07/30/qingkechifan.html</link>
-            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/07/30/qingkechifan.html</guid>
-            <dc:creator><![CDATA[小小泪]]></dc:creator>
-            <pubDate>Sun, 30 Jul 2017 00:30:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Forecasting workshop in Perth]]></title>
@@ -6851,17 +6816,17 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 24 Jul 2017 11:02:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[McGill Physics]]></title>
-            <link>http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.312b - We'll Want Stats]]></title>
             <link>http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/07/s9312b-well-want-stats.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[McGill Physics]]></title>
+            <link>http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/07/mcgill-physics.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 24 Jul 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6886,13 +6851,6 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 24 Jul 2017 10:00:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Laptops in class considered harmful]]></title>
-            <link>http://www.madmath.com/2017/07/laptops-in-class-considered-harmful.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/07/laptops-in-class-considered-harmful.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Return Of The Cav]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/the-return-of-the-cav/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-return-of-the-cav/</guid>
@@ -6900,11 +6858,11 @@ The dashed lines are...]]></title>
             <pubDate>Mon, 24 Jul 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Localization of Sound Sources in a Room with One Microphone - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/jnbqh1brSV4/localization-of-sound-sources-in-room.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/jnbqh1brSV4/localization-of-sound-sources-in-room.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2017 05:00:00 GMT</pubDate>
+            <title><![CDATA[Laptops in class considered harmful]]></title>
+            <link>http://www.madmath.com/2017/07/laptops-in-class-considered-harmful.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/07/laptops-in-class-considered-harmful.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Correlated Equilibria in Game Theory]]></title>
@@ -7395,13 +7353,6 @@ The dashed lines are...]]></title>
             <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2017/07/zo-geef-je-jezelf-een-loonsverhoging.html</guid>
             <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
             <pubDate>Thu, 20 Jul 2017 08:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mac下如何快速查找Word文件的内容？]]></title>
-            <link>https://lttt.vanabel.cn/2017/07/20/macxiaruhekuaisuchazhaowordwenjiandeneirong.html</link>
-            <guid isPermaLink="false">https://lttt.vanabel.cn/2017/07/20/macxiaruhekuaisuchazhaowordwenjiandeneirong.html</guid>
-            <dc:creator><![CDATA[小小泪]]></dc:creator>
-            <pubDate>Thu, 20 Jul 2017 06:32:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dragon Trainer rich mathematical task]]></title>
