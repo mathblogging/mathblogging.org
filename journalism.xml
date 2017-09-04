@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 Sep 2017 01:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2017 02:23:34 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 Sep 2017 01:23:25 GMT</pubDate>
+        <pubDate>Mon, 04 Sep 2017 02:23:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[La théorie des langages formels]]></title>
+            <link>http://images.math.cnrs.fr/La-theorie-des-langages-formels.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/La-theorie-des-langages-formels.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 04 Sep 2017 02:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reflection Questions to Start the Year]]></title>
             <link>http://fliplearnshare.blogspot.com/2017/09/reflection-questions-to-start-year.html</link>
@@ -308,13 +315,6 @@ illustrations by...]]></title>
             <guid isPermaLink="false">https://theronhitchman.wordpress.com/2017/09/02/about-linear-algebra-this-term/</guid>
             <dc:creator><![CDATA[Circles and Tangents]]></dc:creator>
             <pubDate>Sat, 02 Sep 2017 19:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[representative function]]></title>
-            <link>https://ncatlab.org/nlab/show/representative+function</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/representative+function</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 02 Sep 2017 19:40:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uitgegraven en opgerichte Graszodenboom]]></title>
@@ -730,17 +730,17 @@ illustrations by...]]></title>
             <pubDate>Fri, 01 Sep 2017 03:18:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Few of My Favorite Spaces: The Real Projective Plane]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/dUptj-HiJao/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/dUptj-HiJao/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Fri, 01 Sep 2017 03:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La musique comme une langue]]></title>
             <link>http://images.math.cnrs.fr/La-musique-comme-une-langue.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/La-musique-comme-une-langue.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 01 Sep 2017 03:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Few of My Favorite Spaces: The Real Projective Plane]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/dUptj-HiJao/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/dUptj-HiJao/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Fri, 01 Sep 2017 03:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1836,17 +1836,17 @@ illustrations by...]]></title>
             <pubDate>Mon, 28 Aug 2017 10:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grade Inflation and Corporatized College]]></title>
-            <link>http://www.madmath.com/2017/08/grade-inflation-and-corporatized-college.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/08/grade-inflation-and-corporatized-college.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 28 Aug 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An Australian Dining Phenomenon]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/australian-dining-phenomenon/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/australian-dining-phenomenon/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 28 Aug 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grade Inflation and Corporatized College]]></title>
+            <link>http://www.madmath.com/2017/08/grade-inflation-and-corporatized-college.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/08/grade-inflation-and-corporatized-college.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 28 Aug 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2193,17 +2193,17 @@ illustrations by...]]></title>
             <pubDate>Sun, 27 Aug 2017 00:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Gerby: plasTeX]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/08/27/introduction-gerby-plastex/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/08/27/introduction-gerby-plastex/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 27 Aug 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Does Gauss Love Me More in the Kitchen?]]></title>
             <link>http://statsathome.com/2017/08/27/does-gauss-love-me-more-in-the-kitchen/</link>
             <guid isPermaLink="false">http://statsathome.com/2017/08/27/does-gauss-love-me-more-in-the-kitchen/</guid>
             <dc:creator><![CDATA[Statistics @ Home]]></dc:creator>
+            <pubDate>Sun, 27 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Gerby: plasTeX]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/08/27/introduction-gerby-plastex/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/08/27/introduction-gerby-plastex/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 27 Aug 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3316,14 +3316,14 @@ illustrations by...]]></title>
             <title><![CDATA[Maths at the British Science Festival]]></title>
             <link>http://aperiodical.com/2017/08/maths-at-the-british-science-festival/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/08/maths-at-the-british-science-festival/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 22 Aug 2017 08:11:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maths at the British Science Festival]]></title>
             <link>http://aperiodical.com/2017/08/maths-at-the-british-science-festival/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/08/maths-at-the-british-science-festival/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 22 Aug 2017 08:11:40 GMT</pubDate>
         </item>
         <item>
@@ -3558,17 +3558,17 @@ illustrations by...]]></title>
             <pubDate>Mon, 21 Aug 2017 13:03:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Probably Not Just Coincidence...]]></title>
-            <link>http://math-frolic.blogspot.com/2017/08/probably-not-just-coincidence.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/probably-not-just-coincidence.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Mon, 21 Aug 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[That's not to say that sleeping around can't be a plus]]></title>
             <link>http://observationalepidemiology.blogspot.com/2017/08/thats-not-to-say-that-sleeping-around.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/08/thats-not-to-say-that-sleeping-around.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 21 Aug 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Probably Not Just Coincidence...]]></title>
+            <link>http://math-frolic.blogspot.com/2017/08/probably-not-just-coincidence.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/probably-not-just-coincidence.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Mon, 21 Aug 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3593,17 +3593,17 @@ illustrations by...]]></title>
             <pubDate>Mon, 21 Aug 2017 11:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bike Rack Symmetry]]></title>
-            <link>http://mathtourist.blogspot.com/2017/08/bike-rack-symmetry.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/bike-rack-symmetry.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 21 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.317 - Dis A Vowel]]></title>
             <link>http://mathtans.blogspot.com/2017/08/s9317-dis-vowel.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/08/s9317-dis-vowel.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 21 Aug 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bike Rack Symmetry]]></title>
+            <link>http://mathtourist.blogspot.com/2017/08/bike-rack-symmetry.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/bike-rack-symmetry.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 21 Aug 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3633,13 +3633,6 @@ illustrations by...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/tY-yzYJx1Zo/smash-one-shot-model-architecture.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 21 Aug 2017 08:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Traitement statistique de la langue]]></title>
-            <link>http://images.math.cnrs.fr/Traitement-statistique-de-la-langue.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Traitement-statistique-de-la-langue.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 21 Aug 2017 07:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Sew Intruder Curtains]]></title>
@@ -3810,17 +3803,17 @@ illustrations by...]]></title>
             <pubDate>Sun, 20 Aug 2017 11:04:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Standing Glass Fish]]></title>
-            <link>http://mathtourist.blogspot.com/2017/08/standing-glass-fish.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/standing-glass-fish.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 20 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Was Never the Same Again]]></title>
             <link>http://math-frolic.blogspot.com/2017/08/math-was-never-same-again.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/math-was-never-same-again.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 20 Aug 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Standing Glass Fish]]></title>
+            <link>http://mathtourist.blogspot.com/2017/08/standing-glass-fish.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/standing-glass-fish.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 20 Aug 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4451,17 +4444,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI_14MAKRO...]]></title>
             <pubDate>Thu, 17 Aug 2017 11:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It Was a Wiles Wednesday]]></title>
-            <link>http://math-frolic.blogspot.com/2017/08/it-was-wiles-wednesday.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/it-was-wiles-wednesday.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Thu, 17 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wall Pyramids]]></title>
             <link>http://mathtourist.blogspot.com/2017/08/wall-pyramids.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/wall-pyramids.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 17 Aug 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It Was a Wiles Wednesday]]></title>
+            <link>http://math-frolic.blogspot.com/2017/08/it-was-wiles-wednesday.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/it-was-wiles-wednesday.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Thu, 17 Aug 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5298,17 +5291,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI_14MAKRO...]]></title>
             <pubDate>Mon, 14 Aug 2017 11:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[San Jose Sunrise]]></title>
-            <link>http://mathtourist.blogspot.com/2017/08/san-jose-sunrise.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/san-jose-sunrise.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 14 Aug 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.316 - L'Attitude]]></title>
             <link>http://mathtans.blogspot.com/2017/08/s9316-lattitude.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/08/s9316-lattitude.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 14 Aug 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[San Jose Sunrise]]></title>
+            <link>http://mathtourist.blogspot.com/2017/08/san-jose-sunrise.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/08/san-jose-sunrise.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 14 Aug 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5935,17 +5928,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI_14MAKRO...]]></title>
             <pubDate>Thu, 10 Aug 2017 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An Infinite Understanding]]></title>
-            <link>http://blogs.ams.org/mathgradblog/2017/08/10/infinite-understanding/</link>
-            <guid isPermaLink="false">http://blogs.ams.org/mathgradblog/2017/08/10/infinite-understanding/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Thu, 10 Aug 2017 17:30:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bigshot statistician keeps publishing papers with errors; is there anything we can do to get him to stop???]]></title>
             <link>http://andrewgelman.com/2017/08/10/bigshot-statistician-keeps-publishing-papers-errors-anything-can-get-stop/</link>
             <guid isPermaLink="false">http://andrewgelman.com/2017/08/10/bigshot-statistician-keeps-publishing-papers-errors-anything-can-get-stop/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 10 Aug 2017 17:30:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Infinite Understanding]]></title>
+            <link>http://blogs.ams.org/mathgradblog/2017/08/10/infinite-understanding/</link>
+            <guid isPermaLink="false">http://blogs.ams.org/mathgradblog/2017/08/10/infinite-understanding/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
             <pubDate>Thu, 10 Aug 2017 17:30:22 GMT</pubDate>
         </item>
         <item>
@@ -6725,17 +6718,17 @@ Bill Bass, 2016]]></title>
             <pubDate>Mon, 07 Aug 2017 13:21:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eventually you get to Elon Musk...]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2017/08/eventually-you-get-to-elon-musk.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/08/eventually-you-get-to-elon-musk.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 07 Aug 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Of Math and Physics]]></title>
             <link>http://math-frolic.blogspot.com/2017/08/of-math-and-physics.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/08/of-math-and-physics.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 07 Aug 2017 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eventually you get to Elon Musk...]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2017/08/eventually-you-get-to-elon-musk.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/08/eventually-you-get-to-elon-musk.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 07 Aug 2017 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6788,17 +6781,17 @@ Bill Bass, 2016]]></title>
             <pubDate>Mon, 07 Aug 2017 10:07:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revisiting some missing solutions]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/revisiting-missing-solutions/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/revisiting-missing-solutions/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 07 Aug 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The empty promise of school choice]]></title>
             <link>http://www.madmath.com/2017/08/the-empty-promise-of-school-choice.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/08/the-empty-promise-of-school-choice.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 07 Aug 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revisiting some missing solutions]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/revisiting-missing-solutions/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/revisiting-missing-solutions/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 07 Aug 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
