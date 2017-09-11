@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Math-and-statistical literacy and critical thinking via Rebecca Goldin (in Quanta):<a href="https://t.co/BP2o9GlwGI">https://t.co/BP2o9GlwGI</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/907359728497577984">September 11, 2017</a></blockquote>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Over time I&#39;ve slowly fallen in love with <a href="https://twitter.com/benorlin">@benorlin</a>&#39;s round-faced offspring; &amp; never more-so than today: <a href="https://t.co/JxwLwvFqT9">https://t.co/JxwLwvFqT9</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/905484720410157056">September 6, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Math Still Not Everywhere&quot; by <a href="https://twitter.com/affinespaces">@affinespaces</a> (at <a href="https://twitter.com/mathbabedotorg">@mathbabedotorg</a> ) continues the controversial post 1y ago <a href="https://t.co/kKVmtuIYgg">https://t.co/kKVmtuIYgg</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/905110416598192129">September 5, 2017</a></blockquote>
