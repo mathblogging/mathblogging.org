@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Though published a year ago I suspect this fascinating update on infinity may be big news to many: <a href="https://t.co/HimDLmTyBo">https://t.co/HimDLmTyBo</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/907635600282583040">September 12, 2017</a></blockquote>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Math-and-statistical literacy and critical thinking via Rebecca Goldin (in Quanta):<a href="https://t.co/BP2o9GlwGI">https://t.co/BP2o9GlwGI</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/907359728497577984">September 11, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Over time I&#39;ve slowly fallen in love with <a href="https://twitter.com/benorlin">@benorlin</a>&#39;s round-faced offspring; &amp; never more-so than today: <a href="https://t.co/JxwLwvFqT9">https://t.co/JxwLwvFqT9</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/905484720410157056">September 6, 2017</a></blockquote>
