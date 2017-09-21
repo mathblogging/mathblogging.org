@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Ramsey Theory breakthrough via Anthony Bonato: <a href="https://t.co/7uCKay9QlD">https://t.co/7uCKay9QlD</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/910847128200732674">September 21, 2017</a></blockquote>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Sort of a fun, if pot-stirring, read to start the day: <a href="https://t.co/ed4pIjRosx">https://t.co/ed4pIjRosx</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/910477453826633728">September 20, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Though published a year ago I suspect this fascinating update on infinity may be big news to many: <a href="https://t.co/HimDLmTyBo">https://t.co/HimDLmTyBo</a> <a href="https://twitter.com/hashtag/mbpick?src=hash">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/907635600282583040">September 12, 2017</a></blockquote>
