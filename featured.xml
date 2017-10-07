@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Oct 2017 21:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2017 22:24:24 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Oct 2017 21:23:54 GMT</pubDate>
+        <pubDate>Sat, 07 Oct 2017 22:24:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Actuariat de l’Assurance Non-Vie #2]]></title>
+            <link>http://freakonometrics.hypotheses.org/51421</link>
+            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/51421</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Sat, 07 Oct 2017 20:04:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dusa McDuff's Favorite Theorem]]></title>
             <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/LCmaYiMbRo4/</link>
@@ -55,14 +62,14 @@
             <title><![CDATA[Blogs from this year’s Heidelberg Laureate Forum]]></title>
             <link>http://aperiodical.com/2017/10/blogs-from-this-years-heidelberg-laureate-forum/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/blogs-from-this-years-heidelberg-laureate-forum/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 07 Oct 2017 16:12:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blogs from this year’s Heidelberg Laureate Forum]]></title>
             <link>http://aperiodical.com/2017/10/blogs-from-this-years-heidelberg-laureate-forum/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/blogs-from-this-years-heidelberg-laureate-forum/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 07 Oct 2017 16:12:29 GMT</pubDate>
         </item>
         <item>
@@ -1361,13 +1368,6 @@
             <pubDate>Tue, 03 Oct 2017 07:53:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[local BRST cohomology]]></title>
-            <link>https://ncatlab.org/nlab/show/local+BRST+cohomology</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/local+BRST+cohomology</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 03 Oct 2017 07:20:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A fun (enough) talk]]></title>
             <link>https://ayoucis.wordpress.com/2017/10/02/a-fun-enough-talk/</link>
             <guid isPermaLink="false">https://ayoucis.wordpress.com/2017/10/02/a-fun-enough-talk/</guid>
@@ -1634,6 +1634,13 @@
             <pubDate>Mon, 02 Oct 2017 11:32:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Santa Fe Cholla]]></title>
+            <link>http://mathtourist.blogspot.com/2017/10/santa-fe-cholla.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/santa-fe-cholla.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 02 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[S9.322 - Read My Ellipse]]></title>
             <link>http://mathtans.blogspot.com/2017/10/s9322-read-my-ellipse.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/10/s9322-read-my-ellipse.html</guid>
@@ -1645,13 +1652,6 @@
             <link>http://images.math.cnrs.fr/4-8-23.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-23.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 02 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Santa Fe Cholla]]></title>
-            <link>http://mathtourist.blogspot.com/2017/10/santa-fe-cholla.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/santa-fe-cholla.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 02 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1669,17 +1669,17 @@
             <pubDate>Mon, 02 Oct 2017 09:43:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NY Times on Coding Boot Camp Closures]]></title>
-            <link>http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lines and squares]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/lines-and-squares/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/lines-and-squares/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NY Times on Coding Boot Camp Closures]]></title>
+            <link>http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1910,14 +1910,14 @@
             <title><![CDATA[HLF Blogs – Mathematical Theories of Communication]]></title>
             <link>http://aperiodical.com/2017/10/hlf-blogs-mathematical-theories-of-communication/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/hlf-blogs-mathematical-theories-of-communication/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sun, 01 Oct 2017 14:56:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs – Mathematical Theories of Communication]]></title>
             <link>http://aperiodical.com/2017/10/hlf-blogs-mathematical-theories-of-communication/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/hlf-blogs-mathematical-theories-of-communication/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 01 Oct 2017 14:56:15 GMT</pubDate>
         </item>
         <item>
@@ -2197,14 +2197,14 @@
             <title><![CDATA[HLF Blogs – Michael Atiyah’s Favourite Manifold]]></title>
             <link>http://aperiodical.com/2017/09/hlf-blogs-michael-atiyahs-favourite-manifold/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/09/hlf-blogs-michael-atiyahs-favourite-manifold/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 30 Sep 2017 13:15:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs – Michael Atiyah’s Favourite Manifold]]></title>
             <link>http://aperiodical.com/2017/09/hlf-blogs-michael-atiyahs-favourite-manifold/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/09/hlf-blogs-michael-atiyahs-favourite-manifold/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 30 Sep 2017 13:15:33 GMT</pubDate>
         </item>
         <item>
@@ -2267,14 +2267,14 @@
             <title><![CDATA[HLF Blogs – The numbers behind the young researchers]]></title>
             <link>http://aperiodical.com/2017/09/hlf-blogs-the-numbers-behind-the-young-researchers/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/09/hlf-blogs-the-numbers-behind-the-young-researchers/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 30 Sep 2017 08:14:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs – The numbers behind the young researchers]]></title>
             <link>http://aperiodical.com/2017/09/hlf-blogs-the-numbers-behind-the-young-researchers/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/09/hlf-blogs-the-numbers-behind-the-young-researchers/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 30 Sep 2017 08:14:25 GMT</pubDate>
         </item>
         <item>
@@ -3605,17 +3605,17 @@ Jaromir Novotny - Untitled - 2015 - Acrylic and...]]></title>
             <pubDate>Mon, 25 Sep 2017 11:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.321 - Math Busters]]></title>
-            <link>http://mathtans.blogspot.com/2017/09/s9321-math-busters.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/09/s9321-math-busters.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 25 Sep 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Guardian Spirit]]></title>
             <link>http://mathtourist.blogspot.com/2017/09/guardian-spirit.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/09/guardian-spirit.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 25 Sep 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.321 - Math Busters]]></title>
+            <link>http://mathtans.blogspot.com/2017/09/s9321-math-busters.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/09/s9321-math-busters.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 25 Sep 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3907,15 +3907,15 @@ Jaromir Novotny - Untitled - 2015 - Acrylic and...]]></title>
         </item>
         <item>
             <title><![CDATA[Financial Aid, WGU, and OIG]]></title>
-            <link>http://busynessgirl.com/financial-aid-wgu-and-oig/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/financial-aid-wgu-and-oig/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/mXBXckl6w-c/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/mXBXckl6w-c/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 23 Sep 2017 22:00:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Financial Aid, WGU, and OIG]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/mXBXckl6w-c/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/mXBXckl6w-c/</guid>
+            <link>http://busynessgirl.com/financial-aid-wgu-and-oig/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/financial-aid-wgu-and-oig/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 23 Sep 2017 22:00:52 GMT</pubDate>
         </item>
@@ -4743,6 +4743,13 @@ This one is based...]]></title>
             <pubDate>Wed, 20 Sep 2017 00:00:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Plotting a Sequential Binary Partition on a Tree in R]]></title>
+            <link>http://statsathome.com/2017/09/20/plotting-a-sequential-binary-partition-on-a-tree-in-r/</link>
+            <guid isPermaLink="false">http://statsathome.com/2017/09/20/plotting-a-sequential-binary-partition-on-a-tree-in-r/</guid>
+            <dc:creator><![CDATA[Statistics @ Home]]></dc:creator>
+            <pubDate>Wed, 20 Sep 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Graphs with sparse crossings]]></title>
             <link>https://11011110.github.io/blog/2017/09/19/graphs-with-sparse.html</link>
             <guid isPermaLink="false">https://11011110.github.io/blog/2017/09/19/graphs-with-sparse.html</guid>
@@ -5128,17 +5135,17 @@ This one is based...]]></title>
             <pubDate>Mon, 18 Sep 2017 12:00:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.320 - Hi Scream]]></title>
-            <link>http://mathtans.blogspot.com/2017/09/s9320-hi-scream.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/09/s9320-hi-scream.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 18 Sep 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Acequia]]></title>
             <link>http://mathtourist.blogspot.com/2017/09/acequia.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/09/acequia.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 18 Sep 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.320 - Hi Scream]]></title>
+            <link>http://mathtans.blogspot.com/2017/09/s9320-hi-scream.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/09/s9320-hi-scream.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 18 Sep 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5352,17 +5359,17 @@ This one is based...]]></title>
             <pubDate>Sun, 17 Sep 2017 12:14:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Healthy Mathematics]]></title>
-            <link>http://math-frolic.blogspot.com/2017/09/healthy-mathematics.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/09/healthy-mathematics.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 17 Sep 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Iceberg Rose]]></title>
             <link>http://mathtourist.blogspot.com/2017/09/iceberg-rose.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/09/iceberg-rose.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 17 Sep 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Healthy Mathematics]]></title>
+            <link>http://math-frolic.blogspot.com/2017/09/healthy-mathematics.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/09/healthy-mathematics.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 17 Sep 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6130,15 +6137,15 @@ This one is based...]]></title>
         </item>
         <item>
             <title><![CDATA[The “Please Grade Early” Option]]></title>
-            <link>http://busynessgirl.com/the-please-grade-early-option/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/the-please-grade-early-option/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/oz-Nq_o5z9Q/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/oz-Nq_o5z9Q/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 14 Sep 2017 04:10:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The “Please Grade Early” Option]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/oz-Nq_o5z9Q/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/oz-Nq_o5z9Q/</guid>
+            <link>http://busynessgirl.com/the-please-grade-early-option/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/the-please-grade-early-option/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 14 Sep 2017 04:10:30 GMT</pubDate>
         </item>
@@ -6207,6 +6214,13 @@ Each color is a sine function....]]></title>
             <guid isPermaLink="false">http://themathkid.tumblr.com/post/165311792696</guid>
             <dc:creator><![CDATA[The Math Kid]]></dc:creator>
             <pubDate>Thu, 14 Sep 2017 00:00:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visualizing the Multinomial in the Simplex]]></title>
+            <link>http://statsathome.com/2017/09/14/visualizing-the-multinomial-in-the-simplex/</link>
+            <guid isPermaLink="false">http://statsathome.com/2017/09/14/visualizing-the-multinomial-in-the-simplex/</guid>
+            <dc:creator><![CDATA[Statistics @ Home]]></dc:creator>
+            <pubDate>Thu, 14 Sep 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Active Calculus 2017 – print copy now via Amazon]]></title>
@@ -6766,17 +6780,17 @@ We have three colored...]]></title>
             <pubDate>Mon, 11 Sep 2017 09:33:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mishandling polynomials for fun and profit]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/mishandling-polynomials-fun-profit/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mishandling-polynomials-fun-profit/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 11 Sep 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matt Might on How to Get Tenure]]></title>
             <link>http://www.madmath.com/2017/09/matt-might-on-how-to-get-tenure.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/09/matt-might-on-how-to-get-tenure.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 11 Sep 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mishandling polynomials for fun and profit]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/mishandling-polynomials-fun-profit/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mishandling-polynomials-fun-profit/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 11 Sep 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6829,10 +6843,10 @@ We have three colored...]]></title>
             <pubDate>Mon, 11 Sep 2017 00:00:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Estimating Square Roots: Improved Accuracy]]></title>
-            <link>http://headinside.blogspot.com/2017/09/estimating-square-roots-improved.html</link>
-            <guid isPermaLink="false">http://headinside.blogspot.com/2017/09/estimating-square-roots-improved.html</guid>
-            <dc:creator><![CDATA[Grey Matters: Blog]]></dc:creator>
+            <title><![CDATA[The Stacks project now uses HTTPS]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/09/11/https-stacks/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/09/11/https-stacks/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 11 Sep 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6843,10 +6857,10 @@ We have three colored...]]></title>
             <pubDate>Mon, 11 Sep 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Stacks project now uses HTTPS]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/09/11/https-stacks/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/09/11/https-stacks/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <title><![CDATA[Estimating Square Roots: Improved Accuracy]]></title>
+            <link>http://headinside.blogspot.com/2017/09/estimating-square-roots-improved.html</link>
+            <guid isPermaLink="false">http://headinside.blogspot.com/2017/09/estimating-square-roots-improved.html</guid>
+            <dc:creator><![CDATA[Grey Matters: Blog]]></dc:creator>
             <pubDate>Mon, 11 Sep 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7485,13 +7499,6 @@ We have three colored...]]></title>
             <guid isPermaLink="false">https://focusonmath.wordpress.com/2017/09/06/lost-in-translation/</guid>
             <dc:creator><![CDATA[Focus on Math]]></dc:creator>
             <pubDate>Wed, 06 Sep 2017 22:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Genestier-V.Lafforgue preprint is out, and V.Lafforgue’s crypto-currency proposal for refereeing]]></title>
-            <link>https://thomas1111.wordpress.com/2017/09/06/genestier-lafforgue/</link>
-            <guid isPermaLink="false">https://thomas1111.wordpress.com/2017/09/06/genestier-lafforgue/</guid>
-            <dc:creator><![CDATA[episodic thoughts]]></dc:creator>
-            <pubDate>Wed, 06 Sep 2017 21:38:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
