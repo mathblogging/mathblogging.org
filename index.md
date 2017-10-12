@@ -3,6 +3,8 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Go read <a href="https://twitter.com/MrHonner?ref_src=twsrc%5Etfw">@MrHonner</a>&#39;s The Math Behind Gerrymandering and Wasted Votes<a href="https://t.co/r1vnNagpsj">https://t.co/r1vnNagpsj</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/918617149794672641?ref_src=twsrc%5Etfw">October 12, 2017</a></blockquote>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Who knew? ...some history from <a href="https://twitter.com/benorlin?ref_src=twsrc%5Etfw">@benorlin</a>:<a href="https://t.co/xuWyEQZFMn">https://t.co/xuWyEQZFMn</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/918147896561819648?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;The Sound of Proof&quot; is great on so many levels! Try it out!  <a href="https://t.co/OfEfj2GmIb">https://t.co/OfEfj2GmIb</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/917387815486410757?ref_src=twsrc%5Etfw">October 9, 2017</a></blockquote>
