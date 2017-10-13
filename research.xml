@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Oct 2017 07:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2017 08:23:27 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Oct 2017 07:22:59 GMT</pubDate>
+        <pubDate>Fri, 13 Oct 2017 08:23:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Dangers of CSV injection]]></title>
+            <link>http://flowingdata.com/2017/10/13/dangers-of-csv-injection/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/10/13/dangers-of-csv-injection/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Fri, 13 Oct 2017 07:11:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[La tentation de la concision absolue]]></title>
             <link>http://images.math.cnrs.fr/La-tentation-de-la-concision-absolue.html</link>
@@ -449,14 +456,14 @@ About 500 years after the Norman conquest of England, the county of..."]]></titl
             <title><![CDATA[Stupid-looking maths question does the rounds, isn’t stupid]]></title>
             <link>http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 11 Oct 2017 17:22:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stupid-looking maths question does the rounds, isn’t stupid]]></title>
             <link>http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 11 Oct 2017 17:22:25 GMT</pubDate>
         </item>
         <item>
@@ -1272,17 +1279,17 @@ About 500 years after the Norman conquest of England, the county of..."]]></titl
             <pubDate>Mon, 09 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.8.24]]></title>
-            <link>http://images.math.cnrs.fr/4-8-24.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-24.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 09 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bronze Boat]]></title>
             <link>http://mathtourist.blogspot.com/2017/10/bronze-boat.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/bronze-boat.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 09 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.8.24]]></title>
+            <link>http://images.math.cnrs.fr/4-8-24.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-24.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 09 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2356,13 +2363,6 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Wed, 04 Oct 2017 20:26:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Triangulate a picture]]></title>
-            <link>http://flowingdata.com/2017/10/04/triangulate-a-picture/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/10/04/triangulate-a-picture/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Wed, 04 Oct 2017 20:05:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DeepDream in Relativity]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/3FdUOfhXBLM/deepdream-in-relativity.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/3FdUOfhXBLM/deepdream-in-relativity.html</guid>
@@ -2517,17 +2517,17 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Wed, 04 Oct 2017 05:00:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Three Four]]></title>
-            <link>http://mrburkemath.blogspot.com/2017/10/three-four.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/10/three-four.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Wed, 04 Oct 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nuit Blanche in Review (September 2017)]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ka_fTEDkewE/nuit-blanche-in-review-september-2017.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ka_fTEDkewE/nuit-blanche-in-review-september-2017.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 04 Oct 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three Four]]></title>
+            <link>http://mrburkemath.blogspot.com/2017/10/three-four.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/10/three-four.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Wed, 04 Oct 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3021,10 +3021,10 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Mon, 02 Oct 2017 11:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.322 - Read My Ellipse]]></title>
-            <link>http://mathtans.blogspot.com/2017/10/s9322-read-my-ellipse.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/10/s9322-read-my-ellipse.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <title><![CDATA[4.8.23]]></title>
+            <link>http://images.math.cnrs.fr/4-8-23.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-23.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 02 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3035,10 +3035,10 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Mon, 02 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.8.23]]></title>
-            <link>http://images.math.cnrs.fr/4-8-23.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-23.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <title><![CDATA[S9.322 - Read My Ellipse]]></title>
+            <link>http://mathtans.blogspot.com/2017/10/s9322-read-my-ellipse.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/10/s9322-read-my-ellipse.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 02 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3056,17 +3056,17 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Mon, 02 Oct 2017 09:43:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lines and squares]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/lines-and-squares/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/lines-and-squares/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NY Times on Coding Boot Camp Closures]]></title>
             <link>http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lines and squares]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/lines-and-squares/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/lines-and-squares/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3294,17 +3294,17 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Sun, 01 Oct 2017 12:30:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sisters of the Sun and Moon]]></title>
-            <link>http://mathtourist.blogspot.com/2017/10/sisters-of-sun-and-moon.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/sisters-of-sun-and-moon.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 01 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Of Birds and Frogs]]></title>
             <link>http://math-frolic.blogspot.com/2017/10/of-birds-and-frogs.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/10/of-birds-and-frogs.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 01 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sisters of the Sun and Moon]]></title>
+            <link>http://mathtourist.blogspot.com/2017/10/sisters-of-sun-and-moon.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/sisters-of-sun-and-moon.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 01 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4747,17 +4747,17 @@ Jaromir Novotny - Untitled - 2015 - Acrylic and...]]></title>
             <pubDate>Mon, 25 Sep 2017 11:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Guardian Spirit]]></title>
-            <link>http://mathtourist.blogspot.com/2017/09/guardian-spirit.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/09/guardian-spirit.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 25 Sep 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.321 - Math Busters]]></title>
             <link>http://mathtans.blogspot.com/2017/09/s9321-math-busters.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/09/s9321-math-busters.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 25 Sep 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guardian Spirit]]></title>
+            <link>http://mathtourist.blogspot.com/2017/09/guardian-spirit.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/09/guardian-spirit.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 25 Sep 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4775,17 +4775,17 @@ Jaromir Novotny - Untitled - 2015 - Acrylic and...]]></title>
             <pubDate>Mon, 25 Sep 2017 10:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revisiting Basel]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/revisiting-basel/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/revisiting-basel/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 25 Sep 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thesis Defense Horror Stories]]></title>
             <link>http://www.madmath.com/2017/09/thesis-defense-horror-stories.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/09/thesis-defense-horror-stories.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 25 Sep 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revisiting Basel]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/revisiting-basel/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/revisiting-basel/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 25 Sep 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7403,13 +7403,6 @@ Each color is a sine function....]]></title>
             <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2017/09/een-instructieles.html</guid>
             <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
             <pubDate>Tue, 12 Sep 2017 09:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Irsee (Day 1)]]></title>
-            <link>https://symomega.wordpress.com/2017/09/12/irsee-day-1/</link>
-            <guid isPermaLink="false">https://symomega.wordpress.com/2017/09/12/irsee-day-1/</guid>
-            <dc:creator><![CDATA[SymOmega]]></dc:creator>
-            <pubDate>Tue, 12 Sep 2017 07:53:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
