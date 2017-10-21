@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Oct 2017 09:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2017 10:23:22 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Oct 2017 09:23:21 GMT</pubDate>
+        <pubDate>Sat, 21 Oct 2017 10:23:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Trig Identities #3 Periodicity]]></title>
+            <link>https://solvemymaths.com/2017/10/21/trig-identities-3-periodicity/</link>
+            <guid isPermaLink="false">https://solvemymaths.com/2017/10/21/trig-identities-3-periodicity/</guid>
+            <dc:creator><![CDATA[Solve My Maths]]></dc:creator>
+            <pubDate>Sat, 21 Oct 2017 09:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stolz und Glück]]></title>
+            <link>http://blog.ingo-bartling.de/2017/10/21/stolz-und-glueck/</link>
+            <guid isPermaLink="false">http://blog.ingo-bartling.de/2017/10/21/stolz-und-glueck/</guid>
+            <dc:creator><![CDATA[Lehrzeit]]></dc:creator>
+            <pubDate>Sat, 21 Oct 2017 09:35:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Time series analysis vs DSP terminology]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/nEeDtOQ3Pzc/</link>
@@ -64,13 +78,6 @@
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/Leonid+Chekhov</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Fri, 20 Oct 2017 21:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicolas Orantin]]></title>
-            <link>https://ncatlab.org/nlab/show/Nicolas+Orantin</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Nicolas+Orantin</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 20 Oct 2017 21:34:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[topological recursion]]></title>
@@ -157,7 +164,7 @@
             <pubDate>Fri, 20 Oct 2017 18:44:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trig identities #2]]></title>
+            <title><![CDATA[Trig Identities #2 Pythagorean Identities]]></title>
             <link>https://solvemymaths.com/2017/10/20/trig-identities-2/</link>
             <guid isPermaLink="false">https://solvemymaths.com/2017/10/20/trig-identities-2/</guid>
             <dc:creator><![CDATA[Solve My Maths]]></dc:creator>
@@ -717,7 +724,7 @@
             <pubDate>Wed, 18 Oct 2017 22:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trig Identities #1]]></title>
+            <title><![CDATA[Trig Identities #1 Sum and Difference]]></title>
             <link>https://solvemymaths.com/2017/10/18/trig-identities-1/</link>
             <guid isPermaLink="false">https://solvemymaths.com/2017/10/18/trig-identities-1/</guid>
             <dc:creator><![CDATA[Solve My Maths]]></dc:creator>
@@ -1396,13 +1403,6 @@
             <pubDate>Mon, 16 Oct 2017 12:30:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dock Reflection]]></title>
-            <link>http://mathtourist.blogspot.com/2017/10/dock-reflection.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/dock-reflection.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 16 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.324 - Super Markets]]></title>
             <link>http://mathtans.blogspot.com/2017/10/s9324-super-markets.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/10/s9324-super-markets.html</guid>
@@ -1414,6 +1414,13 @@
             <link>http://images.math.cnrs.fr/4-8-25.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-25.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 16 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dock Reflection]]></title>
+            <link>http://mathtourist.blogspot.com/2017/10/dock-reflection.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/dock-reflection.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 16 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2344,14 +2351,14 @@
             <title><![CDATA[Measuring π with a pendulum]]></title>
             <link>http://aperiodical.com/2017/10/measuring-pi-with-a-pendulum/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/measuring-pi-with-a-pendulum/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 12 Oct 2017 15:20:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Measuring π with a pendulum]]></title>
             <link>http://aperiodical.com/2017/10/measuring-pi-with-a-pendulum/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/measuring-pi-with-a-pendulum/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 12 Oct 2017 15:20:10 GMT</pubDate>
         </item>
         <item>
@@ -2598,14 +2605,14 @@ About 500 years after the Norman conquest of England, the county of..."]]></titl
             <title><![CDATA[Stupid-looking maths question does the rounds, isn’t stupid]]></title>
             <link>http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 11 Oct 2017 17:22:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stupid-looking maths question does the rounds, isn’t stupid]]></title>
             <link>http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 11 Oct 2017 17:22:25 GMT</pubDate>
         </item>
         <item>
@@ -3036,17 +3043,17 @@ About 500 years after the Norman conquest of England, the county of..."]]></titl
             <pubDate>Tue, 10 Oct 2017 06:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Function Transformation]]></title>
-            <link>http://mrburkemath.blogspot.com/2017/10/function-transformation.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/10/function-transformation.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Tue, 10 Oct 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La naissance d'un genre, le traité d'arithmétique commerciale (XIVe-XVIe s.)]]></title>
             <link>http://images.math.cnrs.fr/La-naissance-d-un-genre-le-traite-d-arithmetique-commerciale-XIVe-XVIe-s.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/La-naissance-d-un-genre-le-traite-d-arithmetique-commerciale-XIVe-XVIe-s.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 10 Oct 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Function Transformation]]></title>
+            <link>http://mrburkemath.blogspot.com/2017/10/function-transformation.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/10/function-transformation.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Tue, 10 Oct 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4834,17 +4841,17 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Mon, 02 Oct 2017 09:43:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lines and squares]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/lines-and-squares/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/lines-and-squares/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NY Times on Coding Boot Camp Closures]]></title>
             <link>http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lines and squares]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/lines-and-squares/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/lines-and-squares/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
