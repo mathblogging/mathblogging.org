@@ -20,6 +20,7 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">What is an Experimental Math Course &amp; Why Should We Care? By Lara Pudwell <a href="https://twitter.com/amermathsoc?ref_src=twsrc%5Etfw">@amermathsoc</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://t.co/vyL1vwbnvh">https://t.co/vyL1vwbnvh</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/823669011028197377?ref_src=twsrc%5Etfw">January 23, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“Mathematics for Human Flourishing” by <a href="https://twitter.com/mathyawp?ref_src=twsrc%5Etfw">@mathyawp</a> <a href="https://t.co/qx5Cd6y004">https://t.co/qx5Cd6y004</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/818162164934422531?ref_src=twsrc%5Etfw">January 8, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p> <a href="editors-picks.xml">Grab the feed for our Editors' Picks!</a></p>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
