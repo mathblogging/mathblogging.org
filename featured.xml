@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Oct 2017 00:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2017 01:23:05 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Oct 2017 00:23:06 GMT</pubDate>
+        <pubDate>Wed, 25 Oct 2017 01:23:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -206,17 +206,17 @@
             <pubDate>Tue, 24 Oct 2017 12:00:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Household Chores for Mathematicians]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/NRySeX-VDL4/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/NRySeX-VDL4/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Tue, 24 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Curves on Curves]]></title>
             <link>http://mathtourist.blogspot.com/2017/10/curves-on-curves.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/curves-on-curves.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 24 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Household Chores for Mathematicians]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/NRySeX-VDL4/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/NRySeX-VDL4/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Tue, 24 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -309,6 +309,13 @@
             <guid isPermaLink="false">https://mathjokes4mathyfolks.wordpress.com/2017/10/23/morelli-coleman-and-statistical-outliers/</guid>
             <dc:creator><![CDATA[Math Jokes 4 Mathy Folks]]></dc:creator>
             <pubDate>Tue, 24 Oct 2017 01:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clog: Firing up the project]]></title>
+            <link>http://www.coast2coast.me/carl/2017/10/23/clog-firing-up-the-project/</link>
+            <guid isPermaLink="false">http://www.coast2coast.me/carl/2017/10/23/clog-firing-up-the-project/</guid>
+            <dc:creator><![CDATA[Carl's Teaching Blog]]></dc:creator>
+            <pubDate>Tue, 24 Oct 2017 00:08:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Your Teaching Story]]></title>
@@ -573,10 +580,10 @@ kernel]]></title>
             <pubDate>Mon, 23 Oct 2017 11:13:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.8.26]]></title>
-            <link>http://images.math.cnrs.fr/-4348.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4348.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <title><![CDATA[S9.325 - Magic Writes]]></title>
+            <link>http://mathtans.blogspot.com/2017/10/s9325-magic-writes.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/10/s9325-magic-writes.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 23 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -587,10 +594,10 @@ kernel]]></title>
             <pubDate>Mon, 23 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.325 - Magic Writes]]></title>
-            <link>http://mathtans.blogspot.com/2017/10/s9325-magic-writes.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/10/s9325-magic-writes.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <title><![CDATA[4.8.26]]></title>
+            <link>http://images.math.cnrs.fr/-4348.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4348.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 23 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2508,13 +2515,6 @@ kernel]]></title>
             <pubDate>Mon, 16 Oct 2017 00:02:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Machine-Checked Proof]]></title>
-            <link>https://blogs.ams.org/mathgradblog/2017/10/15/machine-checked-proof/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2017/10/15/machine-checked-proof/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Sun, 15 Oct 2017 23:10:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Counting increasing sequences with Burnside's lemma]]></title>
             <link>https://blog.plover.com/math/increasing-sequences-2.html</link>
             <guid isPermaLink="false">https://blog.plover.com/math/increasing-sequences-2.html</guid>
@@ -2669,17 +2669,17 @@ kernel]]></title>
             <pubDate>Sun, 15 Oct 2017 12:30:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Drain Cover]]></title>
-            <link>http://mathtourist.blogspot.com/2017/10/drain-cover.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/drain-cover.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 15 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Darkness of Axioms]]></title>
             <link>http://math-frolic.blogspot.com/2017/10/the-darkness-of-axioms.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/10/the-darkness-of-axioms.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 15 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drain Cover]]></title>
+            <link>http://mathtourist.blogspot.com/2017/10/drain-cover.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/drain-cover.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 15 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3131,17 +3131,17 @@ kernel]]></title>
             <pubDate>Fri, 13 Oct 2017 12:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Potpourri]]></title>
-            <link>http://mathtango.blogspot.com/2017/10/potpourri.html</link>
-            <guid isPermaLink="false">http://mathtango.blogspot.com/2017/10/potpourri.html</guid>
-            <dc:creator><![CDATA[MathTango...]]></dc:creator>
-            <pubDate>Fri, 13 Oct 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Re-run...]]></title>
             <link>http://math-frolic.blogspot.com/2017/10/re-run.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/10/re-run.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Fri, 13 Oct 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Potpourri]]></title>
+            <link>http://mathtango.blogspot.com/2017/10/potpourri.html</link>
+            <guid isPermaLink="false">http://mathtango.blogspot.com/2017/10/potpourri.html</guid>
+            <dc:creator><![CDATA[MathTango...]]></dc:creator>
             <pubDate>Fri, 13 Oct 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3386,14 +3386,14 @@ kernel]]></title>
             <title><![CDATA[HLF Blogs: Efim Zelmanov’s Desert Island Maths]]></title>
             <link>http://aperiodical.com/2017/10/hlf-blogs-efim-zelmanovs-desert-island-maths/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/hlf-blogs-efim-zelmanovs-desert-island-maths/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 12 Oct 2017 09:10:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs: Efim Zelmanov’s Desert Island Maths]]></title>
             <link>http://aperiodical.com/2017/10/hlf-blogs-efim-zelmanovs-desert-island-maths/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/hlf-blogs-efim-zelmanovs-desert-island-maths/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 12 Oct 2017 09:10:24 GMT</pubDate>
         </item>
         <item>
@@ -3535,14 +3535,14 @@ About 500 years after the Norman conquest of England, the county of..."]]></titl
             <title><![CDATA[Stupid-looking maths question does the rounds, isn’t stupid]]></title>
             <link>http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 11 Oct 2017 17:22:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stupid-looking maths question does the rounds, isn’t stupid]]></title>
             <link>http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/10/stupid-looking-maths-question-does-the-rounds-isnt-stupid/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 11 Oct 2017 17:22:25 GMT</pubDate>
         </item>
         <item>
@@ -3754,13 +3754,6 @@ About 500 years after the Norman conquest of England, the county of..."]]></titl
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/fdsYeh2iZ2Q/penrose-triangular.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Tue, 10 Oct 2017 19:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMS Notices Spotlight October 2017]]></title>
-            <link>https://blogs.ams.org/mathgradblog/2017/10/10/ams-notices-spotlight-october-2017/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2017/10/10/ams-notices-spotlight-october-2017/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Tue, 10 Oct 2017 19:00:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Task Propensity: Pause]]></title>
@@ -4127,17 +4120,17 @@ About 500 years after the Norman conquest of England, the county of..."]]></titl
             <pubDate>Mon, 09 Oct 2017 11:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.323 - Identity Property]]></title>
-            <link>http://mathtans.blogspot.com/2017/10/s9323-identity-property.html</link>
-            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/10/s9323-identity-property.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 09 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bronze Boat]]></title>
             <link>http://mathtourist.blogspot.com/2017/10/bronze-boat.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/bronze-boat.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 09 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.323 - Identity Property]]></title>
+            <link>http://mathtans.blogspot.com/2017/10/s9323-identity-property.html</link>
+            <guid isPermaLink="false">http://mathtans.blogspot.com/2017/10/s9323-identity-property.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 09 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4369,17 +4362,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <pubDate>Sun, 08 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Monumental Repair]]></title>
-            <link>http://mathtourist.blogspot.com/2017/10/monumental-repair.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/monumental-repair.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 08 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Overview... "Foolproof, and Other Mathematical Meditations"]]></title>
             <link>http://mathtango.blogspot.com/2017/10/overview-foolproof-and-other.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2017/10/overview-foolproof-and-other.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <pubDate>Sun, 08 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monumental Repair]]></title>
+            <link>http://mathtourist.blogspot.com/2017/10/monumental-repair.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/monumental-repair.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 08 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4810,13 +4803,6 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/10/on-this-day-in-math-october-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Thu, 05 Oct 2017 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why we need Receptive Learning to have Active Learning]]></title>
-            <link>https://blogs.ams.org/mathgradblog/2017/10/05/receptive-learning-active-learning/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2017/10/05/receptive-learning-active-learning/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Thu, 05 Oct 2017 21:00:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Celebrating the life of doctoral student and alumnus Michael B. Cohen]]></title>
@@ -5582,13 +5568,6 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Mon, 02 Oct 2017 12:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[William Gordon Seggie Brown Postdoctoral Fellowship (2018)]]></title>
-            <link>https://empg.maths.ed.ac.uk/blog/?p=2076</link>
-            <guid isPermaLink="false">https://empg.maths.ed.ac.uk/blog/?p=2076</guid>
-            <dc:creator><![CDATA[EMPG Blog]]></dc:creator>
-            <pubDate>Mon, 02 Oct 2017 11:52:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[OUP philosophy book sale]]></title>
             <link>http://www.logicmatters.net/2017/10/02/oup-philosophy-book-sale/</link>
             <guid isPermaLink="false">http://www.logicmatters.net/2017/10/02/oup-philosophy-book-sale/</guid>
@@ -5603,17 +5582,17 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Mon, 02 Oct 2017 11:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Santa Fe Cholla]]></title>
-            <link>http://mathtourist.blogspot.com/2017/10/santa-fe-cholla.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/santa-fe-cholla.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 02 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.322 - Read My Ellipse]]></title>
             <link>http://mathtans.blogspot.com/2017/10/s9322-read-my-ellipse.html</link>
             <guid isPermaLink="false">http://mathtans.blogspot.com/2017/10/s9322-read-my-ellipse.html</guid>
             <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
+            <pubDate>Mon, 02 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Santa Fe Cholla]]></title>
+            <link>http://mathtourist.blogspot.com/2017/10/santa-fe-cholla.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/santa-fe-cholla.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 02 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5624,17 +5603,17 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Mon, 02 Oct 2017 10:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lines and squares]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/lines-and-squares/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/lines-and-squares/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NY Times on Coding Boot Camp Closures]]></title>
             <link>http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2017/10/ny-times-on-coding-boot-camp-closures.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lines and squares]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/lines-and-squares/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/lines-and-squares/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 02 Oct 2017 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5834,17 +5813,17 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <pubDate>Sun, 01 Oct 2017 12:30:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sisters of the Sun and Moon]]></title>
-            <link>http://mathtourist.blogspot.com/2017/10/sisters-of-sun-and-moon.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/sisters-of-sun-and-moon.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 01 Oct 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Of Birds and Frogs]]></title>
             <link>http://math-frolic.blogspot.com/2017/10/of-birds-and-frogs.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/10/of-birds-and-frogs.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 01 Oct 2017 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sisters of the Sun and Moon]]></title>
+            <link>http://mathtourist.blogspot.com/2017/10/sisters-of-sun-and-moon.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/10/sisters-of-sun-and-moon.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 01 Oct 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6147,13 +6126,6 @@ From Natalie Wee’s “Lonely”, in Our Bodies & Other...]]></title>
             <guid isPermaLink="false">https://cameroncounts.wordpress.com/2017/09/29/ekr-steiner-systems-association-schemes-and-all-that/</guid>
             <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
             <pubDate>Fri, 29 Sep 2017 19:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Applying to grad school? Here’s what you need to know: Part I]]></title>
-            <link>https://blogs.ams.org/mathgradblog/2017/09/29/applying-grad-school-heres-know-part/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2017/09/29/applying-grad-school-heres-know-part/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Fri, 29 Sep 2017 19:12:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bird in the cage - 2]]></title>
