@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Nov 2017 12:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2017 13:24:19 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/higher_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Nov 2017 12:23:51 GMT</pubDate>
+        <pubDate>Mon, 20 Nov 2017 13:24:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Scrollama.js, a JavaScript library for scrollytelling]]></title>
+            <link>http://flowingdata.com/2017/11/20/scrollama/</link>
+            <guid isPermaLink="false">http://flowingdata.com/2017/11/20/scrollama/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Mon, 20 Nov 2017 12:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euclide in Cina]]></title>
+            <link>http://keespopinga.blogspot.com/2017/11/euclide-in-cina.html</link>
+            <guid isPermaLink="false">http://keespopinga.blogspot.com/2017/11/euclide-in-cina.html</guid>
+            <dc:creator><![CDATA[Popinga]]></dc:creator>
+            <pubDate>Mon, 20 Nov 2017 12:38:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Week 46]]></title>
             <link>http://wiskundeleraar.blogspot.com/2017/11/week-46.html</link>
@@ -24,17 +38,17 @@
             <pubDate>Mon, 20 Nov 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.8.30]]></title>
-            <link>http://images.math.cnrs.fr/-4380.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4380.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 20 Nov 2017 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Long division]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/long-division/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/long-division/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 20 Nov 2017 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.8.30]]></title>
+            <link>http://images.math.cnrs.fr/-4380.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4380.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 20 Nov 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -99,6 +113,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/xZzoF9BwmfM/</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Mon, 20 Nov 2017 01:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M4 Forecasting Competition: response from Spyros Makridakis]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/JVNssph6pps/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/JVNssph6pps/</guid>
+            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Mon, 20 Nov 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On This Day in Math - November 20]]></title>
@@ -269,20 +290,6 @@
             <pubDate>Sun, 19 Nov 2017 03:39:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 19]]></title>
-            <link>http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-19.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-19.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[M4 Forecasting Competition]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/MepZR4SGw-Y/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/MepZR4SGw-Y/</guid>
-            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
-            <pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (49)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/11/19/fortnightly-links-49/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/11/19/fortnightly-links-49/</guid>
@@ -290,10 +297,24 @@
             <pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[On This Day in Math - November 19]]></title>
+            <link>http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-19.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-19.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Linear Feedback Shift Registers]]></title>
             <link>http://datagenetics.com/blog/november12017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/november12017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M4 Forecasting Competition]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/MepZR4SGw-Y/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/MepZR4SGw-Y/</guid>
+            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -423,13 +444,6 @@
             <pubDate>Sat, 18 Nov 2017 13:30:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sina Hazratpour]]></title>
-            <link>https://ncatlab.org/nlab/show/Sina+Hazratpour</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Sina+Hazratpour</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 18 Nov 2017 13:18:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finding e by throwing darts]]></title>
             <link>https://mikesmathpage.wordpress.com/2017/11/18/finding-e-by-throwing-darts/</link>
             <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2017/11/18/finding-e-by-throwing-darts/</guid>
@@ -486,17 +500,17 @@
             <pubDate>Sat, 18 Nov 2017 00:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hodge numbers for $\operatorname{Hilb}^nS$]]></title>
-            <link>http://pbelmans.ncag.info/blog/2017/11/18/hodge-numbers-hilb/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/11/18/hodge-numbers-hilb/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sat, 18 Nov 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 18]]></title>
             <link>http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-18.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-18.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 18 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hodge numbers for $\operatorname{Hilb}^nS$]]></title>
+            <link>http://pbelmans.ncag.info/blog/2017/11/18/hodge-numbers-hilb/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/11/18/hodge-numbers-hilb/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sat, 18 Nov 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -734,17 +748,17 @@ The Farey-Ford tessellationThis animation by...]]></title>
             <pubDate>Fri, 17 Nov 2017 00:22:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 17]]></title>
-            <link>http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-17.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-17.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 17 Nov 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fitting ranks to a distribution]]></title>
             <link>http://drvinceknight.github.io/unpeudemath/math/2017/11/17/scaling-ranks-to-a-distribution.html</link>
             <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/math/2017/11/17/scaling-ranks-to-a-distribution.html</guid>
             <dc:creator><![CDATA[Un peu de math]]></dc:creator>
+            <pubDate>Fri, 17 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 17]]></title>
+            <link>http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-17.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-17.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 17 Nov 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -993,17 +1007,17 @@ The Farey-Ford tessellationThis animation by...]]></title>
             <pubDate>Thu, 16 Nov 2017 06:47:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CSJob: Four Postdoctoral Research Assistants, Mathematical Institute and the Oxford-Emirates Data Science Lab (OEDSL)]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/mh2-IL3rW5A/csjob-four-postdoctoral-research.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/mh2-IL3rW5A/csjob-four-postdoctoral-research.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Thu, 16 Nov 2017 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[7e concours « Bulles au carré » : Maths et Polar]]></title>
             <link>http://images.math.cnrs.fr/7e-concours-Bulles-au-carre-Maths-et-Polar.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/7e-concours-Bulles-au-carre-Maths-et-Polar.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Thu, 16 Nov 2017 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSJob: Four Postdoctoral Research Assistants, Mathematical Institute and the Oxford-Emirates Data Science Lab (OEDSL)]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/mh2-IL3rW5A/csjob-four-postdoctoral-research.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/mh2-IL3rW5A/csjob-four-postdoctoral-research.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Thu, 16 Nov 2017 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1107,13 +1121,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <guid isPermaLink="false">https://mathwithbaddrawings.com/2017/11/15/a-mathematician-is-grateful-for/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
             <pubDate>Wed, 15 Nov 2017 17:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reverse percentages and compound interest]]></title>
-            <link>https://cavmaths.wordpress.com/2017/11/15/reverse-percentages-and-compound-interest/</link>
-            <guid isPermaLink="false">https://cavmaths.wordpress.com/2017/11/15/reverse-percentages-and-compound-interest/</guid>
-            <dc:creator><![CDATA[cavmaths]]></dc:creator>
-            <pubDate>Wed, 15 Nov 2017 16:47:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Earth-Size Planet Found Around Star 11 Light-Years Away (National Geographic)]]></title>
@@ -1354,13 +1361,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <pubDate>Tue, 14 Nov 2017 23:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ratcheting and the Gillespie algorithm for dark selection]]></title>
-            <link>https://egtheory.wordpress.com/2017/11/14/ratcheting/</link>
-            <guid isPermaLink="false">https://egtheory.wordpress.com/2017/11/14/ratcheting/</guid>
-            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
-            <pubDate>Tue, 14 Nov 2017 23:00:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Relativity]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/af_MxJ6Yj2k/relativity.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/af_MxJ6Yj2k/relativity.html</guid>
@@ -1546,11 +1546,25 @@ Herwig Hauser Classic(P2) - Authors |...]]></title>
             <pubDate>Tue, 14 Nov 2017 03:47:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Applying to grad school? Here’s what you need to know: Part II]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2017/11/13/applying-grad-school-heres-know-part-ii/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2017/11/13/applying-grad-school-heres-know-part-ii/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Tue, 14 Nov 2017 02:47:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Carnevale della Matematica #113]]></title>
             <link>http://misterpalomar.blogspot.com/2017/11/carnevale-della-matematica-113.html</link>
             <guid isPermaLink="false">http://misterpalomar.blogspot.com/2017/11/carnevale-della-matematica-113.html</guid>
             <dc:creator><![CDATA[Mr. Palomar]]></dc:creator>
             <pubDate>Tue, 14 Nov 2017 00:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Classification of countable models of PA and ZFC]]></title>
+            <link>https://scoskey.github.io/classification-of-countable-models-of-pa-and-zfc</link>
+            <guid isPermaLink="false">https://scoskey.github.io/classification-of-countable-models-of-pa-and-zfc</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 14 Nov 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Come and work with me]]></title>
@@ -1564,13 +1578,6 @@ Herwig Hauser Classic(P2) - Authors |...]]></title>
             <link>http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-14.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-14.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 14 Nov 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Classification of countable models of PA and ZFC]]></title>
-            <link>https://scoskey.github.io/classification-of-countable-models-of-pa-and-zfc</link>
-            <guid isPermaLink="false">https://scoskey.github.io/classification-of-countable-models-of-pa-and-zfc</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 14 Nov 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1608,13 +1615,6 @@ It’s simple mathematics via /r/memes...]]></title>
             <guid isPermaLink="false">http://fawnnguyen.com/green-olives/</guid>
             <dc:creator><![CDATA[Finding Ways]]></dc:creator>
             <pubDate>Mon, 13 Nov 2017 22:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HoTT at JMM]]></title>
-            <link>https://homotopytypetheory.org/2017/11/13/hott-at-jmm/</link>
-            <guid isPermaLink="false">https://homotopytypetheory.org/2017/11/13/hott-at-jmm/</guid>
-            <dc:creator><![CDATA[Homotopy Type Theory]]></dc:creator>
-            <pubDate>Mon, 13 Nov 2017 22:16:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HoTT at JMM]]></title>
@@ -2355,13 +2355,6 @@ Stereographic cube]]></title>
             <pubDate>Fri, 10 Nov 2017 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oblongs]]></title>
-            <link>https://cavmaths.wordpress.com/2017/11/10/oblongs/</link>
-            <guid isPermaLink="false">https://cavmaths.wordpress.com/2017/11/10/oblongs/</guid>
-            <dc:creator><![CDATA[cavmaths]]></dc:creator>
-            <pubDate>Fri, 10 Nov 2017 13:59:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[11/10/17]]></title>
             <link>http://purenumbers.tumblr.com/post/167338805987</link>
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/167338805987</guid>
@@ -2404,13 +2397,6 @@ Stereographic cube]]></title>
             <pubDate>Fri, 10 Nov 2017 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Importance of form and survey design to gain an accurate picture]]></title>
-            <link>http://flowingdata.com/2017/11/10/importance-of-form-and-survey-design-to-gain-an-accurate-picture/</link>
-            <guid isPermaLink="false">http://flowingdata.com/2017/11/10/importance-of-form-and-survey-design-to-gain-an-accurate-picture/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Fri, 10 Nov 2017 11:26:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Shoreline Reflection]]></title>
             <link>http://mathtourist.blogspot.com/2017/11/shoreline-reflection.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/11/shoreline-reflection.html</guid>
@@ -2446,17 +2432,17 @@ Stereographic cube]]></title>
             <pubDate>Fri, 10 Nov 2017 01:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The fallacy of a meritocracy (using game theory)]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/math/2017/11/10/the-fallacy-of-meritocracy.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/math/2017/11/10/the-fallacy-of-meritocracy.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Fri, 10 Nov 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 10]]></title>
             <link>http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-10.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-10.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 10 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fallacy of a meritocracy (using game theory)]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/math/2017/11/10/the-fallacy-of-meritocracy.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/math/2017/11/10/the-fallacy-of-meritocracy.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Fri, 10 Nov 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2670,13 +2656,6 @@ Stereographic cube]]></title>
             <pubDate>Wed, 08 Nov 2017 21:54:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Identifying therapy targets & evolutionary potentials in ovarian cancer]]></title>
-            <link>https://egtheory.wordpress.com/2017/11/08/ovarian-cancer/</link>
-            <guid isPermaLink="false">https://egtheory.wordpress.com/2017/11/08/ovarian-cancer/</guid>
-            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
-            <pubDate>Wed, 08 Nov 2017 21:30:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Math Error I Wish Were True]]></title>
             <link>http://mathscinotes.com/2017/11/a-math-error-i-wish-were-true/</link>
             <guid isPermaLink="false">http://mathscinotes.com/2017/11/a-math-error-i-wish-were-true/</guid>
@@ -2866,17 +2845,17 @@ Stereographic cube]]></title>
             <pubDate>Wed, 08 Nov 2017 10:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ada Lovelace Programming Pioneer]]></title>
-            <link>http://www.cambridgeblog.org/2017/11/ada-lovelace-programming-pioneer/</link>
-            <guid isPermaLink="false">http://www.cambridgeblog.org/2017/11/ada-lovelace-programming-pioneer/</guid>
-            <dc:creator><![CDATA[FifteenEightyFour | Cambridge University Press » Mathematics]]></dc:creator>
-            <pubDate>Wed, 08 Nov 2017 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ask Uncle Colin: Oh God, Not This Again]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-oh-god-not/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-oh-god-not/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 08 Nov 2017 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ada Lovelace Programming Pioneer]]></title>
+            <link>http://www.cambridgeblog.org/2017/11/ada-lovelace-programming-pioneer/</link>
+            <guid isPermaLink="false">http://www.cambridgeblog.org/2017/11/ada-lovelace-programming-pioneer/</guid>
+            <dc:creator><![CDATA[FifteenEightyFour | Cambridge University Press » Mathematics]]></dc:creator>
             <pubDate>Wed, 08 Nov 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3314,10 +3293,10 @@ Stereographic cube]]></title>
             <pubDate>Mon, 06 Nov 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On the obelus]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/on-the-obelus/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/on-the-obelus/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <title><![CDATA[4.8.28]]></title>
+            <link>http://images.math.cnrs.fr/4-8-29.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-29.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 06 Nov 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3328,10 +3307,10 @@ Stereographic cube]]></title>
             <pubDate>Mon, 06 Nov 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.8.28]]></title>
-            <link>http://images.math.cnrs.fr/4-8-29.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-29.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <title><![CDATA[On the obelus]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/on-the-obelus/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/on-the-obelus/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 06 Nov 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3594,13 +3573,6 @@ Stereographic cube]]></title>
             <pubDate>Sun, 05 Nov 2017 09:44:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ontology of player & evolutionary game in reductive vs effective theory]]></title>
-            <link>https://egtheory.wordpress.com/2017/11/04/players-and-games/</link>
-            <guid isPermaLink="false">https://egtheory.wordpress.com/2017/11/04/players-and-games/</guid>
-            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
-            <pubDate>Sun, 05 Nov 2017 03:55:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to apply for jobs in math]]></title>
             <link>http://blog.jpolak.org/?p=1858</link>
             <guid isPermaLink="false">http://blog.jpolak.org/?p=1858</guid>
@@ -3721,15 +3693,15 @@ Stereographic cube]]></title>
         </item>
         <item>
             <title><![CDATA[Reimagining Calculus Keynote]]></title>
-            <link>http://busynessgirl.com/reimagining-calculus-keynote/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/reimagining-calculus-keynote/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/TioKVC9RVy4/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/TioKVC9RVy4/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 04 Nov 2017 12:06:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reimagining Calculus Keynote]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/TioKVC9RVy4/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/TioKVC9RVy4/</guid>
+            <link>http://busynessgirl.com/reimagining-calculus-keynote/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/reimagining-calculus-keynote/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 04 Nov 2017 12:06:22 GMT</pubDate>
         </item>
@@ -4717,6 +4689,13 @@ Three moons cast shadows on...]]></title>
             <pubDate>Mon, 30 Oct 2017 19:28:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Riddle of the Month (October)]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2017/10/30/riddle-month-october/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2017/10/30/riddle-month-october/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Mon, 30 Oct 2017 17:57:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Axiom]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/30j0oiaoCT0/axiom.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/30j0oiaoCT0/axiom.html</guid>
@@ -5133,13 +5112,6 @@ Three moons cast shadows on...]]></title>
             <pubDate>Sat, 28 Oct 2017 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hackathons and a brief history of mathematical oncology]]></title>
-            <link>https://egtheory.wordpress.com/2017/10/28/mathonco-hist/</link>
-            <guid isPermaLink="false">https://egtheory.wordpress.com/2017/10/28/mathonco-hist/</guid>
-            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
-            <pubDate>Sat, 28 Oct 2017 22:50:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Halloween Estimation with Pumpkins]]></title>
             <link>http://marykienstra.com/halloween-estimation-with-pumpkins/</link>
             <guid isPermaLink="false">http://marykienstra.com/halloween-estimation-with-pumpkins/</guid>
@@ -5414,15 +5386,15 @@ Three moons cast shadows on...]]></title>
         </item>
         <item>
             <title><![CDATA[Group Exploration in Math]]></title>
-            <link>http://busynessgirl.com/group-exploration-in-math/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/group-exploration-in-math/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZjG566CWKwE/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZjG566CWKwE/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 27 Oct 2017 11:57:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Group Exploration in Math]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZjG566CWKwE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ZjG566CWKwE/</guid>
+            <link>http://busynessgirl.com/group-exploration-in-math/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/group-exploration-in-math/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Fri, 27 Oct 2017 11:57:45 GMT</pubDate>
         </item>
@@ -5878,13 +5850,6 @@ Gilbert Williams, Message From Beyond]]></title>
             <pubDate>Wed, 25 Oct 2017 02:34:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oxygen fueling dark selection in the bone marrow]]></title>
-            <link>https://egtheory.wordpress.com/2017/10/24/oxygen-in-dark-selection/</link>
-            <guid isPermaLink="false">https://egtheory.wordpress.com/2017/10/24/oxygen-in-dark-selection/</guid>
-            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
-            <pubDate>Tue, 24 Oct 2017 22:55:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Aprendizaje por indagación. Puzle de cuadrados perfectos]]></title>
             <link>http://matematicas11235813.luismiglesias.es/2017/10/25/aprendizaje-por-indagacion-puzle-de-cuadrados-perfectos/</link>
             <guid isPermaLink="false">http://matematicas11235813.luismiglesias.es/2017/10/25/aprendizaje-por-indagacion-puzle-de-cuadrados-perfectos/</guid>
@@ -6060,17 +6025,17 @@ Gilbert Williams, Message From Beyond]]></title>
             <pubDate>Tue, 24 Oct 2017 07:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ten Years!!!]]></title>
-            <link>http://mrburkemath.blogspot.com/2017/10/ten-years.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/10/ten-years.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Tue, 24 Oct 2017 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thesis: Sketching for Large-Scale Learning of Mixture Models by Nicolas Keriven]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/RcU6iQ4MESk/thesis-sketching-for-large-scale.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/RcU6iQ4MESk/thesis-sketching-for-large-scale.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 24 Oct 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten Years!!!]]></title>
+            <link>http://mrburkemath.blogspot.com/2017/10/ten-years.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2017/10/ten-years.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Tue, 24 Oct 2017 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6490,13 +6455,6 @@ kernel]]></title>
             <pubDate>Sat, 21 Oct 2017 23:42:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poor reasons for preprints & post-publication peer-review]]></title>
-            <link>https://egtheory.wordpress.com/2017/10/21/poor-reason/</link>
-            <guid isPermaLink="false">https://egtheory.wordpress.com/2017/10/21/poor-reason/</guid>
-            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
-            <pubDate>Sat, 21 Oct 2017 22:58:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[J’accuse!]]></title>
             <link>https://galoisrepresentations.wordpress.com/2017/10/21/jaccuse/</link>
             <guid isPermaLink="false">https://galoisrepresentations.wordpress.com/2017/10/21/jaccuse/</guid>
@@ -6750,34 +6708,6 @@ kernel]]></title>
             <guid isPermaLink="false">https://plus.maths.org/content/smales-horseshoe</guid>
             <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
             <pubDate>Fri, 20 Oct 2017 14:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pariah moonshine and math-writing]]></title>
-            <link>http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/boxaBKR1gsg/pariah-moonshine-and-math-writing</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/boxaBKR1gsg/pariah-moonshine-and-math-writing</guid>
-            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
-            <pubDate>Fri, 20 Oct 2017 13:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When I said retro-TV...]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2017/10/when-i-said-retro-tv.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/10/when-i-said-retro-tv.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Fri, 20 Oct 2017 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Open Source with Max Tegmark]]></title>
-            <link>https://mathbabe.org/2017/10/20/on-open-source-with-max-tegmark/</link>
-            <guid isPermaLink="false">https://mathbabe.org/2017/10/20/on-open-source-with-max-tegmark/</guid>
-            <dc:creator><![CDATA[mathbabe]]></dc:creator>
-            <pubDate>Fri, 20 Oct 2017 12:53:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Segmentation et Mutualisation en Assurance, à Québec]]></title>
-            <link>http://freakonometrics.hypotheses.org/51402</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/51402</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Fri, 20 Oct 2017 12:49:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
