@@ -6,9 +6,6 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">After ~9 minute introduction, Andrew Wiles talks about his work: <a href="https://t.co/4QYpHVYeSu">https://t.co/4QYpHVYeSu</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/935961965721202689?ref_src=twsrc%5Etfw">November 29, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Of fenceposts &amp; corporate ambiguity/skullduggery.  Jim Propp&#39;s latest: <a href="https://t.co/U3WX74FBI1">https://t.co/U3WX74FBI1</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/931307372756156418?ref_src=twsrc%5Etfw">November 16, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Lovely little introduction to Catalan numbers from Audace Dossou-Olory at the <a href="https://twitter.com/aperiodical?ref_src=twsrc%5Etfw">@aperiodical</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/uy1LIGGGSG">https://t.co/uy1LIGGGSG</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/925855169971195905?ref_src=twsrc%5Etfw">November 1, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
