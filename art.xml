@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 Dec 2017 20:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2017 21:25:07 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Dec 2017 20:23:45 GMT</pubDate>
+        <pubDate>Tue, 19 Dec 2017 21:25:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Laplace approximation of an integral from Bayesian logistic regression]]></title>
+            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/kY1XcwlPAhU/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/kY1XcwlPAhU/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Tue, 19 Dec 2017 20:36:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bad News for the Highly Intelligent (Scientific American Mind Matters column)]]></title>
             <link>https://www.scientificamerican.com/article/bad-news-for-the-highly-intelligent/</link>
@@ -127,13 +134,6 @@
             <guid isPermaLink="false">http://retractionwatch.com/2017/12/19/official-journals-behave-badly-punishment/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Tue, 19 Dec 2017 13:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[poset-valued set]]></title>
-            <link>https://ncatlab.org/nlab/show/poset-valued+set</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/poset-valued+set</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 19 Dec 2017 12:57:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SageMath and 3D Models in Webpages]]></title>
@@ -472,17 +472,17 @@
             <pubDate>Mon, 18 Dec 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.8.34]]></title>
-            <link>http://images.math.cnrs.fr/-4385.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4385.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 18 Dec 2017 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In Praise of… LaTeX]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/in-praise-of-latex/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/in-praise-of-latex/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 18 Dec 2017 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.8.34]]></title>
+            <link>http://images.math.cnrs.fr/-4385.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4385.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 18 Dec 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1760,17 +1760,17 @@
             <pubDate>Thu, 14 Dec 2017 05:00:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scaffolded Math's Favorite Things]]></title>
-            <link>http://scaffoldedmath.blogspot.com/2017/12/favorite-things-giveaway.html</link>
-            <guid isPermaLink="false">http://scaffoldedmath.blogspot.com/2017/12/favorite-things-giveaway.html</guid>
-            <dc:creator><![CDATA[Scaffolded Math and Science]]></dc:creator>
-            <pubDate>Thu, 14 Dec 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 14]]></title>
             <link>http://pballew.blogspot.com/2017/12/on-this-day-in-math-december-14.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/12/on-this-day-in-math-december-14.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Thu, 14 Dec 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scaffolded Math's Favorite Things]]></title>
+            <link>http://scaffoldedmath.blogspot.com/2017/12/favorite-things-giveaway.html</link>
+            <guid isPermaLink="false">http://scaffoldedmath.blogspot.com/2017/12/favorite-things-giveaway.html</guid>
+            <dc:creator><![CDATA[Scaffolded Math and Science]]></dc:creator>
             <pubDate>Thu, 14 Dec 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1840,14 +1840,14 @@
             <title><![CDATA[A winning competition]]></title>
             <link>http://aperiodical.com/2017/12/a-winning-competition/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/12/a-winning-competition/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 13 Dec 2017 17:06:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A winning competition]]></title>
             <link>http://aperiodical.com/2017/12/a-winning-competition/</link>
             <guid isPermaLink="false">http://aperiodical.com/2017/12/a-winning-competition/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 13 Dec 2017 17:06:11 GMT</pubDate>
         </item>
         <item>
@@ -3841,17 +3841,17 @@ Southern universities sent more soldiers than...]]></title>
             <pubDate>Mon, 04 Dec 2017 14:00:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Want to see a 19th Century polar exploration balloon? Thought so...]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2017/12/want-to-see-19th-century-polar.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/12/want-to-see-19th-century-polar.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 04 Dec 2017 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wei Zhang wins 2018 New Horizons in Mathematics Breakthrough Prize]]></title>
             <link>http://news.mit.edu/2017/wei-zhang-wins-2018-new-horizons-mathematics-breakthrough-prize-1204</link>
             <guid isPermaLink="false">http://news.mit.edu/2017/wei-zhang-wins-2018-new-horizons-mathematics-breakthrough-prize-1204</guid>
             <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
+            <pubDate>Mon, 04 Dec 2017 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Want to see a 19th Century polar exploration balloon? Thought so...]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2017/12/want-to-see-19th-century-polar.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2017/12/want-to-see-19th-century-polar.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 04 Dec 2017 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3974,17 +3974,17 @@ Southern universities sent more soldiers than...]]></title>
             <pubDate>Mon, 04 Dec 2017 00:55:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - December 4]]></title>
-            <link>http://pballew.blogspot.com/2017/12/on-this-day-in-math-december-4.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/12/on-this-day-in-math-december-4.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 04 Dec 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (50)]]></title>
             <link>http://pbelmans.ncag.info/blog/2017/12/04/fortnightly-links-50/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2017/12/04/fortnightly-links-50/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 04 Dec 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - December 4]]></title>
+            <link>http://pballew.blogspot.com/2017/12/on-this-day-in-math-december-4.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/12/on-this-day-in-math-december-4.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 04 Dec 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5184,17 +5184,17 @@ think how different...]]></title>
             <pubDate>Tue, 28 Nov 2017 01:01:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 28]]></title>
-            <link>http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-28.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-28.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 28 Nov 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Incremental means and variances]]></title>
             <link>http://datagenetics.com/blog/november22017/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/november22017/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Tue, 28 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 28]]></title>
+            <link>http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-28.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2017/11/on-this-day-in-math-november-28.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 28 Nov 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6682,17 +6682,17 @@ Cobaltoan Calcite - Mashamba West Mine,...]]></title>
             <pubDate>Sun, 19 Nov 2017 12:15:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Little Self-referential Humor]]></title>
-            <link>http://math-frolic.blogspot.com/2017/11/a-little-self-referential-humor.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/11/a-little-self-referential-humor.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 19 Nov 2017 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thanksgiving Approaches]]></title>
             <link>http://mathtango.blogspot.com/2017/11/thanksgiving-approaches.html</link>
             <guid isPermaLink="false">http://mathtango.blogspot.com/2017/11/thanksgiving-approaches.html</guid>
             <dc:creator><![CDATA[MathTango...]]></dc:creator>
+            <pubDate>Sun, 19 Nov 2017 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Little Self-referential Humor]]></title>
+            <link>http://math-frolic.blogspot.com/2017/11/a-little-self-referential-humor.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2017/11/a-little-self-referential-humor.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 19 Nov 2017 12:00:00 GMT</pubDate>
         </item>
         <item>
