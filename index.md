@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/xD10LQeVpb">https://t.co/xD10LQeVpb</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/945684378876895232?ref_src=twsrc%5Etfw">December 26, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> RT <a href="https://twitter.com/republicofmath?ref_src=twsrc%5Etfw">@republicofmath</a>: Lovely article on pentagonal tilings by <a href="https://twitter.com/MrHonner?ref_src=twsrc%5Etfw">@MrHonner</a> <a href="https://t.co/4S1v79w2rH">https://t.co/4S1v79w2rH</a> <a href="https://t.co/CRsfkGWRlh">pic.twitter.com/CRsfkGWRlh</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/941044031068438528?ref_src=twsrc%5Etfw">December 13, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
