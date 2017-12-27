@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Evelyn Lamb explains the abc&#39;s of the ABC Conjecture (and controversy):<a href="https://t.co/hpUjUcjBZF">https://t.co/hpUjUcjBZF</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Shecky R (@SheckyR) <a href="https://twitter.com/SheckyR/status/945995240749576192?ref_src=twsrc%5Etfw">December 27, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/xD10LQeVpb">https://t.co/xD10LQeVpb</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/945684378876895232?ref_src=twsrc%5Etfw">December 26, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
