@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jan 2018 07:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2018 08:24:50 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jan 2018 07:23:40 GMT</pubDate>
+        <pubDate>Fri, 05 Jan 2018 08:24:50 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Q: Where is all the anti-matter?]]></title>
+            <link>http://www.askamathematician.com/2018/01/q-where-is-all-the-anti-matter/</link>
+            <guid isPermaLink="false">http://www.askamathematician.com/2018/01/q-where-is-all-the-anti-matter/</guid>
+            <dc:creator><![CDATA[Ask a Mathematician / Ask a Physicist]]></dc:creator>
+            <pubDate>Fri, 05 Jan 2018 07:17:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Les pavages de Truchet]]></title>
             <link>http://images.math.cnrs.fr/Les-pavages-de-Truchet.html</link>
@@ -169,13 +176,6 @@
             <guid isPermaLink="false">https://mathbabe.org/2018/01/04/bring-on-the-sex-robots/</guid>
             <dc:creator><![CDATA[mathbabe]]></dc:creator>
             <pubDate>Thu, 04 Jan 2018 18:45:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hadamard propagator]]></title>
-            <link>https://ncatlab.org/nlab/show/Hadamard+propagator</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Hadamard+propagator</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 04 Jan 2018 18:37:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Snow, A Natural Prediction]]></title>
@@ -624,6 +624,13 @@
             <guid isPermaLink="false">https://mathjokes4mathyfolks.wordpress.com/2018/01/03/8563/</guid>
             <dc:creator><![CDATA[Math Jokes 4 Mathy Folks]]></dc:creator>
             <pubDate>Wed, 03 Jan 2018 11:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[star-polycategory]]></title>
+            <link>https://ncatlab.org/nlab/show/star-polycategory</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/star-polycategory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 03 Jan 2018 11:14:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[تذكير : تحديد إشارة ثلاثية الحدود - الثانية باكالوريا علوم تجريبية]]></title>
@@ -1396,13 +1403,6 @@
             <pubDate>Mon, 01 Jan 2018 00:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (52)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On THis Day in Math - January 1]]></title>
             <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-1.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-1.html</guid>
@@ -1410,16 +1410,23 @@
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foundations of analysis]]></title>
-            <link>https://scoskey.github.io/1718s-314</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1718s-314</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <title><![CDATA[Fortnightly links (52)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foundations of geometry]]></title>
             <link>https://scoskey.github.io/1718s-311</link>
             <guid isPermaLink="false">https://scoskey.github.io/1718s-311</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foundations of analysis]]></title>
+            <link>https://scoskey.github.io/1718s-314</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1718s-314</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
         </item>
@@ -2841,17 +2848,17 @@ Each dot is only moving in a straight line, but is...]]></title>
             <pubDate>Mon, 25 Dec 2017 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.8.35]]></title>
-            <link>http://images.math.cnrs.fr/4-8-35.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-35.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 25 Dec 2017 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Glittering like a Christmas tree]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/glittering-like-christmas-tree/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/glittering-like-christmas-tree/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 25 Dec 2017 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.8.35]]></title>
+            <link>http://images.math.cnrs.fr/4-8-35.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-8-35.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 25 Dec 2017 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3490,17 +3497,17 @@ Ciglia]]></title>
             <pubDate>Fri, 22 Dec 2017 00:23:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[M4 Forecasting Competition update]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/u8C0vfD0kYM/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/u8C0vfD0kYM/</guid>
-            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
-            <pubDate>Fri, 22 Dec 2017 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 22]]></title>
             <link>http://pballew.blogspot.com/2017/12/on-this-day-in-math-december-22.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2017/12/on-this-day-in-math-december-22.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 22 Dec 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M4 Forecasting Competition update]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/u8C0vfD0kYM/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/u8C0vfD0kYM/</guid>
+            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Fri, 22 Dec 2017 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3537,13 +3544,6 @@ Ciglia]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/JvsAmepFza4/tussenboogse-dromer-in-waterland.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Thu, 21 Dec 2017 19:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wick algebra -- table]]></title>
-            <link>https://ncatlab.org/nlab/show/Wick+algebra+--+table</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Wick+algebra+--+table</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 21 Dec 2017 17:43:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shannon Entropy Explained in 5 Minutes]]></title>
@@ -4802,6 +4802,13 @@ Dominique-Louis-Féréa Papety, The Temptation...]]></title>
             <pubDate>Sat, 16 Dec 2017 02:30:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mathematics Students and Legitimate Peripheral Participation]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2017/12/15/mathematics-students-legitimate-peripheral-participation/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2017/12/15/mathematics-students-legitimate-peripheral-participation/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Sat, 16 Dec 2017 01:44:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The 600-Cell (Part 1)]]></title>
             <link>https://johncarlosbaez.wordpress.com/2017/12/16/the-600-cell/</link>
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2017/12/16/the-600-cell/</guid>
@@ -5924,6 +5931,13 @@ Southern universities sent more soldiers than...]]></title>
             <pubDate>Sun, 10 Dec 2017 18:27:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Freedom in Failure]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2017/12/10/freedom-failure/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2017/12/10/freedom-failure/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Sun, 10 Dec 2017 17:53:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Preview: The solution by  Keller and Lifshitz to several open problems in extremal combinatorics]]></title>
             <link>https://gilkalai.wordpress.com/2017/12/10/preview-the-solution-by-keller-and-lifshitz-to-several-open-problems-in-extremal-combinatorics/</link>
             <guid isPermaLink="false">https://gilkalai.wordpress.com/2017/12/10/preview-the-solution-by-keller-and-lifshitz-to-several-open-problems-in-extremal-combinatorics/</guid>
@@ -6762,13 +6776,6 @@ Southern universities sent more soldiers than...]]></title>
             <guid isPermaLink="false">http://www.mathoman.com/index.php/1721-matrice-de-troc</guid>
             <dc:creator><![CDATA[Math 0' Man : le Blog des Maths]]></dc:creator>
             <pubDate>Tue, 05 Dec 2017 11:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The light show]]></title>
-            <link>https://quantumfrontiers.com/2017/12/04/the-light-show/</link>
-            <guid isPermaLink="false">https://quantumfrontiers.com/2017/12/04/the-light-show/</guid>
-            <dc:creator><![CDATA[Quantum Frontiers]]></dc:creator>
-            <pubDate>Tue, 05 Dec 2017 07:49:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
