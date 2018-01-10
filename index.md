@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Andromeda – From nebula to galaxy - a history lesson from <a href="https://twitter.com/rmathematicus?ref_src=twsrc%5Etfw">@rmathematicus</a>  <a href="https://t.co/SPOFaqo9ls">https://t.co/SPOFaqo9ls</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/951083788695736320?ref_src=twsrc%5Etfw">January 10, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Lovely, insightful tribute to Maryam Mirzakhani by Nalini Joshi (<a href="https://twitter.com/monsoon0?ref_src=twsrc%5Etfw">@monsoon0</a>)<a href="https://t.co/Bv8Uc1T955">https://t.co/Bv8Uc1T955</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/950140751064649728?ref_src=twsrc%5Etfw">January 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
