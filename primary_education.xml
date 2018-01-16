@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jan 2018 08:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2018 09:23:51 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jan 2018 08:23:33 GMT</pubDate>
+        <pubDate>Tue, 16 Jan 2018 09:23:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Working with group rings in Sage]]></title>
+            <link>http://blog.jpolak.org/?p=1895</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1895</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Tue, 16 Jan 2018 08:06:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Week 3]]></title>
             <link>http://wiskundeleraar.blogspot.com/2018/01/week-3.html</link>
@@ -629,13 +636,6 @@ spans of groupoids]]></title>
             <pubDate>Sun, 14 Jan 2018 03:26:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (53)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/01/14/fortnightly-links-53/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/14/fortnightly-links-53/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 14]]></title>
             <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-14.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-14.html</guid>
@@ -643,17 +643,24 @@ spans of groupoids]]></title>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do plutonium-powered pacemakers work?]]></title>
-            <link>https://blog.plover.com/tech/seebeck-effect.html</link>
-            <guid isPermaLink="false">https://blog.plover.com/tech/seebeck-effect.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Shortest Crease Problem]]></title>
             <link>http://datagenetics.com/blog/january22018/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january22018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (53)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/01/14/fortnightly-links-53/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/14/fortnightly-links-53/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do plutonium-powered pacemakers work?]]></title>
+            <link>https://blog.plover.com/tech/seebeck-effect.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/tech/seebeck-effect.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1077,17 +1084,17 @@ spans of groupoids]]></title>
             <pubDate>Fri, 12 Jan 2018 03:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 12]]></title>
-            <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-12.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-12.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CES 2018]]></title>
             <link>http://datagenetics.com/blog/january12018/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january12018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 12]]></title>
+            <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-12.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-12.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1896,17 +1903,17 @@ spans of groupoids]]></title>
             <pubDate>Tue, 09 Jan 2018 06:42:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Il numero di Liouville]]></title>
-            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/P45MTWFoQL0/il-numero-di-liouville.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/P45MTWFoQL0/il-numero-di-liouville.html</guid>
-            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
-            <pubDate>Tue, 09 Jan 2018 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Video Streaming: State of Artificial Intelligence for Environmental Science Applications panel at AMS conference in Austin TX]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/FJ8ZjcxdScM/video-streaming-state-of-artificial.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/FJ8ZjcxdScM/video-streaming-state-of-artificial.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 09 Jan 2018 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il numero di Liouville]]></title>
+            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/P45MTWFoQL0/il-numero-di-liouville.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/P45MTWFoQL0/il-numero-di-liouville.html</guid>
+            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
             <pubDate>Tue, 09 Jan 2018 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2104,17 +2111,17 @@ Kirishima:...]]></title>
             <pubDate>Mon, 08 Jan 2018 14:17:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Self-driving cars would be wonderful]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2018/01/self-driving-cars-would-be-wonderful.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/01/self-driving-cars-would-be-wonderful.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 08 Jan 2018 14:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[He Said She Said]]></title>
             <link>http://math-frolic.blogspot.com/2018/01/he-said-she-said.html</link>
             <guid isPermaLink="false">http://math-frolic.blogspot.com/2018/01/he-said-she-said.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 08 Jan 2018 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Self-driving cars would be wonderful]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2018/01/self-driving-cars-would-be-wonderful.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/01/self-driving-cars-would-be-wonderful.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 08 Jan 2018 14:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4003,17 +4010,17 @@ Pictured...]]></title>
             <pubDate>Mon, 01 Jan 2018 11:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2018]]></title>
-            <link>http://mathtourist.blogspot.com/2018/01/2018.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/01/2018.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 01 Jan 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[(x, why?) Mini: Happy New Year 2018!]]></title>
             <link>http://mrburkemath.blogspot.com/2018/01/x-why-mini-happy-new-year-2018.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/01/x-why-mini-happy-new-year-2018.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Mon, 01 Jan 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2018]]></title>
+            <link>http://mathtourist.blogspot.com/2018/01/2018.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/01/2018.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 01 Jan 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4073,20 +4080,6 @@ Pictured...]]></title>
             <pubDate>Mon, 01 Jan 2018 03:32:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foundations of geometry]]></title>
-            <link>https://scoskey.github.io/1718s-311</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1718s-311</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortnightly links (52)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Foundations of analysis]]></title>
             <link>https://scoskey.github.io/1718s-314</link>
             <guid isPermaLink="false">https://scoskey.github.io/1718s-314</guid>
@@ -4098,6 +4091,20 @@ Pictured...]]></title>
             <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-1.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-1.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foundations of geometry]]></title>
+            <link>https://scoskey.github.io/1718s-311</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1718s-311</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (52)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6126,13 +6133,6 @@ Dominique-Louis-Féréa Papety, The Temptation...]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2017/12/19/problem-media-concentration-deregulation-usually-treated-series-unrelated-problems-much-like-cocaine-addict-complains-drug-problem-bankruptcy-divorce-encount/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Wed, 20 Dec 2017 02:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Number of irreducible polynomials over a finite field]]></title>
-            <link>http://blog.jpolak.org/?p=1880</link>
-            <guid isPermaLink="false">http://blog.jpolak.org/?p=1880</guid>
-            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
-            <pubDate>Wed, 20 Dec 2017 01:56:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On Writing Short Papers]]></title>
