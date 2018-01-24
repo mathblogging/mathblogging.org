@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jan 2018 04:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2018 05:24:38 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jan 2018 04:25:00 GMT</pubDate>
+        <pubDate>Wed, 24 Jan 2018 05:24:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -545,6 +545,13 @@ Animation of a continuous Fourier Transform.]]></title>
             <pubDate>Mon, 22 Jan 2018 14:37:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Vigenère cipher in Haskell]]></title>
+            <link>https://numbersandshapes.net/2018/01/the-vigenere-cipher-in-haskell/</link>
+            <guid isPermaLink="false">https://numbersandshapes.net/2018/01/the-vigenere-cipher-in-haskell/</guid>
+            <dc:creator><![CDATA[Numbers and Shapes]]></dc:creator>
+            <pubDate>Mon, 22 Jan 2018 14:22:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MfA Workshop — Stats and Sims in Scratch]]></title>
             <link>http://MrHonner.com/archives/18175</link>
             <guid isPermaLink="false">http://MrHonner.com/archives/18175</guid>
@@ -671,17 +678,17 @@ Animation of a continuous Fourier Transform.]]></title>
             <pubDate>Mon, 22 Jan 2018 10:01:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook's New Unit of Time]]></title>
-            <link>http://www.madmath.com/2018/01/facebooks-new-unit-of-time.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2018/01/facebooks-new-unit-of-time.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 22 Jan 2018 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Mathematical Ninja and $\sin(15º)$]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-sin15o/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-sin15o/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 22 Jan 2018 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook's New Unit of Time]]></title>
+            <link>http://www.madmath.com/2018/01/facebooks-new-unit-of-time.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2018/01/facebooks-new-unit-of-time.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 22 Jan 2018 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1028,6 +1035,13 @@ Animation of a continuous Fourier Transform.]]></title>
             <pubDate>Sun, 21 Jan 2018 00:30:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hodge numbers for $\operatorname{M}_C(r,\mathcal{L})$]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/01/21/hodge-numbers-M-C-r-L/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/21/hodge-numbers-M-C-r-L/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2018 in preview]]></title>
             <link>https://www.peterkrautzberger.org/0201/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0201/</guid>
@@ -1039,13 +1053,6 @@ Animation of a continuous Fourier Transform.]]></title>
             <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-21.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-21.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hodge numbers for $\operatorname{M}_C(r,\mathcal{L})$]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/01/21/hodge-numbers-M-C-r-L/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/21/hodge-numbers-M-C-r-L/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1357,17 +1364,17 @@ Animation of a continuous Fourier Transform.]]></title>
             <pubDate>Fri, 19 Jan 2018 21:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On Lucky Sevens - student]]></title>
-            <link>http://www.thusspakeak.com/student/2018/01/01-OnLuckySevens.html</link>
-            <guid isPermaLink="false">http://www.thusspakeak.com/student/2018/01/01-OnLuckySevens.html</guid>
-            <dc:creator><![CDATA[thus spake a.k.]]></dc:creator>
-            <pubDate>Fri, 19 Jan 2018 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Twelve School of Science faculty members appointed to named professorships]]></title>
             <link>http://news.mit.edu/2018/mit-twelve-school-science-faculty-appointed-named-professorships-0119</link>
             <guid isPermaLink="false">http://news.mit.edu/2018/mit-twelve-school-science-faculty-appointed-named-professorships-0119</guid>
             <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
+            <pubDate>Fri, 19 Jan 2018 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Lucky Sevens - student]]></title>
+            <link>http://www.thusspakeak.com/student/2018/01/01-OnLuckySevens.html</link>
+            <guid isPermaLink="false">http://www.thusspakeak.com/student/2018/01/01-OnLuckySevens.html</guid>
+            <dc:creator><![CDATA[thus spake a.k.]]></dc:creator>
             <pubDate>Fri, 19 Jan 2018 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1546,13 +1553,6 @@ Animation of a continuous Fourier Transform.]]></title>
             <pubDate>Fri, 19 Jan 2018 06:52:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[L'enigma dello Scudiero]]></title>
-            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/01/19/lenigma-dello-scudiero/</link>
-            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/01/19/lenigma-dello-scudiero/</guid>
-            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
-            <pubDate>Fri, 19 Jan 2018 06:00:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[North East South West Puzzle from Puzzle Box, Volume 1]]></title>
             <link>http://mathequalslove.blogspot.com/2018/01/north-east-south-west-puzzle-from.html</link>
             <guid isPermaLink="false">http://mathequalslove.blogspot.com/2018/01/north-east-south-west-puzzle-from.html</guid>
@@ -1679,17 +1679,17 @@ Animation of a continuous Fourier Transform.]]></title>
             <pubDate>Thu, 18 Jan 2018 16:00:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Donald Rosenfield, a longtime leader of MIT Leaders for Global Operations, dies at 70]]></title>
-            <link>http://news.mit.edu/2018/donald-rosenfield-longtime-leader-mit-leaders-global-operations-dies-70-0118</link>
-            <guid isPermaLink="false">http://news.mit.edu/2018/donald-rosenfield-longtime-leader-mit-leaders-global-operations-dies-70-0118</guid>
-            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
-            <pubDate>Thu, 18 Jan 2018 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Class for Three]]></title>
             <link>http://infinitesums.com/commentary/2018/new-and-boring</link>
             <guid isPermaLink="false">http://infinitesums.com/commentary/2018/new-and-boring</guid>
             <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
+            <pubDate>Thu, 18 Jan 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Rosenfield, a longtime leader of MIT Leaders for Global Operations, dies at 70]]></title>
+            <link>http://news.mit.edu/2018/donald-rosenfield-longtime-leader-mit-leaders-global-operations-dies-70-0118</link>
+            <guid isPermaLink="false">http://news.mit.edu/2018/donald-rosenfield-longtime-leader-mit-leaders-global-operations-dies-70-0118</guid>
+            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
             <pubDate>Thu, 18 Jan 2018 16:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1707,17 +1707,17 @@ Animation of a continuous Fourier Transform.]]></title>
             <pubDate>Thu, 18 Jan 2018 15:00:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[August 2017 Common Core Algebra 1 Regents, Part 3]]></title>
-            <link>http://mrburkemath.blogspot.com/2018/01/august-2017-common-core-algebra-1_18.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/01/august-2017-common-core-algebra-1_18.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Thu, 18 Jan 2018 14:52:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Η ΠΑΡΑΣΤΑΣΗ]]></title>
             <link>http://mathandliterature.blogspot.com/2018/01/blog-post_21.html</link>
             <guid isPermaLink="false">http://mathandliterature.blogspot.com/2018/01/blog-post_21.html</guid>
             <dc:creator><![CDATA[Μαθηματικά + Λογοτεχνία]]></dc:creator>
+            <pubDate>Thu, 18 Jan 2018 14:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[August 2017 Common Core Algebra 1 Regents, Part 3]]></title>
+            <link>http://mrburkemath.blogspot.com/2018/01/august-2017-common-core-algebra-1_18.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/01/august-2017-common-core-algebra-1_18.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 18 Jan 2018 14:52:00 GMT</pubDate>
         </item>
         <item>
@@ -1924,17 +1924,17 @@ Animation of a continuous Fourier Transform.]]></title>
             <pubDate>Thu, 18 Jan 2018 00:19:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Bridge Gods]]></title>
-            <link>http://statsathome.com/2018/01/18/the-bridge-gods/</link>
-            <guid isPermaLink="false">http://statsathome.com/2018/01/18/the-bridge-gods/</guid>
-            <dc:creator><![CDATA[Statistics @ Home]]></dc:creator>
-            <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 18]]></title>
             <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-18.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-18.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bridge Gods]]></title>
+            <link>http://statsathome.com/2018/01/18/the-bridge-gods/</link>
+            <guid isPermaLink="false">http://statsathome.com/2018/01/18/the-bridge-gods/</guid>
+            <dc:creator><![CDATA[Statistics @ Home]]></dc:creator>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2097,6 +2097,13 @@ Animation of a continuous Fourier Transform.]]></title>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/01/x-why-mini-noah.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Wed, 17 Jan 2018 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Types of triangles by sides and angles]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/types-of-triangles-by-sides-and-angles.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/types-of-triangles-by-sides-and-angles.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Wed, 17 Jan 2018 13:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Survey Spring 2018]]></title>
@@ -2973,6 +2980,13 @@ spans of groupoids]]></title>
             <pubDate>Sun, 14 Jan 2018 03:26:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[On This Day in Math - January 14]]></title>
+            <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-14.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-14.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How do plutonium-powered pacemakers work?]]></title>
             <link>https://blog.plover.com/tech/seebeck-effect.html</link>
             <guid isPermaLink="false">https://blog.plover.com/tech/seebeck-effect.html</guid>
@@ -2991,13 +3005,6 @@ spans of groupoids]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/01/14/fortnightly-links-53/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/14/fortnightly-links-53/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On This Day in Math - January 14]]></title>
-            <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-14.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-14.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3302,13 +3309,6 @@ spans of groupoids]]></title>
             <pubDate>Fri, 12 Jan 2018 08:01:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[12 Gennaio 1915: Buon compleanno, Herbert!]]></title>
-            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/01/12/12-gennaio-1915-buon-compleanno-herbert/</link>
-            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/01/12/12-gennaio-1915-buon-compleanno-herbert/</guid>
-            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
-            <pubDate>Fri, 12 Jan 2018 06:00:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Random Incident Sound Waves for Fast Compressed Pulse-Echo Ultrasound Imaging]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gknv-9cEQJg/random-incident-sound-waves-for-fast.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/gknv-9cEQJg/random-incident-sound-waves-for-fast.html</guid>
@@ -3463,6 +3463,13 @@ spans of groupoids]]></title>
             <pubDate>Thu, 11 Jan 2018 12:54:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Change an improper fraction to mixed number]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/change-improper-fraction-to-mixed-number.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/change-improper-fraction-to-mixed-number.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Thu, 11 Jan 2018 12:14:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Value of Age Mixing]]></title>
             <link>https://naturalmath.com/2018/01/the-value-of-age-mixing/</link>
             <guid isPermaLink="false">https://naturalmath.com/2018/01/the-value-of-age-mixing/</guid>
@@ -3475,13 +3482,6 @@ spans of groupoids]]></title>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/01/wrong-right.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 11 Jan 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calendario 2018 di Rudi Mathematici]]></title>
-            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/01/11/calendario-2018-di-rudi-mathematici/</link>
-            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/01/11/calendario-2018-di-rudi-mathematici/</guid>
-            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
-            <pubDate>Thu, 11 Jan 2018 10:38:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSjob: One PhD and one Postdoc Position, Low-Rank Matrix Approximations]]></title>
@@ -3657,6 +3657,20 @@ spans of groupoids]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2018/01/10/incentive-to-cheat/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Wed, 10 Jan 2018 14:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Multiplying Complex Numbers]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/multiplying-complex-numbers.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/multiplying-complex-numbers.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Wed, 10 Jan 2018 14:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simplifying Radicals-Square Root-Algebra]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/simplifying-radicals-square-root-algebra.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/simplifying-radicals-square-root-algebra.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Wed, 10 Jan 2018 14:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colleges and unions]]></title>
@@ -3974,17 +3988,17 @@ spans of groupoids]]></title>
             <pubDate>Tue, 09 Jan 2018 06:42:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Il numero di Liouville]]></title>
-            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/P45MTWFoQL0/il-numero-di-liouville.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/P45MTWFoQL0/il-numero-di-liouville.html</guid>
-            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
-            <pubDate>Tue, 09 Jan 2018 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Video Streaming: State of Artificial Intelligence for Environmental Science Applications panel at AMS conference in Austin TX]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/FJ8ZjcxdScM/video-streaming-state-of-artificial.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/FJ8ZjcxdScM/video-streaming-state-of-artificial.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 09 Jan 2018 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il numero di Liouville]]></title>
+            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/P45MTWFoQL0/il-numero-di-liouville.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/P45MTWFoQL0/il-numero-di-liouville.html</guid>
+            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
             <pubDate>Tue, 09 Jan 2018 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4259,13 +4273,6 @@ Kirishima:...]]></title>
             <pubDate>Mon, 08 Jan 2018 06:21:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[8 Gennaio 1888: Buon compleanno, Richard!]]></title>
-            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/01/08/8-gennaio-1888-buon-compleanno-richard/</link>
-            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/01/08/8-gennaio-1888-buon-compleanno-richard/</guid>
-            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
-            <pubDate>Mon, 08 Jan 2018 06:00:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Logic Puzzle - What Does Your Friend See?]]></title>
             <link>http://mathmamawrites.blogspot.com/2018/01/logic-puzzle-what-does-your-friend-see.html</link>
             <guid isPermaLink="false">http://mathmamawrites.blogspot.com/2018/01/logic-puzzle-what-does-your-friend-see.html</guid>
@@ -4273,11 +4280,53 @@ Kirishima:...]]></title>
             <pubDate>Mon, 08 Jan 2018 06:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Equivalent Expressions 6th Grade Math]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/equivalent-expressions-6th-grade-math.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/equivalent-expressions-6th-grade-math.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Mon, 08 Jan 2018 03:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Identify equivalent expressions using distributive property and c...]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/how-to-identify-equivalent-expressions.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/how-to-identify-equivalent-expressions.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Mon, 08 Jan 2018 03:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using the distributive property to simplify equations]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/using-distributive-property-to-simplify.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/using-distributive-property-to-simplify.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Mon, 08 Jan 2018 03:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to find the highest common factor Math HCF]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/how-to-find-highest-common-factor-math.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/how-to-find-highest-common-factor-math.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Mon, 08 Jan 2018 03:33:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Long tail of baby names]]></title>
             <link>http://feedproxy.google.com/~r/StatsChat/~3/WNpCGRFa2d8/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/WNpCGRFa2d8/</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Mon, 08 Jan 2018 03:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding the LCM GCF of three numbers-Easy Shortcut]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/finding-lcm-gcf-of-three-numbers-easy.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/finding-lcm-gcf-of-three-numbers-easy.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Mon, 08 Jan 2018 03:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Find the GCF | Cake Method |]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/find-gcf-cake-method.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/find-gcf-cake-method.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Mon, 08 Jan 2018 03:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A new largest prime found!]]></title>
@@ -4516,6 +4565,34 @@ Kirishima:...]]></title>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-7.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 07 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6th Grade Math Unit 3 State of Georgia]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/6t-grade-math-unit-3-state-of-georgia.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/6t-grade-math-unit-3-state-of-georgia.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Sat, 06 Jan 2018 20:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Algebraic Expressions Vocabulary-Math-MS-6]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/algebraic-expressions-vocabulary-math.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/algebraic-expressions-vocabulary-math.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Sat, 06 Jan 2018 20:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Translating words into algebraic expressions]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/translating-words-into-algebraic.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/translating-words-into-algebraic.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Sat, 06 Jan 2018 20:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 spheres of the earth]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/4-spheres-of-earth.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/4-spheres-of-earth.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Sat, 06 Jan 2018 20:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Roze-rood monument in open landschap met eenzame fietser]]></title>
@@ -4779,6 +4856,13 @@ Pictured...]]></title>
             <pubDate>Fri, 05 Jan 2018 12:56:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Calculate speed with distance and time-Simple Trick]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/calculate-speed-with-distance-and-time.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/calculate-speed-with-distance-and-time.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Fri, 05 Jan 2018 12:31:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eleven More Takeaways from Angela Watson's 40 Hour Teacher Workweek]]></title>
             <link>http://mathequalslove.blogspot.com/2018/01/eleven-more-takeaways-from-angela.html</link>
             <guid isPermaLink="false">http://mathequalslove.blogspot.com/2018/01/eleven-more-takeaways-from-angela.html</guid>
@@ -4828,6 +4912,34 @@ Pictured...]]></title>
             <pubDate>Fri, 05 Jan 2018 01:47:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Creating a Frequency Table for a wide range using Intervals]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/creating-frequency-table-for-wide-range.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/creating-frequency-table-for-wide-range.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Fri, 05 Jan 2018 01:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create a Frequency Table-Middle School Math]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/how-to-create-frequency-table-middle.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/how-to-create-frequency-table-middle.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Fri, 05 Jan 2018 01:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create a Cumulative Frequency Table]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/how-to-create-cumulative-frequency-table.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/how-to-create-cumulative-frequency-table.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Fri, 05 Jan 2018 01:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to the Nervous System]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/introduction-to-nervous-system.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/introduction-to-nervous-system.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Fri, 05 Jan 2018 01:28:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Theory of filters is FINISHED!]]></title>
             <link>https://portonmath.wordpress.com/2018/01/05/theory-of-filters-is-finished/</link>
             <guid isPermaLink="false">https://portonmath.wordpress.com/2018/01/05/theory-of-filters-is-finished/</guid>
@@ -4849,17 +4961,17 @@ Pictured...]]></title>
             <pubDate>Fri, 05 Jan 2018 00:30:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 5]]></title>
-            <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-5.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-5.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 05 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introducing Gerby: the tools and website]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/01/05/introducing-gerby-tools/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/05/introducing-gerby-tools/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Fri, 05 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 5]]></title>
+            <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-5.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-5.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 05 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5220,6 +5332,34 @@ Pictured...]]></title>
             <pubDate>Wed, 03 Jan 2018 02:15:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Setting up proportion problems-Unit Rate Word Problems]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/setting-up-proportion-problems-unit.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/setting-up-proportion-problems-unit.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Wed, 03 Jan 2018 01:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dimensional Analysis-Unit Conversion Problems]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/dimensional-analysis-unit-conversion.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/dimensional-analysis-unit-conversion.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Wed, 03 Jan 2018 01:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unit Rate Definitions]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/unit-rate-definitions.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/unit-rate-definitions.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Wed, 03 Jan 2018 01:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unit Rate Word Problems-Middle School Math-]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/unit-rate-word-problems-middle-school.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/unit-rate-word-problems-middle-school.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Wed, 03 Jan 2018 00:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dealing with Furnace Condensate At Low Temperatures]]></title>
             <link>http://mathscinotes.com/2018/01/dealing-with-furnace-condensate-at-low-temperatures/</link>
             <guid isPermaLink="false">http://mathscinotes.com/2018/01/dealing-with-furnace-condensate-at-low-temperatures/</guid>
@@ -5409,6 +5549,13 @@ Pictured...]]></title>
             <pubDate>Tue, 02 Jan 2018 03:27:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Yards in a soccer pitch- Dimensional Analysis Made Easy]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/yards-in-soccer-pitch-dimensional.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/yards-in-soccer-pitch-dimensional.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Tue, 02 Jan 2018 02:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2017: The Return of the Itinerant Teacher ... To Being Itinerant]]></title>
             <link>http://mrburkemath.blogspot.com/2018/01/2017-return-of-itinerant-teacher-to.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/01/2017-return-of-itinerant-teacher-to.html</guid>
@@ -5484,6 +5631,13 @@ Pictured...]]></title>
             <guid isPermaLink="false">https://girlsangle.wordpress.com/2018/01/01/happy-new-year-2018/</guid>
             <dc:creator><![CDATA[Girls' Angle]]></dc:creator>
             <pubDate>Mon, 01 Jan 2018 18:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do you know if two  lines are perpendicular?]]></title>
+            <link>http://www.moomoomathblog.com/2018/01/how-do-you-know-if-two-lines-are.html</link>
+            <guid isPermaLink="false">http://www.moomoomathblog.com/2018/01/how-do-you-know-if-two-lines-are.html</guid>
+            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
+            <pubDate>Mon, 01 Jan 2018 18:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Favorite easy recipes]]></title>
@@ -5633,10 +5787,10 @@ Pictured...]]></title>
             <pubDate>Mon, 01 Jan 2018 03:32:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (52)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <title><![CDATA[Foundations of analysis]]></title>
+            <link>https://scoskey.github.io/1718s-314</link>
+            <guid isPermaLink="false">https://scoskey.github.io/1718s-314</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5647,10 +5801,10 @@ Pictured...]]></title>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foundations of analysis]]></title>
-            <link>https://scoskey.github.io/1718s-314</link>
-            <guid isPermaLink="false">https://scoskey.github.io/1718s-314</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <title><![CDATA[Fortnightly links (52)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/01/fortnightly-links-52/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5827,13 +5981,6 @@ Pictured...]]></title>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2017/12/squiggle-on-wall.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 31 Dec 2017 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Il problema di dicembre (592) - Elezioni nel brodo di Borda]]></title>
-            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2017/12/31/il-problema-di-dicembre-592-elezioni-nel-brodo-di-borda/</link>
-            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2017/12/31/il-problema-di-dicembre-592-elezioni-nel-brodo-di-borda/</guid>
-            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
-            <pubDate>Sun, 31 Dec 2017 06:00:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[the pigeonhole principle, as applied to the enter() and data()...]]></title>
@@ -6677,13 +6824,6 @@ Each dot is only moving in a straight line, but is...]]></title>
             <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=3597</guid>
             <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
             <pubDate>Sun, 24 Dec 2017 07:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time for a break]]></title>
-            <link>http://freakonometrics.hypotheses.org/51823</link>
-            <guid isPermaLink="false">http://freakonometrics.hypotheses.org/51823</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Sun, 24 Dec 2017 05:06:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
