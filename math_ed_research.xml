@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Feb 2018 16:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2018 17:23:20 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Feb 2018 16:24:04 GMT</pubDate>
+        <pubDate>Sun, 18 Feb 2018 17:23:20 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[XIX Jornadas Matemáticas de Sestao]]></title>
+            <link>http://matematicas11235813.luismiglesias.es/2018/02/18/xix-jornadas-matematicas-de-sestao/</link>
+            <guid isPermaLink="false">http://matematicas11235813.luismiglesias.es/2018/02/18/xix-jornadas-matematicas-de-sestao/</guid>
+            <dc:creator><![CDATA[MatemáTICas: 1,1,2,3,5,8,13,…]]></dc:creator>
+            <pubDate>Sun, 18 Feb 2018 16:42:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Week 10]]></title>
             <link>http://wiskundeleraar.blogspot.com/2018/02/week-10.html</link>
@@ -52,13 +59,6 @@
             <pubDate>Sun, 18 Feb 2018 14:36:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meyer Bockstein]]></title>
-            <link>https://ncatlab.org/nlab/show/Meyer+Bockstein</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Meyer+Bockstein</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 18 Feb 2018 14:33:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[examples of boolean functions]]></title>
             <link>https://www.bookofproofs.org/branches/examples-of-boolean-functions/</link>
             <guid isPermaLink="false">https://www.bookofproofs.org/branches/examples-of-boolean-functions/</guid>
@@ -94,17 +94,17 @@
             <pubDate>Sun, 18 Feb 2018 13:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man vs. Computer]]></title>
-            <link>http://math-frolic.blogspot.com/2018/02/man-vs-computer.html</link>
-            <guid isPermaLink="false">http://math-frolic.blogspot.com/2018/02/man-vs-computer.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 18 Feb 2018 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS More or Less:  Debunking guide – on a postcard]]></title>
             <link>http://www.bbc.co.uk/programmes/p05yfqph</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p05yfqph</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Sun, 18 Feb 2018 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man vs. Computer]]></title>
+            <link>http://math-frolic.blogspot.com/2018/02/man-vs-computer.html</link>
+            <guid isPermaLink="false">http://math-frolic.blogspot.com/2018/02/man-vs-computer.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 18 Feb 2018 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -323,20 +323,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/GonitSora/~3/HEeRt2J3-a0/</guid>
             <dc:creator><![CDATA[Gonit Sora]]></dc:creator>
             <pubDate>Sat, 17 Feb 2018 12:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pierre Fayet]]></title>
-            <link>https://ncatlab.org/nlab/show/Pierre+Fayet</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Pierre+Fayet</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 17 Feb 2018 12:01:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matteo Bertolini]]></title>
-            <link>https://ncatlab.org/nlab/show/Matteo+Bertolini</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Matteo+Bertolini</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 17 Feb 2018 11:14:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The curse of dimensionality and finite vs. asymptotic convergence results]]></title>
@@ -624,14 +610,14 @@ And...]]></title>
             <title><![CDATA[Approaching Fermi problems with the approximate geometric mean]]></title>
             <link>http://aperiodical.com/2018/02/approaching-fermi-problems-with-the-approximate-geometric-mean/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/02/approaching-fermi-problems-with-the-approximate-geometric-mean/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Fri, 16 Feb 2018 09:14:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Approaching Fermi problems with the approximate geometric mean]]></title>
             <link>http://aperiodical.com/2018/02/approaching-fermi-problems-with-the-approximate-geometric-mean/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/02/approaching-fermi-problems-with-the-approximate-geometric-mean/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Fri, 16 Feb 2018 09:14:10 GMT</pubDate>
         </item>
         <item>
@@ -1750,17 +1736,17 @@ https://twitter.com/Lowpolybot/status/57885728510515...]]></title>
             <pubDate>Mon, 12 Feb 2018 10:33:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ontario Elementary Teachers Need Remedial Math]]></title>
-            <link>http://www.madmath.com/2018/02/ontario-elementary-teachers-need.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2018/02/ontario-elementary-teachers-need.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 12 Feb 2018 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Daylight, Durlston Castle, and Where is Hamburg?]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/daylight-durlston-castle-hamburg/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/daylight-durlston-castle-hamburg/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 12 Feb 2018 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ontario Elementary Teachers Need Remedial Math]]></title>
+            <link>http://www.madmath.com/2018/02/ontario-elementary-teachers-need.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2018/02/ontario-elementary-teachers-need.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 12 Feb 2018 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2020,13 +2006,6 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <pubDate>Sun, 11 Feb 2018 08:15:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Counting With Your Eyes: Subitizing]]></title>
-            <link>https://tapintoteenminds.com/counting-with-your-eyes/</link>
-            <guid isPermaLink="false">https://tapintoteenminds.com/counting-with-your-eyes/</guid>
-            <dc:creator><![CDATA[Tap Into Teen Minds]]></dc:creator>
-            <pubDate>Sun, 11 Feb 2018 03:15:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Linguistics Using Category Theory]]></title>
             <link>https://johncarlosbaez.wordpress.com/2018/02/11/linguistics-using-category-theory/</link>
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2018/02/11/linguistics-using-category-theory/</guid>
@@ -2041,17 +2020,17 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <pubDate>Sun, 11 Feb 2018 00:09:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 11]]></title>
-            <link>http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-11_11.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-11_11.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (55)]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/02/11/fortnightly-links-55/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/02/11/fortnightly-links-55/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 11]]></title>
+            <link>http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-11_11.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-11_11.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2088,6 +2067,13 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/imqNM_OlOck/eschers-weird-house.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Sat, 10 Feb 2018 20:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Ideal Class Groups]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2018/02/10/introduction-ideal-class-groups/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/02/10/introduction-ideal-class-groups/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Sat, 10 Feb 2018 20:33:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ein roter Faden]]></title>
@@ -2635,14 +2621,14 @@ Luke and I were looking at Hieronymus...]]></title>
             <title><![CDATA[Ten years and eight days]]></title>
             <link>http://aperiodical.com/2018/02/ten-years-and-eight-days/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/02/ten-years-and-eight-days/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 08 Feb 2018 09:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ten years and eight days]]></title>
             <link>http://aperiodical.com/2018/02/ten-years-and-eight-days/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/02/ten-years-and-eight-days/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 08 Feb 2018 09:17:22 GMT</pubDate>
         </item>
         <item>
@@ -3143,17 +3129,17 @@ Luke and I were looking at Hieronymus...]]></title>
             <pubDate>Tue, 06 Feb 2018 03:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Linus Sequence]]></title>
-            <link>http://datagenetics.com/blog/february32018/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/february32018/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 6]]></title>
             <link>http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-6.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linus Sequence]]></title>
+            <link>http://datagenetics.com/blog/february32018/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/february32018/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3542,13 +3528,6 @@ Luke and I were looking at Hieronymus...]]></title>
             <pubDate>Sun, 04 Feb 2018 14:23:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lower the Floor in Math Class]]></title>
-            <link>https://tapintoteenminds.com/lower-floor/</link>
-            <guid isPermaLink="false">https://tapintoteenminds.com/lower-floor/</guid>
-            <dc:creator><![CDATA[Tap Into Teen Minds]]></dc:creator>
-            <pubDate>Sun, 04 Feb 2018 14:12:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Apple Pies are Delicious]]></title>
             <link>http://MrHonner.com/archives/18206</link>
             <guid isPermaLink="false">http://MrHonner.com/archives/18206</guid>
@@ -3666,6 +3645,13 @@ Luke and I were looking at Hieronymus...]]></title>
             <guid isPermaLink="false">http://matheminutes.blogspot.com/2018/02/complex-adventures-in-autograph-4-part-1.html</guid>
             <dc:creator><![CDATA[matheminutes]]></dc:creator>
             <pubDate>Sat, 03 Feb 2018 18:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jim Simons: The Brightest Billionaire]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2018/02/03/incomplete-jim-simons-matters/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/02/03/incomplete-jim-simons-matters/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Sat, 03 Feb 2018 18:36:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What happened in January?]]></title>
@@ -5391,17 +5377,17 @@ https://twitter.com/Lowpolybot/status/57587746275789...]]></title>
             <pubDate>Sun, 28 Jan 2018 00:10:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 28]]></title>
-            <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-28.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-28.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (54)]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/01/28/fortnightly-links-54/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/01/28/fortnightly-links-54/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 28]]></title>
+            <link>http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-28.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2018/01/on-this-day-in-math-january-28.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5515,13 +5501,6 @@ https://twitter.com/Lowpolybot/status/57587746275789...]]></title>
             <guid isPermaLink="false">https://pamjwilson.wordpress.com/2018/01/26/reflecting-on-formative-assessments/</guid>
             <dc:creator><![CDATA[the radical rational…]]></dc:creator>
             <pubDate>Sat, 27 Jan 2018 02:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Knowledgehook Math PLC Planning Tool]]></title>
-            <link>https://tapintoteenminds.com/knowledgehook-math-plc-planning-tool/</link>
-            <guid isPermaLink="false">https://tapintoteenminds.com/knowledgehook-math-plc-planning-tool/</guid>
-            <dc:creator><![CDATA[Tap Into Teen Minds]]></dc:creator>
-            <pubDate>Sat, 27 Jan 2018 01:52:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Investigating Inequalities]]></title>
