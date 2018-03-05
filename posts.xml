@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Mar 2018 08:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Mar 2018 09:22:58 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Mar 2018 08:23:31 GMT</pubDate>
+        <pubDate>Mon, 05 Mar 2018 09:22:58 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -232,6 +232,13 @@
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2018/03/03/the-lemma-cited-from-burnside/</guid>
             <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
             <pubDate>Sun, 04 Mar 2018 04:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cereal box prizes and transition matrices]]></title>
+            <link>http://blog.jpolak.org/?p=1949</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1949</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Sun, 04 Mar 2018 04:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coarse-Graining Open Markov Processes]]></title>
@@ -757,6 +764,13 @@ Heures de Nostre Dame: a l'usage de Paris. Book...]]></title>
             <pubDate>Thu, 01 Mar 2018 19:02:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Reflections on Time and Space in Mathematics Classrooms]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2018/03/01/reflections-time-space-mathematics-classrooms/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/03/01/reflections-time-space-mathematics-classrooms/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Thu, 01 Mar 2018 18:30:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Predictive policing algorithms used secretly in New Orleans]]></title>
             <link>http://flowingdata.com/2018/03/01/predictive-policing-algorithms-used-secretly-in-new-orleans/</link>
             <guid isPermaLink="false">http://flowingdata.com/2018/03/01/predictive-policing-algorithms-used-secretly-in-new-orleans/</guid>
@@ -937,6 +951,20 @@ Heures de Nostre Dame: a l'usage de Paris. Book...]]></title>
             <guid isPermaLink="false">https://byorgey.wordpress.com/2018/02/28/test-your-intuition-logarithmic-time/</guid>
             <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
             <pubDate>Thu, 01 Mar 2018 03:55:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transition matrices]]></title>
+            <link>http://blog.jpolak.org/?p=1944</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1944</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Thu, 01 Mar 2018 03:39:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Book Review: Levy’s ‘Crypto’]]></title>
+            <link>http://blog.jpolak.org/?p=1943</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1943</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Thu, 01 Mar 2018 03:09:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A day in the life of a teacher]]></title>
@@ -1233,17 +1261,17 @@ Heures de Nostre Dame: a l'usage de Paris. Book...]]></title>
             <pubDate>Wed, 28 Feb 2018 10:36:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ask Uncle Colin: Complex quadratics with real values]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-complex-quadratics-real-values/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-complex-quadratics-real-values/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Wed, 28 Feb 2018 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Noctilucent Clouds]]></title>
             <link>http://mathtourist.blogspot.com/2018/02/noctilucent-clouds.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/02/noctilucent-clouds.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 28 Feb 2018 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ask Uncle Colin: Complex quadratics with real values]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-complex-quadratics-real-values/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-complex-quadratics-real-values/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Wed, 28 Feb 2018 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1583,17 +1611,17 @@ Heures de Nostre Dame: a l'usage de Paris. Book...]]></title>
             <pubDate>Tue, 27 Feb 2018 00:34:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (56)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/02/27/fortnightly-links-56/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/02/27/fortnightly-links-56/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Tue, 27 Feb 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math -February 27]]></title>
             <link>http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-27.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-27.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 27 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (56)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/02/27/fortnightly-links-56/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/02/27/fortnightly-links-56/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Tue, 27 Feb 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1644,6 +1672,13 @@ Heures de Nostre Dame: a l'usage de Paris. Book...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/CnNM1za3Pi4/dagger.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Mon, 26 Feb 2018 19:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Eulogy Of Lipschitz Maps]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2018/02/26/eulogy-lipschitz-maps/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/02/26/eulogy-lipschitz-maps/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Mon, 26 Feb 2018 18:35:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Αναζητώντας τη χαμένη διάσταση...]]></title>
@@ -2108,6 +2143,13 @@ Heures de Nostre Dame: a l'usage de Paris. Book...]]></title>
             <pubDate>Sun, 25 Feb 2018 07:32:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Expected iterations for a finite random walk]]></title>
+            <link>http://blog.jpolak.org/?p=1939</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1939</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Sun, 25 Feb 2018 07:04:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Volume and Fixable Mistakes]]></title>
             <link>https://mattcoaty.com/2018/02/24/vfm/</link>
             <guid isPermaLink="false">https://mattcoaty.com/2018/02/24/vfm/</guid>
@@ -2122,17 +2164,17 @@ Heures de Nostre Dame: a l'usage de Paris. Book...]]></title>
             <pubDate>Sun, 25 Feb 2018 03:36:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 25]]></title>
-            <link>http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-25.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-25.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cribbage Scores]]></title>
             <link>http://datagenetics.com/blog/february62018/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february62018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 25]]></title>
+            <link>http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-25.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-25.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2510,14 +2552,14 @@ Heures de Nostre Dame: a l'usage de Paris. Book...]]></title>
             <title><![CDATA[I’m going to run πkm every day in March]]></title>
             <link>http://aperiodical.com/2018/02/im-going-to-run-%25cf%2580km-every-day-in-march/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/02/im-going-to-run-%cf%80km-every-day-in-march/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Fri, 23 Feb 2018 10:06:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I’m going to run πkm every day in March]]></title>
             <link>http://aperiodical.com/2018/02/im-going-to-run-%25cf%2580km-every-day-in-march/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/02/im-going-to-run-%cf%80km-every-day-in-march/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Fri, 23 Feb 2018 10:06:53 GMT</pubDate>
         </item>
         <item>
@@ -2992,17 +3034,17 @@ Circle #8, 2018]]></title>
             <pubDate>Wed, 21 Feb 2018 00:00:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Drawing radar plots in LaTeX with tikz]]></title>
-            <link>http://drvinceknight.github.io/unpeudemath/math/2018/02/21/drawing-star-diagrams.html</link>
-            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/math/2018/02/21/drawing-star-diagrams.html</guid>
-            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
-            <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 21]]></title>
             <link>http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-21.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-21.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drawing radar plots in LaTeX with tikz]]></title>
+            <link>http://drvinceknight.github.io/unpeudemath/math/2018/02/21/drawing-star-diagrams.html</link>
+            <guid isPermaLink="false">http://drvinceknight.github.io/unpeudemath/math/2018/02/21/drawing-star-diagrams.html</guid>
+            <dc:creator><![CDATA[Un peu de math]]></dc:creator>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,6 +3349,13 @@ Circle #8, 2018]]></title>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Presentations, and the delight of reveal.js]]></title>
+            <link>https://numbersandshapes.net/2018/02/presentations-and-the-delight-of-reveal-js/</link>
+            <guid isPermaLink="false">https://numbersandshapes.net/2018/02/presentations-and-the-delight-of-reveal-js/</guid>
+            <dc:creator><![CDATA[Numbers and Shapes]]></dc:creator>
+            <pubDate>Mon, 19 Feb 2018 23:25:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Funville Adventures is on a Web Tour!]]></title>
             <link>https://aofradkin.wordpress.com/2018/02/19/funville-adventures-is-on-a-web-tour/</link>
             <guid isPermaLink="false">https://aofradkin.wordpress.com/2018/02/19/funville-adventures-is-on-a-web-tour/</guid>
@@ -3496,17 +3545,17 @@ Circle #8, 2018]]></title>
             <pubDate>Mon, 19 Feb 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Random number tables]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/random-number-tables/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/random-number-tables/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 19 Feb 2018 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Is Accepting Math Deficiency Destroying Journalism?]]></title>
             <link>http://www.madmath.com/2018/02/is-accepting-math-deficiency-destroying.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2018/02/is-accepting-math-deficiency-destroying.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 19 Feb 2018 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Random number tables]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/random-number-tables/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/random-number-tables/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 19 Feb 2018 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3768,6 +3817,20 @@ let $\omega =...]]></title>
             <guid isPermaLink="false">https://ispeakmath.org/2018/02/18/be-wary-of-teachers-pay-teachers/</guid>
             <dc:creator><![CDATA[I Speak Math]]></dc:creator>
             <pubDate>Sun, 18 Feb 2018 05:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Python’s “map” method and permutations of lists]]></title>
+            <link>http://blog.jpolak.org/?p=1938</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1938</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Sun, 18 Feb 2018 04:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polynomial over finite field: permutation polynomial?]]></title>
+            <link>http://blog.jpolak.org/?p=1937</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1937</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Sun, 18 Feb 2018 03:55:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What makes us different?]]></title>
@@ -4283,6 +4346,13 @@ And...]]></title>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Degrees of some permutation polynomials]]></title>
+            <link>http://blog.jpolak.org/?p=1935</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1935</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Thu, 15 Feb 2018 23:41:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[World Maths Day 2018]]></title>
             <link>https://colleenyoung.wordpress.com/2018/02/15/world-maths-day-2018/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2018/02/15/world-maths-day-2018/</guid>
@@ -4598,6 +4668,13 @@ And...]]></title>
             <pubDate>Wed, 14 Feb 2018 12:58:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[H-cohomology]]></title>
+            <link>https://ncatlab.org/nlab/show/H-cohomology</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/H-cohomology</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 14 Feb 2018 12:49:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[رياضيات الباكالوريا علوم تجريبية : الأعداد العقدية 2 - الجزء الرابع و الأخير]]></title>
             <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/ZTSGwITm9bA/2_49.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/ZTSGwITm9bA/2_49.html</guid>
@@ -4680,6 +4757,13 @@ And...]]></title>
             <guid isPermaLink="false">https://gilkalai.wordpress.com/2018/02/14/monday-february-19-quantum-coding-and-high-dimensional-expanders/</guid>
             <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
             <pubDate>Wed, 14 Feb 2018 08:20:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When is a direct product of projective modules projective?]]></title>
+            <link>http://blog.jpolak.org/?p=1934</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1934</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Wed, 14 Feb 2018 06:27:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The One That I Want]]></title>
@@ -4871,6 +4955,13 @@ And...]]></title>
             <pubDate>Tue, 13 Feb 2018 14:57:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Book Review: Greenwald’s “No Place to Hide”]]></title>
+            <link>http://blog.jpolak.org/?p=1933</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1933</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Tue, 13 Feb 2018 14:53:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unicode, UTF-8… la base de l’encodage]]></title>
             <link>http://freakonometrics.hypotheses.org/52168</link>
             <guid isPermaLink="false">http://freakonometrics.hypotheses.org/52168</guid>
@@ -4932,6 +5023,13 @@ And...]]></title>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-useful-episode-53/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Tue, 13 Feb 2018 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maximum likelihood, moments, and the mean of a Poisson]]></title>
+            <link>http://blog.jpolak.org/?p=1929</link>
+            <guid isPermaLink="false">http://blog.jpolak.org/?p=1929</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Tue, 13 Feb 2018 08:44:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Connectedness of funcoids and reloids – an error corrected]]></title>
@@ -5146,17 +5244,17 @@ https://twitter.com/Lowpolybot/status/57885728510515...]]></title>
             <pubDate>Mon, 12 Feb 2018 10:33:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ontario Elementary Teachers Need Remedial Math]]></title>
-            <link>http://www.madmath.com/2018/02/ontario-elementary-teachers-need.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2018/02/ontario-elementary-teachers-need.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 12 Feb 2018 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Daylight, Durlston Castle, and Where is Hamburg?]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/daylight-durlston-castle-hamburg/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/daylight-durlston-castle-hamburg/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 12 Feb 2018 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ontario Elementary Teachers Need Remedial Math]]></title>
+            <link>http://www.madmath.com/2018/02/ontario-elementary-teachers-need.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2018/02/ontario-elementary-teachers-need.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 12 Feb 2018 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5188,17 +5286,17 @@ https://twitter.com/Lowpolybot/status/57885728510515...]]></title>
             <pubDate>Mon, 12 Feb 2018 01:58:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 12]]></title>
-            <link>http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-12.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-12.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pancake Numbers]]></title>
             <link>http://datagenetics.com/blog/february42018/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february42018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 12]]></title>
+            <link>http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-12.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2018/02/on-this-day-in-math-february-12.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5379,6 +5477,13 @@ GLTCH/CNVRTDIMG+SCRNNN+SPHRINV+CNVRTD2LOFI+GRDNT_2...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/imqNM_OlOck/eschers-weird-house.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Sat, 10 Feb 2018 20:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Ideal Class Groups]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2018/02/10/introduction-ideal-class-groups/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/02/10/introduction-ideal-class-groups/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Sat, 10 Feb 2018 20:33:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photo]]></title>
@@ -5772,14 +5877,14 @@ Luke and I were looking at Hieronymus...]]></title>
             <title><![CDATA[Ten years and eight days]]></title>
             <link>http://aperiodical.com/2018/02/ten-years-and-eight-days/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/02/ten-years-and-eight-days/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 08 Feb 2018 09:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ten years and eight days]]></title>
             <link>http://aperiodical.com/2018/02/ten-years-and-eight-days/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/02/ten-years-and-eight-days/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 08 Feb 2018 09:17:22 GMT</pubDate>
         </item>
         <item>
@@ -6112,13 +6217,6 @@ Luke and I were looking at Hieronymus...]]></title>
             <pubDate>Tue, 06 Feb 2018 16:33:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Binomial Multiplication and Concreteness Fading]]></title>
-            <link>http://www.sineofthetimes.org/binomial-multiplication-and-concreteness-fading-2/</link>
-            <guid isPermaLink="false">http://www.sineofthetimes.org/binomial-multiplication-and-concreteness-fading-2/</guid>
-            <dc:creator><![CDATA[Sine of the Times]]></dc:creator>
-            <pubDate>Tue, 06 Feb 2018 16:23:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Borromean Rings]]></title>
             <link>http://www.math-math.com/2018/02/boromean-rings-heres-nice-piece-of.html</link>
             <guid isPermaLink="false">http://www.math-math.com/2018/02/boromean-rings-heres-nice-piece-of.html</guid>
@@ -6189,17 +6287,17 @@ Luke and I were looking at Hieronymus...]]></title>
             <pubDate>Tue, 06 Feb 2018 03:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hyperbinary numbers and fraction trees]]></title>
-            <link>http://scoskey.org/calkin-wilf</link>
-            <guid isPermaLink="false">http://scoskey.org/calkin-wilf</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Linus Sequence]]></title>
             <link>http://datagenetics.com/blog/february32018/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february32018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hyperbinary numbers and fraction trees]]></title>
+            <link>http://scoskey.org/calkin-wilf</link>
+            <guid isPermaLink="false">http://scoskey.org/calkin-wilf</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6595,6 +6693,13 @@ Luke and I were looking at Hieronymus...]]></title>
             <pubDate>Sat, 03 Feb 2018 18:37:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jim Simons: The Brightest Billionaire]]></title>
+            <link>https://blogs.ams.org/mathgradblog/2018/02/03/incomplete-jim-simons-matters/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/02/03/incomplete-jim-simons-matters/</guid>
+            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
+            <pubDate>Sat, 03 Feb 2018 18:36:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What happened in January?]]></title>
             <link>https://lifethroughamathematicianseyes.wordpress.com/2018/02/03/what-happened-in-january/</link>
             <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/02/03/what-happened-in-january/</guid>
@@ -6868,13 +6973,6 @@ This is what my parents brought back from their trip...]]></title>
             <guid isPermaLink="false">http://justmaths.co.uk/2018/02/02/random-ramblings/</guid>
             <dc:creator><![CDATA[Blog]]></dc:creator>
             <pubDate>Fri, 02 Feb 2018 09:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From the Da Vinci code to Habiro]]></title>
-            <link>http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/mXdKVVfH4Ys/from-the-da-vinci-code-to-habiro</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/neverendingbooks/vrUN/~3/mXdKVVfH4Ys/from-the-da-vinci-code-to-habiro</guid>
-            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
-            <pubDate>Fri, 02 Feb 2018 09:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
