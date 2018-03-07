@@ -15,9 +15,6 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A lovely post by <a href="https://twitter.com/peterrowlett?ref_src=twsrc%5Etfw">@peterrowlett</a> at <a href="https://twitter.com/aperiodical?ref_src=twsrc%5Etfw">@aperiodical</a> on approximate geometric means and Fermi problems. <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/WIJk1oJEmd">https://t.co/WIJk1oJEmd</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/966023345358692352?ref_src=twsrc%5Etfw">February 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Banach-Tarski explained:<a href="https://t.co/LbvgBZQepG">https://t.co/LbvgBZQepG</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/962687722308751360?ref_src=twsrc%5Etfw">February 11, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/ogLk99Odod">https://t.co/ogLk99Odod</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/958282334670901248?ref_src=twsrc%5Etfw">January 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
