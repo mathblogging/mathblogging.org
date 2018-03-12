@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Math whiz Erik Dermaine &amp; origami robots (h/t Earl Samuelson):<a href="https://t.co/s3lqJF4Lu2">https://t.co/s3lqJF4Lu2</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/973313702597406721?ref_src=twsrc%5Etfw">March 12, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">.<a href="https://twitter.com/SheckyR?ref_src=twsrc%5Etfw">@SheckyR</a> interviews <a href="https://twitter.com/DrDilts?ref_src=twsrc%5Etfw">@DrDilts</a> from the blog &quot;Infinity Plus One&quot;<a href="https://t.co/o1sY07nl9g">https://t.co/o1sY07nl9g</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/972977760305065984?ref_src=twsrc%5Etfw">March 11, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
