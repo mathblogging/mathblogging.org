@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I love this! DEDUCING THE “MYSTERY” FRACTION <a href="https://t.co/DAVsr1Sw4V">https://t.co/DAVsr1Sw4V</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/974134561905852416?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Math whiz Erik Dermaine &amp; origami robots (h/t Earl Samuelson):<a href="https://t.co/s3lqJF4Lu2">https://t.co/s3lqJF4Lu2</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/973313702597406721?ref_src=twsrc%5Etfw">March 12, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
