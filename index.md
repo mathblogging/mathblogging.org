@@ -54,9 +54,6 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Public Service Announcement from <a href="https://twitter.com/rmathematicus?ref_src=twsrc%5Etfw">@rmathematicus</a>: stop quoting Albert on Emmy <a href="https://t.co/3zx9FFenDq">https://t.co/3zx9FFenDq</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/921420657426141186?ref_src=twsrc%5Etfw">October 20, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;The Sound of Proof&quot; is great on so many levels! Try it out!  <a href="https://t.co/OfEfj2GmIb">https://t.co/OfEfj2GmIb</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/917387815486410757?ref_src=twsrc%5Etfw">October 9, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Excellent blog post by <a href="https://twitter.com/thewordninja_bk?ref_src=twsrc%5Etfw">@thewordninja_bk</a>:  A Case for Teaching Inquiry <a href="https://t.co/YBqSxzXZrr">https://t.co/YBqSxzXZrr</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/835286115217096705?ref_src=twsrc%5Etfw">February 25, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
