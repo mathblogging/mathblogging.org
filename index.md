@@ -3,6 +3,12 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/rmathematicus?ref_src=twsrc%5Etfw">@rmathematicus</a> takes apart a BBC documentary full of BS about math and madness <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a>  <a href="https://t.co/b1NI8P9sU5">https://t.co/b1NI8P9sU5</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/979121177825304578?ref_src=twsrc%5Etfw">March 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> RT <a href="https://twitter.com/AlgebraFact?ref_src=twsrc%5Etfw">@AlgebraFact</a><br>Every positive integer can be written as the sum of three palindromes.<a href="https://t.co/f3eeQLEw1S">https://t.co/f3eeQLEw1S</a> …</p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/978302797379723264?ref_src=twsrc%5Etfw">March 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Erica Klarreich interviews one of the authors of “Proofs From THE BOOK”<br>  (NO, not God, Günter Ziegler):<a href="https://t.co/3Nvzduv01i">https://t.co/3Nvzduv01i</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/975777202271932417?ref_src=twsrc%5Etfw">March 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -15,19 +21,10 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I love this! DEDUCING THE “MYSTERY” FRACTION <a href="https://t.co/DAVsr1Sw4V">https://t.co/DAVsr1Sw4V</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/974134561905852416?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Math whiz Erik Dermaine &amp; origami robots (h/t Earl Samuelson):<a href="https://t.co/s3lqJF4Lu2">https://t.co/s3lqJF4Lu2</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/973313702597406721?ref_src=twsrc%5Etfw">March 12, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">.<a href="https://twitter.com/SheckyR?ref_src=twsrc%5Etfw">@SheckyR</a> interviews <a href="https://twitter.com/DrDilts?ref_src=twsrc%5Etfw">@DrDilts</a> from the blog &quot;Infinity Plus One&quot;<a href="https://t.co/o1sY07nl9g">https://t.co/o1sY07nl9g</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/972977760305065984?ref_src=twsrc%5Etfw">March 11, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The Best Question To Always Ask When Learning Mathematics from Manan Shah <a href="https://t.co/Vhl9XkKIWk">https://t.co/Vhl9XkKIWk</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/972530878709604352?ref_src=twsrc%5Etfw">March 10, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Anthony Bonato on fighting boredom in math <a href="https://twitter.com/hashtag/education?src=hash&amp;ref_src=twsrc%5Etfw">#education</a>:<a href="https://t.co/klCLHLueRH">https://t.co/klCLHLueRH</a><br>   <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/971369960135118850?ref_src=twsrc%5Etfw">March 7, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">For teachers, a lot of ideas offered by &quot;Math = Love&quot;:<a href="https://t.co/AhwYgkyV1p">https://t.co/AhwYgkyV1p</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/968135854463111168?ref_src=twsrc%5Etfw">February 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A fascinating piece by Michael Barany on the early days of the Fields Medal <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a>  <a href="https://t.co/90qxQX6VRl">https://t.co/90qxQX6VRl</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/966335918251626499?ref_src=twsrc%5Etfw">February 21, 2018</a></blockquote>
@@ -52,9 +49,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Lovely little introduction to Catalan numbers from Audace Dossou-Olory at the <a href="https://twitter.com/aperiodical?ref_src=twsrc%5Etfw">@aperiodical</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/uy1LIGGGSG">https://t.co/uy1LIGGGSG</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/925855169971195905?ref_src=twsrc%5Etfw">November 1, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Public Service Announcement from <a href="https://twitter.com/rmathematicus?ref_src=twsrc%5Etfw">@rmathematicus</a>: stop quoting Albert on Emmy <a href="https://t.co/3zx9FFenDq">https://t.co/3zx9FFenDq</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/921420657426141186?ref_src=twsrc%5Etfw">October 20, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Excellent blog post by <a href="https://twitter.com/thewordninja_bk?ref_src=twsrc%5Etfw">@thewordninja_bk</a>:  A Case for Teaching Inquiry <a href="https://t.co/YBqSxzXZrr">https://t.co/YBqSxzXZrr</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/835286115217096705?ref_src=twsrc%5Etfw">February 25, 2017</a></blockquote>
