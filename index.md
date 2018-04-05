@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Love is hard. Math is easy. <a href="https://t.co/yFmvjqDpJE">https://t.co/yFmvjqDpJE</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/981946181805785088?ref_src=twsrc%5Etfw">April 5, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/rmathematicus?ref_src=twsrc%5Etfw">@rmathematicus</a> takes apart a BBC documentary full of BS about math and madness <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a>  <a href="https://t.co/b1NI8P9sU5">https://t.co/b1NI8P9sU5</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/979121177825304578?ref_src=twsrc%5Etfw">March 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
