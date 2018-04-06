@@ -15,9 +15,6 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Erica Klarreich interviews one of the authors of “Proofs From THE BOOK”<br>  (NO, not God, Günter Ziegler):<a href="https://t.co/3Nvzduv01i">https://t.co/3Nvzduv01i</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/975777202271932417?ref_src=twsrc%5Etfw">March 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Quirky take on an old recreational problem, from Rob Eastaway:<a href="https://t.co/cxncKOoLSy">https://t.co/cxncKOoLSy</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/974257676636114944?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Bussed out: How America moves its homeless <a href="https://t.co/ktJYOts219">https://t.co/ktJYOts219</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/974139246108819456?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
