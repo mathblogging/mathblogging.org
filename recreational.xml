@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Apr 2018 18:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Apr 2018 19:22:36 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Apr 2018 18:22:23 GMT</pubDate>
+        <pubDate>Sun, 15 Apr 2018 19:22:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[the gaussian method in practice]]></title>
+            <link>https://www.bookofproofs.org/branches/the-gaussian-method-in-practice/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/the-gaussian-method-in-practice/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 15 Apr 2018 18:37:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Generable:  They’re building software for pharma, with Stan inside.]]></title>
             <link>http://andrewgelman.com/2018/04/15/generable-theyre-building-software-pharma-stan-inside/</link>
@@ -50,13 +57,6 @@
             <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/madd-digest-2/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Sun, 15 Apr 2018 15:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[coefficient matrix]]></title>
-            <link>https://www.bookofproofs.org/branches/coefficient-matrix/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/coefficient-matrix/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 15 Apr 2018 15:35:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[elementary gaussian operations]]></title>
@@ -150,13 +150,6 @@
             <pubDate>Sun, 15 Apr 2018 13:43:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[real line and circle with one point remove is homeomorphic]]></title>
-            <link>https://ncatlab.org/nlab/show/real+line+and+circle+with+one+point+remove+is+homeomorphic</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/real+line+and+circle+with+one+point+remove+is+homeomorphic</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 15 Apr 2018 13:37:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4/15/18]]></title>
             <link>http://purenumbers.tumblr.com/post/172957089394</link>
             <guid isPermaLink="false">http://purenumbers.tumblr.com/post/172957089394</guid>
@@ -185,17 +178,17 @@
             <pubDate>Sun, 15 Apr 2018 11:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tree at Dusk]]></title>
-            <link>http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Experiencing Pleasure... Music and Math]]></title>
             <link>https://math-frolic.blogspot.com/2018/04/experiencing-pleasure-music-and-math.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/04/experiencing-pleasure-music-and-math.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tree at Dusk]]></title>
+            <link>http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3305,14 +3298,14 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <title><![CDATA[πkm run challenge – completed]]></title>
             <link>http://aperiodical.com/2018/04/%25cf%2580km-run-challenge-completed/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/04/%cf%80km-run-challenge-completed/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 04 Apr 2018 10:59:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[πkm run challenge – completed]]></title>
             <link>http://aperiodical.com/2018/04/%25cf%2580km-run-challenge-completed/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/04/%cf%80km-run-challenge-completed/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 04 Apr 2018 10:59:07 GMT</pubDate>
         </item>
         <item>
@@ -3365,17 +3358,17 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <pubDate>Wed, 04 Apr 2018 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ceci n'est pas une géodésique !]]></title>
-            <link>http://images.math.cnrs.fr/Ceci-n-est-pas-une-geodesique.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Ceci-n-est-pas-une-geodesique.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 04 Apr 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paris Machine Learning Meetup Newsletter, Avril 2018: “Be the change you wish to see in the world” [In French]]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/_g0sH7tZOV8/paris-machine-learning-meetup.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/_g0sH7tZOV8/paris-machine-learning-meetup.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 04 Apr 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ceci n'est pas une géodésique !]]></title>
+            <link>http://images.math.cnrs.fr/Ceci-n-est-pas-une-geodesique.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Ceci-n-est-pas-une-geodesique.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 04 Apr 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3589,17 +3582,17 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <pubDate>Tue, 03 Apr 2018 12:20:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7e concours : Découvrez l'identité des participants]]></title>
-            <link>http://images.math.cnrs.fr/7e-concours-Decouvrez-l-identite-des-participants.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/7e-concours-Decouvrez-l-identite-des-participants.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 03 Apr 2018 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In other words, stop whining about the goddamn participation trophies]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/04/in-other-words-stop-whining-about.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/04/in-other-words-stop-whining-about.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 03 Apr 2018 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7e concours : Découvrez l'identité des participants]]></title>
+            <link>http://images.math.cnrs.fr/7e-concours-Decouvrez-l-identite-des-participants.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/7e-concours-Decouvrez-l-identite-des-participants.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 03 Apr 2018 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4177,17 +4170,17 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <pubDate>Sat, 31 Mar 2018 19:06:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Few of My Favorite Spaces: The Pseudo-Rhombicuboctahedron]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/5s8lVc7Cnbs/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/5s8lVc7Cnbs/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Sat, 31 Mar 2018 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Linkage]]></title>
             <link>https://11011110.github.io/blog/2018/03/31/linkage.html</link>
             <guid isPermaLink="false">https://11011110.github.io/blog/2018/03/31/linkage.html</guid>
             <dc:creator><![CDATA[11011110]]></dc:creator>
+            <pubDate>Sat, 31 Mar 2018 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Few of My Favorite Spaces: The Pseudo-Rhombicuboctahedron]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/5s8lVc7Cnbs/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/5s8lVc7Cnbs/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Sat, 31 Mar 2018 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5409,17 +5402,17 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <pubDate>Sun, 25 Mar 2018 11:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Improvising... Music and Math]]></title>
-            <link>https://math-frolic.blogspot.com/2018/03/improvising-music-and-math.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/03/improvising-music-and-math.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 25 Mar 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Udaipur Boat]]></title>
             <link>http://mathtourist.blogspot.com/2018/03/udaipur-boat.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/03/udaipur-boat.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 25 Mar 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Improvising... Music and Math]]></title>
+            <link>https://math-frolic.blogspot.com/2018/03/improvising-music-and-math.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/03/improvising-music-and-math.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 25 Mar 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5846,14 +5839,14 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <title><![CDATA[πkm running challenge: 21-day round up]]></title>
             <link>http://aperiodical.com/2018/03/pikm-running-challenge-21-day-round-up/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/03/pikm-running-challenge-21-day-round-up/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 22 Mar 2018 17:00:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[πkm running challenge: 21-day round up]]></title>
             <link>http://aperiodical.com/2018/03/pikm-running-challenge-21-day-round-up/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/03/pikm-running-challenge-21-day-round-up/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 22 Mar 2018 17:00:24 GMT</pubDate>
         </item>
         <item>
@@ -6821,13 +6814,6 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <guid isPermaLink="false">http://www.resourceaholic.com/2018/03/gems85.html</guid>
             <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
             <pubDate>Fri, 16 Mar 2018 22:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Communicating Mathematics to a Broader Audience]]></title>
-            <link>https://blogs.ams.org/mathgradblog/2018/03/16/communicating-mathematics-broader-audience/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/03/16/communicating-mathematics-broader-audience/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Fri, 16 Mar 2018 20:23:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On Natural Analogarithms - student]]></title>
