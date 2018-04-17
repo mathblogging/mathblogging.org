@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> ... Jim Propp shuffles together a number of ideas in a new posting on numbers:<a href="https://t.co/3mWrxQhHA9">https://t.co/3mWrxQhHA9</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/986210179845971971?ref_src=twsrc%5Etfw">April 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Teach trig and want a maximizing area problem? <a href="https://t.co/edZFX6rmfB">https://t.co/edZFX6rmfB</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/982682987924832257?ref_src=twsrc%5Etfw">April 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
