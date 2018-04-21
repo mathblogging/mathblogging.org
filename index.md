@@ -24,9 +24,6 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I love this! DEDUCING THE “MYSTERY” FRACTION <a href="https://t.co/DAVsr1Sw4V">https://t.co/DAVsr1Sw4V</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/974134561905852416?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">.<a href="https://twitter.com/SheckyR?ref_src=twsrc%5Etfw">@SheckyR</a> interviews <a href="https://twitter.com/DrDilts?ref_src=twsrc%5Etfw">@DrDilts</a> from the blog &quot;Infinity Plus One&quot;<a href="https://t.co/o1sY07nl9g">https://t.co/o1sY07nl9g</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/972977760305065984?ref_src=twsrc%5Etfw">March 11, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The Best Question To Always Ask When Learning Mathematics from Manan Shah <a href="https://t.co/Vhl9XkKIWk">https://t.co/Vhl9XkKIWk</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/972530878709604352?ref_src=twsrc%5Etfw">March 10, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
