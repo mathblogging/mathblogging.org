@@ -4,22 +4,29 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Apr 2018 06:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Apr 2018 07:22:34 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Apr 2018 06:24:15 GMT</pubDate>
+        <pubDate>Sun, 22 Apr 2018 07:22:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[equivalence of two descriptions of a straight line using a point and a vector]]></title>
-            <link>https://www.bookofproofs.org/branches/equivalence-of-two-descriptions-of-a-straight-line-using-a-point-and-a-vector/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/equivalence-of-two-descriptions-of-a-straight-line-using-a-point-and-a-vector/</guid>
+            <title><![CDATA[equivalence of two descriptions of a straight line using a point and a vector proof]]></title>
+            <link>https://www.bookofproofs.org/branches/equivalence-of-two-descriptions-of-a-straight-line-using-a-point-and-a-vector/proof/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/equivalence-of-two-descriptions-of-a-straight-line-using-a-point-and-a-vector/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 22 Apr 2018 06:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[equivalence of different descriptions of a straight line using two vectors]]></title>
+            <link>https://www.bookofproofs.org/branches/equivalence-of-different-descriptions-of-a-straight-line-using-two-vectors/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/equivalence-of-different-descriptions-of-a-straight-line-using-two-vectors/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Sun, 22 Apr 2018 05:50:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[describing a straight line using a point and a vector]]></title>
-            <link>https://www.bookofproofs.org/branches/describing-a-straight-line-using-a-point-and-a-vector/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/describing-a-straight-line-using-a-point-and-a-vector/</guid>
+            <title><![CDATA[describing a straight line using two vectors]]></title>
+            <link>https://www.bookofproofs.org/branches/describing-a-straight-line-using-two-vectors/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/describing-a-straight-line-using-two-vectors/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Sun, 22 Apr 2018 05:48:17 GMT</pubDate>
         </item>
@@ -64,13 +71,6 @@
             <guid isPermaLink="false">http://mathandliterature.blogspot.com/2018/04/blog-post_22.html</guid>
             <dc:creator><![CDATA[Μαθηματικά + Λογοτεχνία]]></dc:creator>
             <pubDate>Sat, 21 Apr 2018 21:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[crossed G-set]]></title>
-            <link>https://ncatlab.org/nlab/show/crossed+G-set</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/crossed+G-set</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 21 Apr 2018 17:59:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algebra 2 Problems of the Day]]></title>
@@ -272,20 +272,6 @@ Simulation...]]></title>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2018/04/20/domaine-morties/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Fri, 20 Apr 2018 18:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[call-by-push-value]]></title>
-            <link>https://ncatlab.org/nlab/show/call-by-push-value</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/call-by-push-value</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 20 Apr 2018 18:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[linear-non-linear logic]]></title>
-            <link>https://ncatlab.org/nlab/show/linear-non-linear+logic+</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/linear-non-linear+logic+</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 20 Apr 2018 18:00:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Counting is Not Always Easy]]></title>
@@ -1802,13 +1788,6 @@ and will bring to nothing the..."]]></title>
             <pubDate>Sun, 15 Apr 2018 15:29:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[solution to a degenerated diagonal sle]]></title>
-            <link>https://www.bookofproofs.org/branches/solution-to-a-degenerated-diagonal-sle/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/solution-to-a-degenerated-diagonal-sle/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 15 Apr 2018 15:27:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[solution to an upper triangular sle backward substitution]]></title>
             <link>https://www.bookofproofs.org/branches/solution-to-an-upper-triangular-sle-backward-substitution/</link>
             <guid isPermaLink="false">https://www.bookofproofs.org/branches/solution-to-an-upper-triangular-sle-backward-substitution/</guid>
@@ -1886,17 +1865,17 @@ and will bring to nothing the..."]]></title>
             <pubDate>Sun, 15 Apr 2018 11:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Experiencing Pleasure... Music and Math]]></title>
-            <link>https://math-frolic.blogspot.com/2018/04/experiencing-pleasure-music-and-math.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/04/experiencing-pleasure-music-and-math.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tree at Dusk]]></title>
             <link>http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Experiencing Pleasure... Music and Math]]></title>
+            <link>https://math-frolic.blogspot.com/2018/04/experiencing-pleasure-music-and-math.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/04/experiencing-pleasure-music-and-math.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2929,17 +2908,17 @@ and will bring to nothing the..."]]></title>
             <pubDate>Wed, 11 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mondrian Wall]]></title>
-            <link>http://mathtourist.blogspot.com/2018/04/mondrian-wall.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/mondrian-wall.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 11 Apr 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Birthday Boys]]></title>
             <link>https://math-frolic.blogspot.com/2018/04/birthday-boys.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/04/birthday-boys.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Wed, 11 Apr 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mondrian Wall]]></title>
+            <link>http://mathtourist.blogspot.com/2018/04/mondrian-wall.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/mondrian-wall.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 11 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5234,17 +5213,17 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <pubDate>Mon, 02 Apr 2018 11:00:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[S9.335b - Art Aside Easter 2018]]></title>
-            <link>https://mathtans.blogspot.com/2018/04/s9335b-art-aside-easter-2018.html</link>
-            <guid isPermaLink="false">https://mathtans.blogspot.com/2018/04/s9335b-art-aside-easter-2018.html</guid>
-            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
-            <pubDate>Mon, 02 Apr 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tile Work]]></title>
             <link>http://mathtourist.blogspot.com/2018/04/tile-work.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/tile-work.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 02 Apr 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S9.335b - Art Aside Easter 2018]]></title>
+            <link>https://mathtans.blogspot.com/2018/04/s9335b-art-aside-easter-2018.html</link>
+            <guid isPermaLink="false">https://mathtans.blogspot.com/2018/04/s9335b-art-aside-easter-2018.html</guid>
+            <dc:creator><![CDATA[ANY ~Qs]]></dc:creator>
             <pubDate>Mon, 02 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7052,20 +7031,6 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/object-finite-volume-infinite-surface-area-11428</guid>
             <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
             <pubDate>Thu, 22 Mar 2018 08:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In between G-delta diagonal and submetrizable]]></title>
-            <link>https://dantopology.wordpress.com/2018/03/21/in-between-g-delta-diagonal-and-submetrizable/</link>
-            <guid isPermaLink="false">https://dantopology.wordpress.com/2018/03/21/in-between-g-delta-diagonal-and-submetrizable/</guid>
-            <dc:creator><![CDATA[Dan Ma's Topology Blog]]></dc:creator>
-            <pubDate>Thu, 22 Mar 2018 07:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The perimeter of a squashed square drops linearly with how much...]]></title>
-            <link>http://feedproxy.google.com/~r/matthen/~3/zMsm-xfxpsg/172128282461</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/matthen/~3/zMsm-xfxpsg/172128282461</guid>
-            <dc:creator><![CDATA[blog.matthen.com]]></dc:creator>
-            <pubDate>Thu, 22 Mar 2018 06:22:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
