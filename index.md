@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Cute. &quot;IDEA&quot; IKEA-inspired SVGs visualizing Fleury’s algorithm for finding an Eulerian path in a graph <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/MaL63pF3uh">https://t.co/MaL63pF3uh</a> (and more at the domain)</p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/988413821076344832?ref_src=twsrc%5Etfw">April 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> ... Jim Propp shuffles together a number of ideas in a new posting on numbers:<a href="https://t.co/3mWrxQhHA9">https://t.co/3mWrxQhHA9</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/986210179845971971?ref_src=twsrc%5Etfw">April 17, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
