@@ -21,9 +21,6 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/rmathematicus?ref_src=twsrc%5Etfw">@rmathematicus</a> takes apart a BBC documentary full of BS about math and madness <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a>  <a href="https://t.co/b1NI8P9sU5">https://t.co/b1NI8P9sU5</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/979121177825304578?ref_src=twsrc%5Etfw">March 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> RT <a href="https://twitter.com/AlgebraFact?ref_src=twsrc%5Etfw">@AlgebraFact</a><br>Every positive integer can be written as the sum of three palindromes.<a href="https://t.co/f3eeQLEw1S">https://t.co/f3eeQLEw1S</a> …</p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/978302797379723264?ref_src=twsrc%5Etfw">March 26, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Bussed out: How America moves its homeless <a href="https://t.co/ktJYOts219">https://t.co/ktJYOts219</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/974139246108819456?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
