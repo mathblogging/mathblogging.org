@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 May 2018 11:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 May 2018 12:23:19 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 May 2018 11:23:17 GMT</pubDate>
+        <pubDate>Thu, 03 May 2018 12:23:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Broader Impacts Redefined]]></title>
+            <link>https://blog.computationalcomplexity.org/2018/05/broader-impacts-redefined.html</link>
+            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2018/05/broader-impacts-redefined.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 03 May 2018 11:12:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Approaching Mono Lake]]></title>
             <link>http://mathtourist.blogspot.com/2018/05/approaching-mono-lake.html</link>
@@ -22,13 +29,6 @@
             <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/05/03/talking-about-medians/</guid>
             <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
             <pubDate>Thu, 03 May 2018 10:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seminar at Università degli studi dell’Insubria]]></title>
-            <link>https://freakonometrics.hypotheses.org/52585</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/52585</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Thu, 03 May 2018 10:39:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ΔΖ ;;]]></title>
@@ -342,6 +342,13 @@ Complex analysis...]]></title>
             <guid isPermaLink="false">http://maddmaths.simai.eu/didattica/manifesto/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Wed, 02 May 2018 09:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[duality between M-theory on Z2-orbifolds and type IIB string theory on K3-fibrations]]></title>
+            <link>https://ncatlab.org/nlab/show/duality+between+M-theory+on+Z2-orbifolds+and+type+IIB+string+theory+on+K3-fibrations</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/duality+between+M-theory+on+Z2-orbifolds+and+type+IIB+string+theory+on+K3-fibrations</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 02 May 2018 09:08:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ask Uncle Colin: Auxiliary Equations With Repeated Roots]]></title>
@@ -967,17 +974,17 @@ Complex analysis...]]></title>
             <pubDate>Mon, 30 Apr 2018 09:02:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.9.14]]></title>
-            <link>http://images.math.cnrs.fr/-4483.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4483.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 30 Apr 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Eigenvalues]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/eigenvalues/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/eigenvalues/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 30 Apr 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.9.14]]></title>
+            <link>http://images.math.cnrs.fr/-4483.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4483.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 30 Apr 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2584,17 +2591,17 @@ Complex analysis...]]></title>
             <pubDate>Mon, 23 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.9.13]]></title>
-            <link>http://images.math.cnrs.fr/-4482.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4482.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 23 Apr 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Involution of Polynomials]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/the-involution-of-polynomials/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-involution-of-polynomials/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 23 Apr 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.9.13]]></title>
+            <link>http://images.math.cnrs.fr/-4482.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4482.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 23 Apr 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3205,17 +3212,17 @@ Simulation...]]></title>
             <pubDate>Fri, 20 Apr 2018 11:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Balcony Array]]></title>
-            <link>http://mathtourist.blogspot.com/2018/04/balcony-array.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/balcony-array.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 20 Apr 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math and Understanding]]></title>
             <link>https://math-frolic.blogspot.com/2018/04/math-and-understanding.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/04/math-and-understanding.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Fri, 20 Apr 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balcony Array]]></title>
+            <link>http://mathtourist.blogspot.com/2018/04/balcony-array.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/balcony-array.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 20 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4192,17 +4199,17 @@ Simulation...]]></title>
             <pubDate>Mon, 16 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Evolution of Polynomials]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/the-evolution-of-polynomials/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-evolution-of-polynomials/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 16 Apr 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.9.12]]></title>
             <link>http://images.math.cnrs.fr/4-9-12.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-12.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 16 Apr 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Evolution of Polynomials]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/the-evolution-of-polynomials/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-evolution-of-polynomials/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 16 Apr 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4446,17 +4453,17 @@ and will bring to nothing the..."]]></title>
             <pubDate>Sun, 15 Apr 2018 11:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tree at Dusk]]></title>
-            <link>http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Experiencing Pleasure... Music and Math]]></title>
             <link>https://math-frolic.blogspot.com/2018/04/experiencing-pleasure-music-and-math.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/04/experiencing-pleasure-music-and-math.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tree at Dusk]]></title>
+            <link>http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/tree-at-dusk.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5401,14 +5408,14 @@ and will bring to nothing the..."]]></title>
             <title><![CDATA[Review – A Mind At Play: How Claude Shannon Invented the Information Age, by Jimmy Soni and Rob Goodman]]></title>
             <link>http://aperiodical.com/2018/04/review-a-mind-at-play-how-claude-shannon-invented-the-information-age-by-jimmy-soni-and-rob-goodman/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/04/review-a-mind-at-play-how-claude-shannon-invented-the-information-age-by-jimmy-soni-and-rob-goodman/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 11 Apr 2018 10:00:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Review – A Mind At Play: How Claude Shannon Invented the Information Age, by Jimmy Soni and Rob Goodman]]></title>
             <link>http://aperiodical.com/2018/04/review-a-mind-at-play-how-claude-shannon-invented-the-information-age-by-jimmy-soni-and-rob-goodman/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/04/review-a-mind-at-play-how-claude-shannon-invented-the-information-age-by-jimmy-soni-and-rob-goodman/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 11 Apr 2018 10:00:42 GMT</pubDate>
         </item>
         <item>
@@ -5468,17 +5475,17 @@ and will bring to nothing the..."]]></title>
             <pubDate>Wed, 11 Apr 2018 05:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poesie d’amore per matematici]]></title>
-            <link>http://keespopinga.blogspot.com/2018/04/poesie-damore-per-matematici.html</link>
-            <guid isPermaLink="false">http://keespopinga.blogspot.com/2018/04/poesie-damore-per-matematici.html</guid>
-            <dc:creator><![CDATA[Popinga]]></dc:creator>
-            <pubDate>Wed, 11 Apr 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paris Machine Learning #8 Season 5, Chat with Self Driving Cars Engineers at Voyage, Funding AI at Zeroth, NVIDIA GTC, Quality inspection at Scortex and Low Rank Matrices]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/RjeZxMqi-FY/paris-machine-learning-8-season-5-chat.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/RjeZxMqi-FY/paris-machine-learning-8-season-5-chat.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 11 Apr 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poesie d’amore per matematici]]></title>
+            <link>http://keespopinga.blogspot.com/2018/04/poesie-damore-per-matematici.html</link>
+            <guid isPermaLink="false">http://keespopinga.blogspot.com/2018/04/poesie-damore-per-matematici.html</guid>
+            <dc:creator><![CDATA[Popinga]]></dc:creator>
             <pubDate>Wed, 11 Apr 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6845,14 +6852,14 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <title><![CDATA[πkm run challenge – completed]]></title>
             <link>http://aperiodical.com/2018/04/%25cf%2580km-run-challenge-completed/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/04/%cf%80km-run-challenge-completed/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 04 Apr 2018 10:59:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[πkm run challenge – completed]]></title>
             <link>http://aperiodical.com/2018/04/%25cf%2580km-run-challenge-completed/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/04/%cf%80km-run-challenge-completed/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 04 Apr 2018 10:59:07 GMT</pubDate>
         </item>
         <item>
@@ -7246,20 +7253,6 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <guid isPermaLink="false">http://andrewgelman.com/2018/04/02/ones-important-better-analyze-cancer-drug-trials-using-multilevel-models/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Mon, 02 Apr 2018 13:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eating Our Own Cooking: What I’ve Actually Used or Shared]]></title>
-            <link>https://blogs.ams.org/matheducation/2018/04/02/eating-our-own-cooking-what-ive-actually-used-or-shared/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/matheducation/2018/04/02/eating-our-own-cooking-what-ive-actually-used-or-shared/</guid>
-            <dc:creator><![CDATA[On Teaching and Learning Mathematics]]></dc:creator>
-            <pubDate>Mon, 02 Apr 2018 12:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Econometrics, Machine Learning, and Big Data]]></title>
-            <link>https://fxdiebold.blogspot.com/2018/04/econometrics-machine-learning-and-big.html</link>
-            <guid isPermaLink="false">https://fxdiebold.blogspot.com/2018/04/econometrics-machine-learning-and-big.html</guid>
-            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
-            <pubDate>Mon, 02 Apr 2018 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
