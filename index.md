@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> ... RT <a href="https://twitter.com/fcain?ref_src=twsrc%5Etfw">@fcain</a>: Looking in the Wrong Places, a conversation with Sabine Hossenfelder <a href="https://twitter.com/skdh?ref_src=twsrc%5Etfw">@skdh</a> - <a href="https://t.co/KfYtJ1NIMA">https://t.co/KfYtJ1NIMA</a> <a href="https://t.co/x4XX5lr1nM">pic.twitter.com/x4XX5lr1nM</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/992373344040349697?ref_src=twsrc%5Etfw">May 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Gary Davis&#39;s &quot;Advice to Freshman Mathematics Majors&quot;:<a href="https://t.co/Q0WrfuBEx4">https://t.co/Q0WrfuBEx4</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/988820572086898688?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
