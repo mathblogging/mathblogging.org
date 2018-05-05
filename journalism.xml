@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 May 2018 17:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 18:22:32 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 May 2018 17:23:25 GMT</pubDate>
+        <pubDate>Sat, 05 May 2018 18:22:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[A New Proof Of An Ancient Result]]></title>
+            <link>https://rjlipton.wordpress.com/2018/05/05/a-new-proof-of-an-ancient-result/</link>
+            <guid isPermaLink="false">https://rjlipton.wordpress.com/2018/05/05/a-new-proof-of-an-ancient-result/</guid>
+            <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
+            <pubDate>Sat, 05 May 2018 17:56:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test di Matematica. Algebra 2. Batteria 1]]></title>
             <link>https://www.angelostella.it/test/test-di-matematica-algebra-2-batteria-1/</link>
@@ -1331,17 +1338,17 @@ Complex analysis...]]></title>
             <pubDate>Tue, 01 May 2018 00:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The 3-adic integers, with selected corresponding characters on...]]></title>
-            <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/ZKES60JBaBE/173464534504</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/ZKES60JBaBE/173464534504</guid>
-            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
-            <pubDate>Tue, 01 May 2018 00:00:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[curiosamathematica:Math Love by CuteReaper.]]></title>
             <link>http://themathkid.tumblr.com/post/173464534440</link>
             <guid isPermaLink="false">http://themathkid.tumblr.com/post/173464534440</guid>
             <dc:creator><![CDATA[The Math Kid]]></dc:creator>
+            <pubDate>Tue, 01 May 2018 00:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 3-adic integers, with selected corresponding characters on...]]></title>
+            <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/ZKES60JBaBE/173464534504</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/ZKES60JBaBE/173464534504</guid>
+            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Tue, 01 May 2018 00:00:25 GMT</pubDate>
         </item>
         <item>
@@ -1590,17 +1597,17 @@ Complex analysis...]]></title>
             <pubDate>Mon, 30 Apr 2018 09:02:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.9.14]]></title>
-            <link>http://images.math.cnrs.fr/-4483.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4483.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 30 Apr 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Eigenvalues]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/eigenvalues/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/eigenvalues/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 30 Apr 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.9.14]]></title>
+            <link>http://images.math.cnrs.fr/-4483.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4483.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 30 Apr 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3144,13 +3151,6 @@ Complex analysis...]]></title>
             <pubDate>Mon, 23 Apr 2018 11:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Giant Rock]]></title>
-            <link>http://mathtourist.blogspot.com/2018/04/giant-rock.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/giant-rock.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 23 Apr 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[S9.336 - Compose Yourself]]></title>
             <link>https://mathtans.blogspot.com/2018/04/s9336-compose-yourself.html</link>
             <guid isPermaLink="false">https://mathtans.blogspot.com/2018/04/s9336-compose-yourself.html</guid>
@@ -3158,17 +3158,24 @@ Complex analysis...]]></title>
             <pubDate>Mon, 23 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.9.13]]></title>
-            <link>http://images.math.cnrs.fr/-4482.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4482.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 23 Apr 2018 09:00:00 GMT</pubDate>
+            <title><![CDATA[Giant Rock]]></title>
+            <link>http://mathtourist.blogspot.com/2018/04/giant-rock.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/giant-rock.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 23 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Involution of Polynomials]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/the-involution-of-polynomials/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-involution-of-polynomials/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 23 Apr 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.9.13]]></title>
+            <link>http://images.math.cnrs.fr/-4482.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4482.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 23 Apr 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3779,17 +3786,17 @@ Simulation...]]></title>
             <pubDate>Fri, 20 Apr 2018 11:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Balcony Array]]></title>
-            <link>http://mathtourist.blogspot.com/2018/04/balcony-array.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/balcony-array.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 20 Apr 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math and Understanding]]></title>
             <link>https://math-frolic.blogspot.com/2018/04/math-and-understanding.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/04/math-and-understanding.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Fri, 20 Apr 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balcony Array]]></title>
+            <link>http://mathtourist.blogspot.com/2018/04/balcony-array.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/04/balcony-array.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 20 Apr 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5937,17 +5944,17 @@ and will bring to nothing the..."]]></title>
             <pubDate>Wed, 11 Apr 2018 05:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paris Machine Learning #8 Season 5, Chat with Self Driving Cars Engineers at Voyage, Funding AI at Zeroth, NVIDIA GTC, Quality inspection at Scortex and Low Rank Matrices]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/RjeZxMqi-FY/paris-machine-learning-8-season-5-chat.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/RjeZxMqi-FY/paris-machine-learning-8-season-5-chat.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 11 Apr 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Poesie d’amore per matematici]]></title>
             <link>http://keespopinga.blogspot.com/2018/04/poesie-damore-per-matematici.html</link>
             <guid isPermaLink="false">http://keespopinga.blogspot.com/2018/04/poesie-damore-per-matematici.html</guid>
             <dc:creator><![CDATA[Popinga]]></dc:creator>
+            <pubDate>Wed, 11 Apr 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris Machine Learning #8 Season 5, Chat with Self Driving Cars Engineers at Voyage, Funding AI at Zeroth, NVIDIA GTC, Quality inspection at Scortex and Low Rank Matrices]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/RjeZxMqi-FY/paris-machine-learning-8-season-5-chat.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/RjeZxMqi-FY/paris-machine-learning-8-season-5-chat.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 11 Apr 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7190,20 +7197,6 @@ Figure 2 from ‘Application of Gene Shaving...]]></title>
             <guid isPermaLink="false">https://scaffoldedmath.blogspot.com/2018/04/graphing-vertex-form-quadratics.html</guid>
             <dc:creator><![CDATA[Scaffolded Math and Science]]></dc:creator>
             <pubDate>Wed, 04 Apr 2018 20:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UBROC]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/H8_byz5ZlOU/ubroc.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/H8_byz5ZlOU/ubroc.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Wed, 04 Apr 2018 18:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Galileo wrong yet again]]></title>
-            <link>https://thonyc.wordpress.com/2018/04/04/getting-galileo-wrong-yet-again/</link>
-            <guid isPermaLink="false">https://thonyc.wordpress.com/2018/04/04/getting-galileo-wrong-yet-again/</guid>
-            <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
-            <pubDate>Wed, 04 Apr 2018 17:21:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
