@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 May 2018 00:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 May 2018 01:23:17 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 May 2018 00:23:17 GMT</pubDate>
+        <pubDate>Tue, 22 May 2018 01:23:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -101,6 +101,13 @@
             <pubDate>Mon, 21 May 2018 15:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[More about disabling standard I/O buffering]]></title>
+            <link>https://blog.plover.com/Unix/stdio-buffering-2.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/Unix/stdio-buffering-2.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Mon, 21 May 2018 15:19:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Monument Valley for Escher Fans]]></title>
             <link>https://lifethroughamathematicianseyes.wordpress.com/2018/05/21/monument-valley-for-escher-fans/</link>
             <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/05/21/monument-valley-for-escher-fans/</guid>
@@ -185,17 +192,17 @@
             <pubDate>Mon, 21 May 2018 10:07:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: Does Being Taller Make You a Pro Basketballer?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p067kzyl</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p067kzyl</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 21 May 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Handshake Problem From the MathsJam Shout]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/handshake-problem-mathsjam-shout/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/handshake-problem-mathsjam-shout/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 21 May 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: Does Being Taller Make You a Pro Basketballer?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p067kzyl</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p067kzyl</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 21 May 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -365,6 +372,13 @@
             <guid isPermaLink="false">https://11011110.github.io/blog/2018/05/20/lies-to-children.html</guid>
             <dc:creator><![CDATA[11011110]]></dc:creator>
             <pubDate>Sun, 20 May 2018 16:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proposal for turning off standard I/O buffering]]></title>
+            <link>https://blog.plover.com/Unix/stdio-buffering.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/Unix/stdio-buffering.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Sun, 20 May 2018 16:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theme One Motivation • 4]]></title>
@@ -1949,17 +1963,17 @@
             <pubDate>Mon, 14 May 2018 09:07:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: Tulipmania mythology]]></title>
-            <link>http://www.bbc.co.uk/programmes/p066xbxr</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p066xbxr</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 14 May 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Review: Genius at Play, by Siobhan Roberts]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/review-genius-play-siobhan-roberts/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/review-genius-play-siobhan-roberts/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 14 May 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: Tulipmania mythology]]></title>
+            <link>http://www.bbc.co.uk/programmes/p066xbxr</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p066xbxr</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 14 May 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2110,17 +2124,17 @@
             <pubDate>Sun, 13 May 2018 13:32:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mother's Day]]></title>
-            <link>http://mathtourist.blogspot.com/2018/05/mothers-day.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/05/mothers-day.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['devoid of factual, empirical content']]></title>
             <link>https://math-frolic.blogspot.com/2018/05/devoid-of-factual-empirical-content.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/devoid-of-factual-empirical-content.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mother's Day]]></title>
+            <link>http://mathtourist.blogspot.com/2018/05/mothers-day.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/05/mothers-day.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3386,6 +3400,13 @@ Cuben Illusion available print...]]></title>
             <pubDate>Mon, 07 May 2018 18:23:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Katara constructs finite projective planes]]></title>
+            <link>https://blog.plover.com/math/finite-projective-planes.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/math/finite-projective-planes.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Mon, 07 May 2018 17:21:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fourth Penn Quantitative Policy Workshop]]></title>
             <link>https://fxdiebold.blogspot.com/2018/05/fourth-penn-quantitative-policy-workshop.html</link>
             <guid isPermaLink="false">https://fxdiebold.blogspot.com/2018/05/fourth-penn-quantitative-policy-workshop.html</guid>
@@ -3804,6 +3825,13 @@ Cuben Illusion available print...]]></title>
             <guid isPermaLink="false">http://blog.jpolak.org/?p=1967</guid>
             <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
             <pubDate>Sun, 06 May 2018 07:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shitpost roundup, 2018-04]]></title>
+            <link>https://blog.plover.com/meta/shitpost/roundup-2018-04.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/meta/shitpost/roundup-2018-04.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Sun, 06 May 2018 06:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Symmetric+RSA vs. RSA and Davida’s Attack]]></title>
@@ -4604,6 +4632,13 @@ Cuben Illusion available print...]]></title>
             <pubDate>Wed, 02 May 2018 07:31:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Addenda to recent articles 201804]]></title>
+            <link>https://blog.plover.com/addenda/201804.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/addenda/201804.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Wed, 02 May 2018 05:48:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unizor - Physics - Mechanics - Kinematics - Frame of Reference - Problems 1]]></title>
             <link>http://unizor.blogspot.com/2018/05/unizor-physics-mechanics-kinematics.html</link>
             <guid isPermaLink="false">http://unizor.blogspot.com/2018/05/unizor-physics-mechanics-kinematics.html</guid>
@@ -4833,6 +4868,13 @@ Cuben Illusion available print...]]></title>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2018/05/blog-post.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικα]]></dc:creator>
             <pubDate>Tue, 01 May 2018 06:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's in those mysterious cabinets?]]></title>
+            <link>https://blog.plover.com/tech/highway-stuff.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/tech/highway-stuff.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Tue, 01 May 2018 05:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The fluency of geometry]]></title>
@@ -5143,6 +5185,13 @@ Cuben Illusion available print...]]></title>
             <pubDate>Sun, 29 Apr 2018 19:12:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lipogrammatic math posts]]></title>
+            <link>https://blog.plover.com/lang/math-se-lipograms.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/lang/math-se-lipograms.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Sun, 29 Apr 2018 17:42:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Computer images by Tiago Hands]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/6jjwLoPQ63A/computer-images-by-tiago-hands.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/6jjwLoPQ63A/computer-images-by-tiago-hands.html</guid>
@@ -5297,16 +5346,16 @@ Cuben Illusion available print...]]></title>
             <pubDate>Sat, 28 Apr 2018 16:17:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Few of My Favorite Spaces: The Moser Spindle]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/q8bkJjRDuOA/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/q8bkJjRDuOA/</guid>
+            <title><![CDATA[Nalini Joshi's Favorite Theorem]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/_BmYGXijwMQ/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/_BmYGXijwMQ/</guid>
             <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Sat, 28 Apr 2018 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nalini Joshi's Favorite Theorem]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/_BmYGXijwMQ/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/_BmYGXijwMQ/</guid>
+            <title><![CDATA[A Few of My Favorite Spaces: The Moser Spindle]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/q8bkJjRDuOA/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/q8bkJjRDuOA/</guid>
             <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Sat, 28 Apr 2018 16:00:00 GMT</pubDate>
         </item>
@@ -6263,16 +6312,16 @@ Cuben Illusion available print...]]></title>
             <pubDate>Mon, 23 Apr 2018 08:23:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Upcoming talks: May-July 2018]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/F7UuONZ9K9s/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/F7UuONZ9K9s/</guid>
+            <title><![CDATA[Forecasting in NYC: 25-27 June 2018]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/tdS-NKjOZCk/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/tdS-NKjOZCk/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Forecasting in NYC: 25-27 June 2018]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/tdS-NKjOZCk/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/tdS-NKjOZCk/</guid>
+            <title><![CDATA[Upcoming talks: May-July 2018]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/F7UuONZ9K9s/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/F7UuONZ9K9s/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
         </item>
@@ -6560,13 +6609,6 @@ Simulation...]]></title>
             <guid isPermaLink="false">http://www.moomoomathblog.com/2018/04/traits-of-mammals_20.html</guid>
             <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
             <pubDate>Sat, 21 Apr 2018 02:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which One Doesn’t Belong – Fraction Edition]]></title>
-            <link>https://mattcoaty.com/2018/04/20/which-one-doesnt-belong-fraction-edition/</link>
-            <guid isPermaLink="false">https://mattcoaty.com/2018/04/20/which-one-doesnt-belong-fraction-edition/</guid>
-            <dc:creator><![CDATA[Educational Aspirations]]></dc:creator>
-            <pubDate>Sat, 21 Apr 2018 00:24:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
