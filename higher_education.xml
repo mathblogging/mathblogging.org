@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 Jun 2018 19:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jun 2018 20:16:21 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/higher_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Jun 2018 19:15:55 GMT</pubDate>
+        <pubDate>Fri, 01 Jun 2018 20:16:21 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Algebra 2 Problems of the Day]]></title>
+            <link>http://mrburkemath.blogspot.com/2018/06/algebra-2-problems-of-day.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/06/algebra-2-problems-of-day.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 01 Jun 2018 19:48:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chalk The Lines - a.k.]]></title>
             <link>http://www.thusspakeak.com/ak/2018/06/01-ChalkTheLines.html</link>
@@ -143,9 +150,9 @@
             <pubDate>Fri, 01 Jun 2018 10:38:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Juin 2018, 1er défi]]></title>
-            <link>http://images.math.cnrs.fr/Juin-2018-1er-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Juin-2018-1er-defi.html</guid>
+            <title><![CDATA[Revue de presse juin 2018]]></title>
+            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2018.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2018.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 01 Jun 2018 05:00:00 GMT</pubDate>
         </item>
@@ -157,9 +164,9 @@
             <pubDate>Fri, 01 Jun 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revue de presse juin 2018]]></title>
-            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2018.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2018.html</guid>
+            <title><![CDATA[Juin 2018, 1er défi]]></title>
+            <link>http://images.math.cnrs.fr/Juin-2018-1er-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Juin-2018-1er-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 01 Jun 2018 05:00:00 GMT</pubDate>
         </item>
@@ -1657,13 +1664,6 @@ Aleatoric 01.]]></title>
             <pubDate>Fri, 25 May 2018 20:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Sliding Scale of Academia]]></title>
-            <link>https://blogs.ams.org/mathgradblog/2018/05/25/sliding-scale-academia/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/05/25/sliding-scale-academia/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Fri, 25 May 2018 20:06:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Παίγνια με τον κουβά]]></title>
             <link>http://mathhmagic.blogspot.com/2018/05/blog-post_33.html</link>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2018/05/blog-post_33.html</guid>
@@ -2744,17 +2744,17 @@ Aleatoric 01.]]></title>
             <pubDate>Mon, 21 May 2018 10:07:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Handshake Problem From the MathsJam Shout]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/handshake-problem-mathsjam-shout/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/handshake-problem-mathsjam-shout/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 21 May 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS More or Less: Does Being Taller Make You a Pro Basketballer?]]></title>
             <link>http://www.bbc.co.uk/programmes/p067kzyl</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p067kzyl</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 21 May 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Handshake Problem From the MathsJam Shout]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/handshake-problem-mathsjam-shout/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/handshake-problem-mathsjam-shout/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 21 May 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4312,17 +4312,17 @@ Aleatoric 01.]]></title>
             <pubDate>Mon, 14 May 2018 09:07:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: Tulipmania mythology]]></title>
-            <link>http://www.bbc.co.uk/programmes/p066xbxr</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p066xbxr</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 14 May 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Review: Genius at Play, by Siobhan Roberts]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/review-genius-play-siobhan-roberts/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/review-genius-play-siobhan-roberts/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 14 May 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: Tulipmania mythology]]></title>
+            <link>http://www.bbc.co.uk/programmes/p066xbxr</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p066xbxr</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 14 May 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4445,17 +4445,17 @@ Aleatoric 01.]]></title>
             <pubDate>Sun, 13 May 2018 13:32:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['devoid of factual, empirical content']]></title>
-            <link>https://math-frolic.blogspot.com/2018/05/devoid-of-factual-empirical-content.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/devoid-of-factual-empirical-content.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mother's Day]]></title>
             <link>http://mathtourist.blogspot.com/2018/05/mothers-day.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/05/mothers-day.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['devoid of factual, empirical content']]></title>
+            <link>https://math-frolic.blogspot.com/2018/05/devoid-of-factual-empirical-content.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/devoid-of-factual-empirical-content.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5327,13 +5327,6 @@ Aleatoric 01.]]></title>
             <pubDate>Tue, 08 May 2018 17:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Algebra 2 Problems of the Day]]></title>
-            <link>http://mrburkemath.blogspot.com/2018/05/algebra-2-problems-of-day_8.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/05/algebra-2-problems-of-day_8.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Tue, 08 May 2018 16:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Leadership: Chess Master or Gardener?]]></title>
             <link>https://robertkaplinsky.com/leadership-chess-master-gardener/</link>
             <guid isPermaLink="false">https://robertkaplinsky.com/leadership-chess-master-gardener/</guid>
@@ -5679,17 +5672,17 @@ Cuben Illusion available print...]]></title>
             <pubDate>Mon, 07 May 2018 09:57:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Mathematical Ninja and the SSNs]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-ssns/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-ssns/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 07 May 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS More or Less: Exposing the biases we have of the world]]></title>
             <link>http://www.bbc.co.uk/programmes/p0668k2q</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0668k2q</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 07 May 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mathematical Ninja and the SSNs]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-ssns/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-ssns/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 07 May 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6671,13 +6664,6 @@ Cuben Illusion available print...]]></title>
             <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2018/05/week-26.html</guid>
             <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
             <pubDate>Tue, 01 May 2018 20:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why φ?]]></title>
-            <link>http://richardzach.org/2018/05/01/why-%25cf%2586/</link>
-            <guid isPermaLink="false">http://richardzach.org/2018/05/01/why-%cf%86/</guid>
-            <dc:creator><![CDATA[Richard Zach]]></dc:creator>
-            <pubDate>Tue, 01 May 2018 19:32:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
