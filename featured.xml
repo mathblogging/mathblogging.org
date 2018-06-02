@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 Jun 2018 14:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jun 2018 15:16:19 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 Jun 2018 14:15:50 GMT</pubDate>
+        <pubDate>Sat, 02 Jun 2018 15:16:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Wondering About Classroom Norms]]></title>
+            <link>https://kgmathminds.com/2018/06/02/wondering-about-classroom-norms/</link>
+            <guid isPermaLink="false">https://kgmathminds.com/2018/06/02/wondering-about-classroom-norms/</guid>
+            <dc:creator><![CDATA[Math Minds]]></dc:creator>
+            <pubDate>Sat, 02 Jun 2018 14:55:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In de driehoek van Pascal]]></title>
             <link>http://wiskundeleraar.blogspot.com/2018/06/in-de-driehoek-van-pascal.html</link>
@@ -276,6 +283,13 @@
             <pubDate>Fri, 01 Jun 2018 10:38:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Revue de presse juin 2018]]></title>
+            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2018.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2018.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 01 Jun 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tito Livio Burattini e il mistero della calcolatrice (parte prima)]]></title>
             <link>http://misterpalomar.blogspot.com/2018/06/tito-livio-burattini-e-il-mistero-della.html</link>
             <guid isPermaLink="false">http://misterpalomar.blogspot.com/2018/06/tito-livio-burattini-e-il-mistero-della.html</guid>
@@ -286,13 +300,6 @@
             <title><![CDATA[Juin 2018, 1er défi]]></title>
             <link>http://images.math.cnrs.fr/Juin-2018-1er-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Juin-2018-1er-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 01 Jun 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revue de presse juin 2018]]></title>
-            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2018.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2018.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 01 Jun 2018 05:00:00 GMT</pubDate>
         </item>
@@ -444,13 +451,6 @@
             <pubDate>Thu, 31 May 2018 18:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[category of PERs]]></title>
-            <link>https://ncatlab.org/nlab/show/category+of+PERs</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/category+of+PERs</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 31 May 2018 17:13:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vintage chart shows the evolution in design of everyday objects]]></title>
             <link>http://flowingdata.com/2018/05/31/chart-shows-the-evolution-in-design-of-everyday-objects/</link>
             <guid isPermaLink="false">http://flowingdata.com/2018/05/31/chart-shows-the-evolution-in-design-of-everyday-objects/</guid>
@@ -598,17 +598,17 @@
             <pubDate>Thu, 31 May 2018 00:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Dice Betting Game]]></title>
-            <link>http://datagenetics.com/blog/may22018/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/may22018/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Booles' Rings is dead, long live Booles' Rings!]]></title>
             <link>https://www.peterkrautzberger.org/0206/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0206/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Dice Betting Game]]></title>
+            <link>http://datagenetics.com/blog/may22018/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/may22018/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1144,17 +1144,17 @@
             <pubDate>Tue, 29 May 2018 00:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Experimenting with fractions for the web]]></title>
-            <link>https://www.peterkrautzberger.org/0205/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0205/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Few of My Favorite Spaces: The Witch of Agnesi]]></title>
             <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/zncUcx4IuPg/</link>
             <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/zncUcx4IuPg/</guid>
             <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
+            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Experimenting with fractions for the web]]></title>
+            <link>https://www.peterkrautzberger.org/0205/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0205/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1503,17 +1503,17 @@ Aleatoric 01.]]></title>
             <pubDate>Sun, 27 May 2018 11:53:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Delight and Exaltation]]></title>
-            <link>https://math-frolic.blogspot.com/2018/05/delight-and-exaltation.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/delight-and-exaltation.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 27 May 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Flying Leap]]></title>
             <link>http://mathtourist.blogspot.com/2018/05/flying-leap.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/05/flying-leap.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 27 May 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delight and Exaltation]]></title>
+            <link>https://math-frolic.blogspot.com/2018/05/delight-and-exaltation.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/delight-and-exaltation.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 27 May 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2147,17 +2147,17 @@ Aleatoric 01.]]></title>
             <pubDate>Thu, 24 May 2018 12:47:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Book Notes...]]></title>
-            <link>https://math-frolic.blogspot.com/2018/05/book-notes.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/book-notes.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Thu, 24 May 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Interrupted Tube]]></title>
             <link>http://mathtourist.blogspot.com/2018/05/interrupted-tube.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/05/interrupted-tube.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 24 May 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Book Notes...]]></title>
+            <link>https://math-frolic.blogspot.com/2018/05/book-notes.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/book-notes.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Thu, 24 May 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2926,17 +2926,17 @@ Aleatoric 01.]]></title>
             <pubDate>Mon, 21 May 2018 01:09:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Earth-Moon Fire Pole]]></title>
-            <link>https://what-if.xkcd.com/157/</link>
-            <guid isPermaLink="false">https://what-if.xkcd.com/157/</guid>
-            <dc:creator><![CDATA[What If?]]></dc:creator>
-            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A new website for the Stacks project (2)]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/05/21/new-stacks-project/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/05/21/new-stacks-project/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earth-Moon Fire Pole]]></title>
+            <link>https://what-if.xkcd.com/157/</link>
+            <guid isPermaLink="false">https://what-if.xkcd.com/157/</guid>
+            <dc:creator><![CDATA[What If?]]></dc:creator>
             <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3080,17 +3080,17 @@ Aleatoric 01.]]></title>
             <pubDate>Sun, 20 May 2018 11:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Infallibility... Nope]]></title>
-            <link>https://math-frolic.blogspot.com/2018/05/infallibility-nope.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/infallibility-nope.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 20 May 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Block Moses]]></title>
             <link>http://mathtourist.blogspot.com/2018/05/block-moses.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/05/block-moses.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 20 May 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infallibility... Nope]]></title>
+            <link>https://math-frolic.blogspot.com/2018/05/infallibility-nope.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/infallibility-nope.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 20 May 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4410,17 +4410,17 @@ Aleatoric 01.]]></title>
             <pubDate>Mon, 14 May 2018 09:07:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Review: Genius at Play, by Siobhan Roberts]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/review-genius-play-siobhan-roberts/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/review-genius-play-siobhan-roberts/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 14 May 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS More or Less: Tulipmania mythology]]></title>
             <link>http://www.bbc.co.uk/programmes/p066xbxr</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p066xbxr</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 14 May 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Genius at Play, by Siobhan Roberts]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/review-genius-play-siobhan-roberts/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/review-genius-play-siobhan-roberts/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 14 May 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4543,17 +4543,17 @@ Aleatoric 01.]]></title>
             <pubDate>Sun, 13 May 2018 13:32:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mother's Day]]></title>
-            <link>http://mathtourist.blogspot.com/2018/05/mothers-day.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/05/mothers-day.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['devoid of factual, empirical content']]></title>
             <link>https://math-frolic.blogspot.com/2018/05/devoid-of-factual-empirical-content.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/05/devoid-of-factual-empirical-content.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mother's Day]]></title>
+            <link>http://mathtourist.blogspot.com/2018/05/mothers-day.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/05/mothers-day.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5756,17 +5756,17 @@ Cuben Illusion available print...]]></title>
             <pubDate>Mon, 07 May 2018 09:57:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: Exposing the biases we have of the world]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0668k2q</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0668k2q</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 07 May 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Mathematical Ninja and the SSNs]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/mathematical-ninja-ssns/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/mathematical-ninja-ssns/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 07 May 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: Exposing the biases we have of the world]]></title>
+            <link>http://www.bbc.co.uk/programmes/p0668k2q</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0668k2q</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 07 May 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6580,13 +6580,6 @@ Cuben Illusion available print...]]></title>
             <guid isPermaLink="false">http://blogs.ethz.ch/kowalski/2018/05/02/winter-school-at-monte-verita/</guid>
             <dc:creator><![CDATA[E. Kowalski's blog]]></dc:creator>
             <pubDate>Wed, 02 May 2018 17:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Centre for Policy and Market Design Workshop 2018]]></title>
-            <link>http://haris-aziz.blogspot.com/2018/05/centre-for-policy-and-market-design.html</link>
-            <guid isPermaLink="false">http://haris-aziz.blogspot.com/2018/05/centre-for-policy-and-market-design.html</guid>
-            <dc:creator><![CDATA[Algorithmic Economics, AI & Other Topics]]></dc:creator>
-            <pubDate>Wed, 02 May 2018 14:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
