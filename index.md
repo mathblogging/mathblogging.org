@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <br>RT <a href="https://twitter.com/republicofmath?ref_src=twsrc%5Etfw">@republicofmath</a><br>Beautifully written post by <a href="https://twitter.com/MrHonner?ref_src=twsrc%5Etfw">@MrHonner</a> on the chromatic number of the plane<a href="https://t.co/a1N8BHEHFs">https://t.co/a1N8BHEHFs</a>  <a href="https://t.co/AfWjM4Twvp">pic.twitter.com/AfWjM4Twvp</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1009128853506351105?ref_src=twsrc%5Etfw">June 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Peter Scholze, p-adic geometry, Langlands, Fields Medal, &amp; more via Michael Harris:<a href="https://t.co/ShATKZxQ2i">https://t.co/ShATKZxQ2i</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1002936640111874050?ref_src=twsrc%5Etfw">June 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
