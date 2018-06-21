@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Jun 2018 01:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jun 2018 02:15:43 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Jun 2018 01:15:42 GMT</pubDate>
+        <pubDate>Thu, 21 Jun 2018 02:15:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[limits of presheaves are computed objectwise]]></title>
+            <link>https://ncatlab.org/nlab/show/limits+of+presheaves+are+computed+objectwise</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/limits+of+presheaves+are+computed+objectwise</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 21 Jun 2018 01:25:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Commutative multiplication of triples]]></title>
+            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/7Rxf5AepJG4/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/7Rxf5AepJG4/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Thu, 21 Jun 2018 01:19:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Part III: The Final Turn]]></title>
             <link>https://samjshah.com/2018/06/21/part-iii-the-final-turn/</link>
@@ -141,20 +155,6 @@
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/06/throwback.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 20 Jun 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andre Scedrov]]></title>
-            <link>https://ncatlab.org/nlab/show/Andre+Scedrov</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Andre+Scedrov</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 20 Jun 2018 10:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bounded linear logic]]></title>
-            <link>https://ncatlab.org/nlab/show/bounded+linear+logic</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/bounded+linear+logic</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 20 Jun 2018 10:53:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Test disequazione]]></title>
@@ -927,13 +927,6 @@
             <pubDate>Sun, 17 Jun 2018 13:27:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Model-T Algorithms...]]></title>
-            <link>https://math-frolic.blogspot.com/2018/06/model-t-algorithms.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/06/model-t-algorithms.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 17 Jun 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bremen Lighthouse]]></title>
             <link>http://mathtourist.blogspot.com/2018/06/bremen-lighthouse.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/06/bremen-lighthouse.html</guid>
@@ -941,17 +934,24 @@
             <pubDate>Sun, 17 Jun 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My cat isn’t psychic – but your pet could be!]]></title>
-            <link>http://aperiodical.com/2018/06/my-cat-isnt-psychic-but-your-pet-could-be/</link>
-            <guid isPermaLink="false">http://aperiodical.com/2018/06/my-cat-isnt-psychic-but-your-pet-could-be/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Sun, 17 Jun 2018 09:10:29 GMT</pubDate>
+            <title><![CDATA[Model-T Algorithms...]]></title>
+            <link>https://math-frolic.blogspot.com/2018/06/model-t-algorithms.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/06/model-t-algorithms.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 17 Jun 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My cat isn’t psychic – but your pet could be!]]></title>
             <link>http://aperiodical.com/2018/06/my-cat-isnt-psychic-but-your-pet-could-be/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/06/my-cat-isnt-psychic-but-your-pet-could-be/</guid>
             <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <pubDate>Sun, 17 Jun 2018 09:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My cat isn’t psychic – but your pet could be!]]></title>
+            <link>http://aperiodical.com/2018/06/my-cat-isnt-psychic-but-your-pet-could-be/</link>
+            <guid isPermaLink="false">http://aperiodical.com/2018/06/my-cat-isnt-psychic-but-your-pet-could-be/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 17 Jun 2018 09:10:29 GMT</pubDate>
         </item>
         <item>
@@ -2456,14 +2456,14 @@
             <title><![CDATA[Carnival of Mathematics 158]]></title>
             <link>http://aperiodical.com/2018/06/carnival-of-mathematics-158/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/06/carnival-of-mathematics-158/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 10 Jun 2018 20:46:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carnival of Mathematics 158]]></title>
             <link>http://aperiodical.com/2018/06/carnival-of-mathematics-158/</link>
             <guid isPermaLink="false">http://aperiodical.com/2018/06/carnival-of-mathematics-158/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sun, 10 Jun 2018 20:46:30 GMT</pubDate>
         </item>
         <item>
@@ -2796,17 +2796,17 @@
             <pubDate>Fri, 08 Jun 2018 16:02:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>http://blog.amathknauft.com/2018/06/how-far-is-national-museum-of.html</link>
-            <guid isPermaLink="false">http://blog.amathknauft.com/2018/06/how-far-is-national-museum-of.html</guid>
-            <dc:creator><![CDATA[LimSoup]]></dc:creator>
-            <pubDate>Fri, 08 Jun 2018 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Infant Mortality, How to Reduce Exam Revision With Maths, London’s Murder Rate]]></title>
             <link>http://www.bbc.co.uk/programmes/p069jd0p</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p069jd0p</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Fri, 08 Jun 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://blog.amathknauft.com/2018/06/how-far-is-national-museum-of.html</link>
+            <guid isPermaLink="false">http://blog.amathknauft.com/2018/06/how-far-is-national-museum-of.html</guid>
+            <dc:creator><![CDATA[LimSoup]]></dc:creator>
             <pubDate>Fri, 08 Jun 2018 16:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3167,17 +3167,17 @@
             <pubDate>Thu, 07 Jun 2018 11:07:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Water Strider]]></title>
-            <link>http://mathtourist.blogspot.com/2018/06/water-strider.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/06/water-strider.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Thu, 07 Jun 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Of Cartoons and Rorschach Tests (...and Pillows)]]></title>
             <link>https://math-frolic.blogspot.com/2018/06/of-cartoons-and-rorschach-tests-and.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/06/of-cartoons-and-rorschach-tests-and.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 07 Jun 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Water Strider]]></title>
+            <link>http://mathtourist.blogspot.com/2018/06/water-strider.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/06/water-strider.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 07 Jun 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3298,13 +3298,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/6F6D-jK7YZM/</guid>
             <dc:creator><![CDATA[halbtagsblog]]></dc:creator>
             <pubDate>Wed, 06 Jun 2018 19:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ingredients of a Class Activity]]></title>
-            <link>https://blogs.ams.org/mathgradblog/2018/06/06/ingredients-class-activity/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/06/06/ingredients-class-activity/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Wed, 06 Jun 2018 17:55:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Mysterious Duality Relation for 4-dimensional Polytopes.]]></title>
@@ -4058,17 +4051,17 @@ a diagrammatic square of...]]></title>
             <pubDate>Sun, 03 Jun 2018 12:35:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Of God and the Devil]]></title>
-            <link>https://math-frolic.blogspot.com/2018/06/of-god-and-devil.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/06/of-god-and-devil.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 03 Jun 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[One Leg]]></title>
             <link>http://mathtourist.blogspot.com/2018/06/one-leg.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/06/one-leg.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 03 Jun 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Of God and the Devil]]></title>
+            <link>https://math-frolic.blogspot.com/2018/06/of-god-and-devil.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/06/of-god-and-devil.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 03 Jun 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5607,13 +5600,6 @@ Aleatoric 01.]]></title>
             <pubDate>Fri, 25 May 2018 20:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Sliding Scale of Academia]]></title>
-            <link>https://blogs.ams.org/mathgradblog/2018/05/25/sliding-scale-academia/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/05/25/sliding-scale-academia/</guid>
-            <dc:creator><![CDATA[AMS Grad Blog]]></dc:creator>
-            <pubDate>Fri, 25 May 2018 20:06:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Παίγνια με τον κουβά]]></title>
             <link>http://mathhmagic.blogspot.com/2018/05/blog-post_33.html</link>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2018/05/blog-post_33.html</guid>
@@ -6405,13 +6391,6 @@ Aleatoric 01.]]></title>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2018/05/computer-proof-vs-computer-proof.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 21 May 2018 02:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teaching Pythagorean Distance with PBL]]></title>
-            <link>http://www.carmelschettino.com/wp/2018/05/21/teaching-pythagorean-distance-with-pbl/</link>
-            <guid isPermaLink="false">http://www.carmelschettino.com/wp/2018/05/21/teaching-pythagorean-distance-with-pbl/</guid>
-            <dc:creator><![CDATA[carmelschettino]]></dc:creator>
-            <pubDate>Mon, 21 May 2018 01:18:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
