@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Jul 2018 16:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jul 2018 17:15:33 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Jul 2018 16:16:09 GMT</pubDate>
+        <pubDate>Sat, 07 Jul 2018 17:15:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[derived hom-functor]]></title>
+            <link>https://ncatlab.org/nlab/show/derived+hom-functor</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/derived+hom-functor</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 07 Jul 2018 17:02:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[He wants to know what to read and what software to learn, to increase his ability to think about quantitative methods in social science]]></title>
             <link>http://andrewgelman.com/2018/07/07/wants-know-read-software-learn-increase-ability-think-quantitative-methods-social-science/</link>
@@ -50,13 +57,6 @@
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/toronto-skyline.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sat, 07 Jul 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[James Wells]]></title>
-            <link>https://ncatlab.org/nlab/show/James+Wells</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/James+Wells</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 07 Jul 2018 10:59:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rennes street art #2 [jatp]]]></title>
@@ -766,17 +766,17 @@
             <pubDate>Wed, 04 Jul 2018 11:01:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coming To America...]]></title>
-            <link>https://math-frolic.blogspot.com/2018/07/coming-to-america.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/coming-to-america.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Wed, 04 Jul 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Independence Day 2018]]></title>
             <link>http://mathtourist.blogspot.com/2018/07/independence-day-2018.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/independence-day-2018.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 04 Jul 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coming To America...]]></title>
+            <link>https://math-frolic.blogspot.com/2018/07/coming-to-america.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/coming-to-america.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Wed, 04 Jul 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1493,17 +1493,17 @@ Commonly misquoted:
             <pubDate>Sun, 01 Jul 2018 12:00:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canada Day 2018]]></title>
-            <link>http://mathtourist.blogspot.com/2018/07/canada-day-2018.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/canada-day-2018.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 01 Jul 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Teach Programming]]></title>
             <link>https://math-frolic.blogspot.com/2018/07/teach-programming.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/teach-programming.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 01 Jul 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada Day 2018]]></title>
+            <link>http://mathtourist.blogspot.com/2018/07/canada-day-2018.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/canada-day-2018.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 01 Jul 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2202,17 +2202,17 @@ When..."]]></title>
             <pubDate>Thu, 28 Jun 2018 05:00:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Qu'est-ce que la géométrie aléatoire ?]]></title>
-            <link>http://images.math.cnrs.fr/Qu-est-ce-que-la-geometrie-aleatoire.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Qu-est-ce-que-la-geometrie-aleatoire.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Thu, 28 Jun 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[L'immagine matematica del giovedì (#7)]]></title>
             <link>http://misterpalomar.blogspot.com/2018/06/limmagine-matematica-del-giovedi-7.html</link>
             <guid isPermaLink="false">http://misterpalomar.blogspot.com/2018/06/limmagine-matematica-del-giovedi-7.html</guid>
             <dc:creator><![CDATA[Mr. Palomar]]></dc:creator>
+            <pubDate>Thu, 28 Jun 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Qu'est-ce que la géométrie aléatoire ?]]></title>
+            <link>http://images.math.cnrs.fr/Qu-est-ce-que-la-geometrie-aleatoire.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Qu-est-ce-que-la-geometrie-aleatoire.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Thu, 28 Jun 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2398,17 +2398,17 @@ When..."]]></title>
             <pubDate>Wed, 27 Jun 2018 11:05:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rock Birds]]></title>
-            <link>http://mathtourist.blogspot.com/2018/06/rock-birds.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/06/rock-birds.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 27 Jun 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Oh yeah, 8 years ago....]]></title>
             <link>https://math-frolic.blogspot.com/2018/06/oh-yeah-8-years-ago.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/06/oh-yeah-8-years-ago.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Wed, 27 Jun 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rock Birds]]></title>
+            <link>http://mathtourist.blogspot.com/2018/06/rock-birds.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/06/rock-birds.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 27 Jun 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3374,17 +3374,17 @@ well, i tried]]></title>
             <pubDate>Fri, 22 Jun 2018 11:57:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maple Spots]]></title>
-            <link>http://mathtourist.blogspot.com/2018/06/maple-spots.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/06/maple-spots.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 22 Jun 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[45%... recent Gallup Poll approval rating for Donald Trump!]]></title>
             <link>https://math-frolic.blogspot.com/2018/06/45-recent-gallup-poll-approval-rating.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/06/45-recent-gallup-poll-approval-rating.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Fri, 22 Jun 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maple Spots]]></title>
+            <link>http://mathtourist.blogspot.com/2018/06/maple-spots.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/06/maple-spots.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 22 Jun 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3591,17 +3591,17 @@ well, i tried]]></title>
             <pubDate>Thu, 21 Jun 2018 13:00:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Another cool think-big engineering solution from the turn-of-the-century]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2018/06/another-cool-think-big-engineering.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/06/another-cool-think-big-engineering.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 21 Jun 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[June 2018 Common Core Algebra I Regents (mult choice)]]></title>
             <link>http://mrburkemath.blogspot.com/2018/06/june-2018-common-core-algebra-i-regents.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/06/june-2018-common-core-algebra-i-regents.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Thu, 21 Jun 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another cool think-big engineering solution from the turn-of-the-century]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2018/06/another-cool-think-big-engineering.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/06/another-cool-think-big-engineering.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 21 Jun 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4781,17 +4781,17 @@ well, i tried]]></title>
             <pubDate>Fri, 15 Jun 2018 01:00:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brill–Noether pictures]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/06/15/brill-noether-pictures/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/06/15/brill-noether-pictures/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Axes of Symmetry]]></title>
             <link>http://mrburkemath.blogspot.com/2018/06/axes-of-symmetry.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/06/axes-of-symmetry.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brill–Noether pictures]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/06/15/brill-noether-pictures/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/06/15/brill-noether-pictures/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5803,17 +5803,17 @@ well, i tried]]></title>
             <pubDate>Fri, 08 Jun 2018 18:34:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Infant Mortality, How to Reduce Exam Revision With Maths, London’s Murder Rate]]></title>
-            <link>http://www.bbc.co.uk/programmes/p069jd0p</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p069jd0p</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 08 Jun 2018 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <link>http://blog.amathknauft.com/2018/06/how-far-is-national-museum-of.html</link>
             <guid isPermaLink="false">http://blog.amathknauft.com/2018/06/how-far-is-national-museum-of.html</guid>
             <dc:creator><![CDATA[LimSoup]]></dc:creator>
+            <pubDate>Fri, 08 Jun 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infant Mortality, How to Reduce Exam Revision With Maths, London’s Murder Rate]]></title>
+            <link>http://www.bbc.co.uk/programmes/p069jd0p</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p069jd0p</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 08 Jun 2018 16:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6188,6 +6188,13 @@ well, i tried]]></title>
             <pubDate>Wed, 06 Jun 2018 19:48:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[enriched hom-functor]]></title>
+            <link>https://ncatlab.org/nlab/show/enriched+hom-functor</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/enriched+hom-functor</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 06 Jun 2018 19:40:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ingredients of a Class Activity]]></title>
             <link>https://blogs.ams.org/mathgradblog/2018/06/06/ingredients-class-activity/</link>
             <guid isPermaLink="false">https://blogs.ams.org/mathgradblog/2018/06/06/ingredients-class-activity/</guid>
@@ -6207,34 +6214,6 @@ well, i tried]]></title>
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2018/06/06/princeton-is-invariant/</guid>
             <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
             <pubDate>Wed, 06 Jun 2018 17:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring Binary Now Supports HTTPS]]></title>
-            <link>https://www.exploringbinary.com/exploring-binary-now-supports-https/</link>
-            <guid isPermaLink="false">https://www.exploringbinary.com/exploring-binary-now-supports-https/</guid>
-            <dc:creator><![CDATA[Exploring Binary]]></dc:creator>
-            <pubDate>Wed, 06 Jun 2018 16:45:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paul the octopus is back]]></title>
-            <link>https://freakonometrics.hypotheses.org/53120</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/53120</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Wed, 06 Jun 2018 16:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math/Stats Reunion Get-Together on Saturday]]></title>
-            <link>https://math.williams.edu/math-stats-reunion-get-together-on-saturday/</link>
-            <guid isPermaLink="false">https://math.williams.edu/math-stats-reunion-get-together-on-saturday/</guid>
-            <dc:creator><![CDATA[Blog – Mathematics & Statistics]]></dc:creator>
-            <pubDate>Wed, 06 Jun 2018 16:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer math resources]]></title>
-            <link>http://homeschoolmath.blogspot.com/2018/06/summer-math-resources.html</link>
-            <guid isPermaLink="false">http://homeschoolmath.blogspot.com/2018/06/summer-math-resources.html</guid>
-            <dc:creator><![CDATA[Homeschool Math Blog]]></dc:creator>
-            <pubDate>Wed, 06 Jun 2018 16:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
