@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">It&#39;s round 2 of the Big Internet Math-Off! Where else might you learn something new or be reminded of something beautiful, and it&#39;s a friendly competition. <a href="https://t.co/Jq1OmkTkrl">https://t.co/Jq1OmkTkrl</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018165608267972609?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Muffins and Integers<a href="https://t.co/IM6aLsrPDz">https://t.co/IM6aLsrPDz</a><br>How can you divide 3 muffins among 5 students while maximizing the smallest piece of muffin? Great division question, cool application of duality, and open problems at the end!<a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1015392654274781185?ref_src=twsrc%5Etfw">July 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
