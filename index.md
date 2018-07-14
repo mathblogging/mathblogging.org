@@ -3,6 +3,18 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Actuaries have the lowest divorce rate. How calculating.  <a href="https://t.co/jwhC19Iqeq">https://t.co/jwhC19Iqeq</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018177089432797185?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Y&#39;all played Rush Hour before, right? Michael Fogleman calls this game &quot;a perfect example of combinatorial explosion.&quot; <a href="https://t.co/Tywn3fgS0K">https://t.co/Tywn3fgS0K</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018174105936281605?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I use visual patterns to teach linear equ (and quadr), but if you&#39;re not, hopefully you&#39;re doing something else to make sense of y=mx+b <a href="https://t.co/yTE65auimK">https://t.co/yTE65auimK</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018169628739039233?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">One more reason why we love Twitter Math Camp (<a href="https://twitter.com/hashtag/TMC18?src=hash&amp;ref_src=twsrc%5Etfw">#TMC18</a>) and <a href="https://twitter.com/hashtag/MTBoS?src=hash&amp;ref_src=twsrc%5Etfw">#MTBoS</a>, <a href="https://t.co/ZeIPrzXwLo">https://t.co/ZeIPrzXwLo</a> from <a href="https://twitter.com/DavidKButlerUoA?ref_src=twsrc%5Etfw">@DavidKButlerUoA</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018167574503149568?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">It&#39;s round 2 of the Big Internet Math-Off! Where else might you learn something new or be reminded of something beautiful, and it&#39;s a friendly competition. <a href="https://t.co/Jq1OmkTkrl">https://t.co/Jq1OmkTkrl</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018165608267972609?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
