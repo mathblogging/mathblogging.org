@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Attribution Based on Tail Probabilities, from <a href="https://twitter.com/JohnDCook?ref_src=twsrc%5Etfw">@JohnDCook</a><a href="https://t.co/atN6b94nLy">https://t.co/atN6b94nLy</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/statschat?src=hash&amp;ref_src=twsrc%5Etfw">#statschat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1019359850009169920?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">2 for price of 1... Latest from Jim Propp (...&amp; Ben Orlin):<a href="https://t.co/r2jf77O38Q">https://t.co/r2jf77O38Q</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1019236504466542593?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
