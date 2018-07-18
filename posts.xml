@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Jul 2018 06:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jul 2018 07:15:32 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Jul 2018 06:15:34 GMT</pubDate>
+        <pubDate>Wed, 18 Jul 2018 07:15:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Compositionality: the Editorial Board]]></title>
+            <link>http://golem.ph.utexas.edu/category/2018/07/compositionality_the_editorial.html</link>
+            <guid isPermaLink="false">http://golem.ph.utexas.edu/category/2018/07/compositionality_the_editorial.html</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Wed, 18 Jul 2018 06:31:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sobel’s five books]]></title>
             <link>https://thonyc.wordpress.com/2018/07/18/sobels-five-books/</link>
@@ -433,14 +440,14 @@
             <title><![CDATA[Second place in a single-elimination tournament]]></title>
             <link>https://aperiodical.com/2018/07/second-place-in-a-single-elimination-tournament/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/07/second-place-in-a-single-elimination-tournament/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Mon, 16 Jul 2018 10:06:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Second place in a single-elimination tournament]]></title>
             <link>https://aperiodical.com/2018/07/second-place-in-a-single-elimination-tournament/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/07/second-place-in-a-single-elimination-tournament/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Mon, 16 Jul 2018 10:06:33 GMT</pubDate>
         </item>
         <item>
@@ -465,17 +472,17 @@
             <pubDate>Mon, 16 Jul 2018 09:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oxford: Likely Alone in Universe]]></title>
-            <link>http://www.madmath.com/2018/07/oxford-likely-alone-in-universe.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2018/07/oxford-likely-alone-in-universe.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 16 Jul 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why the factor and remainder theorem work]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 16 Jul 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oxford: Likely Alone in Universe]]></title>
+            <link>http://www.madmath.com/2018/07/oxford-likely-alone-in-universe.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2018/07/oxford-likely-alone-in-universe.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 16 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -675,17 +682,17 @@
             <pubDate>Sun, 15 Jul 2018 01:30:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UseR!2018 talks]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/R8bDXYcTKCg/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/R8bDXYcTKCg/</guid>
-            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
-            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (66)]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/07/15/fortnightly-links-66/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/07/15/fortnightly-links-66/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UseR!2018 talks]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/R8bDXYcTKCg/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/R8bDXYcTKCg/</guid>
+            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -955,6 +962,13 @@
             <pubDate>Fri, 13 Jul 2018 06:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Juillet 2018, 2e défi]]></title>
+            <link>http://images.math.cnrs.fr/Juillet-2018-2e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Juillet-2018-2e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 13 Jul 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Phase Retrieval Under a Generative Prior]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/tAauTWS5Umg/phase-retrieval-under-generative-prior.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/tAauTWS5Umg/phase-retrieval-under-generative-prior.html</guid>
@@ -965,13 +979,6 @@
             <title><![CDATA[Ajouter des pourcentages]]></title>
             <link>http://images.math.cnrs.fr/Ajouter-des-pourcentages.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Ajouter-des-pourcentages.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 13 Jul 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Juillet 2018, 2e défi]]></title>
-            <link>http://images.math.cnrs.fr/Juillet-2018-2e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Juillet-2018-2e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 13 Jul 2018 05:00:00 GMT</pubDate>
         </item>
@@ -2043,14 +2050,14 @@
             <title><![CDATA[Are there More or Less stars than grains of beach sand?]]></title>
             <link>https://aperiodical.com/2018/07/are-there-more-or-less-stars-than-grains-of-beach-sand/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/07/are-there-more-or-less-stars-than-grains-of-beach-sand/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Sun, 08 Jul 2018 15:44:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are there More or Less stars than grains of beach sand?]]></title>
             <link>https://aperiodical.com/2018/07/are-there-more-or-less-stars-than-grains-of-beach-sand/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/07/are-there-more-or-less-stars-than-grains-of-beach-sand/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 08 Jul 2018 15:44:15 GMT</pubDate>
         </item>
         <item>
@@ -2908,17 +2915,17 @@
             <pubDate>Wed, 04 Jul 2018 11:01:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Independence Day 2018]]></title>
-            <link>http://mathtourist.blogspot.com/2018/07/independence-day-2018.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/independence-day-2018.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 04 Jul 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coming To America...]]></title>
             <link>https://math-frolic.blogspot.com/2018/07/coming-to-america.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/coming-to-america.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Wed, 04 Jul 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Independence Day 2018]]></title>
+            <link>http://mathtourist.blogspot.com/2018/07/independence-day-2018.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/independence-day-2018.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 04 Jul 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3369,17 +3376,17 @@ Commonly misquoted:
             <pubDate>Mon, 02 Jul 2018 11:03:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Swimming Dock]]></title>
-            <link>http://mathtourist.blogspot.com/2018/07/swimming-dock.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/swimming-dock.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 02 Jul 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Colliding Vortex Rings]]></title>
             <link>https://math-frolic.blogspot.com/2018/07/colliding-vortex-rings.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/colliding-vortex-rings.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 02 Jul 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swimming Dock]]></title>
+            <link>http://mathtourist.blogspot.com/2018/07/swimming-dock.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/swimming-dock.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 02 Jul 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3411,17 +3418,17 @@ Commonly misquoted:
             <pubDate>Mon, 02 Jul 2018 09:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Growth Mindset Found Lacking]]></title>
-            <link>http://www.madmath.com/2018/07/growth-mindset-found-lacking.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2018/07/growth-mindset-found-lacking.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 02 Jul 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A calculator puzzle]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/a-calculator-puzzle/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/a-calculator-puzzle/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 02 Jul 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Growth Mindset Found Lacking]]></title>
+            <link>http://www.madmath.com/2018/07/growth-mindset-found-lacking.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2018/07/growth-mindset-found-lacking.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 02 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4631,17 +4638,17 @@ When..."]]></title>
             <pubDate>Mon, 25 Jun 2018 10:04:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Varignon Vector Masterclass]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/varignon-vector-masterclass/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/varignon-vector-masterclass/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 25 Jun 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Illustration of Platonic Solids]]></title>
             <link>http://www.madmath.com/2018/06/illustration-of-platonic-solids.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2018/06/illustration-of-platonic-solids.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 25 Jun 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Varignon Vector Masterclass]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/varignon-vector-masterclass/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/varignon-vector-masterclass/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 25 Jun 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4837,17 +4844,17 @@ well, i tried]]></title>
             <pubDate>Sun, 24 Jun 2018 00:15:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Blog is Dead. Long Live the Blog!]]></title>
-            <link>http://www.mathgoespop.com/2018/06/the-blog-is-dead-long-live-the-blog.html</link>
-            <guid isPermaLink="false">http://www.mathgoespop.com/2018/06/the-blog-is-dead-long-live-the-blog.html</guid>
-            <dc:creator><![CDATA[Math Goes Pop]]></dc:creator>
-            <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A forecast ensemble benchmark]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/JruQKGou2Xw/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/JruQKGou2Xw/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Blog is Dead. Long Live the Blog!]]></title>
+            <link>http://www.mathgoespop.com/2018/06/the-blog-is-dead-long-live-the-blog.html</link>
+            <guid isPermaLink="false">http://www.mathgoespop.com/2018/06/the-blog-is-dead-long-live-the-blog.html</guid>
+            <dc:creator><![CDATA[Math Goes Pop]]></dc:creator>
             <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
