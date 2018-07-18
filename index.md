@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;What knitting can teach you about math&quot;... (h/t Earl Samuelson):<a href="https://t.co/fxadDEBs5t">https://t.co/fxadDEBs5t</a><br> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1019548605982658560?ref_src=twsrc%5Etfw">July 18, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">James Dilts explains the controversial Axiom of Choice:<a href="https://t.co/cjrNypxYvj">https://t.co/cjrNypxYvj</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1019396349152940033?ref_src=twsrc%5Etfw">July 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
