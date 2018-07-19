@@ -3,6 +3,12 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Poring over Poncelet by  -- a great piece by <a href="https://twitter.com/ocfnash?ref_src=twsrc%5Etfw">@ocfnash</a> including lovely interactive widgets. See if you can help locate that reference though! <a href="https://t.co/ZtoTdoccZs">https://t.co/ZtoTdoccZs</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1019931060505890817?ref_src=twsrc%5Etfw">July 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Remembering Alexander Bogomolny <a href="https://twitter.com/CutTheKnotMath?ref_src=twsrc%5Etfw">@CutTheKnotMath</a>  - <a href="https://twitter.com/MrHonner?ref_src=twsrc%5Etfw">@mrhonner</a> shares some personal memories and gathers links to other posts <a href="https://t.co/LLUKbtz8XP">https://t.co/LLUKbtz8XP</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1019930267975159809?ref_src=twsrc%5Etfw">July 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;What knitting can teach you about math&quot;... (h/t Earl Samuelson):<a href="https://t.co/fxadDEBs5t">https://t.co/fxadDEBs5t</a><br> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1019548605982658560?ref_src=twsrc%5Etfw">July 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
