@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Jul 2018 15:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jul 2018 16:16:09 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Jul 2018 15:15:39 GMT</pubDate>
+        <pubDate>Sun, 29 Jul 2018 16:16:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -668,17 +668,17 @@
             <pubDate>Thu, 26 Jul 2018 12:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ingrid Daubechies's Favorite Theorem]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/koBgBz2e2Kc/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/koBgBz2e2Kc/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Thu, 26 Jul 2018 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Of Contests and Interesting Folks...]]></title>
             <link>https://math-frolic.blogspot.com/2018/07/of-contests-and-interesting-folks.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/of-contests-and-interesting-folks.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 26 Jul 2018 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ingrid Daubechies's Favorite Theorem]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/koBgBz2e2Kc/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/koBgBz2e2Kc/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Thu, 26 Jul 2018 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1032,17 +1032,17 @@
             <pubDate>Tue, 24 Jul 2018 23:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Un aller-retour au pays des pavages.]]></title>
-            <link>http://images.math.cnrs.fr/Un-aller-retour-au-pays-des-pavages.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-aller-retour-au-pays-des-pavages.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 24 Jul 2018 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - July 25]]></title>
             <link>http://pballew.blogspot.com/2018/07/on-this-day-in-math-july-25.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/07/on-this-day-in-math-july-25.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 24 Jul 2018 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Un aller-retour au pays des pavages.]]></title>
+            <link>http://images.math.cnrs.fr/Un-aller-retour-au-pays-des-pavages.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-aller-retour-au-pays-des-pavages.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 24 Jul 2018 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1517,13 +1517,6 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Mon, 23 Jul 2018 09:47:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can you find a centre and angle of rotation without any construction?]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/can-you-find-a-centre-and-angle-of-rotation-without-any-construction/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/can-you-find-a-centre-and-angle-of-rotation-without-any-construction/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 23 Jul 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[17th Century Science Ciphers]]></title>
             <link>http://www.madmath.com/2018/07/17th-century-science-ciphers.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2018/07/17th-century-science-ciphers.html</guid>
@@ -1531,16 +1524,23 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Mon, 23 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Le format de papier A4]]></title>
-            <link>http://images.math.cnrs.fr/Le-format-de-papier-A4.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Le-format-de-papier-A4.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 23 Jul 2018 05:00:00 GMT</pubDate>
+            <title><![CDATA[Can you find a centre and angle of rotation without any construction?]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/can-you-find-a-centre-and-angle-of-rotation-without-any-construction/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/can-you-find-a-centre-and-angle-of-rotation-without-any-construction/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 23 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[4.9.26]]></title>
             <link>http://images.math.cnrs.fr/-4537.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/-4537.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 23 Jul 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Le format de papier A4]]></title>
+            <link>http://images.math.cnrs.fr/Le-format-de-papier-A4.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Le-format-de-papier-A4.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 23 Jul 2018 05:00:00 GMT</pubDate>
         </item>
@@ -2560,17 +2560,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Wed, 18 Jul 2018 05:32:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Young Pioneers]]></title>
-            <link>http://mrburkemath.blogspot.com/2018/07/the-young-pioneers.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/07/the-young-pioneers.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Wed, 18 Jul 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Laure Saint-Raymond : La science dont je rêve...]]></title>
             <link>http://images.math.cnrs.fr/Laure-Saint-Raymond-La-science-dont-je-reve.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Laure-Saint-Raymond-La-science-dont-je-reve.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 18 Jul 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Young Pioneers]]></title>
+            <link>http://mrburkemath.blogspot.com/2018/07/the-young-pioneers.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/07/the-young-pioneers.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Wed, 18 Jul 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2980,17 +2980,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Mon, 16 Jul 2018 09:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why the factor and remainder theorem work]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 16 Jul 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Oxford: Likely Alone in Universe]]></title>
             <link>http://www.madmath.com/2018/07/oxford-likely-alone-in-universe.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2018/07/oxford-likely-alone-in-universe.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 16 Jul 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the factor and remainder theorem work]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 16 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3120,17 +3120,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Sun, 15 Jul 2018 11:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Great Dodecahedron]]></title>
-            <link>http://mathtourist.blogspot.com/2018/07/great-dodecahedron.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/great-dodecahedron.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 15 Jul 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[n-body problems]]></title>
             <link>https://math-frolic.blogspot.com/2018/07/n-body-problems.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/n-body-problems.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 15 Jul 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Great Dodecahedron]]></title>
+            <link>http://mathtourist.blogspot.com/2018/07/great-dodecahedron.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/great-dodecahedron.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 15 Jul 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3435,10 +3435,10 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Fri, 13 Jul 2018 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Juillet 2018, 2e défi]]></title>
-            <link>http://images.math.cnrs.fr/Juillet-2018-2e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Juillet-2018-2e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <title><![CDATA[Not That Long]]></title>
+            <link>http://mrburkemath.blogspot.com/2018/07/not-that-long_13.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/07/not-that-long_13.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 13 Jul 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3449,10 +3449,10 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Fri, 13 Jul 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Not That Long]]></title>
-            <link>http://mrburkemath.blogspot.com/2018/07/not-that-long_13.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/07/not-that-long_13.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <title><![CDATA[Juillet 2018, 2e défi]]></title>
+            <link>http://images.math.cnrs.fr/Juillet-2018-2e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Juillet-2018-2e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 13 Jul 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3694,17 +3694,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Thu, 12 Jul 2018 01:12:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poor Customer Service]]></title>
-            <link>http://datagenetics.com/blog/july12018/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/july12018/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't do this either]]></title>
             <link>https://blog.plover.com/prog/perl/do-not-2.html</link>
             <guid isPermaLink="false">https://blog.plover.com/prog/perl/do-not-2.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poor Customer Service]]></title>
+            <link>http://datagenetics.com/blog/july12018/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/july12018/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4247,17 +4247,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Mon, 09 Jul 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gates Foundation Considered Harmful]]></title>
-            <link>http://www.madmath.com/2018/07/gates-foundation-considered-harmful.html</link>
-            <guid isPermaLink="false">http://www.madmath.com/2018/07/gates-foundation-considered-harmful.html</guid>
-            <dc:creator><![CDATA[MadMath]]></dc:creator>
-            <pubDate>Mon, 09 Jul 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Two coins, one fair, one biased]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/two-coins-one-fair-one-biased/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/two-coins-one-fair-one-biased/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 09 Jul 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gates Foundation Considered Harmful]]></title>
+            <link>http://www.madmath.com/2018/07/gates-foundation-considered-harmful.html</link>
+            <guid isPermaLink="false">http://www.madmath.com/2018/07/gates-foundation-considered-harmful.html</guid>
+            <dc:creator><![CDATA[MadMath]]></dc:creator>
             <pubDate>Mon, 09 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5513,17 +5513,17 @@ Commonly misquoted:
             <pubDate>Mon, 02 Jul 2018 09:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A calculator puzzle]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/a-calculator-puzzle/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/a-calculator-puzzle/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 02 Jul 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Growth Mindset Found Lacking]]></title>
             <link>http://www.madmath.com/2018/07/growth-mindset-found-lacking.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2018/07/growth-mindset-found-lacking.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 02 Jul 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A calculator puzzle]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/a-calculator-puzzle/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/a-calculator-puzzle/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 02 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6045,20 +6045,6 @@ When..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/KnGqR6JZZKU/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Thu, 28 Jun 2018 17:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lessons: the stuff we envision, only better]]></title>
-            <link>https://emergentmath.com/2018/06/28/lessons-the-stuff-were-used-to-but-better/</link>
-            <guid isPermaLink="false">https://emergentmath.com/2018/06/28/lessons-the-stuff-were-used-to-but-better/</guid>
-            <dc:creator><![CDATA[emergent math]]></dc:creator>
-            <pubDate>Thu, 28 Jun 2018 15:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linear regression and planet spacing]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/_A_epLkdni0/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/_A_epLkdni0/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Thu, 28 Jun 2018 15:12:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
