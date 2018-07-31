@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Sunil Singh&#39;s experience teaching math, his way:<a href="https://t.co/uNGwvXsy2v">https://t.co/uNGwvXsy2v</a> …<a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1024392266113273862?ref_src=twsrc%5Etfw">July 31, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Special issue of (free online) Journal of Humanistic Mathematics on &#39;math and motherhood&#39;:<a href="https://t.co/4spr4EbQ32">https://t.co/4spr4EbQ32</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/hashtag/mathblogging?src=hash&amp;ref_src=twsrc%5Etfw">#mathblogging</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1023902296189616128?ref_src=twsrc%5Etfw">July 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
