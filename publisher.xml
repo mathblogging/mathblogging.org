@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Aug 2018 09:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 10:15:40 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Aug 2018 09:16:38 GMT</pubDate>
+        <pubDate>Wed, 01 Aug 2018 10:15:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -260,6 +260,13 @@
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/summer-science-ii.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 31 Jul 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[higher central extension]]></title>
+            <link>https://ncatlab.org/nlab/show/higher+central+extension</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/higher+central+extension</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 31 Jul 2018 09:18:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Relationships between philosophers over time]]></title>
@@ -1949,17 +1956,17 @@
             <pubDate>Tue, 24 Jul 2018 23:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Un aller-retour au pays des pavages.]]></title>
-            <link>http://images.math.cnrs.fr/Un-aller-retour-au-pays-des-pavages.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-aller-retour-au-pays-des-pavages.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 24 Jul 2018 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - July 25]]></title>
             <link>http://pballew.blogspot.com/2018/07/on-this-day-in-math-july-25.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/07/on-this-day-in-math-july-25.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 24 Jul 2018 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Un aller-retour au pays des pavages.]]></title>
+            <link>http://images.math.cnrs.fr/Un-aller-retour-au-pays-des-pavages.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-aller-retour-au-pays-des-pavages.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 24 Jul 2018 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2427,13 +2434,6 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Mon, 23 Jul 2018 09:47:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can you find a centre and angle of rotation without any construction?]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/can-you-find-a-centre-and-angle-of-rotation-without-any-construction/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/can-you-find-a-centre-and-angle-of-rotation-without-any-construction/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 23 Jul 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[17th Century Science Ciphers]]></title>
             <link>http://www.madmath.com/2018/07/17th-century-science-ciphers.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2018/07/17th-century-science-ciphers.html</guid>
@@ -2441,16 +2441,23 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Mon, 23 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.9.26]]></title>
-            <link>http://images.math.cnrs.fr/-4537.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4537.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 23 Jul 2018 05:00:00 GMT</pubDate>
+            <title><![CDATA[Can you find a centre and angle of rotation without any construction?]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/can-you-find-a-centre-and-angle-of-rotation-without-any-construction/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/can-you-find-a-centre-and-angle-of-rotation-without-any-construction/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 23 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Le format de papier A4]]></title>
             <link>http://images.math.cnrs.fr/Le-format-de-papier-A4.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Le-format-de-papier-A4.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 23 Jul 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.9.26]]></title>
+            <link>http://images.math.cnrs.fr/-4537.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4537.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 23 Jul 2018 05:00:00 GMT</pubDate>
         </item>
@@ -2574,17 +2581,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Sun, 22 Jul 2018 11:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In Their Own World]]></title>
-            <link>https://math-frolic.blogspot.com/2018/07/in-their-own-world.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/in-their-own-world.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 22 Jul 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ode to Space]]></title>
             <link>http://mathtourist.blogspot.com/2018/07/ode-to-space.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/ode-to-space.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 22 Jul 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Their Own World]]></title>
+            <link>https://math-frolic.blogspot.com/2018/07/in-their-own-world.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/in-their-own-world.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 22 Jul 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2740,6 +2747,13 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <guid isPermaLink="false">http://misscalculate.blogspot.com/2018/07/tmc18-discovering-geometry-through.html</guid>
             <dc:creator><![CDATA[misscalcul8]]></dc:creator>
             <pubDate>Sat, 21 Jul 2018 15:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[geometry of physics -- basic notions of higher topos theory]]></title>
+            <link>https://ncatlab.org/nlab/show/geometry+of+physics+--+basic+notions+of+higher+topos+theory</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/geometry+of+physics+--+basic+notions+of+higher+topos+theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 21 Jul 2018 15:27:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fraktur symbols in mathematics]]></title>
@@ -3414,17 +3428,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Wed, 18 Jul 2018 05:32:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Young Pioneers]]></title>
-            <link>http://mrburkemath.blogspot.com/2018/07/the-young-pioneers.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/07/the-young-pioneers.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Wed, 18 Jul 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Laure Saint-Raymond : La science dont je rêve...]]></title>
             <link>http://images.math.cnrs.fr/Laure-Saint-Raymond-La-science-dont-je-reve.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Laure-Saint-Raymond-La-science-dont-je-reve.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 18 Jul 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Young Pioneers]]></title>
+            <link>http://mrburkemath.blogspot.com/2018/07/the-young-pioneers.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/07/the-young-pioneers.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Wed, 18 Jul 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3795,14 +3809,14 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <title><![CDATA[Second place in a single-elimination tournament]]></title>
             <link>https://aperiodical.com/2018/07/second-place-in-a-single-elimination-tournament/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/07/second-place-in-a-single-elimination-tournament/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Mon, 16 Jul 2018 10:06:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Second place in a single-elimination tournament]]></title>
             <link>https://aperiodical.com/2018/07/second-place-in-a-single-elimination-tournament/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/07/second-place-in-a-single-elimination-tournament/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Mon, 16 Jul 2018 10:06:33 GMT</pubDate>
         </item>
         <item>
@@ -3820,17 +3834,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Mon, 16 Jul 2018 09:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why the factor and remainder theorem work]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 16 Jul 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Oxford: Likely Alone in Universe]]></title>
             <link>http://www.madmath.com/2018/07/oxford-likely-alone-in-universe.html</link>
             <guid isPermaLink="false">http://www.madmath.com/2018/07/oxford-likely-alone-in-universe.html</guid>
             <dc:creator><![CDATA[MadMath]]></dc:creator>
+            <pubDate>Mon, 16 Jul 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the factor and remainder theorem work]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/why-the-factor-and-remainder-theorem-work/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 16 Jul 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3960,17 +3974,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Sun, 15 Jul 2018 11:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Great Dodecahedron]]></title>
-            <link>http://mathtourist.blogspot.com/2018/07/great-dodecahedron.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/great-dodecahedron.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 15 Jul 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[n-body problems]]></title>
             <link>https://math-frolic.blogspot.com/2018/07/n-body-problems.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/n-body-problems.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 15 Jul 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Great Dodecahedron]]></title>
+            <link>http://mathtourist.blogspot.com/2018/07/great-dodecahedron.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/07/great-dodecahedron.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 15 Jul 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4023,17 +4037,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Sun, 15 Jul 2018 01:30:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (66)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/07/15/fortnightly-links-66/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/07/15/fortnightly-links-66/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[UseR!2018 talks]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/R8bDXYcTKCg/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/R8bDXYcTKCg/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (66)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/07/15/fortnightly-links-66/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/07/15/fortnightly-links-66/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4268,17 +4282,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Fri, 13 Jul 2018 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Phase Retrieval Under a Generative Prior]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/tAauTWS5Umg/phase-retrieval-under-generative-prior.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/tAauTWS5Umg/phase-retrieval-under-generative-prior.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Fri, 13 Jul 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Not That Long]]></title>
             <link>http://mrburkemath.blogspot.com/2018/07/not-that-long_13.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/07/not-that-long_13.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 13 Jul 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Phase Retrieval Under a Generative Prior]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/tAauTWS5Umg/phase-retrieval-under-generative-prior.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/tAauTWS5Umg/phase-retrieval-under-generative-prior.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Fri, 13 Jul 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4506,17 +4520,17 @@ Teens in Aden, Yemen with the traditional yemeni...]]></title>
             <pubDate>Thu, 12 Jul 2018 01:12:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poor Customer Service]]></title>
-            <link>http://datagenetics.com/blog/july12018/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/july12018/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't do this either]]></title>
             <link>https://blog.plover.com/prog/perl/do-not-2.html</link>
             <guid isPermaLink="false">https://blog.plover.com/prog/perl/do-not-2.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poor Customer Service]]></title>
+            <link>http://datagenetics.com/blog/july12018/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/july12018/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6372,13 +6386,6 @@ Commonly misquoted:
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/teach-programming.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 01 Jul 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I pugni battuti sui tavoli europei producono un patto sui migranti che penalizza l’Italia?]]></title>
-            <link>http://dionisoo.blogspot.com/2018/07/i-pugni-battuti-sui-tavoli-europei.html</link>
-            <guid isPermaLink="false">http://dionisoo.blogspot.com/2018/07/i-pugni-battuti-sui-tavoli-europei.html</guid>
-            <dc:creator><![CDATA[Blogghetto]]></dc:creator>
-            <pubDate>Sun, 01 Jul 2018 09:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
