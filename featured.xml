@@ -4,24 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Aug 2018 14:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Aug 2018 15:28:55 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Aug 2018 14:30:51 GMT</pubDate>
+        <pubDate>Sat, 25 Aug 2018 15:28:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Totients, Eulers Phi Function  (Unlike Lightning, they always strike at least twice)]]></title>
+            <link>http://pballew.blogspot.com/2018/08/totients-eulers-phi-function-unlike.html</link>
+            <guid isPermaLink="false">http://pballew.blogspot.com/2018/08/totients-eulers-phi-function-unlike.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 25 Aug 2018 14:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In statistics, we talk about uncertainty without it being viewed as undesirable]]></title>
             <link>https://andrewgelman.com/2018/08/25/statistics-talk-uncertainty-without-viewed-undesirable/</link>
             <guid isPermaLink="false">https://andrewgelman.com/2018/08/25/statistics-talk-uncertainty-without-viewed-undesirable/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sat, 25 Aug 2018 13:46:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing the basic ideas behind quadratic reciprocity to kids]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/08/25/introducing-the-basic-ideas-behind-quadratic-reciprocity-to-kids/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/08/25/introducing-the-basic-ideas-behind-quadratic-reciprocity-to-kids/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Sat, 25 Aug 2018 12:44:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Epi and mono]]></title>
@@ -309,13 +309,6 @@
             <guid isPermaLink="false">http://blog.jpolak.org/?p=2021</guid>
             <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
             <pubDate>Fri, 24 Aug 2018 03:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Couplings of Normal variables]]></title>
-            <link>https://statisfaction.wordpress.com/2018/08/24/couplings-of-normal-variables/</link>
-            <guid isPermaLink="false">https://statisfaction.wordpress.com/2018/08/24/couplings-of-normal-variables/</guid>
-            <dc:creator><![CDATA[Statisfaction]]></dc:creator>
-            <pubDate>Fri, 24 Aug 2018 03:18:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frank Baum's uncomfortable relationship with Oz]]></title>
@@ -731,13 +724,6 @@
             <pubDate>Tue, 21 Aug 2018 20:33:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trying out Edmund Harriss’s puzzle with kids]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/08/21/trying-out-edmund-harrisss-puzzle-with-kids/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/08/21/trying-out-edmund-harrisss-puzzle-with-kids/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Tue, 21 Aug 2018 20:00:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Differential Geometry in Modal HoTT]]></title>
             <link>https://homotopytypetheory.org/2018/08/21/differential-geometry-in-modal-hott/</link>
             <guid isPermaLink="false">https://homotopytypetheory.org/2018/08/21/differential-geometry-in-modal-hott/</guid>
@@ -1151,17 +1137,17 @@
             <pubDate>Mon, 20 Aug 2018 11:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spooky FMR….]]></title>
-            <link>https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Steel Beam Suspension]]></title>
             <link>http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spooky FMR….]]></title>
+            <link>https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1179,17 +1165,17 @@
             <pubDate>Mon, 20 Aug 2018 09:26:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Four honored with School of Science teaching prizes]]></title>
-            <link>http://news.mit.edu/2018/mit-moitra-ogorman-perez-minicozzi-win-2018-teaching-prizes-0820</link>
-            <guid isPermaLink="false">http://news.mit.edu/2018/mit-moitra-ogorman-perez-minicozzi-win-2018-teaching-prizes-0820</guid>
-            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
-            <pubDate>Mon, 20 Aug 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.9.30]]></title>
             <link>http://images.math.cnrs.fr/4-9-30.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-30.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 20 Aug 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four honored with School of Science teaching prizes]]></title>
+            <link>http://news.mit.edu/2018/mit-moitra-ogorman-perez-minicozzi-win-2018-teaching-prizes-0820</link>
+            <guid isPermaLink="false">http://news.mit.edu/2018/mit-moitra-ogorman-perez-minicozzi-win-2018-teaching-prizes-0820</guid>
+            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
             <pubDate>Mon, 20 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1333,13 +1319,6 @@
             <pubDate>Sun, 19 Aug 2018 15:01:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using an AB Calculus question as a estimation problem for kids]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/08/19/using-an-ab-calculus-question-as-a-estimation-problem-for-kids/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/08/19/using-an-ab-calculus-question-as-a-estimation-problem-for-kids/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Sun, 19 Aug 2018 14:27:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematical Miscellany #21]]></title>
             <link>https://colleenyoung.wordpress.com/2018/08/19/mathematical-miscellany-21/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2018/08/19/mathematical-miscellany-21/</guid>
@@ -1471,6 +1450,13 @@
             <guid isPermaLink="false">https://journeyinmath.wordpress.com/2018/08/18/lagrangemultipliers/</guid>
             <dc:creator><![CDATA[Journey In Mathematics]]></dc:creator>
             <pubDate>Sat, 18 Aug 2018 21:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twos to Nines Challenges (AKA Best First Day Activity EVER!)]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/twos-to-nines-challenges-aka-best-first.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/twos-to-nines-challenges-aka-best-first.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Sat, 18 Aug 2018 21:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Groen landschap]]></title>
@@ -1676,13 +1662,6 @@
             <pubDate>Fri, 17 Aug 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Walking through the proof that e is irrational with a kid]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/08/17/walking-through-the-proof-that-e-is-irrational-with-a-kid/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/08/17/walking-through-the-proof-that-e-is-irrational-with-a-kid/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Fri, 17 Aug 2018 12:10:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Frauenkirche Clock]]></title>
             <link>http://mathtourist.blogspot.com/2018/08/frauenkirche-clock.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/frauenkirche-clock.html</guid>
@@ -1744,13 +1723,6 @@
             <guid isPermaLink="false">https://mathenchant.wordpress.com/2018/08/16/knots-and-narnias/</guid>
             <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
             <pubDate>Fri, 17 Aug 2018 03:11:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Posters 2018]]></title>
-            <link>https://algebrainiac.wordpress.com/2018/08/16/posters-2018/</link>
-            <guid isPermaLink="false">https://algebrainiac.wordpress.com/2018/08/16/posters-2018/</guid>
-            <dc:creator><![CDATA[Algebrainiac]]></dc:creator>
-            <pubDate>Fri, 17 Aug 2018 02:54:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Winner Of 2018 Knuth Prize Is:]]></title>
@@ -2434,13 +2406,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 13 Aug 2018 15:54:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting to know your students]]></title>
-            <link>https://algebrainiac.wordpress.com/2018/08/13/getting-to-know-your-students/</link>
-            <guid isPermaLink="false">https://algebrainiac.wordpress.com/2018/08/13/getting-to-know-your-students/</guid>
-            <dc:creator><![CDATA[Algebrainiac]]></dc:creator>
-            <pubDate>Mon, 13 Aug 2018 15:43:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Modular exponentiation]]></title>
             <link>https://mathlesstraveled.com/2018/08/13/modular-exponentiation/</link>
             <guid isPermaLink="false">https://mathlesstraveled.com/2018/08/13/modular-exponentiation/</guid>
@@ -2490,17 +2455,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 13 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.9.29]]></title>
-            <link>http://images.math.cnrs.fr/4-9-29.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-29.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Complex transformations (and incorrect wording?)]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.9.29]]></title>
+            <link>http://images.math.cnrs.fr/4-9-29.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-29.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2574,17 +2539,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 13 Aug 2018 00:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Probability and Tennis]]></title>
-            <link>http://datagenetics.com/blog/august12018/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/august12018/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Mon, 13 Aug 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (68)]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/08/13/fortnightly-links-68/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/08/13/fortnightly-links-68/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 13 Aug 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Probability and Tennis]]></title>
+            <link>http://datagenetics.com/blog/august12018/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/august12018/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 13 Aug 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2672,13 +2637,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 12 Aug 2018 14:47:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revisiting the last digits of Graham’s number]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/08/12/revisiting-the-last-digits-of-grahams-number/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/08/12/revisiting-the-last-digits-of-grahams-number/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Sun, 12 Aug 2018 13:44:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Black Panther (Filmphysik)]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/RnvuOrUER48/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/RnvuOrUER48/</guid>
@@ -2707,17 +2665,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 12 Aug 2018 12:13:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Somebody’s Having a Birthday]]></title>
-            <link>https://math-frolic.blogspot.com/2018/08/somebodys-having-birthday.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/somebodys-having-birthday.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wet Chain]]></title>
             <link>http://mathtourist.blogspot.com/2018/08/wet-chain.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/wet-chain.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Somebody’s Having a Birthday]]></title>
+            <link>https://math-frolic.blogspot.com/2018/08/somebodys-having-birthday.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/somebodys-having-birthday.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3715,17 +3673,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Tue, 07 Aug 2018 13:24:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Instant Replay #3:  Adding "richness" using strategies]]></title>
-            <link>http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Tue, 07 Aug 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SCOTUS game theory]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/08/scotus-game-theory.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/08/scotus-game-theory.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 07 Aug 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instant Replay #3:  Adding "richness" using strategies]]></title>
+            <link>http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Tue, 07 Aug 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3748,13 +3706,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/GonitSora/~3/md4ILJdztnM/</guid>
             <dc:creator><![CDATA[Gonit Sora]]></dc:creator>
             <pubDate>Tue, 07 Aug 2018 11:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orthonormal bases formed by translation of sequences]]></title>
-            <link>https://calculus7.org/2018/08/07/orthonormal-bases-formed-by-translation-of-sequences/</link>
-            <guid isPermaLink="false">https://calculus7.org/2018/08/07/orthonormal-bases-formed-by-translation-of-sequences/</guid>
-            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
-            <pubDate>Tue, 07 Aug 2018 11:07:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trees in the Round]]></title>
@@ -3846,13 +3797,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://geometrywiz.wordpress.com/2018/08/06/you-want-us-to-do-what/</guid>
             <dc:creator><![CDATA[Journey of A Mathematics Educator]]></dc:creator>
             <pubDate>Mon, 06 Aug 2018 23:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On This Day in Math - August 7]]></title>
-            <link>http://pballew.blogspot.com/2018/08/on-this-day-in-math-august-7.html</link>
-            <guid isPermaLink="false">http://pballew.blogspot.com/2018/08/on-this-day-in-math-august-7.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 06 Aug 2018 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TMC '18: A Photo Retrospective]]></title>
@@ -3960,6 +3904,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 06 Aug 2018 14:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Radicals Interactive Notebook Pages - Algebra 1]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/radicals-interactive-notebook-pages.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/radicals-interactive-notebook-pages.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Mon, 06 Aug 2018 13:37:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hom functors and a glimpse of Yoneda]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/NSKW3fFBlYs/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/NSKW3fFBlYs/</guid>
@@ -3974,17 +3925,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 06 Aug 2018 13:15:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Instant Replay:  Rich Tasks #2]]></title>
-            <link>http://algebrasfriend.blogspot.com/2018/08/instant-replay-rich-tasks-2.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/instant-replay-rich-tasks-2.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Mon, 06 Aug 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kevin Drum on Medicare for all]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/08/kevin-drum-on-medicare-for-all.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/08/kevin-drum-on-medicare-for-all.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 06 Aug 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instant Replay:  Rich Tasks #2]]></title>
+            <link>http://algebrasfriend.blogspot.com/2018/08/instant-replay-rich-tasks-2.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/instant-replay-rich-tasks-2.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Mon, 06 Aug 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4142,6 +4093,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 05 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Five Things (Not Friday): Volume 21]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/five-things-not-friday-volume-21.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/five-things-not-friday-volume-21.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Sun, 05 Aug 2018 10:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Seneca Learning]]></title>
             <link>https://colleenyoung.wordpress.com/2018/08/05/seneca-learning/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2018/08/05/seneca-learning/</guid>
@@ -4191,6 +4149,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 05 Aug 2018 02:00:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Puzzle Table: Weeks 18-24]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/puzzle-table-weeks-18-24.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/puzzle-table-weeks-18-24.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Sat, 04 Aug 2018 23:45:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ICM-2018 giorno 4 bis: Più rinfrescante di un’água de côco…]]></title>
             <link>http://maddmaths.simai.eu/comunicare/icm2018/icm-2018-giorno-4-bis-piu-rinfrescante-di-unagua-de-coco/</link>
             <guid isPermaLink="false">http://maddmaths.simai.eu/comunicare/icm2018/icm-2018-giorno-4-bis-piu-rinfrescante-di-unagua-de-coco/</guid>
@@ -4217,13 +4182,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/alfio-quarteroni-il-ritorno-di-una-stella-della-matematica-il-fatto-quotidiano-4-agosto-2018/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Sat, 04 Aug 2018 17:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trying out a challenging problem shared by Amy Hogan]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/08/04/trying-out-a-challenging-problem-shared-by-amy-hogan/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/08/04/trying-out-a-challenging-problem-shared-by-amy-hogan/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Sat, 04 Aug 2018 17:05:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICM 2018, giorno 4: un pomeriggio italiano (foto di Ambrosio, Figalli)]]></title>
@@ -4450,17 +4408,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Fri, 03 Aug 2018 13:55:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[First Week Idea - Chessboard Squares Extension]]></title>
-            <link>http://algebrasfriend.blogspot.com/2018/08/first-week-idea-chessboard-squares.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/first-week-idea-chessboard-squares.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Fri, 03 Aug 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Really?  This was actually advanced as an argument?]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/08/really-this-was-actually-advanced-as.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/08/really-this-was-actually-advanced-as.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 03 Aug 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First Week Idea - Chessboard Squares Extension]]></title>
+            <link>http://algebrasfriend.blogspot.com/2018/08/first-week-idea-chessboard-squares.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/first-week-idea-chessboard-squares.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Fri, 03 Aug 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4989,25 +4947,11 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Wed, 01 Aug 2018 03:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teaching What You Really Don’t Know, Part II]]></title>
-            <link>https://blogs.ams.org/phdplus/2018/07/31/teaching-what-you-really-dont-know-part-ii/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=teaching-what-you-really-dont-know-part-ii</link>
-            <guid isPermaLink="false">https://blogs.ams.org/phdplus/2018/07/31/teaching-what-you-really-dont-know-part-ii/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=teaching-what-you-really-dont-know-part-ii</guid>
-            <dc:creator><![CDATA[PhD + epsilon]]></dc:creator>
-            <pubDate>Wed, 01 Aug 2018 02:55:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Checking in on MoviePass]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/07/checking-in-on-moviepass.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/07/checking-in-on-moviepass.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 01 Aug 2018 02:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recreational Mathematics for Fun, Sanity, and an Sometimes Even Papers]]></title>
-            <link>https://blogs.ams.org/phdplus/2018/07/31/recreational-mathematics-for-fun-sanity-and-an-sometimes-even-papers/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recreational-mathematics-for-fun-sanity-and-an-sometimes-even-papers</link>
-            <guid isPermaLink="false">https://blogs.ams.org/phdplus/2018/07/31/recreational-mathematics-for-fun-sanity-and-an-sometimes-even-papers/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recreational-mathematics-for-fun-sanity-and-an-sometimes-even-papers</guid>
-            <dc:creator><![CDATA[PhD + epsilon]]></dc:creator>
-            <pubDate>Wed, 01 Aug 2018 02:34:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ERC vs NSF]]></title>
@@ -5115,6 +5059,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Tue, 31 Jul 2018 15:18:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Polynomials INB Pages - Algebra 1]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/07/polynomials-inb-pages-algebra-1.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/07/polynomials-inb-pages-algebra-1.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Tue, 31 Jul 2018 15:01:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bending the Law of Sines]]></title>
             <link>https://aperiodical.com/2018/07/bending-the-law-of-sines/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/07/bending-the-law-of-sines/</guid>
@@ -5211,6 +5162,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/RFWufpoZsqU/factorisation.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Mon, 30 Jul 2018 19:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monday Must Reads: Volume 46]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/07/monday-must-reads-volume-46.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/07/monday-must-reads-volume-46.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Mon, 30 Jul 2018 18:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SMT solutions]]></title>
@@ -5316,13 +5274,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/6ZnnL2GkIbk/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Mon, 30 Jul 2018 12:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playing with Laura Taalman’s 3d printable “Scutoid”]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/07/30/playing-with-laura-taalmans-3d-printable-scutoid/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/07/30/playing-with-laura-taalmans-3d-printable-scutoid/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Mon, 30 Jul 2018 10:51:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Círculos iguales en un pentágono]]></title>
@@ -5577,13 +5528,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 29 Jul 2018 16:32:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revisiting Numberphile’s 1 + 2 + 3 + . . . = -1/12 video]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/07/29/revisiting-numberphiles-1-2-3-1-12-video/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/07/29/revisiting-numberphiles-1-2-3-1-12-video/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Sun, 29 Jul 2018 14:25:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What is equity? The Danger of a Single Story.]]></title>
             <link>https://picrust.wordpress.com/2018/07/29/what-is-equity-the-danger-of-a-single-story/</link>
             <guid isPermaLink="false">https://picrust.wordpress.com/2018/07/29/what-is-equity-the-danger-of-a-single-story/</guid>
@@ -5638,13 +5582,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2018/07/28/gamifying-propositional-logic-qed-an-interactive-textbook/</guid>
             <dc:creator><![CDATA[What's new]]></dc:creator>
             <pubDate>Sun, 29 Jul 2018 02:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sharing a nice problem from Fermat’s library with the boys]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/07/28/sharing-a-nice-problem-from-fermats-library-with-the-boys/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/07/28/sharing-a-nice-problem-from-fermats-library-with-the-boys/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Sat, 28 Jul 2018 23:17:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Quest For Simple Hard Statements]]></title>
@@ -6060,17 +5997,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Thu, 26 Jul 2018 12:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ingrid Daubechies's Favorite Theorem]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/koBgBz2e2Kc/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/koBgBz2e2Kc/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Thu, 26 Jul 2018 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Of Contests and Interesting Folks...]]></title>
             <link>https://math-frolic.blogspot.com/2018/07/of-contests-and-interesting-folks.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/07/of-contests-and-interesting-folks.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Thu, 26 Jul 2018 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ingrid Daubechies's Favorite Theorem]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/koBgBz2e2Kc/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/koBgBz2e2Kc/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Thu, 26 Jul 2018 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6107,13 +6044,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://datagenetics.com/blog/july32018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a kid learning geometry can look like]]></title>
-            <link>https://mikesmathpage.wordpress.com/2018/07/25/what-a-kid-learning-geometry-can-look-like/</link>
-            <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/07/25/what-a-kid-learning-geometry-can-look-like/</guid>
-            <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
-            <pubDate>Wed, 25 Jul 2018 23:45:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["The connected graphs with no |eigenvalue| ≥2 are precisely the A-D-E diagrams."]]></title>
@@ -6198,20 +6128,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://quomodocumque.wordpress.com/2018/07/25/a-type-of-unproductivity/</guid>
             <dc:creator><![CDATA[Quomodocumque]]></dc:creator>
             <pubDate>Wed, 25 Jul 2018 15:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Self-warming sake bottle]]></title>
-            <link>https://blog.plover.com/food/self-warming-sake.html</link>
-            <guid isPermaLink="false">https://blog.plover.com/food/self-warming-sake.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Wed, 25 Jul 2018 15:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obligatory #TMC18 Recap Thing]]></title>
-            <link>http://infinitesums.com/commentary/2018/tmc18</link>
-            <guid isPermaLink="false">http://infinitesums.com/commentary/2018/tmc18</guid>
-            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
-            <pubDate>Wed, 25 Jul 2018 15:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
