@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Aug 2018 09:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Aug 2018 10:33:59 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Aug 2018 09:18:02 GMT</pubDate>
+        <pubDate>Sat, 25 Aug 2018 10:33:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[How to implement type theory in an hour]]></title>
+            <link>http://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/</guid>
+            <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
+            <pubDate>Sat, 25 Aug 2018 09:31:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Speed]]></title>
             <link>https://jd2718.org/2018/08/25/speed/</link>
@@ -78,20 +85,6 @@
             <guid isPermaLink="false">https://11011110.github.io/blog/2018/08/24/report-from-ALGO.html</guid>
             <dc:creator><![CDATA[11011110]]></dc:creator>
             <pubDate>Fri, 24 Aug 2018 19:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gespleten kubus nr1]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/6Wsn8Kwfdzk/gespleten-kubus-nr1.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/6Wsn8Kwfdzk/gespleten-kubus-nr1.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Fri, 24 Aug 2018 19:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MTricks is live]]></title>
-            <link>http://mathtricks.org/mtricks-is-live/</link>
-            <guid isPermaLink="false">http://mathtricks.org/mtricks-is-live/</guid>
-            <dc:creator><![CDATA[MathTricks – The Complete Internet Marketing Blog]]></dc:creator>
-            <pubDate>Fri, 24 Aug 2018 19:19:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Pavel Haas Quartet at the Edinburgh Festival]]></title>
@@ -330,13 +323,6 @@
             <guid isPermaLink="false">https://www.logicmatters.net/2018/08/23/mesh-wifi-deco-m5/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Thu, 23 Aug 2018 20:54:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[level2d]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Z5UenM3pzZQ/level2d.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Z5UenM3pzZQ/level2d.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Thu, 23 Aug 2018 19:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RSA numbers and factoring]]></title>
@@ -701,13 +687,6 @@
             <guid isPermaLink="false">https://homotopytypetheory.org/2018/08/21/differential-geometry-in-modal-hott/</guid>
             <dc:creator><![CDATA[Homotopy Type Theory]]></dc:creator>
             <pubDate>Tue, 21 Aug 2018 19:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DRUKVERSCHUIVING]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Gvyunfh4Upg/drukverschuiving.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Gvyunfh4Upg/drukverschuiving.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Tue, 21 Aug 2018 19:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pragmatic Semiotic Information (Ψ)]]></title>
@@ -1109,17 +1088,17 @@
             <pubDate>Mon, 20 Aug 2018 11:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Steel Beam Suspension]]></title>
-            <link>http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Spooky FMR….]]></title>
             <link>https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steel Beam Suspension]]></title>
+            <link>http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1247,13 +1226,6 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2018/08/20/a-funny-mistake/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Sun, 19 Aug 2018 22:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Detectives]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/iLl-AtXpzpg/detectives.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/iLl-AtXpzpg/detectives.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sun, 19 Aug 2018 20:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Old Glory]]></title>
@@ -1438,13 +1410,6 @@
             <pubDate>Sat, 18 Aug 2018 21:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groen landschap]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/9zNfpNilh20/groen-landschap.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/9zNfpNilh20/groen-landschap.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sat, 18 Aug 2018 19:40:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Mammoth Grade 5 Skills Review Workbook]]></title>
             <link>http://homeschoolmath.blogspot.com/2018/08/math-mammoth-grade-5-skills-review.html</link>
             <guid isPermaLink="false">http://homeschoolmath.blogspot.com/2018/08/math-mammoth-grade-5-skills-review.html</guid>
@@ -1508,6 +1473,13 @@
             <pubDate>Sat, 18 Aug 2018 09:00:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[#Latemaths]]></title>
+            <link>http://www.resourceaholic.com/2018/08/latemaths.html</link>
+            <guid isPermaLink="false">http://www.resourceaholic.com/2018/08/latemaths.html</guid>
+            <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
+            <pubDate>Sat, 18 Aug 2018 07:48:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Make Money Fast! – Teoria]]></title>
             <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/08/18/make-money-fast-%25e2%2580%2593-teoria/</link>
             <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/08/18/make-money-fast-%e2%80%93-teoria/</guid>
@@ -1548,13 +1520,6 @@
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/08/pleased-as-punch.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 17 Aug 2018 20:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Impossible triangle tattoo]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/QgIYPOcua5I/impossible-triangle-tattoo.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/QgIYPOcua5I/impossible-triangle-tattoo.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Fri, 17 Aug 2018 20:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mathematical Practices]]></title>
@@ -1916,13 +1881,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Wed, 15 Aug 2018 19:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rood land-schap]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/qHZ9kivaNsE/rood-land-schap.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/qHZ9kivaNsE/rood-land-schap.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Wed, 15 Aug 2018 19:05:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Imaginary Numbers]]></title>
             <link>https://poetrywithmathematics.blogspot.com/2018/08/imaginary-numbers.html</link>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2018/08/imaginary-numbers.html</guid>
@@ -2131,13 +2089,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/08/how-many-binary-numbers-have-same.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 14 Aug 2018 19:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pencils and Nuts]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/3xLIFYktjV8/pencils-and-nuts.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/3xLIFYktjV8/pencils-and-nuts.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Tue, 14 Aug 2018 19:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big Bang Telescope Finale Marks End of an Era in Cosmology (Nature News)]]></title>
@@ -2448,17 +2399,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 13 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.9.29]]></title>
-            <link>http://images.math.cnrs.fr/4-9-29.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-29.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Complex transformations (and incorrect wording?)]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.9.29]]></title>
+            <link>http://images.math.cnrs.fr/4-9-29.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-29.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2581,13 +2532,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 12 Aug 2018 19:38:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dorpszicht met Kunstbelichting]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Xj_XBWr5Uyo/dorpszicht-met-kunstbelichting.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Xj_XBWr5Uyo/dorpszicht-met-kunstbelichting.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sun, 12 Aug 2018 19:21:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Teacher User Manual]]></title>
             <link>https://clopendebate.wordpress.com/2018/08/12/teacher-user-manual/</link>
             <guid isPermaLink="false">https://clopendebate.wordpress.com/2018/08/12/teacher-user-manual/</guid>
@@ -2665,17 +2609,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 12 Aug 2018 12:13:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wet Chain]]></title>
-            <link>http://mathtourist.blogspot.com/2018/08/wet-chain.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/wet-chain.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Somebody’s Having a Birthday]]></title>
             <link>https://math-frolic.blogspot.com/2018/08/somebodys-having-birthday.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/somebodys-having-birthday.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wet Chain]]></title>
+            <link>http://mathtourist.blogspot.com/2018/08/wet-chain.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/wet-chain.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2740,13 +2684,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://tsourakakis.com/2018/08/11/graph-mining-with-a-faulty-oracle/</guid>
             <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
             <pubDate>Sat, 11 Aug 2018 21:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Squared]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/XbjOVdrL62Y/squared.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/XbjOVdrL62Y/squared.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sat, 11 Aug 2018 20:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Currying in calculus, PDEs, programming, and categories]]></title>
@@ -2880,13 +2817,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://aperiodical.com/2018/08/international-congress-of-mathematicians-2022-st-petersberg/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Fri, 10 Aug 2018 20:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[De Haas van Dürer op visite bij een Meanderarchitektuur van JdM]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/UtXcL69dTNs/de-haas-van-durer-op-visite-bij-een.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/UtXcL69dTNs/de-haas-van-durer-op-visite-bij-een.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Fri, 10 Aug 2018 19:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[summer activities]]></title>
@@ -3323,13 +3253,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Wed, 08 Aug 2018 20:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tattoos with impossible figures]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/qLRstvn8D_s/tattoos-with-impossible-figures.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/qLRstvn8D_s/tattoos-with-impossible-figures.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Wed, 08 Aug 2018 19:56:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Week of Likes]]></title>
             <link>http://kfouss.blogspot.com/2018/08/a-week-of-likes.html</link>
             <guid isPermaLink="false">http://kfouss.blogspot.com/2018/08/a-week-of-likes.html</guid>
@@ -3673,17 +3596,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Tue, 07 Aug 2018 13:24:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Instant Replay #3:  Adding "richness" using strategies]]></title>
-            <link>http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Tue, 07 Aug 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SCOTUS game theory]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/08/scotus-game-theory.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/08/scotus-game-theory.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 07 Aug 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instant Replay #3:  Adding "richness" using strategies]]></title>
+            <link>http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Tue, 07 Aug 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3706,13 +3629,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/GonitSora/~3/md4ILJdztnM/</guid>
             <dc:creator><![CDATA[Gonit Sora]]></dc:creator>
             <pubDate>Tue, 07 Aug 2018 11:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orthonormal bases formed by translation of sequences]]></title>
-            <link>https://calculus7.org/2018/08/07/orthonormal-bases-formed-by-translation-of-sequences/</link>
-            <guid isPermaLink="false">https://calculus7.org/2018/08/07/orthonormal-bases-formed-by-translation-of-sequences/</guid>
-            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
-            <pubDate>Tue, 07 Aug 2018 11:07:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trees in the Round]]></title>
@@ -3862,13 +3778,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 06 Aug 2018 19:19:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Breugelpaartje vluchtend naar een curieus in een vlaams sneeuwlandschap]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/CffzQu3cJUM/breugelpaartje-vluchtend-naar-een.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/CffzQu3cJUM/breugelpaartje-vluchtend-naar-een.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Mon, 06 Aug 2018 19:03:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Unizor - Physics4Teens - Mechanics - Statics - Equilibrium]]></title>
             <link>http://unizor.blogspot.com/2018/08/unizor-physics4teens-mechanics-statics.html</link>
             <guid isPermaLink="false">http://unizor.blogspot.com/2018/08/unizor-physics4teens-mechanics-statics.html</guid>
@@ -3888,6 +3797,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2018/08/06/desperately-seeking-integers/</guid>
             <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
             <pubDate>Mon, 06 Aug 2018 17:25:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Maths Gems #93]]></title>
+            <link>http://www.resourceaholic.com/2018/08/gems93.html</link>
+            <guid isPermaLink="false">http://www.resourceaholic.com/2018/08/gems93.html</guid>
+            <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
+            <pubDate>Mon, 06 Aug 2018 15:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing the Inspirational Corner]]></title>
@@ -4037,13 +3953,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Burden of Vigilance]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/9A4zKcF1Im0/the-burden-of-vigilance.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/9A4zKcF1Im0/the-burden-of-vigilance.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sun, 05 Aug 2018 20:26:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ali Nesin, il Villaggio Matematico, e il Premio Leelavati 2018]]></title>
             <link>http://maddmaths.simai.eu/comunicare/icm2018/ali-nesin-leelavati/</link>
             <guid isPermaLink="false">http://maddmaths.simai.eu/comunicare/icm2018/ali-nesin-leelavati/</guid>
@@ -4177,13 +4086,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sat, 04 Aug 2018 21:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Breugel-paartje snel rennend naar lusthuisje in stralend sneeuwlanschap]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/EWK0oRgcM70/breugel-paartje-snel-rennend-naar.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/EWK0oRgcM70/breugel-paartje-snel-rennend-naar.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sat, 04 Aug 2018 19:42:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Alfio Quarteroni, il ritorno di una stella della matematica (Il Fatto Quotidiano, 4 agosto 2018)]]></title>
             <link>http://maddmaths.simai.eu/divulgazione/alfio-quarteroni-il-ritorno-di-una-stella-della-matematica-il-fatto-quotidiano-4-agosto-2018/</link>
             <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/alfio-quarteroni-il-ritorno-di-una-stella-della-matematica-il-fatto-quotidiano-4-agosto-2018/</guid>
@@ -4231,13 +4133,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/using-mathfail-for-mathchallenge.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Sat, 04 Aug 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Impossible triangle in watercolor]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Tt1_A5iS9vo/impossible-triangle-in-watercolor.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/Tt1_A5iS9vo/impossible-triangle-in-watercolor.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sat, 04 Aug 2018 12:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Matematica...in relax!]]></title>
@@ -4422,17 +4317,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Fri, 03 Aug 2018 13:55:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Really?  This was actually advanced as an argument?]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2018/08/really-this-was-actually-advanced-as.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/08/really-this-was-actually-advanced-as.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Fri, 03 Aug 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[First Week Idea - Chessboard Squares Extension]]></title>
             <link>http://algebrasfriend.blogspot.com/2018/08/first-week-idea-chessboard-squares.html</link>
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/first-week-idea-chessboard-squares.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
+            <pubDate>Fri, 03 Aug 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Really?  This was actually advanced as an argument?]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2018/08/really-this-was-actually-advanced-as.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/08/really-this-was-actually-advanced-as.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 03 Aug 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4525,13 +4420,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://misscalculate.blogspot.com/2018/08/throwback-thursday-teacher-identity.html</guid>
             <dc:creator><![CDATA[misscalcul8]]></dc:creator>
             <pubDate>Thu, 02 Aug 2018 23:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Witte Stad - Ville Blanche, Margaretha Hening]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/DW9sMwFAxpw/witte-stad-ville-blanche-margaretha.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/DW9sMwFAxpw/witte-stad-ville-blanche-margaretha.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Thu, 02 Aug 2018 19:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nevanlinna Prize 2018]]></title>
@@ -4714,13 +4602,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/08/02/fortnightly-links-67/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Archon Ouroboros]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/z07pFai56bo/archon-ouroboros.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/z07pFai56bo/archon-ouroboros.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Wed, 01 Aug 2018 21:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Homework and practice]]></title>
@@ -4989,16 +4870,16 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Wed, 01 Aug 2018 00:41:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Real and linear analysis]]></title>
-            <link>http://scoskey.org/course/1819f-515/</link>
-            <guid isPermaLink="false">http://scoskey.org/course/1819f-515/</guid>
+            <title><![CDATA[Discrete and foundational mathematics]]></title>
+            <link>http://scoskey.org/course/1819f-187/</link>
+            <guid isPermaLink="false">http://scoskey.org/course/1819f-187/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Discrete and foundational mathematics]]></title>
-            <link>http://scoskey.org/course/1819f-187/</link>
-            <guid isPermaLink="false">http://scoskey.org/course/1819f-187/</guid>
+            <title><![CDATA[Real and linear analysis]]></title>
+            <link>http://scoskey.org/course/1819f-515/</link>
+            <guid isPermaLink="false">http://scoskey.org/course/1819f-515/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
         </item>
@@ -5057,13 +4938,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://blog.jpolak.org/?p=2000</guid>
             <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
             <pubDate>Tue, 31 Jul 2018 20:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KBSTSCH ARCHITKTR]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/0dHC-nRixHA/kbstsch-architktr.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/0dHC-nRixHA/kbstsch-architktr.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Tue, 31 Jul 2018 19:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Mind Wanders]]></title>
@@ -5183,13 +5057,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://unizor.blogspot.com/2018/07/unizor-physics4teens-mechanics-dynamics_30.html</guid>
             <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
             <pubDate>Mon, 30 Jul 2018 20:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tattoo sketches]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/cTHSiTSaPaE/tattoo-sketches.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/cTHSiTSaPaE/tattoo-sketches.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Mon, 30 Jul 2018 19:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[اساسيات الرياضيات 4 النشر والتعميل]]></title>
@@ -5535,13 +5402,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 29 Jul 2018 19:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grootvoetige Vleugelstoel]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/v3f86Yrw-T8/grootvoetige-vleugelstoel.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/v3f86Yrw-T8/grootvoetige-vleugelstoel.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sun, 29 Jul 2018 19:49:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Calcolo mentale e ragionato]]></title>
             <link>http://ilpiccolofriedrich.blogspot.com/2018/07/calcolo-mentale-e-ragionato.html</link>
             <guid isPermaLink="false">http://ilpiccolofriedrich.blogspot.com/2018/07/calcolo-mentale-e-ragionato.html</guid>
@@ -5554,13 +5414,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://cheesemonkeysf.blogspot.com/2018/07/tmc-18-recap-lesson-from-rock-and-roll.html</guid>
             <dc:creator><![CDATA[cheesemonkey wonders]]></dc:creator>
             <pubDate>Sun, 29 Jul 2018 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Figures Library update]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/qHcMdMsSAZQ/figures-library-update.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/qHcMdMsSAZQ/figures-library-update.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sun, 29 Jul 2018 18:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The State of the 2018 #MTBoS (to me)]]></title>
@@ -5652,13 +5505,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://quomodocumque.wordpress.com/2018/07/28/look-how-much-i-saved-you-on-this-goddamn-vacuum-cleaner/</guid>
             <dc:creator><![CDATA[Quomodocumque]]></dc:creator>
             <pubDate>Sat, 28 Jul 2018 22:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MEANDER]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/KSHwhZ47Vjs/meander.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/KSHwhZ47Vjs/meander.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sat, 28 Jul 2018 20:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[For Popper’s Birthday: Reading from Conjectures and Refutations (+ self-test)]]></title>
@@ -5801,13 +5647,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Fri, 27 Jul 2018 20:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stained glass]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/tTmz6xtD9KM/stained-glass.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/tTmz6xtD9KM/stained-glass.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Fri, 27 Jul 2018 19:51:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How dumb do you have to be…]]></title>
             <link>https://andrewgelman.com/2018/07/27/how-dumb-do-you-have-to-be/</link>
             <guid isPermaLink="false">https://andrewgelman.com/2018/07/27/how-dumb-do-you-have-to-be/</guid>
@@ -5904,13 +5743,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://ilpiccolofriedrich.blogspot.com/2018/07/in-arrivo-leclissi-di-luna-del-secolo.html</guid>
             <dc:creator><![CDATA[Il piccolo Friedrich]]></dc:creator>
             <pubDate>Fri, 27 Jul 2018 11:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mr. Palomar su Radio24]]></title>
-            <link>http://misterpalomar.blogspot.com/2018/07/mr-palomar-su-radio24.html</link>
-            <guid isPermaLink="false">http://misterpalomar.blogspot.com/2018/07/mr-palomar-su-radio24.html</guid>
-            <dc:creator><![CDATA[Mr. Palomar]]></dc:creator>
-            <pubDate>Fri, 27 Jul 2018 09:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Complexity in Oxford]]></title>
@@ -6144,13 +5976,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Wed, 25 Jul 2018 21:27:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dubbel-zinnige Topologie van een Cyclopisch Bouwwerk]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/LVpm0WDWjko/dubbel-zinnige-topologie-van-een.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/LVpm0WDWjko/dubbel-zinnige-topologie-van-een.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Wed, 25 Jul 2018 19:36:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Advice on soft skills for academics]]></title>
             <link>https://andrewgelman.com/2018/07/25/advice-soft-skills-academics/</link>
             <guid isPermaLink="false">https://andrewgelman.com/2018/07/25/advice-soft-skills-academics/</guid>
@@ -6240,13 +6065,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/07/25/wem-nuetzt-die-diskussion-ueber-raubverlage/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wem-nuetzt-die-diskussion-ueber-raubverlage</guid>
             <dc:creator><![CDATA[Mathlog]]></dc:creator>
             <pubDate>Wed, 25 Jul 2018 11:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mate Lab!]]></title>
-            <link>http://ilpiccolofriedrich.blogspot.com/2018/07/mate-lab.html</link>
-            <guid isPermaLink="false">http://ilpiccolofriedrich.blogspot.com/2018/07/mate-lab.html</guid>
-            <dc:creator><![CDATA[Il piccolo Friedrich]]></dc:creator>
-            <pubDate>Wed, 25 Jul 2018 09:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
