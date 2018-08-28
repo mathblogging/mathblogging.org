@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Aug 2018 17:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Aug 2018 18:19:13 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Aug 2018 17:18:25 GMT</pubDate>
+        <pubDate>Tue, 28 Aug 2018 18:19:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Large cardinals and combinatorial set theory]]></title>
+            <link>https://andrescaicedo.wordpress.com/2018/08/28/large-cardinals-and-combinatorial-set-theory/</link>
+            <guid isPermaLink="false">https://andrescaicedo.wordpress.com/2018/08/28/large-cardinals-and-combinatorial-set-theory/</guid>
+            <dc:creator><![CDATA[A kind of library]]></dc:creator>
+            <pubDate>Tue, 28 Aug 2018 17:55:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Fat Tech Cat Diet]]></title>
             <link>https://blogs.ams.org/blogonmathblogs/2018/08/28/the-fat-tech-cat-diet/</link>
@@ -311,24 +318,17 @@
             <pubDate>Mon, 27 Aug 2018 12:30:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Joy Of Winning documentary on BBC2]]></title>
-            <link>https://aperiodical.com/2018/08/the-joy-of-winning-documentary-on-bbc2/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/08/the-joy-of-winning-documentary-on-bbc2/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Mon, 27 Aug 2018 12:19:27 GMT</pubDate>
+            <title><![CDATA[Yosemite]]></title>
+            <link>http://mathtourist.blogspot.com/2018/08/yosemite.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/yosemite.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Happy and Sad Numbers]]></title>
             <link>http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</link>
             <guid isPermaLink="false">http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</guid>
             <dc:creator><![CDATA[Real teaching means real learning]]></dc:creator>
-            <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yosemite]]></title>
-            <link>http://mathtourist.blogspot.com/2018/08/yosemite.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/yosemite.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -360,13 +360,6 @@
             <pubDate>Mon, 27 Aug 2018 09:21:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS: More or Less - Automated fact-checking]]></title>
-            <link>http://www.bbc.co.uk/programmes/p06jcsgr</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06jcsgr</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 27 Aug 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.10.1]]></title>
             <link>http://images.math.cnrs.fr/-4556.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/-4556.html</guid>
@@ -378,6 +371,13 @@
             <link>http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 27 Aug 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS: More or Less - Automated fact-checking]]></title>
+            <link>http://www.bbc.co.uk/programmes/p06jcsgr</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06jcsgr</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 27 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1844,17 +1844,17 @@
             <pubDate>Mon, 20 Aug 2018 11:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spooky FMR….]]></title>
-            <link>https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Steel Beam Suspension]]></title>
             <link>http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spooky FMR….]]></title>
+            <link>https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1956,17 +1956,17 @@
             <pubDate>Sun, 19 Aug 2018 23:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La logique 1 bacF : partie 1]]></title>
-            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/uT125sCsVgY/la-logique-1-bacf-partie-1.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/uT125sCsVgY/la-logique-1-bacf-partie-1.html</guid>
-            <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
-            <pubDate>Sun, 19 Aug 2018 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - August 20]]></title>
             <link>http://pballew.blogspot.com/2018/08/on-this-day-in-math-august-20.html</link>
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/08/on-this-day-in-math-august-20.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 19 Aug 2018 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La logique 1 bacF : partie 1]]></title>
+            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/uT125sCsVgY/la-logique-1-bacf-partie-1.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/uT125sCsVgY/la-logique-1-bacf-partie-1.html</guid>
+            <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Sun, 19 Aug 2018 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3148,17 +3148,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 13 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Complex transformations (and incorrect wording?)]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.9.29]]></title>
             <link>http://images.math.cnrs.fr/4-9-29.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-29.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complex transformations (and incorrect wording?)]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3225,17 +3225,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 13 Aug 2018 00:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (68)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/08/13/fortnightly-links-68/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/08/13/fortnightly-links-68/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 13 Aug 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Probability and Tennis]]></title>
             <link>http://datagenetics.com/blog/august12018/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/august12018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Mon, 13 Aug 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (68)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/08/13/fortnightly-links-68/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/08/13/fortnightly-links-68/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 13 Aug 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3365,17 +3365,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 12 Aug 2018 12:13:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wet Chain]]></title>
-            <link>http://mathtourist.blogspot.com/2018/08/wet-chain.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/wet-chain.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Somebody’s Having a Birthday]]></title>
             <link>https://math-frolic.blogspot.com/2018/08/somebodys-having-birthday.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/somebodys-having-birthday.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wet Chain]]></title>
+            <link>http://mathtourist.blogspot.com/2018/08/wet-chain.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/wet-chain.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3575,13 +3575,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Fri, 10 Aug 2018 22:19:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Congress of Mathematicians 2022 – St Petersburg]]></title>
-            <link>https://aperiodical.com/2018/08/international-congress-of-mathematicians-2022-st-petersberg/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/08/international-congress-of-mathematicians-2022-st-petersberg/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Fri, 10 Aug 2018 20:44:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[De Haas van Dürer op visite bij een Meanderarchitektuur van JdM]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/UtXcL69dTNs/de-haas-van-durer-op-visite-bij-een.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/UtXcL69dTNs/de-haas-van-durer-op-visite-bij-een.html</guid>
@@ -3610,17 +3603,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Fri, 10 Aug 2018 15:04:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Numbers Behind a Tweetstorm]]></title>
-            <link>http://www.bbc.co.uk/programmes/p06h3ttk</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06h3ttk</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 10 Aug 2018 15:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Descale]]></title>
             <link>http://infinitesums.com/commentary/2018/descale</link>
             <guid isPermaLink="false">http://infinitesums.com/commentary/2018/descale</guid>
             <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
+            <pubDate>Fri, 10 Aug 2018 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Numbers Behind a Tweetstorm]]></title>
+            <link>http://www.bbc.co.uk/programmes/p06h3ttk</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06h3ttk</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 10 Aug 2018 15:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3853,13 +3846,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/08/09/day-4-studying-logic/</guid>
             <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
             <pubDate>Thu, 09 Aug 2018 16:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carnival of Mathematics 160]]></title>
-            <link>https://aperiodical.com/2018/08/carnival-of-mathematics-160/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/08/carnival-of-mathematics-160/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Thu, 09 Aug 2018 14:26:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two Workshops at NIPS 2018]]></title>
@@ -4198,13 +4184,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Wed, 08 Aug 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2018 Christopher Zeeman Medal awarded to Hannah Fry]]></title>
-            <link>https://aperiodical.com/2018/08/2018-christopher-zeeman-medal-awarded-to-hannah-fry/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/08/2018-christopher-zeeman-medal-awarded-to-hannah-fry/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Wed, 08 Aug 2018 12:25:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BONUS PODCAST:  Economics with Subtitles - How Buying Cocaine Helps the Government]]></title>
             <link>http://www.bbc.co.uk/programmes/p06gch89</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06gch89</guid>
@@ -4331,17 +4310,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Tue, 07 Aug 2018 13:24:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Instant Replay #3:  Adding "richness" using strategies]]></title>
-            <link>http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Tue, 07 Aug 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SCOTUS game theory]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/08/scotus-game-theory.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/08/scotus-game-theory.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 07 Aug 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instant Replay #3:  Adding "richness" using strategies]]></title>
+            <link>http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/08/instant-replay-3-adding-richness-using.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Tue, 07 Aug 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4625,13 +4604,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 06 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Caucher Birkar becomes first person ever to receive the Fields Medal twice]]></title>
-            <link>https://aperiodical.com/2018/08/caucher-birkar-becomes-first-person-ever-to-receive-the-fields-medal-twice/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/08/caucher-birkar-becomes-first-person-ever-to-receive-the-fields-medal-twice/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Mon, 06 Aug 2018 07:26:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[My Reflections on Reimagining High School Math at #TMC18 #rehsmath]]></title>
             <link>http://www.coast2coast.me/carl/2018/08/05/my-reflections-on-reimagining-high-school-math-at-tmc18-rehsmath/</link>
             <guid isPermaLink="false">http://www.coast2coast.me/carl/2018/08/05/my-reflections-on-reimagining-high-school-math-at-tmc18-rehsmath/</guid>
@@ -4749,6 +4721,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2018/08/05/seneca-learning/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 05 Aug 2018 08:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nevanlinna Prize winner Constantinos Daskalakis]]></title>
+            <link>http://haris-aziz.blogspot.com/2018/08/nevanlinna-prize-winner-constantinos.html</link>
+            <guid isPermaLink="false">http://haris-aziz.blogspot.com/2018/08/nevanlinna-prize-winner-constantinos.html</guid>
+            <dc:creator><![CDATA[Algorithmic Economics, AI & Other Topics]]></dc:creator>
+            <pubDate>Sun, 05 Aug 2018 04:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Me in 10 Memes]]></title>
@@ -5073,13 +5052,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Fri, 03 Aug 2018 11:05:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Big Internet Math-Off – The end]]></title>
-            <link>https://aperiodical.com/2018/08/the-big-internet-math-off-the-end/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/08/the-big-internet-math-off-the-end/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Fri, 03 Aug 2018 09:40:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Three big things that make me scrap my admin posts. Scary relationships, word salad, and the minutiae trap.]]></title>
             <link>http://www.coast2coast.me/carl/2018/08/02/three-big-things-that-make-me-scrap-my-admin-posts-scary-relationships-word-salad-and-the-minutiae-trap/</link>
             <guid isPermaLink="false">http://www.coast2coast.me/carl/2018/08/02/three-big-things-that-make-me-scrap-my-admin-posts-scary-relationships-word-salad-and-the-minutiae-trap/</guid>
@@ -5206,13 +5178,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Thu, 02 Aug 2018 12:30:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Royal Society Science Book Prize shortlist announced]]></title>
-            <link>https://aperiodical.com/2018/08/royal-society-science-book-prize-shortlist-announced/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/08/royal-society-science-book-prize-shortlist-announced/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Thu, 02 Aug 2018 12:15:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Continuous tempering through path sampling]]></title>
             <link>https://andrewgelman.com/2018/08/02/continuous-tempering-path-sampling/</link>
             <guid isPermaLink="false">https://andrewgelman.com/2018/08/02/continuous-tempering-path-sampling/</guid>
@@ -5318,13 +5283,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Wed, 01 Aug 2018 20:44:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fields Medal theft]]></title>
-            <link>https://aperiodical.com/2018/08/fields-medal-theft/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/08/fields-medal-theft/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Wed, 01 Aug 2018 20:43:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Edizione Straordinaria!]]></title>
             <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/08/01/edizione-straordinaria/</link>
             <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2018/08/01/edizione-straordinaria/</guid>
@@ -5344,13 +5302,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://news.mit.edu/2018/constantinos-daskalakis-wins-prestigious-nevanlinna-prize-0801</guid>
             <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
             <pubDate>Wed, 01 Aug 2018 18:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2018 Fields Medal Winners Announced]]></title>
-            <link>https://aperiodical.com/2018/08/2018-fields-medal-winners-announced/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/08/2018-fields-medal-winners-announced/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Wed, 01 Aug 2018 18:05:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Birkar, Figalli, Scholze, Venkatesh]]></title>
@@ -5659,13 +5610,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/07/polynomials-inb-pages-algebra-1.html</guid>
             <dc:creator><![CDATA[Math = Love]]></dc:creator>
             <pubDate>Tue, 31 Jul 2018 15:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bending the Law of Sines]]></title>
-            <link>https://aperiodical.com/2018/07/bending-the-law-of-sines/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2018/07/bending-the-law-of-sines/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Tue, 31 Jul 2018 14:00:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mathematics and Motherhood]]></title>
