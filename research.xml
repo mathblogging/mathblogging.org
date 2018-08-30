@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Aug 2018 07:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Aug 2018 08:18:33 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Aug 2018 07:18:34 GMT</pubDate>
+        <pubDate>Thu, 30 Aug 2018 08:18:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[La matematica nel sangue, recensione di due libri di Antonio Fasano]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/recensioni/la-matematica-nel-sangue/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/recensioni/la-matematica-nel-sangue/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Thu, 30 Aug 2018 07:22:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RSS 2018 – Significance Tests: Rethinking the Controversy]]></title>
             <link>https://errorstatistics.com/2018/08/30/rss-2018-significance-tests-rethinking-the-controversy/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.plover.com/book/audiobook-voice.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Wed, 29 Aug 2018 15:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Scaled Maps Problem]]></title>
-            <link>http://www.sineofthetimes.org/the-scaled-maps-problem/</link>
-            <guid isPermaLink="false">http://www.sineofthetimes.org/the-scaled-maps-problem/</guid>
-            <dc:creator><![CDATA[Sine of the Times]]></dc:creator>
-            <pubDate>Wed, 29 Aug 2018 14:05:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some clues that this study has big big problems]]></title>
@@ -717,6 +717,13 @@
             <pubDate>Mon, 27 Aug 2018 12:19:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Happy and Sad Numbers]]></title>
+            <link>http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</link>
+            <guid isPermaLink="false">http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</guid>
+            <dc:creator><![CDATA[Real teaching means real learning]]></dc:creator>
+            <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yosemite]]></title>
             <link>http://mathtourist.blogspot.com/2018/08/yosemite.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/yosemite.html</guid>
@@ -728,13 +735,6 @@
             <link>http://www.solipsys.co.uk/new/ADogCalledMixture.html?RSS</link>
             <guid isPermaLink="false">http://www.solipsys.co.uk/new/ADogCalledMixture.html?RSS</guid>
             <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Happy and Sad Numbers]]></title>
-            <link>http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</link>
-            <guid isPermaLink="false">http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</guid>
-            <dc:creator><![CDATA[Real teaching means real learning]]></dc:creator>
             <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -766,17 +766,17 @@
             <pubDate>Mon, 27 Aug 2018 09:21:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On Customer Survey Forms]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 27 Aug 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.10.1]]></title>
             <link>http://images.math.cnrs.fr/-4556.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/-4556.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 27 Aug 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Customer Survey Forms]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 27 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -841,6 +841,13 @@
             <guid isPermaLink="false">http://pballew.blogspot.com/2018/08/a-graphic-method-of-calculating.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 26 Aug 2018 23:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eight Lettered Squares Puzzle]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/eight-lettered-squares-puzzle.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/eight-lettered-squares-puzzle.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Sun, 26 Aug 2018 23:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lecture notes!  Intro to Quantum Information Science]]></title>
@@ -962,6 +969,13 @@
             <pubDate>Sun, 26 Aug 2018 03:22:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My 2018-2019 Math Classroom Decorations]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/my-2018-2019-math-classroom-decorations.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/my-2018-2019-math-classroom-decorations.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Sun, 26 Aug 2018 01:17:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MeDaScIn 2018]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/ZZmo481nuy0/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/ZZmo481nuy0/</guid>
@@ -1051,13 +1065,6 @@
             <guid isPermaLink="false">https://samjshah.com/2018/08/25/start-of-year-edition-even-more-things-i-want-to-highlight-from-twitter/</guid>
             <dc:creator><![CDATA[Continuous Everywhere but Differentiable Nowhere]]></dc:creator>
             <pubDate>Sat, 25 Aug 2018 18:35:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Day 6 | Studying Logic]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2018/08/25/day-6-studying-logic/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/08/25/day-6-studying-logic/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Sat, 25 Aug 2018 17:53:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Conferenza di Alessio Figalli alla Sapienza a Roma, 3 settembre 2018]]></title>
@@ -2152,13 +2159,6 @@
             <pubDate>Mon, 20 Aug 2018 15:39:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Review “The Math Book”]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2018/08/20/review-the-math-book/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/08/20/review-the-math-book/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Mon, 20 Aug 2018 15:03:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nurturing the Next Generation of Marine Microbial Ecologists]]></title>
             <link>https://www.simonsfoundation.org/2018/08/20/marine-microbial-ecologists/</link>
             <guid isPermaLink="false">https://www.simonsfoundation.org/2018/08/20/marine-microbial-ecologists/</guid>
@@ -2222,17 +2222,17 @@
             <pubDate>Mon, 20 Aug 2018 11:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Steel Beam Suspension]]></title>
-            <link>http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Spooky FMR….]]></title>
             <link>https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/spooky-fmr.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steel Beam Suspension]]></title>
+            <link>http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/steel-beam-suspension.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2250,17 +2250,17 @@
             <pubDate>Mon, 20 Aug 2018 09:26:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Four honored with School of Science teaching prizes]]></title>
-            <link>http://news.mit.edu/2018/mit-moitra-ogorman-perez-minicozzi-win-2018-teaching-prizes-0820</link>
-            <guid isPermaLink="false">http://news.mit.edu/2018/mit-moitra-ogorman-perez-minicozzi-win-2018-teaching-prizes-0820</guid>
-            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
-            <pubDate>Mon, 20 Aug 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.9.30]]></title>
             <link>http://images.math.cnrs.fr/4-9-30.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-30.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 20 Aug 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four honored with School of Science teaching prizes]]></title>
+            <link>http://news.mit.edu/2018/mit-moitra-ogorman-perez-minicozzi-win-2018-teaching-prizes-0820</link>
+            <guid isPermaLink="false">http://news.mit.edu/2018/mit-moitra-ogorman-perez-minicozzi-win-2018-teaching-prizes-0820</guid>
+            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
             <pubDate>Mon, 20 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2521,6 +2521,13 @@
             <guid isPermaLink="false">https://journeyinmath.wordpress.com/2018/08/18/lagrangemultipliers/</guid>
             <dc:creator><![CDATA[Journey In Mathematics]]></dc:creator>
             <pubDate>Sat, 18 Aug 2018 21:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twos to Nines Challenges (AKA Best First Day Activity EVER!)]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/twos-to-nines-challenges-aka-best-first.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/twos-to-nines-challenges-aka-best-first.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Sat, 18 Aug 2018 21:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Groen landschap]]></title>
@@ -2838,13 +2845,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2018/08/how-valuable-is-fields-medal.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Thu, 16 Aug 2018 17:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Day 5 | Studying Logic]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2018/08/16/day-5-studying-logic/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/08/16/day-5-studying-logic/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Thu, 16 Aug 2018 16:17:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No, I don’t think it’s the file drawer effect]]></title>
@@ -3442,13 +3442,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 13 Aug 2018 16:09:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Soham Sau for the Inspirational Corner]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2018/08/13/soham-sau-for-the-inspirational-corner/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/08/13/soham-sau-for-the-inspirational-corner/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Mon, 13 Aug 2018 15:54:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Getting to know your students]]></title>
             <link>https://algebrainiac.wordpress.com/2018/08/13/getting-to-know-your-students/</link>
             <guid isPermaLink="false">https://algebrainiac.wordpress.com/2018/08/13/getting-to-know-your-students/</guid>
@@ -3505,17 +3498,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 13 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.9.29]]></title>
-            <link>http://images.math.cnrs.fr/4-9-29.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-29.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Complex transformations (and incorrect wording?)]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/complex-transformations-and-incorrect-wording/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.9.29]]></title>
+            <link>http://images.math.cnrs.fr/4-9-29.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-9-29.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 13 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4177,13 +4170,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Thu, 09 Aug 2018 18:22:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Day 4 | Studying Logic]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2018/08/09/day-4-studying-logic/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/08/09/day-4-studying-logic/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Thu, 09 Aug 2018 16:12:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Carnival of Mathematics 160]]></title>
             <link>https://aperiodical.com/2018/08/carnival-of-mathematics-160/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/08/carnival-of-mathematics-160/</guid>
@@ -4842,13 +4828,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 06 Aug 2018 15:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing the Inspirational Corner]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2018/08/06/introducing-the-inspirational-corner/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/08/06/introducing-the-inspirational-corner/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Mon, 06 Aug 2018 15:08:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Presseschau zu Perfektoiden Räumen]]></title>
             <link>http://scienceblogs.de/mathlog/2018/08/06/presseschau-zu-perfektoiden-raeumen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=presseschau-zu-perfektoiden-raeumen</link>
             <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/08/06/presseschau-zu-perfektoiden-raeumen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=presseschau-zu-perfektoiden-raeumen</guid>
@@ -4861,6 +4840,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/08/x-why-mini-changin-sines.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Mon, 06 Aug 2018 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Radicals Interactive Notebook Pages - Algebra 1]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/radicals-interactive-notebook-pages.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/radicals-interactive-notebook-pages.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Mon, 06 Aug 2018 13:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hom functors and a glimpse of Yoneda]]></title>
@@ -4919,17 +4905,17 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 06 Aug 2018 11:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Door Stop]]></title>
-            <link>http://mathtourist.blogspot.com/2018/08/door-stop.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/door-stop.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 06 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ben Orlin…. Author-To-Be, With Bad Drawings]]></title>
             <link>https://math-frolic.blogspot.com/2018/08/ben-orlin-author-to-be-with-bad-drawings.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/08/ben-orlin-author-to-be-with-bad-drawings.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Mon, 06 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Door Stop]]></title>
+            <link>http://mathtourist.blogspot.com/2018/08/door-stop.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/door-stop.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 06 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4989,13 +4975,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 05 Aug 2018 20:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ali Nesin, il Villaggio Matematico, e il Premio Leelavati 2018]]></title>
-            <link>http://maddmaths.simai.eu/comunicare/icm2018/ali-nesin-leelavati/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/comunicare/icm2018/ali-nesin-leelavati/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Sun, 05 Aug 2018 17:55:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bristol 2005]]></title>
             <link>https://galoisrepresentations.wordpress.com/2018/08/05/bristol-2005/</link>
             <guid isPermaLink="false">https://galoisrepresentations.wordpress.com/2018/08/05/bristol-2005/</guid>
@@ -5045,6 +5024,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Sun, 05 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Five Things (Not Friday): Volume 21]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/five-things-not-friday-volume-21.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/five-things-not-friday-volume-21.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Sun, 05 Aug 2018 10:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Seneca Learning]]></title>
             <link>https://colleenyoung.wordpress.com/2018/08/05/seneca-learning/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2018/08/05/seneca-learning/</guid>
@@ -5085,6 +5071,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://egtheory.wordpress.com/2018/08/04/darwin-algorithm/</guid>
             <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
             <pubDate>Sun, 05 Aug 2018 02:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Puzzle Table: Weeks 18-24]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/08/puzzle-table-weeks-18-24.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/08/puzzle-table-weeks-18-24.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Sat, 04 Aug 2018 23:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Before the Golden Age, and memories of memories]]></title>
@@ -5218,13 +5211,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Betterexplained/~3/IwURuMCr1kk/</guid>
             <dc:creator><![CDATA[BetterExplained]]></dc:creator>
             <pubDate>Fri, 03 Aug 2018 19:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math Puzzles]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2018/08/03/math-puzzles/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/08/03/math-puzzles/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Fri, 03 Aug 2018 19:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We're Not For Turning - a.k.]]></title>
@@ -5675,13 +5661,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Wed, 01 Aug 2018 15:40:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4 Calculators that made History]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2018/08/01/4-calculators-that-made-history/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/08/01/4-calculators-that-made-history/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Wed, 01 Aug 2018 15:08:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The spoils of Rio]]></title>
             <link>https://galoisrepresentations.wordpress.com/2018/08/01/the-spoils-of-rio/</link>
             <guid isPermaLink="false">https://galoisrepresentations.wordpress.com/2018/08/01/the-spoils-of-rio/</guid>
@@ -5941,6 +5920,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Tue, 31 Jul 2018 15:18:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Polynomials INB Pages - Algebra 1]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/07/polynomials-inb-pages-algebra-1.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/07/polynomials-inb-pages-algebra-1.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Tue, 31 Jul 2018 15:01:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bending the Law of Sines]]></title>
             <link>https://aperiodical.com/2018/07/bending-the-law-of-sines/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/07/bending-the-law-of-sines/</guid>
@@ -6039,6 +6025,13 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <pubDate>Mon, 30 Jul 2018 19:06:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Monday Must Reads: Volume 46]]></title>
+            <link>https://mathequalslove.blogspot.com/2018/07/monday-must-reads-volume-46.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2018/07/monday-must-reads-volume-46.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
+            <pubDate>Mon, 30 Jul 2018 18:04:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SMT solutions]]></title>
             <link>https://mathlesstraveled.com/2018/07/30/smt-solutions/</link>
             <guid isPermaLink="false">https://mathlesstraveled.com/2018/07/30/smt-solutions/</guid>
@@ -6065,13 +6058,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">http://homeschoolmath.blogspot.com/2018/07/simple-addition-subtraction-facts.html</guid>
             <dc:creator><![CDATA[Homeschool Math Blog]]></dc:creator>
             <pubDate>Mon, 30 Jul 2018 16:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Book Discoveries]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2018/07/30/new-book-discoveries/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2018/07/30/new-book-discoveries/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Mon, 30 Jul 2018 15:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sixty years is a long time . . ..]]></title>
