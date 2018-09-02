@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">How can learning abstract algebra help you learn music? <a href="https://twitter.com/evelynjlamb?ref_src=twsrc%5Etfw">@evelynjlamb</a> explains in her latest <a href="https://twitter.com/sciam?ref_src=twsrc%5Etfw">@sciam</a> piece.<a href="https://t.co/llVux3YP2j">https://t.co/llVux3YP2j</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1036262090577784832?ref_src=twsrc%5Etfw">September 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fantastic... Vi Hart on scutoids:<a href="https://t.co/hG4RrwNpqX">https://t.co/hG4RrwNpqX</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1036222291846356993?ref_src=twsrc%5Etfw">September 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
