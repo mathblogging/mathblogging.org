@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Sep 2018 21:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Sep 2018 22:15:22 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Sep 2018 21:15:42 GMT</pubDate>
+        <pubDate>Fri, 14 Sep 2018 22:15:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Extra comparisons in Python’s timsort]]></title>
+            <link>http://davidlowryduda.com/extra-comparisons-in-pythons-timsort/</link>
+            <guid isPermaLink="false">http://davidlowryduda.com/extra-comparisons-in-pythons-timsort/</guid>
+            <dc:creator><![CDATA[mixedmath]]></dc:creator>
+            <pubDate>Fri, 14 Sep 2018 22:00:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What NSF’s New Diversity Grants Say About Attempts To Help Minority Students (Science magazine)]]></title>
             <link>http://www.sciencemag.org/news/2018/09/what-nsf-s-new-diversity-grants-say-about-attempts-help-minority-students</link>
@@ -92,13 +99,6 @@
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2018/09/14/abelian-groups-mostly/</guid>
             <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
             <pubDate>Fri, 14 Sep 2018 16:07:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stand Back, Aquaman: Harpoon-Throwing Satellite Takes Aim at Space Junk (Nature News)]]></title>
-            <link>https://www.nature.com/articles/d41586-018-06674-w</link>
-            <guid isPermaLink="false">https://www.nature.com/articles/d41586-018-06674-w</guid>
-            <dc:creator><![CDATA[Simons Foundation]]></dc:creator>
-            <pubDate>Fri, 14 Sep 2018 16:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Machine Learning for Forecast Combination]]></title>
@@ -199,17 +199,17 @@
             <pubDate>Fri, 14 Sep 2018 07:34:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Septembre 2018, 2e défi]]></title>
-            <link>http://images.math.cnrs.fr/-4581.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4581.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 14 Sep 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Highly Technical Reference Page: The Rice University Compressive Sensing page.]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/fob6oC6KW0Y/highly-technical-reference-page-rice.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/fob6oC6KW0Y/highly-technical-reference-page-rice.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 14 Sep 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Septembre 2018, 2e défi]]></title>
+            <link>http://images.math.cnrs.fr/-4581.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4581.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 14 Sep 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -454,14 +454,14 @@
             <title><![CDATA[Polyhedra Viewer – meet Nat Alison]]></title>
             <link>https://aperiodical.com/2018/09/polyhedra-viewer-meet-nat-alison/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/polyhedra-viewer-meet-nat-alison/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 13 Sep 2018 09:24:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Polyhedra Viewer – meet Nat Alison]]></title>
             <link>https://aperiodical.com/2018/09/polyhedra-viewer-meet-nat-alison/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/polyhedra-viewer-meet-nat-alison/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 13 Sep 2018 09:24:07 GMT</pubDate>
         </item>
         <item>
@@ -710,17 +710,17 @@
             <pubDate>Wed, 12 Sep 2018 05:00:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pràctica productiva: equacions de primer grau]]></title>
-            <link>http://puntmat.blogspot.com/2018/09/practica-productiva-equacions-de-primer.html</link>
-            <guid isPermaLink="false">http://puntmat.blogspot.com/2018/09/practica-productiva-equacions-de-primer.html</guid>
-            <dc:creator><![CDATA[PuntMat]]></dc:creator>
-            <pubDate>Wed, 12 Sep 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Éditer les « horribles formules » de Riemann : un aperçu de l'édition de ses œuvres par Dedekind et Weber]]></title>
             <link>http://images.math.cnrs.fr/Editer-les-horribles-formules-de-Riemann-un-apercu-de-l-edition-de-ses-oeuvres.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Editer-les-horribles-formules-de-Riemann-un-apercu-de-l-edition-de-ses-oeuvres.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 12 Sep 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pràctica productiva: equacions de primer grau]]></title>
+            <link>http://puntmat.blogspot.com/2018/09/practica-productiva-equacions-de-primer.html</link>
+            <guid isPermaLink="false">http://puntmat.blogspot.com/2018/09/practica-productiva-equacions-de-primer.html</guid>
+            <dc:creator><![CDATA[PuntMat]]></dc:creator>
             <pubDate>Wed, 12 Sep 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1900,17 +1900,17 @@
             <pubDate>Fri, 07 Sep 2018 05:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Septembre 2018, 1er défi]]></title>
-            <link>http://images.math.cnrs.fr/Septembre-2018-1er-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Septembre-2018-1er-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 07 Sep 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Minacce aliene — Parte 1]]></title>
             <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/FCU5YT3L8xY/minacce-aliene-parte-1.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/FCU5YT3L8xY/minacce-aliene-parte-1.html</guid>
             <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
+            <pubDate>Fri, 07 Sep 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Septembre 2018, 1er défi]]></title>
+            <link>http://images.math.cnrs.fr/Septembre-2018-1er-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Septembre-2018-1er-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 07 Sep 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2845,17 +2845,17 @@
             <pubDate>Mon, 03 Sep 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Mathematical Ninja And The Driving Awareness Course]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/the-mathematical-ninja-and-the-driving-awareness-course/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-mathematical-ninja-and-the-driving-awareness-course/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 03 Sep 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS: More or Less - How well do you understand your world?]]></title>
             <link>http://www.bbc.co.uk/programmes/p06jzfvx</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06jzfvx</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 03 Sep 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mathematical Ninja And The Driving Awareness Course]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/the-mathematical-ninja-and-the-driving-awareness-course/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-mathematical-ninja-and-the-driving-awareness-course/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 03 Sep 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3979,6 +3979,13 @@
             <pubDate>Tue, 28 Aug 2018 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watch: Journey of Women in Mathematics]]></title>
+            <link>https://www.simonsfoundation.org/2018/08/28/watch-journey-of-women-in-mathematics/</link>
+            <guid isPermaLink="false">https://www.simonsfoundation.org/2018/08/28/watch-journey-of-women-in-mathematics/</guid>
+            <dc:creator><![CDATA[Simons Foundation]]></dc:creator>
+            <pubDate>Tue, 28 Aug 2018 22:37:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trying to understand the Galois correspondence]]></title>
             <link>https://terrytao.wordpress.com/2018/08/28/trying-to-understand-the-galois-correspondence/</link>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2018/08/28/trying-to-understand-the-galois-correspondence/</guid>
@@ -4098,17 +4105,17 @@
             <pubDate>Tue, 28 Aug 2018 11:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[20 consigli per un insegnante di matematica]]></title>
-            <link>http://ilpiccolofriedrich.blogspot.com/2018/08/20-consigli-per-un-insegnante-di.html</link>
-            <guid isPermaLink="false">http://ilpiccolofriedrich.blogspot.com/2018/08/20-consigli-per-un-insegnante-di.html</guid>
-            <dc:creator><![CDATA[Il piccolo Friedrich]]></dc:creator>
-            <pubDate>Tue, 28 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kolam Brown]]></title>
             <link>http://mathtourist.blogspot.com/2018/08/kolam-brown.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/kolam-brown.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 28 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 consigli per un insegnante di matematica]]></title>
+            <link>http://ilpiccolofriedrich.blogspot.com/2018/08/20-consigli-per-un-insegnante-di.html</link>
+            <guid isPermaLink="false">http://ilpiccolofriedrich.blogspot.com/2018/08/20-consigli-per-un-insegnante-di.html</guid>
+            <dc:creator><![CDATA[Il piccolo Friedrich]]></dc:creator>
             <pubDate>Tue, 28 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4287,10 +4294,10 @@
             <pubDate>Mon, 27 Aug 2018 12:19:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Happy and Sad Numbers]]></title>
-            <link>http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</link>
-            <guid isPermaLink="false">http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</guid>
-            <dc:creator><![CDATA[Real teaching means real learning]]></dc:creator>
+            <title><![CDATA[Yosemite]]></title>
+            <link>http://mathtourist.blogspot.com/2018/08/yosemite.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/yosemite.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4301,10 +4308,10 @@
             <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Yosemite]]></title>
-            <link>http://mathtourist.blogspot.com/2018/08/yosemite.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/yosemite.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <title><![CDATA[Happy and Sad Numbers]]></title>
+            <link>http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</link>
+            <guid isPermaLink="false">http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</guid>
+            <dc:creator><![CDATA[Real teaching means real learning]]></dc:creator>
             <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4336,10 +4343,10 @@
             <pubDate>Mon, 27 Aug 2018 09:32:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On Customer Survey Forms]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <title><![CDATA[4.10.1]]></title>
+            <link>http://images.math.cnrs.fr/-4556.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4556.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 27 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4350,10 +4357,10 @@
             <pubDate>Mon, 27 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.10.1]]></title>
-            <link>http://images.math.cnrs.fr/-4556.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4556.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <title><![CDATA[On Customer Survey Forms]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/on-customer-survey-forms/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 27 Aug 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6310,20 +6317,6 @@ In the fluorescent glare of [the heroic police chief with..."]]></title>
             <guid isPermaLink="false">https://www.ilpost.it/?blog_post=quizzini-di-ferragosto-2018</guid>
             <dc:creator><![CDATA[mauriziocodogno – Il Post]]></dc:creator>
             <pubDate>Wed, 15 Aug 2018 02:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Book Review: “Factor Man”]]></title>
-            <link>https://windowsontheory.org/2018/08/14/book-review-factor-man/</link>
-            <guid isPermaLink="false">https://windowsontheory.org/2018/08/14/book-review-factor-man/</guid>
-            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
-            <pubDate>Tue, 14 Aug 2018 21:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OAME 2019]]></title>
-            <link>http://marybourassa.blogspot.com/2018/08/oame-2019.html</link>
-            <guid isPermaLink="false">http://marybourassa.blogspot.com/2018/08/oame-2019.html</guid>
-            <dc:creator><![CDATA[M^3 (Making Math Meaningful)]]></dc:creator>
-            <pubDate>Tue, 14 Aug 2018 21:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
