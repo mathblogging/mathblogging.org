@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Sep 2018 08:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Sep 2018 09:15:22 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Sep 2018 08:15:40 GMT</pubDate>
+        <pubDate>Sat, 22 Sep 2018 09:15:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Michael Atiyah claims proof of Riemann Hypothesis]]></title>
+            <link>https://aperiodical.com/2018/09/michael-atiyah-claims-proof-of-riemann-hypothesis/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2018/09/michael-atiyah-claims-proof-of-riemann-hypothesis/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Sat, 22 Sep 2018 08:48:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vectors for Enlargement]]></title>
+            <link>http://www.resourceaholic.com/2018/09/enlargement.html</link>
+            <guid isPermaLink="false">http://www.resourceaholic.com/2018/09/enlargement.html</guid>
+            <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
+            <pubDate>Sat, 22 Sep 2018 08:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gérard Gonzalez-Sprinberg]]></title>
             <link>https://ncatlab.org/nlab/show/G%25C3%25A9rard+Gonzalez-Sprinberg</link>
@@ -234,25 +248,11 @@
             <pubDate>Fri, 21 Sep 2018 11:17:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lev Borisov]]></title>
-            <link>https://ncatlab.org/nlab/show/Lev+Borisov</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Lev+Borisov</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 21 Sep 2018 11:01:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Spiky Flowers]]></title>
             <link>http://mathtourist.blogspot.com/2018/09/spiky-flowers.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/09/spiky-flowers.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 21 Sep 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Periodische Bahnen]]></title>
-            <link>http://scienceblogs.de/mathlog/2018/09/21/periodische-bahnen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=periodische-bahnen</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/09/21/periodische-bahnen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=periodische-bahnen</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Fri, 21 Sep 2018 10:59:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Video of my ICM2018 lecture: Noise Stability, Noise Sensitivity, and the Quantum Computer Puzzle]]></title>
@@ -486,17 +486,17 @@
             <pubDate>Thu, 20 Sep 2018 13:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poetic economics]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2018/09/poetic-economics.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/09/poetic-economics.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 20 Sep 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vocabulary Resources for the Secondary Math Classroom]]></title>
             <link>http://algebrasfriend.blogspot.com/2018/09/vocabulary-resources-for-secondary-math.html</link>
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/vocabulary-resources-for-secondary-math.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
+            <pubDate>Thu, 20 Sep 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poetic economics]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2018/09/poetic-economics.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/09/poetic-economics.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 20 Sep 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -645,13 +645,6 @@
             <guid isPermaLink="false">http://retractionwatch.com/2018/09/19/jama-journals-retract-six-papers-by-food-marketing-researcher-brian-wansink/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Wed, 19 Sep 2018 18:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ausgleichungsrechnung bei xkcd]]></title>
-            <link>http://scienceblogs.de/mathlog/2018/09/20/ausgleichungsrechnung-bei-xkcd/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ausgleichungsrechnung-bei-xkcd</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/09/20/ausgleichungsrechnung-bei-xkcd/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ausgleichungsrechnung-bei-xkcd</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Wed, 19 Sep 2018 18:05:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What a Mathematical Pirate Says]]></title>
@@ -956,15 +949,15 @@
         </item>
         <item>
             <title><![CDATA[Understand in learning objectives – it’s the forest, not the trees]]></title>
-            <link>http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Sep 2018 17:31:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Understand in learning objectives – it’s the forest, not the trees]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</guid>
+            <link>http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Sep 2018 17:31:16 GMT</pubDate>
         </item>
@@ -1284,6 +1277,13 @@
             <pubDate>Mon, 17 Sep 2018 13:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A purely mathematical theory of risk is not enough 2]]></title>
+            <link>http://junkcharts.typepad.com/numbersruleyourworld/2018/09/a-purely-mathematical-theory-of-risk-is-not-enough-2.html</link>
+            <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2018/09/a-purely-mathematical-theory-of-risk-is-not-enough-2.html</guid>
+            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
+            <pubDate>Mon, 17 Sep 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Michael Hiltzik's Donald Trump/Elon Musk analogy]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/09/michael-hiltziks-donald-trumpelon-musk.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/09/michael-hiltziks-donald-trumpelon-musk.html</guid>
@@ -1295,13 +1295,6 @@
             <link>http://algebrasfriend.blogspot.com/2018/09/resources-for-habit-6-question-for.html</link>
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/resources-for-habit-6-question-for.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Mon, 17 Sep 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A purely mathematical theory of risk is not enough 2]]></title>
-            <link>http://junkcharts.typepad.com/numbersruleyourworld/2018/09/a-purely-mathematical-theory-of-risk-is-not-enough-2.html</link>
-            <guid isPermaLink="false">http://junkcharts.typepad.com/numbersruleyourworld/2018/09/a-purely-mathematical-theory-of-risk-is-not-enough-2.html</guid>
-            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
             <pubDate>Mon, 17 Sep 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1543,17 +1536,17 @@
             <pubDate>Sun, 16 Sep 2018 13:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Most Addictive Theorem in Applied Mathematics]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/wzckI3M7PXo/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/wzckI3M7PXo/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Sun, 16 Sep 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Great Sites to Support Habit 5 Predict, Infer, Recognize Trends, Use Patterns, and Generate & Test Hypotheses]]></title>
             <link>http://algebrasfriend.blogspot.com/2018/09/great-sites-to-support-habit-5-predict.html</link>
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/great-sites-to-support-habit-5-predict.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
+            <pubDate>Sun, 16 Sep 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Most Addictive Theorem in Applied Mathematics]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/wzckI3M7PXo/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/wzckI3M7PXo/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Sun, 16 Sep 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1984,13 +1977,6 @@
             <pubDate>Fri, 14 Sep 2018 14:24:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[100 Jahre Noether-Theorem]]></title>
-            <link>http://scienceblogs.de/mathlog/2018/09/14/100-jahre-noether-theorem/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=100-jahre-noether-theorem</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/09/14/100-jahre-noether-theorem/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=100-jahre-noether-theorem</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Fri, 14 Sep 2018 13:26:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Echo Chamber Incites Online Mob to Attack Math Profs]]></title>
             <link>https://andrewgelman.com/2018/09/14/echo-chamber-incites-online-mob-to-attack-math-profs/</link>
             <guid isPermaLink="false">https://andrewgelman.com/2018/09/14/echo-chamber-incites-online-mob-to-attack-math-profs/</guid>
@@ -2036,28 +2022,28 @@
             <title><![CDATA[LaTeX for typesetting a multi-pile Nim game]]></title>
             <link>https://aperiodical.com/2018/09/latex-for-typesetting-a-multi-pile-nim-game/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/latex-for-typesetting-a-multi-pile-nim-game/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Fri, 14 Sep 2018 07:34:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LaTeX for typesetting a multi-pile Nim game]]></title>
             <link>https://aperiodical.com/2018/09/latex-for-typesetting-a-multi-pile-nim-game/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/latex-for-typesetting-a-multi-pile-nim-game/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Fri, 14 Sep 2018 07:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Septembre 2018, 2e défi]]></title>
-            <link>http://images.math.cnrs.fr/-4581.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4581.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 14 Sep 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Highly Technical Reference Page: The Rice University Compressive Sensing page.]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/fob6oC6KW0Y/highly-technical-reference-page-rice.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/fob6oC6KW0Y/highly-technical-reference-page-rice.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 14 Sep 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Septembre 2018, 2e défi]]></title>
+            <link>http://images.math.cnrs.fr/-4581.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-4581.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 14 Sep 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2292,13 +2278,6 @@
             <pubDate>Thu, 13 Sep 2018 08:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aussagenlogischer Unsinn]]></title>
-            <link>http://scienceblogs.de/mathlog/2018/09/13/aussagenlogischer-unsinn/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=aussagenlogischer-unsinn</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/09/13/aussagenlogischer-unsinn/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=aussagenlogischer-unsinn</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Thu, 13 Sep 2018 07:20:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[أساسيات الرياضيات 11 الجذر مربع]]></title>
             <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/kAyPcr4Xsc4/racine-caree.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/kAyPcr4Xsc4/racine-caree.html</guid>
@@ -2495,17 +2474,17 @@
             <pubDate>Wed, 12 Sep 2018 05:00:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Éditer les « horribles formules » de Riemann : un aperçu de l'édition de ses œuvres par Dedekind et Weber]]></title>
-            <link>http://images.math.cnrs.fr/Editer-les-horribles-formules-de-Riemann-un-apercu-de-l-edition-de-ses-oeuvres.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Editer-les-horribles-formules-de-Riemann-un-apercu-de-l-edition-de-ses-oeuvres.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 12 Sep 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pràctica productiva: equacions de primer grau]]></title>
             <link>http://puntmat.blogspot.com/2018/09/practica-productiva-equacions-de-primer.html</link>
             <guid isPermaLink="false">http://puntmat.blogspot.com/2018/09/practica-productiva-equacions-de-primer.html</guid>
             <dc:creator><![CDATA[PuntMat]]></dc:creator>
+            <pubDate>Wed, 12 Sep 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Éditer les « horribles formules » de Riemann : un aperçu de l'édition de ses œuvres par Dedekind et Weber]]></title>
+            <link>http://images.math.cnrs.fr/Editer-les-horribles-formules-de-Riemann-un-apercu-de-l-edition-de-ses-oeuvres.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Editer-les-horribles-formules-de-Riemann-un-apercu-de-l-edition-de-ses-oeuvres.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 12 Sep 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2710,13 +2689,6 @@
             <guid isPermaLink="false">https://casmusings.wordpress.com/2018/09/11/implicit-derivative-question/</guid>
             <dc:creator><![CDATA[CAS Musings]]></dc:creator>
             <pubDate>Tue, 11 Sep 2018 09:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Satz von Rolle bei xkcd]]></title>
-            <link>http://scienceblogs.de/mathlog/2018/09/11/satz-von-rolle-bei-xkcd/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=satz-von-rolle-bei-xkcd</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/09/11/satz-von-rolle-bei-xkcd/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=satz-von-rolle-bei-xkcd</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Tue, 11 Sep 2018 09:11:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Da bin ich wieder]]></title>
@@ -2964,17 +2936,17 @@
             <pubDate>Mon, 10 Sep 2018 13:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Strategies for Habit 2 Activate Background Knowledge]]></title>
-            <link>http://algebrasfriend.blogspot.com/2018/09/strategies-for-habit-2-activate.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/strategies-for-habit-2-activate.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Mon, 10 Sep 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Wear gloves"]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/09/wear-gloves.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/09/wear-gloves.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 10 Sep 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strategies for Habit 2 Activate Background Knowledge]]></title>
+            <link>http://algebrasfriend.blogspot.com/2018/09/strategies-for-habit-2-activate.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/strategies-for-habit-2-activate.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Mon, 10 Sep 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3027,17 +2999,17 @@
             <pubDate>Mon, 10 Sep 2018 09:11:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: The Safest Car in the World?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p06klpzt</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06klpzt</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 10 Sep 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Review: Hello World, by Hannah Fry]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/review-hello-world-by-hannah-fry/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/review-hello-world-by-hannah-fry/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 10 Sep 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: The Safest Car in the World?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p06klpzt</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06klpzt</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 10 Sep 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3718,13 +3690,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/2_JQzeVjzCY/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Thu, 06 Sep 2018 19:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scutoide]]></title>
-            <link>http://scienceblogs.de/mathlog/2018/09/07/scutoide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scutoide</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/09/07/scutoide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scutoide</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Thu, 06 Sep 2018 18:57:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[generating celtic knot patterns]]></title>
@@ -4728,13 +4693,6 @@
             <pubDate>Sat, 01 Sep 2018 18:46:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kfz-Steuer: die Tagesschau kann nicht rechnen]]></title>
-            <link>http://scienceblogs.de/mathlog/2018/09/02/kfz-steuer-die-tagesschau-kann-nicht-rechnen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kfz-steuer-die-tagesschau-kann-nicht-rechnen</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/09/02/kfz-steuer-die-tagesschau-kann-nicht-rechnen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kfz-steuer-die-tagesschau-kann-nicht-rechnen</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Sat, 01 Sep 2018 18:35:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Living Your Values]]></title>
             <link>http://caseyulrich.com/2018/09/living-your-values/</link>
             <guid isPermaLink="false">http://caseyulrich.com/2018/09/living-your-values/</guid>
@@ -5596,17 +5554,17 @@
             <pubDate>Tue, 28 Aug 2018 11:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kolam Brown]]></title>
-            <link>http://mathtourist.blogspot.com/2018/08/kolam-brown.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/kolam-brown.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 28 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[20 consigli per un insegnante di matematica]]></title>
             <link>http://ilpiccolofriedrich.blogspot.com/2018/08/20-consigli-per-un-insegnante-di.html</link>
             <guid isPermaLink="false">http://ilpiccolofriedrich.blogspot.com/2018/08/20-consigli-per-un-insegnante-di.html</guid>
             <dc:creator><![CDATA[Il piccolo Friedrich]]></dc:creator>
+            <pubDate>Tue, 28 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kolam Brown]]></title>
+            <link>http://mathtourist.blogspot.com/2018/08/kolam-brown.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/08/kolam-brown.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 28 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5778,17 +5736,17 @@
             <pubDate>Mon, 27 Aug 2018 12:19:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Dog Called Mixture]]></title>
-            <link>http://www.solipsys.co.uk/new/ADogCalledMixture.html?RSS</link>
-            <guid isPermaLink="false">http://www.solipsys.co.uk/new/ADogCalledMixture.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Happy and Sad Numbers]]></title>
             <link>http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</link>
             <guid isPermaLink="false">http://realteachingmeansreallearning.blogspot.com/2018/08/happy-and-sad-numbers.html</guid>
             <dc:creator><![CDATA[Real teaching means real learning]]></dc:creator>
+            <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Dog Called Mixture]]></title>
+            <link>http://www.solipsys.co.uk/new/ADogCalledMixture.html?RSS</link>
+            <guid isPermaLink="false">http://www.solipsys.co.uk/new/ADogCalledMixture.html?RSS</guid>
+            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
             <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6511,13 +6469,6 @@
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2018/08/22/complex-adaptive-systems-part-8/</guid>
             <dc:creator><![CDATA[Azimuth]]></dc:creator>
             <pubDate>Wed, 22 Aug 2018 10:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ask Uncle Colin: Two triangles]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-two-triangles/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-two-triangles/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Wed, 22 Aug 2018 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
