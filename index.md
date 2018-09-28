@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/aperiodical?ref_src=twsrc%5Etfw">@aperiodical</a> team shares some concluding thoughts on Sir Michael Atiyah&#39;s failed proof of the Riemann Hypothesis earlier this week <a href="https://t.co/SlWwu1HMep">https://t.co/SlWwu1HMep</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1045710200261537792?ref_src=twsrc%5Etfw">September 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Timely... wonderful, longish 2016 intro to Riemann Hypothesis:<br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://t.co/Ewj54ISn8V">https://t.co/Ewj54ISn8V</a></p>&mdash; SheckyR (@SheckyR) <a href="https://twitter.com/SheckyR/status/1044890752550150146?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
