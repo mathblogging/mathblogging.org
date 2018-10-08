@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Oct 2018 21:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Oct 2018 22:14:53 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Oct 2018 21:15:40 GMT</pubDate>
+        <pubDate>Mon, 08 Oct 2018 22:14:53 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Double filtrators (new book section)]]></title>
+            <link>https://portonmath.wordpress.com/2018/10/09/double-filtrators/</link>
+            <guid isPermaLink="false">https://portonmath.wordpress.com/2018/10/09/double-filtrators/</guid>
+            <dc:creator><![CDATA[Victor Porton's Math Blog]]></dc:creator>
+            <pubDate>Mon, 08 Oct 2018 22:06:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[{ Information = Comprehension × Extension } • Comment 8]]></title>
             <link>https://inquiryintoinquiry.com/2018/10/08/information-comprehension-x-extension-%25e2%2580%25a2-comment-8/</link>
@@ -143,7 +150,7 @@
             <pubDate>Mon, 08 Oct 2018 13:00:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The tyranny of the mean for why virtually all of the analysis you're about to hear on Kavanaugh's impact on the election is wrong.]]></title>
+            <title><![CDATA[The tyranny of the mean or why most of the analysis you're about to hear on Kavanaugh's impact on the election may be wrong.]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/10/the-tyranny-of-mean-for-why-virtually.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/10/the-tyranny-of-mean-for-why-virtually.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
@@ -577,13 +584,6 @@
             <pubDate>Sat, 06 Oct 2018 13:01:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[character table of GL(2,3)]]></title>
-            <link>https://ncatlab.org/nlab/show/character+table+of+GL%25282%252C3%2529</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/character+table+of+GL%282%2C3%29</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 06 Oct 2018 11:37:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Target Gate]]></title>
             <link>http://mathtourist.blogspot.com/2018/10/target-gate.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/10/target-gate.html</guid>
@@ -843,17 +843,17 @@
             <pubDate>Fri, 05 Oct 2018 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Five in a Row]]></title>
-            <link>http://mrburkemath.blogspot.com/2018/10/five-in-row.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/10/five-in-row.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 05 Oct 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Octobre 2018, 1er défi]]></title>
             <link>http://images.math.cnrs.fr/Octobre-2018-1er-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2018-1er-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 05 Oct 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five in a Row]]></title>
+            <link>http://mrburkemath.blogspot.com/2018/10/five-in-row.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/10/five-in-row.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 05 Oct 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1879,6 +1879,13 @@
             <pubDate>Mon, 01 Oct 2018 02:18:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cycle of Mathematics: Verify, Revise, Repeat]]></title>
+            <link>http://relprime.com/comvrr/</link>
+            <guid isPermaLink="false">http://relprime.com/comvrr/</guid>
+            <dc:creator><![CDATA[Relatively Prime]]></dc:creator>
+            <pubDate>Mon, 01 Oct 2018 01:10:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rambling About Sorites]]></title>
             <link>https://math-frolic.blogspot.com/2018/09/rambling-about-sorites.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/09/rambling-about-sorites.html</guid>
@@ -1931,14 +1938,14 @@
             <title><![CDATA[Handing over @mathshistory]]></title>
             <link>https://aperiodical.com/2018/09/handing-over-mathshistory/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/handing-over-mathshistory/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Sun, 30 Sep 2018 21:01:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handing over @mathshistory]]></title>
             <link>https://aperiodical.com/2018/09/handing-over-mathshistory/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/handing-over-mathshistory/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 30 Sep 2018 21:01:45 GMT</pubDate>
         </item>
         <item>
@@ -2652,14 +2659,14 @@
             <title><![CDATA[HLF Blogs: Leslie Lamport Thinks Your Code Is Bad]]></title>
             <link>https://aperiodical.com/2018/09/hlf-blogs-leslie-lamport-thinks-your-code-is-bad/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/hlf-blogs-leslie-lamport-thinks-your-code-is-bad/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 27 Sep 2018 09:09:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs: Leslie Lamport Thinks Your Code Is Bad]]></title>
             <link>https://aperiodical.com/2018/09/hlf-blogs-leslie-lamport-thinks-your-code-is-bad/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/hlf-blogs-leslie-lamport-thinks-your-code-is-bad/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 27 Sep 2018 09:09:42 GMT</pubDate>
         </item>
         <item>
@@ -3244,17 +3251,17 @@
             <pubDate>Mon, 24 Sep 2018 12:53:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On the plus side,  the von Braun and Ley Zeppelin designs would make for some very cool steam-punk art]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2018/09/on-plus-side-von-braun-and-ley-zeppelin.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/09/on-plus-side-von-braun-and-ley-zeppelin.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 24 Sep 2018 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4.10.5]]></title>
             <link>http://images.math.cnrs.fr/-4577.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/-4577.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 24 Sep 2018 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the plus side,  the von Braun and Ley Zeppelin designs would make for some very cool steam-punk art]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2018/09/on-plus-side-von-braun-and-ley-zeppelin.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/09/on-plus-side-von-braun-and-ley-zeppelin.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 24 Sep 2018 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4330,15 +4337,15 @@
         </item>
         <item>
             <title><![CDATA[Understand in learning objectives – it’s the forest, not the trees]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</guid>
+            <link>http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Sep 2018 17:31:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Understand in learning objectives – it’s the forest, not the trees]]></title>
-            <link>http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Sep 2018 17:31:16 GMT</pubDate>
         </item>
@@ -4742,17 +4749,17 @@
             <pubDate>Sun, 16 Sep 2018 13:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Most Addictive Theorem in Applied Mathematics]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/wzckI3M7PXo/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/wzckI3M7PXo/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Sun, 16 Sep 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Great Sites to Support Habit 5 Predict, Infer, Recognize Trends, Use Patterns, and Generate & Test Hypotheses]]></title>
             <link>http://algebrasfriend.blogspot.com/2018/09/great-sites-to-support-habit-5-predict.html</link>
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/great-sites-to-support-habit-5-predict.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
+            <pubDate>Sun, 16 Sep 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Most Addictive Theorem in Applied Mathematics]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/wzckI3M7PXo/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/wzckI3M7PXo/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Sun, 16 Sep 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5855,17 +5862,17 @@
             <pubDate>Mon, 10 Sep 2018 13:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Strategies for Habit 2 Activate Background Knowledge]]></title>
-            <link>http://algebrasfriend.blogspot.com/2018/09/strategies-for-habit-2-activate.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/strategies-for-habit-2-activate.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Mon, 10 Sep 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Wear gloves"]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/09/wear-gloves.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/09/wear-gloves.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 10 Sep 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strategies for Habit 2 Activate Background Knowledge]]></title>
+            <link>http://algebrasfriend.blogspot.com/2018/09/strategies-for-habit-2-activate.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/strategies-for-habit-2-activate.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Mon, 10 Sep 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
