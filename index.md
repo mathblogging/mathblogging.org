@@ -210,9 +210,6 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Some good advice from <a href="https://twitter.com/RobertTalbert?ref_src=twsrc%5Etfw">@RobertTalbert</a>: “Three things to leave off of your syllabus” <a href="https://t.co/Qke6HSdC9u">https://t.co/Qke6HSdC9u</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/hashtag/mathblogging?src=hash&amp;ref_src=twsrc%5Etfw">#mathblogging</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/948986567552483328?ref_src=twsrc%5Etfw">January 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/xD10LQeVpb">https://t.co/xD10LQeVpb</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/945684378876895232?ref_src=twsrc%5Etfw">December 26, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Excellent blog post by <a href="https://twitter.com/thewordninja_bk?ref_src=twsrc%5Etfw">@thewordninja_bk</a>:  A Case for Teaching Inquiry <a href="https://t.co/YBqSxzXZrr">https://t.co/YBqSxzXZrr</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/835286115217096705?ref_src=twsrc%5Etfw">February 25, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
