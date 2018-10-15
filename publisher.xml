@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Oct 2018 11:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Oct 2018 12:15:43 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Oct 2018 11:15:27 GMT</pubDate>
+        <pubDate>Mon, 15 Oct 2018 12:15:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[4.10.8]]></title>
+            <link>http://images.math.cnrs.fr/4-10-8.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/4-10-8.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 15 Oct 2018 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[INSEGNAMENTO DELLA MATEMATICA NELLA SCUOLA PRIMARIA: ESISTE UN METODO?]]></title>
             <link>http://ilpiccolofriedrich.blogspot.com/2018/10/insegnamento-della-matematica-nella.html</link>
@@ -32,15 +39,15 @@
         </item>
         <item>
             <title><![CDATA[Tim Berberich/master_thesis]]></title>
-            <link>https://www.ncatlab.org/nlab/show/Tim+Berberich%252Fmaster_thesis</link>
-            <guid isPermaLink="false">https://www.ncatlab.org/nlab/show/Tim+Berberich%2Fmaster_thesis</guid>
+            <link>https://ncatlab.org/nlab/show/Tim+Berberich%252Fmaster_thesis</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Tim+Berberich%2Fmaster_thesis</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Mon, 15 Oct 2018 10:39:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tim Berberich]]></title>
-            <link>https://www.ncatlab.org/nlab/show/Tim+Berberich</link>
-            <guid isPermaLink="false">https://www.ncatlab.org/nlab/show/Tim+Berberich</guid>
+            <link>https://ncatlab.org/nlab/show/Tim+Berberich</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Tim+Berberich</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Mon, 15 Oct 2018 10:29:57 GMT</pubDate>
         </item>
@@ -81,8 +88,8 @@
         </item>
         <item>
             <title><![CDATA[blockchain]]></title>
-            <link>https://www.ncatlab.org/nlab/show/blockchain</link>
-            <guid isPermaLink="false">https://www.ncatlab.org/nlab/show/blockchain</guid>
+            <link>https://ncatlab.org/nlab/show/blockchain</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/blockchain</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Mon, 15 Oct 2018 08:37:22 GMT</pubDate>
         </item>
@@ -113,6 +120,13 @@
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2018/10/practical-consequences-of-rh.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 15 Oct 2018 02:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fanography: a tool to visually study the geography of Fano 3-folds]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/10/15/fanography/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/10/15/fanography/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Autumn]]></title>
@@ -675,17 +689,17 @@
             <pubDate>Fri, 12 Oct 2018 09:24:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Octobre 2018, 2e défi]]></title>
-            <link>http://images.math.cnrs.fr/Octobre-2018-2e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2018-2e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 12 Oct 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[It's Fine]]></title>
             <link>http://mrburkemath.blogspot.com/2018/10/its-fine.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/10/its-fine.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 12 Oct 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Octobre 2018, 2e défi]]></title>
+            <link>http://images.math.cnrs.fr/Octobre-2018-2e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2018-2e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 12 Oct 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3150,13 +3164,6 @@ The answer, I think, is that unlike..."]]></title>
             <pubDate>Mon, 01 Oct 2018 12:00:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4.10.6]]></title>
-            <link>http://images.math.cnrs.fr/-4578.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-4578.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 01 Oct 2018 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fractals for Fibonacci]]></title>
             <link>http://mathtourist.blogspot.com/2018/10/fractals-for-fibonacci.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/10/fractals-for-fibonacci.html</guid>
@@ -3944,14 +3951,14 @@ The answer, I think, is that unlike..."]]></title>
             <title><![CDATA[HLF Blogs: Leslie Lamport Thinks Your Code Is Bad]]></title>
             <link>https://aperiodical.com/2018/09/hlf-blogs-leslie-lamport-thinks-your-code-is-bad/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/hlf-blogs-leslie-lamport-thinks-your-code-is-bad/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 27 Sep 2018 09:09:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs: Leslie Lamport Thinks Your Code Is Bad]]></title>
             <link>https://aperiodical.com/2018/09/hlf-blogs-leslie-lamport-thinks-your-code-is-bad/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/hlf-blogs-leslie-lamport-thinks-your-code-is-bad/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 27 Sep 2018 09:09:42 GMT</pubDate>
         </item>
         <item>
@@ -5454,15 +5461,15 @@ The answer, I think, is that unlike..."]]></title>
         </item>
         <item>
             <title><![CDATA[Understand in learning objectives – it’s the forest, not the trees]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</guid>
+            <link>http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Sep 2018 17:31:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Understand in learning objectives – it’s the forest, not the trees]]></title>
-            <link>http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/understand-in-learning-objectives-its-the-forest/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6iBaiWKxJ0M/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Sep 2018 17:31:16 GMT</pubDate>
         </item>
@@ -5670,17 +5677,17 @@ The answer, I think, is that unlike..."]]></title>
             <pubDate>Mon, 17 Sep 2018 10:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: DNA - Are You More Chimp or Neanderthal?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p06l6bb2</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06l6bb2</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Mon, 17 Sep 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Factorising a large number, part I: Sums of squares in different ways]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/factorising-a-large-number-part-i-sums-of-squares-in-different-ways/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/factorising-a-large-number-part-i-sums-of-squares-in-different-ways/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 17 Sep 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: DNA - Are You More Chimp or Neanderthal?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p06l6bb2</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06l6bb2</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Mon, 17 Sep 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
