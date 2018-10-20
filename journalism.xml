@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Oct 2018 14:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Oct 2018 15:16:39 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Oct 2018 14:15:50 GMT</pubDate>
+        <pubDate>Sat, 20 Oct 2018 15:16:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The Surprisingly Motivating, Impromptu, x-Words Challenge.]]></title>
+            <link>http://www.mathycathy.com/blog/2018/10/the-surprisingly-motivating-impromptu-x-words-challenge/</link>
+            <guid isPermaLink="false">http://www.mathycathy.com/blog/2018/10/the-surprisingly-motivating-impromptu-x-words-challenge/</guid>
+            <dc:creator><![CDATA[MathyCathy's Blog – Mrs. Cathy Yenca]]></dc:creator>
+            <pubDate>Sat, 20 Oct 2018 14:11:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[He’s a history teacher and he has a statistics question]]></title>
             <link>https://andrewgelman.com/2018/10/20/hes-history-teacher-statistics-question/</link>
@@ -29,13 +36,6 @@
             <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2018/10/20/a-neat-geometry-problem-i-saw-from-catriona-shearer/</guid>
             <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
             <pubDate>Sat, 20 Oct 2018 11:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cohen's Oddity]]></title>
-            <link>http://karagila.org/2018/cohens-oddity/</link>
-            <guid isPermaLink="false">http://karagila.org/2018/cohens-oddity/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sat, 20 Oct 2018 11:05:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zome Model]]></title>
@@ -76,14 +76,14 @@
             <title><![CDATA[HLF Blogs: Quotable Women in Mathematics]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 20 Oct 2018 08:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs: Quotable Women in Mathematics]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 20 Oct 2018 08:32:13 GMT</pubDate>
         </item>
         <item>
@@ -150,17 +150,17 @@
             <pubDate>Fri, 19 Oct 2018 20:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WS More or Less: Foreign Aid: Who’s the most generous?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p06pbppg</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06pbppg</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Fri, 19 Oct 2018 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On The Rich Get Richer - student]]></title>
             <link>https://www.thusspakeak.com/student/2018/10/01-OnTheRichGetRicher.html</link>
             <guid isPermaLink="false">https://www.thusspakeak.com/student/2018/10/01-OnTheRichGetRicher.html</guid>
             <dc:creator><![CDATA[thus spake a.k.]]></dc:creator>
+            <pubDate>Fri, 19 Oct 2018 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WS More or Less: Foreign Aid: Who’s the most generous?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p06pbppg</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06pbppg</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Fri, 19 Oct 2018 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -734,14 +734,14 @@
             <title><![CDATA[HLF Blogs: The numbers behind the young researchers – 2018]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-the-numbers-behind-the-young-researchers-2018/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-the-numbers-behind-the-young-researchers-2018/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 17 Oct 2018 12:25:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs: The numbers behind the young researchers – 2018]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-the-numbers-behind-the-young-researchers-2018/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-the-numbers-behind-the-young-researchers-2018/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 17 Oct 2018 12:25:36 GMT</pubDate>
         </item>
         <item>
@@ -1326,17 +1326,17 @@
             <pubDate>Sun, 14 Oct 2018 23:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - October 15]]></title>
-            <link>https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-15.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-15.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 14 Oct 2018 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Good Math + Bad Drawings = Great Book!]]></title>
             <link>https://math-frolic.blogspot.com/2018/10/good-math-bad-drawings-great-book.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/10/good-math-bad-drawings-great-book.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Sun, 14 Oct 2018 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - October 15]]></title>
+            <link>https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-15.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-15.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 14 Oct 2018 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1830,17 +1830,17 @@
             <pubDate>Fri, 12 Oct 2018 09:24:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Octobre 2018, 2e défi]]></title>
-            <link>http://images.math.cnrs.fr/Octobre-2018-2e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2018-2e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 12 Oct 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[It's Fine]]></title>
             <link>http://mrburkemath.blogspot.com/2018/10/its-fine.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/10/its-fine.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 12 Oct 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Octobre 2018, 2e défi]]></title>
+            <link>http://images.math.cnrs.fr/Octobre-2018-2e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2018-2e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 12 Oct 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2555,24 +2555,17 @@ The answer, I think, is that unlike..."]]></title>
             <pubDate>Tue, 09 Oct 2018 05:40:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spaces upon spaces – topology and slum conditions]]></title>
-            <link>https://mathrising.com/?p=1636</link>
-            <guid isPermaLink="false">https://mathrising.com/?p=1636</guid>
-            <dc:creator><![CDATA[Mathematics Rising]]></dc:creator>
-            <pubDate>Tue, 09 Oct 2018 05:10:23 GMT</pubDate>
+            <title><![CDATA[Optimisation Inspirée par la Nature]]></title>
+            <link>http://images.math.cnrs.fr/Optimisation-Inspiree-par-la-Nature.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Optimisation-Inspiree-par-la-Nature.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 09 Oct 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[(x, why?) Mini: You Are What You Are]]></title>
             <link>http://mrburkemath.blogspot.com/2018/10/x-why-mini-you-are-what-you-are.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/10/x-why-mini-you-are-what-you-are.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Tue, 09 Oct 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Optimisation Inspirée par la Nature]]></title>
-            <link>http://images.math.cnrs.fr/Optimisation-Inspiree-par-la-Nature.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Optimisation-Inspiree-par-la-Nature.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 09 Oct 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2847,13 +2840,6 @@ The answer, I think, is that unlike..."]]></title>
             <guid isPermaLink="false">https://11011110.github.io/blog/2018/10/07/recognizing-sparse-leaf.html</guid>
             <dc:creator><![CDATA[11011110]]></dc:creator>
             <pubDate>Sun, 07 Oct 2018 22:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update on site]]></title>
-            <link>https://mathrising.com/?p=1633</link>
-            <guid isPermaLink="false">https://mathrising.com/?p=1633</guid>
-            <dc:creator><![CDATA[Mathematics Rising]]></dc:creator>
-            <pubDate>Sun, 07 Oct 2018 22:15:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[8102018 Giorno Palindromo!]]></title>
@@ -3197,13 +3183,6 @@ The answer, I think, is that unlike..."]]></title>
             <guid isPermaLink="false">https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 05 Oct 2018 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#NCTM Regionals Stats Trumps Hate – Slides and Ideas]]></title>
-            <link>http://www.coast2coast.me/carl/2018/10/05/nctm-regionals-stats-trumps-hate-slides-and-ideas/</link>
-            <guid isPermaLink="false">http://www.coast2coast.me/carl/2018/10/05/nctm-regionals-stats-trumps-hate-slides-and-ideas/</guid>
-            <dc:creator><![CDATA[Carl's Teaching Blog]]></dc:creator>
-            <pubDate>Fri, 05 Oct 2018 20:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Traitement des valeurs manquantes : remplacer les NA par une constante ?]]></title>
@@ -4004,13 +3983,6 @@ The answer, I think, is that unlike..."]]></title>
             <pubDate>Mon, 01 Oct 2018 19:32:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prejudice in an abstract world]]></title>
-            <link>https://mathrising.com/?p=1631</link>
-            <guid isPermaLink="false">https://mathrising.com/?p=1631</guid>
-            <dc:creator><![CDATA[Mathematics Rising]]></dc:creator>
-            <pubDate>Mon, 01 Oct 2018 17:25:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[When You Multiply by 10, Just Add a Zero? Horrors!?!]]></title>
             <link>http://www.marilynburnsmathblog.com/when-you-multiply-by-10-just-add-a-zero-horrors/</link>
             <guid isPermaLink="false">http://www.marilynburnsmathblog.com/when-you-multiply-by-10-just-add-a-zero-horrors/</guid>
@@ -4443,13 +4415,6 @@ The answer, I think, is that unlike..."]]></title>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2018/09/iron-crane.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sat, 29 Sep 2018 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alan Turing, On computable numbers]]></title>
-            <link>http://jdh.hamkins.org/alan-turing-on-computable-numbers/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/alan-turing-on-computable-numbers/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 29 Sep 2018 10:54:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A little every day – October 2018]]></title>
@@ -5243,17 +5208,17 @@ The answer, I think, is that unlike..."]]></title>
             <pubDate>Mon, 24 Sep 2018 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Factorising a large number, part II: Gaussian integers]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/factorising-a-large-number-part-ii-gaussian-integers/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/factorising-a-large-number-part-ii-gaussian-integers/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 24 Sep 2018 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WS More or Less: Trump and the Puerto Rico Death Toll]]></title>
             <link>http://www.bbc.co.uk/programmes/p06ltlw4</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p06ltlw4</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Mon, 24 Sep 2018 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Factorising a large number, part II: Gaussian integers]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/factorising-a-large-number-part-ii-gaussian-integers/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/factorising-a-large-number-part-ii-gaussian-integers/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 24 Sep 2018 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5544,25 +5509,11 @@ The answer, I think, is that unlike..."]]></title>
             <pubDate>Fri, 21 Sep 2018 16:31:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On set-theoretic mereology as a foundation of mathematics, Oxford Phil Math seminar, October 2018]]></title>
-            <link>http://jdh.hamkins.org/on-set-theoretic-mereology-as-a-foundation-of-mathematics-oxford-phil-math-seminar-october-2018/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/on-set-theoretic-mereology-as-a-foundation-of-mathematics-oxford-phil-math-seminar-october-2018/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 21 Sep 2018 16:25:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Handing out workbooks is not teaching]]></title>
             <link>http://davidwees.com/content/handing-out-workbooks-is-not-teaching/</link>
             <guid isPermaLink="false">http://davidwees.com/content/handing-out-workbooks-is-not-teaching/</guid>
             <dc:creator><![CDATA[The Reflective Educator]]></dc:creator>
             <pubDate>Fri, 21 Sep 2018 16:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parallels in universality between the universal algorithm and the universal finite set, Oxford Math Logic Seminar, October 2018]]></title>
-            <link>http://jdh.hamkins.org/parallels-in-universality-oxford-math-logic-seminar-october-2018/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/parallels-in-universality-oxford-math-logic-seminar-october-2018/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 21 Sep 2018 15:44:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Multiplication Cheat Sheet]]></title>
@@ -5712,13 +5663,6 @@ The answer, I think, is that unlike..."]]></title>
             <pubDate>Thu, 20 Sep 2018 17:08:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The rearrangement number: how many rearrangements of a series suffice to validate absolute convergence? Warwick Mathematics Colloquium, October 2018]]></title>
-            <link>http://jdh.hamkins.org/rearrangement-number-warwick-october-2018/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/rearrangement-number-warwick-october-2018/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 20 Sep 2018 16:33:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Basta calcolo in colonna!]]></title>
             <link>http://ilpiccolofriedrich.blogspot.com/2018/09/basta-calcolo-in-colonna.html</link>
             <guid isPermaLink="false">http://ilpiccolofriedrich.blogspot.com/2018/09/basta-calcolo-in-colonna.html</guid>
@@ -5754,17 +5698,17 @@ The answer, I think, is that unlike..."]]></title>
             <pubDate>Thu, 20 Sep 2018 13:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vocabulary Resources for the Secondary Math Classroom]]></title>
-            <link>http://algebrasfriend.blogspot.com/2018/09/vocabulary-resources-for-secondary-math.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/vocabulary-resources-for-secondary-math.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Thu, 20 Sep 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Poetic economics]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/09/poetic-economics.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/09/poetic-economics.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 20 Sep 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vocabulary Resources for the Secondary Math Classroom]]></title>
+            <link>http://algebrasfriend.blogspot.com/2018/09/vocabulary-resources-for-secondary-math.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2018/09/vocabulary-resources-for-secondary-math.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Thu, 20 Sep 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5892,41 +5836,6 @@ The answer, I think, is that unlike..."]]></title>
             <guid isPermaLink="false">http://golem.ph.utexas.edu/category/2018/09/plocal_group_theory.html</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Wed, 19 Sep 2018 15:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[School of Science welcomes 10 professors]]></title>
-            <link>http://news.mit.edu/2018/mit-ten-professors-join-school-of-science-0919</link>
-            <guid isPermaLink="false">http://news.mit.edu/2018/mit-ten-professors-join-school-of-science-0919</guid>
-            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
-            <pubDate>Wed, 19 Sep 2018 14:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Year of Mysteries, Part 8: The Last Place]]></title>
-            <link>https://hilbertthm90.wordpress.com/2018/09/19/year-of-mysteries-part-8-the-last-place/</link>
-            <guid isPermaLink="false">https://hilbertthm90.wordpress.com/2018/09/19/year-of-mysteries-part-8-the-last-place/</guid>
-            <dc:creator><![CDATA[A Mind for Madness]]></dc:creator>
-            <pubDate>Wed, 19 Sep 2018 14:38:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8th Cracow Conference on Graph Theory]]></title>
-            <link>https://cameroncounts.wordpress.com/2018/09/19/8th-cracow-conference-on-graph-theory/</link>
-            <guid isPermaLink="false">https://cameroncounts.wordpress.com/2018/09/19/8th-cracow-conference-on-graph-theory/</guid>
-            <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
-            <pubDate>Wed, 19 Sep 2018 14:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Conceptual Understanding?]]></title>
-            <link>http://davidwees.com/content/what-is-conceptual-understanding/</link>
-            <guid isPermaLink="false">http://davidwees.com/content/what-is-conceptual-understanding/</guid>
-            <dc:creator><![CDATA[The Reflective Educator]]></dc:creator>
-            <pubDate>Wed, 19 Sep 2018 14:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CS and quantum information at UT Austin: come join us!]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=3964</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=3964</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Wed, 19 Sep 2018 14:13:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
