@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Oct 2018 16:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Oct 2018 17:14:59 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Oct 2018 16:15:26 GMT</pubDate>
+        <pubDate>Sat, 27 Oct 2018 17:14:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Financial Mathematics and Ultimate Frisbee]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/ECb8D_64BPQ/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/ECb8D_64BPQ/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
+            <pubDate>Sat, 27 Oct 2018 17:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A fun optimization trick from rsync]]></title>
+            <link>https://blog.plover.com/prog/switch-case-optimization.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/prog/switch-case-optimization.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Sat, 27 Oct 2018 16:34:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Calculus Extras...]]></title>
             <link>http://mathteachermambo.blogspot.com/2018/10/calculus-extras.html</link>
@@ -178,6 +192,13 @@
             <pubDate>Fri, 26 Oct 2018 19:35:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Initiality Project - Type Theory]]></title>
+            <link>https://ncatlab.org/nlab/show/Initiality+Project+-+Type+Theory</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Initiality+Project+-+Type+Theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 26 Oct 2018 18:51:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[trail to Sugiton [jatp]]]></title>
             <link>https://xianblog.wordpress.com/2018/10/26/trail-to-sugiton-jatp/</link>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2018/10/26/trail-to-sugiton-jatp/</guid>
@@ -204,13 +225,6 @@
             <guid isPermaLink="false">https://blog.plover.com/prog/haskell/evaluation-functor-2.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Fri, 26 Oct 2018 15:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fighting the Future]]></title>
-            <link>https://www.infinitesums.com/commentary/2018/fighting-the-future</link>
-            <guid isPermaLink="false">https://www.infinitesums.com/commentary/2018/fighting-the-future</guid>
-            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
-            <pubDate>Fri, 26 Oct 2018 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noise-Cancelling Method Enhances Ability to Predict Behavior from Brain Activity]]></title>
@@ -318,10 +332,10 @@
             <pubDate>Fri, 26 Oct 2018 05:30:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Math Horror Movies: Nosferatu]]></title>
-            <link>http://mrburkemath.blogspot.com/2018/10/math-horror-movies-nosferatu.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/10/math-horror-movies-nosferatu.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <title><![CDATA[Octobre 2018, 4e défi]]></title>
+            <link>http://images.math.cnrs.fr/Octobre-2018-4e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2018-4e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 26 Oct 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -332,10 +346,10 @@
             <pubDate>Fri, 26 Oct 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Octobre 2018, 4e défi]]></title>
-            <link>http://images.math.cnrs.fr/Octobre-2018-4e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2018-4e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <title><![CDATA[Math Horror Movies: Nosferatu]]></title>
+            <link>http://mrburkemath.blogspot.com/2018/10/math-horror-movies-nosferatu.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/10/math-horror-movies-nosferatu.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 26 Oct 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -645,13 +659,6 @@
             <guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4258</guid>
             <dc:creator><![CDATA[Stacks Project Blog]]></dc:creator>
             <pubDate>Wed, 24 Oct 2018 15:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roots and Rationals Shuffle]]></title>
-            <link>https://www.infinitesums.com/commentary/2018/roots-and-rationals-shuffle</link>
-            <guid isPermaLink="false">https://www.infinitesums.com/commentary/2018/roots-and-rationals-shuffle</guid>
-            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
-            <pubDate>Wed, 24 Oct 2018 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ONE GOOD PIECE OF MUSIC EVERY DAY: SUMMERTIME/ELLA FITZGERALD & LOUIS ARMSTRONG]]></title>
@@ -1658,14 +1665,14 @@
             <title><![CDATA[HLF Blogs: Quotable Women in Mathematics]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 20 Oct 2018 08:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs: Quotable Women in Mathematics]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 20 Oct 2018 08:32:13 GMT</pubDate>
         </item>
         <item>
@@ -2166,17 +2173,17 @@
             <pubDate>Thu, 18 Oct 2018 00:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (72)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/10/18/fortnightly-links-72/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/10/18/fortnightly-links-72/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Serial and Parallel bulb puzzle]]></title>
             <link>http://datagenetics.com/blog/october22018/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/october22018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (72)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/10/18/fortnightly-links-72/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/10/18/fortnightly-links-72/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2684,13 +2691,6 @@
             <pubDate>Mon, 15 Oct 2018 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Varsity Math, LLC]]></title>
-            <link>https://www.infinitesums.com/commentary/2018/varsity-math-llc</link>
-            <guid isPermaLink="false">https://www.infinitesums.com/commentary/2018/varsity-math-llc</guid>
-            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
-            <pubDate>Mon, 15 Oct 2018 15:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['The' reader monad does not exist]]></title>
             <link>https://blog.plover.com/prog/haskell/the-reader-monad.html</link>
             <guid isPermaLink="false">https://blog.plover.com/prog/haskell/the-reader-monad.html</guid>
@@ -2726,17 +2726,17 @@
             <pubDate>Mon, 15 Oct 2018 13:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The technology does not exist. The viability of the market is questionable. Obviously it's the regulators' fault.]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2018/10/the-technology-does-not-exist-viability.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/10/the-technology-does-not-exist-viability.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 15 Oct 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[تمارين المجموعات : برهان بعض حول خاصيات الإساسية]]></title>
             <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/5xooLdh19CQ/blog-post_15.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/5xooLdh19CQ/blog-post_15.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
+            <pubDate>Mon, 15 Oct 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The technology does not exist. The viability of the market is questionable. Obviously it's the regulators' fault.]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2018/10/the-technology-does-not-exist-viability.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/10/the-technology-does-not-exist-viability.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 15 Oct 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2845,17 +2845,17 @@
             <pubDate>Sun, 14 Oct 2018 23:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Good Math + Bad Drawings = Great Book!]]></title>
-            <link>https://math-frolic.blogspot.com/2018/10/good-math-bad-drawings-great-book.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/10/good-math-bad-drawings-great-book.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Sun, 14 Oct 2018 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - October 15]]></title>
             <link>https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-15.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-15.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 14 Oct 2018 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good Math + Bad Drawings = Great Book!]]></title>
+            <link>https://math-frolic.blogspot.com/2018/10/good-math-bad-drawings-great-book.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2018/10/good-math-bad-drawings-great-book.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 14 Oct 2018 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3228,13 +3228,6 @@
             <guid isPermaLink="false">https://burttotaro.wordpress.com/2018/10/12/socalags-ucla-17-november-2018/</guid>
             <dc:creator><![CDATA[Geometry Bulletin Board]]></dc:creator>
             <pubDate>Fri, 12 Oct 2018 15:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antiderivative Shuffle]]></title>
-            <link>https://www.infinitesums.com/commentary/2018/antiderivative-shuffle</link>
-            <guid isPermaLink="false">https://www.infinitesums.com/commentary/2018/antiderivative-shuffle</guid>
-            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
-            <pubDate>Fri, 12 Oct 2018 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2018 NCN prizes awarded!]]></title>
@@ -3797,14 +3790,14 @@ The answer, I think, is that unlike..."]]></title>
             <title><![CDATA[HLF Blogs: Equations of Women in Mathematics]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-equations-of-women-in-mathematics/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-equations-of-women-in-mathematics/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 09 Oct 2018 16:57:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs: Equations of Women in Mathematics]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-equations-of-women-in-mathematics/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-equations-of-women-in-mathematics/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 09 Oct 2018 16:57:24 GMT</pubDate>
         </item>
         <item>
@@ -4354,13 +4347,6 @@ The answer, I think, is that unlike..."]]></title>
             <pubDate>Sun, 07 Oct 2018 03:15:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ridge and valley]]></title>
-            <link>https://blog.plover.com/misc/crumple.html</link>
-            <guid isPermaLink="false">https://blog.plover.com/misc/crumple.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Sun, 07 Oct 2018 00:08:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Running tip 3-Simple drill to prevent heel striking]]></title>
             <link>http://www.moomoomathblog.com/2018/10/running-tip-3-simple-drill-to-prevent.html</link>
             <guid isPermaLink="false">http://www.moomoomathblog.com/2018/10/running-tip-3-simple-drill-to-prevent.html</guid>
@@ -4548,13 +4534,6 @@ The answer, I think, is that unlike..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/3IjR-2SgU8E/012-20182019.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Fri, 05 Oct 2018 15:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calculus in One Table]]></title>
-            <link>https://www.infinitesums.com/commentary/2018/calculus-in-one-table</link>
-            <guid isPermaLink="false">https://www.infinitesums.com/commentary/2018/calculus-in-one-table</guid>
-            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
-            <pubDate>Fri, 05 Oct 2018 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Differential Logic, Dynamic Systems, Tangent Functors • Discussion 2]]></title>
@@ -5393,14 +5372,14 @@ The answer, I think, is that unlike..."]]></title>
             <title><![CDATA[Handing over @mathshistory]]></title>
             <link>https://aperiodical.com/2018/09/handing-over-mathshistory/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/handing-over-mathshistory/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Sun, 30 Sep 2018 21:01:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handing over @mathshistory]]></title>
             <link>https://aperiodical.com/2018/09/handing-over-mathshistory/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/09/handing-over-mathshistory/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 30 Sep 2018 21:01:45 GMT</pubDate>
         </item>
         <item>
@@ -5570,13 +5549,6 @@ The answer, I think, is that unlike..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/_oSe3H2xg4w/murals-by-cinta-vidal.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Sat, 29 Sep 2018 17:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Math Class My Family]]></title>
-            <link>https://www.infinitesums.com/commentary/2018/my-math-class-my-family-1</link>
-            <guid isPermaLink="false">https://www.infinitesums.com/commentary/2018/my-math-class-my-family-1</guid>
-            <dc:creator><![CDATA[Infinite Sums]]></dc:creator>
-            <pubDate>Sat, 29 Sep 2018 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Quick Fraction Puzzle]]></title>
@@ -6011,13 +5983,6 @@ The answer, I think, is that unlike..."]]></title>
             <guid isPermaLink="false">http://unizor.blogspot.com/2018/09/unizor-physics4teens-mechanics-statics_26.html</guid>
             <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
             <pubDate>Wed, 26 Sep 2018 18:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Punk Rock OR goes to Heinz College]]></title>
-            <link>https://punkrockor.com/2018/09/26/punk-rock-or-goes-to-heinz-college/</link>
-            <guid isPermaLink="false">https://punkrockor.com/2018/09/26/punk-rock-or-goes-to-heinz-college/</guid>
-            <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
-            <pubDate>Wed, 26 Sep 2018 17:01:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
