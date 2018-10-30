@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Evelyn Lamb on the pregnant topic of primey-er almost-prime primes:<a href="https://t.co/ORxoInx8aj">https://t.co/ORxoInx8aj</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; SheckyR (#25thAmendment ASAP) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1057395015809486848?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Saturday Morning Breakfast Cereal makes a hilarious point about mathematicians <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://t.co/qd3yz0OPeG">https://t.co/qd3yz0OPeG</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1055145599887163398?ref_src=twsrc%5Etfw">October 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
