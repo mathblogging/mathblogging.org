@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Nov 2018 11:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Nov 2018 12:15:30 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Nov 2018 11:15:20 GMT</pubDate>
+        <pubDate>Sun, 04 Nov 2018 12:15:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Mathbabe’s Guide to Overtravel]]></title>
+            <link>https://mathbabe.org/2018/11/04/mathbabes-guide-to-overtravel/</link>
+            <guid isPermaLink="false">https://mathbabe.org/2018/11/04/mathbabes-guide-to-overtravel/</guid>
+            <dc:creator><![CDATA[mathbabe]]></dc:creator>
+            <pubDate>Sun, 04 Nov 2018 11:47:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fragments in Flight]]></title>
             <link>http://mathtourist.blogspot.com/2018/11/fragments-in-flight.html</link>
@@ -155,13 +162,6 @@
             <guid isPermaLink="false">http://scienceblogs.de/mathlog/2018/11/04/klartext-mathematik-im-baum/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=klartext-mathematik-im-baum</guid>
             <dc:creator><![CDATA[Mathlog]]></dc:creator>
             <pubDate>Sat, 03 Nov 2018 18:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[wonderful compactification]]></title>
-            <link>https://ncatlab.org/nlab/show/wonderful+compactification</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/wonderful+compactification</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 03 Nov 2018 16:54:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fulton-MacPherson operad]]></title>
@@ -640,17 +640,17 @@
             <pubDate>Thu, 01 Nov 2018 00:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 1]]></title>
-            <link>https://pballew.blogspot.com/2018/11/on-this-day-in-math-november-1.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2018/11/on-this-day-in-math-november-1.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hodge numbers for generalised Kummer varieties]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/11/01/hodge-numbers-generalised-kummer-varieties/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/11/01/hodge-numbers-generalised-kummer-varieties/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 1]]></title>
+            <link>https://pballew.blogspot.com/2018/11/on-this-day-in-math-november-1.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2018/11/on-this-day-in-math-november-1.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -850,17 +850,17 @@
             <pubDate>Wed, 31 Oct 2018 03:09:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - October 31]]></title>
-            <link>https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-31.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-31.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (73)]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/10/31/fortnightly-links-73/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/10/31/fortnightly-links-73/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - October 31]]></title>
+            <link>https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-31.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2018/10/on-this-day-in-math-october-31.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1704,6 +1704,13 @@
             <pubDate>Fri, 26 Oct 2018 20:04:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Initiality Project - Raw Syntax]]></title>
+            <link>https://ncatlab.org/nlab/show/Initiality+Project+-+Raw+Syntax</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Initiality+Project+-+Raw+Syntax</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 26 Oct 2018 18:05:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ONE GOOD PIECE OF MUSIC EVERY DAY: WITH OR WITHOUT YOU/SCALA & KOLACNY BROTHERS]]></title>
             <link>http://scienzaemusica.blogspot.com/2018/10/one-good-piece-of-music-every-day-with.html</link>
             <guid isPermaLink="false">http://scienzaemusica.blogspot.com/2018/10/one-good-piece-of-music-every-day-with.html</guid>
@@ -1837,17 +1844,17 @@
             <pubDate>Fri, 26 Oct 2018 05:30:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Octobre 2018, 4e défi]]></title>
-            <link>http://images.math.cnrs.fr/Octobre-2018-4e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2018-4e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 26 Oct 2018 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Horror Movies: Nosferatu]]></title>
             <link>http://mrburkemath.blogspot.com/2018/10/math-horror-movies-nosferatu.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2018/10/math-horror-movies-nosferatu.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 26 Oct 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Octobre 2018, 4e défi]]></title>
+            <link>http://images.math.cnrs.fr/Octobre-2018-4e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2018-4e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 26 Oct 2018 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3079,14 +3086,14 @@
             <title><![CDATA[HLF Blogs: Quotable Women in Mathematics]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 20 Oct 2018 08:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs: Quotable Women in Mathematics]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-quotable-women-in-mathematics/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 20 Oct 2018 08:32:13 GMT</pubDate>
         </item>
         <item>
@@ -3545,17 +3552,17 @@
             <pubDate>Thu, 18 Oct 2018 00:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Serial and Parallel bulb puzzle]]></title>
-            <link>http://datagenetics.com/blog/october22018/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/october22018/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (72)]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/10/18/fortnightly-links-72/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/10/18/fortnightly-links-72/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Serial and Parallel bulb puzzle]]></title>
+            <link>http://datagenetics.com/blog/october22018/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/october22018/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3667,14 +3674,14 @@
             <title><![CDATA[HLF Blogs: The numbers behind the young researchers – 2018]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-the-numbers-behind-the-young-researchers-2018/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-the-numbers-behind-the-young-researchers-2018/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 17 Oct 2018 12:25:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HLF Blogs: The numbers behind the young researchers – 2018]]></title>
             <link>https://aperiodical.com/2018/10/hlf-blogs-the-numbers-behind-the-young-researchers-2018/</link>
             <guid isPermaLink="false">https://aperiodical.com/2018/10/hlf-blogs-the-numbers-behind-the-young-researchers-2018/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 17 Oct 2018 12:25:36 GMT</pubDate>
         </item>
         <item>
@@ -4077,17 +4084,17 @@
             <pubDate>Mon, 15 Oct 2018 13:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[تمارين المجموعات : برهان بعض حول خاصيات الإساسية]]></title>
-            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/5xooLdh19CQ/blog-post_15.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/5xooLdh19CQ/blog-post_15.html</guid>
-            <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
-            <pubDate>Mon, 15 Oct 2018 13:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The technology does not exist. The viability of the market is questionable. Obviously it's the regulators' fault.]]></title>
             <link>http://observationalepidemiology.blogspot.com/2018/10/the-technology-does-not-exist-viability.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/10/the-technology-does-not-exist-viability.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 15 Oct 2018 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[تمارين المجموعات : برهان بعض حول خاصيات الإساسية]]></title>
+            <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/5xooLdh19CQ/blog-post_15.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/5xooLdh19CQ/blog-post_15.html</guid>
+            <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Mon, 15 Oct 2018 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4168,17 +4175,17 @@
             <pubDate>Mon, 15 Oct 2018 02:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slot Machines]]></title>
-            <link>http://datagenetics.com/blog/october12018/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/october12018/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fanography: a tool to visually study the geography of Fano 3-folds]]></title>
             <link>http://pbelmans.ncag.info/blog/2018/10/15/fanography/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/10/15/fanography/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slot Machines]]></title>
+            <link>http://datagenetics.com/blog/october12018/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/october12018/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5885,27 +5892,6 @@ The answer, I think, is that unlike..."]]></title>
             <guid isPermaLink="false">http://blogs.ethz.ch/kowalski/2018/10/04/postdocs-at-eth/</guid>
             <dc:creator><![CDATA[E. Kowalski's blog]]></dc:creator>
             <pubDate>Thu, 04 Oct 2018 13:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pragmatic Semiotic Information • Discussion 9]]></title>
-            <link>https://inquiryintoinquiry.com/2018/10/04/pragmatic-semiotic-information-%25e2%2580%25a2-discussion-9/</link>
-            <guid isPermaLink="false">https://inquiryintoinquiry.com/2018/10/04/pragmatic-semiotic-information-%e2%80%a2-discussion-9/</guid>
-            <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
-            <pubDate>Thu, 04 Oct 2018 12:00:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Truth About G.H. Hardy]]></title>
-            <link>https://beautyofmathematics.com/truth-hardy/#utm_source=rss&amp;utm_medium=rss</link>
-            <guid isPermaLink="false">https://beautyofmathematics.com/truth-hardy/#utm_source=rss&amp;utm_medium=rss</guid>
-            <dc:creator><![CDATA[Beauty of Mathematics]]></dc:creator>
-            <pubDate>Thu, 04 Oct 2018 12:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Repost -- some thoughts on poll volatility and self-selection]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2018/10/repost-some-thoughts-on-poll-volatility.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2018/10/repost-some-thoughts-on-poll-volatility.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 04 Oct 2018 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
