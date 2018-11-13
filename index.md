@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">enjoying all the different answers/approaches in this thread:<br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://t.co/0BzrrW9PZV">https://t.co/0BzrrW9PZV</a></p>&mdash; SheckyR (#25thAmendment ASAP) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1062295391985635328?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Proof… necessary &amp; sufficient? axioms, starting points, guarantees...?<a href="https://t.co/z1fWAUJQcc">https://t.co/z1fWAUJQcc</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> for the philosophically-incllined <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; SheckyR (#25thAmendment ASAP) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1060981623880146945?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
