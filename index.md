@@ -219,9 +219,6 @@ title: Editor's picks
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/ogLk99Odod">https://t.co/ogLk99Odod</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/958282334670901248?ref_src=twsrc%5Etfw">January 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“Well, No One’s Complained” by <a href="https://twitter.com/MrHonner?ref_src=twsrc%5Etfw">@MrHonner</a>  <a href="https://t.co/KjxlEz9yj9">https://t.co/KjxlEz9yj9</a> it&#39;s no excuse. <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/955091411262722048?ref_src=twsrc%5Etfw">January 21, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Some good advice from <a href="https://twitter.com/RobertTalbert?ref_src=twsrc%5Etfw">@RobertTalbert</a>: “Three things to leave off of your syllabus” <a href="https://t.co/Qke6HSdC9u">https://t.co/Qke6HSdC9u</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/hashtag/mathblogging?src=hash&amp;ref_src=twsrc%5Etfw">#mathblogging</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/948986567552483328?ref_src=twsrc%5Etfw">January 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
