@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;One graph. Ten minutes. An important conversation.&quot; from <a href="https://twitter.com/_b_p?ref_src=twsrc%5Etfw">@_b_p</a> <a href="https://t.co/aMhuqLC9t9">https://t.co/aMhuqLC9t9</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1064644739419402240?ref_src=twsrc%5Etfw">November 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Nice counter-intuitive puzzle: HEADS, TAILS AND BUMPS-A-DAISY by <a href="https://twitter.com/icecolbeveridge?ref_src=twsrc%5Etfw">@icecolbeveridge</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1064633551260274688?ref_src=twsrc%5Etfw">November 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
