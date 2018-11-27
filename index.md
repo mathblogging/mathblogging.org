@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Super....<a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://t.co/oYTLDWFvOg">https://t.co/oYTLDWFvOg</a></p>&mdash; SheckyR (#25thAmendment ASAP) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1067485019453689857?ref_src=twsrc%5Etfw">November 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Guest Ken Ribet on the Numberphile podcast:<a href="https://t.co/puM5nH8axx">https://t.co/puM5nH8axx</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; SheckyR (#25thAmendment ASAP) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1065730405452664832?ref_src=twsrc%5Etfw">November 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
