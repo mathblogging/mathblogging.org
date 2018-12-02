@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Like a palm reader intuiting a life line, Mr. Gottesman analyzed the creases of the crumpled paper &amp; sought to tease out a variable, an equation, a law — something that predicted what would occur with the next crumple&quot;<a href="https://twitter.com/sioroberts?ref_src=twsrc%5Etfw">@sioroberts</a> <a href="https://t.co/XahYZD1U45">https://t.co/XahYZD1U45</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1069040240344662017?ref_src=twsrc%5Etfw">December 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">What is a quadratic assignment problem? As <a href="https://twitter.com/natebrix?ref_src=twsrc%5Etfw">@natebrix</a> explains, it all starts when a guy walks into a bar.<a href="https://t.co/qzZRtBoaFO">https://t.co/qzZRtBoaFO</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1067591068580020224?ref_src=twsrc%5Etfw">November 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
