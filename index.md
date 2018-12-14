@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Nice intro to Gödel &amp; his work:<a href="https://t.co/7zV3Y8navb">https://t.co/7zV3Y8navb</a><br>(...also note, Hofstadter&#39;s &quot;Gödel, Escher, Bach&quot; came out just one yr. after Kurt&#39;s death)<br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 (#25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 𝘈𝘚𝘈𝘗) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1073570869253955596?ref_src=twsrc%5Etfw">December 14, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fun, fascinating, and fractal via Numberphile (hints of Conway, Wolfram…):<a href="https://t.co/fKdpv8W9fs">https://t.co/fKdpv8W9fs</a><br>   <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>   <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 (#25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 𝘈𝘚𝘈𝘗) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1072140143874764801?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
