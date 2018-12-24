@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Dec 2018 01:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Dec 2018 02:15:55 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Dec 2018 01:15:20 GMT</pubDate>
+        <pubDate>Mon, 24 Dec 2018 02:15:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Chasing Ed Jaynes’s ghost]]></title>
+            <link>https://quantumfrontiers.com/2018/12/23/chasing-ed-jayness-ghost/</link>
+            <guid isPermaLink="false">https://quantumfrontiers.com/2018/12/23/chasing-ed-jayness-ghost/</guid>
+            <dc:creator><![CDATA[Quantum Frontiers]]></dc:creator>
+            <pubDate>Mon, 24 Dec 2018 01:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On This Day in Math - December 24]]></title>
             <link>https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-24.html</link>
@@ -526,13 +533,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/cpmxGaz7PNc/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Fri, 21 Dec 2018 15:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calculating the Pointing Angle for My Television Antenna]]></title>
-            <link>http://mathscinotes.com/2018/12/calculating-the-pointing-angle-for-my-television-antenna/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2018/12/calculating-the-pointing-angle-for-my-television-antenna/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Fri, 21 Dec 2018 14:53:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The causal hype ratchet]]></title>
@@ -1146,17 +1146,17 @@ Waiting room]]></title>
             <pubDate>Wed, 19 Dec 2018 02:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - December 19]]></title>
-            <link>https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-19.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-19.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Wed, 19 Dec 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Optimal Picture Viewing Distance]]></title>
             <link>http://datagenetics.com/blog/december42018/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/december42018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Wed, 19 Dec 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - December 19]]></title>
+            <link>https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-19.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-19.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Wed, 19 Dec 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3718,15 +3718,15 @@ Waiting room]]></title>
         </item>
         <item>
             <title><![CDATA[ESIL: A Learning Lens for the Digital Age]]></title>
-            <link>http://busynessgirl.com/esil-a-learning-lens-for-the-digital-age/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/esil-a-learning-lens-for-the-digital-age/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ILR7--RJVKs/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ILR7--RJVKs/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 06 Dec 2018 18:50:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ESIL: A Learning Lens for the Digital Age]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ILR7--RJVKs/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ILR7--RJVKs/</guid>
+            <link>http://busynessgirl.com/esil-a-learning-lens-for-the-digital-age/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/esil-a-learning-lens-for-the-digital-age/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 06 Dec 2018 18:50:08 GMT</pubDate>
         </item>
@@ -4062,17 +4062,17 @@ Path  155, Row  065, 2018-10-17 at...]]></title>
             <pubDate>Wed, 05 Dec 2018 01:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Recent CTAN additions: dynkin-diagrams, rank-2-roots]]></title>
-            <link>http://pbelmans.ncag.info/blog/2018/12/05/recent-ctan-additions-1/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/12/05/recent-ctan-additions-1/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Wed, 05 Dec 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 5]]></title>
             <link>https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-5.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-5.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Wed, 05 Dec 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recent CTAN additions: dynkin-diagrams, rank-2-roots]]></title>
+            <link>http://pbelmans.ncag.info/blog/2018/12/05/recent-ctan-additions-1/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2018/12/05/recent-ctan-additions-1/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Wed, 05 Dec 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5733,13 +5733,6 @@ Path  155, Row  064, 2018-10-17 at...]]></title>
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2018/11/25/far-from-a-turkey-shoot/</guid>
             <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
             <pubDate>Mon, 26 Nov 2018 04:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medal of Honor Statistics Using Power Query]]></title>
-            <link>http://mathscinotes.com/2018/11/medal-of-honor-statistics-using-power-query/</link>
-            <guid isPermaLink="false">http://mathscinotes.com/2018/11/medal-of-honor-statistics-using-power-query/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Mon, 26 Nov 2018 01:45:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theoretical physics has not gone to the dogs.]]></title>
