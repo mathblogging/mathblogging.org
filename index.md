@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A fun little recreational <a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> coincidence???<a href="https://t.co/ACTcZSD9XW">https://t.co/ACTcZSD9XW</a><br>   <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 (#25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 𝘈𝘚𝘈𝘗) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1080270049426976773?ref_src=twsrc%5Etfw">January 2, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Poet Evelyn Lamb ;) on how to memorize the newest prime number (in case you were looking for something to do):<a href="https://t.co/F1PQvVJcU9">https://t.co/F1PQvVJcU9</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 (#25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 𝘈𝘚𝘈𝘗) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1079488569968939008?ref_src=twsrc%5Etfw">December 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
