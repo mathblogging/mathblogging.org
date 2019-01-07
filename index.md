@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">OH, good to know. <br><br>&quot;by May 20, 2019, the Kilogram will be defined in terms of Plank&#39;s constant.&quot; (all physical objects are now scrapped from the metric system) <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a><a href="https://t.co/lLeACEE0ln">https://t.co/lLeACEE0ln</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1082152721891844096?ref_src=twsrc%5Etfw">January 7, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Only 15 minutes left of Thirdsday, but better now than never. From <a href="https://twitter.com/benorlin?ref_src=twsrc%5Etfw">@benorlin</a>: Thirdsday: the Holiday That’s 33.33…% Better Than Any Other <a href="https://t.co/rVvXFce9p1">https://t.co/rVvXFce9p1</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1081094752429268993?ref_src=twsrc%5Etfw">January 4, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
