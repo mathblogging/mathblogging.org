@@ -3,6 +3,12 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Creativity in the classroom isn’t something you write as an objective or a standard, but how you’re able to play with the time that you’re not talking.&quot; - <a href="https://twitter.com/TheJLV?ref_src=twsrc%5Etfw">@TheJLV</a> <a href="https://t.co/klANlzlO9J">https://t.co/klANlzlO9J</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1084360278240718848?ref_src=twsrc%5Etfw">January 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">If you didn&#39;t make it to the  2019 Consumer Electronics Show in Las Vegas, here&#39;s a nice recap via DataGenetics, from fully autonomous cars to [useless] hand-clapping robots. <a href="https://t.co/F96ahUflZ8">https://t.co/F96ahUflZ8</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1084358081805316096?ref_src=twsrc%5Etfw">January 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">OH, good to know. <br><br>&quot;by May 20, 2019, the Kilogram will be defined in terms of Plank&#39;s constant.&quot; (all physical objects are now scrapped from the metric system) <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a><a href="https://t.co/lLeACEE0ln">https://t.co/lLeACEE0ln</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1082152721891844096?ref_src=twsrc%5Etfw">January 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
