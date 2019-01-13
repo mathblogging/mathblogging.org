@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Think twice before you post a &quot;simple&quot; maths problem on Twitter. :) <a href="https://t.co/EbQ8SiCrrr">https://t.co/EbQ8SiCrrr</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1084364311084945408?ref_src=twsrc%5Etfw">January 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Creativity in the classroom isn’t something you write as an objective or a standard, but how you’re able to play with the time that you’re not talking.&quot; - <a href="https://twitter.com/TheJLV?ref_src=twsrc%5Etfw">@TheJLV</a> <a href="https://t.co/klANlzlO9J">https://t.co/klANlzlO9J</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1084360278240718848?ref_src=twsrc%5Etfw">January 13, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -265,9 +268,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Simone Giertz is just delightful. &quot;Why you should make useless things&quot; - turning anxiety into performance <a href="https://t.co/HA7MSGVjCs">https://t.co/HA7MSGVjCs</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/995756968940744704?ref_src=twsrc%5Etfw">May 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Robinson Tiles, from Futility Closet<a href="https://t.co/SawBkL3nod">https://t.co/SawBkL3nod</a><br>Compelling math from the *other* Robinson.<a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/geomchat?src=hash&amp;ref_src=twsrc%5Etfw">#geomchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://t.co/45U2c6OKXt">pic.twitter.com/45U2c6OKXt</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/994357979351867399?ref_src=twsrc%5Etfw">May 9, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Cute. &quot;IDEA&quot; IKEA-inspired SVGs visualizing Fleury’s algorithm for finding an Eulerian path in a graph <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/MaL63pF3uh">https://t.co/MaL63pF3uh</a> (and more at the domain)</p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/988413821076344832?ref_src=twsrc%5Etfw">April 23, 2018</a></blockquote>
