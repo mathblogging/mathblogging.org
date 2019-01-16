@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Jan 2019 00:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jan 2019 01:16:26 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Jan 2019 00:15:54 GMT</pubDate>
+        <pubDate>Wed, 16 Jan 2019 01:16:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Learning Progression Framework – A good idea or a poor use of time?]]></title>
+            <link>https://creativemaths.net/blog/lpf/</link>
+            <guid isPermaLink="false">https://creativemaths.net/blog/lpf/</guid>
+            <dc:creator><![CDATA[Dr Nic’s blog – Creative Maths]]></dc:creator>
+            <pubDate>Wed, 16 Jan 2019 00:50:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On This Day in Math - January 16]]></title>
             <link>https://pballew.blogspot.com/2019/01/on-this-day-in-math-january-16.html</link>
@@ -106,13 +113,6 @@
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2019/01/do-we-ever-only-care-about-decision.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Tue, 15 Jan 2019 16:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Estimate the Occurrence Probability of Natural Catastrophes]]></title>
-            <link>https://freakonometrics.hypotheses.org/57516</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/57516</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Tue, 15 Jan 2019 16:06:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An extremely good approximation of the Euler number e using only the digits 1-9]]></title>
@@ -780,10 +780,10 @@
             <pubDate>Sun, 13 Jan 2019 00:16:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (78)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2019/01/13/fortnightly-links-78/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/01/13/fortnightly-links-78/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <title><![CDATA[Towards a general method for accessible content trees or: deep aria-labels for equations revisited]]></title>
+            <link>https://www.peterkrautzberger.org/0209/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0209/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sun, 13 Jan 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -794,10 +794,10 @@
             <pubDate>Sun, 13 Jan 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Towards a general method for accessible content trees or: deep aria-labels for equations revisited]]></title>
-            <link>https://www.peterkrautzberger.org/0209/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0209/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <title><![CDATA[Fortnightly links (78)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2019/01/13/fortnightly-links-78/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/01/13/fortnightly-links-78/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 13 Jan 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2380,17 +2380,17 @@ Nives Kavurić-Kurtović (Croatian,...]]></title>
             <pubDate>Sun, 06 Jan 2019 04:55:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rotagrams]]></title>
-            <link>http://datagenetics.com/blog/january32019/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january32019/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 6]]></title>
             <link>https://pballew.blogspot.com/2019/01/on-this-day-in-math-january-6.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2019/01/on-this-day-in-math-january-6.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rotagrams]]></title>
+            <link>http://datagenetics.com/blog/january32019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january32019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2695,17 +2695,17 @@ Nives Kavurić-Kurtović (Croatian,...]]></title>
             <pubDate>Fri, 04 Jan 2019 01:38:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 4]]></title>
-            <link>https://pballew.blogspot.com/2019/01/on-this-day-in-math-january-4.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2019/01/on-this-day-in-math-january-4.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 04 Jan 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hodge numbers for partial flag varieties]]></title>
             <link>http://pbelmans.ncag.info/blog/2019/01/04/hodge-numbers-partial-flag-varieties/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/01/04/hodge-numbers-partial-flag-varieties/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Fri, 04 Jan 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 4]]></title>
+            <link>https://pballew.blogspot.com/2019/01/on-this-day-in-math-january-4.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2019/01/on-this-day-in-math-january-4.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 04 Jan 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3157,17 +3157,17 @@ Nives Kavurić-Kurtović (Croatian,...]]></title>
             <pubDate>Tue, 01 Jan 2019 20:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Celebrate Thirdsday]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/6Z0iVbZ0FH8/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/6Z0iVbZ0FH8/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Tue, 01 Jan 2019 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Latitude Correction]]></title>
             <link>https://www.solipsys.co.uk/new/LatitudeCorrection.html?RSS</link>
             <guid isPermaLink="false">https://www.solipsys.co.uk/new/LatitudeCorrection.html?RSS</guid>
             <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
+            <pubDate>Tue, 01 Jan 2019 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Celebrate Thirdsday]]></title>
+            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/6Z0iVbZ0FH8/</link>
+            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/6Z0iVbZ0FH8/</guid>
+            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Tue, 01 Jan 2019 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3397,17 +3397,17 @@ Judy Ledgerwood (American, b. 1959),...]]></title>
             <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Logic and set theory]]></title>
-            <link>http://scoskey.org/1314s-502</link>
-            <guid isPermaLink="false">http://scoskey.org/1314s-502</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 1]]></title>
             <link>https://pballew.blogspot.com/2019/01/on-this-day-in-math-january-1.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2019/01/on-this-day-in-math-january-1.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Logic and set theory]]></title>
+            <link>http://scoskey.org/1314s-502</link>
+            <guid isPermaLink="false">http://scoskey.org/1314s-502</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4391,17 +4391,17 @@ Judy Ledgerwood (American, b. 1959),...]]></title>
             <pubDate>Thu, 27 Dec 2018 00:42:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - December 27]]></title>
-            <link>https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-27.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-27.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Thu, 27 Dec 2018 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Christmas elves puzzle]]></title>
             <link>http://datagenetics.com/blog/december52018/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/december52018/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 27 Dec 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - December 27]]></title>
+            <link>https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-27.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2018/12/on-this-day-in-math-december-27.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Thu, 27 Dec 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
