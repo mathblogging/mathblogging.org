@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Dan Meyer on 2019 as the year for stats teaching:<a href="https://t.co/zFWkO2dsu2">https://t.co/zFWkO2dsu2</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mathed?src=hash&amp;ref_src=twsrc%5Etfw">#mathed</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 (#25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 𝘈𝘚𝘈𝘗) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1087797499417542668?ref_src=twsrc%5Etfw">January 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A surprisingly elementary solution to the colliding blocks mystery, beautifully explained and demonstrated in <a href="https://twitter.com/3blue1brown?ref_src=twsrc%5Etfw">@3blue1brown</a>&#39;s latest video.<a href="https://t.co/7AxG3fuCtO">https://t.co/7AxG3fuCtO</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1087057138118262784?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -265,9 +268,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Award-winning math teacher Patrick Honner recounts the path of his math career at Story Collider:<a href="https://t.co/xLPmzXtWkX">https://t.co/xLPmzXtWkX</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 (#25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 𝘈𝘚𝘈𝘗) (@SheckyR) <a href="https://twitter.com/SheckyR/status/996560455169650689?ref_src=twsrc%5Etfw">May 16, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">.<a href="https://twitter.com/ijkijKevin?ref_src=twsrc%5Etfw">@ijkijKevin</a> has put a lot of thought into this and believes it&#39;s a &quot;a more coherent flow of Algebra topics&quot; <a href="https://t.co/AcwGs2jwns">https://t.co/AcwGs2jwns</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/996193363878555649?ref_src=twsrc%5Etfw">May 15, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Cute. &quot;IDEA&quot; IKEA-inspired SVGs visualizing Fleury’s algorithm for finding an Eulerian path in a graph <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/MaL63pF3uh">https://t.co/MaL63pF3uh</a> (and more at the domain)</p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/988413821076344832?ref_src=twsrc%5Etfw">April 23, 2018</a></blockquote>
