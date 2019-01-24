@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Kalid at &quot;Better Explained&quot; relates the Taylor Series to DNA:<a href="https://t.co/csc5ChCtka">https://t.co/csc5ChCtka</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 (#25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 𝘈𝘚𝘈𝘗) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1088424950141276162?ref_src=twsrc%5Etfw">January 24, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Dan Meyer on 2019 as the year for stats teaching:<a href="https://t.co/zFWkO2dsu2">https://t.co/zFWkO2dsu2</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mathed?src=hash&amp;ref_src=twsrc%5Etfw">#mathed</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 (#25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 𝘈𝘚𝘈𝘗) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1087797499417542668?ref_src=twsrc%5Etfw">January 22, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -262,9 +265,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fantastic Story Collider performance by the wonderful <a href="https://twitter.com/MrHonner?ref_src=twsrc%5Etfw">@MrHonner</a>  <a href="https://t.co/2xnBr0yB85">https://t.co/2xnBr0yB85</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/997904280165240837?ref_src=twsrc%5Etfw">May 19, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“Lessons from Math Degree That Have Nothing to do with Math”.  Item 6 breaks my heart a little, but I love the overall message. <a href="https://t.co/7nDeMJPvaa">https://t.co/7nDeMJPvaa</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/996851456568315905?ref_src=twsrc%5Etfw">May 16, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Cute. &quot;IDEA&quot; IKEA-inspired SVGs visualizing Fleury’s algorithm for finding an Eulerian path in a graph <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/MaL63pF3uh">https://t.co/MaL63pF3uh</a> (and more at the domain)</p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/988413821076344832?ref_src=twsrc%5Etfw">April 23, 2018</a></blockquote>

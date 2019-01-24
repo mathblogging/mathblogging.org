@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Jan 2019 12:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jan 2019 13:15:30 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/editors-picks.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Jan 2019 12:15:29 GMT</pubDate>
+        <pubDate>Thu, 24 Jan 2019 13:15:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -20,10 +20,19 @@ https://t.co/mk1caUpLZ5
             <pubDate>Tue, 15 Jan 2019 00:21:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@danaernst's pick]]></title>
-            <guid isPermaLink="false">https://medium.com/s/story/6-life-lessons-from-my-math-degree-that-have-nothing-to-do-with-math-d38aba90edfe</guid>
-            <dc:creator><![CDATA[@danaernst]]></dc:creator>
-            <pubDate>Wed, 16 May 2018 20:34:42 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <guid isPermaLink="false">http://www.math3ma.com/mathema/2018/5/17/is-the-square-a-secure-polygon</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Mon, 21 May 2018 23:41:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Kalid at "Better Explained" relates the Taylor Series to DNA:
+https://t.co/csc5ChCtka
+  #mbpick @mathblogging]]></description>
+            <guid isPermaLink="false">https://betterexplained.com/articles/taylor-series/</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Thu, 24 Jan 2019 13:15:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -319,17 +328,17 @@ https://t.co/ACTcZSD9XW
             <pubDate>Wed, 03 Oct 2018 16:30:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <guid isPermaLink="false">https://hmmdaily.com/2018/09/28/john-urschel-goes-pro/</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sat, 29 Sep 2018 12:52:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@fawnpnguyen's pick]]></title>
             <description><![CDATA[Think twice before you post a "simple" maths problem on Twitter. :) https://t.co/EbQ8SiCrrr #mbpick @mathblogging]]></description>
             <guid isPermaLink="false">https://www.indy100.com/article/pizza-sizes-18-12-inch-tweet-viral-maths-8717216</guid>
             <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
             <pubDate>Sun, 13 Jan 2019 08:19:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <guid isPermaLink="false">https://aperiodical.com/2018/09/atiyah-riemann-hypothesis-proof-final-thoughts/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Fri, 28 Sep 2018 16:21:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -603,15 +612,9 @@ https://t.co/ACTcZSD9XW
         </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
-            <guid isPermaLink="false">http://www.math3ma.com/mathema/2018/5/17/is-the-square-a-secure-polygon</guid>
+            <guid isPermaLink="false">https://hmmdaily.com/2018/09/28/john-urschel-goes-pro/</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Mon, 21 May 2018 23:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <guid isPermaLink="false">https://aperiodical.com/2018/09/atiyah-riemann-hypothesis-proof-final-thoughts/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Fri, 28 Sep 2018 16:21:54 GMT</pubDate>
+            <pubDate>Sat, 29 Sep 2018 12:52:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
