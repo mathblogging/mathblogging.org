@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Who knew... Brian Hayes is a card-carrying factorial fanboy:<a href="https://t.co/VH1NufYJmI">https://t.co/VH1NufYJmI</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#ItsMuellerTime) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1094769952962301953?ref_src=twsrc%5Etfw">February 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">42 minutes of delight for all the <a href="https://twitter.com/benorlin?ref_src=twsrc%5Etfw">@benorlin</a> groupies out there:<br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mathed?src=hash&amp;ref_src=twsrc%5Etfw">#mathed</a> <a href="https://t.co/4oIpaaKd3V">https://t.co/4oIpaaKd3V</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#ItsMuellerTime) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1090675058350215169?ref_src=twsrc%5Etfw">January 30, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -271,9 +274,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“Lessons from Math Degree That Have Nothing to do with Math”.  Item 6 breaks my heart a little, but I love the overall message. <a href="https://t.co/7nDeMJPvaa">https://t.co/7nDeMJPvaa</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/996851456568315905?ref_src=twsrc%5Etfw">May 16, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Award-winning math teacher Patrick Honner recounts the path of his math career at Story Collider:<a href="https://t.co/xLPmzXtWkX">https://t.co/xLPmzXtWkX</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#ItsMuellerTime) (@SheckyR) <a href="https://twitter.com/SheckyR/status/996560455169650689?ref_src=twsrc%5Etfw">May 16, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Cute. &quot;IDEA&quot; IKEA-inspired SVGs visualizing Fleury’s algorithm for finding an Eulerian path in a graph <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/MaL63pF3uh">https://t.co/MaL63pF3uh</a> (and more at the domain)</p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/988413821076344832?ref_src=twsrc%5Etfw">April 23, 2018</a></blockquote>
