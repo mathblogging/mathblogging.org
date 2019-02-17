@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Jim Propp weaves together primes, number theory, Euler, Gauss, Kurt Heegner, and, oh, Martin Gardner:<a href="https://t.co/4OdxWgW3ze">https://t.co/4OdxWgW3ze</a><br>   <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#𝘐𝘵𝘴𝘔𝘶𝘦𝘭𝘭𝘦𝘳𝘛𝘪𝘮𝘦) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1097117220868628481?ref_src=twsrc%5Etfw">February 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Congrats to <a href="https://twitter.com/sioroberts?ref_src=twsrc%5Etfw">@sioroberts</a> for publishing what must be the first ever <a href="https://twitter.com/nytimes?ref_src=twsrc%5Etfw">@nytimes</a> story on an algebraic surface!<a href="https://t.co/TrrmWFviaT">https://t.co/TrrmWFviaT</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1096200841957130240?ref_src=twsrc%5Etfw">February 15, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
