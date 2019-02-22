@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Not-to-be-missed: Evelyn Lamb&#39;s latest on &quot;near-misses&quot; in <a href="https://twitter.com/hashtag/mathematics?src=hash&amp;ref_src=twsrc%5Etfw">#mathematics</a>... and life:<a href="https://t.co/opqCXi5R5w">https://t.co/opqCXi5R5w</a><br>   <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#𝘐𝘵𝘴𝘔𝘶𝘦𝘭𝘭𝘦𝘳𝘛𝘪𝘮𝘦) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1098896444017311745?ref_src=twsrc%5Etfw">February 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Jim Propp weaves together primes, number theory, Euler, Gauss, Kurt Heegner, and, oh, Martin Gardner:<a href="https://t.co/4OdxWgW3ze">https://t.co/4OdxWgW3ze</a><br>   <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#𝘐𝘵𝘴𝘔𝘶𝘦𝘭𝘭𝘦𝘳𝘛𝘪𝘮𝘦) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1097117220868628481?ref_src=twsrc%5Etfw">February 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
