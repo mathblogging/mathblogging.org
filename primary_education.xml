@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Feb 2019 04:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Feb 2019 05:15:07 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Feb 2019 04:15:17 GMT</pubDate>
+        <pubDate>Fri, 22 Feb 2019 05:15:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Des carrés magiques en cadeaux]]></title>
+            <link>http://images.math.cnrs.fr/Des-carres-magiques-en-cadeaux.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Des-carres-magiques-en-cadeaux.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 22 Feb 2019 04:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Writing a Python Script to be Used in Vim]]></title>
             <link>http://davidlowryduda.com/writing-a-python-script-to-be-used-in-vim/</link>
@@ -1753,17 +1760,17 @@
             <pubDate>Fri, 15 Feb 2019 12:51:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chi-i-i-i-i-i-ll Friday *]]></title>
-            <link>https://math-frolic.blogspot.com/2019/02/chi-i-i-i-i-i-ll-friday_15.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/02/chi-i-i-i-i-i-ll-friday_15.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Fri, 15 Feb 2019 12:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Two suspense campaigns]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/02/two-suspense-campaigns.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/02/two-suspense-campaigns.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 15 Feb 2019 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chi-i-i-i-i-i-ll Friday *]]></title>
+            <link>https://math-frolic.blogspot.com/2019/02/chi-i-i-i-i-i-ll-friday_15.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/02/chi-i-i-i-i-i-ll-friday_15.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Fri, 15 Feb 2019 12:30:00 GMT</pubDate>
         </item>
         <item>
@@ -4051,13 +4058,6 @@ Wes Noble (American), Untitled, 2014]]></title>
             <pubDate>Wed, 06 Feb 2019 10:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dans les coulisses du MoMath]]></title>
-            <link>http://images.math.cnrs.fr/Dans-les-coulisses-du-MoMath.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Dans-les-coulisses-du-MoMath.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 06 Feb 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Apologia delle gare matematiche]]></title>
             <link>http://maddmaths.simai.eu/in-evidenza/apologia-delle-gare-matematiche/</link>
             <guid isPermaLink="false">http://maddmaths.simai.eu/in-evidenza/apologia-delle-gare-matematiche/</guid>
@@ -4345,17 +4345,17 @@ Wes Noble (American), Untitled, 2014]]></title>
             <pubDate>Tue, 05 Feb 2019 02:39:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 5]]></title>
-            <link>https://pballew.blogspot.com/2019/02/on-this-day-in-math-february-5.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2019/02/on-this-day-in-math-february-5.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 05 Feb 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[AIME Math Puzzle]]></title>
             <link>http://datagenetics.com/blog/february52019/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february52019/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Tue, 05 Feb 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 5]]></title>
+            <link>https://pballew.blogspot.com/2019/02/on-this-day-in-math-february-5.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2019/02/on-this-day-in-math-february-5.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 05 Feb 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4621,15 +4621,15 @@ Green is positive; red is negative. ℂ...]]></title>
         </item>
         <item>
             <title><![CDATA[Contemporary Algebra Collection (new resources 2/4/2019)]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/5AdQM78MUUI/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/5AdQM78MUUI/</guid>
+            <link>http://busynessgirl.com/contemporary-algebra-collection-new-resources-2-4-2019/</link>
+            <guid isPermaLink="false">http://busynessgirl.com/contemporary-algebra-collection-new-resources-2-4-2019/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 04 Feb 2019 04:38:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contemporary Algebra Collection (new resources 2/4/2019)]]></title>
-            <link>http://busynessgirl.com/contemporary-algebra-collection-new-resources-2-4-2019/</link>
-            <guid isPermaLink="false">http://busynessgirl.com/contemporary-algebra-collection-new-resources-2-4-2019/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/5AdQM78MUUI/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/5AdQM78MUUI/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 04 Feb 2019 04:38:30 GMT</pubDate>
         </item>
