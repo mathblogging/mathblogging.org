@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Powerful, personal story about <a href="https://twitter.com/edraygoins?ref_src=twsrc%5Etfw">@edraygoins</a>&#39;s experiences of isolation, disrespect, and non-acceptance in academic mathematics.<a href="https://t.co/kmmkliAx9T">https://t.co/kmmkliAx9T</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1099295772070289408?ref_src=twsrc%5Etfw">February 23, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Interested in tiling?... if so, you&#39;ll love this Numberphile piece (with Edmund Harriss) that starts off with Heesch Numbers:<a href="https://t.co/z3rFzY8W6V">https://t.co/z3rFzY8W6V</a><br>   <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#𝘐𝘵𝘴𝘔𝘶𝘦𝘭𝘭𝘦𝘳𝘛𝘪𝘮𝘦) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1099084940665413632?ref_src=twsrc%5Etfw">February 22, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
