@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The death of proofs is greatly exaggerated... Scott Aaronson on John Horgan:<a href="https://t.co/TmCvs1J6kO">https://t.co/TmCvs1J6kO</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>   <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#𝘐𝘵𝘴𝘔𝘶𝘦𝘭𝘭𝘦𝘳𝘛𝘪𝘮𝘦) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1103716297362292737?ref_src=twsrc%5Etfw">March 7, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Interesting… David M. Roberts on Mochizuki’s ABC work:<a href="https://t.co/5hjU38dDWI">https://t.co/5hjU38dDWI</a><br>…also a little preface to it here:<a href="https://t.co/cWXvOkEVAd">https://t.co/cWXvOkEVAd</a><br> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#𝘐𝘵𝘴𝘔𝘶𝘦𝘭𝘭𝘦𝘳𝘛𝘪𝘮𝘦) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1101888092636696577?ref_src=twsrc%5Etfw">March 2, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
