@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/numberphile?ref_src=twsrc%5Etfw">@numberphile</a>  right on top of the news with this video of Andrew Booker explaining his latest fascinating sum of cubes discovery (for 33):<a href="https://t.co/7mCwbwAaPh">https://t.co/7mCwbwAaPh</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#𝘐𝘵𝘴𝘔𝘶𝘦𝘭𝘭𝘦𝘳𝘛𝘪𝘮𝘦) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1105541666864357376?ref_src=twsrc%5Etfw">March 12, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Great <a href="https://twitter.com/hashtag/PiDay?src=hash&amp;ref_src=twsrc%5Etfw">#PiDay</a> thread from mathematician <a href="https://twitter.com/AlexKontorovich?ref_src=twsrc%5Etfw">@AlexKontorovich</a>!<a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://t.co/5K7MsZ9CMY">https://t.co/5K7MsZ9CMY</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1105432045193515009?ref_src=twsrc%5Etfw">March 12, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
