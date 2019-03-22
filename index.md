@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Intricate connections of &quot;Bells, braids, and taxicabs&quot; from <a href="https://twitter.com/chalkdustmag?ref_src=twsrc%5Etfw">@chalkdustmag</a> :<a href="https://t.co/OMveLnumK0">https://t.co/OMveLnumK0</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#𝘔𝘶𝘦𝘭𝘭𝘦𝘳𝘛𝘪𝘮𝘦 𝘪𝘴 𝘯𝘪𝘨𝘩) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1109069781603368962?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">ONLY for the statistics-inclined, but possibly must reading for them...<br>from NPR:<a href="https://t.co/aCjc8VYp0E">https://t.co/aCjc8VYp0E</a><br>AND followup from Gelman:<a href="https://t.co/P7vHkC7vFj">https://t.co/P7vHkC7vFj</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (#𝘔𝘶𝘦𝘭𝘭𝘦𝘳𝘛𝘪𝘮𝘦 𝘪𝘴 𝘯𝘪𝘨𝘩) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1108456634408464384?ref_src=twsrc%5Etfw">March 20, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
