@@ -4,31 +4,24 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Mar 2019 08:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2019 09:15:57 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Mar 2019 08:15:20 GMT</pubDate>
+        <pubDate>Fri, 22 Mar 2019 09:15:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The Curse of Euclidean Metric: Square Roots]]></title>
+            <link>http://corner.mimuw.edu.pl/?p=1076</link>
+            <guid isPermaLink="false">http://corner.mimuw.edu.pl/?p=1076</guid>
+            <dc:creator><![CDATA[Banach's Algorithmic Corner]]></dc:creator>
+            <pubDate>Fri, 22 Mar 2019 08:54:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[المعلم في المستوى الجزء الرابع احداثيات مجموع متجهتين وضرب متجهة في عدد حقيقي]]></title>
             <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/5y4abaHECEI/ma3lamfimostawa.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/5y4abaHECEI/ma3lamfimostawa.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Fri, 22 Mar 2019 06:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[effective action]]></title>
-            <link>https://ncatlab.org/nlab/show/effective+action</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/effective+action</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 22 Mar 2019 06:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[effective group action]]></title>
-            <link>https://ncatlab.org/nlab/show/effective+group+action</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/effective+group+action</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 22 Mar 2019 06:12:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mars 2019, 4e défi]]></title>
@@ -472,13 +465,6 @@
             <pubDate>Wed, 20 Mar 2019 15:00:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>http://corner.mimuw.edu.pl/?p=1073</link>
-            <guid isPermaLink="false">http://corner.mimuw.edu.pl/?p=1073</guid>
-            <dc:creator><![CDATA[Banach's Algorithmic Corner]]></dc:creator>
-            <pubDate>Wed, 20 Mar 2019 13:19:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BayesComp 20: call for contributed sessions!]]></title>
             <link>https://xianblog.wordpress.com/2019/03/20/bayescomp-20-call-for-contributed-sessions/</link>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2019/03/20/bayescomp-20-call-for-contributed-sessions/</guid>
@@ -822,6 +808,13 @@
             <pubDate>Tue, 19 Mar 2019 08:25:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Spin(6)]]></title>
+            <link>https://ncatlab.org/nlab/show/Spin%25286%2529</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Spin%286%29</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 19 Mar 2019 06:12:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[number of divisors]]></title>
             <link>https://www.bookofproofs.org/branches/number-of-divisors/</link>
             <guid isPermaLink="false">https://www.bookofproofs.org/branches/number-of-divisors/</guid>
@@ -969,17 +962,17 @@
             <pubDate>Mon, 18 Mar 2019 12:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Σαν σήμερα στο μαθηματικό σύμπαν….]]></title>
-            <link>http://mathhmagic.blogspot.com/2019/03/blog-post_18.html</link>
-            <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/03/blog-post_18.html</guid>
-            <dc:creator><![CDATA[Μαθη...μαγικα]]></dc:creator>
-            <pubDate>Mon, 18 Mar 2019 12:02:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Housing Risk Premium is Huge]]></title>
             <link>https://fxdiebold.blogspot.com/2019/03/the-housing-risk-premium-is-huge.html</link>
             <guid isPermaLink="false">https://fxdiebold.blogspot.com/2019/03/the-housing-risk-premium-is-huge.html</guid>
             <dc:creator><![CDATA[No Hesitations]]></dc:creator>
+            <pubDate>Mon, 18 Mar 2019 12:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Σαν σήμερα στο μαθηματικό σύμπαν….]]></title>
+            <link>http://mathhmagic.blogspot.com/2019/03/blog-post_18.html</link>
+            <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/03/blog-post_18.html</guid>
+            <dc:creator><![CDATA[Μαθη...μαγικα]]></dc:creator>
             <pubDate>Mon, 18 Mar 2019 12:02:00 GMT</pubDate>
         </item>
         <item>
@@ -1032,17 +1025,17 @@
             <pubDate>Mon, 18 Mar 2019 00:54:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - March 18]]></title>
-            <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-18.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-18.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 18 Mar 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Triskellion]]></title>
             <link>http://mrburkemath.blogspot.com/2019/03/triskellion.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/03/triskellion.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Mon, 18 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - March 18]]></title>
+            <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-18.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-18.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 18 Mar 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2658,6 +2651,13 @@ I transcribe these things because,..."]]></title>
             <pubDate>Sun, 10 Mar 2019 15:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Spin(5)]]></title>
+            <link>https://ncatlab.org/nlab/show/Spin%25285%2529</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Spin%285%29</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 10 Mar 2019 14:23:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Much Work Can It Be To Add Some Things Up?]]></title>
             <link>https://golem.ph.utexas.edu/category/2019/03/how_much_work_can_it_be_to_add.html</link>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2019/03/how_much_work_can_it_be_to_add.html</guid>
@@ -3309,6 +3309,13 @@ I transcribe these things because,..."]]></title>
             <pubDate>Wed, 06 Mar 2019 17:00:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Spin(4)]]></title>
+            <link>https://ncatlab.org/nlab/show/Spin%25284%2529</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Spin%284%29</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 06 Mar 2019 16:56:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nit-picking – Authors who should know better]]></title>
             <link>https://thonyc.wordpress.com/2019/03/06/nit-picking-authors-who-should-know-better/</link>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2019/03/06/nit-picking-authors-who-should-know-better/</guid>
@@ -3547,17 +3554,17 @@ I transcribe these things because,..."]]></title>
             <pubDate>Tue, 05 Mar 2019 13:00:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OK, one comment]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/03/ok-one-comment.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/03/ok-one-comment.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 05 Mar 2019 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrapping Up Wrapping Up The Earth]]></title>
             <link>http://www.solipsys.co.uk/new/WrappingUpWrappingUpTheEarth.html?RSS</link>
             <guid isPermaLink="false">http://www.solipsys.co.uk/new/WrappingUpWrappingUpTheEarth.html?RSS</guid>
             <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
+            <pubDate>Tue, 05 Mar 2019 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OK, one comment]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/03/ok-one-comment.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/03/ok-one-comment.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 05 Mar 2019 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4940,17 +4947,17 @@ I transcribe these things because,..."]]></title>
             <pubDate>Tue, 26 Feb 2019 13:45:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Repost -- Proto-hyperloops]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/02/repost-proto-hyperloops.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/02/repost-proto-hyperloops.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 26 Feb 2019 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The *Other* Wrapping The Earth Problem]]></title>
             <link>http://www.solipsys.co.uk/new/TheOtherWrappingTheEarthProblem.html?RSS</link>
             <guid isPermaLink="false">http://www.solipsys.co.uk/new/TheOtherWrappingTheEarthProblem.html?RSS</guid>
             <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
+            <pubDate>Tue, 26 Feb 2019 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Repost -- Proto-hyperloops]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/02/repost-proto-hyperloops.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/02/repost-proto-hyperloops.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 26 Feb 2019 12:00:00 GMT</pubDate>
         </item>
         <item>
