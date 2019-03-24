@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">hmmm… I suspect this Sunday post from Gelman (on bad social science &amp; medical science research) that only has 2 comments at the moment, may draw dozens more comments as the week draws on:<a href="https://t.co/TKGKYSvCjB">https://t.co/TKGKYSvCjB</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1109879554749943808?ref_src=twsrc%5Etfw">March 24, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Intricate connections of &quot;Bells, braids, and taxicabs&quot; from <a href="https://twitter.com/chalkdustmag?ref_src=twsrc%5Etfw">@chalkdustmag</a> :<a href="https://t.co/OMveLnumK0">https://t.co/OMveLnumK0</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1109069781603368962?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -307,9 +310,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fascinating article from <a href="https://twitter.com/TheSIAMNews?ref_src=twsrc%5Etfw">@TheSIAMNews</a> about how using complex variables can improve the numerical estimation of real-valued derivatives.<a href="https://t.co/mJD0ipAxS7">https://t.co/mJD0ipAxS7</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1005950816358936576?ref_src=twsrc%5Etfw">June 10, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Peter Scholze, p-adic geometry, Langlands, Fields Medal, &amp; more via Michael Harris:<a href="https://t.co/ShATKZxQ2i">https://t.co/ShATKZxQ2i</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1002936640111874050?ref_src=twsrc%5Etfw">June 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Gotta try this with the kids! &quot;Magforming the Johnson Solids&quot; by <a href="https://twitter.com/RichardElwes?ref_src=twsrc%5Etfw">@RichardElwes</a>  <a href="https://t.co/vAUcQcOpDk">https://t.co/vAUcQcOpDk</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1001740423931539456?ref_src=twsrc%5Etfw">May 30, 2018</a></blockquote>
