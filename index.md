@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">What bothers me most about the worksheet is the use of word &quot;&#39;till&quot; instead of &quot;&#39;til.&quot; <a href="https://t.co/Hu743DMePX">https://t.co/Hu743DMePX</a><br><br>Fine, the whole sheet is shit.<a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1111843499945558016?ref_src=twsrc%5Etfw">March 30, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;The opposite of gerrymandering isn’t proportional representation; the opposite of gerrymandering is not gerrymandering.&quot; <a href="https://twitter.com/JSEllenberg?ref_src=twsrc%5Etfw">@JSEllenberg</a>, on the (first ever?) mathematicians&#39; brief submitted to the US Supreme Court.<a href="https://t.co/8v0uMTm3el">https://t.co/8v0uMTm3el</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1111766066282287104?ref_src=twsrc%5Etfw">March 29, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
