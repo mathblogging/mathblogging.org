@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Apr 2019 04:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2019 05:14:41 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Apr 2019 04:14:52 GMT</pubDate>
+        <pubDate>Mon, 01 Apr 2019 05:14:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Pi a augmenté (très peu) !]]></title>
+            <link>http://images.math.cnrs.fr/Pi-a-augmente-tres-peu.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Pi-a-augmente-tres-peu.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 01 Apr 2019 05:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Revue de presse mars 2019]]></title>
             <link>http://images.math.cnrs.fr/Revue-de-presse-mars-2019.html</link>
@@ -1489,13 +1496,6 @@
             <pubDate>Mon, 25 Mar 2019 10:39:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[18.S097 Applied Category Theory  (MIT)]]></title>
-            <link>https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019</link>
-            <guid isPermaLink="false">https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019</guid>
-            <dc:creator><![CDATA[MIT OpenCourseWare: New Courses in Mathematics]]></dc:creator>
-            <pubDate>Mon, 25 Mar 2019 10:18:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Mathematical Ninja and the Ninety-Sevenths]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/the-mathematical-ninja-and-the-ninety-sevenths/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-mathematical-ninja-and-the-ninety-sevenths/</guid>
@@ -1587,17 +1587,17 @@
             <pubDate>Mon, 25 Mar 2019 00:18:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (80)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2019/03/25/fortnightly-links-80/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/03/25/fortnightly-links-80/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 25 Mar 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 25]]></title>
             <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-25.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-25.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Mon, 25 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (80)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2019/03/25/fortnightly-links-80/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/03/25/fortnightly-links-80/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 25 Mar 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2442,17 +2442,17 @@ the uglier seem the clouds that in it fly"]]></title>
             <pubDate>Wed, 20 Mar 2019 11:43:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SpaceX is betting on technological stagnation]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/03/spacex-is-betting-on-technological.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/03/spacex-is-betting-on-technological.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 20 Mar 2019 11:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mid-week Mindbenders...]]></title>
             <link>https://math-frolic.blogspot.com/2019/03/mid-week-mindbenders.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/03/mid-week-mindbenders.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2019 11:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX is betting on technological stagnation]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/03/spacex-is-betting-on-technological.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/03/spacex-is-betting-on-technological.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 20 Mar 2019 11:30:00 GMT</pubDate>
         </item>
         <item>
@@ -3107,13 +3107,6 @@ the uglier seem the clouds that in it fly"]]></title>
             <pubDate>Sat, 16 Mar 2019 09:21:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Galois en maison de santé (I)]]></title>
-            <link>http://images.math.cnrs.fr/Galois-en-maison-de-sante-I.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Galois-en-maison-de-sante-I.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Sat, 16 Mar 2019 07:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Photo]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/IkoAZM60WA8/183488376141</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/IkoAZM60WA8/183488376141</guid>
@@ -3450,17 +3443,17 @@ the uglier seem the clouds that in it fly"]]></title>
             <pubDate>Thu, 14 Mar 2019 11:30:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pi Path]]></title>
-            <link>http://mathtourist.blogspot.com/2019/03/pi-path.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/03/pi-path.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Thu, 14 Mar 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The appeal of elite schools -- old thoughts on a new controversy]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/03/the-appeal-of-elite-schools-old.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/03/the-appeal-of-elite-schools-old.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 14 Mar 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pi Path]]></title>
+            <link>http://mathtourist.blogspot.com/2019/03/pi-path.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/03/pi-path.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 14 Mar 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3562,17 +3555,17 @@ the uglier seem the clouds that in it fly"]]></title>
             <pubDate>Thu, 14 Mar 2019 01:30:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Moving to the University of Bonn]]></title>
-            <link>http://pbelmans.ncag.info/blog/2019/03/14/real-life-update/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/03/14/real-life-update/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Thu, 14 Mar 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 14]]></title>
             <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-14.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-14.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Thu, 14 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moving to the University of Bonn]]></title>
+            <link>http://pbelmans.ncag.info/blog/2019/03/14/real-life-update/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/03/14/real-life-update/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Thu, 14 Mar 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5034,17 +5027,17 @@ I transcribe these things because,..."]]></title>
             <pubDate>Tue, 05 Mar 2019 13:00:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wrapping Up Wrapping Up The Earth]]></title>
-            <link>http://www.solipsys.co.uk/new/WrappingUpWrappingUpTheEarth.html?RSS</link>
-            <guid isPermaLink="false">http://www.solipsys.co.uk/new/WrappingUpWrappingUpTheEarth.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Tue, 05 Mar 2019 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[OK, one comment]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/03/ok-one-comment.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/03/ok-one-comment.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 05 Mar 2019 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wrapping Up Wrapping Up The Earth]]></title>
+            <link>http://www.solipsys.co.uk/new/WrappingUpWrappingUpTheEarth.html?RSS</link>
+            <guid isPermaLink="false">http://www.solipsys.co.uk/new/WrappingUpWrappingUpTheEarth.html?RSS</guid>
+            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
             <pubDate>Tue, 05 Mar 2019 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5641,13 +5634,6 @@ I transcribe these things because,..."]]></title>
             <guid isPermaLink="false">https://www.logicmatters.net/2019/03/01/an-invitation-to-model-theory/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Fri, 01 Mar 2019 06:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[{ Information = Comprehension × Extension } • Discussion 15]]></title>
-            <link>https://inquiryintoinquiry.com/2019/02/28/information-comprehension-x-extension-%25e2%2580%25a2-discussion-15/</link>
-            <guid isPermaLink="false">https://inquiryintoinquiry.com/2019/02/28/information-comprehension-x-extension-%e2%80%a2-discussion-15/</guid>
-            <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
-            <pubDate>Fri, 01 Mar 2019 04:45:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
