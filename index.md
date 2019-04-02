@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Marianne Freiberger reviews Marcus Du Sautoy reviewing &quot;Gödel, Escher, Bach&quot;:<a href="https://t.co/ftqdnPY2fJ">https://t.co/ftqdnPY2fJ</a><br> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1113056030592851969?ref_src=twsrc%5Etfw">April 2, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">What bothers me most about the worksheet is the use of word &quot;&#39;till&quot; instead of &quot;&#39;til.&quot; <a href="https://t.co/Hu743DMePX">https://t.co/Hu743DMePX</a><br><br>Fine, the whole sheet is shit.<a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1111843499945558016?ref_src=twsrc%5Etfw">March 30, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -304,9 +307,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Karen Saxe <a href="https://twitter.com/amermathsoc?ref_src=twsrc%5Etfw">@AmerMathSoc</a>&#39;s Capital Currents Blog analyzes the recent SCOTUS decisions on gerrymandering and calls the math &amp; stats community to action <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://t.co/e12zD6FcNQ">https://t.co/e12zD6FcNQ</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1013777884207513600?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Some summer fun begins ( <a href="https://twitter.com/hashtag/bigmathoff?src=hash&amp;ref_src=twsrc%5Etfw">#bigmathoff</a> ):<a href="https://t.co/fwjeZSwyeG">https://t.co/fwjeZSwyeG</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1013385490941214721?ref_src=twsrc%5Etfw">July 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Gotta try this with the kids! &quot;Magforming the Johnson Solids&quot; by <a href="https://twitter.com/RichardElwes?ref_src=twsrc%5Etfw">@RichardElwes</a>  <a href="https://t.co/vAUcQcOpDk">https://t.co/vAUcQcOpDk</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1001740423931539456?ref_src=twsrc%5Etfw">May 30, 2018</a></blockquote>

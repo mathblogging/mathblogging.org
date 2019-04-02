@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Apr 2019 12:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2019 13:15:28 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/editors-picks.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Apr 2019 12:15:53 GMT</pubDate>
+        <pubDate>Tue, 02 Apr 2019 13:15:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -19,10 +19,19 @@
             <pubDate>Tue, 12 Mar 2019 11:35:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[@pkrautz's pick]]></title>
+            <guid isPermaLink="false">https://blogs.ams.org/capitalcurrents/2018/06/28/the-supreme-court-has-decided-on-gerrymandering-what-does-it-mean-for-the-math-stats-community/</guid>
+            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
+            <pubDate>Mon, 02 Jul 2018 13:34:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <guid isPermaLink="false">http://aperiodical.com/2018/07/the-big-internet-math-off-round-1-james-tanton-v-nira-chamberlain/</guid>
+            <description><![CDATA[Marianne Freiberger reviews Marcus Du Sautoy reviewing "Gödel, Escher, Bach":
+https://t.co/ftqdnPY2fJ
+ #mbpick @mathblogging]]></description>
+            <guid isPermaLink="false">https://plus.maths.org/content/eternal-golden-braid-godel-escher-bach</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Sun, 01 Jul 2018 11:35:03 GMT</pubDate>
+            <pubDate>Tue, 02 Apr 2019 12:30:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -359,12 +368,6 @@ https://t.co/tolIo2aPSz
             <pubDate>Fri, 07 Dec 2018 21:10:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <guid isPermaLink="false">https://thatsmaths.com/2018/12/06/random-numbers-plucked-from-the-atmosphere/</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Thu, 06 Dec 2018 12:50:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@MrHonner's pick]]></title>
             <description><![CDATA[Wonderful geometry problem and tribute to David Henderson.
 #math #mathchat #geomchat
@@ -372,6 +375,12 @@ https://t.co/tolIo2aPSz
             <guid isPermaLink="false">https://twitter.com/dpscher/status/1104837365531664385</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Tue, 12 Mar 2019 00:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <guid isPermaLink="false">https://www.nytimes.com/2018/11/26/science/crumple-paper-math.html</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Sun, 02 Dec 2018 01:27:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
@@ -692,16 +701,10 @@ https://t.co/tolIo2aPSz
             <pubDate>Sat, 07 Jul 2018 00:30:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@pkrautz's pick]]></title>
-            <guid isPermaLink="false">https://blogs.ams.org/capitalcurrents/2018/06/28/the-supreme-court-has-decided-on-gerrymandering-what-does-it-mean-for-the-math-stats-community/</guid>
-            <dc:creator><![CDATA[@pkrautz]]></dc:creator>
-            <pubDate>Mon, 02 Jul 2018 13:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@MrHonner's pick]]></title>
-            <guid isPermaLink="false">https://www.nytimes.com/2018/11/26/science/crumple-paper-math.html</guid>
-            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
-            <pubDate>Sun, 02 Dec 2018 01:27:09 GMT</pubDate>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <guid isPermaLink="false">https://thatsmaths.com/2018/12/06/random-numbers-plucked-from-the-atmosphere/</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Thu, 06 Dec 2018 12:50:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
