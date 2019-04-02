@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;1&quot; may or may not be the loneliest number, but Evelyn Lamb turns it into a surprisingly interesting number:<a href="https://t.co/3lpVe7hI2q">https://t.co/3lpVe7hI2q</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1113103788796272642?ref_src=twsrc%5Etfw">April 2, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Marianne Freiberger reviews Marcus Du Sautoy reviewing &quot;Gödel, Escher, Bach&quot;:<a href="https://t.co/ftqdnPY2fJ">https://t.co/ftqdnPY2fJ</a><br> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1113056030592851969?ref_src=twsrc%5Etfw">April 2, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
