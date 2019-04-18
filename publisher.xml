@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Apr 2019 18:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2019 19:16:28 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Apr 2019 18:16:17 GMT</pubDate>
+        <pubDate>Thu, 18 Apr 2019 19:16:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -101,6 +101,13 @@
             <pubDate>Thu, 18 Apr 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A brief history of sports betting]]></title>
+            <link>https://freakonometrics.hypotheses.org/58041</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/58041</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Thu, 18 Apr 2019 10:31:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Liviu Nicolaescu]]></title>
             <link>https://ncatlab.org/nlab/show/Liviu+Nicolaescu</link>
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/Liviu+Nicolaescu</guid>
@@ -141,13 +148,6 @@
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/04/blog-post_18.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικα]]></dc:creator>
             <pubDate>Thu, 18 Apr 2019 05:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ramkumar Ramachandra]]></title>
-            <link>https://ncatlab.org/nlab/show/Ramkumar+Ramachandra</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Ramkumar+Ramachandra</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 18 Apr 2019 05:16:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neyman vs the ‘Inferential’ Probabilists]]></title>
@@ -225,13 +225,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/1hIKf-F_8Sg/music-without-idea-is-simply-music.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Wed, 17 Apr 2019 20:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just says in P]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4166</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4166</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Wed, 17 Apr 2019 19:14:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gothenburg, Stockholm, Lancaster, Mitzpe Ramon, and Israeli Election Day 2019]]></title>
@@ -712,17 +705,17 @@ Philosophical...]]></title>
             <pubDate>Tue, 16 Apr 2019 05:30:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[De l'algorithme de Google aux billards de Sinaï]]></title>
-            <link>http://images.math.cnrs.fr/De-l-algorithme-de-Google-aux-billards-de-Sinai.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/De-l-algorithme-de-Google-aux-billards-de-Sinai.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 16 Apr 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Videos: Foundations of Data Science Boot Camp workshop, Aug. 27 – Aug. 31, 2018 (Simon Institute and Kavli Foundation)]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/2A1NQJ9Ivxo/videos-foundations-of-data-science-boot.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/2A1NQJ9Ivxo/videos-foundations-of-data-science-boot.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 16 Apr 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[De l'algorithme de Google aux billards de Sinaï]]></title>
+            <link>http://images.math.cnrs.fr/De-l-algorithme-de-Google-aux-billards-de-Sinai.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/De-l-algorithme-de-Google-aux-billards-de-Sinai.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 16 Apr 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -953,14 +946,14 @@ Philosophical...]]></title>
             <title><![CDATA[Population modelling in the Marvel Cinematic Universe]]></title>
             <link>https://aperiodical.com/2019/04/population-modelling-in-the-marvel-cinematic-universe/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/04/population-modelling-in-the-marvel-cinematic-universe/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Mon, 15 Apr 2019 12:34:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Population modelling in the Marvel Cinematic Universe]]></title>
             <link>https://aperiodical.com/2019/04/population-modelling-in-the-marvel-cinematic-universe/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/04/population-modelling-in-the-marvel-cinematic-universe/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Mon, 15 Apr 2019 12:34:43 GMT</pubDate>
         </item>
         <item>
@@ -971,17 +964,17 @@ Philosophical...]]></title>
             <pubDate>Mon, 15 Apr 2019 12:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Back on the TV beat]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/04/back-on-tv-beat.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/04/back-on-tv-beat.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 15 Apr 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hyperbolic Five]]></title>
             <link>http://mathtourist.blogspot.com/2019/04/hyperbolic-five.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/04/hyperbolic-five.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 15 Apr 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Back on the TV beat]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/04/back-on-tv-beat.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/04/back-on-tv-beat.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 15 Apr 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1568,13 +1561,6 @@ Jan Hruska]]></title>
             <pubDate>Thu, 11 Apr 2019 23:06:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wonderful world]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4152</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4152</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Thu, 11 Apr 2019 22:38:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Domino Square Puzzle]]></title>
             <link>http://www.1001mathproblems.com/2019/04/domino-square-puzzle.html</link>
             <guid isPermaLink="false">http://www.1001mathproblems.com/2019/04/domino-square-puzzle.html</guid>
@@ -1911,17 +1897,17 @@ Jan Hruska]]></title>
             <pubDate>Wed, 10 Apr 2019 11:15:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Lead Conversations on Equity]]></title>
-            <link>http://drawingonmath.blogspot.com/2019/04/how-to-lead-conversations-on-equity.html</link>
-            <guid isPermaLink="false">http://drawingonmath.blogspot.com/2019/04/how-to-lead-conversations-on-equity.html</guid>
-            <dc:creator><![CDATA[Drawing On Math]]></dc:creator>
-            <pubDate>Wed, 10 Apr 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[It's so nice to not be debunking a tech story for a change]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/04/its-so-nice-to-not-be-debunking-tech.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/04/its-so-nice-to-not-be-debunking-tech.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 10 Apr 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Lead Conversations on Equity]]></title>
+            <link>http://drawingonmath.blogspot.com/2019/04/how-to-lead-conversations-on-equity.html</link>
+            <guid isPermaLink="false">http://drawingonmath.blogspot.com/2019/04/how-to-lead-conversations-on-equity.html</guid>
+            <dc:creator><![CDATA[Drawing On Math]]></dc:creator>
             <pubDate>Wed, 10 Apr 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2821,13 +2807,6 @@ Jan Hruska]]></title>
             <pubDate>Fri, 05 Apr 2019 16:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Congratulations!]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4156</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4156</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Fri, 05 Apr 2019 15:45:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Frege: A Philosophical Biography]]></title>
             <link>https://www.logicmatters.net/2019/04/05/frege-a-philosophical-biography/</link>
             <guid isPermaLink="false">https://www.logicmatters.net/2019/04/05/frege-a-philosophical-biography/</guid>
@@ -3211,13 +3190,6 @@ Jan Hruska]]></title>
             <guid isPermaLink="false">https://reperiendi.wordpress.com/2019/04/03/the-modern-sisyphus/</guid>
             <dc:creator><![CDATA[reperiendi]]></dc:creator>
             <pubDate>Wed, 03 Apr 2019 22:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beware of fake FOCS site!]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4154</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4154</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Wed, 03 Apr 2019 22:27:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lightfield 3d photos from an inkjet!]]></title>
@@ -3899,13 +3871,6 @@ Jan Hruska]]></title>
             <pubDate>Sun, 31 Mar 2019 22:25:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematical Universes]]></title>
-            <link>https://mathrising.com/?p=1678</link>
-            <guid isPermaLink="false">https://mathrising.com/?p=1678</guid>
-            <dc:creator><![CDATA[Mathematics Rising]]></dc:creator>
-            <pubDate>Sun, 31 Mar 2019 22:18:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A comment about p-values from Art Owen, upon reading Deborah Mayo’s new book]]></title>
             <link>https://statmodeling.stat.columbia.edu/2019/03/31/a-comment-about-p-values-from-art-owen-upon-reading-deborah-mayos-new-book/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/03/31/a-comment-about-p-values-from-art-owen-upon-reading-deborah-mayos-new-book/</guid>
@@ -4060,17 +4025,17 @@ Jan Hruska]]></title>
             <pubDate>Sun, 31 Mar 2019 02:48:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - March 31]]></title>
-            <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-31.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-31.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 31 Mar 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[One Trillion Dollars]]></title>
             <link>http://datagenetics.com/blog/april12019/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/april12019/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 31 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - March 31]]></title>
+            <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-31.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-31.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 31 Mar 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4958,17 +4923,17 @@ Jan Hruska]]></title>
             <pubDate>Mon, 25 Mar 2019 00:18:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - March 25]]></title>
-            <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-25.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-25.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 25 Mar 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (80)]]></title>
             <link>http://pbelmans.ncag.info/blog/2019/03/25/fortnightly-links-80/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/03/25/fortnightly-links-80/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 25 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - March 25]]></title>
+            <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-25.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-25.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 25 Mar 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5281,17 +5246,17 @@ the uglier seem the clouds that in it fly"]]></title>
             <pubDate>Fri, 22 Mar 2019 13:51:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chi-i-i-i-i-i-ll Friday *]]></title>
-            <link>https://math-frolic.blogspot.com/2019/03/chi-i-i-i-i-i-ll-friday_22.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/03/chi-i-i-i-i-i-ll-friday_22.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Fri, 22 Mar 2019 11:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An excuse to repost one of the few times probability, classic TV and horse racing collide]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/03/an-excuse-to-repost-one-of-few-times.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/03/an-excuse-to-repost-one-of-few-times.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 22 Mar 2019 11:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chi-i-i-i-i-i-ll Friday *]]></title>
+            <link>https://math-frolic.blogspot.com/2019/03/chi-i-i-i-i-i-ll-friday_22.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/03/chi-i-i-i-i-i-ll-friday_22.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Fri, 22 Mar 2019 11:30:00 GMT</pubDate>
         </item>
         <item>
@@ -5631,17 +5596,17 @@ the uglier seem the clouds that in it fly"]]></title>
             <pubDate>Wed, 20 Mar 2019 11:43:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mid-week Mindbenders...]]></title>
-            <link>https://math-frolic.blogspot.com/2019/03/mid-week-mindbenders.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/03/mid-week-mindbenders.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Wed, 20 Mar 2019 11:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SpaceX is betting on technological stagnation]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/03/spacex-is-betting-on-technological.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/03/spacex-is-betting-on-technological.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 20 Mar 2019 11:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mid-week Mindbenders...]]></title>
+            <link>https://math-frolic.blogspot.com/2019/03/mid-week-mindbenders.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/03/mid-week-mindbenders.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Wed, 20 Mar 2019 11:30:00 GMT</pubDate>
         </item>
         <item>
@@ -5827,17 +5792,17 @@ the uglier seem the clouds that in it fly"]]></title>
             <pubDate>Tue, 19 Mar 2019 01:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - March 19]]></title>
-            <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-19.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-19.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 19 Mar 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Optimal Shooting Angle]]></title>
             <link>http://datagenetics.com/blog/march12019/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/march12019/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Tue, 19 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - March 19]]></title>
+            <link>https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-19.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2019/03/on-this-day-in-math-march-19.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 19 Mar 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5867,13 +5832,6 @@ the uglier seem the clouds that in it fly"]]></title>
             <guid isPermaLink="false">https://gilkalai.wordpress.com/2019/03/18/tyi38-lior-kalai-monty-hall-meets-survivor/</guid>
             <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
             <pubDate>Mon, 18 Mar 2019 19:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ONE GOOD PIECE OF MUSIC EVERY DAY: CSÁRDÁS (MONTI)/LUDMILLA PETERKOVÁ & IRINA KONDRATENKO]]></title>
-            <link>http://scienzaemusica.blogspot.com/2019/03/one-good-piece-of-music-every-day_18.html</link>
-            <guid isPermaLink="false">http://scienzaemusica.blogspot.com/2019/03/one-good-piece-of-music-every-day_18.html</guid>
-            <dc:creator><![CDATA[Scienza e Musica]]></dc:creator>
-            <pubDate>Mon, 18 Mar 2019 19:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
