@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Apr 2019 22:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2019 23:15:40 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Apr 2019 22:16:07 GMT</pubDate>
+        <pubDate>Mon, 29 Apr 2019 23:15:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[over-confident about mis-specified models?]]></title>
+            <link>https://xianblog.wordpress.com/2019/04/30/over-confident-about-mis-specified-models/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2019/04/30/over-confident-about-mis-specified-models/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Mon, 29 Apr 2019 22:19:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Semiotics, Semiosis, Sign Relations • 4]]></title>
             <link>https://inquiryintoinquiry.com/2019/04/29/semiotics-semiosis-sign-relations-%25e2%2580%25a2-4/</link>
@@ -740,17 +747,17 @@ Summer rain]]></title>
             <pubDate>Fri, 26 Apr 2019 05:30:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Neumann Networks for Inverse Problems in Imaging]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ii2Vklni8BM/neumann-networks-for-inverse-problems.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ii2Vklni8BM/neumann-networks-for-inverse-problems.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Fri, 26 Apr 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Avril 2019, 4e défi]]></title>
             <link>http://images.math.cnrs.fr/Avril-2019-4e-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Avril-2019-4e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 26 Apr 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neumann Networks for Inverse Problems in Imaging]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ii2Vklni8BM/neumann-networks-for-inverse-problems.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ii2Vklni8BM/neumann-networks-for-inverse-problems.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Fri, 26 Apr 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1496,13 +1503,6 @@ Summer rain]]></title>
             <pubDate>Tue, 23 Apr 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Le Monde puzzle [#1094]]]></title>
-            <link>https://xianblog.wordpress.com/2019/04/23/le-monde-puzzle-1094/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2019/04/23/le-monde-puzzle-1094/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 22 Apr 2019 22:19:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Online Optimization Post 0: Definitions]]></title>
             <link>https://lucatrevisan.wordpress.com/2019/04/22/online-optimization-post-0-definitions/</link>
             <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2019/04/22/online-optimization-post-0-definitions/</guid>
@@ -1965,17 +1965,17 @@ Summer rain]]></title>
             <pubDate>Sat, 20 Apr 2019 09:07:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Videos: Sublinear Algorithms and Nearest-Neighbor Search workshop, Nov. 27 – Nov. 30, 2018 (Simon Institute and Kavli Foundation)]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/rupJ3KYAzDc/videos-sublinear-algorithms-and-nearest.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/rupJ3KYAzDc/videos-sublinear-algorithms-and-nearest.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Sat, 20 Apr 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Un journal mathématique original : le Ladies' Diary (1704-1840)]]></title>
             <link>http://images.math.cnrs.fr/Un-journal-mathematique-original-le-Ladies-Diary-1704-1840.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Un-journal-mathematique-original-le-Ladies-Diary-1704-1840.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Sat, 20 Apr 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Videos: Sublinear Algorithms and Nearest-Neighbor Search workshop, Nov. 27 – Nov. 30, 2018 (Simon Institute and Kavli Foundation)]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/rupJ3KYAzDc/videos-sublinear-algorithms-and-nearest.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/rupJ3KYAzDc/videos-sublinear-algorithms-and-nearest.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Sat, 20 Apr 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
