@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A wonderful realization of Byrne’s version of Euclid&#39;s elements, both as web and large prints <a href="https://t.co/ImKSbwW4TA">https://t.co/ImKSbwW4TA</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1123122960871624704?ref_src=twsrc%5Etfw">April 30, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/aperiodical?ref_src=twsrc%5Etfw">@aperiodical</a> interviews Jess Boland who extended British sign language for mathematics <a href="https://twitter.com/hashtag/a11y?src=hash&amp;ref_src=twsrc%5Etfw">#a11y</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://t.co/V7S2iO3Psm">https://t.co/V7S2iO3Psm</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1119118629310648320?ref_src=twsrc%5Etfw">April 19, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -328,9 +331,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/rmathematicus?ref_src=twsrc%5Etfw">@rmathematicus</a> takes apart a BBC documentary full of BS about math and madness <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a>  <a href="https://t.co/b1NI8P9sU5">https://t.co/b1NI8P9sU5</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/979121177825304578?ref_src=twsrc%5Etfw">March 28, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A fascinating piece by Michael Barany on the early days of the Fields Medal <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a>  <a href="https://t.co/90qxQX6VRl">https://t.co/90qxQX6VRl</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/966335918251626499?ref_src=twsrc%5Etfw">February 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Some good advice from <a href="https://twitter.com/RobertTalbert?ref_src=twsrc%5Etfw">@RobertTalbert</a>: “Three things to leave off of your syllabus” <a href="https://t.co/Qke6HSdC9u">https://t.co/Qke6HSdC9u</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/hashtag/mathblogging?src=hash&amp;ref_src=twsrc%5Etfw">#mathblogging</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/948986567552483328?ref_src=twsrc%5Etfw">January 4, 2018</a></blockquote>
