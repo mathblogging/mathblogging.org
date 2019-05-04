@@ -3,6 +3,12 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A linear programming problem that matters. <a href="https://t.co/JVEWNKwk8p">https://t.co/JVEWNKwk8p</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1124486698468040710?ref_src=twsrc%5Etfw">May 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I feel better now. Even my math hero and Overzealous <a href="https://twitter.com/benorlin?ref_src=twsrc%5Etfw">@benorlin</a> makes mistakes [that I would never catch]. <a href="https://t.co/UOfnAufCC6">https://t.co/UOfnAufCC6</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1124484426690453506?ref_src=twsrc%5Etfw">May 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“No two rainbows are the same. Neither are two packs of Skittles. Enjoy an odd mix.” – Skittles label. Of course someone had to test the likelihood of this. <a href="https://t.co/zt6eCPozfz">https://t.co/zt6eCPozfz</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1124482166207983616?ref_src=twsrc%5Etfw">May 4, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -313,9 +319,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">One more reason why we love Twitter Math Camp (<a href="https://twitter.com/hashtag/TMC18?src=hash&amp;ref_src=twsrc%5Etfw">#TMC18</a>) and <a href="https://twitter.com/hashtag/MTBoS?src=hash&amp;ref_src=twsrc%5Etfw">#MTBoS</a>, <a href="https://t.co/ZeIPrzXwLo">https://t.co/ZeIPrzXwLo</a> from <a href="https://twitter.com/DavidKButlerUoA?ref_src=twsrc%5Etfw">@DavidKButlerUoA</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018167574503149568?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">It&#39;s round 2 of the Big Internet Math-Off! Where else might you learn something new or be reminded of something beautiful, and it&#39;s a friendly competition. <a href="https://t.co/Jq1OmkTkrl">https://t.co/Jq1OmkTkrl</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018165608267972609?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">xkcd has made some OEIS Submissions and they are hilarious <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/ixyHtBUBON">https://t.co/ixyHtBUBON</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1015287261536096256?ref_src=twsrc%5Etfw">July 6, 2018</a></blockquote>
