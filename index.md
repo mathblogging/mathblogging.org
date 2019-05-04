@@ -3,6 +3,12 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“No two rainbows are the same. Neither are two packs of Skittles. Enjoy an odd mix.” – Skittles label. Of course someone had to test the likelihood of this. <a href="https://t.co/zt6eCPozfz">https://t.co/zt6eCPozfz</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1124482166207983616?ref_src=twsrc%5Etfw">May 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I didn&#39;t know Swiss cheese occupies a mathematical space (of course it does), even cooler is a female mathematician, Alice Roth, who described such space. I learned this, thanks to <a href="https://twitter.com/evelynjlamb?ref_src=twsrc%5Etfw">@evelynjlamb</a> , <a href="https://t.co/7ZhBeleWqG">https://t.co/7ZhBeleWqG</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> (Gruyére is my fave.)</p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1124478776161767425?ref_src=twsrc%5Etfw">May 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A wonderful realization of Byrne’s version of Euclid&#39;s elements, both as web and large prints <a href="https://t.co/ImKSbwW4TA">https://t.co/ImKSbwW4TA</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1123122960871624704?ref_src=twsrc%5Etfw">April 30, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -310,9 +316,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">It&#39;s round 2 of the Big Internet Math-Off! Where else might you learn something new or be reminded of something beautiful, and it&#39;s a friendly competition. <a href="https://t.co/Jq1OmkTkrl">https://t.co/Jq1OmkTkrl</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018165608267972609?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Muffins and Integers<a href="https://t.co/IM6aLsrPDz">https://t.co/IM6aLsrPDz</a><br>How can you divide 3 muffins among 5 students while maximizing the smallest piece of muffin? Great division question, cool application of duality, and open problems at the end!<a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1015392654274781185?ref_src=twsrc%5Etfw">July 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">xkcd has made some OEIS Submissions and they are hilarious <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/ixyHtBUBON">https://t.co/ixyHtBUBON</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1015287261536096256?ref_src=twsrc%5Etfw">July 6, 2018</a></blockquote>
