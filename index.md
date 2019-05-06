@@ -309,9 +309,6 @@ title: Editor's picks
 <blockquote class="twitter-tweet" data-conversation="none" align="center" data-width="500"><p lang="en" dir="ltr">We make &quot;Editor&#39;s Picks&quot; for <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> by tagging them with <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>. All Editor&#39;s Picks appear at <a href="https://t.co/cJ2BVcpw3p">https://t.co/cJ2BVcpw3p</a>.</p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1018243316285132800?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Actuaries have the lowest divorce rate. How calculating.  <a href="https://t.co/jwhC19Iqeq">https://t.co/jwhC19Iqeq</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1018177089432797185?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">xkcd has made some OEIS Submissions and they are hilarious <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/ixyHtBUBON">https://t.co/ixyHtBUBON</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1015287261536096256?ref_src=twsrc%5Etfw">July 6, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
