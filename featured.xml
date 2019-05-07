@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 May 2019 04:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2019 05:15:09 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 May 2019 04:16:02 GMT</pubDate>
+        <pubDate>Tue, 07 May 2019 05:15:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Mathématiques et autisme]]></title>
+            <link>http://images.math.cnrs.fr/Mathematiques-et-autisme.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Mathematiques-et-autisme.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 07 May 2019 05:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Network Coding Conjecture Is Powerful]]></title>
             <link>https://rjlipton.wordpress.com/2019/05/06/the-network-coding-conjecture-is-powerful/</link>
@@ -864,6 +871,13 @@
             <pubDate>Fri, 03 May 2019 05:30:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mai 2019, 1er défi]]></title>
+            <link>http://images.math.cnrs.fr/Mai-2019-1er-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Mai-2019-1er-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 03 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ghost imaging with the human eye]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7zDMXLeoPc/ghost-imaging-with-human-eye.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7zDMXLeoPc/ghost-imaging-with-human-eye.html</guid>
@@ -875,13 +889,6 @@
             <link>http://mrburkemath.blogspot.com/2019/05/cup-of-tea.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/cup-of-tea.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 03 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mai 2019, 1er défi]]></title>
-            <link>http://images.math.cnrs.fr/Mai-2019-1er-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Mai-2019-1er-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 03 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3148,13 +3155,6 @@ Summer rain]]></title>
             <pubDate>Mon, 22 Apr 2019 08:07:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.1.6]]></title>
-            <link>http://images.math.cnrs.fr/5-1-6.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-1-6.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 22 Apr 2019 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Το κέρας του  Γαβριήλ]]></title>
             <link>http://mathhmagic.blogspot.com/2019/04/blog-post_22.html</link>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/04/blog-post_22.html</guid>
@@ -3519,17 +3519,17 @@ Summer rain]]></title>
             <pubDate>Fri, 19 Apr 2019 12:30:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Re-thinking Gödel…]]></title>
-            <link>https://math-frolic.blogspot.com/2019/04/re-thinking-godel.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/04/re-thinking-godel.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Fri, 19 Apr 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[It's been an eventful week.]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/04/its-been-eventful-week.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/04/its-been-eventful-week.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 19 Apr 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Re-thinking Gödel…]]></title>
+            <link>https://math-frolic.blogspot.com/2019/04/re-thinking-godel.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/04/re-thinking-godel.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Fri, 19 Apr 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4357,14 +4357,14 @@ Philosophical...]]></title>
             <title><![CDATA[Population modelling in the Marvel Cinematic Universe]]></title>
             <link>https://aperiodical.com/2019/04/population-modelling-in-the-marvel-cinematic-universe/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/04/population-modelling-in-the-marvel-cinematic-universe/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Mon, 15 Apr 2019 12:34:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Population modelling in the Marvel Cinematic Universe]]></title>
             <link>https://aperiodical.com/2019/04/population-modelling-in-the-marvel-cinematic-universe/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/04/population-modelling-in-the-marvel-cinematic-universe/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Mon, 15 Apr 2019 12:34:43 GMT</pubDate>
         </item>
         <item>
@@ -5733,13 +5733,6 @@ Jan Hruska]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/sv1Z2NLHOmE/lieflijke-fruitidylle-onder.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Sat, 06 Apr 2019 07:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creative Limbo, Part 2]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/04/creative-limbo-part-2.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/04/creative-limbo-part-2.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Sat, 06 Apr 2019 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
