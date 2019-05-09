@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Better than Laurel &amp; Hardy, Abbott &amp; Costello, or even Cheech &amp; Chong, I give you Parker &amp; Grime!:<a href="https://t.co/cVURh83vSJ">https://t.co/cVURh83vSJ</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <br>(OK, maybe not better than Laurel &amp; Hardy?)</p>&mdash; 𝙎𝙝𝙚𝙘𝙠𝙮𝙍 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1126459321699774465?ref_src=twsrc%5Etfw">May 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">A linear programming problem that matters. <a href="https://t.co/JVEWNKwk8p">https://t.co/JVEWNKwk8p</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1124486698468040710?ref_src=twsrc%5Etfw">May 4, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
