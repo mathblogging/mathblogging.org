@@ -4,17 +4,52 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 May 2019 18:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2019 19:15:50 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 May 2019 18:15:47 GMT</pubDate>
+        <pubDate>Sat, 18 May 2019 19:15:50 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Using Excel to Convert a Number List to Dashed String of Ranges]]></title>
+            <link>http://mathscinotes.com/2019/05/using-excel-to-convert-a-number-list-to-dashed-string-of-ranges/</link>
+            <guid isPermaLink="false">http://mathscinotes.com/2019/05/using-excel-to-convert-a-number-list-to-dashed-string-of-ranges/</guid>
+            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
+            <pubDate>Sat, 18 May 2019 18:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ramzi Khuri]]></title>
+            <link>https://ncatlab.org/nlab/show/Ramzi+Khuri</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Ramzi+Khuri</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 18 May 2019 18:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[string coupling constant]]></title>
+            <link>https://ncatlab.org/nlab/show/string+coupling+constant</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/string+coupling+constant</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 18 May 2019 18:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[string-string duality]]></title>
+            <link>https://ncatlab.org/nlab/show/string-string+duality</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/string-string+duality</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 18 May 2019 18:08:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An RFP]]></title>
             <link>http://drawingonmath.blogspot.com/2019/05/an-rfp.html</link>
             <guid isPermaLink="false">http://drawingonmath.blogspot.com/2019/05/an-rfp.html</guid>
             <dc:creator><![CDATA[Drawing On Math]]></dc:creator>
             <pubDate>Sat, 18 May 2019 17:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[duality between heterotic and type II string theory]]></title>
+            <link>https://ncatlab.org/nlab/show/duality+between+heterotic+and+type+II+string+theory</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/duality+between+heterotic+and+type+II+string+theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 18 May 2019 17:14:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Thought on First Days]]></title>
@@ -381,13 +416,6 @@
             <pubDate>Fri, 17 May 2019 07:10:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q3IOXLFSE20/on-random-deep-weight-tied-autoencoders.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q3IOXLFSE20/on-random-deep-weight-tied-autoencoders.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mai 2019, 3e défi]]></title>
             <link>http://images.math.cnrs.fr/Mai-2019-3e-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Mai-2019-3e-defi.html</guid>
@@ -395,17 +423,24 @@
             <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Surface Area of a Cylinder]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lettre ouverte à Cédric Villani]]></title>
             <link>http://images.math.cnrs.fr/Lettre-ouverte-a-Cedric-Villani.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Lettre-ouverte-a-Cedric-Villani.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q3IOXLFSE20/on-random-deep-weight-tied-autoencoders.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q3IOXLFSE20/on-random-deep-weight-tied-autoencoders.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surface Area of a Cylinder]]></title>
+            <link>http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -815,6 +850,13 @@
             <pubDate>Wed, 15 May 2019 12:30:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[duality in string theory -- contents]]></title>
+            <link>https://ncatlab.org/nlab/show/duality+in+string+theory+--+contents</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/duality+in+string+theory+--+contents</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 15 May 2019 12:08:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MATHEMATICS OF LIFE (Updated)]]></title>
             <link>http://feedproxy.google.com/~r/RealmOfMathematics/~3/zMCNfQjI9Nc/mathematics-of-life-updated.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/RealmOfMathematics/~3/zMCNfQjI9Nc/mathematics-of-life-updated.html</guid>
@@ -857,17 +899,17 @@
             <pubDate>Wed, 15 May 2019 08:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One-shot distributed ridge regression in high dimensions - implementation-]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emma Castelnuovo : objets et actions pour un enseignement constructif de la géométrie]]></title>
             <link>http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One-shot distributed ridge regression in high dimensions - implementation-]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1809,17 +1851,17 @@
             <pubDate>Fri, 10 May 2019 11:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It must suck to have a hundred million dollar production come in second to happy little trees]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/05/it-must-suck-to-have-hundred-million.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/it-must-suck-to-have-hundred-million.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Fri, 10 May 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lemon Twist]]></title>
             <link>http://mathtourist.blogspot.com/2019/05/lemon-twist.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/lemon-twist.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Fri, 10 May 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It must suck to have a hundred million dollar production come in second to happy little trees]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/05/it-must-suck-to-have-hundred-million.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/it-must-suck-to-have-hundred-million.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 10 May 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1872,17 +1914,17 @@
             <pubDate>Fri, 10 May 2019 05:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Compressive optical interferometry]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/X2EeVxwLYLM/compressive-optical-interferometry.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/X2EeVxwLYLM/compressive-optical-interferometry.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Fri, 10 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mai 2019, 2e défi]]></title>
             <link>http://images.math.cnrs.fr/Mai-2019-2e-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Mai-2019-2e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 10 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compressive optical interferometry]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/X2EeVxwLYLM/compressive-optical-interferometry.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/X2EeVxwLYLM/compressive-optical-interferometry.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Fri, 10 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5385,17 +5427,17 @@ Summer rain]]></title>
             <pubDate>Fri, 19 Apr 2019 13:02:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Re-thinking Gödel…]]></title>
-            <link>https://math-frolic.blogspot.com/2019/04/re-thinking-godel.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/04/re-thinking-godel.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Fri, 19 Apr 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[It's been an eventful week.]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/04/its-been-eventful-week.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/04/its-been-eventful-week.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 19 Apr 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Re-thinking Gödel…]]></title>
+            <link>https://math-frolic.blogspot.com/2019/04/re-thinking-godel.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/04/re-thinking-godel.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Fri, 19 Apr 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5607,20 +5649,6 @@ Summer rain]]></title>
             <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4166</guid>
             <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
             <pubDate>Wed, 17 Apr 2019 19:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gothenburg, Stockholm, Lancaster, Mitzpe Ramon, and Israeli Election Day 2019]]></title>
-            <link>https://gilkalai.wordpress.com/2019/04/17/gothenburg-stockholm-lancaster-mitzpe-ramon-and-israeli-election-day-2019/</link>
-            <guid isPermaLink="false">https://gilkalai.wordpress.com/2019/04/17/gothenburg-stockholm-lancaster-mitzpe-ramon-and-israeli-election-day-2019/</guid>
-            <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
-            <pubDate>Wed, 17 Apr 2019 19:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ONE GOOD PIECE OF MUSIC EVERY DAY: HUNGARIAN DANCE N.5 (BRAHMS)]]></title>
-            <link>http://scienzaemusica.blogspot.com/2019/04/one-good-piece-of-music-every-day_17.html</link>
-            <guid isPermaLink="false">http://scienzaemusica.blogspot.com/2019/04/one-good-piece-of-music-every-day_17.html</guid>
-            <dc:creator><![CDATA[Scienza e Musica]]></dc:creator>
-            <pubDate>Wed, 17 Apr 2019 18:48:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
