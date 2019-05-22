@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 May 2019 08:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2019 09:16:55 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 May 2019 08:15:45 GMT</pubDate>
+        <pubDate>Wed, 22 May 2019 09:16:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[SnapPy]]></title>
+            <link>https://ncatlab.org/nlab/show/SnapPy</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/SnapPy</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 22 May 2019 09:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ask Uncle Colin: The Probability of Winning]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/the-probability-of-winning/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-probability-of-winning/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 22 May 2019 09:00:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photo]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/UgJhHws98RA/185055029608</link>
@@ -162,13 +176,6 @@
             <guid isPermaLink="false">https://robertkaplinsky.com/my-secret-for-giving-other-teachers-feedback/</guid>
             <dc:creator><![CDATA[Robert Kaplinsky]]></dc:creator>
             <pubDate>Tue, 21 May 2019 16:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hyperbolic link]]></title>
-            <link>https://ncatlab.org/nlab/show/hyperbolic+link</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/hyperbolic+link</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 21 May 2019 15:55:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Super-obscure bug in my code]]></title>
@@ -1137,10 +1144,10 @@
             <pubDate>Fri, 17 May 2019 07:10:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Surface Area of a Cylinder]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <title><![CDATA[Mai 2019, 3e défi]]></title>
+            <link>http://images.math.cnrs.fr/Mai-2019-3e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Mai-2019-3e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1151,10 +1158,10 @@
             <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mai 2019, 3e défi]]></title>
-            <link>http://images.math.cnrs.fr/Mai-2019-3e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Mai-2019-3e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <title><![CDATA[Surface Area of a Cylinder]]></title>
+            <link>http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1606,17 +1613,17 @@
             <pubDate>Wed, 15 May 2019 08:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emma Castelnuovo : objets et actions pour un enseignement constructif de la géométrie]]></title>
-            <link>http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[One-shot distributed ridge regression in high dimensions - implementation-]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emma Castelnuovo : objets et actions pour un enseignement constructif de la géométrie]]></title>
+            <link>http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1800,13 +1807,6 @@
             <guid isPermaLink="false">http://retractionwatch.com/2019/05/14/this-is-how-science-works-error-leads-to-recall-of-paper-linking-jon-stewart-and-election-results/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Tue, 14 May 2019 10:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[prototype CLF]]></title>
-            <link>https://ncatlab.org/nlab/show/prototype+CLF</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/prototype+CLF</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 14 May 2019 07:52:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Compressive Single-pixel Fourier Transform Imaging using Structured Illumination]]></title>
@@ -3143,17 +3143,17 @@ YEARS by Bartholomäus Traubeck]]></title>
             <pubDate>Tue, 07 May 2019 11:07:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Polar Light]]></title>
-            <link>http://mathtourist.blogspot.com/2019/05/polar-light.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/polar-light.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 07 May 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Another reminder that the stakes for Mr. Musk are very, very high]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/05/another-reminder-that-stakes-for-mr.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/another-reminder-that-stakes-for-mr.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 07 May 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polar Light]]></title>
+            <link>http://mathtourist.blogspot.com/2019/05/polar-light.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/polar-light.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 07 May 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3850,17 +3850,17 @@ YEARS by Bartholomäus Traubeck]]></title>
             <pubDate>Fri, 03 May 2019 05:30:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cup of Tea]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/05/cup-of-tea.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/cup-of-tea.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 03 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ghost imaging with the human eye]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7zDMXLeoPc/ghost-imaging-with-human-eye.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7zDMXLeoPc/ghost-imaging-with-human-eye.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 03 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cup of Tea]]></title>
+            <link>http://mrburkemath.blogspot.com/2019/05/cup-of-tea.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/cup-of-tea.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 03 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4011,17 +4011,17 @@ YEARS by Bartholomäus Traubeck]]></title>
             <pubDate>Thu, 02 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nodi di carta]]></title>
-            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/j7KwMBrgOYg/nodi-di-carta.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/j7KwMBrgOYg/nodi-di-carta.html</guid>
-            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
-            <pubDate>Thu, 02 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Quantifying entanglement in a 68-billion dimensional quantum system]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/HDHa_Cm49nU/quantifying-entanglement-in-68-billion.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/HDHa_Cm49nU/quantifying-entanglement-in-68-billion.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Thu, 02 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nodi di carta]]></title>
+            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/j7KwMBrgOYg/nodi-di-carta.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/j7KwMBrgOYg/nodi-di-carta.html</guid>
+            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
             <pubDate>Thu, 02 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4198,13 +4198,6 @@ YEARS by Bartholomäus Traubeck]]></title>
             <guid isPermaLink="false">https://girlsangle.wordpress.com/2019/05/01/girls-angle-bulletin-volume-12-number-4/</guid>
             <dc:creator><![CDATA[Girls' Angle]]></dc:creator>
             <pubDate>Wed, 01 May 2019 04:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Academic Family Tree]]></title>
-            <link>http://richb.rice.edu/2019/05/01/academic-family-tree/</link>
-            <guid isPermaLink="false">http://richb.rice.edu/2019/05/01/academic-family-tree/</guid>
-            <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
-            <pubDate>Wed, 01 May 2019 01:33:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lessons from a student poster session]]></title>
@@ -5481,13 +5474,6 @@ Summer rain]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/04/its-entirely-possible-for-netflix-to-be.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 23 Apr 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wrong, But Useful: Episode 66]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-66-md/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-66-md/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Tue, 23 Apr 2019 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LA MAGNIFICA SUPERFICIE DI DINI]]></title>
