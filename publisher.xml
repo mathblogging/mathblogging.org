@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 May 2019 09:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2019 10:15:32 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 May 2019 09:16:53 GMT</pubDate>
+        <pubDate>Wed, 22 May 2019 10:15:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[experimental mathematics]]></title>
+            <link>https://ncatlab.org/nlab/show/experimental+mathematics</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/experimental+mathematics</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 22 May 2019 09:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SnapPy]]></title>
             <link>https://ncatlab.org/nlab/show/SnapPy</link>
@@ -50,13 +57,6 @@
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/05/blog-post_22.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικα]]></dc:creator>
             <pubDate>Wed, 22 May 2019 04:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[prismatic cohomology]]></title>
-            <link>https://ncatlab.org/nlab/show/prismatic+cohomology</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/prismatic+cohomology</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 22 May 2019 02:10:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ABC in Grenoble, 19-20 March 2020]]></title>
@@ -1613,17 +1613,17 @@
             <pubDate>Wed, 15 May 2019 08:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One-shot distributed ridge regression in high dimensions - implementation-]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emma Castelnuovo : objets et actions pour un enseignement constructif de la géométrie]]></title>
             <link>http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One-shot distributed ridge regression in high dimensions - implementation-]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2735,17 +2735,17 @@ minute 0:50, listen to...]]></title>
             <pubDate>Thu, 09 May 2019 12:24:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maybe we just need to give Clarke a bit more time]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/05/maybe-we-just-need-to-give-clarke-bit.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/maybe-we-just-need-to-give-clarke-bit.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 09 May 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Metamorphosis]]></title>
             <link>http://mathtourist.blogspot.com/2019/05/metamorphosis.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/metamorphosis.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 09 May 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maybe we just need to give Clarke a bit more time]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/05/maybe-we-just-need-to-give-clarke-bit.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/maybe-we-just-need-to-give-clarke-bit.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 09 May 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2952,17 +2952,17 @@ minute 0:50, listen to...]]></title>
             <pubDate>Wed, 08 May 2019 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The final stages of TEDification include your own personal Netflix special]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/05/the-final-stages-of-tedification.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/the-final-stages-of-tedification.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 08 May 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Embrace]]></title>
             <link>http://mathtourist.blogspot.com/2019/05/embrace.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/embrace.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 08 May 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The final stages of TEDification include your own personal Netflix special]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/05/the-final-stages-of-tedification.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/the-final-stages-of-tedification.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 08 May 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3332,17 +3332,17 @@ YEARS by Bartholomäus Traubeck]]></title>
             <pubDate>Mon, 06 May 2019 11:17:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Temari Spherical Symmetries]]></title>
-            <link>http://mathtourist.blogspot.com/2019/05/temari-spherical-symmetries.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/temari-spherical-symmetries.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 06 May 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Drinking from the wrong pipe -- Bill Barr edition]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/05/drinking-from-wrong-pipe-bill-barr.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/drinking-from-wrong-pipe-bill-barr.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 06 May 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Temari Spherical Symmetries]]></title>
+            <link>http://mathtourist.blogspot.com/2019/05/temari-spherical-symmetries.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/temari-spherical-symmetries.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 06 May 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3850,17 +3850,17 @@ YEARS by Bartholomäus Traubeck]]></title>
             <pubDate>Fri, 03 May 2019 05:30:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ghost imaging with the human eye]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7zDMXLeoPc/ghost-imaging-with-human-eye.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7zDMXLeoPc/ghost-imaging-with-human-eye.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Fri, 03 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cup of Tea]]></title>
             <link>http://mrburkemath.blogspot.com/2019/05/cup-of-tea.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/cup-of-tea.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 03 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ghost imaging with the human eye]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7zDMXLeoPc/ghost-imaging-with-human-eye.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/t7zDMXLeoPc/ghost-imaging-with-human-eye.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Fri, 03 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4200,11 +4200,11 @@ YEARS by Bartholomäus Traubeck]]></title>
             <pubDate>Wed, 01 May 2019 04:07:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lessons from a student poster session]]></title>
-            <link>https://blogs.ams.org/phdplus/2019/04/30/lessons-from-a-student-poster-session/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lessons-from-a-student-poster-session</link>
-            <guid isPermaLink="false">https://blogs.ams.org/phdplus/2019/04/30/lessons-from-a-student-poster-session/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lessons-from-a-student-poster-session</guid>
-            <dc:creator><![CDATA[PhD + epsilon]]></dc:creator>
-            <pubDate>Wed, 01 May 2019 01:24:17 GMT</pubDate>
+            <title><![CDATA[Academic Family Tree]]></title>
+            <link>http://richb.rice.edu/2019/05/01/academic-family-tree/</link>
+            <guid isPermaLink="false">http://richb.rice.edu/2019/05/01/academic-family-tree/</guid>
+            <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
+            <pubDate>Wed, 01 May 2019 01:33:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EDGE]]></title>
@@ -5698,13 +5698,6 @@ Summer rain]]></title>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/04/david-hilbert-one-of-greats-and-very.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 21 Apr 2019 11:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andersson-Vasquez Pliss-like estimate]]></title>
-            <link>https://jbuzzi.wordpress.com/2019/04/21/andersson-vasquez-pliss-like-estimate/</link>
-            <guid isPermaLink="false">https://jbuzzi.wordpress.com/2019/04/21/andersson-vasquez-pliss-like-estimate/</guid>
-            <dc:creator><![CDATA[Jérôme Buzzi’s]]></dc:creator>
-            <pubDate>Sun, 21 Apr 2019 10:14:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
