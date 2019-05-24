@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 May 2019 21:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2019 22:16:30 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 May 2019 21:15:56 GMT</pubDate>
+        <pubDate>Fri, 24 May 2019 22:16:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Migration]]></title>
+            <link>https://williewong.wordpress.com/2019/05/24/migration/</link>
+            <guid isPermaLink="false">https://williewong.wordpress.com/2019/05/24/migration/</guid>
+            <dc:creator><![CDATA[Bubbles Bad; Ripples Good]]></dc:creator>
+            <pubDate>Fri, 24 May 2019 21:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Animated Logical Graphs • 13]]></title>
             <link>https://inquiryintoinquiry.com/2019/05/24/animated-logical-graphs-%25e2%2580%25a2-13/</link>
@@ -773,13 +780,6 @@
             <pubDate>Tue, 21 May 2019 15:04:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Launching Today: Free Wolfram Engine for Developers]]></title>
-            <link>https://blog.stephenwolfram.com/2019/05/launching-today-free-wolfram-engine-for-developers/</link>
-            <guid isPermaLink="false">https://blog.stephenwolfram.com/2019/05/launching-today-free-wolfram-engine-for-developers/</guid>
-            <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
-            <pubDate>Tue, 21 May 2019 14:10:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematical technique quickly tunes next-generation lenses]]></title>
             <link>http://news.mit.edu/2019/mathematical-tune-metasurface-lenses-0520</link>
             <guid isPermaLink="false">http://news.mit.edu/2019/mathematical-tune-metasurface-lenses-0520</guid>
@@ -1382,13 +1382,6 @@
             <pubDate>Sat, 18 May 2019 16:05:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wolfram|Alpha at 10]]></title>
-            <link>https://blog.stephenwolfram.com/2019/05/wolframalpha-at-10/</link>
-            <guid isPermaLink="false">https://blog.stephenwolfram.com/2019/05/wolframalpha-at-10/</guid>
-            <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
-            <pubDate>Sat, 18 May 2019 16:00:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Journey through Gromov's Gap]]></title>
             <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/ae4mfqvVlqU/</link>
             <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/ae4mfqvVlqU/</guid>
@@ -1725,23 +1718,9 @@
             <pubDate>Fri, 17 May 2019 07:10:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Surface Area of a Cylinder]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lettre ouverte à Cédric Villani]]></title>
             <link>http://images.math.cnrs.fr/Lettre-ouverte-a-Cedric-Villani.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Lettre-ouverte-a-Cedric-Villani.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mai 2019, 3e défi]]></title>
-            <link>http://images.math.cnrs.fr/Mai-2019-3e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Mai-2019-3e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
         </item>
@@ -1750,6 +1729,20 @@
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q3IOXLFSE20/on-random-deep-weight-tied-autoencoders.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q3IOXLFSE20/on-random-deep-weight-tied-autoencoders.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surface Area of a Cylinder]]></title>
+            <link>http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mai 2019, 3e défi]]></title>
+            <link>http://images.math.cnrs.fr/Mai-2019-3e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Mai-2019-3e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2159,17 +2152,17 @@
             <pubDate>Wed, 15 May 2019 08:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One-shot distributed ridge regression in high dimensions - implementation-]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emma Castelnuovo : objets et actions pour un enseignement constructif de la géométrie]]></title>
             <link>http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Emma-Castelnuovo-objets-et-actions-pour-un-enseignement-constructif-de-la.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One-shot distributed ridge regression in high dimensions - implementation-]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/OrBLNoZumzw/one-shot-distributed-ridge-regression.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Wed, 15 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3162,13 +3155,6 @@ minute 0:50, listen to...]]></title>
             <pubDate>Thu, 09 May 2019 16:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What We&#8217;ve Built Is a Computational Language (and That&#8217;s Very Important!)]]></title>
-            <link>https://blog.stephenwolfram.com/2019/05/what-weve-built-is-a-computational-language-and-thats-very-important/</link>
-            <guid isPermaLink="false">https://blog.stephenwolfram.com/2019/05/what-weve-built-is-a-computational-language-and-thats-very-important/</guid>
-            <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
-            <pubDate>Thu, 09 May 2019 15:09:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[That illusion where you think the other side is united and your side is diverse]]></title>
             <link>https://statmodeling.stat.columbia.edu/2019/05/09/that-illusion-where-you-think-the-other-side-is-united-and-your-side-is-diverse/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/05/09/that-illusion-where-you-think-the-other-side-is-united-and-your-side-is-diverse/</guid>
@@ -3640,17 +3626,17 @@ YEARS by Bartholomäus Traubeck]]></title>
             <pubDate>Tue, 07 May 2019 11:07:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Another reminder that the stakes for Mr. Musk are very, very high]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/05/another-reminder-that-stakes-for-mr.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/another-reminder-that-stakes-for-mr.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 07 May 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Polar Light]]></title>
             <link>http://mathtourist.blogspot.com/2019/05/polar-light.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/polar-light.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 07 May 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another reminder that the stakes for Mr. Musk are very, very high]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/05/another-reminder-that-stakes-for-mr.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/another-reminder-that-stakes-for-mr.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 07 May 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3829,17 +3815,17 @@ YEARS by Bartholomäus Traubeck]]></title>
             <pubDate>Mon, 06 May 2019 11:17:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Drinking from the wrong pipe -- Bill Barr edition]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/05/drinking-from-wrong-pipe-bill-barr.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/drinking-from-wrong-pipe-bill-barr.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 06 May 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Temari Spherical Symmetries]]></title>
             <link>http://mathtourist.blogspot.com/2019/05/temari-spherical-symmetries.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/temari-spherical-symmetries.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 06 May 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drinking from the wrong pipe -- Bill Barr edition]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/05/drinking-from-wrong-pipe-bill-barr.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/drinking-from-wrong-pipe-bill-barr.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 06 May 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4387,13 +4373,6 @@ YEARS by Bartholomäus Traubeck]]></title>
             <guid isPermaLink="false">https://plus.maths.org/content/democratic-dilemmas</guid>
             <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
             <pubDate>Thu, 02 May 2019 16:15:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A World Run with Code]]></title>
-            <link>https://blog.stephenwolfram.com/2019/05/a-world-run-with-code/</link>
-            <guid isPermaLink="false">https://blog.stephenwolfram.com/2019/05/a-world-run-with-code/</guid>
-            <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
-            <pubDate>Thu, 02 May 2019 16:15:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data Room m&a: the top indicators associated with protection as well as functionality.]]></title>
