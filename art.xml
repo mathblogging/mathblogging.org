@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 May 2019 10:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2019 11:16:20 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 May 2019 10:16:09 GMT</pubDate>
+        <pubDate>Sat, 25 May 2019 11:16:20 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[British agricultural revolution gave us evolution by natural selection]]></title>
+            <link>https://egtheory.wordpress.com/2019/05/25/agriculture-to-evolution/</link>
+            <guid isPermaLink="false">https://egtheory.wordpress.com/2019/05/25/agriculture-to-evolution/</guid>
+            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
+            <pubDate>Sat, 25 May 2019 10:15:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Assemblea dell’UMI 2019 – la Gallery]]></title>
             <link>http://maddmaths.simai.eu/comunicare/assemblea-dellumi-2019-la-gallery/</link>
@@ -64,13 +71,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/05/24/against-arianism-3-consider-the-cognitive-models-of-the-field/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 24 May 2019 19:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Curious Sequence of Prime Numbers]]></title>
-            <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/HQ8NSEgYU0Y/</link>
-            <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/HQ8NSEgYU0Y/</guid>
-            <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
-            <pubDate>Fri, 24 May 2019 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eurovision and fact-checking Naomi Wolf]]></title>
@@ -402,17 +402,17 @@
             <pubDate>Thu, 23 May 2019 12:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Squared]]></title>
-            <link>http://mathtourist.blogspot.com/2019/05/squared.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/squared.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Thu, 23 May 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What if venture capital is keeping a viable ridesharing industry from emerging]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/05/what-if-venture-capital-is-keeping.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/what-if-venture-capital-is-keeping.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 23 May 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Squared]]></title>
+            <link>http://mathtourist.blogspot.com/2019/05/squared.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/squared.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 23 May 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -920,17 +920,17 @@
             <pubDate>Tue, 21 May 2019 05:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Image Completion Using Low Rank Tensor Method - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/4n2CzVJXE9A/image-completion-using-low-rank-tensor.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/4n2CzVJXE9A/image-completion-using-low-rank-tensor.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Tue, 21 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Karen K. Uhlenbeck]]></title>
             <link>http://images.math.cnrs.fr/Karen-K-Uhlenbeck.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Karen-K-Uhlenbeck.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 21 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Image Completion Using Low Rank Tensor Method - implementation -]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/4n2CzVJXE9A/image-completion-using-low-rank-tensor.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/4n2CzVJXE9A/image-completion-using-low-rank-tensor.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Tue, 21 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1186,17 +1186,17 @@
             <pubDate>Mon, 20 May 2019 07:30:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deep Compressed Sensing - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q2kWdcHvABU/deep-compressed-sensing-implementation.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q2kWdcHvABU/deep-compressed-sensing-implementation.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Mon, 20 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5.1.10]]></title>
             <link>http://images.math.cnrs.fr/5-1-10.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/5-1-10.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 20 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deep Compressed Sensing - implementation -]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q2kWdcHvABU/deep-compressed-sensing-implementation.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/q2kWdcHvABU/deep-compressed-sensing-implementation.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 20 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1753,6 +1753,13 @@
             <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Surface Area of a Cylinder]]></title>
+            <link>http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mai 2019, 3e défi]]></title>
             <link>http://images.math.cnrs.fr/Mai-2019-3e-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Mai-2019-3e-defi.html</guid>
@@ -1764,13 +1771,6 @@
             <link>http://images.math.cnrs.fr/Lettre-ouverte-a-Cedric-Villani.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Lettre-ouverte-a-Cedric-Villani.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Surface Area of a Cylinder]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/surface-area-of-cylinder.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 17 May 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3470,17 +3470,17 @@ minute 0:50, listen to...]]></title>
             <pubDate>Wed, 08 May 2019 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The final stages of TEDification include your own personal Netflix special]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/05/the-final-stages-of-tedification.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/the-final-stages-of-tedification.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 08 May 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Embrace]]></title>
             <link>http://mathtourist.blogspot.com/2019/05/embrace.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/05/embrace.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 08 May 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The final stages of TEDification include your own personal Netflix special]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/05/the-final-stages-of-tedification.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/05/the-final-stages-of-tedification.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 08 May 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5747,20 +5747,6 @@ Summer rain]]></title>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2019/04/24/the-emergence-of-modern-astronomy-a-complex-mosaic-part-ix/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Wed, 24 Apr 2019 11:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twisted Cohomotopy Implies M-Theory Anomaly Cancellation]]></title>
-            <link>https://golem.ph.utexas.edu/category/2019/04/twisted_cohomotopy_implies_mth.html</link>
-            <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2019/04/twisted_cohomotopy_implies_mth.html</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Wed, 24 Apr 2019 11:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk's self-confidence shouldn't inspire much confidence]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/04/elon-musks-self-confidence-shouldnt.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/04/elon-musks-self-confidence-shouldnt.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 24 Apr 2019 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
