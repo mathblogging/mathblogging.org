@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Jun 2019 16:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2019 17:16:42 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/editors-picks.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Jun 2019 16:16:08 GMT</pubDate>
+        <pubDate>Mon, 03 Jun 2019 17:16:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -21,6 +21,15 @@
             <guid isPermaLink="false">https://mitpress.mit.edu/books/prime-number-conspiracy</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
             <pubDate>Mon, 16 Jul 2018 20:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Ben Orlin on John Urschel's new book:
+https://t.co/eTHiddja1S
+  #mbpick  @mathblogging]]></description>
+            <guid isPermaLink="false">https://mathwithbaddrawings.com/2019/05/15/why-teachers-should-read-john-urschels-book/</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Wed, 15 May 2019 18:48:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@danaernst's pick]]></title>
@@ -361,19 +370,19 @@
             <pubDate>Sun, 13 Jan 2019 07:54:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@fawnpnguyen's pick]]></title>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2019/01/when-is-kilogram-not-kilogram.html</guid>
-            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
-            <pubDate>Mon, 07 Jan 2019 05:51:28 GMT</pubDate>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Re-visiting Wiles' proof of Fermat's Last Theorem:
+https://t.co/dusp7IgGRJ
+  #mbpick @mathblogging]]></description>
+            <guid isPermaLink="false">https://www.quantamagazine.org/why-the-proof-of-fermats-last-theorem-doesnt-need-to-be-enhanced-20190603/</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Mon, 03 Jun 2019 16:25:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Ben Orlin on John Urschel's new book:
-https://t.co/eTHiddja1S
-  #mbpick  @mathblogging]]></description>
-            <guid isPermaLink="false">https://mathwithbaddrawings.com/2019/05/15/why-teachers-should-read-john-urschels-book/</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Wed, 15 May 2019 18:48:24 GMT</pubDate>
+            <title><![CDATA[@fawnpnguyen's pick]]></title>
+            <guid isPermaLink="false">https://mathwithbaddrawings.com/2019/01/02/thirdsday-the-holiday-thats-33-33-better-than-any-other/</guid>
+            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
+            <pubDate>Fri, 04 Jan 2019 07:47:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
@@ -707,9 +716,9 @@ https://t.co/eTHiddja1S
         </item>
         <item>
             <title><![CDATA[@fawnpnguyen's pick]]></title>
-            <guid isPermaLink="false">https://mathwithbaddrawings.com/2019/01/02/thirdsday-the-holiday-thats-33-33-better-than-any-other/</guid>
+            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2019/01/when-is-kilogram-not-kilogram.html</guid>
             <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
-            <pubDate>Fri, 04 Jan 2019 07:47:29 GMT</pubDate>
+            <pubDate>Mon, 07 Jan 2019 05:51:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

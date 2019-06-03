@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Re-visiting Wiles&#39; proof of Fermat&#39;s Last Theorem:<a href="https://t.co/dusp7IgGRJ">https://t.co/dusp7IgGRJ</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; &quot;𝙎𝙝𝙚𝙘𝙠𝙮 𝙍𝙞𝙚𝙢𝙖𝙣𝙣&quot; 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1135583283960565760?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Of course we can count on <a href="https://twitter.com/mathycathy?ref_src=twsrc%5Etfw">@mathycathy</a> to have a great fun idea for <a href="https://twitter.com/Desmos?ref_src=twsrc%5Etfw">@Desmos</a> Polygraph for end-of-year. <a href="https://t.co/MvXnVx8xgv">https://t.co/MvXnVx8xgv</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1135395722155634689?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
