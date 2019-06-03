@@ -3,6 +3,12 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Of course we can count on <a href="https://twitter.com/mathycathy?ref_src=twsrc%5Etfw">@mathycathy</a> to have a great fun idea for <a href="https://twitter.com/Desmos?ref_src=twsrc%5Etfw">@Desmos</a> Polygraph for end-of-year. <a href="https://t.co/MvXnVx8xgv">https://t.co/MvXnVx8xgv</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1135395722155634689?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Classroom teachers, we might want to pen out &quot;reflections and takeaways&quot; when the school year wraps up, in a blog or personal journal. Here, <a href="https://twitter.com/Mcoaty?ref_src=twsrc%5Etfw">@Mcoaty</a> did it, so thank you, Matt! <a href="https://t.co/bQV1whJRA3">https://t.co/bQV1whJRA3</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1135394150591807489?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Ben Orlin on John Urschel&#39;s new book:<a href="https://t.co/eTHiddja1S">https://t.co/eTHiddja1S</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; &quot;𝙎𝙝𝙚𝙘𝙠𝙮 𝙍𝙞𝙚𝙢𝙖𝙣𝙣&quot; 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1128733889688686599?ref_src=twsrc%5Etfw">May 15, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -310,9 +316,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">New volume coming from Thomas Lin &amp; MIT Press collecting <a href="https://twitter.com/QuantaMagazine?ref_src=twsrc%5Etfw">@QuantaMagazine</a> math articles:<a href="https://t.co/SRasEyWgCv">https://t.co/SRasEyWgCv</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; &quot;𝙎𝙝𝙚𝙘𝙠𝙮 𝙍𝙞𝙚𝙢𝙖𝙣𝙣&quot; 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1018948415546449926?ref_src=twsrc%5Etfw">July 16, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-conversation="none" align="center" data-width="500"><p lang="en" dir="ltr">We make &quot;Editor&#39;s Picks&quot; for <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> by tagging them with <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>. All Editor&#39;s Picks appear at <a href="https://t.co/cJ2BVcpw3p">https://t.co/cJ2BVcpw3p</a>.</p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1018243316285132800?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">xkcd has made some OEIS Submissions and they are hilarious <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/ixyHtBUBON">https://t.co/ixyHtBUBON</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1015287261536096256?ref_src=twsrc%5Etfw">July 6, 2018</a></blockquote>
