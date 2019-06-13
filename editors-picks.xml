@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Jun 2019 13:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2019 14:25:38 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/editors-picks.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Jun 2019 13:16:25 GMT</pubDate>
+        <pubDate>Thu, 13 Jun 2019 14:25:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -18,9 +18,18 @@
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <guid isPermaLink="false">https://mitpress.mit.edu/books/prime-number-conspiracy</guid>
+            <guid isPermaLink="false">https://mathenchant.wordpress.com/2018/07/16/a-pair-of-shorts/</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Mon, 16 Jul 2018 20:00:08 GMT</pubDate>
+            <pubDate>Tue, 17 Jul 2018 15:04:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[Jim Propp curates latest Carnival of Mathematics:
+https://t.co/C7hf4GPUkC
+  #mbpick @mathblogging]]></description>
+            <guid isPermaLink="false">https://mathenchant.wordpress.com/2019/06/06/carnival-of-mathematics-170/</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Fri, 07 Jun 2019 11:40:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -373,19 +382,18 @@ https://t.co/eTHiddja1S
             <pubDate>Sun, 13 Jan 2019 08:03:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@fawnpnguyen's pick]]></title>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january42019/index.html</guid>
-            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
-            <pubDate>Sun, 13 Jan 2019 07:54:47 GMT</pubDate>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA[so functional for so many, worth RTing as an #mbpick:
+  @mathblogging #LaTex #mathed #mathchat https://t.co/JZMfHPmyPz]]></description>
+            <guid isPermaLink="false">https://twitter.com/seanmcarroll/status/1138890531365277697</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Thu, 13 Jun 2019 13:27:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Jim Propp curates latest Carnival of Mathematics:
-https://t.co/C7hf4GPUkC
-  #mbpick @mathblogging]]></description>
-            <guid isPermaLink="false">https://mathenchant.wordpress.com/2019/06/06/carnival-of-mathematics-170/</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Fri, 07 Jun 2019 11:40:03 GMT</pubDate>
+            <title><![CDATA[@fawnpnguyen's pick]]></title>
+            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2019/01/when-is-kilogram-not-kilogram.html</guid>
+            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
+            <pubDate>Mon, 07 Jan 2019 05:51:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@fawnpnguyen's pick]]></title>
@@ -718,16 +726,10 @@ https://t.co/C7hf4GPUkC
             <pubDate>Tue, 17 Jul 2018 23:15:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <guid isPermaLink="false">https://mathenchant.wordpress.com/2018/07/16/a-pair-of-shorts/</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 17 Jul 2018 15:04:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[@fawnpnguyen's pick]]></title>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2019/01/when-is-kilogram-not-kilogram.html</guid>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january42019/index.html</guid>
             <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
-            <pubDate>Mon, 07 Jan 2019 05:51:28 GMT</pubDate>
+            <pubDate>Sun, 13 Jan 2019 07:54:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
