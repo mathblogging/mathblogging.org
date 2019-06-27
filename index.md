@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The excellent <a href="https://twitter.com/EricaKlarreich?ref_src=twsrc%5Etfw">@EricaKlarreich</a> reports on the counterexamples to Hedetniemi’s Conjecture - h/t <a href="https://twitter.com/aperiodical?ref_src=twsrc%5Etfw">@aperiodical</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://t.co/M7XIB2GMbo">https://t.co/M7XIB2GMbo</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1144332181420019713?ref_src=twsrc%5Etfw">June 27, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Who says there&#39;s never any good news?... <a href="https://twitter.com/benorlin?ref_src=twsrc%5Etfw">@BenOrlin</a> has a new book on the way!:<a href="https://t.co/5v5tG0XIrh">https://t.co/5v5tG0XIrh</a><br> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mathed?src=hash&amp;ref_src=twsrc%5Etfw">#mathed</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a></p>&mdash; &quot;Shecky Riemann&quot; 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1143897978501050368?ref_src=twsrc%5Etfw">June 26, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
