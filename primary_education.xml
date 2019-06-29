@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Jun 2019 13:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jun 2019 14:15:18 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Jun 2019 13:15:11 GMT</pubDate>
+        <pubDate>Sat, 29 Jun 2019 14:15:18 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[It’s a lot of pressure to write a book!]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2019/06/29/its-a-lot-of-pressure-to-write-a-book/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/06/29/its-a-lot-of-pressure-to-write-a-book/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 29 Jun 2019 13:29:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[6/29/19]]></title>
             <link>https://purenumbers.tumblr.com/post/185929931066</link>
@@ -213,6 +220,13 @@
             <pubDate>Fri, 28 Jun 2019 07:40:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Improving Neural Architecture Search Image Classifiers via Ensemble Learning - implementation -]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SYnaIQRsiSk/improving-neural-architecture-search.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SYnaIQRsiSk/improving-neural-architecture-search.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 28 Jun 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Juin 2019, 4e défi]]></title>
             <link>http://images.math.cnrs.fr/Juin-2019-4e-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Juin-2019-4e-defi.html</guid>
@@ -224,13 +238,6 @@
             <link>http://images.math.cnrs.fr/Sur-les-travaux-de-Karen-Uhlenbeck-I.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Sur-les-travaux-de-Karen-Uhlenbeck-I.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 28 Jun 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Improving Neural Architecture Search Image Classifiers via Ensemble Learning - implementation -]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SYnaIQRsiSk/improving-neural-architecture-search.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SYnaIQRsiSk/improving-neural-architecture-search.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Fri, 28 Jun 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -633,6 +640,13 @@
             <pubDate>Wed, 26 Jun 2019 10:44:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ask Uncle Colin: A Cosine Proof]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-a-cosine-proof/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-a-cosine-proof/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 26 Jun 2019 09:00:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NAS-Bench-101: Towards Reproducible Neural Architecture Search - implementation -]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ouhjfgCrmf0/nas-bench-101-towards-reproducible.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/ouhjfgCrmf0/nas-bench-101-towards-reproducible.html</guid>
@@ -990,6 +1004,13 @@
             <pubDate>Mon, 24 Jun 2019 09:50:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Fundamental Theorem of Countdown]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/the-fundamental-theorem-of-countdown/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/the-fundamental-theorem-of-countdown/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 24 Jun 2019 09:00:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[5.2.4]]></title>
             <link>http://images.math.cnrs.fr/5-2-4.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/5-2-4.html</guid>
@@ -1011,17 +1032,17 @@
             <pubDate>Mon, 24 Jun 2019 05:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One-Shot Neural Architecture Search via Compressive Sensing]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SWr1N0SWm1I/one-shot-neural-architecture-search-via.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SWr1N0SWm1I/one-shot-neural-architecture-search-via.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Mon, 24 Jun 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sommes de trois cubes, qui êtes-vous ?]]></title>
             <link>http://images.math.cnrs.fr/Sommes-de-trois-cubes-qui-etes-vous.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Sommes-de-trois-cubes-qui-etes-vous.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 24 Jun 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One-Shot Neural Architecture Search via Compressive Sensing]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SWr1N0SWm1I/one-shot-neural-architecture-search-via.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SWr1N0SWm1I/one-shot-neural-architecture-search-via.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 24 Jun 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1124,15 +1145,15 @@
         </item>
         <item>
             <title><![CDATA[5 Awesome Hotkey Keyboard Shortcuts You Probably Don’t Know]]></title>
-            <link>https://busynessgirl.com/5-awesome-keyboard-shortcuts/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/5-awesome-keyboard-shortcuts/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 23 Jun 2019 14:25:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Awesome Hotkey Keyboard Shortcuts You Probably Don’t Know]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</guid>
+            <link>https://busynessgirl.com/5-awesome-keyboard-shortcuts/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/5-awesome-keyboard-shortcuts/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 23 Jun 2019 14:25:31 GMT</pubDate>
         </item>
@@ -1585,17 +1606,17 @@
             <pubDate>Fri, 21 Jun 2019 05:30:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Juin 2019, 3e défi]]></title>
-            <link>http://images.math.cnrs.fr/Juin-2019-3e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Juin-2019-3e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 21 Jun 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Probabilistic Rollouts for Learning Curve Extrapolation Across Hyperparameter Settings - implementation -]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Fqb7ifP5fsI/probabilistic-rollouts-for-learning.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Fqb7ifP5fsI/probabilistic-rollouts-for-learning.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 21 Jun 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Juin 2019, 3e défi]]></title>
+            <link>http://images.math.cnrs.fr/Juin-2019-3e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Juin-2019-3e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 21 Jun 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1733,15 +1754,15 @@
         </item>
         <item>
             <title><![CDATA[Web Browser Basics]]></title>
-            <link>https://busynessgirl.com/web-browser-basics/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/web-browser-basics/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 20 Jun 2019 13:16:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web Browser Basics]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</guid>
+            <link>https://busynessgirl.com/web-browser-basics/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/web-browser-basics/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 20 Jun 2019 13:16:01 GMT</pubDate>
         </item>
@@ -1982,6 +2003,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/Flmp4L8XFqU/</guid>
             <dc:creator><![CDATA[halbtagsblog]]></dc:creator>
             <pubDate>Wed, 19 Jun 2019 10:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ask Uncle Colin: A Modest Inheritance]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-a-modest-inheritance/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-a-modest-inheritance/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 19 Jun 2019 09:00:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Combinatorics at Strathclyde]]></title>
@@ -2376,6 +2404,13 @@
             <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A Challenge to the Mathematical Ninja]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/a-challenge-to-the-mathematical-ninja/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/a-challenge-to-the-mathematical-ninja/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2019 09:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contraction and Explosion]]></title>
             <link>https://rjlipton.wordpress.com/2019/06/17/contraction-and-explosion/</link>
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2019/06/17/contraction-and-explosion/</guid>
@@ -2426,15 +2461,15 @@
         </item>
         <item>
             <title><![CDATA[Learning to Screencast – Training Videos]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/x4ZXV4BJnMo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/x4ZXV4BJnMo/</guid>
+            <link>https://busynessgirl.com/learning-to-screencast-training-videos/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/learning-to-screencast-training-videos/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 16 Jun 2019 23:09:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learning to Screencast – Training Videos]]></title>
-            <link>https://busynessgirl.com/learning-to-screencast-training-videos/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/learning-to-screencast-training-videos/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/x4ZXV4BJnMo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/x4ZXV4BJnMo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 16 Jun 2019 23:09:18 GMT</pubDate>
         </item>
@@ -2810,6 +2845,13 @@
             <pubDate>Fri, 14 Jun 2019 10:30:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wrong, But Useful: Episode 68]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-68/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-68/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Fri, 14 Jun 2019 09:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Gianluca Panati della Sapienza il prestigioso premio Bessel]]></title>
             <link>http://maddmaths.simai.eu/news-2/a-gianluca-panati-della-sapienza-il-prestigioso-premio-bessel/</link>
             <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/a-gianluca-panati-della-sapienza-il-prestigioso-premio-bessel/</guid>
@@ -2950,17 +2992,17 @@
             <pubDate>Thu, 13 Jun 2019 12:30:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[And if we committed to tithing to Uber, the company would break even within the decade]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/06/and-if-will-committed-to-tithing-to.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/and-if-will-committed-to-tithing-to.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 13 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Song About Pi]]></title>
             <link>http://mathtourist.blogspot.com/2019/06/a-song-about-pi.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/a-song-about-pi.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 13 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[And if we committed to tithing to Uber, the company would break even within the decade]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/06/and-if-will-committed-to-tithing-to.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/and-if-will-committed-to-tithing-to.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 13 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3148,6 +3190,13 @@ Krishna and Radha Watching Rain Clouds: The...]]></title>
             <pubDate>Wed, 12 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ask Uncle Colin: Consecutiveness]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-consecutiveness/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-consecutiveness/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 12 Jun 2019 09:00:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ce soir: Paris Machine Learning Meetup, Season 6 Finale. Data4Good, Hybridation, Sequence Predictions, Unreliable Data]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/L_GDg-CzxkE/ce-soir-paris-machine-learning-meetup.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/L_GDg-CzxkE/ce-soir-paris-machine-learning-meetup.html</guid>
@@ -3288,17 +3337,17 @@ Krishna and Radha Watching Rain Clouds: The...]]></title>
             <pubDate>Tue, 11 Jun 2019 11:25:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tuesday Tweets]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Return of Zeta]]></title>
             <link>http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Tweets]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3554,6 +3603,13 @@ Traditional Georgian fashions]]></title>
             <guid isPermaLink="false">https://www.ilpost.it/?blog_post=interpretabilita</guid>
             <dc:creator><![CDATA[mauriziocodogno – Il Post]]></dc:creator>
             <pubDate>Mon, 10 Jun 2019 09:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google’s Keypad]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/googles-keypad/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/googles-keypad/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 10 Jun 2019 09:00:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Random Projections for Quadratic Programs over a Euclidean Ball]]></title>
@@ -4256,6 +4312,13 @@ Traditional Georgian fashions]]></title>
             <pubDate>Wed, 05 Jun 2019 11:26:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA["IEA: Nuke retirements could lead to 4 billion metric tons of extra CO2 emissions"]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/06/iea-nuke-retirements-could-lead-to-4.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/iea-nuke-retirements-could-lead-to-4.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 05 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Toroidal Lattice]]></title>
             <link>http://mathtourist.blogspot.com/2019/06/toroidal-lattice.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/toroidal-lattice.html</guid>
@@ -4263,11 +4326,11 @@ Traditional Georgian fashions]]></title>
             <pubDate>Wed, 05 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["IEA: Nuke retirements could lead to 4 billion metric tons of extra CO2 emissions"]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/06/iea-nuke-retirements-could-lead-to-4.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/iea-nuke-retirements-could-lead-to-4.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 05 Jun 2019 11:00:00 GMT</pubDate>
+            <title><![CDATA[Ask Uncle Colin: A Trigonometric Puzzle]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-a-trigonometric-puzzle/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/ask-uncle-colin-a-trigonometric-puzzle/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 05 Jun 2019 09:00:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Argonne Tapes]]></title>
@@ -4438,10 +4501,10 @@ Traditional Georgian fashions]]></title>
             <pubDate>Tue, 04 Jun 2019 11:31:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Impossible To Translate]]></title>
-            <link>http://www.solipsys.co.uk/new/ImpossibleToTranslate.html?RSS</link>
-            <guid isPermaLink="false">http://www.solipsys.co.uk/new/ImpossibleToTranslate.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
+            <title><![CDATA[Sea Slug Form]]></title>
+            <link>http://mathtourist.blogspot.com/2019/06/sea-slug-form.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/sea-slug-form.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 04 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4452,10 +4515,10 @@ Traditional Georgian fashions]]></title>
             <pubDate>Tue, 04 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sea Slug Form]]></title>
-            <link>http://mathtourist.blogspot.com/2019/06/sea-slug-form.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/sea-slug-form.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <title><![CDATA[Impossible To Translate]]></title>
+            <link>http://www.solipsys.co.uk/new/ImpossibleToTranslate.html?RSS</link>
+            <guid isPermaLink="false">http://www.solipsys.co.uk/new/ImpossibleToTranslate.html?RSS</guid>
+            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
             <pubDate>Tue, 04 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4592,17 +4655,17 @@ Traditional Georgian fashions]]></title>
             <pubDate>Mon, 03 Jun 2019 12:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fibonacci Downpour]]></title>
-            <link>http://mathtourist.blogspot.com/2019/06/fibonacci-downpour.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/fibonacci-downpour.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 03 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Even by Musk standards, the Boring Company has always been based on bait-and-switch.]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/06/even-by-musk-standards-boring-company.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/even-by-musk-standards-boring-company.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 03 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fibonacci Downpour]]></title>
+            <link>http://mathtourist.blogspot.com/2019/06/fibonacci-downpour.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/fibonacci-downpour.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 03 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4618,6 +4681,13 @@ Traditional Georgian fashions]]></title>
             <guid isPermaLink="false">http://djalil.chafai.net/blog/2019/06/03/financement-des-revues-scientifiques/</guid>
             <dc:creator><![CDATA[Libres pensées d'un mathématicien ordinaire]]></dc:creator>
             <pubDate>Mon, 03 Jun 2019 09:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Dictionary of Mathematical Eponymy: The Fermat Cubic]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/fermat-cubic/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/fermat-cubic/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 03 Jun 2019 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Παραγοντικά,υπερπαραγοντικά και το παραγοντικό της 1001 νύχτας]]></title>
@@ -5290,20 +5360,6 @@ Traditional Georgian fashions]]></title>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/05/algebra-2-problems-of-day_29.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Wed, 29 May 2019 14:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Places to Work as a Data Scientist Around the World]]></title>
-            <link>https://blog.datasciencedojo.com/best-places-data-scientist/</link>
-            <guid isPermaLink="false">https://blog.datasciencedojo.com/best-places-data-scientist/</guid>
-            <dc:creator><![CDATA[Data Science Blog | AI, ML, big data analytics]]></dc:creator>
-            <pubDate>Wed, 29 May 2019 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let’s publish everything.]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2019/05/29/lets-publish-everything/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/05/29/lets-publish-everything/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 29 May 2019 13:52:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
