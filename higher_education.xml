@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jul 2019 02:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2019 03:15:30 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/higher_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jul 2019 02:15:46 GMT</pubDate>
+        <pubDate>Thu, 04 Jul 2019 03:15:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[A Lightweight Example and Tutorial on Genetic Algorithms]]></title>
+            <link>http://mathmisery.com/wp/2019/07/03/a-lightweight-example-and-tutorial-on-genetic-algorithms/</link>
+            <guid isPermaLink="false">http://mathmisery.com/wp/2019/07/03/a-lightweight-example-and-tutorial-on-genetic-algorithms/</guid>
+            <dc:creator><![CDATA[Math Misery?]]></dc:creator>
+            <pubDate>Thu, 04 Jul 2019 02:36:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[John Wright joins UT Austin]]></title>
             <link>https://www.scottaaronson.com/blog/?p=4233</link>
@@ -22,13 +29,6 @@
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/pushforward</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Thu, 04 Jul 2019 01:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pareto Models for Top Incomes]]></title>
-            <link>https://freakonometrics.hypotheses.org/58220</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/58220</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Thu, 04 Jul 2019 00:00:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Applied Category Theory 2019 – Program]]></title>
@@ -675,16 +675,16 @@
             <pubDate>Mon, 01 Jul 2019 05:30:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.2.5]]></title>
-            <link>http://images.math.cnrs.fr/5-2-5.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-2-5.html</guid>
+            <title><![CDATA[Revue de presse juin 2019]]></title>
+            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revue de presse juin 2019]]></title>
-            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</guid>
+            <title><![CDATA[5.2.5]]></title>
+            <link>http://images.math.cnrs.fr/5-2-5.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-2-5.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
         </item>
@@ -1118,9 +1118,9 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Fri, 28 Jun 2019 07:40:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Juin 2019, 4e défi]]></title>
-            <link>http://images.math.cnrs.fr/Juin-2019-4e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Juin-2019-4e-defi.html</guid>
+            <title><![CDATA[Sur les travaux de Karen Uhlenbeck I]]></title>
+            <link>http://images.math.cnrs.fr/Sur-les-travaux-de-Karen-Uhlenbeck-I.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Sur-les-travaux-de-Karen-Uhlenbeck-I.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 28 Jun 2019 05:00:00 GMT</pubDate>
         </item>
@@ -1132,9 +1132,9 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Fri, 28 Jun 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sur les travaux de Karen Uhlenbeck I]]></title>
-            <link>http://images.math.cnrs.fr/Sur-les-travaux-de-Karen-Uhlenbeck-I.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Sur-les-travaux-de-Karen-Uhlenbeck-I.html</guid>
+            <title><![CDATA[Juin 2019, 4e défi]]></title>
+            <link>http://images.math.cnrs.fr/Juin-2019-4e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Juin-2019-4e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 28 Jun 2019 05:00:00 GMT</pubDate>
         </item>
@@ -2575,15 +2575,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Web Browser Basics]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</guid>
+            <link>https://busynessgirl.com/web-browser-basics/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/web-browser-basics/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 20 Jun 2019 13:16:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web Browser Basics]]></title>
-            <link>https://busynessgirl.com/web-browser-basics/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/web-browser-basics/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 20 Jun 2019 13:16:01 GMT</pubDate>
         </item>
@@ -3002,15 +3002,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Tips for Getting the Right Screencast Conditions]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</guid>
+            <link>https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Jun 2019 12:13:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tips for Getting the Right Screencast Conditions]]></title>
-            <link>https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Jun 2019 12:13:26 GMT</pubDate>
         </item>
@@ -3156,15 +3156,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Clawing Your Way Back to Your Life – Inbox Pause]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/uvLzQCoDqJk/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/uvLzQCoDqJk/</guid>
+            <link>https://busynessgirl.com/clawing-your-way-back-to-your-life-inbox-pause/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/clawing-your-way-back-to-your-life-inbox-pause/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 17 Jun 2019 14:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clawing Your Way Back to Your Life – Inbox Pause]]></title>
-            <link>https://busynessgirl.com/clawing-your-way-back-to-your-life-inbox-pause/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/clawing-your-way-back-to-your-life-inbox-pause/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/uvLzQCoDqJk/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/uvLzQCoDqJk/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 17 Jun 2019 14:41:00 GMT</pubDate>
         </item>
@@ -3296,15 +3296,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Learning to Screencast – Training Videos]]></title>
-            <link>https://busynessgirl.com/learning-to-screencast-training-videos/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/learning-to-screencast-training-videos/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/x4ZXV4BJnMo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/x4ZXV4BJnMo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 16 Jun 2019 23:09:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learning to Screencast – Training Videos]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/x4ZXV4BJnMo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/x4ZXV4BJnMo/</guid>
+            <link>https://busynessgirl.com/learning-to-screencast-training-videos/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/learning-to-screencast-training-videos/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 16 Jun 2019 23:09:18 GMT</pubDate>
         </item>
@@ -3666,17 +3666,17 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Fri, 14 Jun 2019 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Row Your Boat]]></title>
-            <link>http://mathtourist.blogspot.com/2019/06/row-your-boat_14.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/row-your-boat_14.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Fri, 14 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Opossum is a real mood killer of a safe word]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/06/opossum-is-real-mood-killer-of-safe-word.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/opossum-is-real-mood-killer-of-safe-word.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 14 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Row Your Boat]]></title>
+            <link>http://mathtourist.blogspot.com/2019/06/row-your-boat_14.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/row-your-boat_14.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Fri, 14 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4172,17 +4172,17 @@ Krishna and Radha Watching Rain Clouds: The...]]></title>
             <pubDate>Tue, 11 Jun 2019 11:25:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tuesday Tweets]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Return of Zeta]]></title>
             <link>http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Tweets]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
