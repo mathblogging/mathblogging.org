@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jul 2019 13:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2019 14:15:44 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jul 2019 13:15:22 GMT</pubDate>
+        <pubDate>Thu, 04 Jul 2019 14:15:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Causal inference with time-varying mediators]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2019/07/04/41237/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/07/04/41237/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 04 Jul 2019 13:33:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7/4/19]]></title>
             <link>https://purenumbers.tumblr.com/post/186047649852</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://regularize.wordpress.com/2019/07/03/why-should-you-calculate-the-jordan-normal-form-anyway/</guid>
             <dc:creator><![CDATA[regularize]]></dc:creator>
             <pubDate>Wed, 03 Jul 2019 16:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andreas Karch]]></title>
-            <link>https://ncatlab.org/nlab/show/Andreas+Karch</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Andreas+Karch</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 03 Jul 2019 16:00:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[June 2019 Algebra I Regents Parts 3 & 4]]></title>
@@ -773,16 +773,16 @@
             <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.2.5]]></title>
-            <link>http://images.math.cnrs.fr/5-2-5.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-2-5.html</guid>
+            <title><![CDATA[Revue de presse juin 2019]]></title>
+            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revue de presse juin 2019]]></title>
-            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</guid>
+            <title><![CDATA[5.2.5]]></title>
+            <link>http://images.math.cnrs.fr/5-2-5.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-2-5.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
         </item>
@@ -1791,15 +1791,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Some Basic HTML Tips For When Your LMS Makes You Nuts]]></title>
-            <link>https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 25 Jun 2019 05:49:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some Basic HTML Tips For When Your LMS Makes You Nuts]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</guid>
+            <link>https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 25 Jun 2019 05:49:58 GMT</pubDate>
         </item>
@@ -2035,17 +2035,17 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Mon, 24 Jun 2019 05:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One-Shot Neural Architecture Search via Compressive Sensing]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SWr1N0SWm1I/one-shot-neural-architecture-search-via.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SWr1N0SWm1I/one-shot-neural-architecture-search-via.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Mon, 24 Jun 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sommes de trois cubes, qui êtes-vous ?]]></title>
             <link>http://images.math.cnrs.fr/Sommes-de-trois-cubes-qui-etes-vous.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Sommes-de-trois-cubes-qui-etes-vous.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 24 Jun 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One-Shot Neural Architecture Search via Compressive Sensing]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SWr1N0SWm1I/one-shot-neural-architecture-search-via.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/SWr1N0SWm1I/one-shot-neural-architecture-search-via.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Mon, 24 Jun 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2141,15 +2141,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[5 Awesome Hotkey Keyboard Shortcuts You Probably Don’t Know]]></title>
-            <link>https://busynessgirl.com/5-awesome-keyboard-shortcuts/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/5-awesome-keyboard-shortcuts/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 23 Jun 2019 14:25:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Awesome Hotkey Keyboard Shortcuts You Probably Don’t Know]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</guid>
+            <link>https://busynessgirl.com/5-awesome-keyboard-shortcuts/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/5-awesome-keyboard-shortcuts/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 23 Jun 2019 14:25:31 GMT</pubDate>
         </item>
@@ -3323,17 +3323,17 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Mon, 17 Jun 2019 11:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Matrices, Circles, and Eigenthings]]></title>
-            <link>http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The sad part is I'm sure this isn't the first time the worlds of cryptocurrency and Perlstein's "the Long Con" have collided]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/06/the-sad-part-is-im-sure-this-isnt-first.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/the-sad-part-is-im-sure-this-isnt-first.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matrices, Circles, and Eigenthings]]></title>
+            <link>http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5460,13 +5460,6 @@ Traditional Georgian fashions]]></title>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2019/06/celebrating-walt-whitman.html</guid>
             <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
             <pubDate>Mon, 03 Jun 2019 14:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liminal and subliminal]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/xcHkqckyq-c/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/xcHkqckyq-c/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Mon, 03 Jun 2019 13:10:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
