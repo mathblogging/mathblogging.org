@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jul 2019 08:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2019 09:15:34 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jul 2019 08:15:12 GMT</pubDate>
+        <pubDate>Sat, 06 Jul 2019 09:15:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The Big Internet Math-Off 2019, Group 2 – Jorge Nuno Silva vs Sameer Shah]]></title>
+            <link>https://aperiodical.com/2019/07/the-big-internet-math-off-2019-group-2-jorge-nuno-silva-vs-sameer-shah/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/07/the-big-internet-math-off-2019-group-2-jorge-nuno-silva-vs-sameer-shah/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Sat, 06 Jul 2019 09:00:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Saranno famosi, il FameLab di Veronica Grieco]]></title>
             <link>http://maddmaths.simai.eu/persone/saranno-famosi-il-famelab-di-veronica-grieco/</link>
@@ -136,13 +143,6 @@
             <pubDate>Fri, 05 Jul 2019 13:34:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alberto Zaffaroni]]></title>
-            <link>https://ncatlab.org/nlab/show/Alberto+Zaffaroni</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Alberto+Zaffaroni</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 05 Jul 2019 13:23:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Le Monde puzzle [#1106]]]></title>
             <link>https://xianblog.wordpress.com/2019/07/05/le-monde-puzzle-1106/</link>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2019/07/05/le-monde-puzzle-1106/</guid>
@@ -234,16 +234,16 @@
             <pubDate>Fri, 05 Jul 2019 05:00:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quel est le début de ce nombre ?]]></title>
-            <link>http://images.math.cnrs.fr/Quel-est-le-debut-de-ce-nombre.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Quel-est-le-debut-de-ce-nombre.html</guid>
+            <title><![CDATA[Juillet 2019, 1er défi]]></title>
+            <link>http://images.math.cnrs.fr/Juillet-2019-1er-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Juillet-2019-1er-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 05 Jul 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Juillet 2019, 1er défi]]></title>
-            <link>http://images.math.cnrs.fr/Juillet-2019-1er-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Juillet-2019-1er-defi.html</guid>
+            <title><![CDATA[Quel est le début de ce nombre ?]]></title>
+            <link>http://images.math.cnrs.fr/Quel-est-le-debut-de-ce-nombre.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Quel-est-le-debut-de-ce-nombre.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 05 Jul 2019 05:00:00 GMT</pubDate>
         </item>
@@ -367,17 +367,17 @@
             <pubDate>Thu, 04 Jul 2019 12:17:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blue Ridge Flag]]></title>
-            <link>http://mathtourist.blogspot.com/2019/07/blue-ridge-flag.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/07/blue-ridge-flag.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Thu, 04 Jul 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Happy 4th]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/07/happy-4th.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/happy-4th.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 04 Jul 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blue Ridge Flag]]></title>
+            <link>http://mathtourist.blogspot.com/2019/07/blue-ridge-flag.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/07/blue-ridge-flag.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 04 Jul 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -519,13 +519,6 @@
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2019/07/fighting-heat-with-limericks.html</guid>
             <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
             <pubDate>Wed, 03 Jul 2019 15:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[M-theory on S1/G_HW times H/G_ADE]]></title>
-            <link>https://ncatlab.org/nlab/show/M-theory+on+S1%252FG_HW+times+H%252FG_ADE</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/M-theory+on+S1%2FG_HW+times+H%2FG_ADE</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 03 Jul 2019 14:36:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Les interviews du CIRM : Michel Broué]]></title>
@@ -1088,6 +1081,13 @@
             <pubDate>Mon, 01 Jul 2019 05:30:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[5.2.5]]></title>
+            <link>http://images.math.cnrs.fr/5-2-5.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-2-5.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fast.ai courses: Part 2: Deep Learning from the Foundations]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/rfwAnCagr2U/fastai-courses-part-2-deep-learning.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/rfwAnCagr2U/fastai-courses-part-2-deep-learning.html</guid>
@@ -1098,13 +1098,6 @@
             <title><![CDATA[Revue de presse juin 2019]]></title>
             <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5.2.5]]></title>
-            <link>http://images.math.cnrs.fr/5-2-5.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-2-5.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
         </item>
@@ -2085,15 +2078,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Some Basic HTML Tips For When Your LMS Makes You Nuts]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</guid>
+            <link>https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 25 Jun 2019 05:49:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some Basic HTML Tips For When Your LMS Makes You Nuts]]></title>
-            <link>https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 25 Jun 2019 05:49:58 GMT</pubDate>
         </item>
@@ -2407,15 +2400,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[5 Awesome Hotkey Keyboard Shortcuts You Probably Don’t Know]]></title>
-            <link>https://busynessgirl.com/5-awesome-keyboard-shortcuts/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/5-awesome-keyboard-shortcuts/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 23 Jun 2019 14:25:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Awesome Hotkey Keyboard Shortcuts You Probably Don’t Know]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/ToutqeenFbE/</guid>
+            <link>https://busynessgirl.com/5-awesome-keyboard-shortcuts/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/5-awesome-keyboard-shortcuts/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 23 Jun 2019 14:25:31 GMT</pubDate>
         </item>
@@ -3155,17 +3148,17 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Wed, 19 Jun 2019 12:30:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MSRI Reflections]]></title>
-            <link>http://mathtourist.blogspot.com/2019/06/msri-reflections.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/msri-reflections.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 19 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Running out of snarky Musk titles]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/06/running-out-of-snarky-musk-titles.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/running-out-of-snarky-musk-titles.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 19 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSRI Reflections]]></title>
+            <link>http://mathtourist.blogspot.com/2019/06/msri-reflections.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/msri-reflections.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Wed, 19 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3359,15 +3352,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Tips for Getting the Right Screencast Conditions]]></title>
-            <link>https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Jun 2019 12:13:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tips for Getting the Right Screencast Conditions]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</guid>
+            <link>https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Jun 2019 12:13:26 GMT</pubDate>
         </item>
@@ -3568,17 +3561,17 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Mon, 17 Jun 2019 11:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The sad part is I'm sure this isn't the first time the worlds of cryptocurrency and Perlstein's "the Long Con" have collided]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/06/the-sad-part-is-im-sure-this-isnt-first.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/the-sad-part-is-im-sure-this-isnt-first.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matrices, Circles, and Eigenthings]]></title>
             <link>http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sad part is I'm sure this isn't the first time the worlds of cryptocurrency and Perlstein's "the Long Con" have collided]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/06/the-sad-part-is-im-sure-this-isnt-first.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/the-sad-part-is-im-sure-this-isnt-first.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4002,17 +3995,17 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Fri, 14 Jun 2019 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Opossum is a real mood killer of a safe word]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/06/opossum-is-real-mood-killer-of-safe-word.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/opossum-is-real-mood-killer-of-safe-word.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Fri, 14 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Row Your Boat]]></title>
             <link>http://mathtourist.blogspot.com/2019/06/row-your-boat_14.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/row-your-boat_14.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Fri, 14 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opossum is a real mood killer of a safe word]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/06/opossum-is-real-mood-killer-of-safe-word.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/opossum-is-real-mood-killer-of-safe-word.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 14 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4494,17 +4487,17 @@ Krishna and Radha Watching Rain Clouds: The...]]></title>
             <pubDate>Tue, 11 Jun 2019 11:25:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tuesday Tweets]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Return of Zeta]]></title>
             <link>http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Tweets]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5371,13 +5364,6 @@ Traditional Georgian fashions]]></title>
             <pubDate>Wed, 05 Jun 2019 11:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["IEA: Nuke retirements could lead to 4 billion metric tons of extra CO2 emissions"]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/06/iea-nuke-retirements-could-lead-to-4.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/iea-nuke-retirements-could-lead-to-4.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 05 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Toroidal Lattice]]></title>
             <link>http://mathtourist.blogspot.com/2019/06/toroidal-lattice.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/toroidal-lattice.html</guid>
@@ -5385,11 +5371,11 @@ Traditional Georgian fashions]]></title>
             <pubDate>Wed, 05 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Argonne Tapes]]></title>
-            <link>https://nickhigham.wordpress.com/2019/06/05/the-argonne-tapes/</link>
-            <guid isPermaLink="false">https://nickhigham.wordpress.com/2019/06/05/the-argonne-tapes/</guid>
-            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
-            <pubDate>Wed, 05 Jun 2019 08:17:00 GMT</pubDate>
+            <title><![CDATA["IEA: Nuke retirements could lead to 4 billion metric tons of extra CO2 emissions"]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/06/iea-nuke-retirements-could-lead-to-4.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/iea-nuke-retirements-could-lead-to-4.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 05 Jun 2019 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
