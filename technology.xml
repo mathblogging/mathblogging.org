@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jul 2019 22:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2019 23:15:27 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jul 2019 22:15:10 GMT</pubDate>
+        <pubDate>Tue, 09 Jul 2019 23:15:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[CRAN does not validate R packages!]]></title>
+            <link>https://xianblog.wordpress.com/2019/07/10/cran-does-not-validate-r-packages/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2019/07/10/cran-does-not-validate-r-packages/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 09 Jul 2019 22:19:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Animated Logical Graphs • 17]]></title>
             <link>https://inquiryintoinquiry.com/2019/07/09/animated-logical-graphs-%25e2%2580%25a2-17/</link>
@@ -87,13 +94,6 @@
             <pubDate>Tue, 09 Jul 2019 13:32:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eric Perlmutter]]></title>
-            <link>https://ncatlab.org/nlab/show/Eric+Perlmutter</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Eric+Perlmutter</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 09 Jul 2019 13:30:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Know your data 25: Roundup of the fast-and-furious news]]></title>
             <link>https://junkcharts.typepad.com/numbersruleyourworld/2019/07/know-your-data-25-roundup-of-the-fast-and-furious-news.html</link>
             <guid isPermaLink="false">https://junkcharts.typepad.com/numbersruleyourworld/2019/07/know-your-data-25-roundup-of-the-fast-and-furious-news.html</guid>
@@ -101,16 +101,16 @@
             <pubDate>Tue, 09 Jul 2019 12:49:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7/9/19]]></title>
-            <link>https://purenumbers.tumblr.com/post/186162976883</link>
-            <guid isPermaLink="false">https://purenumbers.tumblr.com/post/186162976883</guid>
+            <title><![CDATA[7/7/19]]></title>
+            <link>https://purenumbers.tumblr.com/post/186162977464</link>
+            <guid isPermaLink="false">https://purenumbers.tumblr.com/post/186162977464</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Tue, 09 Jul 2019 12:30:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7/7/19]]></title>
-            <link>https://purenumbers.tumblr.com/post/186162977464</link>
-            <guid isPermaLink="false">https://purenumbers.tumblr.com/post/186162977464</guid>
+            <title><![CDATA[7/9/19]]></title>
+            <link>https://purenumbers.tumblr.com/post/186162976883</link>
+            <guid isPermaLink="false">https://purenumbers.tumblr.com/post/186162976883</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Tue, 09 Jul 2019 12:30:27 GMT</pubDate>
         </item>
@@ -267,6 +267,13 @@
             <guid isPermaLink="false">https://slate.com/technology/2019/06/science-replication-conservatives-liberals-reacting-to-threats.html</guid>
             <dc:creator><![CDATA[Simons Foundation]]></dc:creator>
             <pubDate>Mon, 08 Jul 2019 17:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matematica per giovani menti – recensione]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/recensioni/matematica-per-giovani-menti-recensione/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/recensioni/matematica-per-giovani-menti-recensione/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Mon, 08 Jul 2019 15:05:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Visual Poetry -- Newton's Third Law]]></title>
@@ -593,17 +600,17 @@ Strangely enough, most people associate “silent but deadly” with farts...]]>
             <pubDate>Sun, 07 Jul 2019 00:45:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A^B or B^A]]></title>
-            <link>http://datagenetics.com/blog/july22019/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/july22019/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 07 Jul 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (86)]]></title>
             <link>http://pbelmans.ncag.info/blog/2019/07/07/fortnightly-links-86/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/07/07/fortnightly-links-86/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 07 Jul 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A^B or B^A]]></title>
+            <link>http://datagenetics.com/blog/july22019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/july22019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 07 Jul 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -752,6 +759,13 @@ Strangely enough, most people associate “silent but deadly” with farts...]]>
             <guid isPermaLink="false">https://aperiodical.com/2019/07/the-big-internet-math-off-2019-group-2-jorge-nuno-silva-vs-sameer-shah/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 06 Jul 2019 09:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saranno famosi, il FameLab di Veronica Grieco]]></title>
+            <link>http://maddmaths.simai.eu/persone/saranno-famosi-il-famelab-di-veronica-grieco/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/persone/saranno-famosi-il-famelab-di-veronica-grieco/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sat, 06 Jul 2019 08:02:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Orioles optimism update]]></title>
@@ -957,16 +971,16 @@ Strangely enough, most people associate “silent but deadly” with farts...]]>
             <pubDate>Fri, 05 Jul 2019 05:56:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fake papers #6: 10…5…8…4…2…1…]]></title>
+            <link>http://maddmaths.simai.eu/rubriche/fake_papers/fake-papers-6-10-5-8-4-2-1/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/rubriche/fake_papers/fake-papers-6-10-5-8-4-2-1/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Fri, 05 Jul 2019 05:00:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Juillet 2019, 1er défi]]></title>
             <link>http://images.math.cnrs.fr/Juillet-2019-1er-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Juillet-2019-1er-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 05 Jul 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quel est le début de ce nombre ?]]></title>
-            <link>http://images.math.cnrs.fr/Quel-est-le-debut-de-ce-nombre.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Quel-est-le-debut-de-ce-nombre.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 05 Jul 2019 05:00:00 GMT</pubDate>
         </item>
@@ -975,6 +989,13 @@ Strangely enough, most people associate “silent but deadly” with farts...]]>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XJxgY-teYnM/asymmetric-random-projections.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XJxgY-teYnM/asymmetric-random-projections.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Fri, 05 Jul 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quel est le début de ce nombre ?]]></title>
+            <link>http://images.math.cnrs.fr/Quel-est-le-debut-de-ce-nombre.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Quel-est-le-debut-de-ce-nombre.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 05 Jul 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1090,17 +1111,17 @@ Strangely enough, most people associate “silent but deadly” with farts...]]>
             <pubDate>Thu, 04 Jul 2019 12:17:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Happy 4th]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/07/happy-4th.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/happy-4th.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 04 Jul 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Blue Ridge Flag]]></title>
             <link>http://mathtourist.blogspot.com/2019/07/blue-ridge-flag.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/07/blue-ridge-flag.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 04 Jul 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Happy 4th]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/07/happy-4th.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/happy-4th.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 04 Jul 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1594,13 +1615,6 @@ Strangely enough, most people associate “silent but deadly” with farts...]]>
             <pubDate>Mon, 01 Jul 2019 22:36:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[O’Bayes 19/3]]></title>
-            <link>https://xianblog.wordpress.com/2019/07/02/obayes-19-3/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2019/07/02/obayes-19-3/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 01 Jul 2019 22:19:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dear K, (Student Letter #5)]]></title>
             <link>https://lazyocho.com/2019/07/01/dear-k-student-letter-5/</link>
             <guid isPermaLink="false">https://lazyocho.com/2019/07/01/dear-k-student-letter-5/</guid>
@@ -1804,9 +1818,9 @@ Strangely enough, most people associate “silent but deadly” with farts...]]>
             <pubDate>Mon, 01 Jul 2019 05:30:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revue de presse juin 2019]]></title>
-            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</guid>
+            <title><![CDATA[5.2.5]]></title>
+            <link>http://images.math.cnrs.fr/5-2-5.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-2-5.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
         </item>
@@ -1818,9 +1832,9 @@ Strangely enough, most people associate “silent but deadly” with farts...]]>
             <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.2.5]]></title>
-            <link>http://images.math.cnrs.fr/5-2-5.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-2-5.html</guid>
+            <title><![CDATA[Revue de presse juin 2019]]></title>
+            <link>http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-juin-2019.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 01 Jul 2019 05:00:00 GMT</pubDate>
         </item>
@@ -2499,6 +2513,13 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Wed, 26 Jun 2019 16:31:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Antonio DeSimone vince il Premio Humboldt per la Ricerca]]></title>
+            <link>http://maddmaths.simai.eu/news-2/antonio-desimone-vince-il-premio-humboldt-per-la-ricerca/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/antonio-desimone-vince-il-premio-humboldt-per-la-ricerca/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Wed, 26 Jun 2019 16:26:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The First AI Simulation of the Universe Is Fast and Accurate — and Even Its Creators Don’t Know How It Works]]></title>
             <link>https://www.simonsfoundation.org/2019/06/26/ai-universe-simulation/</link>
             <guid isPermaLink="false">https://www.simonsfoundation.org/2019/06/26/ai-universe-simulation/</guid>
@@ -2576,6 +2597,13 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Wed, 26 Jun 2019 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chapel Octagon]]></title>
+            <link>http://mathtourist.blogspot.com/2019/06/chapel-octagon.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/chapel-octagon.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 26 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Paul Krugman is just scratching the surface here, but it's a valuable scratch]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/06/paul-krugman-is-just-scratching-surface.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/paul-krugman-is-just-scratching-surface.html</guid>
@@ -2583,11 +2611,11 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Wed, 26 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chapel Octagon]]></title>
-            <link>http://mathtourist.blogspot.com/2019/06/chapel-octagon.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/chapel-octagon.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Wed, 26 Jun 2019 11:00:00 GMT</pubDate>
+            <title><![CDATA[L’Intelligenza Artificiale al servizio della manutenzione dei segnali stradali]]></title>
+            <link>http://maddmaths.simai.eu/news-2/20756/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/20756/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Wed, 26 Jun 2019 10:44:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ask Uncle Colin: A Cosine Proof]]></title>
@@ -2710,15 +2738,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Some Basic HTML Tips For When Your LMS Makes You Nuts]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</guid>
+            <link>https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 25 Jun 2019 05:49:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some Basic HTML Tips For When Your LMS Makes You Nuts]]></title>
-            <link>https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/some-basic-html-tips-when-your-lms-makes-you-nuts/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/6YSWBUBxhHc/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 25 Jun 2019 05:49:58 GMT</pubDate>
         </item>
@@ -3220,6 +3248,13 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Sat, 22 Jun 2019 10:15:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Il mio nome è Nessuno]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/langolo-arguto/il-mio-nome-e-nessuno/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/langolo-arguto/il-mio-nome-e-nessuno/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sat, 22 Jun 2019 08:07:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[calculation of inverses modulo a number python]]></title>
             <link>https://www.bookofproofs.org/branches/calculation-of-inverses-modulo-a-number-python/</link>
             <guid isPermaLink="false">https://www.bookofproofs.org/branches/calculation-of-inverses-modulo-a-number-python/</guid>
@@ -3515,15 +3550,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Web Browser Basics]]></title>
-            <link>https://busynessgirl.com/web-browser-basics/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/web-browser-basics/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 20 Jun 2019 13:16:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web Browser Basics]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/M6euz_j4pXg/</guid>
+            <link>https://busynessgirl.com/web-browser-basics/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/web-browser-basics/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 20 Jun 2019 13:16:01 GMT</pubDate>
         </item>
@@ -3921,15 +3956,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Tips for Getting the Right Screencast Conditions]]></title>
-            <link>https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Jun 2019 12:13:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tips for Getting the Right Screencast Conditions]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WmyRGExDTLo/</guid>
+            <link>https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/tips-for-getting-the-right-screencast-conditions/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Tue, 18 Jun 2019 12:13:26 GMT</pubDate>
         </item>
@@ -4068,15 +4103,15 @@ Belgrade Fortress, Kalemegdan]]></title>
         </item>
         <item>
             <title><![CDATA[Clawing Your Way Back to Your Life – Inbox Pause]]></title>
-            <link>https://busynessgirl.com/clawing-your-way-back-to-your-life-inbox-pause/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/clawing-your-way-back-to-your-life-inbox-pause/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/uvLzQCoDqJk/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/uvLzQCoDqJk/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 17 Jun 2019 14:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clawing Your Way Back to Your Life – Inbox Pause]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/uvLzQCoDqJk/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/uvLzQCoDqJk/</guid>
+            <link>https://busynessgirl.com/clawing-your-way-back-to-your-life-inbox-pause/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/clawing-your-way-back-to-your-life-inbox-pause/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 17 Jun 2019 14:41:00 GMT</pubDate>
         </item>
@@ -4123,17 +4158,17 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Mon, 17 Jun 2019 11:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Matrices, Circles, and Eigenthings]]></title>
-            <link>http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The sad part is I'm sure this isn't the first time the worlds of cryptocurrency and Perlstein's "the Long Con" have collided]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/06/the-sad-part-is-im-sure-this-isnt-first.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/the-sad-part-is-im-sure-this-isnt-first.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matrices, Circles, and Eigenthings]]></title>
+            <link>http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/matrices-circles-and-eigenthings.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 17 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4326,6 +4361,13 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Sun, 16 Jun 2019 03:15:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I Just Started a Math Blog!]]></title>
+            <link>https://researchinpractice.wordpress.com/2019/06/15/i-just-started-a-math-blog/</link>
+            <guid isPermaLink="false">https://researchinpractice.wordpress.com/2019/06/15/i-just-started-a-math-blog/</guid>
+            <dc:creator><![CDATA[Research in Practice]]></dc:creator>
+            <pubDate>Sat, 15 Jun 2019 23:10:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Paper Dance]]></title>
             <link>https://www.sunclipse.org/?p=2699</link>
             <guid isPermaLink="false">https://www.sunclipse.org/?p=2699</guid>
@@ -4438,6 +4480,13 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Sat, 15 Jun 2019 07:52:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Giornata ai Lincei in memoria di Maryam Mirzakhani: un reportage]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/eventi/giornata-ai-lincei/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/eventi/giornata-ai-lincei/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sat, 15 Jun 2019 06:00:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ποδοσφαιρικές ορολογίες για μαθηματικούς]]></title>
             <link>http://mathhmagic.blogspot.com/2019/06/blog-post_15.html</link>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/06/blog-post_15.html</guid>
@@ -4548,6 +4597,13 @@ Belgrade Fortress, Kalemegdan]]></title>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-68/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Fri, 14 Jun 2019 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Gianluca Panati della Sapienza il prestigioso premio Bessel]]></title>
+            <link>http://maddmaths.simai.eu/news-2/a-gianluca-panati-della-sapienza-il-prestigioso-premio-bessel/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/a-gianluca-panati-della-sapienza-il-prestigioso-premio-bessel/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Fri, 14 Jun 2019 08:28:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A scholar and teacher re-examines moments in the history of STEM]]></title>
@@ -4669,17 +4725,17 @@ Belgrade Fortress, Kalemegdan]]></title>
             <pubDate>Thu, 13 Jun 2019 12:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Song About Pi]]></title>
-            <link>http://mathtourist.blogspot.com/2019/06/a-song-about-pi.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/a-song-about-pi.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Thu, 13 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[And if we committed to tithing to Uber, the company would break even within the decade]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/06/and-if-will-committed-to-tithing-to.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/and-if-will-committed-to-tithing-to.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 13 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Song About Pi]]></title>
+            <link>http://mathtourist.blogspot.com/2019/06/a-song-about-pi.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/a-song-about-pi.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Thu, 13 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4688,6 +4744,13 @@ Belgrade Fortress, Kalemegdan]]></title>
             <guid isPermaLink="false">https://noncommutativeanalysis.com/2019/06/13/around-and-under-my-talk-at-fields/</guid>
             <dc:creator><![CDATA[Noncommutative Analysis]]></dc:creator>
             <pubDate>Thu, 13 Jun 2019 10:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anche le api sono matematiche!]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/focus/anche-le-api-sono-matematiche/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/focus/anche-le-api-sono-matematiche/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Thu, 13 Jun 2019 06:00:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La corsa dell’Anello]]></title>
@@ -4979,17 +5042,17 @@ Krishna and Radha Watching Rain Clouds: The...]]></title>
             <pubDate>Tue, 11 Jun 2019 11:25:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Return of Zeta]]></title>
-            <link>http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tuesday Tweets]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/06/tuesday-tweets_11.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Return of Zeta]]></title>
+            <link>http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/06/the-return-of-zeta.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 11 Jun 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5019,6 +5082,13 @@ Krishna and Radha Watching Rain Clouds: The...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/bSePomUJ8xs/</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Tue, 11 Jun 2019 06:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edufin@Polimi: portare l’educazione finanziaria nelle ore di matematica]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/edufinpolimi-portare-leducazione-finanziaria-nelle-ore-di-matematica/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/edufinpolimi-portare-leducazione-finanziaria-nelle-ore-di-matematica/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Tue, 11 Jun 2019 06:30:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TEN!]]></title>
