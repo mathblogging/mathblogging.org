@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Which is larger: Aᴮ or Bᴬ ? Nice treatment from <a href="https://twitter.com/DataGenetics?ref_src=twsrc%5Etfw">@DataGenetics</a>.<a href="https://t.co/SQKoNkwRVk">https://t.co/SQKoNkwRVk</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1148392184393162752?ref_src=twsrc%5Etfw">July 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The excellent <a href="https://twitter.com/EricaKlarreich?ref_src=twsrc%5Etfw">@EricaKlarreich</a> reports on the counterexamples to Hedetniemi’s Conjecture - h/t <a href="https://twitter.com/aperiodical?ref_src=twsrc%5Etfw">@aperiodical</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://t.co/M7XIB2GMbo">https://t.co/M7XIB2GMbo</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1144332181420019713?ref_src=twsrc%5Etfw">June 27, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -319,9 +322,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Poring over Poncelet by  -- a great piece by @ocfnash including lovely interactive widgets. See if you can help locate that reference though! <a href="https://t.co/ZtoTdoccZs">https://t.co/ZtoTdoccZs</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1019931060505890817?ref_src=twsrc%5Etfw">July 19, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Remembering Alexander Bogomolny <a href="https://twitter.com/CutTheKnotMath?ref_src=twsrc%5Etfw">@CutTheKnotMath</a>  - <a href="https://twitter.com/MrHonner?ref_src=twsrc%5Etfw">@mrhonner</a> shares some personal memories and gathers links to other posts <a href="https://t.co/LLUKbtz8XP">https://t.co/LLUKbtz8XP</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1019930267975159809?ref_src=twsrc%5Etfw">July 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">xkcd has made some OEIS Submissions and they are hilarious <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpicks?src=hash&amp;ref_src=twsrc%5Etfw">#mbpicks</a> <a href="https://t.co/ixyHtBUBON">https://t.co/ixyHtBUBON</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1015287261536096256?ref_src=twsrc%5Etfw">July 6, 2018</a></blockquote>
