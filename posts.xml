@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Aug 2019 19:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2019 20:15:36 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Aug 2019 19:15:13 GMT</pubDate>
+        <pubDate>Wed, 07 Aug 2019 20:15:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Obstacles to improving Classical Factoring Algorithms]]></title>
+            <link>https://blog.computationalcomplexity.org/2019/08/obstacles-to-improving-classical.html</link>
+            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2019/08/obstacles-to-improving-classical.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Wed, 07 Aug 2019 19:27:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Specifics before Strategies]]></title>
             <link>https://emergentmath.com/2019/08/07/specifics-before-strategies/</link>
@@ -668,13 +675,6 @@
             <pubDate>Sun, 04 Aug 2019 05:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[factorial ring generalization of factorization]]></title>
-            <link>https://www.bookofproofs.org/branches/factorial-ring-generalization-of-factorization/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/factorial-ring-generalization-of-factorization/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 04 Aug 2019 05:04:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A lot of affluent liberals]]></title>
             <link>https://quomodocumque.wordpress.com/2019/08/03/6397/</link>
             <guid isPermaLink="false">https://quomodocumque.wordpress.com/2019/08/03/6397/</guid>
@@ -836,41 +836,6 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/RQMunb_gWZ0/</guid>
             <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
             <pubDate>Sat, 03 Aug 2019 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[classification of cyclic groups]]></title>
-            <link>https://www.bookofproofs.org/branches/classification-of-cyclic-groups/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/classification-of-cyclic-groups/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 03 Aug 2019 09:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[finite order of an element equals order of generated group]]></title>
-            <link>https://www.bookofproofs.org/branches/finite-order-of-an-element-equals-order-of-generated-group/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/finite-order-of-an-element-equals-order-of-generated-group/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 03 Aug 2019 09:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[first isomorphism theorem for groups]]></title>
-            <link>https://www.bookofproofs.org/branches/first-isomorphism-theorem-for-groups/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/first-isomorphism-theorem-for-groups/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 03 Aug 2019 09:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[classification of finite groups with the order of a prime number]]></title>
-            <link>https://www.bookofproofs.org/branches/classification-of-finite-groups-with-the-order-of-a-prime-number/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/classification-of-finite-groups-with-the-order-of-a-prime-number/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 03 Aug 2019 08:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[additive subgroups of integers]]></title>
-            <link>https://www.bookofproofs.org/branches/additive-subgroups-of-integers/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/additive-subgroups-of-integers/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 03 Aug 2019 08:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belongingness]]></title>
@@ -1097,16 +1062,16 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <pubDate>Fri, 02 Aug 2019 05:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Août 2019, 1er défi]]></title>
-            <link>http://images.math.cnrs.fr/Aout-2019-1er-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Aout-2019-1er-defi.html</guid>
+            <title><![CDATA[Un parquet de Penrose]]></title>
+            <link>http://images.math.cnrs.fr/Un-parquet-de-Penrose.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-parquet-de-Penrose.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 02 Aug 2019 04:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Un parquet de Penrose]]></title>
-            <link>http://images.math.cnrs.fr/Un-parquet-de-Penrose.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-parquet-de-Penrose.html</guid>
+            <title><![CDATA[Août 2019, 1er défi]]></title>
+            <link>http://images.math.cnrs.fr/Aout-2019-1er-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Aout-2019-1er-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 02 Aug 2019 04:30:00 GMT</pubDate>
         </item>
@@ -1615,17 +1580,17 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <pubDate>Tue, 30 Jul 2019 11:51:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tuesday Tweets -- “rapid unplanned disassembly“ edition]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/07/tuesday-tweets-rapid-unplanned.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/tuesday-tweets-rapid-unplanned.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 30 Jul 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Spire Clock]]></title>
             <link>http://mathtourist.blogspot.com/2019/07/spire-clock.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/07/spire-clock.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 30 Jul 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Tweets -- “rapid unplanned disassembly“ edition]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/07/tuesday-tweets-rapid-unplanned.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/tuesday-tweets-rapid-unplanned.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 30 Jul 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1837,13 +1802,6 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mindyourdecisions/~3/9HPgcYQbhQ4/</guid>
             <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
             <pubDate>Tue, 30 Jul 2019 02:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1 10 100 1000 10000 100000 1000000]]></title>
-            <link>http://authenticinquirymaths.blogspot.com/2019/07/1-10-100-1000-10000-100000-1000000.html</link>
-            <guid isPermaLink="false">http://authenticinquirymaths.blogspot.com/2019/07/1-10-100-1000-10000-100000-1000000.html</guid>
-            <dc:creator><![CDATA[Authentic Inquiry Maths]]></dc:creator>
-            <pubDate>Tue, 30 Jul 2019 00:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A zipless polycube]]></title>
@@ -2126,20 +2084,6 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <pubDate>Sun, 28 Jul 2019 22:19:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[order of cyclic group]]></title>
-            <link>https://www.bookofproofs.org/branches/order-of-cyclic-group/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/order-of-cyclic-group/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 28 Jul 2019 19:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[order of subgroup divides order of finite group lagrange]]></title>
-            <link>https://www.bookofproofs.org/branches/order-of-subgroup-divides-order-of-finite-group-lagrange/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/order-of-subgroup-divides-order-of-finite-group-lagrange/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 28 Jul 2019 19:01:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Any-order puzzle deduction]]></title>
             <link>https://11011110.github.io/blog/2019/07/28/any-order-puzzle.html</link>
             <guid isPermaLink="false">https://11011110.github.io/blog/2019/07/28/any-order-puzzle.html</guid>
@@ -2168,13 +2112,6 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <pubDate>Sun, 28 Jul 2019 13:26:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[subgroups and their cosets are equipotent]]></title>
-            <link>https://www.bookofproofs.org/branches/subgroups-and-their-cosets-are-equipotent/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/subgroups-and-their-cosets-are-equipotent/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 28 Jul 2019 13:01:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[7/28/19]]></title>
             <link>https://purenumbers.tumblr.com/post/186604932930</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/186604932930</guid>
@@ -2187,13 +2124,6 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/07/what-i-been-readin-lately.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 28 Jul 2019 11:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[generating set of a group]]></title>
-            <link>https://www.bookofproofs.org/branches/generating-set-of-a-group/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/generating-set-of-a-group/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 28 Jul 2019 08:28:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Set Theory: Bridging Mathematics and Philosophy, Konstanz]]></title>
@@ -2215,20 +2145,6 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2019/07/28/geogebra-resources-more/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 28 Jul 2019 08:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[generating set of an ideal]]></title>
-            <link>https://www.bookofproofs.org/branches/generating-set-of-an-ideal/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/generating-set-of-an-ideal/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 28 Jul 2019 07:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[conjugate elements of a group]]></title>
-            <link>https://www.bookofproofs.org/branches/conjugate-elements-of-a-group/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/conjugate-elements-of-a-group/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 28 Jul 2019 07:09:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mathematical insights through collaboration and perseverance]]></title>
@@ -2625,13 +2541,6 @@ Luciano Castelli (Swiss, b. 1951), Pigalle...]]></title>
             <pubDate>Wed, 24 Jul 2019 23:00:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[real numbers as limits of rational numbers]]></title>
-            <link>https://www.bookofproofs.org/branches/real-numbers-as-limits-of-rational-numbers/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/real-numbers-as-limits-of-rational-numbers/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Wed, 24 Jul 2019 20:44:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Source of Infinity]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/VS9zFI1j3CY/source-of-infinity.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/VS9zFI1j3CY/source-of-infinity.html</guid>
@@ -2730,17 +2639,17 @@ Luciano Castelli (Swiss, b. 1951), Pigalle...]]></title>
             <pubDate>Wed, 24 Jul 2019 09:14:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ask Uncle Colin: A problem of squares and powers]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/a-problem-of-squares-and-powers/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/a-problem-of-squares-and-powers/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Wed, 24 Jul 2019 09:00:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Big Internet Math-Off 2019, Group 4 – Colin Beveridge vs Becky Warren]]></title>
             <link>https://aperiodical.com/2019/07/the-big-internet-math-off-2019-group-4-colin-beveridge-vs-becky-warren/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/07/the-big-internet-math-off-2019-group-4-colin-beveridge-vs-becky-warren/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Wed, 24 Jul 2019 09:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ask Uncle Colin: A problem of squares and powers]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/a-problem-of-squares-and-powers/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/a-problem-of-squares-and-powers/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Wed, 24 Jul 2019 09:00:51 GMT</pubDate>
         </item>
         <item>
@@ -3325,17 +3234,17 @@ Luciano Castelli (Swiss, b. 1951), Pigalle...]]></title>
             <pubDate>Sat, 20 Jul 2019 12:30:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Repost: Some context for the Apollo Anniversary]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/07/repost-some-context-for-apollo.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/repost-some-context-for-apollo.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Sat, 20 Jul 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Space Suit]]></title>
             <link>http://mathtourist.blogspot.com/2019/07/space-suit.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/07/space-suit.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sat, 20 Jul 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Repost: Some context for the Apollo Anniversary]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/07/repost-some-context-for-apollo.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/repost-some-context-for-apollo.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Sat, 20 Jul 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3668,17 +3577,17 @@ Luciano Castelli (Swiss, b. 1951), Pigalle...]]></title>
             <pubDate>Thu, 18 Jul 2019 13:00:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Though I have to admit, Alex Jones' chocolate bone broth looks delicious]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/07/though-i-have-to-admit-alex-jones.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/though-i-have-to-admit-alex-jones.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 18 Jul 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Grounded Triquetra]]></title>
             <link>http://mathtourist.blogspot.com/2019/07/grounded-triquetra.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/07/grounded-triquetra.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 18 Jul 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Though I have to admit, Alex Jones' chocolate bone broth looks delicious]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/07/though-i-have-to-admit-alex-jones.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/though-i-have-to-admit-alex-jones.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 18 Jul 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5173,20 +5082,6 @@ Traditional wedding costumes from Fier, Albania.]]></title>
             <guid isPermaLink="false">https://blogs.adelaide.edu.au/maths-learning/2019/07/08/trying-maths-live-on-twitter/</guid>
             <dc:creator><![CDATA[Making Your Own Sense]]></dc:creator>
             <pubDate>Sun, 07 Jul 2019 22:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[En Passant V]]></title>
-            <link>https://galoisrepresentations.wordpress.com/2019/07/07/en-passant-v/</link>
-            <guid isPermaLink="false">https://galoisrepresentations.wordpress.com/2019/07/07/en-passant-v/</guid>
-            <dc:creator><![CDATA[Persiflage]]></dc:creator>
-            <pubDate>Sun, 07 Jul 2019 20:09:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sums of powers of digits]]></title>
-            <link>https://blog.jpolak.org/?p=2140</link>
-            <guid isPermaLink="false">https://blog.jpolak.org/?p=2140</guid>
-            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
-            <pubDate>Sun, 07 Jul 2019 20:05:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
