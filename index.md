@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Grant Sanderson&#39;s latest beautiful explication has been making the rounds, but ICYMI:<a href="https://t.co/ndtVeLnKB0">https://t.co/ndtVeLnKB0</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1159075486070448128?ref_src=twsrc%5Etfw">August 7, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">In-N-Out gets my vote too. Best Burger Ranks <a href="https://t.co/a9UXLwYFfw">https://t.co/a9UXLwYFfw</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1158835620120334338?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
