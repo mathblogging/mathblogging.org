@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Aubrey Clayton on the Flawed Reasoning Behind the Replication Crisis and how Bayes can help <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://t.co/bTiYiej9uK">https://t.co/bTiYiej9uK</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1159901192920731653?ref_src=twsrc%5Etfw">August 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Nearly Parallel is Nearly Transitive, by <a href="https://twitter.com/JohnDCook?ref_src=twsrc%5Etfw">@JohnDCook</a> <a href="https://t.co/UUlNa2bYZi">https://t.co/UUlNa2bYZi</a><br>Nice follow up to recent conversation about non-transitivity of correlation.<a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/statschat?src=hash&amp;ref_src=twsrc%5Etfw">#statschat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1159254590950432770?ref_src=twsrc%5Etfw">August 8, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
