@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Aug 2019 10:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2019 11:16:42 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Aug 2019 10:16:08 GMT</pubDate>
+        <pubDate>Sun, 25 Aug 2019 11:16:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Dwyer-Wilkerson H-space]]></title>
+            <link>https://ncatlab.org/nlab/show/Dwyer-Wilkerson+H-space</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Dwyer-Wilkerson+H-space</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 25 Aug 2019 11:06:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Frayer Models]]></title>
             <link>https://colleenyoung.wordpress.com/2019/08/25/frayer-models/</link>
@@ -822,17 +829,17 @@
             <pubDate>Tue, 20 Aug 2019 10:00:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Transfer Learning as a Tool for Reducing Simulation Bias: Application to Inertial Confinement Fusion]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XQQTIKrFWoA/transfer-learning-as-tool-for-reducing.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XQQTIKrFWoA/transfer-learning-as-tool-for-reducing.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Tue, 20 Aug 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La meilleure façon de marcher]]></title>
             <link>http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 20 Aug 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transfer Learning as a Tool for Reducing Simulation Bias: Application to Inertial Confinement Fusion]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XQQTIKrFWoA/transfer-learning-as-tool-for-reducing.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XQQTIKrFWoA/transfer-learning-as-tool-for-reducing.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Tue, 20 Aug 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1503,13 +1510,6 @@ Implementers remember..."]]></title>
             <pubDate>Fri, 16 Aug 2019 05:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jobs: PhD scholarship on Algorithms for Event-Driven Camera Analysis at Western Sydney University, Australia]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/77U4WNWQOI0/jobs-phd-scholarship-on-algorithms-for.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/77U4WNWQOI0/jobs-phd-scholarship-on-algorithms-for.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Fri, 16 Aug 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Août 2019, 3e défi]]></title>
             <link>http://images.math.cnrs.fr/Aout-2019-3e-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Aout-2019-3e-defi.html</guid>
@@ -1521,6 +1521,13 @@ Implementers remember..."]]></title>
             <link>http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 16 Aug 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jobs: PhD scholarship on Algorithms for Event-Driven Camera Analysis at Western Sydney University, Australia]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/77U4WNWQOI0/jobs-phd-scholarship-on-algorithms-for.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/77U4WNWQOI0/jobs-phd-scholarship-on-algorithms-for.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Fri, 16 Aug 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2602,17 +2609,17 @@ Implementers remember..."]]></title>
             <pubDate>Fri, 09 Aug 2019 09:25:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wrong, But Useful: Episode 70]]></title>
-            <link>http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-70/</link>
-            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-70/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Fri, 09 Aug 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Is a bridge needed?]]></title>
             <link>http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</link>
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
+            <pubDate>Fri, 09 Aug 2019 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wrong, But Useful: Episode 70]]></title>
+            <link>http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-70/</link>
+            <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-70/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Fri, 09 Aug 2019 09:00:00 GMT</pubDate>
         </item>
         <item>
