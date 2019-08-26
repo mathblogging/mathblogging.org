@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Aug 2019 05:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2019 06:16:24 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Aug 2019 05:16:11 GMT</pubDate>
+        <pubDate>Mon, 26 Aug 2019 06:16:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Autant… ou pas ?]]></title>
+            <link>http://images.math.cnrs.fr/Autant-ou-pas.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Autant-ou-pas.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 26 Aug 2019 06:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5.3.3]]></title>
             <link>http://images.math.cnrs.fr/5-3-3.html</link>
@@ -129,20 +136,6 @@
             <pubDate>Sun, 25 Aug 2019 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clarence Wilkerson]]></title>
-            <link>https://ncatlab.org/nlab/show/Clarence+Wilkerson</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Clarence+Wilkerson</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 25 Aug 2019 11:29:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dwyer-Wilkerson H-space]]></title>
-            <link>https://ncatlab.org/nlab/show/Dwyer-Wilkerson+H-space</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Dwyer-Wilkerson+H-space</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 25 Aug 2019 11:06:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5 Minuten Schulleitung: Chauffeurs-Wissen]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/rRC2PcE5h7M/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/rRC2PcE5h7M/</guid>
@@ -260,13 +253,6 @@
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2019/08/secondary-math-free-online-resources.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Sat, 24 Aug 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Οριακές καταστάσεις]]></title>
-            <link>http://mathhmagic.blogspot.com/2019/08/blog-post_24.html</link>
-            <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/08/blog-post_24.html</guid>
-            <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
-            <pubDate>Sat, 24 Aug 2019 08:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pigreco e la bicicletta.]]></title>
@@ -640,13 +626,6 @@
             <pubDate>Thu, 22 Aug 2019 04:38:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Υπολογισμοί]]></title>
-            <link>http://mathhmagic.blogspot.com/2019/08/blog-post_22.html</link>
-            <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/08/blog-post_22.html</guid>
-            <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
-            <pubDate>Thu, 22 Aug 2019 03:10:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Risposte ai problemini per Ferragosto 2019]]></title>
             <link>https://www.ilpost.it/?blog_post=risposte-ai-problemini-per-ferragosto-2019</link>
             <guid isPermaLink="false">https://www.ilpost.it/?blog_post=risposte-ai-problemini-per-ferragosto-2019</guid>
@@ -962,17 +941,17 @@
             <pubDate>Tue, 20 Aug 2019 10:00:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La meilleure façon de marcher]]></title>
-            <link>http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 20 Aug 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Transfer Learning as a Tool for Reducing Simulation Bias: Application to Inertial Confinement Fusion]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XQQTIKrFWoA/transfer-learning-as-tool-for-reducing.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XQQTIKrFWoA/transfer-learning-as-tool-for-reducing.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 20 Aug 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La meilleure façon de marcher]]></title>
+            <link>http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 20 Aug 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1634,13 +1613,6 @@ Implementers remember..."]]></title>
             <guid isPermaLink="false">http://haris-aziz.blogspot.com/2019/08/deakin-economic-theory-workshop-program.html</guid>
             <dc:creator><![CDATA[Algorithmic Economics, AI & Other Topics]]></dc:creator>
             <pubDate>Fri, 16 Aug 2019 05:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Topologie algébrique des variétés]]></title>
-            <link>http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 16 Aug 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jobs: PhD scholarship on Algorithms for Event-Driven Camera Analysis at Western Sydney University, Australia]]></title>
@@ -4137,17 +4109,17 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <pubDate>Tue, 30 Jul 2019 13:07:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spire Clock]]></title>
-            <link>http://mathtourist.blogspot.com/2019/07/spire-clock.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/07/spire-clock.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 30 Jul 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tuesday Tweets -- “rapid unplanned disassembly“ edition]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/07/tuesday-tweets-rapid-unplanned.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/tuesday-tweets-rapid-unplanned.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 30 Jul 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spire Clock]]></title>
+            <link>http://mathtourist.blogspot.com/2019/07/spire-clock.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/07/spire-clock.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 30 Jul 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4699,13 +4671,6 @@ Luciano Castelli (Swiss, b. 1951), Pigalle...]]></title>
             <pubDate>Fri, 26 Jul 2019 19:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Μέση.....]]></title>
-            <link>http://mathhmagic.blogspot.com/2019/07/blog-post_26.html</link>
-            <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/07/blog-post_26.html</guid>
-            <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
-            <pubDate>Fri, 26 Jul 2019 17:39:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Battleship Classes and Throw Weights]]></title>
             <link>http://mathscinotes.com/2019/07/battleship-classes-and-throw-weights/</link>
             <guid isPermaLink="false">http://mathscinotes.com/2019/07/battleship-classes-and-throw-weights/</guid>
@@ -4781,13 +4746,6 @@ Luciano Castelli (Swiss, b. 1951), Pigalle...]]></title>
             <guid isPermaLink="false">https://aperiodical.com/2019/07/the-big-internet-math-off-2019-semi-final-1-lucy-rycroft-smith-vs-sameer-shah/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Fri, 26 Jul 2019 09:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Υπαρξιακά αλά Boole!]]></title>
-            <link>http://mathhmagic.blogspot.com/2019/07/boole.html</link>
-            <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/07/boole.html</guid>
-            <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
-            <pubDate>Fri, 26 Jul 2019 05:45:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
