@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Aug 2019 00:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2019 01:16:17 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Aug 2019 00:16:29 GMT</pubDate>
+        <pubDate>Thu, 29 Aug 2019 01:16:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The Binary Octahedral Group]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2019/08/29/the-binary-octahedral-group/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2019/08/29/the-binary-octahedral-group/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Thu, 29 Aug 2019 01:00:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[my likelihood is dominating my prior [not!]]]></title>
             <link>https://xianblog.wordpress.com/2019/08/29/my-likelihood-is-dominating-my-prior/</link>
@@ -148,13 +155,6 @@
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/187327000916</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Wed, 28 Aug 2019 12:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fourth generation of fundamental particles]]></title>
-            <link>https://ncatlab.org/nlab/show/fourth+generation+of+fundamental+particles</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/fourth+generation+of+fundamental+particles</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 28 Aug 2019 11:17:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bethany McLean made her name covering Enron, which is never a good sign]]></title>
@@ -330,6 +330,13 @@
             <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2019/08/27/using-brian-skinners-terrific-math-joke-for-a-lesson-about-logarithms/</guid>
             <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
             <pubDate>Tue, 27 Aug 2019 13:19:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barron’s SHSAT Prep Book]]></title>
+            <link>http://MrHonner.com/archives/19554</link>
+            <guid isPermaLink="false">http://MrHonner.com/archives/19554</guid>
+            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
+            <pubDate>Tue, 27 Aug 2019 13:00:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[8/27/19]]></title>
@@ -599,13 +606,6 @@ The night...]]></title>
             <guid isPermaLink="false">https://retractionwatch.com/2019/08/26/former-nci-postdoc-faked-data-from-nearly-60-experiments/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Mon, 26 Aug 2019 10:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[p-compact group]]></title>
-            <link>https://ncatlab.org/nlab/show/p-compact+group</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/p-compact+group</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 26 Aug 2019 09:26:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Mathematical Ninja and the Unknown Powers]]></title>
@@ -1560,17 +1560,17 @@ The night...]]></title>
             <pubDate>Tue, 20 Aug 2019 10:00:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La meilleure façon de marcher]]></title>
-            <link>http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 20 Aug 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Transfer Learning as a Tool for Reducing Simulation Bias: Application to Inertial Confinement Fusion]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XQQTIKrFWoA/transfer-learning-as-tool-for-reducing.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/XQQTIKrFWoA/transfer-learning-as-tool-for-reducing.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Tue, 20 Aug 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La meilleure façon de marcher]]></title>
+            <link>http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/La-meilleure-facon-de-marcher.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 20 Aug 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2444,6 +2444,13 @@ Implementers remember..."]]></title>
             <pubDate>Wed, 14 Aug 2019 13:02:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Color Me Polynomial — Quanta Magazine]]></title>
+            <link>http://MrHonner.com/archives/19542</link>
+            <guid isPermaLink="false">http://MrHonner.com/archives/19542</guid>
+            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
+            <pubDate>Wed, 14 Aug 2019 13:00:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[8/14/19]]></title>
             <link>https://purenumbers.tumblr.com/post/187002880877</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/187002880877</guid>
@@ -2913,6 +2920,13 @@ Implementers remember..."]]></title>
             <pubDate>Sun, 11 Aug 2019 13:34:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Math Photo: Blue Buckyball]]></title>
+            <link>http://MrHonner.com/archives/19536</link>
+            <guid isPermaLink="false">http://MrHonner.com/archives/19536</guid>
+            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
+            <pubDate>Sun, 11 Aug 2019 13:00:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fixed points of the Cliff random number generator]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/8NWefxR304w/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/8NWefxR304w/</guid>
@@ -3172,17 +3186,17 @@ Implementers remember..."]]></title>
             <pubDate>Fri, 09 Aug 2019 09:25:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is a bridge needed?]]></title>
-            <link>http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Fri, 09 Aug 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrong, But Useful: Episode 70]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-70/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-70/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Fri, 09 Aug 2019 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is a bridge needed?]]></title>
+            <link>http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Fri, 09 Aug 2019 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4840,17 +4854,17 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <pubDate>Mon, 29 Jul 2019 11:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Taking on the votes-don't-matter meme -- the EC doesn't always follow the popular vote, but that's the way the smart money should bet]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/07/taking-on-votes-dont-matter-meme-ec.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/taking-on-votes-dont-matter-meme-ec.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 29 Jul 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[River Boat]]></title>
             <link>http://mathtourist.blogspot.com/2019/07/river-boat.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/07/river-boat.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Mon, 29 Jul 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taking on the votes-don't-matter meme -- the EC doesn't always follow the popular vote, but that's the way the smart money should bet]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/07/taking-on-votes-dont-matter-meme-ec.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/07/taking-on-votes-dont-matter-meme-ec.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 29 Jul 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4873,13 +4887,6 @@ The offspring of a centaur and a mermaid has a 25% chance of being born...]]></t
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2019/07/28/animated-logical-graphs-%e2%80%a2-26/</guid>
             <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
             <pubDate>Mon, 29 Jul 2019 02:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turing to be on the Bank of England 50 pound note, giving me an excuse to talk about Turing]]></title>
-            <link>https://blog.computationalcomplexity.org/2019/07/turing-to-be-on-bank-of-england-50.html</link>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2019/07/turing-to-be-on-bank-of-england-50.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Mon, 29 Jul 2019 00:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
