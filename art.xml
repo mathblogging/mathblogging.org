@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Sep 2019 23:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2019 00:15:55 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Sep 2019 23:15:43 GMT</pubDate>
+        <pubDate>Thu, 05 Sep 2019 00:15:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Making Your Data Science Skills Marketable]]></title>
+            <link>https://blog.datasciencedojo.com/data-science-interview-ama/</link>
+            <guid isPermaLink="false">https://blog.datasciencedojo.com/data-science-interview-ama/</guid>
+            <dc:creator><![CDATA[Data Science Blog | AI, ML, big data analytics]]></dc:creator>
+            <pubDate>Wed, 04 Sep 2019 23:15:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[über Salzburg [jatp]]]></title>
             <link>https://xianblog.wordpress.com/2019/09/05/uber-salzburg-jatp/</link>
@@ -598,16 +605,16 @@
             <pubDate>Mon, 02 Sep 2019 22:19:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
-            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
+            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
+            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
-            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
+            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
+            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
@@ -4327,17 +4334,17 @@ Implementers remember..."]]></title>
             <pubDate>Fri, 09 Aug 2019 09:25:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is a bridge needed?]]></title>
-            <link>http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</link>
-            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</guid>
-            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
-            <pubDate>Fri, 09 Aug 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrong, But Useful: Episode 70]]></title>
             <link>http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-70/</link>
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-70/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Fri, 09 Aug 2019 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is a bridge needed?]]></title>
+            <link>http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</link>
+            <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2019/08/is-bridge-needed.html</guid>
+            <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Fri, 09 Aug 2019 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4859,17 +4866,17 @@ Implementers remember..."]]></title>
             <pubDate>Mon, 05 Aug 2019 12:47:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Persistence of Narrative -- Netflix edition]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/08/persistence-of-narrative-netflix-edition.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/08/persistence-of-narrative-netflix-edition.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 05 Aug 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Seventy Versus One Hundred]]></title>
             <link>http://www.solipsys.co.uk/new/SeventyVersusOneHundred.html?RSS</link>
             <guid isPermaLink="false">http://www.solipsys.co.uk/new/SeventyVersusOneHundred.html?RSS</guid>
             <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
+            <pubDate>Mon, 05 Aug 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Persistence of Narrative -- Netflix edition]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/08/persistence-of-narrative-netflix-edition.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/08/persistence-of-narrative-netflix-edition.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 05 Aug 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
