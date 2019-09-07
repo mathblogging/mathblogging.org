@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Sep 2019 15:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2019 16:16:33 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Sep 2019 15:16:07 GMT</pubDate>
+        <pubDate>Sat, 07 Sep 2019 16:16:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[A rare classified ad]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4297</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4297</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Sat, 07 Sep 2019 15:35:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[distinction between finite and infinite sets using subsets proof]]></title>
             <link>https://www.bookofproofs.org/branches/distinction-between-finite-and-infinite-sets-using-subsets/proof/</link>
@@ -211,6 +218,13 @@
             <guid isPermaLink="false">https://matheuscmss.wordpress.com/2019/09/06/wolperts-examples-of-tiny-weil-petersson-sectional-curvatures-revisited/</guid>
             <dc:creator><![CDATA[Disquisitiones Mathematicae]]></dc:creator>
             <pubDate>Fri, 06 Sep 2019 16:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Summer Expectations]]></title>
+            <link>http://mrburkemath.blogspot.com/2019/09/summer-expectations.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/09/summer-expectations.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 06 Sep 2019 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taking my shiny hammer and looking for nails]]></title>
@@ -508,15 +522,15 @@
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
+            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
@@ -759,16 +773,16 @@
             <pubDate>Wed, 04 Sep 2019 09:00:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Phileas Fogg et le mystère du jour gagné]]></title>
-            <link>http://images.math.cnrs.fr/Phileas-Fogg-et-le-mystere-du-jour-gagne.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Phileas-Fogg-et-le-mystere-du-jour-gagne.html</guid>
+            <title><![CDATA[Codage et cryptographie]]></title>
+            <link>http://images.math.cnrs.fr/Codage-et-cryptographie.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Codage-et-cryptographie.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 04 Sep 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Codage et cryptographie]]></title>
-            <link>http://images.math.cnrs.fr/Codage-et-cryptographie.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Codage-et-cryptographie.html</guid>
+            <title><![CDATA[Phileas Fogg et le mystère du jour gagné]]></title>
+            <link>http://images.math.cnrs.fr/Phileas-Fogg-et-le-mystere-du-jour-gagne.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Phileas-Fogg-et-le-mystere-du-jour-gagne.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 04 Sep 2019 05:00:00 GMT</pubDate>
         </item>
@@ -1130,16 +1144,16 @@
             <pubDate>Mon, 02 Sep 2019 22:19:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
-            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
+            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
+            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
-            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
+            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
+            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
@@ -3739,13 +3753,6 @@ Implementers remember..."]]></title>
             <pubDate>Fri, 16 Aug 2019 22:35:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Intermezzo autoreferenziale]]></title>
-            <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/iQ7Jan6fOeY/intermezzo-autoreferenziale.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/iQ7Jan6fOeY/intermezzo-autoreferenziale.html</guid>
-            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
-            <pubDate>Fri, 16 Aug 2019 21:07:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[FryDay News Bulletin]]></title>
             <link>https://aperiodical.com/2019/08/fryday-news-bulletin/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/08/fryday-news-bulletin/</guid>
@@ -4892,34 +4899,6 @@ Implementers remember..."]]></title>
             <guid isPermaLink="false">https://mathlesstraveled.com/2019/08/07/pie-proof-by-algebra/</guid>
             <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
             <pubDate>Wed, 07 Aug 2019 16:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Write your own general-purpose monadic probabilistic programming language from scratch in 50 lines of (Scala) code]]></title>
-            <link>https://darrenjw.wordpress.com/2019/08/07/write-your-own-general-purpose-monadic-probabilistic-programming-language-from-scratch-in-50-lines-of-scala-code/</link>
-            <guid isPermaLink="false">https://darrenjw.wordpress.com/2019/08/07/write-your-own-general-purpose-monadic-probabilistic-programming-language-from-scratch-in-50-lines-of-scala-code/</guid>
-            <dc:creator><![CDATA[Darren Wilkinson's research blog]]></dc:creator>
-            <pubDate>Wed, 07 Aug 2019 16:03:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poetry and Science]]></title>
-            <link>https://poetrywithmathematics.blogspot.com/2019/08/poetry-and-science.html</link>
-            <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2019/08/poetry-and-science.html</guid>
-            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
-            <pubDate>Wed, 07 Aug 2019 15:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Technical devices for reducing the number of axioms]]></title>
-            <link>https://blog.plover.com/math/technical-devices.html</link>
-            <guid isPermaLink="false">https://blog.plover.com/math/technical-devices.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Wed, 07 Aug 2019 15:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supply Lists]]></title>
-            <link>https://mattcoaty.com/2019/08/07/supply-lists/</link>
-            <guid isPermaLink="false">https://mattcoaty.com/2019/08/07/supply-lists/</guid>
-            <dc:creator><![CDATA[Educational Aspirations]]></dc:creator>
-            <pubDate>Wed, 07 Aug 2019 15:43:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
