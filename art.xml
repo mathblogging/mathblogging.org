@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Sep 2019 19:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2019 20:20:52 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Sep 2019 19:16:04 GMT</pubDate>
+        <pubDate>Tue, 10 Sep 2019 20:20:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[approximation of factorials using the stirling formula]]></title>
+            <link>https://www.bookofproofs.org/branches/approximation-of-factorials-using-the-stirling-formula/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/approximation-of-factorials-using-the-stirling-formula/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 10 Sep 2019 19:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[asymptotical approximation]]></title>
+            <link>https://www.bookofproofs.org/branches/asymptotical-approximation/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/asymptotical-approximation/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 10 Sep 2019 19:10:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[permutations combinations variations]]></title>
             <link>https://www.bookofproofs.org/branches/permutations-combinations-variations/</link>
@@ -150,13 +164,6 @@
             <pubDate>Tue, 10 Sep 2019 11:12:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scherk-Schwarz mechanism]]></title>
-            <link>https://ncatlab.org/nlab/show/Scherk-Schwarz+mechanism</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Scherk-Schwarz+mechanism</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 10 Sep 2019 11:00:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tuesday Tweets]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/09/tuesday-tweets_10.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/09/tuesday-tweets_10.html</guid>
@@ -246,13 +253,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/p96kxvSZieM/187609730109</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Tue, 10 Sep 2019 00:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortnightly links (89)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2019/09/10/fortnightly-links-89/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/09/10/fortnightly-links-89/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Tue, 10 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paul Bernays Lectures]]></title>
@@ -1508,20 +1508,6 @@
             <pubDate>Tue, 03 Sep 2019 20:49:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[indicator function and set operations]]></title>
-            <link>https://www.bookofproofs.org/branches/indicator-function-and-set-operations/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/indicator-function-and-set-operations/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 03 Sep 2019 20:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[indicator characteristic function carrier]]></title>
-            <link>https://www.bookofproofs.org/branches/indicator-characteristic-function-carrier/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/indicator-characteristic-function-carrier/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 03 Sep 2019 20:18:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[National Drug Code (NDC)]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/MXBIfQSMQkk/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/MXBIfQSMQkk/</guid>
@@ -2178,6 +2164,13 @@
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/187394576174</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Sat, 31 Aug 2019 12:30:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Island]]></title>
+            <link>https://mathbabe.org/2019/08/31/star-island/</link>
+            <guid isPermaLink="false">https://mathbabe.org/2019/08/31/star-island/</guid>
+            <dc:creator><![CDATA[mathbabe]]></dc:creator>
+            <pubDate>Sat, 31 Aug 2019 11:20:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A combinatorial proof: reboot!]]></title>
