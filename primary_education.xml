@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Sep 2019 17:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2019 18:16:57 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Sep 2019 17:16:57 GMT</pubDate>
+        <pubDate>Fri, 13 Sep 2019 18:16:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[complex projective plane]]></title>
+            <link>https://ncatlab.org/nlab/show/complex+projective+plane</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/complex+projective+plane</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 13 Sep 2019 17:58:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Breakthrough Prize 2020: Physics and Mathematics]]></title>
             <link>http://feedproxy.google.com/~r/DocMadhattan/~3/MNzJVZ-nlBg/breakthrough-prize-2020-physics-and.html</link>
@@ -638,13 +645,6 @@
             <guid isPermaLink="false">http://www.moomoomathblog.com/2019/09/gcf-of-24-and-40.html</guid>
             <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
             <pubDate>Tue, 10 Sep 2019 11:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unizor - Physics4Teens - Energy - Energy of Gravitational Field - Gravitational Field]]></title>
-            <link>http://unizor.blogspot.com/2019/09/notes-to-video-lecture-on-httpwww.html</link>
-            <guid isPermaLink="false">http://unizor.blogspot.com/2019/09/notes-to-video-lecture-on-httpwww.html</guid>
-            <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
-            <pubDate>Tue, 10 Sep 2019 11:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GCF of 30 and 45]]></title>
@@ -1607,15 +1607,15 @@
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
+            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
@@ -2103,17 +2103,17 @@
             <pubDate>Tue, 03 Sep 2019 00:16:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elf Chalkboard Puzzle]]></title>
-            <link>http://datagenetics.com/blog/september12019/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september12019/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Tue, 03 Sep 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Work Rules! - Insights from Inside Google That Will Transform How You Live and Lead, Part 1]]></title>
             <link>/post/work-rules/</link>
             <guid isPermaLink="false">/post/work-rules/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
+            <pubDate>Tue, 03 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elf Chalkboard Puzzle]]></title>
+            <link>http://datagenetics.com/blog/september12019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september12019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 03 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2145,16 +2145,16 @@
             <pubDate>Mon, 02 Sep 2019 22:32:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
-            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
+            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
+            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
-            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
+            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
+            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
@@ -2829,6 +2829,13 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/08/29/when-people-make-up-victim-stories/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Thu, 29 Aug 2019 13:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pregroup grammar]]></title>
+            <link>https://ncatlab.org/nlab/show/pregroup+grammar</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/pregroup+grammar</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 29 Aug 2019 13:12:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Family of Gravitons?]]></title>
@@ -4255,13 +4262,6 @@ The night...]]></title>
             <pubDate>Sun, 18 Aug 2019 13:47:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Unizor - Physics4Teens - Energy - Energy of Nucleus - Fusion]]></title>
-            <link>http://unizor.blogspot.com/2019/08/unizor-physics4teens-energy-energy-of_18.html</link>
-            <guid isPermaLink="false">http://unizor.blogspot.com/2019/08/unizor-physics4teens-energy-energy-of_18.html</guid>
-            <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
-            <pubDate>Sun, 18 Aug 2019 13:19:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[If you can’t tell your Cassini from your Huygens then you shouldn’t be writing about the history of astronomy.]]></title>
             <link>https://thonyc.wordpress.com/2019/08/18/if-you-cant-tell-your-cassini-from-your-huygens-then-you-shouldnt-be-writing-about-the-history-of-astronomy/</link>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2019/08/18/if-you-cant-tell-your-cassini-from-your-huygens-then-you-shouldnt-be-writing-about-the-history-of-astronomy/</guid>
@@ -4822,13 +4822,6 @@ Implementers remember..."]]></title>
             <guid isPermaLink="false">https://mathlesstraveled.com/2019/08/13/pie-proof-by-counting/</guid>
             <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
             <pubDate>Tue, 13 Aug 2019 18:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A New Position]]></title>
-            <link>http://fawnnguyen.com/a-new-position/</link>
-            <guid isPermaLink="false">http://fawnnguyen.com/a-new-position/</guid>
-            <dc:creator><![CDATA[Finding Ways]]></dc:creator>
-            <pubDate>Tue, 13 Aug 2019 18:03:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
