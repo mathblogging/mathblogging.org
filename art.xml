@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Sep 2019 19:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2019 20:16:46 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Sep 2019 19:17:21 GMT</pubDate>
+        <pubDate>Mon, 16 Sep 2019 20:16:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -164,13 +164,6 @@
             <pubDate>Mon, 16 Sep 2019 12:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Outer Solar System Exploration – 2 Astro 2020 White Papers]]></title>
-            <link>https://gereshes.com/2019/09/16/outer-solar-system-exploration-2-astro-2020-white-papers/</link>
-            <guid isPermaLink="false">https://gereshes.com/2019/09/16/outer-solar-system-exploration-2-astro-2020-white-papers/</guid>
-            <dc:creator><![CDATA[Math – Gereshes]]></dc:creator>
-            <pubDate>Mon, 16 Sep 2019 12:00:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Partial Evaluations 2]]></title>
             <link>https://golem.ph.utexas.edu/category/2019/09/partial_evaluations_2.html</link>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2019/09/partial_evaluations_2.html</guid>
@@ -211,6 +204,20 @@
             <guid isPermaLink="false">http://www.flyingcoloursmaths.co.uk/a-double-tangent/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 16 Sep 2019 09:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ján Pulmann]]></title>
+            <link>https://ncatlab.org/nlab/show/J%25C3%25A1n+Pulmann</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/J%C3%A1n+Pulmann</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 16 Sep 2019 07:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fridrich Valach]]></title>
+            <link>https://ncatlab.org/nlab/show/Fridrich+Valach</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Fridrich+Valach</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 16 Sep 2019 07:14:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5.4.3]]></title>
@@ -365,6 +372,13 @@
             <guid isPermaLink="false">http://images.math.cnrs.fr/Philogone-Barbotin-1785-1860-geometre-arpenteur-et-agent-voyer.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sun, 15 Sep 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elements of biological computation & stochastic thermodynamics of life]]></title>
+            <link>https://egtheory.wordpress.com/2019/09/14/biological-computation-1/</link>
+            <guid isPermaLink="false">https://egtheory.wordpress.com/2019/09/14/biological-computation-1/</guid>
+            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
+            <pubDate>Sun, 15 Sep 2019 03:30:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[interval decomposition of the 2-Tamari lattice with n=4François Bergeron]]></title>
@@ -843,17 +857,17 @@
             <pubDate>Thu, 12 Sep 2019 01:07:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Carnival of Math No. 173]]></title>
-            <link>https://www.peterkrautzberger.org/0210/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0210/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Venture Beat Article]]></title>
             <link>http://datagenetics.com/blog/september32019/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/september32019/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carnival of Math No. 173]]></title>
+            <link>https://www.peterkrautzberger.org/0210/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0210/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1004,16 +1018,16 @@
             <pubDate>Wed, 11 Sep 2019 06:24:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La quadrature du ciel]]></title>
-            <link>http://images.math.cnrs.fr/La-quadrature-du-ciel.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/La-quadrature-du-ciel.html</guid>
+            <title><![CDATA[Les nombres premiers]]></title>
+            <link>http://images.math.cnrs.fr/Les-nombres-premiers.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-nombres-premiers.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 11 Sep 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Les nombres premiers]]></title>
-            <link>http://images.math.cnrs.fr/Les-nombres-premiers.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-nombres-premiers.html</guid>
+            <title><![CDATA[La quadrature du ciel]]></title>
+            <link>http://images.math.cnrs.fr/La-quadrature-du-ciel.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/La-quadrature-du-ciel.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 11 Sep 2019 05:00:00 GMT</pubDate>
         </item>
@@ -1107,6 +1121,13 @@
             <guid isPermaLink="false">https://flowingdata.com/2019/09/10/a-sim-to-show-self-driving-car-challenges/</guid>
             <dc:creator><![CDATA[FlowingData]]></dc:creator>
             <pubDate>Tue, 10 Sep 2019 17:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I Began To See Systemic Racism]]></title>
+            <link>https://robertkaplinsky.com/how-i-began-to-see-systemic-racism/</link>
+            <guid isPermaLink="false">https://robertkaplinsky.com/how-i-began-to-see-systemic-racism/</guid>
+            <dc:creator><![CDATA[Robert Kaplinsky]]></dc:creator>
+            <pubDate>Tue, 10 Sep 2019 16:00:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Klassenfahrt #1: Eine Gruselgeschichte]]></title>
@@ -1438,13 +1459,6 @@
             <pubDate>Mon, 09 Sep 2019 12:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Neural Network Based Optimal Control: Resilience to Missed Thrust Events for Long Duration Transfers – ASC- 2019]]></title>
-            <link>https://gereshes.com/2019/09/09/neural-network-based-optimal-control-resilience-to-missed-thrust-events-for-long-duration-transfers-asc-2019/</link>
-            <guid isPermaLink="false">https://gereshes.com/2019/09/09/neural-network-based-optimal-control-resilience-to-missed-thrust-events-for-long-duration-transfers-asc-2019/</guid>
-            <dc:creator><![CDATA[Math – Gereshes]]></dc:creator>
-            <pubDate>Mon, 09 Sep 2019 12:00:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Looking at the Amazon fires wrong]]></title>
             <link>https://flowingdata.com/2019/09/09/looking-at-the-amazon-fires-wrong/</link>
             <guid isPermaLink="false">https://flowingdata.com/2019/09/09/looking-at-the-amazon-fires-wrong/</guid>
@@ -1709,6 +1723,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/RrngOUWdZoU/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sun, 08 Sep 2019 04:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rationality, the Bayesian mind and their limits]]></title>
+            <link>https://egtheory.wordpress.com/2019/09/07/bayesian-mind/</link>
+            <guid isPermaLink="false">https://egtheory.wordpress.com/2019/09/07/bayesian-mind/</guid>
+            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
+            <pubDate>Sun, 08 Sep 2019 03:35:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tessellating Regular Polygons]]></title>
@@ -2162,14 +2183,14 @@
             <title><![CDATA[Reimagining Byrne’s Euclid]]></title>
             <link>https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 09:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reimagining Byrne’s Euclid]]></title>
             <link>https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 09:38:18 GMT</pubDate>
         </item>
         <item>
@@ -2188,15 +2209,15 @@
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
+            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
@@ -2502,6 +2523,13 @@
             <pubDate>Tue, 03 Sep 2019 16:08:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Protect Your Sandcastles]]></title>
+            <link>https://robertkaplinsky.com/protect-your-sandcastles/</link>
+            <guid isPermaLink="false">https://robertkaplinsky.com/protect-your-sandcastles/</guid>
+            <dc:creator><![CDATA[Robert Kaplinsky]]></dc:creator>
+            <pubDate>Tue, 03 Sep 2019 16:00:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Stormy Fluid Dynamics of the Living Cell (Physics Today)]]></title>
             <link>https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4292</link>
             <guid isPermaLink="false">https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4292</guid>
@@ -2656,17 +2684,17 @@
             <pubDate>Tue, 03 Sep 2019 00:16:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elf Chalkboard Puzzle]]></title>
-            <link>http://datagenetics.com/blog/september12019/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september12019/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Tue, 03 Sep 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Work Rules! - Insights from Inside Google That Will Transform How You Live and Lead, Part 1]]></title>
             <link>/post/work-rules/</link>
             <guid isPermaLink="false">/post/work-rules/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
+            <pubDate>Tue, 03 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elf Chalkboard Puzzle]]></title>
+            <link>http://datagenetics.com/blog/september12019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september12019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 03 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2698,16 +2726,16 @@
             <pubDate>Mon, 02 Sep 2019 22:32:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
-            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
+            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
+            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
-            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
+            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
+            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
@@ -2815,13 +2843,6 @@
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/187440257563</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 12:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Missed Thrust Events in Deep Space Trajectories]]></title>
-            <link>https://gereshes.com/2019/09/02/missed-thrust-events-in-deep-space-trajectories/</link>
-            <guid isPermaLink="false">https://gereshes.com/2019/09/02/missed-thrust-events-in-deep-space-trajectories/</guid>
-            <dc:creator><![CDATA[Math – Gereshes]]></dc:creator>
-            <pubDate>Mon, 02 Sep 2019 12:00:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Happy Labor Day]]></title>
@@ -2962,6 +2983,13 @@
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2019/09/01/mathematical-memory-activities/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 01 Sep 2019 06:51:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web of C-lief: conjectures vs. model assumptions vs. scientific beliefs]]></title>
+            <link>https://egtheory.wordpress.com/2019/08/31/web-of-c-lief/</link>
+            <guid isPermaLink="false">https://egtheory.wordpress.com/2019/08/31/web-of-c-lief/</guid>
+            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
+            <pubDate>Sun, 01 Sep 2019 03:30:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To New Faculty (and those who hope to join us): what life is like at my small private liberal arts college]]></title>
@@ -4024,6 +4052,13 @@ The night...]]></title>
             <pubDate>Sun, 25 Aug 2019 05:00:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Idealization vs abstraction for mathematical models of evolution]]></title>
+            <link>https://egtheory.wordpress.com/2019/08/24/eseb-idealization-vs-abstraction/</link>
+            <guid isPermaLink="false">https://egtheory.wordpress.com/2019/08/24/eseb-idealization-vs-abstraction/</guid>
+            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
+            <pubDate>Sun, 25 Aug 2019 02:15:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building a Classroom Community]]></title>
             <link>https://mattcoaty.com/2019/08/24/building-a-classroom-community/</link>
             <guid isPermaLink="false">https://mattcoaty.com/2019/08/24/building-a-classroom-community/</guid>
@@ -4493,6 +4528,13 @@ The night...]]></title>
             <pubDate>Tue, 20 Aug 2019 16:24:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leaders Should Be Like Mangrove Forests]]></title>
+            <link>https://robertkaplinsky.com/leaders-should-be-like-mangrove-forests/</link>
+            <guid isPermaLink="false">https://robertkaplinsky.com/leaders-should-be-like-mangrove-forests/</guid>
+            <dc:creator><![CDATA[Robert Kaplinsky]]></dc:creator>
+            <pubDate>Tue, 20 Aug 2019 16:00:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Abduction, Deduction, Induction, Analogy, Inquiry : 27]]></title>
             <link>https://inquiryintoinquiry.com/2019/08/20/abduction-deduction-induction-analogy-inquiry-27/</link>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2019/08/20/abduction-deduction-induction-analogy-inquiry-27/</guid>
@@ -4631,13 +4673,6 @@ The night...]]></title>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/08/19/the-issue-of-how-the-report-the-statistics-is-one-that-we-thought-about-deeply-and-i-am-quite-sure-we-reported-them-correctly/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Mon, 19 Aug 2019 13:46:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swing-Up of an Inverted Pendulum on a Cart]]></title>
-            <link>https://gereshes.com/2019/08/19/swing-up-of-an-inverted-pendulum-on-a-cart/</link>
-            <guid isPermaLink="false">https://gereshes.com/2019/08/19/swing-up-of-an-inverted-pendulum-on-a-cart/</guid>
-            <dc:creator><![CDATA[Math – Gereshes]]></dc:creator>
-            <pubDate>Mon, 19 Aug 2019 12:30:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My Productivity Efforts]]></title>
@@ -4787,6 +4822,13 @@ The night...]]></title>
             <pubDate>Sun, 18 Aug 2019 02:33:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Allegory of the replication crisis in algorithmic trading]]></title>
+            <link>https://egtheory.wordpress.com/2019/08/17/algotrading-replication/</link>
+            <guid isPermaLink="false">https://egtheory.wordpress.com/2019/08/17/algotrading-replication/</guid>
+            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
+            <pubDate>Sun, 18 Aug 2019 01:30:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA["Discussions among designers of computer languages are almost never dogmatic.
 
 Implementers remember..."]]></title>
@@ -4892,20 +4934,6 @@ Implementers remember..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/iQ7Jan6fOeY/intermezzo-autoreferenziale.html</guid>
             <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
             <pubDate>Fri, 16 Aug 2019 21:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FryDay News Bulletin]]></title>
-            <link>https://aperiodical.com/2019/08/fryday-news-bulletin/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2019/08/fryday-news-bulletin/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Fri, 16 Aug 2019 20:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bayesian Computation conference in January 2020]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2019/08/16/bayesian-computation-conference-in-january-2020/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/08/16/bayesian-computation-conference-in-january-2020/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 16 Aug 2019 19:26:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
