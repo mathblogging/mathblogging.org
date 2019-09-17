@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Sep 2019 07:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2019 08:17:00 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Sep 2019 07:16:31 GMT</pubDate>
+        <pubDate>Tue, 17 Sep 2019 08:17:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[La Code Week 2019]]></title>
+            <link>https://ilpiccolofriedrich.blogspot.com/2019/09/la-code-week-2019.html</link>
+            <guid isPermaLink="false">https://ilpiccolofriedrich.blogspot.com/2019/09/la-code-week-2019.html</guid>
+            <dc:creator><![CDATA[Il piccolo Friedrich]]></dc:creator>
+            <pubDate>Tue, 17 Sep 2019 08:09:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sphere-Packing]]></title>
             <link>https://mathenchant.wordpress.com/2019/09/16/sphere-packing/</link>
@@ -302,13 +309,6 @@
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/J%C3%A1n+Pulmann</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Mon, 16 Sep 2019 07:19:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fridrich Valach]]></title>
-            <link>https://ncatlab.org/nlab/show/Fridrich+Valach</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Fridrich+Valach</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 16 Sep 2019 07:14:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Passé, présent et futur de la théorie des nombres]]></title>
@@ -1116,16 +1116,16 @@
             <pubDate>Wed, 11 Sep 2019 06:24:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Les nombres premiers]]></title>
-            <link>http://images.math.cnrs.fr/Les-nombres-premiers.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-nombres-premiers.html</guid>
+            <title><![CDATA[La quadrature du ciel]]></title>
+            <link>http://images.math.cnrs.fr/La-quadrature-du-ciel.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/La-quadrature-du-ciel.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 11 Sep 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La quadrature du ciel]]></title>
-            <link>http://images.math.cnrs.fr/La-quadrature-du-ciel.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/La-quadrature-du-ciel.html</guid>
+            <title><![CDATA[Les nombres premiers]]></title>
+            <link>http://images.math.cnrs.fr/Les-nombres-premiers.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-nombres-premiers.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 11 Sep 2019 05:00:00 GMT</pubDate>
         </item>
@@ -2300,15 +2300,15 @@
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
+            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
@@ -2878,6 +2878,13 @@
             <guid isPermaLink="false">https://www.simonsfoundation.org/2019/09/02/mystery-solved-machines-move-genes/</guid>
             <dc:creator><![CDATA[Simons Foundation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 15:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jellium]]></title>
+            <link>http://djalil.chafai.net/blog/2019/09/02/jellium/</link>
+            <guid isPermaLink="false">http://djalil.chafai.net/blog/2019/09/02/jellium/</guid>
+            <dc:creator><![CDATA[Libres pensées d'un mathématicien ordinaire]]></dc:creator>
+            <pubDate>Mon, 02 Sep 2019 14:54:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comunicare la Matematica, 9-11 Ottobre 2019, Camerino]]></title>
@@ -4969,13 +4976,6 @@ Implementers remember..."]]></title>
             <guid isPermaLink="false">http://algebrasfriend.blogspot.com/2019/08/five-ideas-to-simplify-giving-feedback.html</guid>
             <dc:creator><![CDATA[Algebra's Friend]]></dc:creator>
             <pubDate>Sat, 17 Aug 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blank shop offers many possibilities]]></title>
-            <link>https://www.simiode.org/blog/2019/08/blank-shop-offers-many-possibilities</link>
-            <guid isPermaLink="false">https://www.simiode.org/blog/2019/08/blank-shop-offers-many-possibilities</guid>
-            <dc:creator><![CDATA[SIMIODE - Blog]]></dc:creator>
-            <pubDate>Sat, 17 Aug 2019 07:39:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
