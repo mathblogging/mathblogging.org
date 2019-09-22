@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Sep 2019 23:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2019 00:16:48 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Sep 2019 23:17:20 GMT</pubDate>
+        <pubDate>Sun, 22 Sep 2019 00:16:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -374,6 +374,13 @@
             <guid isPermaLink="false">https://beautyofmathematics.com/celebrating-alan-turing/#utm_source=rss&amp;utm_medium=rss</guid>
             <dc:creator><![CDATA[Beauty of Mathematics]]></dc:creator>
             <pubDate>Fri, 20 Sep 2019 00:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Polygons]]></title>
+            <link>http://datagenetics.com/blog/september42019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september42019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Fri, 20 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dan’s Paper Corner: Can we model scientific discovery and what can we learn from the process?]]></title>
@@ -1370,13 +1377,6 @@
             <pubDate>Sat, 14 Sep 2019 12:00:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Linear Frog]]></title>
-            <link>http://www.solipsys.co.uk/new/TheLinearFrog.html?RSS</link>
-            <guid isPermaLink="false">http://www.solipsys.co.uk/new/TheLinearFrog.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Sat, 14 Sep 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Klein on the Green New Deal]]></title>
             <link>https://johncarlosbaez.wordpress.com/2019/09/14/klein-on-the-green-new-deal/</link>
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2019/09/14/klein-on-the-green-new-deal/</guid>
@@ -1755,17 +1755,17 @@
             <pubDate>Thu, 12 Sep 2019 01:07:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Venture Beat Article]]></title>
-            <link>http://datagenetics.com/blog/september32019/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september32019/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Carnival of Math No. 173]]></title>
             <link>https://www.peterkrautzberger.org/0210/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0210/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venture Beat Article]]></title>
+            <link>http://datagenetics.com/blog/september32019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september32019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2913,14 +2913,14 @@
             <title><![CDATA[Reimagining Byrne’s Euclid]]></title>
             <link>https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 09:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reimagining Byrne’s Euclid]]></title>
             <link>https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 09:38:18 GMT</pubDate>
         </item>
         <item>
@@ -3414,17 +3414,17 @@
             <pubDate>Tue, 03 Sep 2019 00:16:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Work Rules! - Insights from Inside Google That Will Transform How You Live and Lead, Part 1]]></title>
-            <link>/post/work-rules/</link>
-            <guid isPermaLink="false">/post/work-rules/</guid>
-            <dc:creator><![CDATA[orrymr.com]]></dc:creator>
-            <pubDate>Tue, 03 Sep 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Elf Chalkboard Puzzle]]></title>
             <link>http://datagenetics.com/blog/september12019/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/september12019/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Tue, 03 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Work Rules! - Insights from Inside Google That Will Transform How You Live and Lead, Part 1]]></title>
+            <link>/post/work-rules/</link>
+            <guid isPermaLink="false">/post/work-rules/</guid>
+            <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Tue, 03 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3435,16 +3435,16 @@
             <pubDate>Mon, 02 Sep 2019 22:32:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
-            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
+            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
+            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
-            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
+            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
+            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
@@ -4733,13 +4733,6 @@ The night...]]></title>
             <pubDate>Sat, 24 Aug 2019 11:15:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Seventy Versus One Hundred Revisited]]></title>
-            <link>http://www.solipsys.co.uk/new/SeventyVersusOneHundredRevisited.html?RSS</link>
-            <guid isPermaLink="false">http://www.solipsys.co.uk/new/SeventyVersusOneHundredRevisited.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Sat, 24 Aug 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Εν αναμονή...]]></title>
             <link>https://mathandliterature.blogspot.com/2019/08/blog-post.html</link>
             <guid isPermaLink="false">https://mathandliterature.blogspot.com/2019/08/blog-post.html</guid>
@@ -4976,20 +4969,6 @@ The night...]]></title>
             <guid isPermaLink="false">http://www.mathycathy.com/blog/2019/08/7300-ish/</guid>
             <dc:creator><![CDATA[MathyCathy's Blog – Mrs. Cathy Yenca]]></dc:creator>
             <pubDate>Thu, 22 Aug 2019 00:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Willy Wonka’s Chocolate Factory Would Cost Today]]></title>
-            <link>http://www.rimwe.com/the-solver-blog/100.html</link>
-            <guid isPermaLink="false">http://www.rimwe.com/the-solver-blog/100.html</guid>
-            <dc:creator><![CDATA[The Solver: Blog | Dr. Perdue will see you now | Rimwe Educational Resources LLC]]></dc:creator>
-            <pubDate>Wed, 21 Aug 2019 23:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["I Know I Can" classroom poster]]></title>
-            <link>https://www.scaffoldedmath.com/2019/08/i-know-i-can-motivational-classroom-poster.html</link>
-            <guid isPermaLink="false">https://www.scaffoldedmath.com/2019/08/i-know-i-can-motivational-classroom-poster.html</guid>
-            <dc:creator><![CDATA[Scaffolded Math and Science]]></dc:creator>
-            <pubDate>Wed, 21 Aug 2019 23:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
