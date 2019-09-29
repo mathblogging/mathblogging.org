@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Sep 2019 05:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2019 06:16:25 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Sep 2019 05:16:47 GMT</pubDate>
+        <pubDate>Sun, 29 Sep 2019 06:16:25 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[“Chi sta guardando quell’immagine?” Una nuova teoria topologica per l’intelligenza artificiale]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/focus/teoria-topologica-intelligenza-artificiale/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/focus/teoria-topologica-intelligenza-artificiale/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sun, 29 Sep 2019 06:00:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Range tes jouets !]]></title>
             <link>http://images.math.cnrs.fr/Range-tes-jouets.html</link>
@@ -17,7 +24,7 @@
             <pubDate>Sun, 29 Sep 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Origami]]></title>
+            <title><![CDATA[Origami και σοκολάτες]]></title>
             <link>http://mathhmagic.blogspot.com/2019/09/origami.html</link>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/09/origami.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
@@ -2952,17 +2959,17 @@
             <pubDate>Thu, 12 Sep 2019 01:07:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Carnival of Math No. 173]]></title>
-            <link>https://www.peterkrautzberger.org/0210/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0210/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Venture Beat Article]]></title>
             <link>http://datagenetics.com/blog/september32019/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/september32019/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carnival of Math No. 173]]></title>
+            <link>https://www.peterkrautzberger.org/0210/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0210/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,13 +3293,6 @@
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_2.html</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Tue, 10 Sep 2019 09:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luigi Ambrosio fra i premiati del Premio Balzan 2019]]></title>
-            <link>http://maddmaths.simai.eu/news-2/luigi-ambrosio-fra-i-premiati-del-premio-balzan-2019/</link>
-            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/luigi-ambrosio-fra-i-premiati-del-premio-balzan-2019/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Tue, 10 Sep 2019 05:29:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Truth, time, and mathematics]]></title>
@@ -3982,15 +3982,15 @@
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
+            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
@@ -4443,16 +4443,16 @@
             <pubDate>Mon, 02 Sep 2019 22:32:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
-            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
+            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
+            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
-            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
+            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
+            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
@@ -5064,13 +5064,6 @@
             <guid isPermaLink="false">https://www.simiode.org/blog/2019/08/redesigning-high-school</guid>
             <dc:creator><![CDATA[SIMIODE - Blog]]></dc:creator>
             <pubDate>Thu, 29 Aug 2019 08:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ο Λεκές]]></title>
-            <link>http://mathhmagic.blogspot.com/2019/08/blog-post_29.html</link>
-            <guid isPermaLink="false">http://mathhmagic.blogspot.com/2019/08/blog-post_29.html</guid>
-            <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
-            <pubDate>Thu, 29 Aug 2019 05:43:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
