@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&#39;Colloquial&#39; correlation and otherwise:<a href="https://t.co/4g1zCtZf9x">https://t.co/4g1zCtZf9x</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1178638131047931904?ref_src=twsrc%5Etfw">September 30, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Lots of choices here (mostly for general audience or for teachers):<br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://t.co/mQV0e1FGcd">https://t.co/mQV0e1FGcd</a></p>&mdash; Shecky R 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1177751012960026624?ref_src=twsrc%5Etfw">September 28, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -334,9 +337,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <br>RT <a href="https://twitter.com/MatthewMaddux?ref_src=twsrc%5Etfw">@MatthewMaddux</a><br>Prime Numbers And Crystal-Like Materials Share A Hidden Organization | Science Trends <a href="https://t.co/VBB0QFhrHg">https://t.co/VBB0QFhrHg</a> …</p>&mdash; Shecky R 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1038856803063398401?ref_src=twsrc%5Etfw">September 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Quanta Magazine &amp; 3Blue1Brown together, on quaternions:<a href="https://t.co/23sY9wWdM7">https://t.co/23sY9wWdM7</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (𝘮𝘢𝘵𝘩-𝘤𝘰𝘭𝘭𝘶𝘥𝘦𝘳) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1037747253170110465?ref_src=twsrc%5Etfw">September 6, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Schöne Kurzbiographie von George Boole im Mathematischen Monatskalender von <a href="https://twitter.com/spektrum?ref_src=twsrc%5Etfw">@spektrum</a> <a href="https://t.co/wxCDX6yneD">https://t.co/wxCDX6yneD</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1035804939468120064?ref_src=twsrc%5Etfw">September 1, 2018</a></blockquote>
