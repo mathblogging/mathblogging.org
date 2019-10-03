@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Oct 2019 20:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2019 21:16:30 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Oct 2019 20:16:33 GMT</pubDate>
+        <pubDate>Thu, 03 Oct 2019 21:16:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -239,6 +239,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/SsH18QqrBVs/impossible-traffic.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Wed, 02 Oct 2019 19:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[space of knots]]></title>
+            <link>https://ncatlab.org/nlab/show/space+of+knots</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/space+of+knots</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 02 Oct 2019 18:16:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Neurophysiology Needs an MP3]]></title>
@@ -829,17 +836,17 @@
             <pubDate>Mon, 30 Sep 2019 05:00:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.4.5]]></title>
-            <link>http://images.math.cnrs.fr/5-4-5.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-4-5.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hearsay]]></title>
             <link>http://mrburkemath.blogspot.com/2019/09/hearsay.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/09/hearsay.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5.4.5]]></title>
+            <link>http://images.math.cnrs.fr/5-4-5.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-4-5.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 30 Sep 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1051,13 +1058,6 @@
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/58407</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Sat, 28 Sep 2019 20:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another Excel TEXTJOIN Example]]></title>
-            <link>https://www.mathscinotes.com/2019/09/another-excel-text-join-example/</link>
-            <guid isPermaLink="false">https://www.mathscinotes.com/2019/09/another-excel-text-join-example/</guid>
-            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
-            <pubDate>Sat, 28 Sep 2019 17:56:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Test Your Intuition 40: What Are We Celebrating on Sept, 28, 2019? (And answer to TYI39.)]]></title>
@@ -5213,16 +5213,16 @@
             <pubDate>Mon, 02 Sep 2019 22:32:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
-            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
+            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
+            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is algebraic about algebraic effects?]]></title>
-            <link>http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</link>
-            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/what-is-algebraic-about-algebraic-effects/</guid>
+            <title><![CDATA[The blog moved from Wordpress to Jekyll]]></title>
+            <link>http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2019/09/03/the-blog-moved-from-wordpress-to-jekyll/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 02 Sep 2019 22:00:00 GMT</pubDate>
         </item>
