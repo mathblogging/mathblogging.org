@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Oct 2019 15:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2019 16:17:27 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Oct 2019 15:17:18 GMT</pubDate>
+        <pubDate>Thu, 03 Oct 2019 16:17:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Combining automatically factor levels with trees]]></title>
+            <link>https://freakonometrics.hypotheses.org/58446</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/58446</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Thu, 03 Oct 2019 15:21:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Taming the Wild Data World of Neuroscience]]></title>
             <link>https://www.simonsfoundation.org/2019/10/03/taming-the-wild-data-world-of-neuroscience/</link>
@@ -1004,6 +1011,13 @@
             <pubDate>Sat, 28 Sep 2019 20:01:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Another Excel TEXTJOIN Example]]></title>
+            <link>https://www.mathscinotes.com/2019/09/another-excel-text-join-example/</link>
+            <guid isPermaLink="false">https://www.mathscinotes.com/2019/09/another-excel-text-join-example/</guid>
+            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
+            <pubDate>Sat, 28 Sep 2019 17:56:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Test Your Intuition 40: What Are We Celebrating on Sept, 28, 2019? (And answer to TYI39.)]]></title>
             <link>https://gilkalai.wordpress.com/2019/09/28/test-your-intuition-40-what-are-we-celebrating-and-answer-to-tyi39/</link>
             <guid isPermaLink="false">https://gilkalai.wordpress.com/2019/09/28/test-your-intuition-40-what-are-we-celebrating-and-answer-to-tyi39/</guid>
@@ -1788,20 +1802,6 @@
             <pubDate>Tue, 24 Sep 2019 18:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sum of roots of unity in complete residue systems]]></title>
-            <link>https://www.bookofproofs.org/branches/sum-of-roots-of-unity-in-complete-residue-systems/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/sum-of-roots-of-unity-in-complete-residue-systems/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 24 Sep 2019 17:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[discrete fourier transform]]></title>
-            <link>https://www.bookofproofs.org/branches/discrete-fourier-transform/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/discrete-fourier-transform/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 24 Sep 2019 17:37:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Two Ideas For When Students Finish Early]]></title>
             <link>https://robertkaplinsky.com/two-ideas-for-when-students-finish-early/</link>
             <guid isPermaLink="false">https://robertkaplinsky.com/two-ideas-for-when-students-finish-early/</guid>
@@ -2374,27 +2374,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/QuDJB578K5Q/biof.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Sat, 21 Sep 2019 09:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[n periodical complex sequence]]></title>
-            <link>https://www.bookofproofs.org/branches/n-periodical-complex-sequence/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/n-periodical-complex-sequence/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 21 Sep 2019 06:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[odd complex sequence]]></title>
-            <link>https://www.bookofproofs.org/branches/odd-complex-sequence/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/odd-complex-sequence/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 21 Sep 2019 06:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[even complex sequence]]></title>
-            <link>https://www.bookofproofs.org/branches/even-complex-sequence/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/even-complex-sequence/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 21 Sep 2019 06:23:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Digit Disguises]]></title>
@@ -3344,13 +3323,6 @@
             <pubDate>Sun, 15 Sep 2019 11:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[n th roots of unity proof]]></title>
-            <link>https://www.bookofproofs.org/branches/n-th-roots-of-unity/proof/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/n-th-roots-of-unity/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 15 Sep 2019 10:33:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cognitive Science in the Classroom]]></title>
             <link>https://colleenyoung.wordpress.com/2019/09/15/cognitive-science-in-the-classroom/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2019/09/15/cognitive-science-in-the-classroom/</guid>
@@ -3454,13 +3426,6 @@
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2019/09/14/klein-on-the-green-new-deal/</guid>
             <dc:creator><![CDATA[Azimuth]]></dc:creator>
             <pubDate>Sat, 14 Sep 2019 08:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[more insight to eulers identity proof]]></title>
-            <link>https://www.bookofproofs.org/branches/more-insight-to-eulers-identity/proof/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/more-insight-to-eulers-identity/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 14 Sep 2019 07:40:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More than Half of All US Colleges using OpenStax Textbooks]]></title>
@@ -3904,27 +3869,6 @@
             <pubDate>Tue, 10 Sep 2019 19:45:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[approximation of factorials using the stirling formula]]></title>
-            <link>https://www.bookofproofs.org/branches/approximation-of-factorials-using-the-stirling-formula/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/approximation-of-factorials-using-the-stirling-formula/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 10 Sep 2019 19:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[asymptotical approximation]]></title>
-            <link>https://www.bookofproofs.org/branches/asymptotical-approximation/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/asymptotical-approximation/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 10 Sep 2019 19:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[permutations combinations variations]]></title>
-            <link>https://www.bookofproofs.org/branches/permutations-combinations-variations/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/permutations-combinations-variations/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Tue, 10 Sep 2019 18:01:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How I Began To See Systemic Racism]]></title>
             <link>https://robertkaplinsky.com/how-i-began-to-see-systemic-racism/</link>
             <guid isPermaLink="false">https://robertkaplinsky.com/how-i-began-to-see-systemic-racism/</guid>
@@ -4310,39 +4254,11 @@
             <pubDate>Sun, 08 Sep 2019 10:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[to construct a partition of a given set]]></title>
-            <link>https://www.bookofproofs.org/branches/to-construct-a-partition-of-a-given-set/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/to-construct-a-partition-of-a-given-set/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 08 Sep 2019 09:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[to construct a partition of a given set solution]]></title>
-            <link>https://www.bookofproofs.org/branches/to-construct-a-partition-of-a-given-set/solution/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/to-construct-a-partition-of-a-given-set/solution/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 08 Sep 2019 09:42:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wärmeleitung vs. Wellenausbreitung]]></title>
             <link>http://scienceblogs.de/mathlog/2019/09/08/waermeleitung-vs-wellenausbreitung/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=waermeleitung-vs-wellenausbreitung</link>
             <guid isPermaLink="false">http://scienceblogs.de/mathlog/2019/09/08/waermeleitung-vs-wellenausbreitung/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=waermeleitung-vs-wellenausbreitung</guid>
             <dc:creator><![CDATA[Mathlog]]></dc:creator>
             <pubDate>Sun, 08 Sep 2019 09:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[generalized union of sets]]></title>
-            <link>https://www.bookofproofs.org/branches/generalized-union-of-sets/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/generalized-union-of-sets/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 08 Sep 2019 08:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[set partition]]></title>
-            <link>https://www.bookofproofs.org/branches/set-partition/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/set-partition/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sun, 08 Sep 2019 08:22:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[STEM Learning Resources]]></title>
@@ -4427,13 +4343,6 @@
             <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4297</guid>
             <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
             <pubDate>Sat, 07 Sep 2019 15:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[distinction between finite and infinite sets using subsets proof]]></title>
-            <link>https://www.bookofproofs.org/branches/distinction-between-finite-and-infinite-sets-using-subsets/proof/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/distinction-between-finite-and-infinite-sets-using-subsets/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Sat, 07 Sep 2019 14:26:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Having the boys talk through Problem #2 from Mosteller’s 50 Challenging Problems in Probability]]></title>
@@ -4719,13 +4628,6 @@
             <title><![CDATA[Reimagining Byrne’s Euclid]]></title>
             <link>https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
-            <pubDate>Thu, 05 Sep 2019 09:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reimagining Byrne’s Euclid]]></title>
-            <link>https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2019/09/reimagining-byrnes-euclid/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 09:38:18 GMT</pubDate>
         </item>
@@ -4745,15 +4647,15 @@
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
+            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data Privacy Deep Dive: Facebook and Google]]></title>
-            <link>https://busynessgirl.com/data-privacy-deep-dive/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/data-privacy-deep-dive/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/WC5M8crmwTo/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 04:55:16 GMT</pubDate>
         </item>
