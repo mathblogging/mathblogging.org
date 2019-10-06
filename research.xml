@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Oct 2019 10:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2019 11:17:00 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Oct 2019 10:16:43 GMT</pubDate>
+        <pubDate>Sun, 06 Oct 2019 11:17:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[rational cohomology]]></title>
+            <link>https://ncatlab.org/nlab/show/rational+cohomology</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/rational+cohomology</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 06 Oct 2019 10:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexander Berglund]]></title>
+            <link>https://ncatlab.org/nlab/show/Alexander+Berglund</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Alexander+Berglund</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 06 Oct 2019 10:17:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mathematical Miscellany #33]]></title>
             <link>https://colleenyoung.wordpress.com/2019/10/06/mathematical-miscellany-33/</link>
@@ -633,20 +647,6 @@
             <pubDate>Wed, 02 Oct 2019 19:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dev Sinha]]></title>
-            <link>https://ncatlab.org/nlab/show/Dev+Sinha</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Dev+Sinha</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2019 18:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[space of knots]]></title>
-            <link>https://ncatlab.org/nlab/show/space+of+knots</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/space+of+knots</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2019 18:16:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why Neurophysiology Needs an MP3]]></title>
             <link>https://www.simonsfoundation.org/2019/10/02/why-neurophysiology-needs-an-mp3/</link>
             <guid isPermaLink="false">https://www.simonsfoundation.org/2019/10/02/why-neurophysiology-needs-an-mp3/</guid>
@@ -1235,17 +1235,17 @@
             <pubDate>Mon, 30 Sep 2019 05:00:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hearsay]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/09/hearsay.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/09/hearsay.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5.4.5]]></title>
             <link>http://images.math.cnrs.fr/5-4-5.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/5-4-5.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hearsay]]></title>
+            <link>http://mrburkemath.blogspot.com/2019/09/hearsay.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/09/hearsay.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Mon, 30 Sep 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5001,13 +5001,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/09/05/why-didnt-they-say-they-were-sorry-when-it-turned-out-theyd-messed-up/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Thu, 05 Sep 2019 13:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need to talk more about WeWork.]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/09/we-need-to-talk-more-about-wework.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/09/we-need-to-talk-more-about-wework.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 05 Sep 2019 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
