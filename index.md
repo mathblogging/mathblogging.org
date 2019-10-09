@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Screenwriter <a href="https://twitter.com/evelynjlamb?ref_src=twsrc%5Etfw">@evelynjlamb</a> writes the courtroom drama mathematicians have been waiting for.<a href="https://t.co/z11G1X7TiR">https://t.co/z11G1X7TiR</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/DunDun?src=hash&amp;ref_src=twsrc%5Etfw">#DunDun</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1182064264686780421?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">3Blue1Brown dives into a &quot;simple&quot; <a href="https://t.co/kgU6wtsRwg">https://t.co/kgU6wtsRwg</a> question about prime numbers and spirals  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://t.co/caSxTQUv7I">https://t.co/caSxTQUv7I</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1181664160242782208?ref_src=twsrc%5Etfw">October 8, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
