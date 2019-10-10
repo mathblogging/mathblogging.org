@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Oct 2019 15:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2019 16:16:33 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Oct 2019 15:16:42 GMT</pubDate>
+        <pubDate>Thu, 10 Oct 2019 16:16:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -332,17 +332,17 @@
             <pubDate>Wed, 09 Oct 2019 06:04:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dilemmes de prisonniers et stratégies dominantes]]></title>
-            <link>http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bayesian Inference with Generative Adversarial Network Priors]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/p5_qM1i26gg/bayesian-inference-with-generative.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/p5_qM1i26gg/bayesian-inference-with-generative.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dilemmes de prisonniers et stratégies dominantes]]></title>
+            <link>http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -566,14 +566,14 @@
             <title><![CDATA[Carnival of Mathematics 174]]></title>
             <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carnival of Mathematics 174]]></title>
             <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
@@ -892,16 +892,16 @@
             <pubDate>Mon, 07 Oct 2019 05:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.4.6]]></title>
-            <link>http://images.math.cnrs.fr/5-4-6.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-4-6.html</guid>
+            <title><![CDATA[Où prendre place pour bien voir ?]]></title>
+            <link>http://images.math.cnrs.fr/Ou-prendre-place-pour-bien-voir.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Ou-prendre-place-pour-bien-voir.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 07 Oct 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Où prendre place pour bien voir ?]]></title>
-            <link>http://images.math.cnrs.fr/Ou-prendre-place-pour-bien-voir.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Ou-prendre-place-pour-bien-voir.html</guid>
+            <title><![CDATA[5.4.6]]></title>
+            <link>http://images.math.cnrs.fr/5-4-6.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-4-6.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 07 Oct 2019 05:00:00 GMT</pubDate>
         </item>
@@ -2145,6 +2145,13 @@
             <pubDate>Mon, 30 Sep 2019 05:46:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Correlation Does Not Imply Correlation — A Message For The Data Scientist]]></title>
+            <link>http://mathmisery.com/wp/2019/09/30/correlation-does-not-imply-correlation-a-message-for-the-data-scientist/</link>
+            <guid isPermaLink="false">http://mathmisery.com/wp/2019/09/30/correlation-does-not-imply-correlation-a-message-for-the-data-scientist/</guid>
+            <dc:creator><![CDATA[Math Misery?]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 05:19:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Il problema di Settembre (613) - Crocchette in serbo per gatta]]></title>
             <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2019/09/30/il-problema-di-settembre-613-crocchette-in-serbo-per-gatta/</link>
             <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2019/09/30/il-problema-di-settembre-613-crocchette-in-serbo-per-gatta/</guid>
@@ -2152,17 +2159,17 @@
             <pubDate>Mon, 30 Sep 2019 05:00:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hearsay]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/09/hearsay.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/09/hearsay.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5.4.5]]></title>
             <link>http://images.math.cnrs.fr/5-4-5.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/5-4-5.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hearsay]]></title>
+            <link>http://mrburkemath.blogspot.com/2019/09/hearsay.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/09/hearsay.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Mon, 30 Sep 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4751,17 +4758,17 @@
             <pubDate>Thu, 12 Sep 2019 01:07:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Venture Beat Article]]></title>
-            <link>http://datagenetics.com/blog/september32019/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september32019/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Carnival of Math No. 173]]></title>
             <link>https://www.peterkrautzberger.org/0210/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0210/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venture Beat Article]]></title>
+            <link>http://datagenetics.com/blog/september32019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september32019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5113,20 +5120,6 @@
             <guid isPermaLink="false">https://symmetricblog.wordpress.com/2019/09/09/books-on-learning/</guid>
             <dc:creator><![CDATA[Solvable by Radicals]]></dc:creator>
             <pubDate>Mon, 09 Sep 2019 18:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How UTF-8 works]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/zpg4Q-hjzDo/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/zpg4Q-hjzDo/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Mon, 09 Sep 2019 16:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is TWO more than ONE?]]></title>
-            <link>https://poetrywithmathematics.blogspot.com/2019/09/is-two-more-than-one.html</link>
-            <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2019/09/is-two-more-than-one.html</guid>
-            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
-            <pubDate>Mon, 09 Sep 2019 16:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
