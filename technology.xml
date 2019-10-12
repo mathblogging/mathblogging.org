@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Oct 2019 06:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2019 07:16:23 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Oct 2019 06:16:19 GMT</pubDate>
+        <pubDate>Sat, 12 Oct 2019 07:16:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[What if J. Peterman wanted you to learn commutative algebra?]]></title>
+            <link>https://burttotaro.wordpress.com/2019/10/12/what-if-j-peterman-wanted-you-to-learn-commutative-algebra/</link>
+            <guid isPermaLink="false">https://burttotaro.wordpress.com/2019/10/12/what-if-j-peterman-wanted-you-to-learn-commutative-algebra/</guid>
+            <dc:creator><![CDATA[Geometry Bulletin Board]]></dc:creator>
+            <pubDate>Sat, 12 Oct 2019 06:31:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Peirce’s Categories • 12]]></title>
             <link>https://inquiryintoinquiry.com/2019/10/12/peirces-categories-%25e2%2580%25a2-12/</link>
@@ -22,13 +29,6 @@
             <guid isPermaLink="false">https://reperiendi.wordpress.com/2019/10/11/matrioshka-diamond/</guid>
             <dc:creator><![CDATA[reperiendi]]></dc:creator>
             <pubDate>Sat, 12 Oct 2019 04:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On my way to Chicago]]></title>
-            <link>https://freakonometrics.hypotheses.org/58365</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/58365</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Sat, 12 Oct 2019 01:15:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sir Michael Atiyah, a Knight Mathematician.  A Tribute to Michael Atiyah, an Inspiration and a Friend. By  Alain Connes and Joseph Kouneiher]]></title>
@@ -797,14 +797,14 @@
             <title><![CDATA[Carnival of Mathematics 174]]></title>
             <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carnival of Mathematics 174]]></title>
             <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
@@ -1095,17 +1095,17 @@
             <pubDate>Mon, 07 Oct 2019 10:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dictionary of Mathematical Eponymy: Johnson Solids]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 07 Oct 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Neuvième édition de Bulles au carré : c'est parti !]]></title>
             <link>http://images.math.cnrs.fr/Neuvieme-edition-de-Bulles-au-carre-c-est-parti.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Neuvieme-edition-de-Bulles-au-carre-c-est-parti.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 07 Oct 2019 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dictionary of Mathematical Eponymy: Johnson Solids]]></title>
+            <link>https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</link>
+            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 07 Oct 2019 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2306,17 +2306,17 @@
             <pubDate>Mon, 30 Sep 2019 12:30:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Time Complexity]]></title>
-            <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
-            <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Overproduction of elites]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Time Complexity]]></title>
+            <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
+            <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
+            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
             <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3174,6 +3174,20 @@
             <pubDate>Tue, 24 Sep 2019 18:54:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[sum of roots of unity in complete residue systems]]></title>
+            <link>https://www.bookofproofs.org/branches/sum-of-roots-of-unity-in-complete-residue-systems/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/sum-of-roots-of-unity-in-complete-residue-systems/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 24 Sep 2019 17:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[discrete fourier transform]]></title>
+            <link>https://www.bookofproofs.org/branches/discrete-fourier-transform/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/discrete-fourier-transform/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 24 Sep 2019 17:37:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Two Ideas For When Students Finish Early]]></title>
             <link>https://robertkaplinsky.com/two-ideas-for-when-students-finish-early/</link>
             <guid isPermaLink="false">https://robertkaplinsky.com/two-ideas-for-when-students-finish-early/</guid>
@@ -3676,6 +3690,27 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/QuDJB578K5Q/biof.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Sat, 21 Sep 2019 09:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[n periodical complex sequence]]></title>
+            <link>https://www.bookofproofs.org/branches/n-periodical-complex-sequence/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/n-periodical-complex-sequence/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 21 Sep 2019 06:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[odd complex sequence]]></title>
+            <link>https://www.bookofproofs.org/branches/odd-complex-sequence/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/odd-complex-sequence/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 21 Sep 2019 06:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[even complex sequence]]></title>
+            <link>https://www.bookofproofs.org/branches/even-complex-sequence/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/even-complex-sequence/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 21 Sep 2019 06:23:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Digit Disguises]]></title>
@@ -4506,6 +4541,13 @@
             <pubDate>Sun, 15 Sep 2019 11:32:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[n th roots of unity proof]]></title>
+            <link>https://www.bookofproofs.org/branches/n-th-roots-of-unity/proof/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/n-th-roots-of-unity/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 15 Sep 2019 10:33:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cognitive Science in the Classroom]]></title>
             <link>https://colleenyoung.wordpress.com/2019/09/15/cognitive-science-in-the-classroom/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2019/09/15/cognitive-science-in-the-classroom/</guid>
@@ -4588,6 +4630,13 @@
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2019/09/14/klein-on-the-green-new-deal/</guid>
             <dc:creator><![CDATA[Azimuth]]></dc:creator>
             <pubDate>Sat, 14 Sep 2019 08:11:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[more insight to eulers identity proof]]></title>
+            <link>https://www.bookofproofs.org/branches/more-insight-to-eulers-identity/proof/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/more-insight-to-eulers-identity/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 14 Sep 2019 07:40:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More than Half of All US Colleges using OpenStax Textbooks]]></title>
@@ -4856,17 +4905,17 @@
             <pubDate>Thu, 12 Sep 2019 01:07:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Venture Beat Article]]></title>
-            <link>http://datagenetics.com/blog/september32019/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/september32019/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Carnival of Math No. 173]]></title>
             <link>https://www.peterkrautzberger.org/0210/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0210/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venture Beat Article]]></title>
+            <link>http://datagenetics.com/blog/september32019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/september32019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4952,13 +5001,6 @@
             <guid isPermaLink="false">https://thonyc.wordpress.com/2019/09/11/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xix/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Wed, 11 Sep 2019 08:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[42]]></title>
-            <link>https://blogs.ams.org/beyondreviews/2019/09/11/42/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/beyondreviews/2019/09/11/42/</guid>
-            <dc:creator><![CDATA[Beyond Reviews: Inside MathSciNet]]></dc:creator>
-            <pubDate>Wed, 11 Sep 2019 06:24:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
