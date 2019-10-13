@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Oct 2019 04:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2019 05:16:38 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Oct 2019 04:17:06 GMT</pubDate>
+        <pubDate>Sun, 13 Oct 2019 05:16:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The best is the enemy of the good. It is also the enemy of the not so good.]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2019/10/13/the-best-is-the-enemy-of-the-good-it-is-also-the-enemy-of-the-not-so-good/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/10/13/the-best-is-the-enemy-of-the-good-it-is-also-the-enemy-of-the-not-so-good/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sun, 13 Oct 2019 04:45:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Competitive Programming in Haskell: reading large inputs with ByteString]]></title>
             <link>https://byorgey.wordpress.com/2019/10/12/competitive-programming-in-haskell-reading-large-inputs-with-bytestring/</link>
@@ -113,13 +120,6 @@
             <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2019/10/12/diving-into-the-birthday-problem-with-kids/</guid>
             <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
             <pubDate>Sat, 12 Oct 2019 15:44:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s New]]></title>
-            <link>https://lucatrevisan.wordpress.com/2019/10/12/whats-new/</link>
-            <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2019/10/12/whats-new/</guid>
-            <dc:creator><![CDATA[in   theory]]></dc:creator>
-            <pubDate>Sat, 12 Oct 2019 13:27:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On the term “self-appointed” . . .]]></title>
@@ -484,13 +484,6 @@
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/10/four-years-ago-more-or-less-wishful.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 10 Oct 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[group completion theorem]]></title>
-            <link>https://ncatlab.org/nlab/show/group+completion+theorem</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/group+completion+theorem</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 10 Oct 2019 10:28:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The emergence of modern astronomy – a complex mosaic: Part XXI]]></title>
@@ -979,14 +972,14 @@
             <title><![CDATA[Carnival of Mathematics 174]]></title>
             <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carnival of Mathematics 174]]></title>
             <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
@@ -1277,17 +1270,17 @@
             <pubDate>Mon, 07 Oct 2019 10:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dictionary of Mathematical Eponymy: Johnson Solids]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 07 Oct 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Neuvième édition de Bulles au carré : c'est parti !]]></title>
             <link>http://images.math.cnrs.fr/Neuvieme-edition-de-Bulles-au-carre-c-est-parti.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Neuvieme-edition-de-Bulles-au-carre-c-est-parti.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 07 Oct 2019 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dictionary of Mathematical Eponymy: Johnson Solids]]></title>
+            <link>https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</link>
+            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 07 Oct 2019 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3545,13 +3538,6 @@
             <pubDate>Mon, 23 Sep 2019 12:30:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A New Conference on Information-Theoretic Cryptography]]></title>
-            <link>https://lucatrevisan.wordpress.com/2019/09/23/a-new-conference-on-information-theoretic-cryptography/</link>
-            <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2019/09/23/a-new-conference-on-information-theoretic-cryptography/</guid>
-            <dc:creator><![CDATA[in   theory]]></dc:creator>
-            <pubDate>Mon, 23 Sep 2019 12:18:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Quantum computers: amazing progress (Google & IBM), and extraordinary but probably false supremacy claims (Google).]]></title>
             <link>https://gilkalai.wordpress.com/2019/09/23/quantum-computers-amazing-progress-google-ibm-and-extraordinary-but-probably-false-supremacy-claims-google/</link>
             <guid isPermaLink="false">https://gilkalai.wordpress.com/2019/09/23/quantum-computers-amazing-progress-google-ibm-and-extraordinary-but-probably-false-supremacy-claims-google/</guid>
@@ -4917,13 +4903,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/4BC_2ahQt0Y/187669028881</guid>
             <dc:creator><![CDATA[isomorphismes]]></dc:creator>
             <pubDate>Thu, 12 Sep 2019 18:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My math is rusty]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2019/09/12/my-math-is-rusty/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/09/12/my-math-is-rusty/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 12 Sep 2019 17:00:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Complementary sets of natural numbers and Galois connections]]></title>
