@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Oct 2019 02:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2019 03:16:23 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Oct 2019 02:16:42 GMT</pubDate>
+        <pubDate>Sun, 13 Oct 2019 03:16:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Competitive Programming in Haskell: reading large inputs with ByteString]]></title>
+            <link>https://byorgey.wordpress.com/2019/10/12/competitive-programming-in-haskell-reading-large-inputs-with-bytestring/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2019/10/12/competitive-programming-in-haskell-reading-large-inputs-with-bytestring/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Sun, 13 Oct 2019 02:46:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["While producing plutonium to be reprocessed for weapons, the heat from the [Windscale] plant’s..."]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/rahYKIl0ZhI/188310116339</link>
@@ -724,6 +731,13 @@
             <pubDate>Wed, 09 Oct 2019 07:27:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MathsJam’s “Back of an Envelope” Fermi Challenge]]></title>
+            <link>https://aperiodical.com/2019/10/mathsjams-back-of-an-envelope-fermi-challenge/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/10/mathsjams-back-of-an-envelope-fermi-challenge/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Wed, 09 Oct 2019 07:08:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Le concours lycéen franco-chinois « Compter avec l'autre »]]></title>
             <link>http://images.math.cnrs.fr/Le-concours-lyceen-franco-chinois-Compter-avec-l-autre.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Le-concours-lyceen-franco-chinois-Compter-avec-l-autre.html</guid>
@@ -731,17 +745,17 @@
             <pubDate>Wed, 09 Oct 2019 06:04:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dilemmes de prisonniers et stratégies dominantes]]></title>
-            <link>http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bayesian Inference with Generative Adversarial Network Priors]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/p5_qM1i26gg/bayesian-inference-with-generative.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/p5_qM1i26gg/bayesian-inference-with-generative.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dilemmes de prisonniers et stratégies dominantes]]></title>
+            <link>http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -960,6 +974,20 @@
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/10/tuesday-tweets-great-unwinding-edition.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carnival of Mathematics 174]]></title>
+            <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carnival of Mathematics 174]]></title>
+            <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Materials scientist will soon be up to 30 retractions]]></title>
@@ -2047,6 +2075,13 @@
             <pubDate>Wed, 02 Oct 2019 12:30:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[International Day of Mathematics]]></title>
+            <link>https://aperiodical.com/2019/10/international-day-of-mathematics/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/10/international-day-of-mathematics/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Wed, 02 Oct 2019 11:31:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[XV International Luminy workshop in Set Theory]]></title>
             <link>https://ests.wordpress.com/2019/10/02/xv-international-luminy-workshop-in-set-theory/</link>
             <guid isPermaLink="false">https://ests.wordpress.com/2019/10/02/xv-international-luminy-workshop-in-set-theory/</guid>
@@ -2178,6 +2213,13 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/10/01/less-wow-and-more-how-in-social-psychology/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Tue, 01 Oct 2019 13:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wikithon for diversity in mathematics]]></title>
+            <link>https://aperiodical.com/2019/10/wikithon-for-diversity-in-mathematics/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/10/wikithon-for-diversity-in-mathematics/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Tue, 01 Oct 2019 12:39:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10/1/19]]></title>
@@ -2418,17 +2460,17 @@
             <pubDate>Mon, 30 Sep 2019 12:30:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Overproduction of elites]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introducing Time Complexity]]></title>
             <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
             <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
             <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overproduction of elites]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4784,6 +4826,13 @@
             <guid isPermaLink="false">https://lazyocho.com/2019/09/13/thinking-critically-about-the-phrase-my-students/</guid>
             <dc:creator><![CDATA[lazy 0ch0]]></dc:creator>
             <pubDate>Fri, 13 Sep 2019 09:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carnival of Maths 173]]></title>
+            <link>https://aperiodical.com/2019/09/carnival-of-maths-173/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/09/carnival-of-maths-173/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Fri, 13 Sep 2019 06:35:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[String interpolation in Python and R]]></title>
