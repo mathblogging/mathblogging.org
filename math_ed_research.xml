@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Oct 2019 16:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2019 17:16:59 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Oct 2019 16:17:08 GMT</pubDate>
+        <pubDate>Tue, 15 Oct 2019 17:16:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -85,6 +85,13 @@
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/188363299789</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Tue, 15 Oct 2019 12:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[neural network]]></title>
+            <link>https://ncatlab.org/nlab/show/neural+network</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/neural+network</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 15 Oct 2019 11:58:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Workshop on Combinatorial Optimization and Algorithmic Game Theory]]></title>
@@ -1256,13 +1263,6 @@
             <pubDate>Wed, 09 Oct 2019 07:27:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MathsJam’s “Back of an Envelope” Fermi Challenge]]></title>
-            <link>https://aperiodical.com/2019/10/mathsjams-back-of-an-envelope-fermi-challenge/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2019/10/mathsjams-back-of-an-envelope-fermi-challenge/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Wed, 09 Oct 2019 07:08:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Le concours lycéen franco-chinois « Compter avec l'autre »]]></title>
             <link>http://images.math.cnrs.fr/Le-concours-lyceen-franco-chinois-Compter-avec-l-autre.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Le-concours-lyceen-franco-chinois-Compter-avec-l-autre.html</guid>
@@ -1270,17 +1270,17 @@
             <pubDate>Wed, 09 Oct 2019 06:04:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dilemmes de prisonniers et stratégies dominantes]]></title>
-            <link>http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bayesian Inference with Generative Adversarial Network Priors]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/p5_qM1i26gg/bayesian-inference-with-generative.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/p5_qM1i26gg/bayesian-inference-with-generative.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dilemmes de prisonniers et stratégies dominantes]]></title>
+            <link>http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1499,13 +1499,6 @@
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/10/tuesday-tweets-great-unwinding-edition.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carnival of Mathematics 174]]></title>
-            <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carnival of Mathematics 174]]></title>
@@ -1795,17 +1788,17 @@
             <pubDate>Mon, 07 Oct 2019 10:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Neuvième édition de Bulles au carré : c'est parti !]]></title>
-            <link>http://images.math.cnrs.fr/Neuvieme-edition-de-Bulles-au-carre-c-est-parti.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Neuvieme-edition-de-Bulles-au-carre-c-est-parti.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 07 Oct 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dictionary of Mathematical Eponymy: Johnson Solids]]></title>
             <link>https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</link>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-johnson-solids/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 07 Oct 2019 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neuvième édition de Bulles au carré : c'est parti !]]></title>
+            <link>http://images.math.cnrs.fr/Neuvieme-edition-de-Bulles-au-carre-c-est-parti.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Neuvieme-edition-de-Bulles-au-carre-c-est-parti.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 07 Oct 2019 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2031,13 +2024,6 @@
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2019/10/05/ontologies-as-systems-%e2%80%a2-comment-1/</guid>
             <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
             <pubDate>Sat, 05 Oct 2019 16:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Notes from a talk at the Maine-Quebec Number Theory Conference]]></title>
-            <link>http://davidlowryduda.com/notes-from-a-talk-at-the-maine-quebec-number-theory-conference/</link>
-            <guid isPermaLink="false">http://davidlowryduda.com/notes-from-a-talk-at-the-maine-quebec-number-theory-conference/</guid>
-            <dc:creator><![CDATA[mixedmath]]></dc:creator>
-            <pubDate>Sat, 05 Oct 2019 14:46:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sharing problem #8 from Mosteller’s 50 Challenging Problems in Probability with kids]]></title>
@@ -2544,13 +2530,6 @@
             <pubDate>Wed, 02 Oct 2019 12:30:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Day of Mathematics]]></title>
-            <link>https://aperiodical.com/2019/10/international-day-of-mathematics/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2019/10/international-day-of-mathematics/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2019 11:31:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[XV International Luminy workshop in Set Theory]]></title>
             <link>https://ests.wordpress.com/2019/10/02/xv-international-luminy-workshop-in-set-theory/</link>
             <guid isPermaLink="false">https://ests.wordpress.com/2019/10/02/xv-international-luminy-workshop-in-set-theory/</guid>
@@ -2682,13 +2661,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/10/01/less-wow-and-more-how-in-social-psychology/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Tue, 01 Oct 2019 13:23:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wikithon for diversity in mathematics]]></title>
-            <link>https://aperiodical.com/2019/10/wikithon-for-diversity-in-mathematics/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2019/10/wikithon-for-diversity-in-mathematics/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Tue, 01 Oct 2019 12:39:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10/1/19]]></title>
