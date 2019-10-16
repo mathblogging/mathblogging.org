@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Oct 2019 03:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2019 04:17:06 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Oct 2019 03:16:47 GMT</pubDate>
+        <pubDate>Wed, 16 Oct 2019 04:17:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[L'Énigme de Fermat]]></title>
+            <link>http://images.math.cnrs.fr/L-Enigme-de-Fermat.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/L-Enigme-de-Fermat.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 16 Oct 2019 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unizor - Physics4Teens - Energy - Gravitational Potential]]></title>
+            <link>http://unizor.blogspot.com/2019/10/unizor-physics4teens-energy_15.html</link>
+            <guid isPermaLink="false">http://unizor.blogspot.com/2019/10/unizor-physics4teens-energy_15.html</guid>
+            <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
+            <pubDate>Wed, 16 Oct 2019 03:18:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Current State of Play in Statistical Foundations: A View From a Hot-Air Balloon]]></title>
             <link>https://errorstatistics.com/2019/10/15/the-current-state-of-play-in-statistical-foundations-a-view-from-a-hot-air-balloon/</link>
@@ -1340,17 +1354,17 @@
             <pubDate>Wed, 09 Oct 2019 06:04:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dilemmes de prisonniers et stratégies dominantes]]></title>
-            <link>http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bayesian Inference with Generative Adversarial Network Priors]]></title>
             <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/p5_qM1i26gg/bayesian-inference-with-generative.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/p5_qM1i26gg/bayesian-inference-with-generative.html</guid>
             <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
+            <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dilemmes de prisonniers et stratégies dominantes]]></title>
+            <link>http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Dilemmes-de-prisonniers-et-strategies-dominantes.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 09 Oct 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2670,13 +2684,6 @@
             <pubDate>Wed, 02 Oct 2019 00:45:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Concours vidéo VidéoDiMath]]></title>
-            <link>http://images.math.cnrs.fr/Concours-video-VideoDiMath-5280.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Concours-video-VideoDiMath-5280.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 01 Oct 2019 21:43:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How do I keep type constructors from overrunning my Haskell program?]]></title>
             <link>https://blog.plover.com/prog/haskell/type-markers.html</link>
             <guid isPermaLink="false">https://blog.plover.com/prog/haskell/type-markers.html</guid>
@@ -2943,17 +2950,17 @@
             <pubDate>Mon, 30 Sep 2019 12:30:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Time Complexity]]></title>
-            <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
-            <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Overproduction of elites]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Time Complexity]]></title>
+            <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
+            <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
+            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
             <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3769,6 +3776,20 @@
             <pubDate>Tue, 24 Sep 2019 18:54:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[sum of roots of unity in complete residue systems]]></title>
+            <link>https://www.bookofproofs.org/branches/sum-of-roots-of-unity-in-complete-residue-systems/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/sum-of-roots-of-unity-in-complete-residue-systems/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 24 Sep 2019 17:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[discrete fourier transform]]></title>
+            <link>https://www.bookofproofs.org/branches/discrete-fourier-transform/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/discrete-fourier-transform/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Tue, 24 Sep 2019 17:37:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Two Ideas For When Students Finish Early]]></title>
             <link>https://robertkaplinsky.com/two-ideas-for-when-students-finish-early/</link>
             <guid isPermaLink="false">https://robertkaplinsky.com/two-ideas-for-when-students-finish-early/</guid>
@@ -4229,6 +4250,27 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/QuDJB578K5Q/biof.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Sat, 21 Sep 2019 09:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[n periodical complex sequence]]></title>
+            <link>https://www.bookofproofs.org/branches/n-periodical-complex-sequence/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/n-periodical-complex-sequence/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 21 Sep 2019 06:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[odd complex sequence]]></title>
+            <link>https://www.bookofproofs.org/branches/odd-complex-sequence/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/odd-complex-sequence/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 21 Sep 2019 06:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[even complex sequence]]></title>
+            <link>https://www.bookofproofs.org/branches/even-complex-sequence/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/even-complex-sequence/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sat, 21 Sep 2019 06:23:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Digit Disguises]]></title>
@@ -5031,6 +5073,13 @@
             <pubDate>Sun, 15 Sep 2019 11:32:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[n th roots of unity proof]]></title>
+            <link>https://www.bookofproofs.org/branches/n-th-roots-of-unity-proof/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/n-th-roots-of-unity-proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 15 Sep 2019 10:33:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cognitive Science in the Classroom]]></title>
             <link>https://colleenyoung.wordpress.com/2019/09/15/cognitive-science-in-the-classroom/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2019/09/15/cognitive-science-in-the-classroom/</guid>
@@ -5050,13 +5099,6 @@
             <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2019/09/15/15-settembre-973-buon-compleanno-abu/</guid>
             <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
             <pubDate>Sun, 15 Sep 2019 05:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elements of biological computation & stochastic thermodynamics of life]]></title>
-            <link>https://egtheory.wordpress.com/2019/09/14/biological-computation-1/</link>
-            <guid isPermaLink="false">https://egtheory.wordpress.com/2019/09/14/biological-computation-1/</guid>
-            <dc:creator><![CDATA[Theory, Evolution, and Games Group]]></dc:creator>
-            <pubDate>Sun, 15 Sep 2019 03:30:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
