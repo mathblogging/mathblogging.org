@@ -4,25 +4,35 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Oct 2019 22:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2019 23:16:20 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/editors-picks.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Oct 2019 22:16:42 GMT</pubDate>
+        <pubDate>Thu, 17 Oct 2019 23:16:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA[Equivalence and higher category theory (advanced, cutting-edge work of J. Lurie):
-https://t.co/3fIk7mtxbh
-  #mbpick @mathblogging]]></description>
-            <guid isPermaLink="false">https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Sun, 13 Oct 2019 01:17:07 GMT</pubDate>
+            <title><![CDATA[@MrHonner's pick]]></title>
+            <description><![CDATA[The Quarter Circle Game
+https://t.co/YpMz3AZYj5
+Interesting question and extensions from @JSEllenberg 
+#math #mathchat #mbpick @mathblogging]]></description>
+            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2019/10/15/the-quarter-circle-game/</guid>
+            <dc:creator><![CDATA[@MrHonner]]></dc:creator>
+            <pubDate>Thu, 17 Oct 2019 22:43:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
             <guid isPermaLink="false">https://www.quantamagazine.org/titans-of-mathematics-clash-over-epic-proof-of-abc-conjecture-20180920/</guid>
             <dc:creator><![CDATA[@MrHonner]]></dc:creator>
             <pubDate>Thu, 20 Sep 2018 22:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <description><![CDATA['Colloquial' correlation and otherwise:
+https://t.co/4g1zCtZf9x
+  #mbpick @mathblogging]]></description>
+            <guid isPermaLink="false">http://mathmisery.com/wp/2019/09/30/correlation-does-not-imply-correlation-a-message-for-the-data-scientist/</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 11:50:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
@@ -399,18 +409,18 @@ https://t.co/D3BALx8EaW
         </item>
         <item>
             <title><![CDATA[@SheckyR's pick]]></title>
-            <guid isPermaLink="false">https://plus.maths.org/content/eternal-golden-braid-godel-escher-bach</guid>
+            <description><![CDATA[Equivalence and higher category theory (advanced, cutting-edge work of J. Lurie):
+https://t.co/3fIk7mtxbh
+  #mbpick @mathblogging]]></description>
+            <guid isPermaLink="false">https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/</guid>
             <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Tue, 02 Apr 2019 12:30:11 GMT</pubDate>
+            <pubDate>Sun, 13 Oct 2019 01:17:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@SheckyR's pick]]></title>
-            <description><![CDATA['Colloquial' correlation and otherwise:
-https://t.co/4g1zCtZf9x
-  #mbpick @mathblogging]]></description>
-            <guid isPermaLink="false">http://mathmisery.com/wp/2019/09/30/correlation-does-not-imply-correlation-a-message-for-the-data-scientist/</guid>
-            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 11:50:03 GMT</pubDate>
+            <title><![CDATA[@fawnpnguyen's pick]]></title>
+            <guid isPermaLink="false">http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-way/</guid>
+            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
+            <pubDate>Sat, 30 Mar 2019 04:12:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@MrHonner's pick]]></title>
@@ -767,10 +777,10 @@ https://t.co/4g1zCtZf9x
             <pubDate>Wed, 26 Sep 2018 10:05:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[@fawnpnguyen's pick]]></title>
-            <guid isPermaLink="false">http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-way/</guid>
-            <dc:creator><![CDATA[@fawnpnguyen]]></dc:creator>
-            <pubDate>Sat, 30 Mar 2019 04:12:02 GMT</pubDate>
+            <title><![CDATA[@SheckyR's pick]]></title>
+            <guid isPermaLink="false">https://plus.maths.org/content/eternal-golden-braid-godel-escher-bach</guid>
+            <dc:creator><![CDATA[@SheckyR]]></dc:creator>
+            <pubDate>Tue, 02 Apr 2019 12:30:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

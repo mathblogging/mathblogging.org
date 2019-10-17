@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The Quarter Circle Game<a href="https://t.co/YpMz3AZYj5">https://t.co/YpMz3AZYj5</a><br>Interesting question and extensions from <a href="https://twitter.com/JSEllenberg?ref_src=twsrc%5Etfw">@JSEllenberg</a> <a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1184963140171239424?ref_src=twsrc%5Etfw">October 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">What can you do with linear algebra? Great list from <a href="https://twitter.com/jeremyjkun?ref_src=twsrc%5Etfw">@jeremyjkun</a>, with lots of further reading. (An old post, but glad to be reminded of it!)<a href="https://t.co/lnAkaalBhS">https://t.co/lnAkaalBhS</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1184615281785823232?ref_src=twsrc%5Etfw">October 16, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
