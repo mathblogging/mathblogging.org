@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Evelyn Lamb&#39;s perspective on Hilbert&#39;s 23 problems:<a href="https://t.co/p4P1aClJN4">https://t.co/p4P1aClJN4</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 ( #25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 ) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1185701424254115841?ref_src=twsrc%5Etfw">October 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The Quarter Circle Game<a href="https://t.co/YpMz3AZYj5">https://t.co/YpMz3AZYj5</a><br>Interesting question and extensions from <a href="https://twitter.com/JSEllenberg?ref_src=twsrc%5Etfw">@JSEllenberg</a> <a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1184963140171239424?ref_src=twsrc%5Etfw">October 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
