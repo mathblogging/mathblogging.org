@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Fun interview with Ben Orlin:<a href="https://t.co/JayUtWsjKn">https://t.co/JayUtWsjKn</a><br>Somehow I’ve missed these “Breaking Math” podcasts and they all look good!<br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 ( #25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 ) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1187157677085990915?ref_src=twsrc%5Etfw">October 24, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Evelyn Lamb&#39;s perspective on Hilbert&#39;s 23 problems:<a href="https://t.co/p4P1aClJN4">https://t.co/p4P1aClJN4</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 ( #25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵 ) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1185701424254115841?ref_src=twsrc%5Etfw">October 19, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
