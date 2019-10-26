@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Oct 2019 02:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2019 03:16:20 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Oct 2019 02:16:55 GMT</pubDate>
+        <pubDate>Sat, 26 Oct 2019 03:16:20 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[A combinatorial proof: PIE a la mode!]]></title>
+            <link>https://mathlesstraveled.com/2019/10/25/a-combinatorial-proof-pie-a-la-mode/</link>
+            <guid isPermaLink="false">https://mathlesstraveled.com/2019/10/25/a-combinatorial-proof-pie-a-la-mode/</guid>
+            <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
+            <pubDate>Sat, 26 Oct 2019 02:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gringos and gringas]]></title>
+            <link>https://blog.plover.com/lang/etym/gringos.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/lang/etym/gringos.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Sat, 26 Oct 2019 02:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kantorovich monad]]></title>
             <link>https://ncatlab.org/nlab/show/Kantorovich+monad</link>
@@ -1512,17 +1526,17 @@ allgemeine =...]]></title>
             <pubDate>Fri, 18 Oct 2019 09:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Octobre 2019, 3e défi]]></title>
-            <link>http://images.math.cnrs.fr/Octobre-2019-3e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2019-3e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 18 Oct 2019 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[(x, why?) Mini: Reflex Angle]]></title>
             <link>http://mrburkemath.blogspot.com/2019/10/x-why-mini-reflex-angle.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/10/x-why-mini-reflex-angle.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 18 Oct 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Octobre 2019, 3e défi]]></title>
+            <link>http://images.math.cnrs.fr/Octobre-2019-3e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Octobre-2019-3e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 18 Oct 2019 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2756,6 +2770,13 @@ allgemeine =...]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/10/cars-of-futures-pastclass-foghorn.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 11 Oct 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Implicit Regularization of Ordinary Least Squares Ensembles]]></title>
+            <link>http://richb.rice.edu/2019/10/11/the-implicit-regularization-of-ordinary-least-squares-ensembles/</link>
+            <guid isPermaLink="false">http://richb.rice.edu/2019/10/11/the-implicit-regularization-of-ordinary-least-squares-ensembles/</guid>
+            <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
+            <pubDate>Fri, 11 Oct 2019 09:29:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Η απόδειξη του πτυσσόμενου σάκου]]></title>
@@ -4382,17 +4403,17 @@ allgemeine =...]]></title>
             <pubDate>Mon, 30 Sep 2019 12:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Time Complexity]]></title>
-            <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
-            <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Overproduction of elites]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Time Complexity]]></title>
+            <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
+            <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
+            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
             <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5059,27 +5080,6 @@ allgemeine =...]]></title>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-a-parametric-integration/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Wed, 25 Sep 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math Workshop in Action]]></title>
-            <link>https://guidedmath.wordpress.com/2019/09/25/math-workshop-in-action/</link>
-            <guid isPermaLink="false">https://guidedmath.wordpress.com/2019/09/25/math-workshop-in-action/</guid>
-            <dc:creator><![CDATA[Dr. Nicki's Guided Math Blog]]></dc:creator>
-            <pubDate>Wed, 25 Sep 2019 02:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer Reading]]></title>
-            <link>https://clopendebate.wordpress.com/2019/09/24/summer-reading/</link>
-            <guid isPermaLink="false">https://clopendebate.wordpress.com/2019/09/24/summer-reading/</guid>
-            <dc:creator><![CDATA[CLopen Mathdebater]]></dc:creator>
-            <pubDate>Wed, 25 Sep 2019 02:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unizor - Physics4Teens - Energy - Energy of Gravitational Field - Gravit...]]></title>
-            <link>http://unizor.blogspot.com/2019/09/unizor-physics4teens-energy-energy-of_24.html</link>
-            <guid isPermaLink="false">http://unizor.blogspot.com/2019/09/unizor-physics4teens-energy-energy-of_24.html</guid>
-            <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
-            <pubDate>Wed, 25 Sep 2019 02:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
