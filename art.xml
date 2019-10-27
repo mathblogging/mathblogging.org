@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Oct 2019 16:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2019 17:16:40 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Oct 2019 16:16:22 GMT</pubDate>
+        <pubDate>Sun, 27 Oct 2019 17:16:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -120,13 +120,6 @@
             <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2019/10/26/a-morning-with-the-permutohedron/</guid>
             <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
             <pubDate>Sat, 26 Oct 2019 15:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dirac measure]]></title>
-            <link>https://ncatlab.org/nlab/show/Dirac+measure</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Dirac+measure</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 26 Oct 2019 14:42:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Weekend reads: Scientist loses job after 30 retractions; breast cancer researcher committed misconduct; “two crashes” at Duke]]></title>
@@ -442,6 +435,13 @@
             <guid isPermaLink="false">https://www.simonsfoundation.org/2019/10/24/watch-how-scope-discovers-the-secret-life-of-ocean-microbes/</guid>
             <dc:creator><![CDATA[Simons Foundation]]></dc:creator>
             <pubDate>Thu, 24 Oct 2019 20:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a University Took on the Textbook Industry]]></title>
+            <link>http://richb.rice.edu/2019/10/24/how-a-university-took-on-the-textbook-industry/</link>
+            <guid isPermaLink="false">http://richb.rice.edu/2019/10/24/how-a-university-took-on-the-textbook-industry/</guid>
+            <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
+            <pubDate>Thu, 24 Oct 2019 20:05:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fortbildung in Lüneburg]]></title>
@@ -2009,17 +2009,17 @@ allgemeine =...]]></title>
             <pubDate>Wed, 16 Oct 2019 12:21:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Complexity and the Role of Math (...and Toddlers)]]></title>
-            <link>https://math-frolic.blogspot.com/2019/10/complexity-and-role-of-math-and-toddlers.html</link>
-            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/10/complexity-and-role-of-math-and-toddlers.html</guid>
-            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
-            <pubDate>Wed, 16 Oct 2019 11:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Quoi faire après un deug ? ما هي الافاق المتاحة بعد سنتين بالجامعة؟]]></title>
             <link>http://feedproxy.google.com/~r/mathsways/sBfS/~3/3gcK6SMa618/quoi-faire-apres-un-deug.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/3gcK6SMa618/quoi-faire-apres-un-deug.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
+            <pubDate>Wed, 16 Oct 2019 11:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complexity and the Role of Math (...and Toddlers)]]></title>
+            <link>https://math-frolic.blogspot.com/2019/10/complexity-and-role-of-math-and-toddlers.html</link>
+            <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/10/complexity-and-role-of-math-and-toddlers.html</guid>
+            <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Wed, 16 Oct 2019 11:30:00 GMT</pubDate>
         </item>
         <item>
@@ -4508,17 +4508,17 @@ allgemeine =...]]></title>
             <pubDate>Mon, 30 Sep 2019 12:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Time Complexity]]></title>
-            <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
-            <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Overproduction of elites]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/09/overproduction-of-elites.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Time Complexity]]></title>
+            <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
+            <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
+            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
             <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4919,20 +4919,6 @@ allgemeine =...]]></title>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/09/hands.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 26 Sep 2019 17:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quantum Supremacy]]></title>
-            <link>https://blog.computationalcomplexity.org/2019/09/quantum-supremacy.html</link>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2019/09/quantum-supremacy.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Thu, 26 Sep 2019 17:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roundtable on Mechanization of Mathematics]]></title>
-            <link>https://mathematicswithoutapologies.wordpress.com/2019/09/26/roundtable-on-mechanization-of-mathematics/</link>
-            <guid isPermaLink="false">https://mathematicswithoutapologies.wordpress.com/2019/09/26/roundtable-on-mechanization-of-mathematics/</guid>
-            <dc:creator><![CDATA[Mathematics without Apologies, by Michael Harris]]></dc:creator>
-            <pubDate>Thu, 26 Sep 2019 16:56:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
