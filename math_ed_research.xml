@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Oct 2019 15:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2019 16:16:24 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Oct 2019 15:18:12 GMT</pubDate>
+        <pubDate>Wed, 30 Oct 2019 16:16:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Higher order Newton-like methods for root finding]]></title>
+            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/KZ83sLzsdRI/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/KZ83sLzsdRI/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Wed, 30 Oct 2019 15:22:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who are the Foxes and Hedgehogs of Mathematics?]]></title>
             <link>https://mathwithbaddrawings.com/2019/10/30/the-fox-hedgehog-game/</link>
@@ -106,13 +113,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/eliatron/~3/jgMFbCQt9dI/sevilla-ciudad-candidata-albergar-el.html</guid>
             <dc:creator><![CDATA[Tito Eliatron Dixit]]></dc:creator>
             <pubDate>Wed, 30 Oct 2019 09:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chong-Sun Chu]]></title>
-            <link>https://ncatlab.org/nlab/show/Chong-Sun+Chu</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Chong-Sun+Chu</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 30 Oct 2019 09:37:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazing! Keith Frankston, Jeff Kahn, Bhargav Narayanan, Jinyoung Park: Thresholds versus fractional expectation-thresholds]]></title>
@@ -325,17 +325,17 @@
             <pubDate>Tue, 29 Oct 2019 11:26:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tuesday Tweets]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/10/tuesday-tweets_29.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/10/tuesday-tweets_29.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 29 Oct 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathémusique : Introduction au théorème de l'hexacorde]]></title>
             <link>http://images.math.cnrs.fr/Mathemusique-Introduction-au-theoreme-de-l-hexacorde.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Mathemusique-Introduction-au-theoreme-de-l-hexacorde.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 29 Oct 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Tweets]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/10/tuesday-tweets_29.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/10/tuesday-tweets_29.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 29 Oct 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3416,13 +3416,6 @@ allgemeine =...]]></title>
             <pubDate>Sat, 12 Oct 2019 11:20:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Constant Differences]]></title>
-            <link>http://www.solipsys.co.uk/new/ConstantDifferences.html?RSS</link>
-            <guid isPermaLink="false">http://www.solipsys.co.uk/new/ConstantDifferences.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Sat, 12 Oct 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What if J. Peterman wanted you to learn commutative algebra?]]></title>
             <link>https://burttotaro.wordpress.com/2019/10/12/what-if-j-peterman-wanted-you-to-learn-commutative-algebra/</link>
             <guid isPermaLink="false">https://burttotaro.wordpress.com/2019/10/12/what-if-j-peterman-wanted-you-to-learn-commutative-algebra/</guid>
@@ -4000,14 +3993,14 @@ allgemeine =...]]></title>
             <title><![CDATA[Carnival of Mathematics 174]]></title>
             <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carnival of Mathematics 174]]></title>
             <link>https://aperiodical.com/2019/10/carnival-of-mathematics-174/</link>
             <guid isPermaLink="false">https://aperiodical.com/2019/10/carnival-of-mathematics-174/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 08 Oct 2019 10:12:16 GMT</pubDate>
         </item>
         <item>
@@ -4177,13 +4170,6 @@ allgemeine =...]]></title>
             <guid isPermaLink="false">https://calculus7.org/2019/10/07/measuring-the-regularity-of-a-graph-by-its-laplacian-eigenvalues/</guid>
             <dc:creator><![CDATA[Calculus VII]]></dc:creator>
             <pubDate>Mon, 07 Oct 2019 11:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Algorithms and Sizes of Instances]]></title>
-            <link>http://www.solipsys.co.uk/new/AlgorithmsAndSizesOfInstances.html?RSS</link>
-            <guid isPermaLink="false">http://www.solipsys.co.uk/new/AlgorithmsAndSizesOfInstances.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Mon, 07 Oct 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[الجزء الثاني من درس النهايات والاتصال للبكالوريا الدولية بالفرنسية الاتصال على مجال]]></title>
@@ -5038,13 +5024,6 @@ allgemeine =...]]></title>
             <guid isPermaLink="false">https://ilpiccolofriedrich.blogspot.com/2019/09/forza-4.html</guid>
             <dc:creator><![CDATA[Il piccolo Friedrich]]></dc:creator>
             <pubDate>Mon, 30 Sep 2019 12:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Time Complexity]]></title>
-            <link>https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</link>
-            <guid isPermaLink="false">https://www.solipsys.co.uk/new/IntroducingTimeComplexity.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Overproduction of elites]]></title>
