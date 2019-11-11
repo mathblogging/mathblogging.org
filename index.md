@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/benorlin?ref_src=twsrc%5Etfw">@benorlin</a> is right, you haven&#39;t seen the coolest lined paper. Until you see these:<a href="https://t.co/bgGSydIs9D">https://t.co/bgGSydIs9D</a> <a href="https://twitter.com/CmonMattTHINK?ref_src=twsrc%5Etfw">@CmonMattTHINK</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1193943718161551360?ref_src=twsrc%5Etfw">November 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">In just a matter of time, the number 114 may show up in your math news-feed; Mr. Honner explains why:<a href="https://t.co/XOU8QfsTbS">https://t.co/XOU8QfsTbS</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (#25𝘵𝘩𝘈𝘮𝘦𝘯𝘥𝘮𝘦𝘯𝘵) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1191838866245857282?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
