@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Can humans reliably generate random numbers? Some thoughts from Brent Yorgey at The Math Less Traveled<a href="https://t.co/k2YYpbnwWU">https://t.co/k2YYpbnwWU</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/statschat?src=hash&amp;ref_src=twsrc%5Etfw">#statschat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1194023035214409729?ref_src=twsrc%5Etfw">November 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/benorlin?ref_src=twsrc%5Etfw">@benorlin</a> is right, you haven&#39;t seen the coolest lined paper. Until you see these:<a href="https://t.co/bgGSydIs9D">https://t.co/bgGSydIs9D</a> <a href="https://twitter.com/CmonMattTHINK?ref_src=twsrc%5Etfw">@CmonMattTHINK</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1193943718161551360?ref_src=twsrc%5Etfw">November 11, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
