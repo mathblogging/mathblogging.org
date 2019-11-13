@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Nice new profile of Terry Tao:<a href="https://t.co/3iRjD75jhU">https://t.co/3iRjD75jhU</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (#𝙄𝙢𝙥𝙚𝙖𝙘𝙝𝙉𝙤𝙬) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1194593328651816960?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Can humans reliably generate random numbers? Some thoughts from Brent Yorgey at The Math Less Traveled<a href="https://t.co/k2YYpbnwWU">https://t.co/k2YYpbnwWU</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/statschat?src=hash&amp;ref_src=twsrc%5Etfw">#statschat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1194023035214409729?ref_src=twsrc%5Etfw">November 11, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
