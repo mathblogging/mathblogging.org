@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 Nov 2019 09:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2019 10:17:11 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Nov 2019 09:17:42 GMT</pubDate>
+        <pubDate>Wed, 13 Nov 2019 10:17:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Ask Uncle Colin: An Exponential Limit]]></title>
+            <link>https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-an-exponential-limit/</link>
+            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-an-exponential-limit/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 13 Nov 2019 10:00:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tutta colpa dell’algoritmo?]]></title>
             <link>http://maddmaths.simai.eu/divulgazione/langolo-arguto/tutta-colpa-dellalgoritmo/</link>
@@ -1025,16 +1032,16 @@
             <pubDate>Fri, 08 Nov 2019 08:03:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Novembre 2019, 2e défi]]></title>
-            <link>http://images.math.cnrs.fr/Novembre-2019-2e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Novembre-2019-2e-defi.html</guid>
+            <title><![CDATA[Intelligence artificielle par apprentissage automatique]]></title>
+            <link>http://images.math.cnrs.fr/Intelligence-artificielle-par-apprentissage-automatique.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Intelligence-artificielle-par-apprentissage-automatique.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 08 Nov 2019 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Intelligence artificielle par apprentissage automatique]]></title>
-            <link>http://images.math.cnrs.fr/Intelligence-artificielle-par-apprentissage-automatique.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Intelligence-artificielle-par-apprentissage-automatique.html</guid>
+            <title><![CDATA[Novembre 2019, 2e défi]]></title>
+            <link>http://images.math.cnrs.fr/Novembre-2019-2e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Novembre-2019-2e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 08 Nov 2019 06:00:00 GMT</pubDate>
         </item>
@@ -1494,17 +1501,17 @@
             <pubDate>Wed, 06 Nov 2019 01:16:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New tool: twisted Hodge diamonds for complete intersections]]></title>
-            <link>http://pbelmans.ncag.info/blog/2019/11/06/twisted-hodge/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/11/06/twisted-hodge/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Wed, 06 Nov 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Heavy Hitters Algorithm]]></title>
             <link>http://datagenetics.com/blog/november22019/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/november22019/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Wed, 06 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New tool: twisted Hodge diamonds for complete intersections]]></title>
+            <link>http://pbelmans.ncag.info/blog/2019/11/06/twisted-hodge/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/11/06/twisted-hodge/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Wed, 06 Nov 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4743,13 +4750,6 @@ allgemeine =...]]></title>
             <pubDate>Wed, 16 Oct 2019 10:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ask Uncle Colin: A Partition Enigma]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/auc_enigma-md/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/auc_enigma-md/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Wed, 16 Oct 2019 09:00:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boris Paneah (1936-2019)]]></title>
             <link>https://noncommutativeanalysis.com/2019/10/16/boris-paneah-1936-2019/</link>
             <guid isPermaLink="false">https://noncommutativeanalysis.com/2019/10/16/boris-paneah-1936-2019/</guid>
@@ -5133,20 +5133,6 @@ allgemeine =...]]></title>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/10/tyler-vigen-correlate-this.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Sun, 13 Oct 2019 11:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Programmieraufgabe 106]]></title>
-            <link>https://blog.ingo-bartling.de/2019/10/13/einfacher-genetischer-algorithmus/</link>
-            <guid isPermaLink="false">https://blog.ingo-bartling.de/2019/10/13/einfacher-genetischer-algorithmus/</guid>
-            <dc:creator><![CDATA[Lehrzeit]]></dc:creator>
-            <pubDate>Sun, 13 Oct 2019 09:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Buzzard über Computerbeweise]]></title>
-            <link>http://scienceblogs.de/mathlog/2019/10/13/buzzard-ueber-computerbeweise/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=buzzard-ueber-computerbeweise</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2019/10/13/buzzard-ueber-computerbeweise/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=buzzard-ueber-computerbeweise</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Sun, 13 Oct 2019 09:31:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
