@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Your Computer As An Autistic Savant&quot; (algorithmic ignorance):<a href="https://t.co/8a6THMqu5D">https://t.co/8a6THMqu5D</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (#𝙄𝙢𝙥𝙚𝙖𝙘𝙝𝙉𝙤𝙬) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1197517918591950849?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Some weekend <a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> reading from the n-Category Cafe: Geodesic Spheres and Gram Matrices.<a href="https://t.co/YF6hfWeHRy">https://t.co/YF6hfWeHRy</a><a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1196204028700610566?ref_src=twsrc%5Etfw">November 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -355,9 +358,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Such fun for geometers!:<a href="https://t.co/wNV4ZBeALm">https://t.co/wNV4ZBeALm</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a>  <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (#𝙄𝙢𝙥𝙚𝙖𝙘𝙝𝙉𝙤𝙬) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1047524217288359936?ref_src=twsrc%5Etfw">October 3, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">This fun, charming, expansive, and insightful profile of <a href="https://twitter.com/JohnCUrschel?ref_src=twsrc%5Etfw">@JohnCUrschel</a> by <a href="https://twitter.com/JSEllenberg?ref_src=twsrc%5Etfw">@JSEllenberg</a> is today&#39;s math must read!<a href="https://t.co/DonZ27BAq1">https://t.co/DonZ27BAq1</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1046019961989341184?ref_src=twsrc%5Etfw">September 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Schöne Kurzbiographie von George Boole im Mathematischen Monatskalender von <a href="https://twitter.com/spektrum?ref_src=twsrc%5Etfw">@spektrum</a> <a href="https://t.co/wxCDX6yneD">https://t.co/wxCDX6yneD</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1035804939468120064?ref_src=twsrc%5Etfw">September 1, 2018</a></blockquote>
