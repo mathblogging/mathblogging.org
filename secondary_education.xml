@@ -4,22 +4,22 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 Nov 2019 06:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2019 07:17:10 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 Nov 2019 06:17:28 GMT</pubDate>
+        <pubDate>Mon, 25 Nov 2019 07:17:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
-        <item>
-            <title><![CDATA[1959 : L'algorithme QR à la recherche de son inventeur, John Francis]]></title>
-            <link>http://images.math.cnrs.fr/1959-L-algorithme-QR-a-la-recherche-de-son-inventeur-John-Francis.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/1959-L-algorithme-QR-a-la-recherche-de-son-inventeur-John-Francis.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 25 Nov 2019 06:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[5.4.13]]></title>
             <link>http://images.math.cnrs.fr/5-4-13.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/5-4-13.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 25 Nov 2019 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1959 : L'algorithme QR à la recherche de son inventeur, John Francis]]></title>
+            <link>http://images.math.cnrs.fr/1959-L-algorithme-QR-a-la-recherche-de-son-inventeur-John-Francis.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/1959-L-algorithme-QR-a-la-recherche-de-son-inventeur-John-Francis.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 25 Nov 2019 06:00:00 GMT</pubDate>
         </item>
@@ -50,6 +50,13 @@
             <guid isPermaLink="false">https://jd2718.org/2019/11/24/in-praise-of-michael-bloomberg/</guid>
             <dc:creator><![CDATA[JD2718]]></dc:creator>
             <pubDate>Sun, 24 Nov 2019 23:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fake conference]]></title>
+            <link>https://xianblog.wordpress.com/2019/11/25/fake-conference/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2019/11/25/fake-conference/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sun, 24 Nov 2019 23:19:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Random Permutations (Part 3)]]></title>
@@ -1007,13 +1014,6 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
             <pubDate>Tue, 19 Nov 2019 13:30:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Galton’s board all askew]]></title>
-            <link>https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Tue, 19 Nov 2019 13:18:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chair in Pure Mathematics at Sheffield]]></title>
             <link>https://golem.ph.utexas.edu/category/2019/11/chair_in_pure_mathematics_at_s_1.html</link>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2019/11/chair_in_pure_mathematics_at_s_1.html</guid>
@@ -1595,17 +1595,17 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
             <pubDate>Sat, 16 Nov 2019 00:17:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - November 16]]></title>
-            <link>https://pballew.blogspot.com/2019/11/on-this-day-in-math-november-16.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2019/11/on-this-day-in-math-november-16.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sat, 16 Nov 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Recovering Source Code Puzzle]]></title>
             <link>http://datagenetics.com/blog/november42019/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/november42019/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sat, 16 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - November 16]]></title>
+            <link>https://pballew.blogspot.com/2019/11/on-this-day-in-math-november-16.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2019/11/on-this-day-in-math-november-16.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sat, 16 Nov 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3101,15 +3101,15 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
         </item>
         <item>
             <title><![CDATA[Facing the Future of Technology and Learning]]></title>
-            <link>https://busynessgirl.com/facing-the-future-of-technology-and-learning/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/facing-the-future-of-technology-and-learning/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/wscDcq8Uj7E/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/wscDcq8Uj7E/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 07 Nov 2019 15:46:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Facing the Future of Technology and Learning]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/wscDcq8Uj7E/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/wscDcq8Uj7E/</guid>
+            <link>https://busynessgirl.com/facing-the-future-of-technology-and-learning/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/facing-the-future-of-technology-and-learning/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 07 Nov 2019 15:46:15 GMT</pubDate>
         </item>
@@ -3373,17 +3373,17 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
             <pubDate>Wed, 06 Nov 2019 01:16:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heavy Hitters Algorithm]]></title>
-            <link>http://datagenetics.com/blog/november22019/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/november22019/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Wed, 06 Nov 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New tool: twisted Hodge diamonds for complete intersections]]></title>
             <link>http://pbelmans.ncag.info/blog/2019/11/06/twisted-hodge/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/11/06/twisted-hodge/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Wed, 06 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heavy Hitters Algorithm]]></title>
+            <link>http://datagenetics.com/blog/november22019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/november22019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Wed, 06 Nov 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5055,13 +5055,6 @@ Path  152, Row  044, 2019-06-25 at...]]></title>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-72/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Fri, 25 Oct 2019 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storytelling]]></title>
-            <link>https://blog.ingo-bartling.de/2019/10/25/storytelling/</link>
-            <guid isPermaLink="false">https://blog.ingo-bartling.de/2019/10/25/storytelling/</guid>
-            <dc:creator><![CDATA[Lehrzeit]]></dc:creator>
-            <pubDate>Fri, 25 Oct 2019 07:07:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
