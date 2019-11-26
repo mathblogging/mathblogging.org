@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 Nov 2019 06:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2019 07:17:47 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 Nov 2019 06:17:18 GMT</pubDate>
+        <pubDate>Tue, 26 Nov 2019 07:17:47 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Creating and critiquing good mathematical tasks with variation theory]]></title>
+            <link>https://creativemaths.net/blog/creating-and-critiquing-good-mathematical-tasks-with-variation-theory/</link>
+            <guid isPermaLink="false">https://creativemaths.net/blog/creating-and-critiquing-good-mathematical-tasks-with-variation-theory/</guid>
+            <dc:creator><![CDATA[Dr Nic’s blog – Creative Maths]]></dc:creator>
+            <pubDate>Tue, 26 Nov 2019 06:53:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[horizontal chord diagram]]></title>
+            <link>https://ncatlab.org/nlab/show/horizontal+chord+diagram</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/horizontal+chord+diagram</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 26 Nov 2019 06:44:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Some recent progress in the Stan community]]></title>
             <link>https://statmodeling.stat.columbia.edu/2019/11/25/some-recent-progress-in-the-stan-community/</link>
@@ -43,6 +57,13 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2019/11/26/parallelising-mcmc-via-random-forests/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Mon, 25 Nov 2019 23:19:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reconfiguring 3-colorings]]></title>
+            <link>https://11011110.github.io/blog/2019/11/25/reconfiguring-3-colorings.html</link>
+            <guid isPermaLink="false">https://11011110.github.io/blog/2019/11/25/reconfiguring-3-colorings.html</guid>
+            <dc:creator><![CDATA[11011110]]></dc:creator>
+            <pubDate>Mon, 25 Nov 2019 22:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Random Permutations (Part 4)]]></title>
@@ -134,13 +155,6 @@
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/weight+systems+are+associated+graded+of+Vassiliev+invariants</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Mon, 25 Nov 2019 14:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[filtered objects -- contents]]></title>
-            <link>https://ncatlab.org/nlab/show/filtered+objects+--+contents</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/filtered+objects+--+contents</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 25 Nov 2019 14:25:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[associated graded vector space]]></title>
@@ -759,17 +773,17 @@
             <pubDate>Fri, 22 Nov 2019 09:57:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Twisted Logic? Nay!]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/11/twisted-logic-nay.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/11/twisted-logic-nay.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 22 Nov 2019 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Novembre 2019, 4e défi]]></title>
             <link>http://images.math.cnrs.fr/Novembre-2019-4e-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Novembre-2019-4e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 22 Nov 2019 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twisted Logic? Nay!]]></title>
+            <link>http://mrburkemath.blogspot.com/2019/11/twisted-logic-nay.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/11/twisted-logic-nay.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 22 Nov 2019 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1005,13 +1019,6 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2019/11/20/on-becoming-german/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Wed, 20 Nov 2019 15:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About convergence of random variables]]></title>
-            <link>http://djalil.chafai.net/blog/2019/11/20/about-convergence-of-random-variables/</link>
-            <guid isPermaLink="false">http://djalil.chafai.net/blog/2019/11/20/about-convergence-of-random-variables/</guid>
-            <dc:creator><![CDATA[Libres pensées d'un mathématicien ordinaire]]></dc:creator>
-            <pubDate>Wed, 20 Nov 2019 15:53:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What’s the evidence on the effectiveness of psychotherapy?]]></title>
@@ -1784,17 +1791,17 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
             <pubDate>Sat, 16 Nov 2019 00:17:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Recovering Source Code Puzzle]]></title>
-            <link>http://datagenetics.com/blog/november42019/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/november42019/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 16 Nov 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 16]]></title>
             <link>https://pballew.blogspot.com/2019/11/on-this-day-in-math-november-16.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2019/11/on-this-day-in-math-november-16.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 16 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recovering Source Code Puzzle]]></title>
+            <link>http://datagenetics.com/blog/november42019/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/november42019/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 16 Nov 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2715,13 +2722,6 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
             <pubDate>Mon, 11 Nov 2019 15:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Annals of mathematics : probability and statistics]]></title>
-            <link>http://djalil.chafai.net/blog/2019/11/11/annals-of-mathematics-probability-and-statistics/</link>
-            <guid isPermaLink="false">http://djalil.chafai.net/blog/2019/11/11/annals-of-mathematics-probability-and-statistics/</guid>
-            <dc:creator><![CDATA[Libres pensées d'un mathématicien ordinaire]]></dc:creator>
-            <pubDate>Mon, 11 Nov 2019 15:24:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematical killer apps]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/InBU3cznKXw/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/InBU3cznKXw/</guid>
@@ -2832,20 +2832,6 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/a-harmonic-conundrum/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 11 Nov 2019 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Probability space]]></title>
-            <link>http://djalil.chafai.net/blog/2019/11/11/probability-space/</link>
-            <guid isPermaLink="false">http://djalil.chafai.net/blog/2019/11/11/probability-space/</guid>
-            <dc:creator><![CDATA[Libres pensées d'un mathématicien ordinaire]]></dc:creator>
-            <pubDate>Mon, 11 Nov 2019 07:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[arXiv]]></title>
-            <link>http://djalil.chafai.net/blog/2019/11/11/arxiv/</link>
-            <guid isPermaLink="false">http://djalil.chafai.net/blog/2019/11/11/arxiv/</guid>
-            <dc:creator><![CDATA[Libres pensées d'un mathématicien ordinaire]]></dc:creator>
-            <pubDate>Mon, 11 Nov 2019 07:13:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5.4.11]]></title>
@@ -4798,13 +4784,6 @@ Path  152, Row  044, 2019-06-25 at...]]></title>
             <pubDate>Mon, 28 Oct 2019 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Big-Oh]]></title>
-            <link>http://www.solipsys.co.uk/new/IntroducingBigOh.html?RSS</link>
-            <guid isPermaLink="false">http://www.solipsys.co.uk/new/IntroducingBigOh.html?RSS</guid>
-            <dc:creator><![CDATA[Random Ramblings on Math, Juggling, Programming, Business, and stuff ...]]></dc:creator>
-            <pubDate>Mon, 28 Oct 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Yes, the new WeWork guy actually said "we got to drink our own Kool-aid"]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/10/yes-new-wework-guy-actually-said-we-got.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/10/yes-new-wework-guy-actually-said-we-got.html</guid>
@@ -4985,20 +4964,6 @@ Path  152, Row  044, 2019-06-25 at...]]></title>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/10/math-horror-movies-kong.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Sat, 26 Oct 2019 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mathematics for Halloween]]></title>
-            <link>https://colleenyoung.wordpress.com/2019/10/26/mathematics-for-halloween/</link>
-            <guid isPermaLink="false">https://colleenyoung.wordpress.com/2019/10/26/mathematics-for-halloween/</guid>
-            <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
-            <pubDate>Sat, 26 Oct 2019 06:34:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mathematics for Halloween]]></title>
-            <link>https://colleenyoung.wordpress.com/2019/10/26/mathematics-for-halloween/</link>
-            <guid isPermaLink="false">https://colleenyoung.wordpress.com/2019/10/26/mathematics-for-halloween/</guid>
-            <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
-            <pubDate>Sat, 26 Oct 2019 06:34:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
