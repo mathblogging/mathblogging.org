@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Nov 2019 20:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2019 21:17:32 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Nov 2019 20:17:02 GMT</pubDate>
+        <pubDate>Wed, 27 Nov 2019 21:17:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[That which we call an identity]]></title>
+            <link>https://aperiodical.com/2019/11/that-which-we-call-an-identity/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/11/that-which-we-call-an-identity/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Wed, 27 Nov 2019 20:52:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Πόσα μηδενικά;]]></title>
             <link>https://kolount.wordpress.com/2019/11/27/%25cf%2580%25cf%258c%25cf%2583%25ce%25b1-%25ce%25bc%25ce%25b7%25ce%25b4%25ce%25b5%25ce%25bd%25ce%25b9%25ce%25ba%25ce%25ac/</link>
@@ -360,13 +367,6 @@
             <pubDate>Tue, 26 Nov 2019 15:10:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[D3-D5 brane bound state]]></title>
-            <link>https://ncatlab.org/nlab/show/D3-D5+brane+bound+state</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/D3-D5+brane+bound+state</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 26 Nov 2019 14:50:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Back to categories]]></title>
             <link>https://www.logicmatters.net/2019/11/26/back-to-categories/</link>
             <guid isPermaLink="false">https://www.logicmatters.net/2019/11/26/back-to-categories/</guid>
@@ -563,13 +563,6 @@
             <pubDate>Mon, 25 Nov 2019 14:49:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[weight systems are associated graded of Vassiliev invariants]]></title>
-            <link>https://ncatlab.org/nlab/show/weight+systems+are+associated+graded+of+Vassiliev+invariants</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/weight+systems+are+associated+graded+of+Vassiliev+invariants</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 25 Nov 2019 14:42:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[11/25/19]]></title>
             <link>https://purenumbers.tumblr.com/post/189289588268</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/189289588268</guid>
@@ -645,13 +638,6 @@
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/weight+system</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Mon, 25 Nov 2019 09:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sergei Chmutov]]></title>
-            <link>https://ncatlab.org/nlab/show/Sergei+Chmutov</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Sergei+Chmutov</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 25 Nov 2019 09:28:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1959 : L'algorithme QR à la recherche de son inventeur, John Francis]]></title>
@@ -1200,17 +1186,17 @@
             <pubDate>Fri, 22 Nov 2019 08:05:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Novembre 2019, 4e défi]]></title>
-            <link>http://images.math.cnrs.fr/Novembre-2019-4e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Novembre-2019-4e-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 22 Nov 2019 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Twisted Logic? Nay!]]></title>
             <link>http://mrburkemath.blogspot.com/2019/11/twisted-logic-nay.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/11/twisted-logic-nay.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 22 Nov 2019 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Novembre 2019, 4e défi]]></title>
+            <link>http://images.math.cnrs.fr/Novembre-2019-4e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Novembre-2019-4e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 22 Nov 2019 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1924,17 +1910,17 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
             <pubDate>Mon, 18 Nov 2019 07:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.4.12]]></title>
-            <link>http://images.math.cnrs.fr/-5256.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-5256.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 18 Nov 2019 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[School Life #13]]></title>
             <link>http://mrburkemath.blogspot.com/2019/11/school-life-13.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/11/school-life-13.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Mon, 18 Nov 2019 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5.4.12]]></title>
+            <link>http://images.math.cnrs.fr/-5256.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-5256.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 18 Nov 2019 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3605,15 +3591,15 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
         </item>
         <item>
             <title><![CDATA[Facing the Future of Technology and Learning]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/wscDcq8Uj7E/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/wscDcq8Uj7E/</guid>
+            <link>https://busynessgirl.com/facing-the-future-of-technology-and-learning/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/facing-the-future-of-technology-and-learning/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 07 Nov 2019 15:46:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Facing the Future of Technology and Learning]]></title>
-            <link>https://busynessgirl.com/facing-the-future-of-technology-and-learning/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/facing-the-future-of-technology-and-learning/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/wscDcq8Uj7E/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/wscDcq8Uj7E/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Thu, 07 Nov 2019 15:46:15 GMT</pubDate>
         </item>
@@ -4381,13 +4367,6 @@ How accurate are rain forecasts? A graph showing...]]></title>
             <guid isPermaLink="false">https://alanrendall.wordpress.com/2019/11/01/cedric-villanis-autobiography/</guid>
             <dc:creator><![CDATA[Hydrobates]]></dc:creator>
             <pubDate>Fri, 01 Nov 2019 16:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carnival of Maths 175]]></title>
-            <link>https://aperiodical.com/2019/11/carnival-of-maths-175/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2019/11/carnival-of-maths-175/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Fri, 01 Nov 2019 15:09:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[data science isn’t just data wrangling and data analysis: on understanding your data]]></title>
@@ -5202,13 +5181,6 @@ Path  152, Row  044, 2019-06-25 at...]]></title>
             <guid isPermaLink="false">http://haris-aziz.blogspot.com/2019/10/fair-division-social-choice-and-welfare.html</guid>
             <dc:creator><![CDATA[Algorithmic Economics, AI & Other Topics]]></dc:creator>
             <pubDate>Sun, 27 Oct 2019 22:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machine Learning for Financial Crises]]></title>
-            <link>https://fxdiebold.blogspot.com/2019/10/machine-learning-for-financial-crises.html</link>
-            <guid isPermaLink="false">https://fxdiebold.blogspot.com/2019/10/machine-learning-for-financial-crises.html</guid>
-            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
-            <pubDate>Sun, 27 Oct 2019 20:54:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
