@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Ever have to decide between arithmetic mean or geometric mean? <a href="https://twitter.com/evelynjlamb?ref_src=twsrc%5Etfw">@evelynjlamb</a> shares &quot;ditherer’s mean,&quot; <a href="https://t.co/2be4RPd2EF">https://t.co/2be4RPd2EF</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1200875446327377920?ref_src=twsrc%5Etfw">November 30, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Inaugural Riemann Prize laureate is Terry Tao:<a href="https://t.co/flyNtQfPhn">https://t.co/flyNtQfPhn</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (#𝙄𝙢𝙥𝙚𝙖𝙘𝙝𝙉𝙤𝙬) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1199734537632337920?ref_src=twsrc%5Etfw">November 27, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -349,9 +352,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Proof… necessary &amp; sufficient? axioms, starting points, guarantees...?<a href="https://t.co/z1fWAUJQcc">https://t.co/z1fWAUJQcc</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> for the philosophically-incllined <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (#𝙄𝙢𝙥𝙚𝙖𝙘𝙝𝙉𝙤𝙬) (@SheckyR) <a href="https://twitter.com/SheckyR/status/1060981623880146945?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">What is 0^0? Great post on the role of definition in mathematics (and math classrooms) by Art Duval in the <a href="https://twitter.com/amermathsoc?ref_src=twsrc%5Etfw">@amermathsoc</a>&#39;s &quot;On Teaching and Learning&quot; blog.<a href="https://t.co/aNKx9szAt0">https://t.co/aNKx9szAt0</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1059596834023313415?ref_src=twsrc%5Etfw">November 6, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Saturday Morning Breakfast Cereal makes a hilarious point about mathematicians <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://t.co/qd3yz0OPeG">https://t.co/qd3yz0OPeG</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1055145599887163398?ref_src=twsrc%5Etfw">October 24, 2018</a></blockquote>
