@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Terry Tao tackles the Collatz conjecture:<a href="https://t.co/B2w1MHAl4e">https://t.co/B2w1MHAl4e</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1204803306750656513?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Ever have to decide between arithmetic mean or geometric mean? <a href="https://twitter.com/evelynjlamb?ref_src=twsrc%5Etfw">@evelynjlamb</a> shares &quot;ditherer’s mean,&quot; <a href="https://t.co/2be4RPd2EF">https://t.co/2be4RPd2EF</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1200875446327377920?ref_src=twsrc%5Etfw">November 30, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
