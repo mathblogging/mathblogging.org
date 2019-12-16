@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Dec 2019 18:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2019 19:16:53 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Dec 2019 18:18:17 GMT</pubDate>
+        <pubDate>Mon, 16 Dec 2019 19:16:53 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[✚ How to Make Interactive Frequency Trails with D3.js]]></title>
+            <link>https://flowingdata.com/2019/12/16/frequency-trails-d3js/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2019/12/16/frequency-trails-d3js/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Mon, 16 Dec 2019 18:15:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kirby, An Invitation to Model Theory]]></title>
             <link>https://www.logicmatters.net/2019/12/16/kirby-an-invitation-to-model-theory/</link>
@@ -934,13 +941,6 @@
             <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[le superficie algebriche: an update]]></title>
-            <link>http://pbelmans.ncag.info/blog/2019/12/12/update-to-superficie-algebriche/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/12/12/update-to-superficie-algebriche/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[sampling the mean]]></title>
             <link>https://xianblog.wordpress.com/2019/12/12/sampling-the-mean/</link>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2019/12/12/sampling-the-mean/</guid>
@@ -1368,17 +1368,17 @@
             <pubDate>Tue, 10 Dec 2019 00:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Locally finite groups and automorphisms]]></title>
-            <link>http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/</link>
-            <guid isPermaLink="false">http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 10 Dec 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 10]]></title>
             <link>https://pballew.blogspot.com/2019/12/on-this-day-in-math-december-10.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2019/12/on-this-day-in-math-december-10.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 10 Dec 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Locally finite groups and automorphisms]]></title>
+            <link>http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/</link>
+            <guid isPermaLink="false">http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 10 Dec 2019 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1732,13 +1732,6 @@
             <pubDate>Sun, 08 Dec 2019 01:59:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (96)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2019/12/08/fortnightly-links-96/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/12/08/fortnightly-links-96/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 08 Dec 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - December 8]]></title>
             <link>https://pballew.blogspot.com/2019/12/on-this-day-in-math-december-8.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2019/12/on-this-day-in-math-december-8.html</guid>
@@ -2012,6 +2005,13 @@
             <pubDate>Fri, 06 Dec 2019 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mathematical Objects: Correntator]]></title>
+            <link>https://aperiodical.com/2019/12/mathematical-objects-correntator/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/12/mathematical-objects-correntator/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Fri, 06 Dec 2019 08:03:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[All the Foreign Bodies That Got Stuck]]></title>
             <link>https://flowingdata.com/2019/12/05/all-the-foreign-bodies-that-got-stuck/</link>
             <guid isPermaLink="false">https://flowingdata.com/2019/12/05/all-the-foreign-bodies-that-got-stuck/</guid>
@@ -2101,13 +2101,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/CJD62ApEWFw/illustrations-by-marcello-crescenzi.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Thu, 05 Dec 2019 18:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[✚ Visualization Tools, Datasets, and Resources — November 2019 Roundup (The Process #67)]]></title>
-            <link>https://flowingdata.com/2019/12/05/process-67-nov-2019-roundup/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2019/12/05/process-67-nov-2019-roundup/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Thu, 05 Dec 2019 18:29:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Position at U. C. Riverside]]></title>
@@ -3118,6 +3111,13 @@
             <pubDate>Sat, 30 Nov 2019 16:32:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[#tmwyk: mathematical play and conversations with my kid]]></title>
+            <link>https://aperiodical.com/2019/11/tmwyk-mathematical-play-and-conversations-with-my-kid/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/11/tmwyk-mathematical-play-and-conversations-with-my-kid/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Sat, 30 Nov 2019 15:40:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What comes after Vixra?]]></title>
             <link>https://statmodeling.stat.columbia.edu/2019/11/30/what-comes-after-vixra/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2019/11/30/what-comes-after-vixra/</guid>
@@ -3445,6 +3445,13 @@
             <guid isPermaLink="false">http://misterpalomar.blogspot.com/2019/11/dividere-per-zero-parte-prima.html</guid>
             <dc:creator><![CDATA[Mr. Palomar]]></dc:creator>
             <pubDate>Wed, 27 Nov 2019 21:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[That which we call an identity]]></title>
+            <link>https://aperiodical.com/2019/11/that-which-we-call-an-identity/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/11/that-which-we-call-an-identity/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Wed, 27 Nov 2019 20:52:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Πόσα μηδενικά;]]></title>
@@ -3916,13 +3923,6 @@
             <pubDate>Mon, 25 Nov 2019 01:07:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (95)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2019/11/25/fortnightly-links-95/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2019/11/25/fortnightly-links-95/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In praise of Michael Bloomberg]]></title>
             <link>https://jd2718.org/2019/11/24/in-praise-of-michael-bloomberg/</link>
             <guid isPermaLink="false">https://jd2718.org/2019/11/24/in-praise-of-michael-bloomberg/</guid>
@@ -4257,6 +4257,13 @@
             <guid isPermaLink="false">http://dionisoo.blogspot.com/2019/11/mattia-santori-e-le-sardine.html</guid>
             <dc:creator><![CDATA[Blogghetto]]></dc:creator>
             <pubDate>Fri, 22 Nov 2019 09:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematical Objects: Pseudorhombicuboctahedron]]></title>
+            <link>https://aperiodical.com/2019/11/mathematical-objects-pseudorhombicuboctahedron/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2019/11/mathematical-objects-pseudorhombicuboctahedron/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Fri, 22 Nov 2019 08:05:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twisted Logic? Nay!]]></title>
@@ -4960,13 +4967,6 @@ Sarah Koch and John Hubbard, An Analytic...]]></title>
             <guid isPermaLink="false">https://www.thusspakeak.com/baron_m/2019/11/01-TwoByTwo.html</guid>
             <dc:creator><![CDATA[thus spake a.k.]]></dc:creator>
             <pubDate>Fri, 15 Nov 2019 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When should a football team attempt a two point conversion instead of an extra point? A dynamic programming approach.]]></title>
-            <link>https://punkrockor.com/2019/11/15/when-should-a-football-team-attempt-a-two-point-conversion-instead-of-an-extra-point-a-dynamic-programming-approach/</link>
-            <guid isPermaLink="false">https://punkrockor.com/2019/11/15/when-should-a-football-team-attempt-a-two-point-conversion-instead-of-an-extra-point-a-dynamic-programming-approach/</guid>
-            <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
-            <pubDate>Fri, 15 Nov 2019 18:31:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
