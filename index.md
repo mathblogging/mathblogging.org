@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“The Mystery of Mathematics”… review of Francis Su’s new book (h/t Anthony Bonato):<a href="https://t.co/KB4uanob8d">https://t.co/KB4uanob8d</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1206676804725022720?ref_src=twsrc%5Etfw">December 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Terry Tao tackles the Collatz conjecture:<a href="https://t.co/B2w1MHAl4e">https://t.co/B2w1MHAl4e</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1204803306750656513?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
