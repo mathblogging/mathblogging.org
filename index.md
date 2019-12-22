@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/3blue1brown?ref_src=twsrc%5Etfw">@3blue1brown</a> tackles Bayes&#39; Theorem:<a href="https://t.co/Wu82eLxNmu">https://t.co/Wu82eLxNmu</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/stats?src=hash&amp;ref_src=twsrc%5Etfw">#stats</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a></p>&mdash; Shecky R 💢 𝑀𝑒𝓇𝓇𝓎 𝐹𝑒𝓈𝓉𝒾𝓋𝓊𝓈! (@SheckyR) <a href="https://twitter.com/SheckyR/status/1208771371146383361?ref_src=twsrc%5Etfw">December 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">“The Mystery of Mathematics”… review of Francis Su’s new book (h/t Anthony Bonato):<a href="https://t.co/KB4uanob8d">https://t.co/KB4uanob8d</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Shecky R 💢 𝑀𝑒𝓇𝓇𝓎 𝐹𝑒𝓈𝓉𝒾𝓋𝓊𝓈! (@SheckyR) <a href="https://twitter.com/SheckyR/status/1206676804725022720?ref_src=twsrc%5Etfw">December 16, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
