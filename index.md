@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;As for you, if you’re 60 or older, you were born closer to the 1800s than today.&quot;<a href="https://t.co/3VcRksgZSv">https://t.co/3VcRksgZSv</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1213898587337179136?ref_src=twsrc%5Etfw">January 5, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/3blue1brown?ref_src=twsrc%5Etfw">@3blue1brown</a> tackles Bayes&#39; Theorem:<a href="https://t.co/Wu82eLxNmu">https://t.co/Wu82eLxNmu</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/stats?src=hash&amp;ref_src=twsrc%5Etfw">#stats</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a></p>&mdash; 𝙈𝙖𝙩𝙝-𝙁𝙧𝙤𝙡𝙞𝙘! 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1208771371146383361?ref_src=twsrc%5Etfw">December 22, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
