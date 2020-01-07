@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Theorem of Pythagoras, still leading to active research. Who&#39;d&#39;ve thunk? <a href="https://twitter.com/walkingrandomly?ref_src=twsrc%5Etfw">@walkingrandomly</a> cues you in <a href="https://t.co/EL3sYj4cs2">https://t.co/EL3sYj4cs2</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1214455279007477760?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;As for you, if you’re 60 or older, you were born closer to the 1800s than today.&quot;<a href="https://t.co/3VcRksgZSv">https://t.co/3VcRksgZSv</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1213898587337179136?ref_src=twsrc%5Etfw">January 5, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
