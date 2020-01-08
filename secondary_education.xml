@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jan 2020 09:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2020 10:18:02 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jan 2020 09:17:48 GMT</pubDate>
+        <pubDate>Wed, 08 Jan 2020 10:18:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Ask Uncle Colin: Matching sines]]></title>
+            <link>https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-matching-sines/</link>
+            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-matching-sines/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 08 Jan 2020 10:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Perchè si sparge il sale sulle strade d'inverno?]]></title>
             <link>https://ilpiccolofriedrich.blogspot.com/2020/01/perche-si-sparge-il-sale-sulle-strade.html</link>
@@ -521,16 +528,16 @@
             <pubDate>Mon, 06 Jan 2020 06:37:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.5.1]]></title>
-            <link>http://images.math.cnrs.fr/-5329.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-5329.html</guid>
+            <title><![CDATA[Topologie algébrique des variétés]]></title>
+            <link>http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 06 Jan 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Topologie algébrique des variétés]]></title>
-            <link>http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</guid>
+            <title><![CDATA[5.5.1]]></title>
+            <link>http://images.math.cnrs.fr/-5329.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-5329.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 06 Jan 2020 06:00:00 GMT</pubDate>
         </item>
@@ -752,17 +759,17 @@
             <pubDate>Sun, 05 Jan 2020 01:00:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (98)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/01/05/fortnightly-links-98/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/01/05/fortnightly-links-98/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 5]]></title>
             <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-5.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-5.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (98)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/01/05/fortnightly-links-98/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/01/05/fortnightly-links-98/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1454,6 +1461,13 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <pubDate>Wed, 01 Jan 2020 00:36:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[On This Day in Math -January 1]]></title>
+            <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-1.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-1.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introduction to linear algebra]]></title>
             <link>http://scoskey.org/course/1920s-301/</link>
             <guid isPermaLink="false">http://scoskey.org/course/1920s-301/</guid>
@@ -1465,13 +1479,6 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <link>http://scoskey.org/course/1920s-314/</link>
             <guid isPermaLink="false">http://scoskey.org/course/1920s-314/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On This Day in Math -January 1]]></title>
-            <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-1.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-1.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1629,13 +1636,6 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <pubDate>Tue, 31 Dec 2019 12:04:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glow Falls]]></title>
-            <link>http://mathtourist.blogspot.com/2019/12/glow-falls.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/glow-falls.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 31 Dec 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A look back at Retraction Watch in 2019 — and forward to our 10th anniversary]]></title>
             <link>https://retractionwatch.com/2019/12/31/a-look-back-at-retraction-watch-in-2019-and-forward-to-our-10th-anniversary/</link>
             <guid isPermaLink="false">https://retractionwatch.com/2019/12/31/a-look-back-at-retraction-watch-in-2019-and-forward-to-our-10th-anniversary/</guid>
@@ -1647,6 +1647,13 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/12/some-good-news-for-new-year.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/12/some-good-news-for-new-year.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 31 Dec 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glow Falls]]></title>
+            <link>http://mathtourist.blogspot.com/2019/12/glow-falls.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/glow-falls.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 31 Dec 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
