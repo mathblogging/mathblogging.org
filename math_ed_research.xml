@@ -4,13 +4,20 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jan 2020 18:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2020 19:17:15 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jan 2020 18:16:55 GMT</pubDate>
+        <pubDate>Tue, 14 Jan 2020 19:17:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[MIP*=RE, Connes embedding conjecture disproved]]></title>
+            <title><![CDATA[A Wind Turbine for your Home]]></title>
+            <link>http://www.math-math.com/2020/01/a-wind-turbine-for-your-home.html</link>
+            <guid isPermaLink="false">http://www.math-math.com/2020/01/a-wind-turbine-for-your-home.html</guid>
+            <dc:creator><![CDATA[Math Physics Blog]]></dc:creator>
+            <pubDate>Tue, 14 Jan 2020 18:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MIP*=RE, disproving Connes embedding conjecture.]]></title>
             <link>https://windowsontheory.org/2020/01/14/mipre-connes-embedding-conjecture-disproved/</link>
             <guid isPermaLink="false">https://windowsontheory.org/2020/01/14/mipre-connes-embedding-conjecture-disproved/</guid>
             <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
@@ -171,13 +178,6 @@
             <pubDate>Tue, 14 Jan 2020 09:46:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[holography as Koszul duality]]></title>
-            <link>https://ncatlab.org/nlab/show/holography+as+Koszul+duality</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/holography+as+Koszul+duality</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 14 Jan 2020 08:48:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Eldon Dyer]]></title>
             <link>https://ncatlab.org/nlab/show/Eldon+Dyer</link>
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/Eldon+Dyer</guid>
@@ -197,6 +197,13 @@
             <guid isPermaLink="false">http://www.moomoomathblog.com/2020/01/electron-distribution-elements-1-18.html</guid>
             <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
             <pubDate>Tue, 14 Jan 2020 04:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[function machine]]></title>
+            <link>https://ncatlab.org/nlab/show/function+machine</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/function+machine</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 14 Jan 2020 04:26:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hard to treat people are hard to treat]]></title>
@@ -1004,6 +1011,13 @@
             <pubDate>Thu, 09 Jan 2020 16:15:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[tensor product of algebras over a commutative monad]]></title>
+            <link>https://ncatlab.org/nlab/show/tensor+product+of+algebras+over+a+commutative+monad</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/tensor+product+of+algebras+over+a+commutative+monad</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 09 Jan 2020 15:53:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No, I don’t think that this study offers good evidence that installing air filters in classrooms has surprisingly large educational benefits.]]></title>
             <link>https://statmodeling.stat.columbia.edu/2020/01/09/no-i-dont-think-that-this-study-offers-good-evidence-that-installing-air-filters-in-classrooms-has-surprisingly-large-educational-benefits/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/01/09/no-i-dont-think-that-this-study-offers-good-evidence-that-installing-air-filters-in-classrooms-has-surprisingly-large-educational-benefits/</guid>
@@ -1340,17 +1354,17 @@
             <pubDate>Wed, 08 Jan 2020 06:00:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La conquête du hasard]]></title>
-            <link>http://images.math.cnrs.fr/La-conquete-du-hasard.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/La-conquete-du-hasard.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 08 Jan 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Non-abelian Group]]></title>
             <link>http://mrburkemath.blogspot.com/2020/01/non-abelian-group.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/01/non-abelian-group.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Wed, 08 Jan 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La conquête du hasard]]></title>
+            <link>http://images.math.cnrs.fr/La-conquete-du-hasard.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/La-conquete-du-hasard.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 08 Jan 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1795,16 +1809,16 @@
             <pubDate>Mon, 06 Jan 2020 06:37:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Topologie algébrique des variétés]]></title>
-            <link>http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</guid>
+            <title><![CDATA[5.5.1]]></title>
+            <link>http://images.math.cnrs.fr/-5329.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-5329.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 06 Jan 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.5.1]]></title>
-            <link>http://images.math.cnrs.fr/-5329.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-5329.html</guid>
+            <title><![CDATA[Topologie algébrique des variétés]]></title>
+            <link>http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 06 Jan 2020 06:00:00 GMT</pubDate>
         </item>
@@ -2019,13 +2033,6 @@
             <pubDate>Sun, 05 Jan 2020 01:00:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - January 5]]></title>
-            <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-5.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-5.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Spelling Bee Solver]]></title>
             <link>http://datagenetics.com/blog/january12020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january12020/index.html</guid>
@@ -2037,6 +2044,13 @@
             <link>http://pbelmans.ncag.info/blog/2020/01/05/fortnightly-links-98/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/01/05/fortnightly-links-98/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 5]]></title>
+            <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-5.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-5.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3036,17 +3050,17 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <pubDate>Mon, 30 Dec 2019 11:13:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sunset Cliffs]]></title>
-            <link>http://mathtourist.blogspot.com/2019/12/sunset-cliffs.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/sunset-cliffs.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 30 Dec 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Monday Tweets (because spending New Year's Eve on Twitter would just be wrong)]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/12/monday-tweets-because-spending-new.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/12/monday-tweets-because-spending-new.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 30 Dec 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunset Cliffs]]></title>
+            <link>http://mathtourist.blogspot.com/2019/12/sunset-cliffs.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/sunset-cliffs.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 30 Dec 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3943,17 +3957,17 @@ Path  127, Row  108, 2019-12-19 at...]]></title>
             <pubDate>Tue, 24 Dec 2019 11:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Farolito Lights]]></title>
-            <link>http://mathtourist.blogspot.com/2019/12/farolito-lights.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/farolito-lights.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 24 Dec 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Albert and Pogo's Christmas" by Walt Kelly]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/12/albert-and-pogos-christmas-by-walt-kelly.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/12/albert-and-pogos-christmas-by-walt-kelly.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 24 Dec 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farolito Lights]]></title>
+            <link>http://mathtourist.blogspot.com/2019/12/farolito-lights.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/farolito-lights.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 24 Dec 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5271,13 +5285,6 @@ Path  127, Row  108, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">https://blog.jpolak.org/?p=2173</guid>
             <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
             <pubDate>Sat, 14 Dec 2019 19:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(x, why?) Mini: Theory & Practice]]></title>
-            <link>http://mrburkemath.blogspot.com/2019/12/x-why-mini-theory-practice.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2019/12/x-why-mini-theory-practice.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Sat, 14 Dec 2019 18:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
