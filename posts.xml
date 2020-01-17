@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jan 2020 18:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2020 19:17:30 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jan 2020 18:16:54 GMT</pubDate>
+        <pubDate>Fri, 17 Jan 2020 19:17:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[MCMC, with common misunderstandings]]></title>
+            <link>https://xianblog.wordpress.com/2020/01/17/mcmc-with-common-misunderstandings/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2020/01/17/mcmc-with-common-misunderstandings/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Fri, 17 Jan 2020 19:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weighing the Cost of Brexit]]></title>
+            <link>http://www.bbc.co.uk/programmes/p080ps1t</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p080ps1t</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Fri, 17 Jan 2020 18:08:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tired of waiting for a university,  a publisher commissions its own investigation — and retracts two papers]]></title>
             <link>https://retractionwatch.com/2020/01/17/tired-of-waiting-for-a-university-a-publisher-commissions-its-own-investigation-and-retracts-two-papers/</link>
@@ -176,13 +190,6 @@
             <guid isPermaLink="false">http://borschtwithanna.blogspot.com/2020/01/proof-in-non-geometry-classroom.html</guid>
             <dc:creator><![CDATA[BorschtWithAnna]]></dc:creator>
             <pubDate>Thu, 16 Jan 2020 20:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An alternative argument for why women leave STEM: Guest post by Karen Morenz]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4522</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4522</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Thu, 16 Jan 2020 20:21:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Images by Arne Nissle]]></title>
@@ -645,13 +652,6 @@
             <guid isPermaLink="false">https://robertkaplinsky.com/californias-math-teacher-subject-matter-test-is-awful/</guid>
             <dc:creator><![CDATA[Robert Kaplinsky]]></dc:creator>
             <pubDate>Tue, 14 Jan 2020 17:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MIP*=RE]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4512</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4512</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Tue, 14 Jan 2020 16:59:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algebra 1 Word Wall]]></title>
@@ -1347,13 +1347,6 @@
             <pubDate>Sat, 11 Jan 2020 00:02:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CES 2020]]></title>
-            <link>http://datagenetics.com/blog/january22020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january22020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 11]]></title>
             <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-11.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-11.html</guid>
@@ -1364,6 +1357,13 @@
             <title><![CDATA[Random points in a sphere]]></title>
             <link>http://datagenetics.com/blog/january32020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january32020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CES 2020]]></title>
+            <link>http://datagenetics.com/blog/january22020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january22020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
         </item>
@@ -1506,13 +1506,6 @@
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-10.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 10 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BayesComp’20]]></title>
-            <link>https://xianblog.wordpress.com/2020/01/10/bayescomp20/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2020/01/10/bayescomp20/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 09 Jan 2020 23:20:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cybernetics • Requisite Variety • Selection 13]]></title>
@@ -2285,16 +2278,16 @@
             <pubDate>Mon, 06 Jan 2020 06:37:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.5.1]]></title>
-            <link>http://images.math.cnrs.fr/-5329.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-5329.html</guid>
+            <title><![CDATA[Topologie algébrique des variétés]]></title>
+            <link>http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 06 Jan 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Topologie algébrique des variétés]]></title>
-            <link>http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Topologie-algebrique-des-varietes.html</guid>
+            <title><![CDATA[5.5.1]]></title>
+            <link>http://images.math.cnrs.fr/-5329.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-5329.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 06 Jan 2020 06:00:00 GMT</pubDate>
         </item>
@@ -2516,17 +2509,17 @@
             <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spelling Bee Solver]]></title>
-            <link>http://datagenetics.com/blog/january12020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january12020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 5]]></title>
             <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-5.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-5.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spelling Bee Solver]]></title>
+            <link>http://datagenetics.com/blog/january12020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january12020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3113,9 +3106,9 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <pubDate>Wed, 01 Jan 2020 00:36:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foundations of analysis]]></title>
-            <link>http://scoskey.org/course/1920s-314/</link>
-            <guid isPermaLink="false">http://scoskey.org/course/1920s-314/</guid>
+            <title><![CDATA[Introduction to linear algebra]]></title>
+            <link>http://scoskey.org/course/1920s-301/</link>
+            <guid isPermaLink="false">http://scoskey.org/course/1920s-301/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
         </item>
@@ -3127,9 +3120,9 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introduction to linear algebra]]></title>
-            <link>http://scoskey.org/course/1920s-301/</link>
-            <guid isPermaLink="false">http://scoskey.org/course/1920s-301/</guid>
+            <title><![CDATA[Foundations of analysis]]></title>
+            <link>http://scoskey.org/course/1920s-314/</link>
+            <guid isPermaLink="false">http://scoskey.org/course/1920s-314/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
         </item>
@@ -3267,17 +3260,17 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <pubDate>Tue, 31 Dec 2019 13:00:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glow Falls]]></title>
-            <link>http://mathtourist.blogspot.com/2019/12/glow-falls.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/glow-falls.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 31 Dec 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some good news for the new year]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/12/some-good-news-for-new-year.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/12/some-good-news-for-new-year.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 31 Dec 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glow Falls]]></title>
+            <link>http://mathtourist.blogspot.com/2019/12/glow-falls.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/glow-falls.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 31 Dec 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3491,17 +3484,17 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <pubDate>Mon, 30 Dec 2019 11:13:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sunset Cliffs]]></title>
-            <link>http://mathtourist.blogspot.com/2019/12/sunset-cliffs.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/sunset-cliffs.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 30 Dec 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Monday Tweets (because spending New Year's Eve on Twitter would just be wrong)]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/12/monday-tweets-because-spending-new.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/12/monday-tweets-because-spending-new.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 30 Dec 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunset Cliffs]]></title>
+            <link>http://mathtourist.blogspot.com/2019/12/sunset-cliffs.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/sunset-cliffs.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 30 Dec 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3713,13 +3706,6 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/0u4GRuqKm2M/new-artworks-by-vicente-meavilla-segui_28.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Sat, 28 Dec 2019 16:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quantum computing motte-and-baileys]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4447</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4447</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Sat, 28 Dec 2019 16:08:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vorsätze & Ökologischer Fußabdruck (1)]]></title>
@@ -4286,17 +4272,17 @@ Path  127, Row  108, 2019-12-19 at...]]></title>
             <pubDate>Tue, 24 Dec 2019 11:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["Albert and Pogo's Christmas" by Walt Kelly]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2019/12/albert-and-pogos-christmas-by-walt-kelly.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/12/albert-and-pogos-christmas-by-walt-kelly.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 24 Dec 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Farolito Lights]]></title>
             <link>http://mathtourist.blogspot.com/2019/12/farolito-lights.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/farolito-lights.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 24 Dec 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Albert and Pogo's Christmas" by Walt Kelly]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2019/12/albert-and-pogos-christmas-by-walt-kelly.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/12/albert-and-pogos-christmas-by-walt-kelly.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 24 Dec 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4410,13 +4396,6 @@ Path  127, Row  108, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2019/12/bye-bye-bayes.html</guid>
             <dc:creator><![CDATA[Math-Frolic!]]></dc:creator>
             <pubDate>Mon, 23 Dec 2019 17:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NIPS vs. NeurIPS: guest post by Steven Pinker]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4476</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4476</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Mon, 23 Dec 2019 17:45:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meta Logic]]></title>
@@ -5019,13 +4998,6 @@ Path  127, Row  108, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">https://ocw.mit.edu/courses/mathematics/18-212-algebraic-combinatorics-spring-2019</guid>
             <dc:creator><![CDATA[MIT OpenCourseWare: New Courses in Mathematics]]></dc:creator>
             <pubDate>Thu, 19 Dec 2019 11:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quantum Dominance, Hegemony, and Superiority]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4450</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4450</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Thu, 19 Dec 2019 09:17:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theorema Magnum MCMV: Schurs Lemma]]></title>
