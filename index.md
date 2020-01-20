@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;I don’t know if any of us are truly radical because we’re working within a system that filters for compliance and narrow forms of intellect at its core.&quot; <a href="https://twitter.com/TheJLV?ref_src=twsrc%5Etfw">@TheJLV</a> , I CAN’T TELL THEM WHAT THEY’LL DO (CLASSROOMS, JUSTICE, AND LEGACIES) <a href="https://t.co/NN0aM049Ft">https://t.co/NN0aM049Ft</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1219396694049087489?ref_src=twsrc%5Etfw">January 20, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Excellent post about the future of enrichment in mathematics. <a href="https://twitter.com/hashtag/mathblogging?src=hash&amp;ref_src=twsrc%5Etfw">#mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a>  <a href="https://t.co/6XnxyZlyaG">https://t.co/6XnxyZlyaG</a></p>&mdash; Dana C. Ernst (@danaernst) <a href="https://twitter.com/danaernst/status/1216762033359572992?ref_src=twsrc%5Etfw">January 13, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -379,9 +382,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Saturday Morning Breakfast Cereal makes a hilarious point about mathematicians <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://t.co/qd3yz0OPeG">https://t.co/qd3yz0OPeG</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1055145599887163398?ref_src=twsrc%5Etfw">October 24, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;I know how to have ideas,&quot; I surmised one day, &quot;so maybe I can do math, too!&quot;<br>Tai-Danae Bradley on Learning How to Learn Math<a href="https://t.co/d6HPGdzhv0">https://t.co/d6HPGdzhv0</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1051604508097347584?ref_src=twsrc%5Etfw">October 14, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="de" dir="ltr">Schöne Kurzbiographie von George Boole im Mathematischen Monatskalender von <a href="https://twitter.com/spektrum?ref_src=twsrc%5Etfw">@spektrum</a> <a href="https://t.co/wxCDX6yneD">https://t.co/wxCDX6yneD</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1035804939468120064?ref_src=twsrc%5Etfw">September 1, 2018</a></blockquote>
