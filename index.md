@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;...the incentive structure of the math classroom is wrong. Not only is it wrong, it is sick and toxic.&quot; <a href="https://twitter.com/cheesemonkeysf?ref_src=twsrc%5Etfw">@cheesemonkeysf</a> , Rooting Out Opportunity Hoarding and Perverse Incentives in the Math Classroom<a href="https://t.co/kUfKd9S2xG">https://t.co/kUfKd9S2xG</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1219399135952015362?ref_src=twsrc%5Etfw">January 20, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;I don’t know if any of us are truly radical because we’re working within a system that filters for compliance and narrow forms of intellect at its core.&quot; <a href="https://twitter.com/TheJLV?ref_src=twsrc%5Etfw">@TheJLV</a> , I CAN’T TELL THEM WHAT THEY’LL DO (CLASSROOMS, JUSTICE, AND LEGACIES) <a href="https://t.co/NN0aM049Ft">https://t.co/NN0aM049Ft</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1219396694049087489?ref_src=twsrc%5Etfw">January 20, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
