@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jan 2020 18:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2020 19:16:47 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jan 2020 18:17:06 GMT</pubDate>
+        <pubDate>Thu, 23 Jan 2020 19:16:47 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[✚ Making the Name Guesser (The Process #73)]]></title>
+            <link>https://flowingdata.com/2020/01/23/process-73-name-guesser/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2020/01/23/process-73-name-guesser/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Thu, 23 Jan 2020 18:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Emily Gets A Huge Prize]]></title>
             <link>https://golem.ph.utexas.edu/category/2020/01/emily_gets_a_huge_prize.html</link>
@@ -1851,13 +1858,6 @@
             <pubDate>Tue, 14 Jan 2020 21:15:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Best Directors Who Were Not White Men]]></title>
-            <link>https://flowingdata.com/2020/01/14/best-directors-who-were-non-white-men/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2020/01/14/best-directors-who-were-non-white-men/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Tue, 14 Jan 2020 21:04:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ITCS 2020, Reflections]]></title>
             <link>http://mybiasedcoin.blogspot.com/2020/01/itcs-2020-reflections.html</link>
             <guid isPermaLink="false">http://mybiasedcoin.blogspot.com/2020/01/itcs-2020-reflections.html</guid>
@@ -2236,16 +2236,16 @@
             <pubDate>Mon, 13 Jan 2020 07:34:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Un drapeau en or perdu dans l'histoire]]></title>
-            <link>http://images.math.cnrs.fr/Un-drapeau-en-or-perdu-dans-l-histoire.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-drapeau-en-or-perdu-dans-l-histoire.html</guid>
+            <title><![CDATA[5.5.2]]></title>
+            <link>http://images.math.cnrs.fr/5-5-2.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-5-2.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 13 Jan 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.5.2]]></title>
-            <link>http://images.math.cnrs.fr/5-5-2.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-5-2.html</guid>
+            <title><![CDATA[Un drapeau en or perdu dans l'histoire]]></title>
+            <link>http://images.math.cnrs.fr/Un-drapeau-en-or-perdu-dans-l-histoire.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-drapeau-en-or-perdu-dans-l-histoire.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 13 Jan 2020 06:00:00 GMT</pubDate>
         </item>
@@ -2537,13 +2537,6 @@
             <pubDate>Sat, 11 Jan 2020 00:02:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CES 2020]]></title>
-            <link>http://datagenetics.com/blog/january22020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january22020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Random points in a sphere]]></title>
             <link>http://datagenetics.com/blog/january32020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/january32020/index.html</guid>
@@ -2555,6 +2548,13 @@
             <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-11.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-11.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CES 2020]]></title>
+            <link>http://datagenetics.com/blog/january22020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january22020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4107,16 +4107,16 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <pubDate>Wed, 01 Jan 2020 00:36:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foundations of analysis]]></title>
-            <link>http://scoskey.org/course/1920s-314/</link>
-            <guid isPermaLink="false">http://scoskey.org/course/1920s-314/</guid>
+            <title><![CDATA[Introduction to linear algebra]]></title>
+            <link>http://scoskey.org/course/1920s-301/</link>
+            <guid isPermaLink="false">http://scoskey.org/course/1920s-301/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introduction to linear algebra]]></title>
-            <link>http://scoskey.org/course/1920s-301/</link>
-            <guid isPermaLink="false">http://scoskey.org/course/1920s-301/</guid>
+            <title><![CDATA[Foundations of analysis]]></title>
+            <link>http://scoskey.org/course/1920s-314/</link>
+            <guid isPermaLink="false">http://scoskey.org/course/1920s-314/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
         </item>
@@ -4247,17 +4247,17 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <pubDate>Tue, 31 Dec 2019 13:00:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glow Falls]]></title>
-            <link>http://mathtourist.blogspot.com/2019/12/glow-falls.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/glow-falls.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 31 Dec 2019 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some good news for the new year]]></title>
             <link>http://observationalepidemiology.blogspot.com/2019/12/some-good-news-for-new-year.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2019/12/some-good-news-for-new-year.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 31 Dec 2019 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glow Falls]]></title>
+            <link>http://mathtourist.blogspot.com/2019/12/glow-falls.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2019/12/glow-falls.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Tue, 31 Dec 2019 11:00:00 GMT</pubDate>
         </item>
         <item>
