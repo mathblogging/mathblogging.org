@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Enjoy calculus? Have lots of free time to spend on math? Then this index of questions from Calculus VII is for you!<a href="https://t.co/0shA2k5Yhc">https://t.co/0shA2k5Yhc</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://t.co/uS4GihUMY0">pic.twitter.com/uS4GihUMY0</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1221946603705131008?ref_src=twsrc%5Etfw">January 28, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;...the incentive structure of the math classroom is wrong. Not only is it wrong, it is sick and toxic.&quot; <a href="https://twitter.com/cheesemonkeysf?ref_src=twsrc%5Etfw">@cheesemonkeysf</a> , Rooting Out Opportunity Hoarding and Perverse Incentives in the Math Classroom<a href="https://t.co/kUfKd9S2xG">https://t.co/kUfKd9S2xG</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1219399135952015362?ref_src=twsrc%5Etfw">January 20, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
