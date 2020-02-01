@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Feb 2020 01:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2020 02:17:44 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Feb 2020 01:17:13 GMT</pubDate>
+        <pubDate>Sat, 01 Feb 2020 02:17:44 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[“It’s not just that the emperor has no clothes, it’s more like the emperor has been standing in the public square for fifteen years screaming, I’m naked! I’m naked! Look at me! And the scientific establishment is like, Wow, what a beautiful outfit.”]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2020/01/31/its-not-just-that-the-emperor-has-no-clothes-its-more-like-the-emperor-has-been-standing-in-the-public-square-for-fifteen-years-screaming-im-naked-im-na/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/01/31/its-not-just-that-the-emperor-has-no-clothes-its-more-like-the-emperor-has-been-standing-in-the-public-square-for-fifteen-years-screaming-im-naked-im-na/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 01 Feb 2020 01:06:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jumps and the classification of scattered linear orders]]></title>
             <link>http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</link>
@@ -1132,6 +1139,13 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Mon, 27 Jan 2020 23:20:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Markov category]]></title>
+            <link>https://ncatlab.org/nlab/show/Markov+category</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Markov+category</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 27 Jan 2020 21:50:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Machine Learning Will Revolutionize Demand Planning]]></title>
             <link>https://blog.datasciencedojo.com/machine-learning-revolutionize-demand-planning/</link>
             <guid isPermaLink="false">https://blog.datasciencedojo.com/machine-learning-revolutionize-demand-planning/</guid>
@@ -1608,17 +1622,17 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Sat, 25 Jan 2020 02:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gambler's ruin]]></title>
-            <link>http://datagenetics.com/blog/january42020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january42020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 25 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 25]]></title>
             <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-25.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-25.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 25 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gambler's ruin]]></title>
+            <link>http://datagenetics.com/blog/january42020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january42020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 25 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2126,17 +2140,17 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Wed, 22 Jan 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La poésie des nombres]]></title>
-            <link>http://images.math.cnrs.fr/La-poesie-des-nombres.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/La-poesie-des-nombres.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 22 Jan 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Mathemagic Goes Away]]></title>
             <link>http://mrburkemath.blogspot.com/2020/01/the-mathemagic-goes-away.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/01/the-mathemagic-goes-away.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Wed, 22 Jan 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La poésie des nombres]]></title>
+            <link>http://images.math.cnrs.fr/La-poesie-des-nombres.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/La-poesie-des-nombres.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 22 Jan 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2194,6 +2208,13 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">http://blog.mathoffthegrid.com/2020/01/deep-dive-on-problem.html</guid>
             <dc:creator><![CDATA[Math off the grid]]></dc:creator>
             <pubDate>Tue, 21 Jan 2020 21:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[action monad]]></title>
+            <link>https://ncatlab.org/nlab/show/action+monad</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/action+monad</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 21 Jan 2020 21:35:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Category theory and quantum mechanics]]></title>
@@ -3428,6 +3449,13 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Tue, 14 Jan 2020 16:59:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[commutative monad]]></title>
+            <link>https://ncatlab.org/nlab/show/commutative+monad</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/commutative+monad</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 14 Jan 2020 16:31:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Algebra 1 Word Wall]]></title>
             <link>https://www.scaffoldedmath.com/2020/01/algebra-1-word-wall.html</link>
             <guid isPermaLink="false">https://www.scaffoldedmath.com/2020/01/algebra-1-word-wall.html</guid>
@@ -3939,16 +3967,16 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Sat, 11 Jan 2020 02:49:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CES 2020]]></title>
-            <link>http://datagenetics.com/blog/january22020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january22020/index.html</guid>
+            <title><![CDATA[Random points in a sphere]]></title>
+            <link>http://datagenetics.com/blog/january32020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january32020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Random points in a sphere]]></title>
-            <link>http://datagenetics.com/blog/january32020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january32020/index.html</guid>
+            <title><![CDATA[CES 2020]]></title>
+            <link>http://datagenetics.com/blog/january22020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january22020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
         </item>
@@ -4112,6 +4140,13 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">https://mathproblems123.wordpress.com/2020/01/09/percentage-of-coloured-area/</guid>
             <dc:creator><![CDATA[Beni Bogoşel's blog]]></dc:creator>
             <pubDate>Thu, 09 Jan 2020 10:33:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M-Theory and Mathematics]]></title>
+            <link>https://ncatlab.org/nlab/show/M-Theory+and+Mathematics</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/M-Theory+and+Mathematics</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 09 Jan 2020 09:38:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Fibre bundles generalise covering spaces."]]></title>
@@ -4413,13 +4448,6 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/01/tuesday-tweets.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 07 Jan 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reuben Hersh]]></title>
-            <link>https://www.ilpost.it/?blog_post=reuben-hersh</link>
-            <guid isPermaLink="false">https://www.ilpost.it/?blog_post=reuben-hersh</guid>
-            <dc:creator><![CDATA[mauriziocodogno – Il Post]]></dc:creator>
-            <pubDate>Tue, 07 Jan 2020 09:52:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finding the true potential of algorithms]]></title>
@@ -5255,13 +5283,6 @@ Path  127, Row  107, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">https://errorstatistics.com/2019/12/31/midnight-with-birnbaum-happy-new-year-2019-2/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Wed, 01 Jan 2020 02:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20 Math Puzzles to Kick Off 2020]]></title>
-            <link>http://mathmisery.com/wp/2019/12/31/20-math-puzzles-to-kick-off-2020/</link>
-            <guid isPermaLink="false">http://mathmisery.com/wp/2019/12/31/20-math-puzzles-to-kick-off-2020/</guid>
-            <dc:creator><![CDATA[Math Misery?]]></dc:creator>
-            <pubDate>Wed, 01 Jan 2020 02:06:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
