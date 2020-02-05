@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Feb 2020 14:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2020 15:16:58 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Feb 2020 14:17:06 GMT</pubDate>
+        <pubDate>Wed, 05 Feb 2020 15:16:58 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[How much of Trump’s rising approval numbers can be attributed to differential nonresponse?]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2020/02/05/trumps-rising-approval-numbers-resulting-from-differential-nonresponse/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/02/05/trumps-rising-approval-numbers-resulting-from-differential-nonresponse/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 05 Feb 2020 14:12:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A New Type of Learning Community]]></title>
             <link>https://blogs.ams.org/mathmentoringnetwork/2020/02/05/a-new-type-of-learning-community/</link>
@@ -31,13 +38,6 @@
             <pubDate>Wed, 05 Feb 2020 13:30:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The absurdity of predictive policing, part 2]]></title>
-            <link>https://junkcharts.typepad.com/numbersruleyourworld/2020/02/the-absurdity-of-predictive-policing-part-2.html</link>
-            <guid isPermaLink="false">https://junkcharts.typepad.com/numbersruleyourworld/2020/02/the-absurdity-of-predictive-policing-part-2.html</guid>
-            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
-            <pubDate>Wed, 05 Feb 2020 13:23:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A big loser of the Iowa debacle is data science]]></title>
             <link>https://junkcharts.typepad.com/numbersruleyourworld/2020/02/a-big-loser-of-the-iowa-debacle-is-data-science.html</link>
             <guid isPermaLink="false">https://junkcharts.typepad.com/numbersruleyourworld/2020/02/a-big-loser-of-the-iowa-debacle-is-data-science.html</guid>
@@ -45,17 +45,17 @@
             <pubDate>Wed, 05 Feb 2020 13:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Michigan State committee finds misconduct by museum head in celebrated mummy case]]></title>
-            <link>https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</link>
-            <guid isPermaLink="false">https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Josh Marshall on the reaction to the impeachment]]></title>
             <link>http://observationalepidemiology.blogspot.com/2020/02/josh-marshall-on-reaction-to-impeachment.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/02/josh-marshall-on-reaction-to-impeachment.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michigan State committee finds misconduct by museum head in celebrated mummy case]]></title>
+            <link>https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</link>
+            <guid isPermaLink="false">https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -458,17 +458,17 @@
             <pubDate>Mon, 03 Feb 2020 06:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.5.5]]></title>
-            <link>http://images.math.cnrs.fr/5-5-5.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-5-5.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 03 Feb 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Capacità — 1. Come conigli]]></title>
             <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/pnlfS_YoIgY/capacita-1-come-conigli.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/pnlfS_YoIgY/capacita-1-come-conigli.html</guid>
             <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
+            <pubDate>Mon, 03 Feb 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5.5.5]]></title>
+            <link>http://images.math.cnrs.fr/5-5-5.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-5-5.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 03 Feb 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -500,17 +500,17 @@
             <pubDate>Mon, 03 Feb 2020 00:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 3]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Seminar announcement: exceptional collections on partial flag varieties]]></title>
             <link>http://pbelmans.ncag.info/blog/2020/02/03/graduate-seminar/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/02/03/graduate-seminar/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 3]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1235,6 +1235,13 @@
             <pubDate>Fri, 31 Jan 2020 20:50:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[In times of paranoia, seek out data and stick to facts]]></title>
+            <link>https://junkcharts.typepad.com/numbersruleyourworld/2020/01/in-times-of-paranoia-seek-out-data-and-stick-to-facts.html</link>
+            <guid isPermaLink="false">https://junkcharts.typepad.com/numbersruleyourworld/2020/01/in-times-of-paranoia-seek-out-data-and-stick-to-facts.html</guid>
+            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
+            <pubDate>Fri, 31 Jan 2020 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[You Get What You Pay For]]></title>
             <link>http://mrburkemath.blogspot.com/2020/01/you-get-what-you-pay-for.html</link>
             <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/01/you-get-what-you-pay-for.html</guid>
@@ -1795,17 +1802,17 @@
             <pubDate>Wed, 29 Jan 2020 06:28:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[You Load 60 Sheets]]></title>
-            <link>http://mrburkemath.blogspot.com/2020/01/you-load-60-sheets.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/01/you-load-60-sheets.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Wed, 29 Jan 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Courbes périlleuses]]></title>
             <link>http://images.math.cnrs.fr/Courbes-perilleuses.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Courbes-perilleuses.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Load 60 Sheets]]></title>
+            <link>http://mrburkemath.blogspot.com/2020/01/you-load-60-sheets.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/01/you-load-60-sheets.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Wed, 29 Jan 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2476,17 +2483,17 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Sat, 25 Jan 2020 02:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gambler's ruin]]></title>
-            <link>http://datagenetics.com/blog/january42020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january42020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sat, 25 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 25]]></title>
             <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-25.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-25.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 25 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gambler's ruin]]></title>
+            <link>http://datagenetics.com/blog/january42020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january42020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 25 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5330,34 +5337,6 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">https://mikesmathpage.wordpress.com/2020/01/05/sharing-an-interesting-and-famous-population-sampling-problem-with-kids/</guid>
             <dc:creator><![CDATA[Mike's Math Page]]></dc:creator>
             <pubDate>Sun, 05 Jan 2020 16:28:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Published: The degree of Bowen factors and injective codings of diffeomorphisms]]></title>
-            <link>https://jbuzzi.wordpress.com/2020/01/05/published-the-degree-of-bowen-factors-and-injective-codings-of-diffeomorphisms/</link>
-            <guid isPermaLink="false">https://jbuzzi.wordpress.com/2020/01/05/published-the-degree-of-bowen-factors-and-injective-codings-of-diffeomorphisms/</guid>
-            <dc:creator><![CDATA[Jérôme Buzzi’s]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2020 15:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some pondering about workload and wellbeing…]]></title>
-            <link>https://ideasfortheclassroom.wordpress.com/2020/01/05/some-pondering-about-workload-and-wellbeing/</link>
-            <guid isPermaLink="false">https://ideasfortheclassroom.wordpress.com/2020/01/05/some-pondering-about-workload-and-wellbeing/</guid>
-            <dc:creator><![CDATA[ideasfortheclassroom]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2020 15:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Votes vs. $]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2020/01/05/votes-vs/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/01/05/votes-vs/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2020 14:56:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Math of Building Wealth]]></title>
-            <link>http://www.math-math.com/2020/01/a-different-way-to-grow-wealth-math.html</link>
-            <guid isPermaLink="false">http://www.math-math.com/2020/01/a-different-way-to-grow-wealth-math.html</guid>
-            <dc:creator><![CDATA[Math Physics Blog]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2020 14:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
