@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Feb 2020 03:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2020 04:17:26 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Feb 2020 03:17:15 GMT</pubDate>
+        <pubDate>Wed, 05 Feb 2020 04:17:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[US Navy WW2 Aviation Statistics Cleanup Using Power Query]]></title>
+            <link>https://www.mathscinotes.com/2020/02/us-navy-ww2-aviation-statistics-cleanup-using-power-query/</link>
+            <guid isPermaLink="false">https://www.mathscinotes.com/2020/02/us-navy-ww2-aviation-statistics-cleanup-using-power-query/</guid>
+            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
+            <pubDate>Wed, 05 Feb 2020 03:36:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clever Logarithm Problem]]></title>
+            <link>http://feedproxy.google.com/~r/mindyourdecisions/~3/exOtils-P5g/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/mindyourdecisions/~3/exOtils-P5g/</guid>
+            <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
+            <pubDate>Wed, 05 Feb 2020 03:25:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When I was asked, Who do you think is most likely to win the Democratic nomination?, this is how I responded . . .]]></title>
             <link>https://statmodeling.stat.columbia.edu/2020/02/04/when-i-was-asked-who-do-you-think-is-most-likely-to-win-the-democratic-nomination-this-is-how-i-responded/</link>
@@ -204,13 +218,6 @@
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2020/02/03/tricks-of-the-trade/</guid>
             <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
             <pubDate>Mon, 03 Feb 2020 18:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[every discrete topological space is locally connected]]></title>
-            <link>https://ncatlab.org/nlab/show/every+discrete+topological+space+is+locally+connected</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/every+discrete+topological+space+is+locally+connected</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 03 Feb 2020 18:23:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quelle responsabilité pour les algorithmes ?]]></title>
@@ -647,13 +654,6 @@
             <pubDate>Sun, 02 Feb 2020 07:01:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[internal hom of algebras over a commutative monad]]></title>
-            <link>https://ncatlab.org/nlab/show/internal+hom+of+algebras+over+a+commutative+monad</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/internal+hom+of+algebras+over+a+commutative+monad</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 02 Feb 2020 04:18:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Once Euclidean geometry was no longer considered the only possibility for describing physical space,..."]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/LYOoBzdg05Y/190598760704</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/LYOoBzdg05Y/190598760704</guid>
@@ -829,17 +829,17 @@
             <pubDate>Sat, 01 Feb 2020 01:06:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 1]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jumps and the classification of scattered linear orders]]></title>
             <link>http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</link>
             <guid isPermaLink="false">http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 1]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2553,17 +2553,17 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Fri, 24 Jan 2020 02:00:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ABS time series as tsibbles]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/7eIWxiOTJWY/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7eIWxiOTJWY/</guid>
-            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
-            <pubDate>Fri, 24 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 24]]></title>
             <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-24.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-24.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 24 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ABS time series as tsibbles]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/7eIWxiOTJWY/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7eIWxiOTJWY/</guid>
+            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Fri, 24 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4156,13 +4156,6 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Tue, 14 Jan 2020 04:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tricky Algebra Problem From Nepal Olympiad]]></title>
-            <link>http://feedproxy.google.com/~r/mindyourdecisions/~3/DREBtsTmRTs/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/mindyourdecisions/~3/DREBtsTmRTs/</guid>
-            <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
-            <pubDate>Tue, 14 Jan 2020 03:40:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hey—the New York Times is hiring an election forecaster!]]></title>
             <link>https://statmodeling.stat.columbia.edu/2020/01/13/hey-the-new-york-times-is-hiring-an-election-forecaster/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/01/13/hey-the-new-york-times-is-hiring-an-election-forecaster/</guid>
@@ -4548,16 +4541,16 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Sat, 11 Jan 2020 02:49:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CES 2020]]></title>
-            <link>http://datagenetics.com/blog/january22020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january22020/index.html</guid>
+            <title><![CDATA[Random points in a sphere]]></title>
+            <link>http://datagenetics.com/blog/january32020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january32020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Random points in a sphere]]></title>
-            <link>http://datagenetics.com/blog/january32020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/january32020/index.html</guid>
+            <title><![CDATA[CES 2020]]></title>
+            <link>http://datagenetics.com/blog/january22020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/january22020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
         </item>
@@ -4693,13 +4686,6 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">https://blog.plover.com/misc/three-corners.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Thu, 09 Jan 2020 16:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tensor product of algebras over a commutative monad]]></title>
-            <link>https://ncatlab.org/nlab/show/tensor+product+of+algebras+over+a+commutative+monad</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/tensor+product+of+algebras+over+a+commutative+monad</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 09 Jan 2020 15:53:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No, I don’t think that this study offers good evidence that installing air filters in classrooms has surprisingly large educational benefits.]]></title>
@@ -5358,13 +5344,6 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2020/01/05/further-maths-further-calculus/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 05 Jan 2020 08:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Multiplication Chart with Pictures]]></title>
-            <link>http://mathmamawrites.blogspot.com/2020/01/multiplication-chart-with-pictures.html</link>
-            <guid isPermaLink="false">http://mathmamawrites.blogspot.com/2020/01/multiplication-chart-with-pictures.html</guid>
-            <dc:creator><![CDATA[Math Mama Writes...]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2020 03:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
