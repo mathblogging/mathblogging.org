@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Points of Maximal Curvature, from Calculus VII<a href="https://t.co/kHvGaw7rP9">https://t.co/kHvGaw7rP9</a><br>Connections to <a href="https://twitter.com/hashtag/APCalc?src=hash&amp;ref_src=twsrc%5Etfw">#APCalc</a> and an open question about polynomials!<a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1226154541265162241?ref_src=twsrc%5Etfw">February 8, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Enjoy calculus? Have lots of free time to spend on math? Then this index of questions from Calculus VII is for you!<a href="https://t.co/0shA2k5Yhc">https://t.co/0shA2k5Yhc</a><a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://t.co/uS4GihUMY0">pic.twitter.com/uS4GihUMY0</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1221946603705131008?ref_src=twsrc%5Etfw">January 28, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -376,9 +379,6 @@ title: Editor's picks
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">enjoying all the different answers/approaches in this thread:<br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://t.co/0BzrrW9PZV">https://t.co/0BzrrW9PZV</a></p>&mdash; 𝙈𝙖𝙩𝙝-𝙁𝙧𝙤𝙡𝙞𝙘! 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1062295391985635328?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Proof… necessary &amp; sufficient? axioms, starting points, guarantees...?<a href="https://t.co/z1fWAUJQcc">https://t.co/z1fWAUJQcc</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> for the philosophically-incllined <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙈𝙖𝙩𝙝-𝙁𝙧𝙤𝙡𝙞𝙘! 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1060981623880146945?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Saturday Morning Breakfast Cereal makes a hilarious point about mathematicians <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://t.co/qd3yz0OPeG">https://t.co/qd3yz0OPeG</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1055145599887163398?ref_src=twsrc%5Etfw">October 24, 2018</a></blockquote>
