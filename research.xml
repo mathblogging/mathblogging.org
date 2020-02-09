@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Feb 2020 10:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2020 11:16:22 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Feb 2020 10:16:50 GMT</pubDate>
+        <pubDate>Sun, 09 Feb 2020 11:16:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -218,13 +218,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/uQOv4ezEO2M/</guid>
             <dc:creator><![CDATA[Halbtagsblog]]></dc:creator>
             <pubDate>Sat, 08 Feb 2020 10:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[matrix product state]]></title>
-            <link>https://ncatlab.org/nlab/show/matrix+product+state</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/matrix+product+state</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 08 Feb 2020 10:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[minkowski inequality proof]]></title>
@@ -458,6 +451,13 @@
             <pubDate>Fri, 07 Feb 2020 09:00:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bruhat-Tits tree]]></title>
+            <link>https://ncatlab.org/nlab/show/Bruhat-Tits+tree</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Bruhat-Tits+tree</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 07 Feb 2020 08:20:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[La Matematica è ovunque: sito dedicato alla giornata internazionale della matematica 2020]]></title>
             <link>http://maddmaths.simai.eu/news-2/la-matematica-e-ovunque/</link>
             <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/la-matematica-e-ovunque/</guid>
@@ -465,17 +465,17 @@
             <pubDate>Fri, 07 Feb 2020 06:40:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Février 2020, 1er défi]]></title>
-            <link>http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some History Notes about Alphametic Puzzles, (and some early versions of a Topology Gem)]]></title>
             <link>https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Février 2020, 1er défi]]></title>
+            <link>http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -493,17 +493,17 @@
             <pubDate>Fri, 07 Feb 2020 03:14:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 7]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Electricity demand data in tsibble format]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 7]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1354,17 +1354,17 @@
             <pubDate>Mon, 03 Feb 2020 06:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.5.5]]></title>
-            <link>http://images.math.cnrs.fr/5-5-5.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-5-5.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 03 Feb 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Capacità — 1. Come conigli]]></title>
             <link>http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/pnlfS_YoIgY/capacita-1-come-conigli.html</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/GliStudentiDiOggi/~3/pnlfS_YoIgY/capacita-1-come-conigli.html</guid>
             <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
+            <pubDate>Mon, 03 Feb 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5.5.5]]></title>
+            <link>http://images.math.cnrs.fr/5-5-5.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-5-5.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 03 Feb 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1396,17 +1396,17 @@
             <pubDate>Mon, 03 Feb 2020 00:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 3]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Seminar announcement: exceptional collections on partial flag varieties]]></title>
             <link>http://pbelmans.ncag.info/blog/2020/02/03/graduate-seminar/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/02/03/graduate-seminar/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 3]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2579,17 +2579,17 @@
             <pubDate>Wed, 29 Jan 2020 06:28:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[You Load 60 Sheets]]></title>
-            <link>http://mrburkemath.blogspot.com/2020/01/you-load-60-sheets.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/01/you-load-60-sheets.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Wed, 29 Jan 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Courbes périlleuses]]></title>
             <link>http://images.math.cnrs.fr/Courbes-perilleuses.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Courbes-perilleuses.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 29 Jan 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Load 60 Sheets]]></title>
+            <link>http://mrburkemath.blogspot.com/2020/01/you-load-60-sheets.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/01/you-load-60-sheets.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Wed, 29 Jan 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3302,17 +3302,17 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Fri, 24 Jan 2020 02:00:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ABS time series as tsibbles]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/7eIWxiOTJWY/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7eIWxiOTJWY/</guid>
-            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
-            <pubDate>Fri, 24 Jan 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - January 24]]></title>
             <link>https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-24.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/01/on-this-day-in-math-january-24.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 24 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ABS time series as tsibbles]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/7eIWxiOTJWY/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/7eIWxiOTJWY/</guid>
+            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Fri, 24 Jan 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5365,13 +5365,6 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/01/the-people-who-brought-us-greatest-ted.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 09 Jan 2020 11:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Percentage of coloured area]]></title>
-            <link>https://mathproblems123.wordpress.com/2020/01/09/percentage-of-coloured-area/</link>
-            <guid isPermaLink="false">https://mathproblems123.wordpress.com/2020/01/09/percentage-of-coloured-area/</guid>
-            <dc:creator><![CDATA[Beni Bogoşel's blog]]></dc:creator>
-            <pubDate>Thu, 09 Jan 2020 10:33:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
