@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Feb 2020 01:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2020 02:17:12 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Feb 2020 01:16:41 GMT</pubDate>
+        <pubDate>Mon, 10 Feb 2020 02:17:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The Category Theory Behind UMAP]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2020/02/10/the-category-theory-behind-umap/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2020/02/10/the-category-theory-behind-umap/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Mon, 10 Feb 2020 01:33:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On This Day in Math - February 10]]></title>
             <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-10.html</link>
@@ -197,13 +204,6 @@
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2020/02/09/bridging-the-gap/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 09 Feb 2020 07:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luca Tagliacozzo]]></title>
-            <link>https://ncatlab.org/nlab/show/Luca+Tagliacozzo</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Luca+Tagliacozzo</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 09 Feb 2020 05:40:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charlotte Kann]]></title>
@@ -598,17 +598,17 @@
             <pubDate>Fri, 07 Feb 2020 06:40:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Février 2020, 1er défi]]></title>
-            <link>http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some History Notes about Alphametic Puzzles, (and some early versions of a Topology Gem)]]></title>
             <link>https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Février 2020, 1er défi]]></title>
+            <link>http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -626,17 +626,17 @@
             <pubDate>Fri, 07 Feb 2020 03:14:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 7]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Electricity demand data in tsibble format]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 7]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1081,17 +1081,17 @@
             <pubDate>Wed, 05 Feb 2020 11:08:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Michigan State committee finds misconduct by museum head in celebrated mummy case]]></title>
-            <link>https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</link>
-            <guid isPermaLink="false">https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Josh Marshall on the reaction to the impeachment]]></title>
             <link>http://observationalepidemiology.blogspot.com/2020/02/josh-marshall-on-reaction-to-impeachment.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/02/josh-marshall-on-reaction-to-impeachment.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michigan State committee finds misconduct by museum head in celebrated mummy case]]></title>
+            <link>https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</link>
+            <guid isPermaLink="false">https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1151,17 +1151,17 @@
             <pubDate>Wed, 05 Feb 2020 02:05:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (100)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/02/05/fortnightly-links-100/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/02/05/fortnightly-links-100/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 5]]></title>
             <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-5.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-5.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (100)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/02/05/fortnightly-links-100/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/02/05/fortnightly-links-100/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1858,17 +1858,17 @@
             <pubDate>Sat, 01 Feb 2020 01:06:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 1]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jumps and the classification of scattered linear orders]]></title>
             <link>http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</link>
             <guid isPermaLink="false">http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 1]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
