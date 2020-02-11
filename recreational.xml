@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Feb 2020 20:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2020 21:16:52 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Feb 2020 20:17:19 GMT</pubDate>
+        <pubDate>Tue, 11 Feb 2020 21:16:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Collections of CPLEX Variables]]></title>
+            <link>https://orinanobworld.blogspot.com/2020/02/collections-of-cplex-variables.html</link>
+            <guid isPermaLink="false">https://orinanobworld.blogspot.com/2020/02/collections-of-cplex-variables.html</guid>
+            <dc:creator><![CDATA[OR in an OB World]]></dc:creator>
+            <pubDate>Tue, 11 Feb 2020 20:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Conference Spotlight: Cosyne 2020]]></title>
             <link>https://www.simonsfoundation.org/2020/02/11/conference-spotlight-cosyne-2020/</link>
@@ -17,7 +24,7 @@
             <pubDate>Tue, 11 Feb 2020 19:46:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dai numeri coprimi ai ritardi, passando da Eulero e da Brian May]]></title>
+            <title><![CDATA[Numeri coprimi, ritardi e stomp-stomp-clap]]></title>
             <link>http://misterpalomar.blogspot.com/2020/02/dai-numeri-coprimi-ai-ritardi-passando.html</link>
             <guid isPermaLink="false">http://misterpalomar.blogspot.com/2020/02/dai-numeri-coprimi-ai-ritardi-passando.html</guid>
             <dc:creator><![CDATA[Mr. Palomar]]></dc:creator>
@@ -941,17 +948,17 @@
             <pubDate>Fri, 07 Feb 2020 06:40:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Février 2020, 1er défi]]></title>
-            <link>http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some History Notes about Alphametic Puzzles, (and some early versions of a Topology Gem)]]></title>
             <link>https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Février 2020, 1er défi]]></title>
+            <link>http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -969,17 +976,17 @@
             <pubDate>Fri, 07 Feb 2020 03:14:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 7]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Electricity demand data in tsibble format]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 7]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1205,6 +1212,13 @@
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2020/02/modal_homotopy_type_theory_the.html</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Thu, 06 Feb 2020 10:33:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sulla strada]]></title>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/02/06/sulla-strada/</link>
+            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/02/06/sulla-strada/</guid>
+            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
+            <pubDate>Thu, 06 Feb 2020 06:00:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment distinguer une raquette de tennis d'un stylo à bille]]></title>
@@ -1886,6 +1900,13 @@
             <pubDate>Sun, 02 Feb 2020 22:58:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[02.02.2020]]></title>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/02/02/02-02-2020/</link>
+            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/02/02/02-02-2020/</guid>
+            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
+            <pubDate>Sun, 02 Feb 2020 21:23:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thinking about the people of Wuhan and China]]></title>
             <link>https://gilkalai.wordpress.com/2020/02/03/thinking-about-the-people-of-wuhan-and-china/</link>
             <guid isPermaLink="false">https://gilkalai.wordpress.com/2020/02/03/thinking-about-the-people-of-wuhan-and-china/</guid>
@@ -2138,13 +2159,6 @@
             <pubDate>Sat, 01 Feb 2020 06:48:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My paper, “P values on Trial” is out in Harvard Data Science Review]]></title>
-            <link>https://errorstatistics.com/2020/02/01/my-paper-p-values-on-trial-is-out-in-harvard-data-science-review/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2020/02/01/my-paper-p-values-on-trial-is-out-in-harvard-data-science-review/</guid>
-            <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
-            <pubDate>Sat, 01 Feb 2020 05:30:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Revue de presse janvier 2020]]></title>
             <link>http://images.math.cnrs.fr/Revue-de-presse-janvier-2020.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Revue-de-presse-janvier-2020.html</guid>
@@ -2173,17 +2187,17 @@
             <pubDate>Sat, 01 Feb 2020 01:06:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jumps and the classification of scattered linear orders]]></title>
-            <link>http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</link>
-            <guid isPermaLink="false">http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 1]]></title>
             <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jumps and the classification of scattered linear orders]]></title>
+            <link>http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</link>
+            <guid isPermaLink="false">http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2780,6 +2794,13 @@
             <guid isPermaLink="false">https://thonyc.wordpress.com/2020/01/30/mathematics-at-the-meridian/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Thu, 30 Jan 2020 07:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il problema di Gennaio (617) - Hedy Lamarr in sedicesimo]]></title>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/01/30/il-problema-di-gennaio-617-hedy-lamarr-in-sedicesimo/</link>
+            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/01/30/il-problema-di-gennaio-617-hedy-lamarr-in-sedicesimo/</guid>
+            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
+            <pubDate>Thu, 30 Jan 2020 06:00:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Surveillance Gap and Neoliberal Necropolitics]]></title>
@@ -3764,6 +3785,13 @@ Yet at its best it looks into the..."]]></title>
             <pubDate>Thu, 23 Jan 2020 06:54:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vado al massimo!]]></title>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/01/23/vado-al-massimo/</link>
+            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/01/23/vado-al-massimo/</guid>
+            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
+            <pubDate>Thu, 23 Jan 2020 06:00:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A few words about PWW #30]]></title>
             <link>https://mathlesstraveled.com/2020/01/22/a-few-words-about-pww-30/</link>
             <guid isPermaLink="false">https://mathlesstraveled.com/2020/01/22/a-few-words-about-pww-30/</guid>
@@ -4210,13 +4238,6 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">https://www.logicmatters.net/2020/01/20/programming-with-categories-again/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Mon, 20 Jan 2020 08:57:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[S. Senn: “Error point: The importance of knowing how much you don’t know” (guest post)]]></title>
-            <link>https://errorstatistics.com/2020/01/20/s-senn-error-point-the-importance-of-knowing-how-much-you-dont-know-guest-post/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2020/01/20/s-senn-error-point-the-importance-of-knowing-how-much-you-dont-know-guest-post/</guid>
-            <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
-            <pubDate>Mon, 20 Jan 2020 05:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prize nominations relevant to TCS: due on April 1]]></title>
@@ -4735,6 +4756,13 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 16 Jan 2020 07:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(Non Si Chiama) Tic-Tac-Chess]]></title>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/01/16/non-si-chiama-tic-tac-chess/</link>
+            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/01/16/non-si-chiama-tic-tac-chess/</guid>
+            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
+            <pubDate>Thu, 16 Jan 2020 06:00:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cleaning Up Coffee Production Data Using Power Query]]></title>
@@ -5351,13 +5379,6 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">https://mathlesstraveled.com/2020/01/11/the-first-six-books-of-the-elements-of-euclid-by-oliver-byrne-taschen/</guid>
             <dc:creator><![CDATA[The Math Less Traveled]]></dc:creator>
             <pubDate>Sat, 11 Jan 2020 21:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Applications to Stacks project workshop]]></title>
-            <link>https://www.math.columbia.edu/~dejong/wordpress/?p=4436</link>
-            <guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4436</guid>
-            <dc:creator><![CDATA[Stacks Project Blog]]></dc:creator>
-            <pubDate>Sat, 11 Jan 2020 20:22:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
