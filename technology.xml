@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Feb 2020 03:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2020 04:17:06 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Feb 2020 03:17:26 GMT</pubDate>
+        <pubDate>Fri, 14 Feb 2020 04:17:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Covid-19: attenti ai picchi!]]></title>
+            <link>https://www.ilpost.it/?blog_post=covid-19-attenti-ai-picchi</link>
+            <guid isPermaLink="false">https://www.ilpost.it/?blog_post=covid-19-attenti-ai-picchi</guid>
+            <dc:creator><![CDATA[mauriziocodogno – Il Post]]></dc:creator>
+            <pubDate>Fri, 14 Feb 2020 04:05:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Carnevale della Matematica  numero 1/α]]></title>
             <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/02/14/carnevale-della-matematica-numero-1/</link>
@@ -169,13 +176,6 @@
             <guid isPermaLink="false">https://flowingdata.com/2020/02/13/printing-money-at-the-speed-of-various-wages/</guid>
             <dc:creator><![CDATA[FlowingData]]></dc:creator>
             <pubDate>Thu, 13 Feb 2020 12:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ismail Zahed]]></title>
-            <link>https://ncatlab.org/nlab/show/Ismail+Zahed</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Ismail+Zahed</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 13 Feb 2020 12:12:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carlos Naya]]></title>
@@ -626,17 +626,17 @@
             <pubDate>Tue, 11 Feb 2020 00:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Who finished second?]]></title>
-            <link>http://datagenetics.com/blog/february12020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/february12020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Tue, 11 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 11]]></title>
             <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-11.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-11.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 11 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who finished second?]]></title>
+            <link>http://datagenetics.com/blog/february12020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/february12020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Tue, 11 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1403,17 +1403,17 @@
             <pubDate>Fri, 07 Feb 2020 06:40:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Some History Notes about Alphametic Puzzles, (and some early versions of a Topology Gem)]]></title>
-            <link>https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Février 2020, 1er défi]]></title>
             <link>http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Fevrier-2020-1er-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some History Notes about Alphametic Puzzles, (and some early versions of a Topology Gem)]]></title>
+            <link>https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/some-history-notes-about-alphametic.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 07 Feb 2020 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1431,17 +1431,17 @@
             <pubDate>Fri, 07 Feb 2020 03:14:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Electricity demand data in tsibble format]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</guid>
-            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
-            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 7]]></title>
             <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-7.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electricity demand data in tsibble format]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/xZtRaocvOj8/</guid>
+            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1851,17 +1851,17 @@
             <pubDate>Wed, 05 Feb 2020 11:08:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Josh Marshall on the reaction to the impeachment]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/02/josh-marshall-on-reaction-to-impeachment.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/02/josh-marshall-on-reaction-to-impeachment.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Michigan State committee finds misconduct by museum head in celebrated mummy case]]></title>
             <link>https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</link>
             <guid isPermaLink="false">https://retractionwatch.com/2020/02/05/michigan-state-committee-finds-misconduct-by-museum-head-in-celebrated-mummy-case/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Josh Marshall on the reaction to the impeachment]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/02/josh-marshall-on-reaction-to-impeachment.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/02/josh-marshall-on-reaction-to-impeachment.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2250,17 +2250,17 @@
             <pubDate>Mon, 03 Feb 2020 00:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Seminar announcement: exceptional collections on partial flag varieties]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/02/03/graduate-seminar/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/02/03/graduate-seminar/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 3]]></title>
             <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-3.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seminar announcement: exceptional collections on partial flag varieties]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/02/03/graduate-seminar/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/02/03/graduate-seminar/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2558,17 +2558,17 @@
             <pubDate>Sat, 01 Feb 2020 01:06:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 1]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jumps and the classification of scattered linear orders]]></title>
             <link>http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</link>
             <guid isPermaLink="false">http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 1]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-1.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5260,13 +5260,6 @@ Yet at its best it looks into the..."]]></title>
             <guid isPermaLink="false">http://www.moomoomathblog.com/2020/01/electron-distribution-elements-1-18.html</guid>
             <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
             <pubDate>Tue, 14 Jan 2020 04:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hey—the New York Times is hiring an election forecaster!]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2020/01/13/hey-the-new-york-times-is-hiring-an-election-forecaster/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/01/13/hey-the-new-york-times-is-hiring-an-election-forecaster/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 14 Jan 2020 03:26:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
