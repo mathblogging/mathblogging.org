@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Ben Orlin, with a li&#39;l help from his friends:<a href="https://t.co/6ar1YZ0IhU">https://t.co/6ar1YZ0IhU</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙈𝙖𝙩𝙝-𝙁𝙧𝙤𝙡𝙞𝙘! 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1232719110456446976?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">This might take more than a few minutes of your time, but it&#39;s rad.<br><br>The Map of Mathematics<a href="https://t.co/4BI3B8NfXS">https://t.co/4BI3B8NfXS</a><a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Fawn Nguyen (@fawnpnguyen) <a href="https://twitter.com/fawnpnguyen/status/1231257494275493893?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
