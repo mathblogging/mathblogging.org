@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Feb 2020 07:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2020 08:17:05 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Feb 2020 07:17:29 GMT</pubDate>
+        <pubDate>Thu, 27 Feb 2020 08:17:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[only the uniform convergence preserves continuity proof]]></title>
+            <link>https://www.bookofproofs.org/branches/only-the-uniform-convergence-preserves-continuity/proof/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/only-the-uniform-convergence-preserves-continuity/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Thu, 27 Feb 2020 07:37:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Theorema Magnum MCMXV: die Einstein-Hilbert-Wirkung]]></title>
             <link>http://scienceblogs.de/mathlog/2020/02/27/theorema-magnum-mcmxv-die-einstein-hilbert-wirkung/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theorema-magnum-mcmxv-die-einstein-hilbert-wirkung</link>
@@ -430,17 +437,17 @@
             <pubDate>Tue, 25 Feb 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stay curious, tackle projects, and learn by doing]]></title>
-            <link>https://www.simiode.org/blog/2020/02/stay-curious-tackle-projects-and-learn-by-doing</link>
-            <guid isPermaLink="false">https://www.simiode.org/blog/2020/02/stay-curious-tackle-projects-and-learn-by-doing</guid>
-            <dc:creator><![CDATA[SIMIODE - Blog]]></dc:creator>
-            <pubDate>Tue, 25 Feb 2020 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[1951 : Le calcul d'Itō]]></title>
             <link>http://images.math.cnrs.fr/1951-Le-calcul-d-It%25C5%258D.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/1951-Le-calcul-d-It%C5%8D.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 25 Feb 2020 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stay curious, tackle projects, and learn by doing]]></title>
+            <link>https://www.simiode.org/blog/2020/02/stay-curious-tackle-projects-and-learn-by-doing</link>
+            <guid isPermaLink="false">https://www.simiode.org/blog/2020/02/stay-curious-tackle-projects-and-learn-by-doing</guid>
+            <dc:creator><![CDATA[SIMIODE - Blog]]></dc:creator>
             <pubDate>Tue, 25 Feb 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1121,14 +1128,14 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <title><![CDATA[The smallest unique Cheshire Cat]]></title>
             <link>https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 22 Feb 2020 14:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The smallest unique Cheshire Cat]]></title>
             <link>https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 22 Feb 2020 14:46:00 GMT</pubDate>
         </item>
         <item>
@@ -1615,13 +1622,6 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <pubDate>Thu, 20 Feb 2020 04:25:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[hoelder inequality for integral p norms proof]]></title>
-            <link>https://www.bookofproofs.org/branches/hoelder-inequality-for-integral-p-norms/proof/</link>
-            <guid isPermaLink="false">https://www.bookofproofs.org/branches/hoelder-inequality-for-integral-p-norms/proof/</guid>
-            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
-            <pubDate>Thu, 20 Feb 2020 04:18:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Testing for a causal effect (with 2 time series)]]></title>
             <link>https://freakonometrics.hypotheses.org/59985</link>
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/59985</guid>
@@ -1790,17 +1790,17 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <pubDate>Wed, 19 Feb 2020 11:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[This is our 5,000th post — and we have a $5,000 matching pledge if you can help us for the next 5,000]]></title>
-            <link>https://retractionwatch.com/2020/02/19/this-is-our-5000th-post-and-we-have-a-5000-matching-pledge-if-you-can-help-us-for-the-next-5000/</link>
-            <guid isPermaLink="false">https://retractionwatch.com/2020/02/19/this-is-our-5000th-post-and-we-have-a-5000-matching-pledge-if-you-can-help-us-for-the-next-5000/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Wed, 19 Feb 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Didn't even get to Thiel's Cato Institute essay on women's suffrage]]></title>
             <link>http://observationalepidemiology.blogspot.com/2020/02/didnt-even-get-to-thiels-cato-institute.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/02/didnt-even-get-to-thiels-cato-institute.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 19 Feb 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is our 5,000th post — and we have a $5,000 matching pledge if you can help us for the next 5,000]]></title>
+            <link>https://retractionwatch.com/2020/02/19/this-is-our-5000th-post-and-we-have-a-5000-matching-pledge-if-you-can-help-us-for-the-next-5000/</link>
+            <guid isPermaLink="false">https://retractionwatch.com/2020/02/19/this-is-our-5000th-post-and-we-have-a-5000-matching-pledge-if-you-can-help-us-for-the-next-5000/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Wed, 19 Feb 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2203,17 +2203,17 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <pubDate>Mon, 17 Feb 2020 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[High SF housing prices are forcing Silicon Valley workers to make slightly shorter commutes]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/02/high-sf-housing-prices-are-forcing.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/02/high-sf-housing-prices-are-forcing.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 17 Feb 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Retractions could mean fewer submissions for journals, says new analysis]]></title>
             <link>https://retractionwatch.com/2020/02/17/retractions-could-mean-fewer-submissions-for-journals-says-new-analysis/</link>
             <guid isPermaLink="false">https://retractionwatch.com/2020/02/17/retractions-could-mean-fewer-submissions-for-journals-says-new-analysis/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Mon, 17 Feb 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High SF housing prices are forcing Silicon Valley workers to make slightly shorter commutes]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/02/high-sf-housing-prices-are-forcing.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/02/high-sf-housing-prices-are-forcing.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 17 Feb 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3176,17 +3176,17 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <pubDate>Tue, 11 Feb 2020 00:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 11]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-11.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-11.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 11 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Who finished second?]]></title>
             <link>http://datagenetics.com/blog/february12020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february12020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Tue, 11 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 11]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-11.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-11.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 11 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
