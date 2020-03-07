@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2020 22:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2020 23:17:22 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2020 22:17:01 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2020 23:17:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Why Is a Negative Times a Negative Positive?]]></title>
+            <link>https://davidwees.com/content/why-is-a-negative-times-a-negative-positive/</link>
+            <guid isPermaLink="false">https://davidwees.com/content/why-is-a-negative-times-a-negative-positive/</guid>
+            <dc:creator><![CDATA[The Reflective Educator]]></dc:creator>
+            <pubDate>Sat, 07 Mar 2020 22:15:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Software engineering is not a discipline.
 
@@ -117,7 +124,7 @@ Its practitioners cannot systematically make and fulfil..."]]></title>
             <pubDate>Sat, 07 Mar 2020 14:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus age-specific fatality ratio, estimated using Stan, and (attempting) to account for underreporting of cases and the time delay to death]]></title>
+            <title><![CDATA[Coronavirus age-specific fatality ratio, estimated using Stan, and (attempting) to account for underreporting of cases and the time delay to death.  Now with data and code.]]></title>
             <link>https://statmodeling.stat.columbia.edu/2020/03/07/coronavirus-age-specific-fatality-ratio-estimated-using-stan/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/03/07/coronavirus-age-specific-fatality-ratio-estimated-using-stan/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
@@ -213,13 +220,6 @@ Its practitioners cannot systematically make and fulfil..."]]></title>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2020/03/07/the-fry-building-bristol-maths/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Fri, 06 Mar 2020 23:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: the second-weirdest solution?]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4664</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4664</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Fri, 06 Mar 2020 22:21:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[$500 Million for Bloomberg Equals… What for You or Me?]]></title>
@@ -402,13 +402,6 @@ Its practitioners cannot systematically make and fulfil..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/DocMadhattan/~3/-svhzKnGRiQ/dyson-sphere.html</guid>
             <dc:creator><![CDATA[Doc Madhattan]]></dc:creator>
             <pubDate>Thu, 05 Mar 2020 22:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turn down the quantum volume]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4649</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4649</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Thu, 05 Mar 2020 21:36:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Οι δέκα εντολές του George Polya προς τον δάσκαλο των μαθηματικών!]]></title>
@@ -791,13 +784,6 @@ It is as though the..."]]></title>
             <pubDate>Wed, 04 Mar 2020 05:37:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A coronavirus poem]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4643</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4643</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Wed, 04 Mar 2020 02:13:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[QS World University Rankings rates MIT No. 1 in 12 subjects for 2020]]></title>
             <link>http://news.mit.edu/2020/qs-world-university-rankings-1-subjects-0303</link>
             <guid isPermaLink="false">http://news.mit.edu/2020/qs-world-university-rankings-1-subjects-0303</guid>
@@ -866,13 +852,6 @@ It is as though the..."]]></title>
             <guid isPermaLink="false">https://flowingdata.com/2020/03/03/r-turned-20-years-old/</guid>
             <dc:creator><![CDATA[FlowingData]]></dc:creator>
             <pubDate>Tue, 03 Mar 2020 18:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paperz]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4635</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4635</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2020 18:03:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tech Tools to Increase Engagement]]></title>
@@ -1001,17 +980,17 @@ It is as though the..."]]></title>
             <pubDate>Tue, 03 Mar 2020 11:57:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The probabilistic forecasts debate -- That's nice fellows, but I'm kinda focused on that iceberg]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/03/the-probabilistic-forecasts-debate.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/the-probabilistic-forecasts-debate.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Knotty Web]]></title>
             <link>http://mathtourist.blogspot.com/2020/03/knotty-web.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/03/knotty-web.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Tue, 03 Mar 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The probabilistic forecasts debate -- That's nice fellows, but I'm kinda focused on that iceberg]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/03/the-probabilistic-forecasts-debate.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/the-probabilistic-forecasts-debate.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 03 Mar 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1225,17 +1204,17 @@ It is as though the..."]]></title>
             <pubDate>Mon, 02 Mar 2020 12:16:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Courtyard Crafts]]></title>
-            <link>http://mathtourist.blogspot.com/2020/03/courtyard-crafts.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/03/courtyard-crafts.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Mon, 02 Mar 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some post-Saturday, pre-Tuesday thoughts]]></title>
             <link>http://observationalepidemiology.blogspot.com/2020/03/some-post-saturday-pre-tuesday-thoughts.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/some-post-saturday-pre-tuesday-thoughts.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Mon, 02 Mar 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Courtyard Crafts]]></title>
+            <link>http://mathtourist.blogspot.com/2020/03/courtyard-crafts.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/03/courtyard-crafts.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 02 Mar 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1456,17 +1435,24 @@ It is as though the..."]]></title>
             <pubDate>Sun, 01 Mar 2020 03:02:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (101)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/03/01/fortnightly-links-101/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/03/01/fortnightly-links-101/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 01 Mar 2020 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Quantum Computing Course 2: Quantum Harder]]></title>
+            <link>https://www.askamathematician.com/2020/02/a-quantum-computing-course-2-quantum-harder/</link>
+            <guid isPermaLink="false">https://www.askamathematician.com/2020/02/a-quantum-computing-course-2-quantum-harder/</guid>
+            <dc:creator><![CDATA[Ask a Mathematician / Ask a Physicist]]></dc:creator>
+            <pubDate>Sun, 01 Mar 2020 02:06:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On This Day in Math - March 1]]></title>
             <link>https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-1.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-1.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 01 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (101)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/03/01/fortnightly-links-101/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/03/01/fortnightly-links-101/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 01 Mar 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1587,13 +1573,6 @@ It is as though the..."]]></title>
             <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/02/29/eingekesselt-das-offset-rectangle/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=eingekesselt-das-offset-rectangle</guid>
             <dc:creator><![CDATA[Mathlog]]></dc:creator>
             <pubDate>Sat, 29 Feb 2020 13:57:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Freeman Dyson and Boris Tsirelson]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4626</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4626</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Sat, 29 Feb 2020 13:53:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2/29/20]]></title>
@@ -1918,17 +1897,17 @@ It is as though the..."]]></title>
             <pubDate>Fri, 28 Feb 2020 00:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - February 28]]></title>
-            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-28.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-28.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Fri, 28 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Glass Half Full?]]></title>
             <link>http://datagenetics.com/blog/february32020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/february32020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Fri, 28 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - February 28]]></title>
+            <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-28.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-28.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 28 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2072,17 +2051,17 @@ It is as though the..."]]></title>
             <pubDate>Thu, 27 Feb 2020 11:00:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Repost: We'll be coming back to this.]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/02/repost-well-be-coming-back-to-this.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/02/repost-well-be-coming-back-to-this.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 27 Feb 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Yellow]]></title>
             <link>http://mathtourist.blogspot.com/2020/02/yellow.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/02/yellow.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 27 Feb 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Repost: We'll be coming back to this.]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/02/repost-well-be-coming-back-to-this.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/02/repost-well-be-coming-back-to-this.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 27 Feb 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3071,7 +3050,7 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <title><![CDATA[The smallest unique Cheshire Cat]]></title>
             <link>https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 22 Feb 2020 14:46:00 GMT</pubDate>
         </item>
         <item>
@@ -3085,7 +3064,7 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <title><![CDATA[The smallest unique Cheshire Cat]]></title>
             <link>https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 22 Feb 2020 14:46:00 GMT</pubDate>
         </item>
         <item>
@@ -3453,17 +3432,17 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <pubDate>Thu, 20 Feb 2020 02:03:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Giving Back]]></title>
-            <link>http://datagenetics.com/blog/february22020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/february22020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Thu, 20 Feb 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - February 20]]></title>
             <link>https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-20.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/02/on-this-day-in-math-february-20.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Thu, 20 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giving Back]]></title>
+            <link>http://datagenetics.com/blog/february22020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/february22020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Thu, 20 Feb 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3782,13 +3761,6 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <pubDate>Tue, 18 Feb 2020 06:00:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My video interview with Lex Fridman at MIT about philosophy and quantum computing]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4616</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4616</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Tue, 18 Feb 2020 05:36:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["A 64 bit variable is so large that it is not generally required to represent many variables. For..."]]></title>
             <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/itoww6FAMis/190889083824</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/itoww6FAMis/190889083824</guid>
@@ -3857,13 +3829,6 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <guid isPermaLink="false">http://corner.mimuw.edu.pl/?p=1104</guid>
             <dc:creator><![CDATA[Banach's Algorithmic Corner]]></dc:creator>
             <pubDate>Mon, 17 Feb 2020 22:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My “Quantum Supremacy: Skeptics Were Wrong” 2020 World Speaking Tour]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4608</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4608</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Mon, 17 Feb 2020 20:41:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quantile Regression (home made, part 2)]]></title>
@@ -5411,27 +5376,6 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2020/02/ega1_the_language_of_schemes.html</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Thu, 06 Feb 2020 01:28:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contre la LPPR]]></title>
-            <link>https://jbuzzi.wordpress.com/2020/02/06/contre-la-lppr/</link>
-            <guid isPermaLink="false">https://jbuzzi.wordpress.com/2020/02/06/contre-la-lppr/</guid>
-            <dc:creator><![CDATA[Jérôme Buzzi’s]]></dc:creator>
-            <pubDate>Wed, 05 Feb 2020 23:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TPSE eNews #5]]></title>
-            <link>http://www.tpsemath.org/enews5</link>
-            <guid isPermaLink="false">http://www.tpsemath.org/enews5</guid>
-            <dc:creator><![CDATA[Blog]]></dc:creator>
-            <pubDate>Wed, 05 Feb 2020 22:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vakwerkplan wiskunde vwo en havo bovenbouw]]></title>
-            <link>http://wiskundeleraar.blogspot.com/2020/02/voorbeeld-vakwerkplan-wiskunde-bovenbouw.html</link>
-            <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2020/02/voorbeeld-vakwerkplan-wiskunde-bovenbouw.html</guid>
-            <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
-            <pubDate>Wed, 05 Feb 2020 22:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
