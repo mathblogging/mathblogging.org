@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2020 02:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2020 03:16:56 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2020 02:17:15 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2020 03:16:56 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[New dataset: coronavirus tracking using data from smart thermometers]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2020/03/22/new-dataset-coronavirus-tracking-using-data-from-smart-thermometers/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/03/22/new-dataset-coronavirus-tracking-using-data-from-smart-thermometers/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2020 02:34:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dot in a Box]]></title>
             <link>http://blog.mathoffthegrid.com/2020/03/dot-in-box.html</link>
@@ -318,17 +325,17 @@
             <pubDate>Sun, 22 Mar 2020 02:49:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Forecasting COVID-19]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/UuCxGOT-USQ/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/UuCxGOT-USQ/</guid>
-            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
-            <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 22]]></title>
             <link>https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-22.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-22.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forecasting COVID-19]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/UuCxGOT-USQ/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/UuCxGOT-USQ/</guid>
+            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -836,13 +843,6 @@
             <pubDate>Fri, 20 Mar 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pythagoras Revisited]]></title>
-            <link>http://datagenetics.com/blog/march72020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march72020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Fri, 20 Mar 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Surviving ... [FWIW, more Covid-19]]]></title>
             <link>https://math-frolic.blogspot.com/2020/03/surviving-fwiw-more-covid-19.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2020/03/surviving-fwiw-more-covid-19.html</guid>
@@ -1242,16 +1242,16 @@
             <pubDate>Wed, 18 Mar 2020 21:02:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Modeling Coronavirus part II -- estimating parameters]]></title>
-            <link>/2020/03/19/SIR_Estimating_parameters.html</link>
-            <guid isPermaLink="false">/2020/03/19/SIR_Estimating_parameters.html</guid>
+            <title><![CDATA[Modeling Coronavirus part III -- predictions]]></title>
+            <link>/2020/03/19/SIR_predictions.html</link>
+            <guid isPermaLink="false">/2020/03/19/SIR_predictions.html</guid>
             <dc:creator><![CDATA[David Ketcheson]]></dc:creator>
             <pubDate>Wed, 18 Mar 2020 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Modeling Coronavirus part III -- predictions]]></title>
-            <link>/2020/03/19/SIR_predictions.html</link>
-            <guid isPermaLink="false">/2020/03/19/SIR_predictions.html</guid>
+            <title><![CDATA[Modeling Coronavirus part II -- estimating parameters]]></title>
+            <link>/2020/03/19/SIR_Estimating_parameters.html</link>
+            <guid isPermaLink="false">/2020/03/19/SIR_Estimating_parameters.html</guid>
             <dc:creator><![CDATA[David Ketcheson]]></dc:creator>
             <pubDate>Wed, 18 Mar 2020 21:00:00 GMT</pubDate>
         </item>
@@ -1445,17 +1445,17 @@
             <pubDate>Wed, 18 Mar 2020 10:39:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will Covid-19 finally bring knowledge work practices into the Twenty-first Century?]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/03/will-covid-19-finally-bring-knowledge.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/will-covid-19-finally-bring-knowledge.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2020 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Journal slaps 13 expressions of concern on papers suspected of being from a paper mill]]></title>
             <link>https://retractionwatch.com/2020/03/18/journal-slaps-13-expressions-of-concern-on-papers-suspected-of-being-from-a-paper-mill/</link>
             <guid isPermaLink="false">https://retractionwatch.com/2020/03/18/journal-slaps-13-expressions-of-concern-on-papers-suspected-of-being-from-a-paper-mill/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Wed, 18 Mar 2020 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Covid-19 finally bring knowledge work practices into the Twenty-first Century?]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/03/will-covid-19-finally-bring-knowledge.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/will-covid-19-finally-bring-knowledge.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 18 Mar 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1508,17 +1508,17 @@
             <pubDate>Wed, 18 Mar 2020 00:42:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blackjack]]></title>
-            <link>http://datagenetics.com/blog/march62020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march62020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 18]]></title>
             <link>https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-18.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-18.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Wed, 18 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blackjack]]></title>
+            <link>http://datagenetics.com/blog/march62020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march62020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Wed, 18 Mar 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1795,10 +1795,10 @@
             <pubDate>Tue, 17 Mar 2020 10:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cleveland Clinic heart researchers earn two expressions of concern]]></title>
-            <link>https://retractionwatch.com/2020/03/17/cleveland-clinic-heart-researchers-earn-two-expressions-of-concern/</link>
-            <guid isPermaLink="false">https://retractionwatch.com/2020/03/17/cleveland-clinic-heart-researchers-earn-two-expressions-of-concern/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <title><![CDATA[Emergency Ask Uncle Colin: What happens now?]]></title>
+            <link>https://www.flyingcoloursmaths.co.uk/emergency-ask-uncle-colin-what-happens-now/</link>
+            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/emergency-ask-uncle-colin-what-happens-now/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Tue, 17 Mar 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1809,10 +1809,10 @@
             <pubDate>Tue, 17 Mar 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emergency Ask Uncle Colin: What happens now?]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/emergency-ask-uncle-colin-what-happens-now/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/emergency-ask-uncle-colin-what-happens-now/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <title><![CDATA[Cleveland Clinic heart researchers earn two expressions of concern]]></title>
+            <link>https://retractionwatch.com/2020/03/17/cleveland-clinic-heart-researchers-earn-two-expressions-of-concern/</link>
+            <guid isPermaLink="false">https://retractionwatch.com/2020/03/17/cleveland-clinic-heart-researchers-earn-two-expressions-of-concern/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Tue, 17 Mar 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1858,6 +1858,13 @@
             <pubDate>Tue, 17 Mar 2020 00:45:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[On This Day in Math - March 17]]></title>
+            <link>https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-17.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-17.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Tue, 17 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Toilet Paper: How long does it last?]]></title>
             <link>http://datagenetics.com/blog/march52020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/march52020/index.html</guid>
@@ -1869,13 +1876,6 @@
             <link>http://pbelmans.ncag.info/blog/2020/03/17/fortnightly-links-102/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/03/17/fortnightly-links-102/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Tue, 17 Mar 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On This Day in Math - March 17]]></title>
-            <link>https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-17.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-17.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 17 Mar 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2413,17 +2413,17 @@ This effect is used to quantify the..."]]></title>
             <pubDate>Sat, 14 Mar 2020 17:38:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Secret Mathematical Significance of Pi Day]]></title>
-            <link>http://mrburkemath.blogspot.com/2020/03/the-secret-mathematical-significance-of.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/03/the-secret-mathematical-significance-of.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Sat, 14 Mar 2020 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The mystery of Iran’s coronavirus numbers]]></title>
             <link>http://www.bbc.co.uk/programmes/p086krm0</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p086krm0</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Sat, 14 Mar 2020 17:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Secret Mathematical Significance of Pi Day]]></title>
+            <link>http://mrburkemath.blogspot.com/2020/03/the-secret-mathematical-significance-of.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/03/the-secret-mathematical-significance-of.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Sat, 14 Mar 2020 17:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2721,10 +2721,10 @@ This effect is used to quantify the..."]]></title>
             <pubDate>Fri, 13 Mar 2020 10:19:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["Cast Your Fate to the Wind"]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/03/cast-your-fate-to-wind.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/cast-your-fate-to-wind.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <title><![CDATA[Wrong, But Useful: Episode 77]]></title>
+            <link>https://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-77/</link>
+            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-77/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Fri, 13 Mar 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2735,10 +2735,10 @@ This effect is used to quantify the..."]]></title>
             <pubDate>Fri, 13 Mar 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wrong, But Useful: Episode 77]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-77/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/wrong-but-useful-episode-77/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <title><![CDATA["Cast Your Fate to the Wind"]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/03/cast-your-fate-to-wind.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/cast-your-fate-to-wind.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 13 Mar 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3113,17 +3113,17 @@ This effect is used to quantify the..."]]></title>
             <pubDate>Wed, 11 Mar 2020 10:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What if pretty much all of them were HermanCainHermanCainHermanCain? -- repost]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/03/what-if-pretty-much-all-of-them-were.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/what-if-pretty-much-all-of-them-were.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2020 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ask Uncle Colin: Long Division in Base 5]]></title>
             <link>https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-long-division-in-base-5/</link>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-long-division-in-base-5/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 11 Mar 2020 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What if pretty much all of them were HermanCainHermanCainHermanCain? -- repost]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/03/what-if-pretty-much-all-of-them-were.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/what-if-pretty-much-all-of-them-were.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 11 Mar 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3450,15 +3450,15 @@ This effect is used to quantify the..."]]></title>
         </item>
         <item>
             <title><![CDATA[GITW Relevant Graphs for your Class]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/AejRgxifBCc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/AejRgxifBCc/</guid>
+            <link>https://busynessgirl.com/gitw-relevant-graphs/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/gitw-relevant-graphs/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 09 Mar 2020 19:35:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GITW Relevant Graphs for your Class]]></title>
-            <link>https://busynessgirl.com/gitw-relevant-graphs/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/gitw-relevant-graphs/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/AejRgxifBCc/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/AejRgxifBCc/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 09 Mar 2020 19:35:13 GMT</pubDate>
         </item>
@@ -3582,17 +3582,17 @@ This effect is used to quantify the..."]]></title>
             <pubDate>Mon, 09 Mar 2020 10:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Converging narratives on Covid-19]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/03/converging-narratives-on-covid-19.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/converging-narratives-on-covid-19.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 09 Mar 2020 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A PSA on Cylinders and Prisms]]></title>
             <link>https://www.flyingcoloursmaths.co.uk/a-psa-on-cylinders-and-prisms/</link>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/a-psa-on-cylinders-and-prisms/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Mon, 09 Mar 2020 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Converging narratives on Covid-19]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/03/converging-narratives-on-covid-19.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/converging-narratives-on-covid-19.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 09 Mar 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3757,17 +3757,17 @@ This effect is used to quantify the..."]]></title>
             <pubDate>Sun, 08 Mar 2020 02:26:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Finding Nemo]]></title>
-            <link>http://datagenetics.com/blog/march22020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march22020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - March 8]]></title>
             <link>https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-8.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-8.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding Nemo]]></title>
+            <link>http://datagenetics.com/blog/march22020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march22020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4384,17 +4384,17 @@ It is as though the..."]]></title>
             <pubDate>Wed, 04 Mar 2020 00:01:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - March 4]]></title>
-            <link>https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-4.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-4.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Another Painted Cube Puzzle]]></title>
             <link>http://datagenetics.com/blog/march12020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/march12020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - March 4]]></title>
+            <link>https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-4.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/03/on-this-day-in-math-march-4.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5910,13 +5910,6 @@ It is as though the..."]]></title>
             <pubDate>Sun, 23 Feb 2020 18:40:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Holes in Bayesian Statistics]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2020/02/23/holes-in-bayesian-statistics/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/02/23/holes-in-bayesian-statistics/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sun, 23 Feb 2020 18:00:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Market Flower]]></title>
             <link>http://mathtourist.blogspot.com/2020/02/market-flower.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/02/market-flower.html</guid>
@@ -6104,14 +6097,14 @@ This mathematical fact is responsible for the Thomas..."]]></title>
             <title><![CDATA[The smallest unique Cheshire Cat]]></title>
             <link>https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 22 Feb 2020 14:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The smallest unique Cheshire Cat]]></title>
             <link>https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/02/the-smallest-unique-cheshire-cat/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 22 Feb 2020 14:46:00 GMT</pubDate>
         </item>
         <item>
