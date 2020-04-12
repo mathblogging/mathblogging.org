@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Conway was arguably an extreme point in the convex hull of all mathematicians. He will very much be missed.&quot;<br>Terry Tao, on John Conway&#39;s passing.<a href="https://t.co/cpt79wu8mu">https://t.co/cpt79wu8mu</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1249471821818273793?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">Erica Klarreich never disappoints (this time on Langlands...):<a href="https://t.co/0eirXQR40g">https://t.co/0eirXQR40g</a><br>  <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; 𝙈𝙖𝙩𝙝-𝙁𝙧𝙤𝙡𝙞𝙘! 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1247344765793902592?ref_src=twsrc%5Etfw">April 7, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
