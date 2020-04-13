@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The Legendary John Conway, from <a href="https://twitter.com/numberphile?ref_src=twsrc%5Etfw">@numberphile</a> <a href="https://t.co/avIlmZxtrd">https://t.co/avIlmZxtrd</a><br>Wonderful remembrance, including commentary from <a href="https://twitter.com/sioroberts?ref_src=twsrc%5Etfw">@sioroberts</a>, <a href="https://twitter.com/CardColm?ref_src=twsrc%5Etfw">@CardColm</a>, <a href="https://twitter.com/mathmoves?ref_src=twsrc%5Etfw">@mathmoves</a>&#39;s David Eisenbud, and Conway himself.<a href="https://twitter.com/hashtag/math?src=hash&amp;ref_src=twsrc%5Etfw">#math</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1249829023649234948?ref_src=twsrc%5Etfw">April 13, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">&quot;Conway was arguably an extreme point in the convex hull of all mathematicians. He will very much be missed.&quot;<br>Terry Tao, on John Conway&#39;s passing.<a href="https://t.co/cpt79wu8mu">https://t.co/cpt79wu8mu</a><a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a></p>&mdash; Patrick Honner (@MrHonner) <a href="https://twitter.com/MrHonner/status/1249471821818273793?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
