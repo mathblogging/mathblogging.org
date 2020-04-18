@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2020 23:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2020 00:16:54 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2020 23:16:22 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2020 00:16:54 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[finite étale morphism of anabelioids]]></title>
+            <link>https://ncatlab.org/nlab/show/finite+%25C3%25A9tale+morphism+of+anabelioids</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/finite+%C3%A9tale+morphism+of+anabelioids</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2020 23:07:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On This Day in Math - April 18]]></title>
             <link>https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-18.html</link>
@@ -3127,13 +3134,6 @@ For..."]]></title>
             <pubDate>Mon, 06 Apr 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[classical double copy]]></title>
-            <link>https://ncatlab.org/nlab/show/classical+double+copy</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/classical+double+copy</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2020 09:02:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dictionary of Mathematical Eponymy: Mrs Perkins’ Quilt]]></title>
             <link>https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-mrs-perkins-quilt/</link>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-mrs-perkins-quilt/</guid>
@@ -5579,17 +5579,17 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <pubDate>Thu, 26 Mar 2020 12:16:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[And a plot twist we should have seen coming]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/03/and-plot-twist-we-should-have-seen.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/and-plot-twist-we-should-have-seen.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 26 Mar 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Before and After]]></title>
             <link>http://mathtourist.blogspot.com/2020/03/before-and-after.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/03/before-and-after.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[And a plot twist we should have seen coming]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/03/and-plot-twist-we-should-have-seen.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/03/and-plot-twist-we-should-have-seen.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 26 Mar 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6370,17 +6370,17 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <pubDate>Sun, 22 Mar 2020 06:05:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Four-of-a-kind in the dark]]></title>
-            <link>http://datagenetics.com/blog/march82020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march82020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Forecasting COVID-19]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/UuCxGOT-USQ/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/UuCxGOT-USQ/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four-of-a-kind in the dark]]></title>
+            <link>http://datagenetics.com/blog/march82020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/march82020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -7012,20 +7012,6 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">https://creativemaths.net/blog/resources-for-pandemic/</guid>
             <dc:creator><![CDATA[Dr Nic’s blog – Creative Maths]]></dc:creator>
             <pubDate>Wed, 18 Mar 2020 02:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blackjack]]></title>
-            <link>http://datagenetics.com/blog/march62020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/march62020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COVID-19 and God’s List: assessing personal risk from the novel coronavirus]]></title>
-            <link>https://profkeithdevlin.org/2020/03/17/covid-19-and-gods-list-assessing-personal-risk-from-the-novel-coronavirus/</link>
-            <guid isPermaLink="false">https://profkeithdevlin.org/2020/03/17/covid-19-and-gods-list-assessing-personal-risk-from-the-novel-coronavirus/</guid>
-            <dc:creator><![CDATA[profkeithdevlin – THE BLOG]]></dc:creator>
-            <pubDate>Tue, 17 Mar 2020 23:52:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
