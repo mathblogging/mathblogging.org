@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2020 19:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2020 20:17:26 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2020 19:18:07 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2020 20:17:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[BiSTRO seminar]]></title>
+            <link>https://matheuscmss.wordpress.com/2020/04/22/bistro-seminar/</link>
+            <guid isPermaLink="false">https://matheuscmss.wordpress.com/2020/04/22/bistro-seminar/</guid>
+            <dc:creator><![CDATA[Disquisitiones Mathematicae]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2020 19:47:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Complexity Vidcast - Future Edition]]></title>
             <link>https://blog.computationalcomplexity.org/2020/04/complexity-vidcast-future-edition.html</link>
@@ -92,6 +99,13 @@
             <guid isPermaLink="false">https://mathwithbaddrawings.com/2020/04/22/six-strategic-games-from-a-strange-and-bottomless-mind/</guid>
             <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
             <pubDate>Wed, 22 Apr 2020 14:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BCJ relations]]></title>
+            <link>https://ncatlab.org/nlab/show/BCJ+relations</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/BCJ+relations</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2020 13:57:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[how to organize your Tupperware cabinet]]></title>
@@ -276,17 +290,17 @@
             <pubDate>Wed, 22 Apr 2020 00:50:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - April 22]]></title>
-            <link>https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-22.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-22.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2020 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Theorem That Applies to Everything from Search Algorithms to Epidemiology]]></title>
             <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/zAxxOwD7i4c/</link>
             <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/zAxxOwD7i4c/</guid>
             <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2020 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - April 22]]></title>
+            <link>https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-22.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-22.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 21 Apr 2020 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1135,17 +1149,17 @@ Anyone else’s inbox out...]]></title>
             <pubDate>Sun, 19 Apr 2020 08:47:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Big Lock-Down Math-Off, Match 5]]></title>
-            <link>https://aperiodical.com/2020/04/the-big-lock-down-math-off-match-5/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2020/04/the-big-lock-down-math-off-match-5/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Sun, 19 Apr 2020 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Puissances]]></title>
             <link>http://images.math.cnrs.fr/Puissances.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Puissances.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2020 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Big Lock-Down Math-Off, Match 5]]></title>
+            <link>https://aperiodical.com/2020/04/the-big-lock-down-math-off-match-5/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2020/04/the-big-lock-down-math-off-match-5/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sun, 19 Apr 2020 08:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4091,13 +4105,6 @@ For..."]]></title>
             <pubDate>Mon, 06 Apr 2020 12:30:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[18.600 Probability and Random Variables (MIT)]]></title>
-            <link>https://ocw.mit.edu/courses/mathematics/18-600-probability-and-random-variables-fall-2019</link>
-            <guid isPermaLink="false">https://ocw.mit.edu/courses/mathematics/18-600-probability-and-random-variables-fall-2019</guid>
-            <dc:creator><![CDATA[MIT OpenCourseWare: New Courses in Mathematics]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2020 11:49:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Luca Incurvati’s Conceptions of Set, 3]]></title>
             <link>https://www.logicmatters.net/2020/04/06/luca-incurvatis-conceptions-of-set-3/</link>
             <guid isPermaLink="false">https://www.logicmatters.net/2020/04/06/luca-incurvatis-conceptions-of-set-3/</guid>
@@ -4117,6 +4124,13 @@ For..."]]></title>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/04/hidden-squares.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Mon, 06 Apr 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[classical double copy]]></title>
+            <link>https://ncatlab.org/nlab/show/classical+double+copy</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/classical+double+copy</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2020 09:02:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dictionary of Mathematical Eponymy: Mrs Perkins’ Quilt]]></title>
@@ -4373,17 +4387,17 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <pubDate>Sun, 05 Apr 2020 02:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (103)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why log ratios are useful for tracking COVID-19]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (103)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6740,15 +6754,15 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
         </item>
         <item>
             <title><![CDATA[The Impact of Smartphones on Curriculum]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/EOmnY77J7oc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/EOmnY77J7oc/</guid>
+            <link>https://busynessgirl.com/the-impact-of-smartphones-on-curriculum/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/the-impact-of-smartphones-on-curriculum/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 23 Mar 2020 18:03:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Impact of Smartphones on Curriculum]]></title>
-            <link>https://busynessgirl.com/the-impact-of-smartphones-on-curriculum/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/the-impact-of-smartphones-on-curriculum/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/EOmnY77J7oc/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/EOmnY77J7oc/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Mon, 23 Mar 2020 18:03:31 GMT</pubDate>
         </item>
