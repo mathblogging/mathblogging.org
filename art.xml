@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2020 10:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2020 11:17:13 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2020 10:16:41 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2020 11:17:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Fermat's Natural Spirals]]></title>
+            <link>http://mathtourist.blogspot.com/2020/04/fermats-natural-spirals.html</link>
+            <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/04/fermats-natural-spirals.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Think of this as your weekend starter]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/04/think-of-this-as-your-weekend-starter.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/04/think-of-this-as-your-weekend-starter.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2020 10:30:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Il Premio Michael Brin 2020 per i sistemi dinamici viene assegnato a Corinna Ulcigrai dell’Università di Zurigo]]></title>
             <link>http://maddmaths.simai.eu/news-2/premio-brin-ulcigrai/</link>
@@ -73,9 +87,9 @@
             <pubDate>Fri, 24 Apr 2020 05:17:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Les décimales de pi]]></title>
-            <link>http://images.math.cnrs.fr/Les-decimales-de-pi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-decimales-de-pi.html</guid>
+            <title><![CDATA[Avril 2020, 4e défi]]></title>
+            <link>http://images.math.cnrs.fr/Avril-2020-4e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Avril-2020-4e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 24 Apr 2020 05:00:00 GMT</pubDate>
         </item>
@@ -87,9 +101,9 @@
             <pubDate>Fri, 24 Apr 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Avril 2020, 4e défi]]></title>
-            <link>http://images.math.cnrs.fr/Avril-2020-4e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Avril-2020-4e-defi.html</guid>
+            <title><![CDATA[Les décimales de pi]]></title>
+            <link>http://images.math.cnrs.fr/Les-decimales-de-pi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-decimales-de-pi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 24 Apr 2020 05:00:00 GMT</pubDate>
         </item>
@@ -407,13 +421,6 @@
             <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/climate-change-nuovo-modello-ridimensiona-i-rischi-dellinnalzamento-dei-mari/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Thu, 23 Apr 2020 10:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yoneda lemma for tricategories]]></title>
-            <link>https://ncatlab.org/nlab/show/Yoneda+lemma+for+tricategories</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Yoneda+lemma+for+tricategories</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2020 09:37:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Racine carrée de 2]]></title>
@@ -801,17 +808,17 @@
             <pubDate>Wed, 22 Apr 2020 00:50:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - April 22]]></title>
-            <link>https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-22.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-22.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2020 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Theorem That Applies to Everything from Search Algorithms to Epidemiology]]></title>
             <link>http://rss.sciam.com/~r/roots-of-unity/feed/~3/zAxxOwD7i4c/</link>
             <guid isPermaLink="false">http://rss.sciam.com/~r/roots-of-unity/feed/~3/zAxxOwD7i4c/</guid>
             <dc:creator><![CDATA[Scientific American Blog: Roots of Unity]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2020 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - April 22]]></title>
+            <link>https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-22.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-22.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Tue, 21 Apr 2020 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1011,17 +1018,17 @@
             <pubDate>Tue, 21 Apr 2020 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quelques rayons de soleil]]></title>
-            <link>http://images.math.cnrs.fr/Quelques-rayons-de-soleil.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Quelques-rayons-de-soleil.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2020 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Big Lock-Down Math-Off, Match 6]]></title>
             <link>https://aperiodical.com/2020/04/the-big-lock-down-math-off-match-6/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/04/the-big-lock-down-math-off-match-6/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2020 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quelques rayons de soleil]]></title>
+            <link>http://images.math.cnrs.fr/Quelques-rayons-de-soleil.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Quelques-rayons-de-soleil.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Tue, 21 Apr 2020 08:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2852,17 +2859,17 @@ For..."]]></title>
             <pubDate>Mon, 13 Apr 2020 23:01:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A reply to Tyler Cown's questions on Epidemiology]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/04/a-reply-to-tyler-cowns-questions-on.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/04/a-reply-to-tyler-cowns-questions-on.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2020 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - April 14]]></title>
             <link>https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-14.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/04/on-this-day-in-math-april-14.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2020 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A reply to Tyler Cown's questions on Epidemiology]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/04/a-reply-to-tyler-cowns-questions-on.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/04/a-reply-to-tyler-cowns-questions-on.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 13 Apr 2020 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4695,17 +4702,17 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <pubDate>Sun, 05 Apr 2020 02:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why log ratios are useful for tracking COVID-19]]></title>
-            <link>http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</guid>
-            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (103)]]></title>
             <link>http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why log ratios are useful for tracking COVID-19]]></title>
+            <link>http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</guid>
+            <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
             <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4735,13 +4742,6 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/04/how-we-got-here-repost_4.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Sat, 04 Apr 2020 22:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How we got here repost]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/04/how-we-got-here-repost.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/04/how-we-got-here-repost.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2020 22:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tangents v. Secants Part II]]></title>
@@ -5666,13 +5666,6 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">https://plus.maths.org/content/call-action-covid-19</guid>
             <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
             <pubDate>Tue, 31 Mar 2020 11:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aaron Riker at the Siege of Atlanta]]></title>
-            <link>http://mathtourist.blogspot.com/2020/03/aaron-riker-at-siege-of-atlanta.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/03/aaron-riker-at-siege-of-atlanta.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On air...]]></title>
