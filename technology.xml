@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2020 04:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2020 05:16:37 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2020 04:17:07 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2020 05:16:37 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Le sudoku arboricole]]></title>
+            <link>http://images.math.cnrs.fr/Le-sudoku-arboricole.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Le-sudoku-arboricole.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2020 05:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How I’m Teaching Remotely during this Crisis]]></title>
             <link>https://jd2718.org/2020/04/27/how-im-teaching-remotely-during-this-crisis/</link>
@@ -22,13 +29,6 @@
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2020/04/28/a-localic-approach-to-dependency-conflict-and-concurrency/</guid>
             <dc:creator><![CDATA[Azimuth]]></dc:creator>
             <pubDate>Tue, 28 Apr 2020 01:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Telematics: a revolution ?]]></title>
-            <link>https://freakonometrics.hypotheses.org/60893</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/60893</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2020 00:16:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Model Categories as a Chu Construction]]></title>
@@ -80,17 +80,17 @@
             <pubDate>Mon, 27 Apr 2020 21:42:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ways Engineers Can Fight Negativity And Stay Motivated]]></title>
-            <link>https://proofmathisbeautiful.tumblr.com/post/616584980776255488</link>
-            <guid isPermaLink="false">https://proofmathisbeautiful.tumblr.com/post/616584980776255488</guid>
-            <dc:creator><![CDATA[Proof]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2020 21:01:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lessons from COVID-19: What works online and what doesn’t]]></title>
             <link>https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</link>
             <guid isPermaLink="false">https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</guid>
             <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2020 21:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ways Engineers Can Fight Negativity And Stay Motivated]]></title>
+            <link>https://proofmathisbeautiful.tumblr.com/post/616584980776255488</link>
+            <guid isPermaLink="false">https://proofmathisbeautiful.tumblr.com/post/616584980776255488</guid>
+            <dc:creator><![CDATA[Proof]]></dc:creator>
             <pubDate>Mon, 27 Apr 2020 21:01:00 GMT</pubDate>
         </item>
         <item>
@@ -325,16 +325,16 @@
             <pubDate>Mon, 27 Apr 2020 05:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Visualiser la courbure]]></title>
-            <link>http://images.math.cnrs.fr/Visualiser-la-courbure.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Visualiser-la-courbure.html</guid>
+            <title><![CDATA[5.6.7]]></title>
+            <link>http://images.math.cnrs.fr/5-6-7.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-6-7.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 27 Apr 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.6.7]]></title>
-            <link>http://images.math.cnrs.fr/5-6-7.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-6-7.html</guid>
+            <title><![CDATA[Visualiser la courbure]]></title>
+            <link>http://images.math.cnrs.fr/Visualiser-la-courbure.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Visualiser-la-courbure.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 27 Apr 2020 05:00:00 GMT</pubDate>
         </item>
@@ -1072,13 +1072,6 @@
             <guid isPermaLink="false">https://jd2718.org/2020/04/24/resources/</guid>
             <dc:creator><![CDATA[JD2718]]></dc:creator>
             <pubDate>Fri, 24 Apr 2020 05:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Les décimales de pi]]></title>
-            <link>http://images.math.cnrs.fr/Les-decimales-de-pi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Les-decimales-de-pi.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Autour du théorème de Sprague-Grundy]]></title>
@@ -5381,17 +5374,17 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <pubDate>Sun, 05 Apr 2020 02:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (103)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why log ratios are useful for tracking COVID-19]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (103)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
