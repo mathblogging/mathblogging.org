@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2020 18:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2020 19:17:23 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2020 18:17:45 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2020 19:17:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -150,17 +150,17 @@
             <pubDate>Wed, 29 Apr 2020 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ethnic minority deaths, climate change and lockdown]]></title>
-            <link>http://www.bbc.co.uk/programmes/p08bqjmt</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p08bqjmt</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2020 08:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Si Galilée avait été un data scientist...]]></title>
             <link>http://images.math.cnrs.fr/Si-Galilee-avait-ete-un-data-scientist.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Si-Galilee-avait-ete-un-data-scientist.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2020 08:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethnic minority deaths, climate change and lockdown]]></title>
+            <link>http://www.bbc.co.uk/programmes/p08bqjmt</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p08bqjmt</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Wed, 29 Apr 2020 08:30:00 GMT</pubDate>
         </item>
         <item>
@@ -577,17 +577,17 @@
             <pubDate>Mon, 27 Apr 2020 21:42:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lessons from COVID-19: What works online and what doesn’t]]></title>
-            <link>https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</link>
-            <guid isPermaLink="false">https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</guid>
-            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2020 21:01:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ways Engineers Can Fight Negativity And Stay Motivated]]></title>
             <link>https://proofmathisbeautiful.tumblr.com/post/616584980776255488</link>
             <guid isPermaLink="false">https://proofmathisbeautiful.tumblr.com/post/616584980776255488</guid>
             <dc:creator><![CDATA[Proof]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2020 21:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lessons from COVID-19: What works online and what doesn’t]]></title>
+            <link>https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</link>
+            <guid isPermaLink="false">https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</guid>
+            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
             <pubDate>Mon, 27 Apr 2020 21:01:00 GMT</pubDate>
         </item>
         <item>
@@ -808,16 +808,16 @@
             <pubDate>Mon, 27 Apr 2020 05:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.6.7]]></title>
-            <link>http://images.math.cnrs.fr/5-6-7.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-6-7.html</guid>
+            <title><![CDATA[Visualiser la courbure]]></title>
+            <link>http://images.math.cnrs.fr/Visualiser-la-courbure.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Visualiser-la-courbure.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 27 Apr 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Visualiser la courbure]]></title>
-            <link>http://images.math.cnrs.fr/Visualiser-la-courbure.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Visualiser-la-courbure.html</guid>
+            <title><![CDATA[5.6.7]]></title>
+            <link>http://images.math.cnrs.fr/5-6-7.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-6-7.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 27 Apr 2020 05:00:00 GMT</pubDate>
         </item>
@@ -1317,6 +1317,13 @@
             <guid isPermaLink="false">https://aperiodical.com/2020/04/the-big-lock-down-math-off-match-8/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 25 Apr 2020 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[object-oriented programming]]></title>
+            <link>https://ncatlab.org/nlab/show/object-oriented+programming</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/object-oriented+programming</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2020 06:02:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mrs. Wingate]]></title>
@@ -2215,11 +2222,25 @@
             <pubDate>Tue, 21 Apr 2020 18:53:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[f1-meson]]></title>
+            <link>https://ncatlab.org/nlab/show/f1-meson</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/f1-meson</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2020 17:56:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A CP Model for Toasting Bread]]></title>
             <link>https://orinanobworld.blogspot.com/2020/04/a-cp-model-for-toasting-bread.html</link>
             <guid isPermaLink="false">https://orinanobworld.blogspot.com/2020/04/a-cp-model-for-toasting-bread.html</guid>
             <dc:creator><![CDATA[OR in an OB World]]></dc:creator>
             <pubDate>Tue, 21 Apr 2020 17:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a1-meson]]></title>
+            <link>https://ncatlab.org/nlab/show/a1-meson</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/a1-meson</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2020 17:38:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Missing deaths]]></title>
@@ -3356,20 +3377,6 @@ For..."]]></title>
             <pubDate>Thu, 16 Apr 2020 19:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Underappreciated]]></title>
-            <link>https://www.sunclipse.org/?p=2903</link>
-            <guid isPermaLink="false">https://www.sunclipse.org/?p=2903</guid>
-            <dc:creator><![CDATA[Science After Sunclipse]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2020 17:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fragmentary]]></title>
-            <link>https://www.sunclipse.org/?p=2901</link>
-            <guid isPermaLink="false">https://www.sunclipse.org/?p=2901</guid>
-            <dc:creator><![CDATA[Science After Sunclipse]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2020 17:28:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coming in 6 months or so]]></title>
             <link>https://statmodeling.stat.columbia.edu/2020/04/16/coming-in-6-months-or-so/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/04/16/coming-in-6-months-or-so/</guid>
@@ -3620,6 +3627,13 @@ For..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mathsways/sBfS/~3/-VkdvtlnL84/quiz-05-calcul-trigonometrique-ii.html</guid>
             <dc:creator><![CDATA[الرياضيات لكل المستويات]]></dc:creator>
             <pubDate>Wed, 15 Apr 2020 15:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antonio Pich]]></title>
+            <link>https://ncatlab.org/nlab/show/Antonio+Pich</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Antonio+Pich</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2020 15:22:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Remote Learning V: Putting It Together]]></title>
@@ -5428,13 +5442,6 @@ For..."]]></title>
             <pubDate>Mon, 06 Apr 2020 12:50:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[18.600 Probability and Random Variables (MIT)]]></title>
-            <link>https://ocw.mit.edu/courses/mathematics/18-600-probability-and-random-variables-fall-2019</link>
-            <guid isPermaLink="false">https://ocw.mit.edu/courses/mathematics/18-600-probability-and-random-variables-fall-2019</guid>
-            <dc:creator><![CDATA[MIT OpenCourseWare: New Courses in Mathematics]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2020 11:49:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Data structure challenge: solutions]]></title>
             <link>https://byorgey.wordpress.com/2020/04/06/data-structure-challenge-solutions/</link>
             <guid isPermaLink="false">https://byorgey.wordpress.com/2020/04/06/data-structure-challenge-solutions/</guid>
@@ -6765,20 +6772,6 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">http://tonysmaths.blogspot.com/2020/03/self-referential-humour.html</guid>
             <dc:creator><![CDATA[Tony's Maths Blog]]></dc:creator>
             <pubDate>Sun, 29 Mar 2020 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lee distance: codes and music]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/XaX1T7jNhj0/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/XaX1T7jNhj0/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2020 18:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another dispatch from Milan]]></title>
-            <link>https://lucatrevisan.wordpress.com/2020/03/29/4346/</link>
-            <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2020/03/29/4346/</guid>
-            <dc:creator><![CDATA[in   theory]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2020 18:27:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
