@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2020 09:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2020 10:17:04 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2020 09:17:28 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2020 10:17:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -262,17 +262,17 @@
             <pubDate>Wed, 29 Apr 2020 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ethnic minority deaths, climate change and lockdown]]></title>
-            <link>http://www.bbc.co.uk/programmes/p08bqjmt</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p08bqjmt</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2020 08:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Si Galilée avait été un data scientist...]]></title>
             <link>http://images.math.cnrs.fr/Si-Galilee-avait-ete-un-data-scientist.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Si-Galilee-avait-ete-un-data-scientist.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2020 08:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethnic minority deaths, climate change and lockdown]]></title>
+            <link>http://www.bbc.co.uk/programmes/p08bqjmt</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p08bqjmt</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Wed, 29 Apr 2020 08:30:00 GMT</pubDate>
         </item>
         <item>
@@ -5731,17 +5731,17 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <pubDate>Sun, 05 Apr 2020 02:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (103)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why log ratios are useful for tracking COVID-19]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/mLvypLqv2H8/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (103)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/05/fortnightly-links-103/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6737,13 +6737,6 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2020/03/blog-post_30.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Mon, 30 Mar 2020 11:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Online learning in the time of Coronavirus: Tips for students and the instructors who support them]]></title>
-            <link>https://blogs.ams.org/matheducation/2020/03/30/online-learning-in-the-time-of-coronavirus-tips-for-students-and-the-instructors-who-support-them/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/matheducation/2020/03/30/online-learning-in-the-time-of-coronavirus-tips-for-students-and-the-instructors-who-support-them/</guid>
-            <dc:creator><![CDATA[On Teaching and Learning Mathematics]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2020 10:00:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
