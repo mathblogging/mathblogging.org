@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2020 23:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2020 00:17:42 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2020 23:17:29 GMT</pubDate>
+        <pubDate>Fri, 01 May 2020 00:17:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Matt Baker’s Math Blog: A Tour]]></title>
+            <link>https://blogs.ams.org/blogonmathblogs/2020/04/30/matt-bakers-math-blog-a-tour/</link>
+            <guid isPermaLink="false">https://blogs.ams.org/blogonmathblogs/2020/04/30/matt-bakers-math-blog-a-tour/</guid>
+            <dc:creator><![CDATA[Blog on math blogs]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2020 23:51:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On This Day in Math - May 1]]></title>
             <link>https://pballew.blogspot.com/2020/05/on-this-day-in-math-may-1.html</link>
@@ -1445,17 +1452,17 @@
             <pubDate>Sun, 26 Apr 2020 05:30:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (105)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Motion Camouflage]]></title>
             <link>http://datagenetics.com/blog/april22020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/april22020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (105)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6695,20 +6702,6 @@ Path  127, Row  106, 2019-12-19 at...]]></title>
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/60635</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 31 Mar 2020 00:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Confusion about coronavirus testing and the role of testing capacity]]></title>
-            <link>http://models.street-artists.org/2020/03/30/confusion-about-coronavirus-testing-and-the-role-of-testing-capacity/</link>
-            <guid isPermaLink="false">http://models.street-artists.org/2020/03/30/confusion-about-coronavirus-testing-and-the-role-of-testing-capacity/</guid>
-            <dc:creator><![CDATA[Models Of Reality]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2020 00:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On “armchair epidemiology”]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=4695</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4695</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2020 00:05:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
