@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2020 14:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2020 15:17:58 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2020 14:17:28 GMT</pubDate>
+        <pubDate>Thu, 07 May 2020 15:17:58 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Vidcast on Conferences]]></title>
+            <link>https://blog.computationalcomplexity.org/2020/05/vidcast-on-conferences.html</link>
+            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2020/05/vidcast-on-conferences.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Thu, 07 May 2020 14:28:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XYZ particle]]></title>
             <link>https://ncatlab.org/nlab/show/XYZ+particle</link>
@@ -115,17 +122,17 @@
             <pubDate>Thu, 07 May 2020 09:14:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Big Lock-Down Math-Off, Match 14]]></title>
-            <link>https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-14/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-14/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Thu, 07 May 2020 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Modélisation d'une épidémie, partie 1]]></title>
             <link>http://images.math.cnrs.fr/Modelisation-d-une-epidemie-partie-1.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Modelisation-d-une-epidemie-partie-1.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Thu, 07 May 2020 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Big Lock-Down Math-Off, Match 14]]></title>
+            <link>https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-14/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-14/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 07 May 2020 08:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1015,13 +1022,6 @@ Chewbacca’s Activity...]]></title>
             <pubDate>Mon, 04 May 2020 10:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[D=5 Maxwell theory]]></title>
-            <link>https://ncatlab.org/nlab/show/D%253D5+Maxwell+theory</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/D%3D5+Maxwell+theory</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 04 May 2020 10:20:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jan Saxl]]></title>
             <link>https://cameroncounts.wordpress.com/2020/05/04/jan-saxl/</link>
             <guid isPermaLink="false">https://cameroncounts.wordpress.com/2020/05/04/jan-saxl/</guid>
@@ -1071,16 +1071,16 @@ Chewbacca’s Activity...]]></title>
             <pubDate>Mon, 04 May 2020 06:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.6.8]]></title>
-            <link>http://images.math.cnrs.fr/-5446.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-5446.html</guid>
+            <title><![CDATA[Lettre d'information d'Images des maths]]></title>
+            <link>http://images.math.cnrs.fr/Lettre-d-information-d-Images-des-maths.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Lettre-d-information-d-Images-des-maths.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 04 May 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lettre d'information d'Images des maths]]></title>
-            <link>http://images.math.cnrs.fr/Lettre-d-information-d-Images-des-maths.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Lettre-d-information-d-Images-des-maths.html</guid>
+            <title><![CDATA[5.6.8]]></title>
+            <link>http://images.math.cnrs.fr/-5446.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-5446.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 04 May 2020 05:00:00 GMT</pubDate>
         </item>
@@ -2140,13 +2140,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2020/04/1695.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Thu, 30 Apr 2020 04:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Quantum Computation Course 4: Full Measure]]></title>
-            <link>https://www.askamathematician.com/2020/04/a-quantum-computation-course-4-full-measure/</link>
-            <guid isPermaLink="false">https://www.askamathematician.com/2020/04/a-quantum-computation-course-4-full-measure/</guid>
-            <dc:creator><![CDATA[Ask a Mathematician / Ask a Physicist]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2020 03:21:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘What can psychology’s statistics reformers learn from the error-statistical perspective?’]]></title>
@@ -6412,13 +6405,6 @@ For..."]]></title>
             <guid isPermaLink="false">https://www.newappsblog.com/2020/04/more-on-late-capitalism-and-covid.html</guid>
             <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
             <pubDate>Mon, 06 Apr 2020 15:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Algebra 2 Problems of the Day (Jan 2020)]]></title>
-            <link>http://mrburkemath.blogspot.com/2020/04/algebra-2-problems-of-day-jan-2020_6.html</link>
-            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/04/algebra-2-problems-of-day-jan-2020_6.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2020 14:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
