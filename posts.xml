@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2020 20:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2020 21:17:34 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2020 20:17:24 GMT</pubDate>
+        <pubDate>Fri, 08 May 2020 21:17:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[It’s “a single arena-based heap allocation” . . . whatever that is!]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2020/05/08/its-a-single-arena-based-heap-allocation-whatever-that-is/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/05/08/its-a-single-arena-based-heap-allocation-whatever-that-is/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 08 May 2020 20:57:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[flat space holography]]></title>
+            <link>https://ncatlab.org/nlab/show/flat+space+holography</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/flat+space+holography</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 08 May 2020 20:53:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[baryon number]]></title>
             <link>https://ncatlab.org/nlab/show/baryon+number</link>
@@ -318,13 +332,6 @@
             <pubDate>Thu, 07 May 2020 14:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[XYZ particle]]></title>
-            <link>https://ncatlab.org/nlab/show/XYZ+particle</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/XYZ+particle</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 07 May 2020 13:53:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cleaning up 404 errors]]></title>
             <link>https://blog.plover.com/meta/php.html</link>
             <guid isPermaLink="false">https://blog.plover.com/meta/php.html</guid>
@@ -423,17 +430,17 @@
             <pubDate>Thu, 07 May 2020 09:14:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Big Lock-Down Math-Off, Match 14]]></title>
-            <link>https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-14/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-14/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Thu, 07 May 2020 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Modélisation d'une épidémie, partie 1]]></title>
             <link>http://images.math.cnrs.fr/Modelisation-d-une-epidemie-partie-1.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Modelisation-d-une-epidemie-partie-1.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Thu, 07 May 2020 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Big Lock-Down Math-Off, Match 14]]></title>
+            <link>https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-14/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-14/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Thu, 07 May 2020 08:00:00 GMT</pubDate>
         </item>
         <item>
@@ -703,17 +710,17 @@
             <pubDate>Wed, 06 May 2020 10:20:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The circle of life, publish or perish edition: Two journals retract more than 40 papers]]></title>
-            <link>https://retractionwatch.com/2020/05/06/the-circle-of-life-publish-or-perish-edition-two-journals-retract-more-than-40-papers/</link>
-            <guid isPermaLink="false">https://retractionwatch.com/2020/05/06/the-circle-of-life-publish-or-perish-edition-two-journals-retract-more-than-40-papers/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Wed, 06 May 2020 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Not like those bumbling polynomial people"]]></title>
             <link>http://observationalepidemiology.blogspot.com/2020/05/not-like-those-bumbling-polynomial.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/05/not-like-those-bumbling-polynomial.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 06 May 2020 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The circle of life, publish or perish edition: Two journals retract more than 40 papers]]></title>
+            <link>https://retractionwatch.com/2020/05/06/the-circle-of-life-publish-or-perish-edition-two-journals-retract-more-than-40-papers/</link>
+            <guid isPermaLink="false">https://retractionwatch.com/2020/05/06/the-circle-of-life-publish-or-perish-edition-two-journals-retract-more-than-40-papers/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Wed, 06 May 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5147,13 +5154,6 @@ For..."]]></title>
             <pubDate>Thu, 16 Apr 2020 17:28:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coming in 6 months or so]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2020/04/16/coming-in-6-months-or-so/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/04/16/coming-in-6-months-or-so/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2020 16:35:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Peirce’s Categories • 14]]></title>
             <link>https://inquiryintoinquiry.com/2020/04/16/peirces-categories-%25e2%2580%25a2-14/</link>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2020/04/16/peirces-categories-%e2%80%a2-14/</guid>
@@ -5796,13 +5796,6 @@ For..."]]></title>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2020/04/12/john-conway/</guid>
             <dc:creator><![CDATA[What's new]]></dc:creator>
             <pubDate>Sun, 12 Apr 2020 20:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tetraquark]]></title>
-            <link>https://ncatlab.org/nlab/show/tetraquark</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/tetraquark</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2020 19:24:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drafter's Puzzle #2]]></title>
@@ -6482,27 +6475,6 @@ For..."]]></title>
             <guid isPermaLink="false">https://www.newappsblog.com/2020/04/republicans-still-hate-voting.html</guid>
             <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
             <pubDate>Tue, 07 Apr 2020 22:56:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Road to Mercury: flyby with Earth]]></title>
-            <link>http://feedproxy.google.com/~r/DocMadhattan/~3/4R8LuDmVD6g/road-to-mercury-flyby-with-earth.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/DocMadhattan/~3/4R8LuDmVD6g/road-to-mercury-flyby-with-earth.html</guid>
-            <dc:creator><![CDATA[Doc Madhattan]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2020 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Auf Widersehen Wisconsin, Hallo Deutschland!]]></title>
-            <link>https://punkrockor.com/2020/04/07/auf-widersehen-wisconsin-hallo-deutschland/</link>
-            <guid isPermaLink="false">https://punkrockor.com/2020/04/07/auf-widersehen-wisconsin-hallo-deutschland/</guid>
-            <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2020 20:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Folded letters and uniformly bounded function sequences]]></title>
-            <link>https://calculus7.org/2020/04/07/folded-letters-and-uniformly-bounded-function-sequences/</link>
-            <guid isPermaLink="false">https://calculus7.org/2020/04/07/folded-letters-and-uniformly-bounded-function-sequences/</guid>
-            <dc:creator><![CDATA[Calculus VII]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2020 20:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
