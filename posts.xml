@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2020 22:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2020 23:17:10 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2020 22:16:51 GMT</pubDate>
+        <pubDate>Wed, 13 May 2020 23:17:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[sequential neural likelihood estimation as ABC substitute]]></title>
+            <link>https://xianblog.wordpress.com/2020/05/14/sequential-neural-likelihood-estimation-as-abc-substitute/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2020/05/14/sequential-neural-likelihood-estimation-as-abc-substitute/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Wed, 13 May 2020 22:20:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[COVID19 pandemic control: balancing detection policy and lockdown intervention under ICU sustainability]]></title>
             <link>https://freakonometrics.hypotheses.org/60931</link>
@@ -458,13 +465,6 @@
             <pubDate>Tue, 12 May 2020 13:16:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[To Win This Numbers Game, Learn to Avoid Making Math Patterns — Quanta Magazine]]></title>
-            <link>http://MrHonner.com/archives/19827</link>
-            <guid isPermaLink="false">http://MrHonner.com/archives/19827</guid>
-            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
-            <pubDate>Tue, 12 May 2020 13:00:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5/12/20]]></title>
             <link>https://purenumbers.tumblr.com/post/617911893977399296</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/617911893977399296</guid>
@@ -843,17 +843,17 @@
             <pubDate>Mon, 11 May 2020 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Big Lock-Down Math-Off, Match 16]]></title>
-            <link>https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-16/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-16/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
-            <pubDate>Mon, 11 May 2020 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Modélisation d'une épidémie, partie 1]]></title>
             <link>http://images.math.cnrs.fr/Modelisation-d-une-epidemie-partie-1.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Modelisation-d-une-epidemie-partie-1.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 11 May 2020 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Big Lock-Down Math-Off, Match 16]]></title>
+            <link>https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-16/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-16/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Mon, 11 May 2020 08:00:00 GMT</pubDate>
         </item>
         <item>
@@ -892,16 +892,16 @@
             <pubDate>Mon, 11 May 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hillel Furstenberg et Grigori Margulis reçoivent le prix Abel 2020]]></title>
-            <link>http://images.math.cnrs.fr/Hillel-Furstenberg-et-Grigori-Margulis-recoivent-le-prix-Abel-2020.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Hillel-Furstenberg-et-Grigori-Margulis-recoivent-le-prix-Abel-2020.html</guid>
+            <title><![CDATA[5.6.9]]></title>
+            <link>http://images.math.cnrs.fr/5-6-9.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-6-9.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 11 May 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.6.9]]></title>
-            <link>http://images.math.cnrs.fr/5-6-9.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-6-9.html</guid>
+            <title><![CDATA[Hillel Furstenberg et Grigori Margulis reçoivent le prix Abel 2020]]></title>
+            <link>http://images.math.cnrs.fr/Hillel-Furstenberg-et-Grigori-Margulis-recoivent-le-prix-Abel-2020.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Hillel-Furstenberg-et-Grigori-Margulis-recoivent-le-prix-Abel-2020.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 11 May 2020 05:00:00 GMT</pubDate>
         </item>
@@ -1144,13 +1144,6 @@
             <pubDate>Sun, 10 May 2020 13:17:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Remote Learning — Week 7]]></title>
-            <link>http://MrHonner.com/archives/19821</link>
-            <guid isPermaLink="false">http://MrHonner.com/archives/19821</guid>
-            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
-            <pubDate>Sun, 10 May 2020 13:00:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5/10/20]]></title>
             <link>https://purenumbers.tumblr.com/post/617730683230633984</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/617730683230633984</guid>
@@ -1163,13 +1156,6 @@
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/05/divide-and-conquer-multiplication.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 10 May 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unterschiedliche Berechnungen zum Reproduktionsfaktor]]></title>
-            <link>http://scienceblogs.de/mathlog/2020/05/10/unterschiedliche-berechnungen-zum-reproduktionsfaktor/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unterschiedliche-berechnungen-zum-reproduktionsfaktor</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/05/10/unterschiedliche-berechnungen-zum-reproduktionsfaktor/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unterschiedliche-berechnungen-zum-reproduktionsfaktor</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Sun, 10 May 2020 10:29:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Combattere i tumori… con la Teoria dei giochi]]></title>
@@ -1343,22 +1329,15 @@
             <title><![CDATA[Mathematical play with young children]]></title>
             <link>https://aperiodical.com/2020/05/mathematical-play-with-young-children/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/05/mathematical-play-with-young-children/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 09 May 2020 10:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mathematical play with young children]]></title>
             <link>https://aperiodical.com/2020/05/mathematical-play-with-young-children/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/05/mathematical-play-with-young-children/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 09 May 2020 10:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Algorithmen entscheiden]]></title>
-            <link>http://scienceblogs.de/mathlog/2020/05/09/algorithmen-entscheiden/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=algorithmen-entscheiden</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/05/09/algorithmen-entscheiden/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=algorithmen-entscheiden</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Sat, 09 May 2020 09:47:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Big Lock-Down Math-Off, Match 15]]></title>
@@ -1513,13 +1492,6 @@
             <guid isPermaLink="false">https://mathbabe.org/2020/05/08/bloomberg-column-the-fema-model-is-a-wmd/</guid>
             <dc:creator><![CDATA[mathbabe]]></dc:creator>
             <pubDate>Fri, 08 May 2020 12:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2020 AP Calculus BC Practice Exams]]></title>
-            <link>http://MrHonner.com/archives/19804</link>
-            <guid isPermaLink="false">http://MrHonner.com/archives/19804</guid>
-            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
-            <pubDate>Fri, 08 May 2020 12:00:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Calculation and Chess]]></title>
@@ -1823,13 +1795,6 @@
             <pubDate>Thu, 07 May 2020 08:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Theorema Magnum MCMXXV: die Hauptsätze der Werteverteilungstheorie]]></title>
-            <link>http://scienceblogs.de/mathlog/2020/05/07/theorema-magnum-mcmxxv-die-hauptsaetze-der-werteverteilungstheorie/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theorema-magnum-mcmxxv-die-hauptsaetze-der-werteverteilungstheorie</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/05/07/theorema-magnum-mcmxxv-die-hauptsaetze-der-werteverteilungstheorie/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theorema-magnum-mcmxxv-die-hauptsaetze-der-werteverteilungstheorie</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Thu, 07 May 2020 07:01:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Polygons, Area and some generalisations]]></title>
             <link>https://cavmaths.wordpress.com/2020/05/07/polygons-area-and-some-generalisations/</link>
             <guid isPermaLink="false">https://cavmaths.wordpress.com/2020/05/07/polygons-area-and-some-generalisations/</guid>
@@ -1891,13 +1856,6 @@
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/05/on-this-day-in-math-may-7.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Wed, 06 May 2020 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid’s game-of-life]]></title>
-            <link>https://xianblog.wordpress.com/2020/05/07/covids-game-of-life/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2020/05/07/covids-game-of-life/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 06 May 2020 22:20:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Discovering Joyful Math Away from the Classroom]]></title>
@@ -2101,13 +2059,6 @@
             <guid isPermaLink="false">https://www.resourceaholic.com/2020/05/remembering-don-steward.html</guid>
             <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
             <pubDate>Wed, 06 May 2020 06:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Formalisierung elliptischer Kurven]]></title>
-            <link>http://scienceblogs.de/mathlog/2020/05/06/formalisierung-elliptischer-kurven/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=formalisierung-elliptischer-kurven</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/05/06/formalisierung-elliptischer-kurven/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=formalisierung-elliptischer-kurven</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Wed, 06 May 2020 06:12:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Circles and triangles]]></title>
@@ -2342,13 +2293,6 @@ Chewbacca’s Activity...]]></title>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/617277614350073856</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Tue, 05 May 2020 12:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4523659424929]]></title>
-            <link>http://scienceblogs.de/mathlog/2020/05/05/4523659424929/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=4523659424929</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/05/05/4523659424929/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=4523659424929</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Tue, 05 May 2020 11:25:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spreading Rumors]]></title>
@@ -2749,13 +2693,6 @@ Chewbacca’s Activity...]]></title>
             <guid isPermaLink="false">http://unizor.blogspot.com/2020/05/unizor-physics4teens-electromagnetism.html</guid>
             <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
             <pubDate>Sun, 03 May 2020 14:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Remote Learning — Week 6]]></title>
-            <link>http://MrHonner.com/archives/19797</link>
-            <guid isPermaLink="false">http://MrHonner.com/archives/19797</guid>
-            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
-            <pubDate>Sun, 03 May 2020 13:54:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NPR’s gonna NPR (special coronavirus junk science edition)]]></title>
@@ -3178,13 +3115,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <pubDate>Fri, 01 May 2020 13:41:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[STEM for All Video Showcase]]></title>
-            <link>http://MrHonner.com/archives/19793</link>
-            <guid isPermaLink="false">http://MrHonner.com/archives/19793</guid>
-            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
-            <pubDate>Fri, 01 May 2020 13:00:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5/1/20]]></title>
             <link>https://purenumbers.tumblr.com/post/616915358343921664</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/616915358343921664</guid>
@@ -3477,13 +3407,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/04/did-anyone-see-this-one-coming.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 30 Apr 2020 10:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theorema Magnum MCMXXIV: der Fisher-Test]]></title>
-            <link>http://scienceblogs.de/mathlog/2020/04/30/theorema-magnum-mcmxxiv-der-fisher-test/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theorema-magnum-mcmxxiv-der-fisher-test</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/04/30/theorema-magnum-mcmxxiv-der-fisher-test/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theorema-magnum-mcmxxiv-der-fisher-test</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2020 06:48:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Il problema di Aprile (620) - Strategie di esaustione]]></title>
@@ -3990,6 +3913,13 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <pubDate>Mon, 27 Apr 2020 22:06:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Every proof assistant]]></title>
+            <link>http://math.andrej.com/2020/04/28/every-theorem-prover/</link>
+            <guid isPermaLink="false">http://math.andrej.com/2020/04/28/every-theorem-prover/</guid>
+            <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2020 22:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ways Engineers Can Fight Negativity And Stay Motivated]]></title>
             <link>https://proofmathisbeautiful.tumblr.com/post/616584980776255488</link>
             <guid isPermaLink="false">https://proofmathisbeautiful.tumblr.com/post/616584980776255488</guid>
@@ -4305,13 +4235,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <pubDate>Sun, 26 Apr 2020 13:51:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Remote Learning — Week 5]]></title>
-            <link>http://MrHonner.com/archives/19780</link>
-            <guid isPermaLink="false">http://MrHonner.com/archives/19780</guid>
-            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2020 13:00:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A spring, a rubber band, and chaos]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/qK_nzB4B-vQ/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/qK_nzB4B-vQ/</guid>
@@ -4368,17 +4291,17 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <pubDate>Sun, 26 Apr 2020 05:30:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (105)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Motion Camouflage]]></title>
             <link>http://datagenetics.com/blog/april22020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/april22020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (105)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4401,6 +4324,13 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <guid isPermaLink="false">https://jbuzzi.wordpress.com/2020/04/25/le-conseil-scientifique-covid-19/</guid>
             <dc:creator><![CDATA[Jérôme Buzzi’s]]></dc:creator>
             <pubDate>Sat, 25 Apr 2020 22:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gravity on Von Braun Station]]></title>
+            <link>https://www.mathscinotes.com/2020/04/gravity-on-von-braun-station/</link>
+            <guid isPermaLink="false">https://www.mathscinotes.com/2020/04/gravity-on-von-braun-station/</guid>
+            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2020 21:16:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[State by state graphs of COVID-19 data (from covidtracking.com)]]></title>
@@ -4893,13 +4823,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <pubDate>Wed, 22 Apr 2020 22:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Theorema Magnum MCMXXIII: die Lefschetzsche Fixpunktformel]]></title>
-            <link>http://scienceblogs.de/mathlog/2020/04/23/theorema-magnum-mcmxxiii-die-lefschetzsche-fixpunktformel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theorema-magnum-mcmxxiii-die-lefschetzsche-fixpunktformel</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/04/23/theorema-magnum-mcmxxiii-die-lefschetzsche-fixpunktformel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theorema-magnum-mcmxxiii-die-lefschetzsche-fixpunktformel</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2020 22:10:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BiSTRO seminar]]></title>
             <link>https://matheuscmss.wordpress.com/2020/04/22/bistro-seminar/</link>
             <guid isPermaLink="false">https://matheuscmss.wordpress.com/2020/04/22/bistro-seminar/</guid>
@@ -5271,13 +5194,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <pubDate>Mon, 20 Apr 2020 14:14:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Verschwörungsgeflüster: Pegida trotz Corona]]></title>
-            <link>http://scienceblogs.de/mathlog/2020/04/20/verschwoerungsgefluester-pegida-trotz-corona/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=verschwoerungsgefluester-pegida-trotz-corona</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/04/20/verschwoerungsgefluester-pegida-trotz-corona/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=verschwoerungsgefluester-pegida-trotz-corona</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2020 14:08:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Measure Theory videos on YouTube]]></title>
             <link>https://explainingmaths.wordpress.com/2020/04/20/measure-theory-videos-on-youtube/</link>
             <guid isPermaLink="false">https://explainingmaths.wordpress.com/2020/04/20/measure-theory-videos-on-youtube/</guid>
@@ -5446,13 +5362,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <pubDate>Sun, 19 Apr 2020 13:31:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Remote Learning — Week 4]]></title>
-            <link>http://MrHonner.com/archives/19773</link>
-            <guid isPermaLink="false">http://MrHonner.com/archives/19773</guid>
-            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
-            <pubDate>Sun, 19 Apr 2020 13:00:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ASMR Sunday]]></title>
             <link>https://math-frolic.blogspot.com/2020/04/asmr-sunday.html</link>
             <guid isPermaLink="false">https://math-frolic.blogspot.com/2020/04/asmr-sunday.html</guid>
@@ -5542,6 +5451,13 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <guid isPermaLink="false">http://matematicas11235813.luismiglesias.es/2020/04/18/catalogo-de-75-cursos-en-abierto-de-la-consejeria-de-educacion-y-deporte-de-la-junta-de-andalucia-para-la-formacion-del-profesorado/</guid>
             <dc:creator><![CDATA[MatemáTICas: 1,1,2,3,5,8,13,…]]></dc:creator>
             <pubDate>Sat, 18 Apr 2020 19:28:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Amazing de Havilland Mosquito]]></title>
+            <link>https://www.mathscinotes.com/2020/04/the-amazing-de-havilland-mosquito/</link>
+            <guid isPermaLink="false">https://www.mathscinotes.com/2020/04/the-amazing-de-havilland-mosquito/</guid>
+            <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2020 19:03:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New artworks by Vicente Meavilla Segui]]></title>
@@ -5817,13 +5733,6 @@ For..."]]></title>
             <guid isPermaLink="false">https://mathbabe.org/2020/04/16/new-bloomberg-column-covid-19-tracking-will-not-work/</guid>
             <dc:creator><![CDATA[mathbabe]]></dc:creator>
             <pubDate>Thu, 16 Apr 2020 09:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theorem Magnum MCMXXII: der Banachsche Fixpunktsatz]]></title>
-            <link>http://scienceblogs.de/mathlog/2020/04/16/theorem-magnum-mcmxxii-der-banachsche-fixpunktsatz/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theorem-magnum-mcmxxii-der-banachsche-fixpunktsatz</link>
-            <guid isPermaLink="false">http://scienceblogs.de/mathlog/2020/04/16/theorem-magnum-mcmxxii-der-banachsche-fixpunktsatz/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theorem-magnum-mcmxxii-der-banachsche-fixpunktsatz</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2020 08:41:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Σαν σήμερα το 1788]]></title>
