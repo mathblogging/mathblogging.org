@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2020 00:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2020 01:16:46 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2020 00:16:30 GMT</pubDate>
+        <pubDate>Mon, 18 May 2020 01:16:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Stan pedantic mode]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2020/05/17/stan-pedantic-mode/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/05/17/stan-pedantic-mode/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 18 May 2020 01:04:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[More on a Geome-treat with a Calculus Twist]]></title>
             <link>https://pballew.blogspot.com/2020/05/more-on-geome-treat-with-calculus-twist.html</link>
@@ -45,7 +52,7 @@
             <pubDate>Sun, 17 May 2020 22:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COVID - The Unknown Parameter]]></title>
+            <title><![CDATA[COVID - The "Second Wave" Secret]]></title>
             <link>http://www.math-math.com/2020/05/covid-unknown-parameter.html</link>
             <guid isPermaLink="false">http://www.math-math.com/2020/05/covid-unknown-parameter.html</guid>
             <dc:creator><![CDATA[Math Physics Blog]]></dc:creator>
@@ -486,16 +493,16 @@
             <pubDate>Sat, 16 May 2020 07:00:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hillel Furstenberg et Grigori Margulis reçoivent le prix Abel 2020]]></title>
-            <link>http://images.math.cnrs.fr/Hillel-Furstenberg-et-Grigori-Margulis-recoivent-le-prix-Abel-2020.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Hillel-Furstenberg-et-Grigori-Margulis-recoivent-le-prix-Abel-2020.html</guid>
+            <title><![CDATA[Une infinité de nombres premiers, d'après Furstenberg]]></title>
+            <link>http://images.math.cnrs.fr/Une-infinite-de-nombres-premiers-d-apres-Furstenberg.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Une-infinite-de-nombres-premiers-d-apres-Furstenberg.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sat, 16 May 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Une infinité de nombres premiers, d'après Furstenberg]]></title>
-            <link>http://images.math.cnrs.fr/Une-infinite-de-nombres-premiers-d-apres-Furstenberg.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Une-infinite-de-nombres-premiers-d-apres-Furstenberg.html</guid>
+            <title><![CDATA[Hillel Furstenberg et Grigori Margulis reçoivent le prix Abel 2020]]></title>
+            <link>http://images.math.cnrs.fr/Hillel-Furstenberg-et-Grigori-Margulis-recoivent-le-prix-Abel-2020.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Hillel-Furstenberg-et-Grigori-Margulis-recoivent-le-prix-Abel-2020.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sat, 16 May 2020 05:00:00 GMT</pubDate>
         </item>
@@ -773,17 +780,17 @@
             <pubDate>Fri, 15 May 2020 05:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tackling Reinforcement Learning with the Aurora OPU]]></title>
-            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/V5OQfSLiE98/tackling-reinforcement-learning-with.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/V5OQfSLiE98/tackling-reinforcement-learning-with.html</guid>
-            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
-            <pubDate>Fri, 15 May 2020 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comment multiplier sans connaître les tables de multiplication ?]]></title>
             <link>http://images.math.cnrs.fr/Comment-multiplier-sans-connaitre-les-tables-de-multiplication.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Comment-multiplier-sans-connaitre-les-tables-de-multiplication.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 15 May 2020 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tackling Reinforcement Learning with the Aurora OPU]]></title>
+            <link>http://feedproxy.google.com/~r/blogspot/wCeDd/~3/V5OQfSLiE98/tackling-reinforcement-learning-with.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/blogspot/wCeDd/~3/V5OQfSLiE98/tackling-reinforcement-learning-with.html</guid>
+            <dc:creator><![CDATA[Nuit Blanche]]></dc:creator>
             <pubDate>Fri, 15 May 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2295,14 +2302,14 @@
             <title><![CDATA[Mathematical play with young children]]></title>
             <link>https://aperiodical.com/2020/05/mathematical-play-with-young-children/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/05/mathematical-play-with-young-children/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Sat, 09 May 2020 10:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mathematical play with young children]]></title>
             <link>https://aperiodical.com/2020/05/mathematical-play-with-young-children/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/05/mathematical-play-with-young-children/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 09 May 2020 10:57:00 GMT</pubDate>
         </item>
         <item>
@@ -4669,17 +4676,17 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <pubDate>Mon, 27 Apr 2020 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lessons from COVID-19: What works online and what doesn’t]]></title>
-            <link>https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</link>
-            <guid isPermaLink="false">https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</guid>
-            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2020 21:01:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ways Engineers Can Fight Negativity And Stay Motivated]]></title>
             <link>https://proofmathisbeautiful.tumblr.com/post/616584980776255488</link>
             <guid isPermaLink="false">https://proofmathisbeautiful.tumblr.com/post/616584980776255488</guid>
             <dc:creator><![CDATA[Proof]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2020 21:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lessons from COVID-19: What works online and what doesn’t]]></title>
+            <link>https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</link>
+            <guid isPermaLink="false">https://windowsontheory.org/2020/04/27/lessons-from-covid-19-what-works-online-and-what-doesnt/</guid>
+            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
             <pubDate>Mon, 27 Apr 2020 21:01:00 GMT</pubDate>
         </item>
         <item>
@@ -4954,13 +4961,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/04/26/more-than-one-always-more-than-one-to-address-the-real-uncertainty/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sun, 26 Apr 2020 14:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The return of the red state blue state fallacy]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2020/04/26/the-return-of-red-state-blue-state/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/04/26/the-return-of-red-state-blue-state/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2020 13:51:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Remote Learning — Week 5]]></title>
@@ -6242,15 +6242,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <guid isPermaLink="false">https://mathenchant.wordpress.com/2020/04/16/air-from-archimedes/</guid>
             <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
             <pubDate>Fri, 17 Apr 2020 02:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["The undershot wheel typically achieved an efficiency of 15 to 30 percent, adequate for milling.
-
-For..."]]></title>
-            <link>http://feedproxy.google.com/~r/seethingsdifferently/~3/7VVIEK6Mjlw/615603470942273536</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/seethingsdifferently/~3/7VVIEK6Mjlw/615603470942273536</guid>
-            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2020 01:00:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
