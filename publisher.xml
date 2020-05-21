@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2020 20:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2020 21:17:03 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2020 20:17:24 GMT</pubDate>
+        <pubDate>Thu, 21 May 2020 21:17:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -248,17 +248,17 @@
             <pubDate>Thu, 21 May 2020 08:45:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Puissances négatives]]></title>
-            <link>http://images.math.cnrs.fr/Puissances-negatives.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Puissances-negatives.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Thu, 21 May 2020 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Big Lock-Down Math-Off, Match 21]]></title>
             <link>https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-21/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/05/the-big-lock-down-math-off-match-21/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Thu, 21 May 2020 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Puissances négatives]]></title>
+            <link>http://images.math.cnrs.fr/Puissances-negatives.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Puissances-negatives.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Thu, 21 May 2020 08:00:00 GMT</pubDate>
         </item>
         <item>
@@ -298,8 +298,8 @@
         </item>
         <item>
             <title><![CDATA[MathOverflow]]></title>
-            <link>https://www.ncatlab.org/nlab/show/MathOverflow</link>
-            <guid isPermaLink="false">https://www.ncatlab.org/nlab/show/MathOverflow</guid>
+            <link>https://ncatlab.org/nlab/show/MathOverflow</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/MathOverflow</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Thu, 21 May 2020 02:28:26 GMT</pubDate>
         </item>
@@ -4074,6 +4074,13 @@ Chewbacca’s Activity...]]></title>
             <pubDate>Sun, 03 May 2020 19:20:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Early Childhood Math Routines]]></title>
+            <link>http://www.sineofthetimes.org/early-childhood-math-routines/</link>
+            <guid isPermaLink="false">http://www.sineofthetimes.org/early-childhood-math-routines/</guid>
+            <dc:creator><![CDATA[Sine of the Times]]></dc:creator>
+            <pubDate>Sun, 03 May 2020 19:17:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus in NYC]]></title>
             <link>https://blog.tanyakhovanova.com/2020/05/coronavirus-in-nyc/</link>
             <guid isPermaLink="false">https://blog.tanyakhovanova.com/2020/05/coronavirus-in-nyc/</guid>
@@ -5467,17 +5474,17 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <pubDate>Sun, 26 Apr 2020 05:30:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Motion Camouflage]]></title>
-            <link>http://datagenetics.com/blog/april22020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/april22020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (105)]]></title>
             <link>http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/04/26/fortnightly-links-105/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Motion Camouflage]]></title>
+            <link>http://datagenetics.com/blog/april22020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/april22020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -6123,27 +6130,6 @@ Luminescent Zip-Tie Formations Are Shaped into...]]></title>
             <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4768</guid>
             <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
             <pubDate>Mon, 20 Apr 2020 22:41:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The road to reality]]></title>
-            <link>http://feedproxy.google.com/~r/DocMadhattan/~3/ToVIKU6zsjo/the-road-to-reality.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/DocMadhattan/~3/ToVIKU6zsjo/the-road-to-reality.html</guid>
-            <dc:creator><![CDATA[Doc Madhattan]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2020 21:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How We Reopen]]></title>
-            <link>http://vihart.com/how-we-reopen/</link>
-            <guid isPermaLink="false">http://vihart.com/how-we-reopen/</guid>
-            <dc:creator><![CDATA[Vi Hart]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2020 21:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Conway, the Presenter]]></title>
-            <link>https://blog.tanyakhovanova.com/2020/04/john-conway-the-presenter/</link>
-            <guid isPermaLink="false">https://blog.tanyakhovanova.com/2020/04/john-conway-the-presenter/</guid>
-            <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2020 20:14:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
