@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2020 18:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2020 19:17:14 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2020 18:16:22 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2020 19:17:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Exploring Rulial Space: The Case of Turing Machines]]></title>
+            <link>https://writings.stephenwolfram.com/2020/06/exploring-rulial-space-the-case-of-turing-machines/</link>
+            <guid isPermaLink="false">https://writings.stephenwolfram.com/2020/06/exploring-rulial-space-the-case-of-turing-machines/</guid>
+            <dc:creator><![CDATA[Stephen Wolfram Blog]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2020 18:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pool Temperature]]></title>
+            <link>http://mrburkemath.blogspot.com/2020/06/pool-temperature.html</link>
+            <guid isPermaLink="false">http://mrburkemath.blogspot.com/2020/06/pool-temperature.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2020 18:21:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[begin{pmatrix}]]></title>
             <link>https://vlorbik.wordpress.com/2020/06/09/beginpmatrix/</link>
@@ -36,13 +50,6 @@
             <guid isPermaLink="false">https://www.simonsfoundation.org/2020/06/09/untangling-quantum-entanglement/</guid>
             <dc:creator><![CDATA[Simons Foundation]]></dc:creator>
             <pubDate>Tue, 09 Jun 2020 13:46:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerome Keisler]]></title>
-            <link>https://ncatlab.org/nlab/show/Jerome+Keisler</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Jerome+Keisler</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2020 13:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anyone willing to help me get set up with something like miso?]]></title>
@@ -106,13 +113,6 @@
             <guid isPermaLink="false">http://wiskundeleraar.blogspot.com/2020/06/nagekomen-bericht.html</guid>
             <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
             <pubDate>Tue, 09 Jun 2020 11:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michèle Giry]]></title>
-            <link>https://ncatlab.org/nlab/show/Mich%25C3%25A8le+Giry</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Mich%C3%A8le+Giry</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2020 11:36:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life-changing Ideas....]]></title>
@@ -1018,16 +1018,16 @@
             <pubDate>Sat, 06 Jun 2020 05:24:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[#mathyear semaine 12]]></title>
-            <link>http://images.math.cnrs.fr/mathyear-semaine-12.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/mathyear-semaine-12.html</guid>
+            <title><![CDATA[Tous pour un, un pour tous]]></title>
+            <link>http://images.math.cnrs.fr/Tous-pour-un-un-pour-tous.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Tous-pour-un-un-pour-tous.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sat, 06 Jun 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tous pour un, un pour tous]]></title>
-            <link>http://images.math.cnrs.fr/Tous-pour-un-un-pour-tous.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Tous-pour-un-un-pour-tous.html</guid>
+            <title><![CDATA[#mathyear semaine 12]]></title>
+            <link>http://images.math.cnrs.fr/mathyear-semaine-12.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/mathyear-semaine-12.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sat, 06 Jun 2020 05:00:00 GMT</pubDate>
         </item>
@@ -2834,17 +2834,17 @@
             <pubDate>Fri, 29 May 2020 02:53:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An update for Grassmannian.info: exceptional collections]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/05/29/update-for-grasmannian-info/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/05/29/update-for-grasmannian-info/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An Unusual Periodic Table]]></title>
             <link>https://pballew.blogspot.com/2020/05/an-unusual-periodic-table.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2020/05/an-unusual-periodic-table.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An update for Grassmannian.info: exceptional collections]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/05/29/update-for-grasmannian-info/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/05/29/update-for-grasmannian-info/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4101,17 +4101,17 @@
             <pubDate>Fri, 22 May 2020 03:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One Dice or Two?]]></title>
-            <link>http://datagenetics.com/blog/may22020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/may22020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Fri, 22 May 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An update for Grassmannian.info: Freudenthal's magic square and pages for root system data]]></title>
             <link>http://pbelmans.ncag.info/blog/2020/05/22/update-for-grassmannian-info/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/05/22/update-for-grassmannian-info/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Fri, 22 May 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One Dice or Two?]]></title>
+            <link>http://datagenetics.com/blog/may22020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/may22020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Fri, 22 May 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
