@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2020 09:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2020 10:17:03 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2020 09:17:01 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2020 10:17:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Why “flatten the curve” chart worked]]></title>
+            <link>https://flowingdata.com/2020/06/10/why-flatten-the-curve-chart-worked/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2020/06/10/why-flatten-the-curve-chart-worked/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2020 10:00:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There is no Ask Uncle Colin today #strike4blacklives]]></title>
             <link>https://www.flyingcoloursmaths.co.uk/there-is-no-ask-uncle-colin-today/</link>
@@ -647,16 +654,16 @@
             <pubDate>Mon, 08 Jun 2020 05:00:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.6.13]]></title>
-            <link>http://images.math.cnrs.fr/5-6-13.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/5-6-13.html</guid>
+            <title><![CDATA[Des sommets, des creux, des cols et une théorie indomptable]]></title>
+            <link>http://images.math.cnrs.fr/Des-sommets-des-creux-des-cols-et-une-theorie-indomptable.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Des-sommets-des-creux-des-cols-et-une-theorie-indomptable.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 08 Jun 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Des sommets, des creux, des cols et une théorie indomptable]]></title>
-            <link>http://images.math.cnrs.fr/Des-sommets-des-creux-des-cols-et-une-theorie-indomptable.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Des-sommets-des-creux-des-cols-et-une-theorie-indomptable.html</guid>
+            <title><![CDATA[5.6.13]]></title>
+            <link>http://images.math.cnrs.fr/5-6-13.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/5-6-13.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 08 Jun 2020 05:00:00 GMT</pubDate>
         </item>
@@ -2122,13 +2129,6 @@
             <guid isPermaLink="false">http://mathhmagic.blogspot.com/2020/06/blog-post.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Tue, 02 Jun 2020 07:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Racial Divide]]></title>
-            <link>https://flowingdata.com/2020/06/01/racial-divide/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2020/06/01/racial-divide/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2020 06:40:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Equilateral triangles in a semi-circle]]></title>
@@ -4220,17 +4220,17 @@
             <pubDate>Fri, 22 May 2020 03:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An update for Grassmannian.info: Freudenthal's magic square and pages for root system data]]></title>
-            <link>http://pbelmans.ncag.info/blog/2020/05/22/update-for-grassmannian-info/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/05/22/update-for-grassmannian-info/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Fri, 22 May 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[One Dice or Two?]]></title>
             <link>http://datagenetics.com/blog/may22020/index.html</link>
             <guid isPermaLink="false">http://datagenetics.com/blog/may22020/index.html</guid>
             <dc:creator><![CDATA[DataGenetics]]></dc:creator>
+            <pubDate>Fri, 22 May 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An update for Grassmannian.info: Freudenthal's magic square and pages for root system data]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/05/22/update-for-grassmannian-info/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/05/22/update-for-grassmannian-info/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Fri, 22 May 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -5611,6 +5611,13 @@
             <guid isPermaLink="false">http://MrHonner.com/archives/19827</guid>
             <dc:creator><![CDATA[Mr Honner]]></dc:creator>
             <pubDate>Tue, 12 May 2020 13:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[18.217 Graph Theory and Additive Combinatorics (MIT)]]></title>
+            <link>https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019</link>
+            <guid isPermaLink="false">https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019</guid>
+            <dc:creator><![CDATA[MIT OpenCourseWare: New Courses in Mathematics]]></dc:creator>
+            <pubDate>Tue, 12 May 2020 12:36:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Μια λίστα «χρηστικών» συμβουλών για τους υποψηφίους των πανελληνίων στα μαθηματικά προσανατολισμού του 2020]]></title>
