@@ -3,6 +3,9 @@ layout: page
 title: Editor's picks
 ---
 
+<blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">The <a href="https://twitter.com/rmathematicus?ref_src=twsrc%5Etfw">@rmathematicus</a> celebrates the humble eleven (th birthday) <a href="https://t.co/1RiUM8r60s">https://t.co/1RiUM8r60s</a> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a></p>&mdash; Peter Krautzberger (@pkrautz) <a href="https://twitter.com/pkrautz/status/1271377410781589504?ref_src=twsrc%5Etfw">June 12, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" align="center" data-width="500"><p lang="en" dir="ltr">I have a request that <a href="https://twitter.com/benorlin?ref_src=twsrc%5Etfw">@BenOrlin</a> leave his brain to science when he dies (hopefully no time soon) …and hey maybe his sister do the same:<a href="https://t.co/hfUNVnStnS">https://t.co/hfUNVnStnS</a><br> <a href="https://twitter.com/hashtag/mbpick?src=hash&amp;ref_src=twsrc%5Etfw">#mbpick</a> <a href="https://twitter.com/mathblogging?ref_src=twsrc%5Etfw">@mathblogging</a> <a href="https://twitter.com/hashtag/mathchat?src=hash&amp;ref_src=twsrc%5Etfw">#mathchat</a> <a href="https://twitter.com/hashtag/mathed?src=hash&amp;ref_src=twsrc%5Etfw">#mathed</a></p>&mdash; 𝙈𝙖𝙩𝙝-𝙁𝙧𝙤𝙡𝙞𝙘! 💢 (@SheckyR) <a href="https://twitter.com/SheckyR/status/1268352958825201667?ref_src=twsrc%5Etfw">June 4, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
