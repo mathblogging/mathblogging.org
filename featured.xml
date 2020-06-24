@@ -4,17 +4,38 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2020 20:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2020 21:16:51 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2020 20:16:50 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2020 21:16:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Competitive programming in Haskell: vectors and 2D geometry]]></title>
+            <link>https://byorgey.wordpress.com/2020/06/24/competitive-programming-in-haskell-vectors-and-2d-geometry/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2020/06/24/competitive-programming-in-haskell-vectors-and-2d-geometry/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2020 20:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dee Fink’s Significant Learning for Calculus II (Part III):  Intermediate Design Phase]]></title>
+            <link>https://symmetricblog.wordpress.com/2020/06/24/dee-finks-significant-learning-for-calculus-ii-part-iii-intermediate-design-phase/</link>
+            <guid isPermaLink="false">https://symmetricblog.wordpress.com/2020/06/24/dee-finks-significant-learning-for-calculus-ii-part-iii-intermediate-design-phase/</guid>
+            <dc:creator><![CDATA[Solvable by Radicals]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2020 20:14:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[zorn lemma is equivalent to the axiom of choice proof]]></title>
             <link>https://www.bookofproofs.org/branches/zorn-lemma-is-equivalent-to-the-axiom-of-choice/proof/</link>
             <guid isPermaLink="false">https://www.bookofproofs.org/branches/zorn-lemma-is-equivalent-to-the-axiom-of-choice/proof/</guid>
             <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
             <pubDate>Wed, 24 Jun 2020 19:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geeking out over arbitrary boundaries]]></title>
+            <link>https://blog.plover.com/geo/boundary-conditions.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/geo/boundary-conditions.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2020 18:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nature reflections on policing]]></title>
@@ -129,17 +150,17 @@
             <pubDate>Wed, 24 Jun 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The standard journalistic definition of bias is absurdly narrow but at least it’s self-serving.]]></title>
-            <link>http://observationalepidemiology.blogspot.com/2020/06/the-standard-journalistic-definition-of.html</link>
-            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/06/the-standard-journalistic-definition-of.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2020 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Consumer research study is retracted for unexplained anomalies]]></title>
             <link>https://retractionwatch.com/2020/06/24/consumer-research-study-is-retracted-for-unexplained-anomalies/</link>
             <guid isPermaLink="false">https://retractionwatch.com/2020/06/24/consumer-research-study-is-retracted-for-unexplained-anomalies/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2020 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The standard journalistic definition of bias is absurdly narrow but at least it’s self-serving.]]></title>
+            <link>http://observationalepidemiology.blogspot.com/2020/06/the-standard-journalistic-definition-of.html</link>
+            <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/06/the-standard-journalistic-definition-of.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 24 Jun 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -262,7 +283,7 @@
             <pubDate>Tue, 23 Jun 2020 16:55:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dee Fink’s Significant Learning for Calculus II:  Initial Design Phase]]></title>
+            <title><![CDATA[Dee Fink’s Significant Learning for Calculus II:  Initial Design Phase (Part II)]]></title>
             <link>https://symmetricblog.wordpress.com/2020/06/23/dee-finks-significant-learning-for-calculus-ii-initial-design-phase/</link>
             <guid isPermaLink="false">https://symmetricblog.wordpress.com/2020/06/23/dee-finks-significant-learning-for-calculus-ii-initial-design-phase/</guid>
             <dc:creator><![CDATA[Solvable by Radicals]]></dc:creator>
@@ -1529,17 +1550,17 @@
             <pubDate>Thu, 18 Jun 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Figure “anomalies” prompt Harvard group to retract Nature paper]]></title>
-            <link>https://retractionwatch.com/2020/06/18/harvard-group-retracts-nature-paper-2/</link>
-            <guid isPermaLink="false">https://retractionwatch.com/2020/06/18/harvard-group-retracts-nature-paper-2/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2020 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[If only the government would get out of the way of these Silicon Valley visionaries.]]></title>
             <link>http://observationalepidemiology.blogspot.com/2020/06/if-only-government-would-get-out-of-way.html</link>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/06/if-only-government-would-get-out-of-way.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2020 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Figure “anomalies” prompt Harvard group to retract Nature paper]]></title>
+            <link>https://retractionwatch.com/2020/06/18/harvard-group-retracts-nature-paper-2/</link>
+            <guid isPermaLink="false">https://retractionwatch.com/2020/06/18/harvard-group-retracts-nature-paper-2/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Thu, 18 Jun 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2110,7 +2131,7 @@
             <pubDate>Mon, 15 Jun 2020 20:56:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dee Fink’s Significant Learning and Calculus II]]></title>
+            <title><![CDATA[Dee Fink’s Significant Learning for Calculus II (Part I)]]></title>
             <link>https://symmetricblog.wordpress.com/2020/06/15/dee-finks-significant-learning-and-calculus-ii/</link>
             <guid isPermaLink="false">https://symmetricblog.wordpress.com/2020/06/15/dee-finks-significant-learning-and-calculus-ii/</guid>
             <dc:creator><![CDATA[Solvable by Radicals]]></dc:creator>
@@ -3595,15 +3616,15 @@
         </item>
         <item>
             <title><![CDATA[Podcasts to Educate about Poverty, Racism, and Socioeconomic Inequality]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/yZO10PZKVcE/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/yZO10PZKVcE/</guid>
+            <link>https://busynessgirl.com/tpodcasts-to-educate-about-poverty-racism-socioeconomic/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/tpodcasts-to-educate-about-poverty-racism-socioeconomic/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 07 Jun 2020 15:42:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Podcasts to Educate about Poverty, Racism, and Socioeconomic Inequality]]></title>
-            <link>https://busynessgirl.com/tpodcasts-to-educate-about-poverty-racism-socioeconomic/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/tpodcasts-to-educate-about-poverty-racism-socioeconomic/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/yZO10PZKVcE/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/yZO10PZKVcE/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sun, 07 Jun 2020 15:42:57 GMT</pubDate>
         </item>
@@ -5730,13 +5751,6 @@
             <guid isPermaLink="false">http://math.andrej.com/2020/05/25/mechanizing-meta-theory-in-beluga/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Sun, 24 May 2020 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Online activities May 25 — May 31 2020]]></title>
-            <link>https://ests.wordpress.com/2020/05/24/online-activities-may-25-may-29-2020/</link>
-            <guid isPermaLink="false">https://ests.wordpress.com/2020/05/24/online-activities-may-25-may-29-2020/</guid>
-            <dc:creator><![CDATA[European Set Theory Society]]></dc:creator>
-            <pubDate>Sun, 24 May 2020 20:29:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
