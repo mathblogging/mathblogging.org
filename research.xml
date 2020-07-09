@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2020 00:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2020 01:17:00 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2020 00:17:32 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2020 01:17:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -260,6 +260,13 @@
             <guid isPermaLink="false">https://burttotaro.wordpress.com/2020/07/08/how-to-get-started-with-the-hilbert-scheme/</guid>
             <dc:creator><![CDATA[Geometry Bulletin Board]]></dc:creator>
             <pubDate>Wed, 08 Jul 2020 01:21:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fig Leibnizes]]></title>
+            <link>http://yozh.org/2020/07/07/fig-leibnizes/</link>
+            <guid isPermaLink="false">http://yozh.org/2020/07/07/fig-leibnizes/</guid>
+            <dc:creator><![CDATA[Rhapsody in Numbers]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2020 23:49:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On This Day in Math - July 8]]></title>
@@ -1153,16 +1160,16 @@ On the..."]]></title>
             <pubDate>Sat, 04 Jul 2020 08:44:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pourcentages]]></title>
-            <link>http://images.math.cnrs.fr/Pourcentages.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Pourcentages.html</guid>
+            <title><![CDATA[#mathyear semaine 16]]></title>
+            <link>http://images.math.cnrs.fr/mathyear-semaine-16.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/mathyear-semaine-16.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sat, 04 Jul 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[#mathyear semaine 16]]></title>
-            <link>http://images.math.cnrs.fr/mathyear-semaine-16.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/mathyear-semaine-16.html</guid>
+            <title><![CDATA[Pourcentages]]></title>
+            <link>http://images.math.cnrs.fr/Pourcentages.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Pourcentages.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sat, 04 Jul 2020 05:00:00 GMT</pubDate>
         </item>
@@ -1277,13 +1284,6 @@ On the..."]]></title>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/622622910127964161</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Fri, 03 Jul 2020 12:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s no vaccine for the sea level rising]]></title>
-            <link>https://feeds.feedblitz.com/~/629634726/0/oupblogmathematics/</link>
-            <guid isPermaLink="false">https://feeds.feedblitz.com/~/629634726/0/oupblogmathematics/</guid>
-            <dc:creator><![CDATA[OUPblog » Mathematics]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2020 12:30:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Online activities 6-12 July 2020]]></title>
@@ -1863,14 +1863,14 @@ On the..."]]></title>
             <title><![CDATA[Prime Climb colouring in with LuaTeX]]></title>
             <link>https://aperiodical.com/2020/06/prime-climb-colouring-in-with-luatex/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/06/prime-climb-colouring-in-with-luatex/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 30 Jun 2020 15:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prime Climb colouring in with LuaTeX]]></title>
             <link>https://aperiodical.com/2020/06/prime-climb-colouring-in-with-luatex/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/06/prime-climb-colouring-in-with-luatex/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 30 Jun 2020 15:18:00 GMT</pubDate>
         </item>
         <item>
@@ -3624,17 +3624,17 @@ On the..."]]></title>
             <pubDate>Sat, 20 Jun 2020 12:31:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Who Should be Quarantined?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p08hhl7d</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p08hhl7d</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2020 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jaipur Deco]]></title>
             <link>http://mathtourist.blogspot.com/2020/06/jaipur-deco.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/06/jaipur-deco.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2020 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Should be Quarantined?]]></title>
+            <link>http://www.bbc.co.uk/programmes/p08hhl7d</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p08hhl7d</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Sat, 20 Jun 2020 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3951,6 +3951,13 @@ On the..."]]></title>
             <guid isPermaLink="false">https://nhigham.com/2020/06/18/six-useful-latex-packages/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Thu, 18 Jun 2020 07:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Accidental Lawyer]]></title>
+            <link>http://yozh.org/2020/06/17/the-accidental-lawyer/</link>
+            <guid isPermaLink="false">http://yozh.org/2020/06/17/the-accidental-lawyer/</guid>
+            <dc:creator><![CDATA[Rhapsody in Numbers]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2020 03:17:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[if only this power could be used for *good*]]></title>
@@ -4758,6 +4765,13 @@ On the..."]]></title>
             <pubDate>Sat, 13 Jun 2020 05:38:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Thesis Stuff]]></title>
+            <link>http://yozh.org/2020/06/12/thesis-stuff/</link>
+            <guid isPermaLink="false">http://yozh.org/2020/06/12/thesis-stuff/</guid>
+            <dc:creator><![CDATA[Rhapsody in Numbers]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2020 03:30:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ODE solver landscape]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/hbtjhBvXo3I/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/hbtjhBvXo3I/</guid>
@@ -5130,15 +5144,15 @@ On the..."]]></title>
         </item>
         <item>
             <title><![CDATA[Taking STEM Online Workshops]]></title>
-            <link>https://busynessgirl.com/taking-stem-online-workshops/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/taking-stem-online-workshops/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/TZ8_iY542hc/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/TZ8_iY542hc/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Wed, 10 Jun 2020 03:28:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taking STEM Online Workshops]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/TZ8_iY542hc/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/TZ8_iY542hc/</guid>
+            <link>https://busynessgirl.com/taking-stem-online-workshops/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/taking-stem-online-workshops/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Wed, 10 Jun 2020 03:28:20 GMT</pubDate>
         </item>
