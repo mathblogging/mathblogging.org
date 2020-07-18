@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2020 19:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2020 20:18:04 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2020 19:17:44 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2020 20:18:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Competitive programming in Haskell: cycle decomposition with mutable arrays]]></title>
+            <link>https://byorgey.wordpress.com/2020/07/18/competitive-programming-in-haskell-cycle-decomposition-with-mutable-arrays/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2020/07/18/competitive-programming-in-haskell-cycle-decomposition-with-mutable-arrays/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2020 19:56:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Heroes Act Matters for NYC Schools (but too late for September)]]></title>
             <link>https://jd2718.org/2020/07/18/heroes-act-matters-for-nyc-schools-but-too-late-for-september/</link>
@@ -113,6 +120,27 @@
             <guid isPermaLink="false">https://statswithcats.net/2020/07/17/what-to-look-for-in-data/</guid>
             <dc:creator><![CDATA[Stats With Cats Blog]]></dc:creator>
             <pubDate>Fri, 17 Jul 2020 21:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding the Cube Root of Decimals]]></title>
+            <link>https://www.intmath.com/blog/mathematics/finding-the-cube-root-of-decimals-12452</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/finding-the-cube-root-of-decimals-12452</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2020 19:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding the Regular Mean in Geometry]]></title>
+            <link>https://www.intmath.com/blog/mathematics/finding-the-regular-mean-in-geometry-12450</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/finding-the-regular-mean-in-geometry-12450</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2020 19:07:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding Integers in Algebraic Equations]]></title>
+            <link>https://www.intmath.com/blog/mathematics/finding-integers-in-algebraic-equations-12448</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/finding-integers-in-algebraic-equations-12448</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2020 19:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On May The Fours Be With You - student]]></title>
@@ -297,16 +325,16 @@
             <pubDate>Fri, 17 Jul 2020 00:41:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hitchhiker's Guides]]></title>
-            <link>/hitchhikers-guides/</link>
-            <guid isPermaLink="false">/hitchhikers-guides/</guid>
+            <title><![CDATA[The Hitchikers Guide to Inferential Statistics]]></title>
+            <link>/2020/07/hitchikers-guide-to-inferential-statistics/</link>
+            <guid isPermaLink="false">/2020/07/hitchikers-guide-to-inferential-statistics/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hitchikers Guide to Inferential Statistics]]></title>
-            <link>/2020/07/hitchikers-guide-to-inferential-statistics/</link>
-            <guid isPermaLink="false">/2020/07/hitchikers-guide-to-inferential-statistics/</guid>
+            <title><![CDATA[Hitchhiker's Guides]]></title>
+            <link>/hitchhikers-guides/</link>
+            <guid isPermaLink="false">/hitchhikers-guides/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
         </item>
@@ -738,6 +766,13 @@
             <pubDate>Wed, 15 Jul 2020 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Codes-barres et reconnaissance de forme]]></title>
+            <link>http://images.math.cnrs.fr/Codes-barres-et-reconnaissance-de-forme.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Codes-barres-et-reconnaissance-de-forme.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2020 09:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ask Uncle Colin: Why does the $ac$ method work?]]></title>
             <link>https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-why-does-the-ac-method-work/</link>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-why-does-the-ac-method-work/</guid>
@@ -748,13 +783,6 @@
             <title><![CDATA[Lettre d'information du 15 juillet 2020]]></title>
             <link>http://images.math.cnrs.fr/Lettre-d-information-du-15-juillet-2020.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Lettre-d-information-du-15-juillet-2020.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2020 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Codes-barres et reconnaissance de forme]]></title>
-            <link>http://images.math.cnrs.fr/Codes-barres-et-reconnaissance-de-forme.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Codes-barres-et-reconnaissance-de-forme.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 15 Jul 2020 09:00:00 GMT</pubDate>
         </item>
@@ -2341,6 +2369,13 @@
             <pubDate>Tue, 07 Jul 2020 15:42:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My Enlightenment fanaticism]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4892</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4892</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2020 14:21:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Morse code golf]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/CCwhQhcJWy4/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/CCwhQhcJWy4/</guid>
@@ -2959,6 +2994,55 @@ On the..."]]></title>
             <pubDate>Fri, 03 Jul 2020 13:32:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How To Write Your Own Equation in Algebra]]></title>
+            <link>https://www.intmath.com/blog/mathematics/how-to-write-your-own-equation-in-algebra-12406</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/how-to-write-your-own-equation-in-algebra-12406</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2020 13:32:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Basic Rules For Simplifying Expressions]]></title>
+            <link>https://www.intmath.com/blog/mathematics/basic-rules-for-simplifying-expressions-12408</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/basic-rules-for-simplifying-expressions-12408</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2020 13:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Simplify Imaginary Numbers]]></title>
+            <link>https://www.intmath.com/blog/mathematics/how-to-simplify-imaginary-numbers-12410</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/how-to-simplify-imaginary-numbers-12410</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2020 13:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calculating Percentage Point]]></title>
+            <link>https://www.intmath.com/blog/mathematics/calculating-percentage-point-12412</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/calculating-percentage-point-12412</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2020 13:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding Derivative, Second Derivative, and Curvature]]></title>
+            <link>https://www.intmath.com/blog/mathematics/finding-derivative-second-derivative-and-curvature-12414</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/finding-derivative-second-derivative-and-curvature-12414</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2020 13:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Use Operator Precedence in Algebra]]></title>
+            <link>https://www.intmath.com/blog/mathematics/how-to-use-operator-precedence-in-algebra-12416</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/how-to-use-operator-precedence-in-algebra-12416</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2020 13:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can You Get a Negative out of a Square Root?]]></title>
+            <link>https://www.intmath.com/blog/mathematics/can-you-get-a-negative-out-of-a-square-root-12418</link>
+            <guid isPermaLink="false">https://www.intmath.com/blog/mathematics/can-you-get-a-negative-out-of-a-square-root-12418</guid>
+            <dc:creator><![CDATA[SquareCirclez]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2020 13:31:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[7/3/20]]></title>
             <link>https://purenumbers.tumblr.com/post/622622910127964161</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/622622910127964161</guid>
@@ -3027,6 +3111,13 @@ On the..."]]></title>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/mathematical-objects-acoustic-mirrors-with-james-grime/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Fri, 03 Jul 2020 07:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scott’s Zoom tip: Email the link!]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4888</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4888</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2020 06:43:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget Crisis in the NYC Department of Education and Top Salaries]]></title>
@@ -3524,6 +3615,13 @@ On the..."]]></title>
             <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/06/30/il-problema-di-giugno-622-sedici-dolci-triangoli/</guid>
             <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
             <pubDate>Tue, 30 Jun 2020 05:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Poulin]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4886</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4886</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2020 04:47:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Super Rugby Aotearoa Predictions for Round 4]]></title>
@@ -4226,17 +4324,17 @@ On the..."]]></title>
             <pubDate>Fri, 26 Jun 2020 02:14:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gold Cubes]]></title>
-            <link>http://datagenetics.com/blog/june92020/index.html</link>
-            <guid isPermaLink="false">http://datagenetics.com/blog/june92020/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Terminology matters]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/O5ow871tuCg/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/O5ow871tuCg/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gold Cubes]]></title>
+            <link>http://datagenetics.com/blog/june92020/index.html</link>
+            <guid isPermaLink="false">http://datagenetics.com/blog/june92020/index.html</guid>
+            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
             <pubDate>Fri, 26 Jun 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4483,6 +4581,13 @@ On the..."]]></title>
             <guid isPermaLink="false">https://blog.tanyakhovanova.com/2020/06/2020-mit-mystery-hunt/</guid>
             <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
             <pubDate>Tue, 23 Jun 2020 20:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pseudonymity as a trivial concession to genius]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4870</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4870</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2020 17:41:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dee Fink’s Significant Learning for Calculus II:  Initial Design Phase (Part II)]]></title>
@@ -4849,6 +4954,13 @@ On the..."]]></title>
             <pubDate>Sat, 20 Jun 2020 23:58:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Quantum Computing Since Democritus: New Foreword!]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4867</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4867</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2020 23:48:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[they say it’s one d-mn thing after another]]></title>
             <link>https://vlorbik.wordpress.com/2020/06/20/they-say-its-one-d-mn-thing-after-another/</link>
             <guid isPermaLink="false">https://vlorbik.wordpress.com/2020/06/20/they-say-its-one-d-mn-thing-after-another/</guid>
@@ -5059,6 +5171,13 @@ On the..."]]></title>
             <pubDate>Thu, 18 Jun 2020 22:21:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Justice has no faction]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4859</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4859</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2020 21:35:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Aki’s talk about reference models in model selection in Laplace’s demon series]]></title>
             <link>https://statmodeling.stat.columbia.edu/2020/06/18/akis-talk-about-reference-models-in-model-selection-in-laplaces-demon-series/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2020/06/18/akis-talk-about-reference-models-in-model-selection-in-laplaces-demon-series/</guid>
@@ -5211,20 +5330,6 @@ On the..."]]></title>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2020/06/act2020_tutorial_day.html</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Wed, 17 Jun 2020 20:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Impossible triangle in the sky]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/GMRFEi1LwVE/impossible-triangle-in-sky.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/GMRFEi1LwVE/impossible-triangle-in-sky.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2020 19:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ACT2020 Tutorial Day]]></title>
-            <link>https://johncarlosbaez.wordpress.com/2020/06/17/act2020-tutorial-day/</link>
-            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2020/06/17/act2020-tutorial-day/</guid>
-            <dc:creator><![CDATA[Azimuth]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2020 19:18:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
