@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2020 05:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2020 06:18:31 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2020 05:17:24 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2020 06:18:31 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -50,6 +50,13 @@
             <guid isPermaLink="false">https://terrytao.wordpress.com/2020/07/20/the-sunflower-lemma-via-shannon-entropy/</guid>
             <dc:creator><![CDATA[What's new]]></dc:creator>
             <pubDate>Tue, 21 Jul 2020 00:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this blog obsolete?]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4912</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4912</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2020 00:16:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On This Day in Math - July 21]]></title>
@@ -836,16 +843,16 @@
             <pubDate>Fri, 17 Jul 2020 00:41:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hitchhiker's Guides]]></title>
-            <link>/hitchhikers-guides/</link>
-            <guid isPermaLink="false">/hitchhikers-guides/</guid>
+            <title><![CDATA[The Hitchikers Guide to Inferential Statistics]]></title>
+            <link>/2020/07/hitchikers-guide-to-inferential-statistics/</link>
+            <guid isPermaLink="false">/2020/07/hitchikers-guide-to-inferential-statistics/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hitchikers Guide to Inferential Statistics]]></title>
-            <link>/2020/07/hitchikers-guide-to-inferential-statistics/</link>
-            <guid isPermaLink="false">/2020/07/hitchikers-guide-to-inferential-statistics/</guid>
+            <title><![CDATA[Hitchhiker's Guides]]></title>
+            <link>/hitchhikers-guides/</link>
+            <guid isPermaLink="false">/hitchhikers-guides/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
         </item>
@@ -1277,17 +1284,17 @@
             <pubDate>Wed, 15 Jul 2020 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lettre d'information du 15 juillet 2020]]></title>
-            <link>http://images.math.cnrs.fr/Lettre-d-information-du-15-juillet-2020.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Lettre-d-information-du-15-juillet-2020.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2020 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ask Uncle Colin: Why does the $ac$ method work?]]></title>
             <link>https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-why-does-the-ac-method-work/</link>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-why-does-the-ac-method-work/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2020 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lettre d'information du 15 juillet 2020]]></title>
+            <link>http://images.math.cnrs.fr/Lettre-d-information-du-15-juillet-2020.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Lettre-d-information-du-15-juillet-2020.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Wed, 15 Jul 2020 09:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1476,14 +1483,14 @@
             <title><![CDATA[From the mailbag – circles of circles]]></title>
             <link>https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 14 Jul 2020 12:24:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From the mailbag – circles of circles]]></title>
             <link>https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 14 Jul 2020 12:24:28 GMT</pubDate>
         </item>
         <item>
@@ -2796,6 +2803,13 @@
             <pubDate>Tue, 07 Jul 2020 15:42:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My Enlightenment fanaticism]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4892</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4892</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2020 14:21:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Morse code golf]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/CCwhQhcJWy4/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/CCwhQhcJWy4/</guid>
@@ -3454,13 +3468,6 @@
             <pubDate>Fri, 03 Jul 2020 12:31:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[There’s no vaccine for the sea level rising]]></title>
-            <link>https://feeds.feedblitz.com/~/629634726/0/oupblogmathematics/</link>
-            <guid isPermaLink="false">https://feeds.feedblitz.com/~/629634726/0/oupblogmathematics/</guid>
-            <dc:creator><![CDATA[OUPblog » Mathematics]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2020 12:30:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Online activities 6-12 July 2020]]></title>
             <link>https://ests.wordpress.com/2020/07/03/online-activities-6-12-july-2020/</link>
             <guid isPermaLink="false">https://ests.wordpress.com/2020/07/03/online-activities-6-12-july-2020/</guid>
@@ -3515,6 +3522,13 @@
             <guid isPermaLink="false">https://aperiodical.com/2020/07/mathematical-objects-acoustic-mirrors-with-james-grime/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Fri, 03 Jul 2020 07:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scott’s Zoom tip: Email the link!]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4888</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4888</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2020 06:43:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget Crisis in the NYC Department of Education and Top Salaries]]></title>
@@ -4005,6 +4019,13 @@
             <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/06/30/il-problema-di-giugno-622-sedici-dolci-triangoli/</guid>
             <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
             <pubDate>Tue, 30 Jun 2020 05:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Poulin]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4886</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4886</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2020 04:47:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Embracing Variation and Accepting Uncertainty (my talk this Wed/Tues at a symposium on communicating uncertainty)]]></title>
@@ -4854,6 +4875,13 @@
             <pubDate>Tue, 23 Jun 2020 20:30:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pseudonymity as a trivial concession to genius]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4870</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4870</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2020 17:41:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dee Fink’s Significant Learning for Calculus II:  Initial Design Phase (Part II)]]></title>
             <link>https://symmetricblog.wordpress.com/2020/06/23/dee-finks-significant-learning-for-calculus-ii-initial-design-phase/</link>
             <guid isPermaLink="false">https://symmetricblog.wordpress.com/2020/06/23/dee-finks-significant-learning-for-calculus-ii-initial-design-phase/</guid>
@@ -5216,6 +5244,13 @@
             <guid isPermaLink="false">https://vlorbik.wordpress.com/2020/06/20/i-do-not-like-it-on-the-net-i-would-not-do-it-on-a-bet/</guid>
             <dc:creator><![CDATA[the livingston review]]></dc:creator>
             <pubDate>Sat, 20 Jun 2020 23:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quantum Computing Since Democritus: New Foreword!]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4867</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4867</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2020 23:48:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[they say it’s one d-mn thing after another]]></title>
