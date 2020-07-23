@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2020 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2020 08:17:51 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2020 07:17:16 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2020 08:17:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[La mesure des figures du plan]]></title>
+            <link>http://images.math.cnrs.fr/La-mesure-des-figures-du-plan.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/La-mesure-des-figures-du-plan.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2020 08:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Busy Beaver Frontier]]></title>
             <link>https://www.scottaaronson.com/blog/?p=4916</link>
@@ -134,13 +141,6 @@
             <guid isPermaLink="false">https://11011110.github.io/blog/2020/07/22/three-cccg-videos.html</guid>
             <dc:creator><![CDATA[11011110]]></dc:creator>
             <pubDate>Wed, 22 Jul 2020 14:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Online talk: Zach Walsh]]></title>
-            <link>http://matroidunion.org/?p=2735</link>
-            <guid isPermaLink="false">http://matroidunion.org/?p=2735</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2020 14:44:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Banned math book]]></title>
@@ -696,11 +696,25 @@
             <pubDate>Mon, 20 Jul 2020 08:37:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[« Vado dove mi porta la ricerca ». Intervista a Cristiana De Filippis]]></title>
+            <link>http://maddmaths.simai.eu/persone/giovani-matematici-crescono/cristiana-de-filippis/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/persone/giovani-matematici-crescono/cristiana-de-filippis/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2020 06:40:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Morse theory on singular spaces]]></title>
             <link>https://burttotaro.wordpress.com/2020/07/20/morse-theory-on-singular-spaces/</link>
             <guid isPermaLink="false">https://burttotaro.wordpress.com/2020/07/20/morse-theory-on-singular-spaces/</guid>
             <dc:creator><![CDATA[Geometry Bulletin Board]]></dc:creator>
             <pubDate>Mon, 20 Jul 2020 06:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Racines carrées et nombres rationnels]]></title>
+            <link>http://images.math.cnrs.fr/Racines-carrees-et-nombres-rationnels.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Racines-carrees-et-nombres-rationnels.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5.7.1]]></title>
@@ -713,13 +727,6 @@
             <title><![CDATA[Deux billes, une bande et des rebonds : dynamique continue et dynamique discrète]]></title>
             <link>http://images.math.cnrs.fr/Deux-billes-une-bande-et-des-rebonds-dynamique-continue-et-dynamique-discrete.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/Deux-billes-une-bande-et-des-rebonds-dynamique-continue-et-dynamique-discrete.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2020 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Racines carrées et nombres rationnels]]></title>
-            <link>http://images.math.cnrs.fr/Racines-carrees-et-nombres-rationnels.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Racines-carrees-et-nombres-rationnels.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 20 Jul 2020 05:00:00 GMT</pubDate>
         </item>
@@ -1249,16 +1256,16 @@
             <pubDate>Fri, 17 Jul 2020 00:41:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hitchikers Guide to Inferential Statistics]]></title>
-            <link>/2020/07/hitchikers-guide-to-inferential-statistics/</link>
-            <guid isPermaLink="false">/2020/07/hitchikers-guide-to-inferential-statistics/</guid>
+            <title><![CDATA[Hitchhiker's Guides]]></title>
+            <link>/hitchhikers-guides/</link>
+            <guid isPermaLink="false">/hitchhikers-guides/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hitchhiker's Guides]]></title>
-            <link>/hitchhikers-guides/</link>
-            <guid isPermaLink="false">/hitchhikers-guides/</guid>
+            <title><![CDATA[The Hitchikers Guide to Inferential Statistics]]></title>
+            <link>/2020/07/hitchikers-guide-to-inferential-statistics/</link>
+            <guid isPermaLink="false">/2020/07/hitchikers-guide-to-inferential-statistics/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
         </item>
@@ -1415,6 +1422,13 @@
             <guid isPermaLink="false">https://flowingdata.com/2020/07/16/a-million-dollars-vs-a-billion-visualized-with-a-road-trip/</guid>
             <dc:creator><![CDATA[FlowingData]]></dc:creator>
             <pubDate>Thu, 16 Jul 2020 11:05:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La matematica indaga i movimenti dei pattinatori]]></title>
+            <link>http://maddmaths.simai.eu/news-2/la-matematica-indaga-i-movimenti-dei-pattinatori/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/la-matematica-indaga-i-movimenti-dei-pattinatori/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2020 10:42:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It's a V-shaped recovery if you start with a V that's almost a right angle and you tilt it sharply to one side.]]></title>
@@ -1662,13 +1676,6 @@
             <pubDate>Wed, 15 Jul 2020 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Codes-barres et reconnaissance de forme]]></title>
-            <link>http://images.math.cnrs.fr/Codes-barres-et-reconnaissance-de-forme.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Codes-barres-et-reconnaissance-de-forme.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2020 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Podcasting about: Relatively Prime]]></title>
             <link>https://aperiodical.com/2020/07/podcasting-about-relatively-prime/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/podcasting-about-relatively-prime/</guid>
@@ -1809,13 +1816,6 @@
             <pubDate>Tue, 14 Jul 2020 15:11:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Online talk: Pascal Gollin]]></title>
-            <link>http://matroidunion.org/?p=2728</link>
-            <guid isPermaLink="false">http://matroidunion.org/?p=2728</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2020 14:59:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Category Theory • Comment 1]]></title>
             <link>https://inquiryintoinquiry.com/2020/07/14/category-theory-%25e2%2580%25a2-comment-1/</link>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2020/07/14/category-theory-%e2%80%a2-comment-1/</guid>
@@ -1847,14 +1847,14 @@
             <title><![CDATA[From the mailbag – circles of circles]]></title>
             <link>https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 14 Jul 2020 12:24:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From the mailbag – circles of circles]]></title>
             <link>https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 14 Jul 2020 12:24:28 GMT</pubDate>
         </item>
         <item>
@@ -2110,6 +2110,13 @@
             <pubDate>Mon, 13 Jul 2020 09:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Matematica per un “Nuovo mondo” – Betül Tanbay sulla Giornata Internazionale della Matematica 2020]]></title>
+            <link>http://maddmaths.simai.eu/rubriche/l-editoriale/matematica-per-un-nuovo-mondo-betul-tanbay-sulla-giornata-internazionale-della-matematica-2020/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/rubriche/l-editoriale/matematica-per-un-nuovo-mondo-betul-tanbay-sulla-giornata-internazionale-della-matematica-2020/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2020 06:00:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Regression discontinuity model for TV series]]></title>
             <link>https://freakonometrics.hypotheses.org/61131</link>
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/61131</guid>
@@ -2292,6 +2299,13 @@
             <pubDate>Sun, 12 Jul 2020 07:42:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Modellistica matematica e Covid-19: intervista con Alessandro Vespignani]]></title>
+            <link>http://maddmaths.simai.eu/in-evidenza/vespignani/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/in-evidenza/vespignani/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2020 07:00:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mathematical Miscellany #43]]></title>
             <link>https://colleenyoung.wordpress.com/2020/07/12/mathematical-miscellany-43/</link>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2020/07/12/mathematical-miscellany-43/</guid>
@@ -2304,6 +2318,13 @@
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2020/07/12/mathematical-miscellany-43/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 12 Jul 2020 06:31:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Un matematico prestato alla Disney 17: I passatempi di Quacktown – Un enigma]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/un-matematico-prestato-alla-disney-17-i-passatempi-di-quacktown-un-enigma/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/un-matematico-prestato-alla-disney-17-i-passatempi-di-quacktown-un-enigma/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2020 06:00:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On This Day In Math - July 12]]></title>
@@ -2439,11 +2460,32 @@
             <pubDate>Sat, 11 Jul 2020 12:00:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Così simili eppure così diversi!]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/focus/cosi-simili-eppure-cosi-diversi/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/focus/cosi-simili-eppure-cosi-diversi/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2020 12:00:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fibonacci and His Rabbits]]></title>
             <link>http://mathtourist.blogspot.com/2020/07/fibonacci-and-his-rabbits.html</link>
             <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/07/fibonacci-and-his-rabbits.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sat, 11 Jul 2020 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I modelli matematici nell’era-covid? Hanno salvato milioni di vite umane – Intervista a Giuseppe Mingione]]></title>
+            <link>http://maddmaths.simai.eu/in-evidenza/i-modelli-matematici-nellera-covid-hanno-salvato-milioni-di-vite-umane-intervista-a-giuseppe-mingione/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/in-evidenza/i-modelli-matematici-nellera-covid-hanno-salvato-milioni-di-vite-umane-intervista-a-giuseppe-mingione/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2020 07:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[È morto Ron Graham, matematico e giocoliere]]></title>
+            <link>http://maddmaths.simai.eu/news-2/e-morto-ron-graham/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/news-2/e-morto-ron-graham/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2020 05:50:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Last Side Puzzle]]></title>
@@ -2507,6 +2549,13 @@
             <guid isPermaLink="false">http://www.moomoomathblog.com/2020/07/middle-school-tips.html</guid>
             <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
             <pubDate>Fri, 10 Jul 2020 20:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recap sull’iniziativa UMI-MaddMaths! sulla valutazione a distanza per i corsi universitari di matematica]]></title>
+            <link>http://maddmaths.simai.eu/in-evidenza/recap-valutazione-distanza/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/in-evidenza/recap-valutazione-distanza/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2020 20:15:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1 – 5 July Through a Mathematician’s Eyes | #1 Weekly Update]]></title>
@@ -2633,6 +2682,13 @@
             <guid isPermaLink="false">http://dionisoo.blogspot.com/2020/07/arvo-part.html</guid>
             <dc:creator><![CDATA[Blogghetto]]></dc:creator>
             <pubDate>Fri, 10 Jul 2020 10:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La didattica delle buone abitudini]]></title>
+            <link>http://maddmaths.simai.eu/divulgazione/langolo-arguto/la-didattica-delle-buone-abitudini/</link>
+            <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/langolo-arguto/la-didattica-delle-buone-abitudini/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2020 10:20:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IMDB -- Composer (519 credits)]]></title>
@@ -2899,13 +2955,6 @@
             <guid isPermaLink="false">https://gilkalai.wordpress.com/2020/07/08/to-cheer-you-up-in-difficult-times-7-bloom-and-sisask-just-broke-the-logarithm-barrier-for-roths-theorem/</guid>
             <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
             <pubDate>Wed, 08 Jul 2020 16:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Online Talk: Federico Ardila]]></title>
-            <link>http://matroidunion.org/?p=2720</link>
-            <guid isPermaLink="false">http://matroidunion.org/?p=2720</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2020 15:55:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ein Sommerferienprojekt für meine Kinder]]></title>
@@ -3200,13 +3249,6 @@
             <guid isPermaLink="false">https://blog.jpolak.org/?p=2236</guid>
             <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
             <pubDate>Tue, 07 Jul 2020 01:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carmesin’s 3-dimensional version of Whitney’s planarity criterion]]></title>
-            <link>http://matroidunion.org/?p=2693</link>
-            <guid isPermaLink="false">http://matroidunion.org/?p=2693</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2020 00:48:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On This Day in Math - July 7]]></title>
@@ -4161,13 +4203,6 @@
             <pubDate>Tue, 30 Jun 2020 20:59:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Online talk: Marthe Bonamy]]></title>
-            <link>http://matroidunion.org/?p=2686</link>
-            <guid isPermaLink="false">http://matroidunion.org/?p=2686</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2020 20:19:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Twelve MIT faculty honored as “Committed to Caring” for 2020-2021]]></title>
             <link>http://news.mit.edu/2020/twelve-mit-faculty-committed-to-caring-0630</link>
             <guid isPermaLink="false">http://news.mit.edu/2020/twelve-mit-faculty-committed-to-caring-0630</guid>
@@ -4192,14 +4227,14 @@
             <title><![CDATA[Prime Climb colouring in with LuaTeX]]></title>
             <link>https://aperiodical.com/2020/06/prime-climb-colouring-in-with-luatex/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/06/prime-climb-colouring-in-with-luatex/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 30 Jun 2020 15:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prime Climb colouring in with LuaTeX]]></title>
             <link>https://aperiodical.com/2020/06/prime-climb-colouring-in-with-luatex/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/06/prime-climb-colouring-in-with-luatex/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 30 Jun 2020 15:18:00 GMT</pubDate>
         </item>
         <item>
@@ -4385,13 +4420,6 @@
             <pubDate>Mon, 29 Jun 2020 15:45:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Online talks: announcement]]></title>
-            <link>http://matroidunion.org/?p=2681</link>
-            <guid isPermaLink="false">http://matroidunion.org/?p=2681</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2020 15:34:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Considering opposites . . . and finding union . . .]]></title>
             <link>https://poetrywithmathematics.blogspot.com/2020/06/considering-opposites-and-finding-union.html</link>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2020/06/considering-opposites-and-finding-union.html</guid>
@@ -4537,6 +4565,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/YpWVIbhwwcE/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sun, 28 Jun 2020 11:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[limit of a function]]></title>
+            <link>https://ncatlab.org/nlab/show/limit+of+a+function</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/limit+of+a+function</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2020 08:20:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HELM Notes]]></title>
