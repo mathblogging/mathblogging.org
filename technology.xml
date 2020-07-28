@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2020 09:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2020 10:17:50 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2020 09:17:34 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2020 10:17:50 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[What is the Polar Decomposition?]]></title>
+            <link>https://nhigham.com/2020/07/28/what-is-the-polar-decomposition/</link>
+            <guid isPermaLink="false">https://nhigham.com/2020/07/28/what-is-the-polar-decomposition/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2020 09:21:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We Got This – Part 3]]></title>
             <link>https://mattcoaty.com/2020/07/27/we-got-this-part-3/</link>
@@ -276,16 +283,16 @@
             <pubDate>Mon, 27 Jul 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5.7.2]]></title>
-            <link>http://images.math.cnrs.fr/-5597.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/-5597.html</guid>
+            <title><![CDATA[Un modèle aléatoire pour le grain photographique]]></title>
+            <link>http://images.math.cnrs.fr/Un-modele-aleatoire-pour-le-grain-photographique.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-modele-aleatoire-pour-le-grain-photographique.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 27 Jul 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Un modèle aléatoire pour le grain photographique]]></title>
-            <link>http://images.math.cnrs.fr/Un-modele-aleatoire-pour-le-grain-photographique.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-modele-aleatoire-pour-le-grain-photographique.html</guid>
+            <title><![CDATA[5.7.2]]></title>
+            <link>http://images.math.cnrs.fr/-5597.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/-5597.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Mon, 27 Jul 2020 05:00:00 GMT</pubDate>
         </item>
@@ -803,16 +810,16 @@ With..."]]></title>
             <pubDate>Fri, 24 Jul 2020 05:32:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quelques mots sur les figures sans paroles… I]]></title>
-            <link>http://images.math.cnrs.fr/Quelques-mots-sur-les-figures-sans-paroles-I.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Quelques-mots-sur-les-figures-sans-paroles-I.html</guid>
+            <title><![CDATA[Juillet 2020, 4e défi]]></title>
+            <link>http://images.math.cnrs.fr/Juillet-2020-4e-defi.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Juillet-2020-4e-defi.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 24 Jul 2020 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Juillet 2020, 4e défi]]></title>
-            <link>http://images.math.cnrs.fr/Juillet-2020-4e-defi.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Juillet-2020-4e-defi.html</guid>
+            <title><![CDATA[Quelques mots sur les figures sans paroles… I]]></title>
+            <link>http://images.math.cnrs.fr/Quelques-mots-sur-les-figures-sans-paroles-I.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Quelques-mots-sur-les-figures-sans-paroles-I.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 24 Jul 2020 05:00:00 GMT</pubDate>
         </item>
@@ -831,17 +838,17 @@ With..."]]></title>
             <pubDate>Fri, 24 Jul 2020 01:21:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trends in set theory]]></title>
-            <link>https://scoskey.org/trends</link>
-            <guid isPermaLink="false">https://scoskey.org/trends</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Contraceptive forecasting competition]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/kAKrVCp7T2s/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/kAKrVCp7T2s/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trends in set theory]]></title>
+            <link>https://scoskey.org/trends</link>
+            <guid isPermaLink="false">https://scoskey.org/trends</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2154,16 +2161,16 @@ With..."]]></title>
             <pubDate>Fri, 17 Jul 2020 01:34:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hitchikers Guide to Inferential Statistics]]></title>
-            <link>/2020/07/hitchikers-guide-to-inferential-statistics/</link>
-            <guid isPermaLink="false">/2020/07/hitchikers-guide-to-inferential-statistics/</guid>
+            <title><![CDATA[Hitchhiker's Guides]]></title>
+            <link>/hitchhikers-guides/</link>
+            <guid isPermaLink="false">/hitchhikers-guides/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hitchhiker's Guides]]></title>
-            <link>/hitchhikers-guides/</link>
-            <guid isPermaLink="false">/hitchhikers-guides/</guid>
+            <title><![CDATA[The Hitchikers Guide to Inferential Statistics]]></title>
+            <link>/2020/07/hitchikers-guide-to-inferential-statistics/</link>
+            <guid isPermaLink="false">/2020/07/hitchikers-guide-to-inferential-statistics/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
         </item>
@@ -2703,14 +2710,14 @@ With..."]]></title>
             <title><![CDATA[From the mailbag – circles of circles]]></title>
             <link>https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Tue, 14 Jul 2020 12:24:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From the mailbag – circles of circles]]></title>
             <link>https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/from-the-mailbag-circles-of-circles/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Tue, 14 Jul 2020 12:24:28 GMT</pubDate>
         </item>
         <item>
@@ -4719,14 +4726,14 @@ With..."]]></title>
             <title><![CDATA[Mathematical Things To Do]]></title>
             <link>https://aperiodical.com/2020/07/mathematical-things-to-do/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/mathematical-things-to-do/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 01 Jul 2020 12:31:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mathematical Things To Do]]></title>
             <link>https://aperiodical.com/2020/07/mathematical-things-to-do/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/mathematical-things-to-do/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
             <pubDate>Wed, 01 Jul 2020 12:31:45 GMT</pubDate>
         </item>
         <item>
@@ -5270,15 +5277,15 @@ With..."]]></title>
         </item>
         <item>
             <title><![CDATA[Why use Microsoft Word with blind math students?]]></title>
-            <link>https://busynessgirl.com/why-use-microsoft-word-with-blind-math-students/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/why-use-microsoft-word-with-blind-math-students/</guid>
+            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/pOlLchs1-R4/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/pOlLchs1-R4/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 27 Jun 2020 15:30:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why use Microsoft Word with blind math students?]]></title>
-            <link>http://feedproxy.google.com/~r/TeachingCollegeMath/~3/pOlLchs1-R4/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TeachingCollegeMath/~3/pOlLchs1-R4/</guid>
+            <link>https://busynessgirl.com/why-use-microsoft-word-with-blind-math-students/</link>
+            <guid isPermaLink="false">https://busynessgirl.com/why-use-microsoft-word-with-blind-math-students/</guid>
             <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
             <pubDate>Sat, 27 Jun 2020 15:30:45 GMT</pubDate>
         </item>
