@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2020 15:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2020 16:16:43 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2020 15:17:47 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2020 16:16:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -577,17 +577,17 @@
             <pubDate>Tue, 11 Aug 2020 00:12:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Change of Plans]]></title>
-            <link>https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</link>
-            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</guid>
-            <dc:creator><![CDATA[Math = Love]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (111)]]></title>
             <link>http://pbelmans.ncag.info/blog/2020/08/11/fortnightly-links-111/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/08/11/fortnightly-links-111/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Change of Plans]]></title>
+            <link>https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
             <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -960,6 +960,13 @@
             <guid isPermaLink="false">http://images.math.cnrs.fr/Un-autre-theoreme-de-distanciation-physique.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sun, 09 Aug 2020 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven announcements]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4933</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4933</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2020 08:36:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[name that tune]]></title>
@@ -2956,6 +2963,13 @@ U.S....]]></title>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Math 522, Fall 2020]]></title>
+            <link>https://scoskey.org/course/1920f-522/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/1920f-522/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Math 287, Fall 2020]]></title>
             <link>https://scoskey.org/course/1920f-287/</link>
             <guid isPermaLink="false">https://scoskey.org/course/1920f-287/</guid>
@@ -2967,13 +2981,6 @@ U.S....]]></title>
             <link>http://www.orrymr.com/zulu-stuff/</link>
             <guid isPermaLink="false">http://www.orrymr.com/zulu-stuff/</guid>
             <dc:creator><![CDATA[orrymr.com]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 522, Fall 2020]]></title>
-            <link>https://scoskey.org/course/1920f-522/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/1920f-522/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4081,14 +4088,14 @@ With..."]]></title>
             <title><![CDATA[nimsticks: LaTeX package for drawing Nim sticks and games]]></title>
             <link>https://aperiodical.com/2020/07/nimsticks-latex-package-for-drawing-nim-sticks-and-games/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/nimsticks-latex-package-for-drawing-nim-sticks-and-games/</guid>
-            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Fri, 24 Jul 2020 08:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[nimsticks: LaTeX package for drawing Nim sticks and games]]></title>
             <link>https://aperiodical.com/2020/07/nimsticks-latex-package-for-drawing-nim-sticks-and-games/</link>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/nimsticks-latex-package-for-drawing-nim-sticks-and-games/</guid>
-            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <dc:creator><![CDATA[Travels in a Mathematical World – The Aperiodical]]></dc:creator>
             <pubDate>Fri, 24 Jul 2020 08:56:00 GMT</pubDate>
         </item>
         <item>
@@ -4209,6 +4216,13 @@ With..."]]></title>
             <guid isPermaLink="false">http://observationalepidemiology.blogspot.com/2020/07/if-you-see-that-kind-of-disconnect-it.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 23 Jul 2020 10:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Busy Beaver Frontier]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4916</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4916</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2020 06:42:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prepping for the fall]]></title>
@@ -4510,6 +4524,13 @@ With..."]]></title>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2020/07/20/the-sunflower-lemma-via-shannon-entropy/</guid>
             <dc:creator><![CDATA[What's new]]></dc:creator>
             <pubDate>Tue, 21 Jul 2020 00:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this blog obsolete?]]></title>
+            <link>https://www.scottaaronson.com/blog/?p=4912</link>
+            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=4912</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2020 00:16:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stephen Senn: Losing Control (guest post)]]></title>
