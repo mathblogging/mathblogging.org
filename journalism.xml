@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2020 06:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2020 07:17:04 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2020 06:17:32 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2020 07:17:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Eugenio Calabi]]></title>
+            <link>https://ncatlab.org/nlab/show/Eugenio+Calabi</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Eugenio+Calabi</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2020 06:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quick & Dirty - Un gioco delle tre carte]]></title>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/08/14/quick-dirty-un-gioco-delle-tre-carte/</link>
+            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2020/08/14/quick-dirty-un-gioco-delle-tre-carte/</guid>
+            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2020 06:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Août 2020, 2e défi]]></title>
             <link>http://images.math.cnrs.fr/Aout-2020-2e-defi.html</link>
@@ -766,17 +780,17 @@
             <pubDate>Tue, 11 Aug 2020 00:12:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Change of Plans]]></title>
-            <link>https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</link>
-            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</guid>
-            <dc:creator><![CDATA[Math = Love]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (111)]]></title>
             <link>http://pbelmans.ncag.info/blog/2020/08/11/fortnightly-links-111/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/08/11/fortnightly-links-111/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Change of Plans]]></title>
+            <link>https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
             <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2226,6 +2240,13 @@ Source: Manuscript Florenz, Biblioteca...]]></title>
             <pubDate>Tue, 04 Aug 2020 12:30:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Calabi-Penrose fibration]]></title>
+            <link>https://ncatlab.org/nlab/show/Calabi-Penrose+fibration</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Calabi-Penrose+fibration</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2020 12:28:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Continued fractions of square roots]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/axKRqIfiNvo/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/axKRqIfiNvo/</guid>
@@ -2543,7 +2564,7 @@ U.S....]]></title>
             <pubDate>Mon, 03 Aug 2020 10:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IsarMathLib version 1.13.0]]></title>
+            <title><![CDATA[IsarMathLib version 1.13.0: Roelcke uniformity]]></title>
             <link>https://slawekk.wordpress.com/2020/08/03/isarmathlib-version-1-13-0/</link>
             <guid isPermaLink="false">https://slawekk.wordpress.com/2020/08/03/isarmathlib-version-1-13-0/</guid>
             <dc:creator><![CDATA[Formalized Mathematics]]></dc:creator>
@@ -3068,10 +3089,10 @@ U.S....]]></title>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Zulu Stuff]]></title>
-            <link>http://www.orrymr.com/zulu-stuff/</link>
-            <guid isPermaLink="false">http://www.orrymr.com/zulu-stuff/</guid>
-            <dc:creator><![CDATA[orrymr.com]]></dc:creator>
+            <title><![CDATA[Math 287, Fall 2020]]></title>
+            <link>https://scoskey.org/course/1920f-287/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/1920f-287/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3082,10 +3103,10 @@ U.S....]]></title>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Math 287, Fall 2020]]></title>
-            <link>https://scoskey.org/course/1920f-287/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/1920f-287/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <title><![CDATA[Zulu Stuff]]></title>
+            <link>http://www.orrymr.com/zulu-stuff/</link>
+            <guid isPermaLink="false">http://www.orrymr.com/zulu-stuff/</guid>
+            <dc:creator><![CDATA[orrymr.com]]></dc:creator>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4204,17 +4225,17 @@ With..."]]></title>
             <pubDate>Fri, 24 Jul 2020 05:49:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trends in set theory]]></title>
-            <link>https://scoskey.org/trends</link>
-            <guid isPermaLink="false">https://scoskey.org/trends</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Contraceptive forecasting competition]]></title>
             <link>http://feedproxy.google.com/~r/Hyndsight/~3/kAKrVCp7T2s/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/Hyndsight/~3/kAKrVCp7T2s/</guid>
             <dc:creator><![CDATA[Hyndsight on Rob J Hyndman]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trends in set theory]]></title>
+            <link>https://scoskey.org/trends</link>
+            <guid isPermaLink="false">https://scoskey.org/trends</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -4888,13 +4909,6 @@ With..."]]></title>
             <guid isPermaLink="false">https://colleenyoung.wordpress.com/2020/07/19/summer-2020/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 19 Jul 2020 06:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CompLF/HOAS]]></title>
-            <link>https://ncatlab.org/nlab/show/CompLF%252FHOAS</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/CompLF%2FHOAS</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2020 06:18:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Estimated Range Between Radios Based on RSSI]]></title>
