@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2020 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2020 08:17:27 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2020 07:17:16 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2020 08:17:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Compter comme Cauchy]]></title>
+            <link>http://images.math.cnrs.fr/Compter-comme-Cauchy.html</link>
+            <guid isPermaLink="false">http://images.math.cnrs.fr/Compter-comme-Cauchy.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2020 08:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Open Systems: A Double Categorical Perspective (Part 1)]]></title>
             <link>https://golem.ph.utexas.edu/category/2020/08/open_systems_a_double_categori.html</link>
@@ -218,13 +225,6 @@
             <guid isPermaLink="false">http://maddmaths.simai.eu/divulgazione/focus/teoria-topologica-intelligenza-artificiale/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Fri, 14 Aug 2020 07:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eugenio Calabi]]></title>
-            <link>https://ncatlab.org/nlab/show/Eugenio+Calabi</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Eugenio+Calabi</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2020 06:22:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quick & Dirty - Un gioco delle tre carte]]></title>
@@ -997,17 +997,17 @@
             <pubDate>Tue, 11 Aug 2020 00:12:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Change of Plans]]></title>
-            <link>https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</link>
-            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</guid>
-            <dc:creator><![CDATA[Math = Love]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fortnightly links (111)]]></title>
             <link>http://pbelmans.ncag.info/blog/2020/08/11/fortnightly-links-111/</link>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/08/11/fortnightly-links-111/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Change of Plans]]></title>
+            <link>https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</link>
+            <guid isPermaLink="false">https://mathequalslove.blogspot.com/2020/08/change-of-plans.html</guid>
+            <dc:creator><![CDATA[Math = Love]]></dc:creator>
             <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2408,25 +2408,11 @@ Source: Manuscript Florenz, Biblioteca...]]></title>
             <pubDate>Tue, 04 Aug 2020 13:40:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[complex projective 3-space]]></title>
-            <link>https://ncatlab.org/nlab/show/complex+projective+3-space</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/complex+projective+3-space</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2020 12:34:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[8/4/20]]></title>
             <link>https://purenumbers.tumblr.com/post/625521960879849472</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/625521960879849472</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Tue, 04 Aug 2020 12:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calabi-Penrose fibration]]></title>
-            <link>https://ncatlab.org/nlab/show/Calabi-Penrose+fibration</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Calabi-Penrose+fibration</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2020 12:28:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Continued fractions of square roots]]></title>
@@ -2483,13 +2469,6 @@ Source: Manuscript Florenz, Biblioteca...]]></title>
             <guid isPermaLink="false">https://jd2718.org/2020/08/04/teachers-need-real-prep-time-not-release-time/</guid>
             <dc:creator><![CDATA[JD2718]]></dc:creator>
             <pubDate>Tue, 04 Aug 2020 09:11:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Un modèle aléatoire pour le grain photographique]]></title>
-            <link>http://images.math.cnrs.fr/Un-modele-aleatoire-pour-le-grain-photographique.html</link>
-            <guid isPermaLink="false">http://images.math.cnrs.fr/Un-modele-aleatoire-pour-le-grain-photographique.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2020 09:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neue Technik]]></title>
@@ -3250,6 +3229,13 @@ U.S....]]></title>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Math 522, Fall 2020]]></title>
+            <link>https://scoskey.org/course/1920f-522/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/1920f-522/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Zulu Stuff]]></title>
             <link>http://www.orrymr.com/zulu-stuff/</link>
             <guid isPermaLink="false">http://www.orrymr.com/zulu-stuff/</guid>
@@ -3260,13 +3246,6 @@ U.S....]]></title>
             <title><![CDATA[Math 287, Fall 2020]]></title>
             <link>https://scoskey.org/course/1920f-287/</link>
             <guid isPermaLink="false">https://scoskey.org/course/1920f-287/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 522, Fall 2020]]></title>
-            <link>https://scoskey.org/course/1920f-522/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/1920f-522/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
@@ -5476,13 +5455,6 @@ With..."]]></title>
             <guid isPermaLink="false">https://aperiodical.com/2020/07/podcasting-about-relatively-prime/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 15 Jul 2020 08:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The emergence of modern astronomy – a complex mosaic: Part XL]]></title>
-            <link>https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/</link>
-            <guid isPermaLink="false">https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/</guid>
-            <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2020 07:46:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
