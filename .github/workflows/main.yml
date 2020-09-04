@@ -17,9 +17,11 @@ jobs:
           consumer_secret: ${{ secrets.CONSUMER_SECRET }}
           access_token: ${{ secrets.ACCESS_TOKEN}}
           access_token_secret: ${{ secrets.ACCESS_TOKEN_SECRET}}
+          my_secret: ${{ secrets.TEST_SECRET}}
       - run: |
           echo Regenerate mathblogging.org
           echo configure git
+          echo $my_secret
           git config user.name github-actions
           git config user.email github-actions@github.com
           mbdir=$(pwd)
