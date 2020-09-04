@@ -29,7 +29,7 @@ jobs:
           npm i mathblogging/mathblogging-base
           echo run build
           cd ./node_modules/mathblogging-base/
-          sh ./bin/ci.sh $mbdir
+          consumer_key=$consumer_key consumer_secret=$consumer_secret access_token=$access_token access_token_secret=$access_token_secret sh ./bin/ci.sh $mbdir
           cd $mbdir
           git add .
           git commit -m "chore: cron job" || true
