@@ -229,10 +229,9 @@ a:hover {
 blockquote.twitter-tweet {
   display: inline-block;
   font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
-  font-size: 12px;
+  font-size: 1.1em;
   font-weight: bold;
-  line-height: 16px;
-  line-height: 1.33;
+  line-height: 1.4;
   border-color: #eee #ddd #bbb;
   border-radius: 5px;
   border-style: solid;
@@ -248,7 +247,6 @@ blockquote.twitter-tweet {
 }
 
 blockquote.twitter-tweet p {
-  font-size: 1.2em;
   font-weight: normal;
   line-height: 20px;
   line-height: 1.4;
