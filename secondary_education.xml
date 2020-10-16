@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2020 01:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2020 04:37:34 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2020 01:20:47 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2020 04:37:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Binomial logistic regression models in R]]></title>
+            <link>https://blog.jpolak.org/?p=2265</link>
+            <guid isPermaLink="false">https://blog.jpolak.org/?p=2265</guid>
+            <dc:creator><![CDATA[Aleph Zero Categorical]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2020 03:14:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fermat’s Riddle]]></title>
             <link>https://xianblog.wordpress.com/2020/10/16/fermats-riddler/</link>
@@ -638,6 +645,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/uf9d3_UMs8s/</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Tue, 13 Oct 2020 05:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newton's Method but without calculus — or multiplication]]></title>
+            <link>https://blog.plover.com/math/newton-mediants.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/math/newton-mediants.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2020 05:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On This Day in Math - October 13]]></title>
@@ -1919,6 +1933,13 @@
             <guid isPermaLink="false">https://rjlipton.wordpress.com/2020/10/06/knowledge-is-good/</guid>
             <dc:creator><![CDATA[Gödel’s Lost Letter and P=NP]]></dc:creator>
             <pubDate>Wed, 07 Oct 2020 04:54:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Questions About Trees]]></title>
+            <link>http://bit-player.org/2020/more-questions-about-trees</link>
+            <guid isPermaLink="false">http://bit-player.org/2020/more-questions-about-trees</guid>
+            <dc:creator><![CDATA[bit-player]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2020 01:44:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Network Models]]></title>
@@ -4068,6 +4089,13 @@ Neil Weste and Kamran Eshraghian]]></title>
             <pubDate>Wed, 23 Sep 2020 19:52:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The mystery of the malformed command-line flags]]></title>
+            <link>https://blog.plover.com/prog/bug/hyphens.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/prog/bug/hyphens.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2020 18:18:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Normed Division Algebra Found!]]></title>
             <link>https://golem.ph.utexas.edu/category/2020/09/new_normed_division_algebra_fo.html</link>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2020/09/new_normed_division_algebra_fo.html</guid>
@@ -5284,20 +5312,6 @@ Neil Weste and Kamran Eshraghian]]></title>
             <guid isPermaLink="false">https://nhigham.com/2020/09/15/what-is-a-householder-matrix/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Tue, 15 Sep 2020 08:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Clear Line]]></title>
-            <link>https://jd2718.org/2020/09/15/a-clear-line/</link>
-            <guid isPermaLink="false">https://jd2718.org/2020/09/15/a-clear-line/</guid>
-            <dc:creator><![CDATA[JD2718]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2020 04:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trig Unit]]></title>
-            <link>http://craftymathed.blogspot.com/2020/09/trig-unit.html</link>
-            <guid isPermaLink="false">http://craftymathed.blogspot.com/2020/09/trig-unit.html</guid>
-            <dc:creator><![CDATA[Crafty Math]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2020 02:45:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
