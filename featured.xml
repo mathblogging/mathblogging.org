@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2020 08:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2020 12:34:06 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2020 08:37:08 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2020 12:34:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[away from CIRM]]></title>
+            <link>https://xianblog.wordpress.com/2020/11/05/away-from-cirm/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2020/11/05/away-from-cirm/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2020 12:15:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Some additional notes on a paper folding problem, and it's solutions]]></title>
             <link>https://pballew.blogspot.com/2020/11/some-additional-notes-on-paper-folding.html</link>
@@ -1179,6 +1186,13 @@
             <pubDate>Sat, 31 Oct 2020 08:00:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Back to basics : local martingales]]></title>
+            <link>https://djalil.chafai.net/blog/2020/10/31/back-to-basics-local-martingales/</link>
+            <guid isPermaLink="false">https://djalil.chafai.net/blog/2020/10/31/back-to-basics-local-martingales/</guid>
+            <dc:creator><![CDATA[Libres pensées d'un mathématicien ordinaire]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2020 06:52:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#mathyear semaine 26]]></title>
             <link>http://images.math.cnrs.fr/mathyear-semaine-26.html</link>
             <guid isPermaLink="false">http://images.math.cnrs.fr/mathyear-semaine-26.html</guid>
@@ -1394,13 +1408,6 @@
             <guid isPermaLink="false">https://gottwurfelt.com/2020/10/29/another-odd-crossword-clue/</guid>
             <dc:creator><![CDATA[God plays dice]]></dc:creator>
             <pubDate>Thu, 29 Oct 2020 23:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[secrets of the surface]]></title>
-            <link>https://xianblog.wordpress.com/2020/10/30/secrets-of-the-surface/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2020/10/30/secrets-of-the-surface/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2020 23:20:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Continuous models of arithmetic, MOPA, November 2020]]></title>
@@ -5132,20 +5139,6 @@
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2020/10/mip-re-redux.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 05 Oct 2020 12:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corona - fausse alerte?]]></title>
-            <link>http://www.mathoman.com/index.php/1727-corona-fausse-alerte</link>
-            <guid isPermaLink="false">http://www.mathoman.com/index.php/1727-corona-fausse-alerte</guid>
-            <dc:creator><![CDATA[Math 0' Man : le Blog des Maths]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2020 11:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dictionary of Mathematical Eponymy: Volder’s algorithm]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-volders-algorithm/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/dictionary-of-mathematical-eponymy-volders-algorithm/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2020 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
