@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Nov 2020 08:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Nov 2020 12:40:21 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Nov 2020 08:36:54 GMT</pubDate>
+        <pubDate>Sun, 29 Nov 2020 12:40:21 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[abelian group of matrices under addition proof]]></title>
+            <link>https://www.bookofproofs.org/branches/abelian-group-of-matrices-under-addition/proof/</link>
+            <guid isPermaLink="false">https://www.bookofproofs.org/branches/abelian-group-of-matrices-under-addition/proof/</guid>
+            <dc:creator><![CDATA[The BookOfProofs Feed]]></dc:creator>
+            <pubDate>Sun, 29 Nov 2020 11:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Un matematico prestato alla Disney 27 – Da Paperopoli a Lillehammer – L’area]]></title>
             <link>http://maddmaths.simai.eu/divulgazione/un-matematico-prestato-alla-disney-27-da-paperopoli-a-lillehammer-larea/</link>
@@ -50,6 +57,13 @@
             <guid isPermaLink="false">http://blog.mathoffthegrid.com/2020/11/pushing-limits.html</guid>
             <dc:creator><![CDATA[Math off the grid]]></dc:creator>
             <pubDate>Sun, 29 Nov 2020 01:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An update for Grassmannian.info: spectra of quantum multiplication with $\mathrm{c}_1$]]></title>
+            <link>http://pbelmans.ncag.info/blog/2020/11/29/spectra-on-grassmannian/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2020/11/29/spectra-on-grassmannian/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Sun, 29 Nov 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Holmes alone]]></title>
@@ -4901,20 +4915,6 @@
             <guid isPermaLink="false">https://mathbabe.org/2020/10/29/get-ready-for-an-epic-hangover/</guid>
             <dc:creator><![CDATA[mathbabe]]></dc:creator>
             <pubDate>Thu, 29 Oct 2020 12:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rug Symmetries]]></title>
-            <link>http://mathtourist.blogspot.com/2020/10/rug-symmetries.html</link>
-            <guid isPermaLink="false">http://mathtourist.blogspot.com/2020/10/rug-symmetries.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2020 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Completing the Square]]></title>
-            <link>https://mathematicsforstudents.wordpress.com/2020/10/29/completing-the-square-3/</link>
-            <guid isPermaLink="false">https://mathematicsforstudents.wordpress.com/2020/10/29/completing-the-square-3/</guid>
-            <dc:creator><![CDATA[Mathematics for Students]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2020 11:02:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
