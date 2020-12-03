@@ -2,7 +2,7 @@ name: mathblogging.org cronjob
 
 on:
   schedule:
-    - cron: '17 */4 * * *'
+    - cron: '10 * * * *'
 
 jobs:
   build:
