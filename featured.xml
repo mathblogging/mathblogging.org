@@ -4,11 +4,39 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Feb 2021 20:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 01:13:52 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Feb 2021 20:36:31 GMT</pubDate>
+        <pubDate>Wed, 17 Feb 2021 01:13:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[why does rbinom(1,1) differ from sample(0:1,1) with the same seed?]]></title>
+            <link>https://xianblog.wordpress.com/2021/02/17/why-does-rbinom11-differ-from-sample011-with-the-same-seed/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/02/17/why-does-rbinom11-differ-from-sample011-with-the-same-seed/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 16 Feb 2021 23:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[R graphics get modern text support, with ragg package]]></title>
+            <link>https://flowingdata.com/2021/02/16/r-graphics-get-modern-text-support-with-ragg-package/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2021/02/16/r-graphics-get-modern-text-support-with-ragg-package/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Tue, 16 Feb 2021 23:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It's Tversky-Kahneman time: the law of small numbers]]></title>
+            <link>https://junkcharts.typepad.com/numbersruleyourworld/2021/02/its-tversky-kahneman-time-the-law-of-small-numbers.html</link>
+            <guid isPermaLink="false">https://junkcharts.typepad.com/numbersruleyourworld/2021/02/its-tversky-kahneman-time-the-law-of-small-numbers.html</guid>
+            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
+            <pubDate>Tue, 16 Feb 2021 21:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ideal gas law]]></title>
+            <link>https://blog.plover.com/physics/ideal-gas-law.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/physics/ideal-gas-law.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Tue, 16 Feb 2021 20:58:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Freedom Day – NYC – February 3, 1964]]></title>
             <link>https://jd2718.org/2021/02/16/freedom-day-nyc-february-3-1964/</link>
@@ -36,6 +64,13 @@
             <guid isPermaLink="false">https://blog.ingo-bartling.de/2021/02/16/programmieraufgabe-109/</guid>
             <dc:creator><![CDATA[Lehrzeit]]></dc:creator>
             <pubDate>Tue, 16 Feb 2021 16:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Borromean rings]]></title>
+            <link>https://11011110.github.io/blog/2021/02/16/lattice-borromean-rings.html</link>
+            <guid isPermaLink="false">https://11011110.github.io/blog/2021/02/16/lattice-borromean-rings.html</guid>
+            <dc:creator><![CDATA[11011110]]></dc:creator>
+            <pubDate>Tue, 16 Feb 2021 16:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Third journal scammed by rogue editors]]></title>
@@ -1186,6 +1221,13 @@
             <pubDate>Thu, 11 Feb 2021 06:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ramanujan Machine Redux]]></title>
+            <link>https://www.galoisrepresentations.com/2021/02/11/ramanujan-machine-redux/</link>
+            <guid isPermaLink="false">https://www.galoisrepresentations.com/2021/02/11/ramanujan-machine-redux/</guid>
+            <dc:creator><![CDATA[Persiflage]]></dc:creator>
+            <pubDate>Thu, 11 Feb 2021 03:00:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bomb Defusal]]></title>
             <link>https://datagenetics.com/blog/february42021/index.html</link>
             <guid isPermaLink="false">https://datagenetics.com/blog/february42021/index.html</guid>
@@ -1597,13 +1639,6 @@
             <guid isPermaLink="false">https://blog.plover.com/lang/dumps.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[is f({Y|X}) equal to f(Y)|X?]]></title>
-            <link>https://xianblog.wordpress.com/2021/02/09/is-fyx-equal-to-fyx/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/02/09/is-fyx-equal-to-fyx/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 08 Feb 2021 23:21:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Healthcare Rationing: coverage in NYT]]></title>
@@ -2124,13 +2159,6 @@
             <pubDate>Fri, 05 Feb 2021 21:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Notes on the Astrazeneca-Oxford vaccine trial results 3: it's raining numbers]]></title>
-            <link>https://junkcharts.typepad.com/numbersruleyourworld/2021/02/notes-on-the-astrazeneca-oxford-vaccine-trial-results-3-its-raining-numbers.html</link>
-            <guid isPermaLink="false">https://junkcharts.typepad.com/numbersruleyourworld/2021/02/notes-on-the-astrazeneca-oxford-vaccine-trial-results-3-its-raining-numbers.html</guid>
-            <dc:creator><![CDATA[Big Data, Plainly Spoken (aka Numbers Rule Your World)]]></dc:creator>
-            <pubDate>Fri, 05 Feb 2021 20:05:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Found In Space - a.k.]]></title>
             <link>https://www.thusspakeak.com/ak/2021/02/01-FoundInSpace.html</link>
             <guid isPermaLink="false">https://www.thusspakeak.com/ak/2021/02/01-FoundInSpace.html</guid>
@@ -2213,13 +2241,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/dyb7rw9Blf0/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Fri, 05 Feb 2021 11:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pandemic Graphics Archive]]></title>
-            <link>https://flowingdata.com/2021/02/05/pandemic-graphics-archive/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2021/02/05/pandemic-graphics-archive/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Fri, 05 Feb 2021 11:03:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If you haven't seen this clip, you really need to check it out.]]></title>
@@ -5120,27 +5141,6 @@ The absence of terminal..."]]></title>
             <guid isPermaLink="false">https://www.mathscinotes.com/2021/01/us-battleship-fuel-usage/</guid>
             <dc:creator><![CDATA[Math Encounters Blog]]></dc:creator>
             <pubDate>Sun, 17 Jan 2021 01:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ofqual consultation PART 1]]></title>
-            <link>https://justmaths.co.uk/2021/01/17/ofqual-consultation-part-1/</link>
-            <guid isPermaLink="false">https://justmaths.co.uk/2021/01/17/ofqual-consultation-part-1/</guid>
-            <dc:creator><![CDATA[Blog]]></dc:creator>
-            <pubDate>Sun, 17 Jan 2021 00:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ein Mathematiker wird Bidens Wissenschaftsminister]]></title>
-            <link>https://scienceblogs.de/mathlog/2021/01/17/ein-mathematiker-wird-bidens-wissenschaftsminister/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ein-mathematiker-wird-bidens-wissenschaftsminister</link>
-            <guid isPermaLink="false">https://scienceblogs.de/mathlog/2021/01/17/ein-mathematiker-wird-bidens-wissenschaftsminister/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ein-mathematiker-wird-bidens-wissenschaftsminister</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Sat, 16 Jan 2021 22:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All Factors of 900-Includes Prime Factorization]]></title>
-            <link>http://www.moomoomathblog.com/2021/01/all-factors-of-900-includes-prime.html</link>
-            <guid isPermaLink="false">http://www.moomoomathblog.com/2021/01/all-factors-of-900-includes-prime.html</guid>
-            <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
-            <pubDate>Sat, 16 Jan 2021 20:43:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
