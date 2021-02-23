@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Feb 2021 16:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2021 20:37:59 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Feb 2021 16:59:19 GMT</pubDate>
+        <pubDate>Tue, 23 Feb 2021 20:37:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Circle of Life]]></title>
+            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/z0a16V5Sm_8/circle-of-life.html</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/z0a16V5Sm_8/circle-of-life.html</guid>
+            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
+            <pubDate>Tue, 23 Feb 2021 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing a New Course on Mapping Geographic Data in R, with ggplot2]]></title>
+            <link>https://flowingdata.com/2021/02/23/introducing-a-new-course-on-mapping-geographic-data-in-r-with-ggplot2/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2021/02/23/introducing-a-new-course-on-mapping-geographic-data-in-r-with-ggplot2/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Tue, 23 Feb 2021 17:25:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is the relevance of “bad science” to our understanding of “good science”?]]></title>
             <link>https://statmodeling.stat.columbia.edu/2021/02/23/what-is-the-relevance-of-bad-science-to-our-understanding-of-good-science/</link>
@@ -99,6 +113,13 @@
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2021/02/good-names-and-bad-names-of-game-shows.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Tue, 23 Feb 2021 05:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Language Complexity (Part 3)]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2021/02/23/language-complexity-part-3/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2021/02/23/language-complexity-part-3/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Tue, 23 Feb 2021 05:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wason selection task]]></title>
@@ -561,13 +582,6 @@
             <guid isPermaLink="false">https://mrhonner.com/archives/20790</guid>
             <dc:creator><![CDATA[Mr Honner]]></dc:creator>
             <pubDate>Sun, 21 Feb 2021 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[condensed cohesion]]></title>
-            <link>https://ncatlab.org/nlab/show/condensed+cohesion</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/condensed+cohesion</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 21 Feb 2021 08:50:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Negative Numbers]]></title>
@@ -2320,13 +2334,6 @@
             <pubDate>Fri, 12 Feb 2021 17:38:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Data visualization crossword puzzle]]></title>
-            <link>https://flowingdata.com/2021/02/12/data-visualization-crossword-puzzle/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2021/02/12/data-visualization-crossword-puzzle/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Fri, 12 Feb 2021 16:47:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finding pi in pi with Perl]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/bOgMXOO48oc/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/bOgMXOO48oc/</guid>
@@ -3762,13 +3769,6 @@
             <pubDate>Tue, 02 Feb 2021 19:04:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nitrogen-14]]></title>
-            <link>https://johncarlosbaez.wordpress.com/2021/02/02/nitrogen-14/</link>
-            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2021/02/02/nitrogen-14/</guid>
-            <dc:creator><![CDATA[Azimuth]]></dc:creator>
-            <pubDate>Tue, 02 Feb 2021 19:01:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[One more cartoon like this, and this blog will be obsolete.]]></title>
             <link>https://statmodeling.stat.columbia.edu/2021/02/02/one-more-cartoon-like-this-and-this-blog-will-be-obsolete/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2021/02/02/one-more-cartoon-like-this-and-this-blog-will-be-obsolete/</guid>
@@ -5181,41 +5181,6 @@
             <guid isPermaLink="false">https://homotopytypetheory.org/2021/01/23/can-the-type-of-truth-values-be-given-the-structure-of-a-group/</guid>
             <dc:creator><![CDATA[Homotopy Type Theory]]></dc:creator>
             <pubDate>Sat, 23 Jan 2021 20:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comfortably Numb]]></title>
-            <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/4QAUYk3ckf8/comfortably-numb.html</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/4QAUYk3ckf8/comfortably-numb.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Sat, 23 Jan 2021 19:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SOH CAH TOA]]></title>
-            <link>https://www.angelostella.it/soh-cah-toa/</link>
-            <guid isPermaLink="false">https://www.angelostella.it/soh-cah-toa/</guid>
-            <dc:creator><![CDATA[Angelo Stella]]></dc:creator>
-            <pubDate>Sat, 23 Jan 2021 19:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digital Weekly Math Reviews]]></title>
-            <link>https://mattcoaty.com/2021/01/23/digital-weekly-math-reviews/</link>
-            <guid isPermaLink="false">https://mattcoaty.com/2021/01/23/digital-weekly-math-reviews/</guid>
-            <dc:creator><![CDATA[Educational Aspirations]]></dc:creator>
-            <pubDate>Sat, 23 Jan 2021 19:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newton’s method spirals]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/0w9mg4qmVes/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/0w9mg4qmVes/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sat, 23 Jan 2021 18:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mathematicians’ Phone Passcodes]]></title>
-            <link>https://divisbyzero.com/2021/01/23/mathematicians-phone-passcodes/</link>
-            <guid isPermaLink="false">https://divisbyzero.com/2021/01/23/mathematicians-phone-passcodes/</guid>
-            <dc:creator><![CDATA[David Richeson: Division by Zero]]></dc:creator>
-            <pubDate>Sat, 23 Jan 2021 18:14:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
