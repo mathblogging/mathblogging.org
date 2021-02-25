@@ -4,11 +4,39 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Feb 2021 20:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2021 01:16:04 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Feb 2021 20:38:04 GMT</pubDate>
+        <pubDate>Thu, 25 Feb 2021 01:16:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Unsupervised Learning and generative models]]></title>
+            <link>https://windowsontheory.org/2021/02/24/unsupervised-learning-and-generative-models/</link>
+            <guid isPermaLink="false">https://windowsontheory.org/2021/02/24/unsupervised-learning-and-generative-models/</guid>
+            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
+            <pubDate>Wed, 24 Feb 2021 23:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[folded Normals]]></title>
+            <link>https://xianblog.wordpress.com/2021/02/25/folded-normals/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/02/25/folded-normals/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Wed, 24 Feb 2021 23:21:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Puzzling Groups and Ramsey Numbers]]></title>
+            <link>https://mathtourist.blogspot.com/2021/02/puzzling-groups-and-ramsey-numbers.html</link>
+            <guid isPermaLink="false">https://mathtourist.blogspot.com/2021/02/puzzling-groups-and-ramsey-numbers.html</guid>
+            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
+            <pubDate>Wed, 24 Feb 2021 22:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Distance with Interest]]></title>
+            <link>https://mrburkemath.blogspot.com/2021/02/distance-with-interest.html</link>
+            <guid isPermaLink="false">https://mrburkemath.blogspot.com/2021/02/distance-with-interest.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Wed, 24 Feb 2021 21:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What are the three Domain of Life?]]></title>
             <link>http://www.moomoomathblog.com/2021/02/what-are-three-domain-of-life.html</link>
@@ -1737,13 +1765,6 @@
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2021/02/x-why-mini-one-dimension.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Wed, 17 Feb 2021 01:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[why does rbinom(1,1) differ from sample(0:1,1) with the same seed?]]></title>
-            <link>https://xianblog.wordpress.com/2021/02/17/why-does-rbinom11-differ-from-sample011-with-the-same-seed/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/02/17/why-does-rbinom11-differ-from-sample011-with-the-same-seed/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Tue, 16 Feb 2021 23:21:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[R graphics get modern text support, with ragg package]]></title>
@@ -5153,69 +5174,6 @@
             <guid isPermaLink="false">https://haris-aziz.blogspot.com/2021/01/the-vigilant-eating-rule-general.html</guid>
             <dc:creator><![CDATA[Algorithmics, Social choice, Market Design, and Other Topics]]></dc:creator>
             <pubDate>Mon, 25 Jan 2021 04:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caring about sports]]></title>
-            <link>https://quomodocumque.wordpress.com/2021/01/24/caring-about-sports/</link>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2021/01/24/caring-about-sports/</guid>
-            <dc:creator><![CDATA[Quomodocumque]]></dc:creator>
-            <pubDate>Mon, 25 Jan 2021 00:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machine Learning Advances for Time Series Forecasting]]></title>
-            <link>https://fxdiebold.blogspot.com/2021/01/machine-learning-advances-for-time.html</link>
-            <guid isPermaLink="false">https://fxdiebold.blogspot.com/2021/01/machine-learning-advances-for-time.html</guid>
-            <dc:creator><![CDATA[No Hesitations]]></dc:creator>
-            <pubDate>Mon, 25 Jan 2021 00:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A puzzle on a square]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/a-puzzle-on-a-square/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/a-puzzle-on-a-square/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Orchard Game]]></title>
-            <link>https://datagenetics.com/blog/january62021/index.html</link>
-            <guid isPermaLink="false">https://datagenetics.com/blog/january62021/index.html</guid>
-            <dc:creator><![CDATA[DataGenetics]]></dc:creator>
-            <pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortnightly links (121)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2021/01/25/fortnightly-links-121/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2021/01/25/fortnightly-links-121/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Fork is not a Spoon]]></title>
-            <link>https://www.mathycathy.com/blog/2021/01/a-fork-is-not-a-spoon/</link>
-            <guid isPermaLink="false">https://www.mathycathy.com/blog/2021/01/a-fork-is-not-a-spoon/</guid>
-            <dc:creator><![CDATA[MathyCathy's Blog – Mrs. Cathy Yenca]]></dc:creator>
-            <pubDate>Sun, 24 Jan 2021 22:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first Maths Teacher Circle]]></title>
-            <link>https://blogs.adelaide.edu.au/maths-learning/2021/01/25/my-first-maths-teacher-circle/</link>
-            <guid isPermaLink="false">https://blogs.adelaide.edu.au/maths-learning/2021/01/25/my-first-maths-teacher-circle/</guid>
-            <dc:creator><![CDATA[Making Your Own Sense]]></dc:creator>
-            <pubDate>Sun, 24 Jan 2021 21:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Après-midi symbolique à Orsay]]></title>
-            <link>https://jbuzzi.wordpress.com/2021/01/24/apres-midi-symbolique-a-orsay/</link>
-            <guid isPermaLink="false">https://jbuzzi.wordpress.com/2021/01/24/apres-midi-symbolique-a-orsay/</guid>
-            <dc:creator><![CDATA[Jérôme Buzzi’s]]></dc:creator>
-            <pubDate>Sun, 24 Jan 2021 21:21:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playing with Ruth-Aaron Pairs]]></title>
-            <link>https://mathtourist.blogspot.com/2021/01/playing-with-ruth-aaron-pairs.html</link>
-            <guid isPermaLink="false">https://mathtourist.blogspot.com/2021/01/playing-with-ruth-aaron-pairs.html</guid>
-            <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
-            <pubDate>Sun, 24 Jan 2021 21:20:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
