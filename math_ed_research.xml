@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Mar 2021 17:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 20:40:19 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Mar 2021 17:14:00 GMT</pubDate>
+        <pubDate>Mon, 29 Mar 2021 20:40:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Calculating dogleg severity]]></title>
+            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/rL-SVz5Iia0/</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/rL-SVz5Iia0/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Mon, 29 Mar 2021 19:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis of color names used with makeup]]></title>
+            <link>https://flowingdata.com/2021/03/29/analysis-of-color-names-used-with-makeup/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2021/03/29/analysis-of-color-names-used-with-makeup/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Mon, 29 Mar 2021 18:43:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Freebits – A decentralized public square]]></title>
+            <link>https://kintali.wordpress.com/2021/03/29/freebits-a-decentralized-public-square/</link>
+            <guid isPermaLink="false">https://kintali.wordpress.com/2021/03/29/freebits-a-decentralized-public-square/</guid>
+            <dc:creator><![CDATA[My Brain is Open]]></dc:creator>
+            <pubDate>Mon, 29 Mar 2021 18:10:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Online Activities 29 March-4 April]]></title>
             <link>https://ests.wordpress.com/2021/03/29/online-activities-29-march-4-april/</link>
@@ -87,13 +108,6 @@
             <pubDate>Mon, 29 Mar 2021 13:51:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What I learned from an open-technology policy in my classes]]></title>
-            <link>https://rtalbert.org/what-i-learned-from-an-open-technology-policy-in-my-classes/</link>
-            <guid isPermaLink="false">https://rtalbert.org/what-i-learned-from-an-open-technology-policy-in-my-classes/</guid>
-            <dc:creator><![CDATA[Robert Talbert, Ph.D.]]></dc:creator>
-            <pubDate>Mon, 29 Mar 2021 13:01:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Slicing the Hypercube]]></title>
             <link>https://blog.computationalcomplexity.org/2021/03/slicing-hypercube.html</link>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2021/03/slicing-hypercube.html</guid>
@@ -155,13 +169,6 @@
             <guid isPermaLink="false">https://retractionwatch.com/2021/03/29/paper-claiming-muslim-patients-are-particularly-sensitive-retracted/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Mon, 29 Mar 2021 10:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sourav Chatterjee]]></title>
-            <link>https://ncatlab.org/nlab/show/Sourav+Chatterjee</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Sourav+Chatterjee</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 29 Mar 2021 05:00:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On This Day in Math - March 29]]></title>
@@ -673,13 +680,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2021/03/25/death-and-lockdowns/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Thu, 25 Mar 2021 13:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clients, not customers]]></title>
-            <link>https://rtalbert.org/clients-not-customers-throwback/</link>
-            <guid isPermaLink="false">https://rtalbert.org/clients-not-customers-throwback/</guid>
-            <dc:creator><![CDATA[Robert Talbert, Ph.D.]]></dc:creator>
-            <pubDate>Thu, 25 Mar 2021 12:24:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Note on a Simpson's paradox in real-world vaccine effectiveness studies]]></title>
@@ -1363,13 +1363,6 @@
             <pubDate>Mon, 22 Mar 2021 12:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What can higher education learn from the business world?]]></title>
-            <link>https://rtalbert.org/what-can-higher-education-learn-from-the-business-world/</link>
-            <guid isPermaLink="false">https://rtalbert.org/what-can-higher-education-learn-from-the-business-world/</guid>
-            <dc:creator><![CDATA[Robert Talbert, Ph.D.]]></dc:creator>
-            <pubDate>Mon, 22 Mar 2021 12:29:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Probabilities of Covid-19]]></title>
             <link>https://junkcharts.typepad.com/numbersruleyourworld/2021/03/probabilities-of-covid-19.html</link>
             <guid isPermaLink="false">https://junkcharts.typepad.com/numbersruleyourworld/2021/03/probabilities-of-covid-19.html</guid>
@@ -1974,13 +1967,6 @@ I would more willingly say that by the..."]]></title>
             <pubDate>Thu, 18 Mar 2021 17:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[✚ Maybe All Charts are Bad – The Process 131]]></title>
-            <link>https://flowingdata.com/2021/03/18/process-131-bad-charts/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2021/03/18/process-131-bad-charts/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Thu, 18 Mar 2021 17:30:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[All Process, No Paradox • 9]]></title>
             <link>https://inquiryintoinquiry.com/2021/03/18/all-process-no-paradox-9/</link>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2021/03/18/all-process-no-paradox-9/</guid>
@@ -2021,13 +2007,6 @@ I would more willingly say that by the..."]]></title>
             <guid isPermaLink="false">https://lucatrevisan.wordpress.com/2021/03/18/finally-a-joy/</guid>
             <dc:creator><![CDATA[in   theory]]></dc:creator>
             <pubDate>Thu, 18 Mar 2021 13:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How GTD has helped me during the pandemic]]></title>
-            <link>https://rtalbert.org/how-gtd-has-helped-me-during-the-pandemic/</link>
-            <guid isPermaLink="false">https://rtalbert.org/how-gtd-has-helped-me-during-the-pandemic/</guid>
-            <dc:creator><![CDATA[Robert Talbert, Ph.D.]]></dc:creator>
-            <pubDate>Thu, 18 Mar 2021 13:02:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The story is "Tesla has one message for customers and investors, and another one for legal authorities." The meta-story is that the bastion of conventional wisdom is telling this story.]]></title>
@@ -2688,13 +2667,6 @@ I would more willingly say that by the..."]]></title>
             <pubDate>Mon, 15 Mar 2021 13:13:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do you get students to buy in to self-teaching?]]></title>
-            <link>https://rtalbert.org/how-do-you-get-students-to-buy-in-to-self-teaching/</link>
-            <guid isPermaLink="false">https://rtalbert.org/how-do-you-get-students-to-buy-in-to-self-teaching/</guid>
-            <dc:creator><![CDATA[Robert Talbert, Ph.D.]]></dc:creator>
-            <pubDate>Mon, 15 Mar 2021 12:57:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[3/15/21]]></title>
             <link>https://purenumbers.tumblr.com/post/645725088378978304</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/645725088378978304</guid>
@@ -3346,13 +3318,6 @@ I would more willingly say that by the..."]]></title>
             <pubDate>Thu, 11 Mar 2021 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In defense of teaching yourself the material]]></title>
-            <link>https://rtalbert.org/in-defense-of-teaching-yourself-the-material/</link>
-            <guid isPermaLink="false">https://rtalbert.org/in-defense-of-teaching-yourself-the-material/</guid>
-            <dc:creator><![CDATA[Robert Talbert, Ph.D.]]></dc:creator>
-            <pubDate>Thu, 11 Mar 2021 13:55:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[3/11/21]]></title>
             <link>https://purenumbers.tumblr.com/post/645366484103757824</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/645366484103757824</guid>
@@ -3869,13 +3834,6 @@ I would more willingly say that by the..."]]></title>
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2021/03/just-imagine-what-they-could-have-done.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Mon, 08 Mar 2021 14:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Committing to communication]]></title>
-            <link>https://rtalbert.org/committing-to-communication/</link>
-            <guid isPermaLink="false">https://rtalbert.org/committing-to-communication/</guid>
-            <dc:creator><![CDATA[Robert Talbert, Ph.D.]]></dc:creator>
-            <pubDate>Mon, 08 Mar 2021 13:30:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Answer to the Ultimate Question]]></title>
@@ -4893,13 +4851,6 @@ I would more willingly say that by the..."]]></title>
             <pubDate>Mon, 01 Mar 2021 13:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flipped learning and post-pandemic higher education]]></title>
-            <link>https://rtalbert.org/flipped-learning-and-post-pandemic-higher-education/</link>
-            <guid isPermaLink="false">https://rtalbert.org/flipped-learning-and-post-pandemic-higher-education/</guid>
-            <dc:creator><![CDATA[Robert Talbert, Ph.D.]]></dc:creator>
-            <pubDate>Mon, 01 Mar 2021 13:40:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Unusual data for insurance, joint research initiative]]></title>
             <link>https://freakonometrics.hypotheses.org/61802</link>
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/61802</guid>
@@ -5206,34 +5157,6 @@ I would more willingly say that by the..."]]></title>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2021/02/26/multivariate-missing-data-software-update/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 26 Feb 2021 21:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cult of Smart - Chapter 1: To the Victors Goes Everything]]></title>
-            <link>http://www.kenthaines.com/blog/2021/2/25/the-cult-of-smart-chapter-1-to-the-victors-goes-everything</link>
-            <guid isPermaLink="false">http://www.kenthaines.com/blog/2021/2/25/the-cult-of-smart-chapter-1-to-the-victors-goes-everything</guid>
-            <dc:creator><![CDATA[Kent Haines]]></dc:creator>
-            <pubDate>Fri, 26 Feb 2021 19:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mastery Grading for Future Elementary School Teachers]]></title>
-            <link>https://blogs.ams.org/matheducation/2021/02/26/mastery-grading-for-future-elementary-school-teachers/</link>
-            <guid isPermaLink="false">https://blogs.ams.org/matheducation/2021/02/26/mastery-grading-for-future-elementary-school-teachers/</guid>
-            <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
-            <pubDate>Fri, 26 Feb 2021 19:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Het aantal delers]]></title>
-            <link>https://wiskundeleraar.blogspot.com/2021/02/het-aantal-delers.html</link>
-            <guid isPermaLink="false">https://wiskundeleraar.blogspot.com/2021/02/het-aantal-delers.html</guid>
-            <dc:creator><![CDATA[Wiskundeleraar]]></dc:creator>
-            <pubDate>Fri, 26 Feb 2021 18:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(x, why?) Mini: Two Square Feet]]></title>
-            <link>https://mrburkemath.blogspot.com/2021/02/x-why-mini-two-square-feet.html</link>
-            <guid isPermaLink="false">https://mrburkemath.blogspot.com/2021/02/x-why-mini-two-square-feet.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Fri, 26 Feb 2021 18:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
