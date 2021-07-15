@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jul 2021 16:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 20:33:55 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Jul 2021 16:54:50 GMT</pubDate>
+        <pubDate>Thu, 15 Jul 2021 20:33:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Coffin  problem II]]></title>
+            <link>https://mathhmagic.blogspot.com/2021/07/coffin-or-killer-problem-ii.html</link>
+            <guid isPermaLink="false">https://mathhmagic.blogspot.com/2021/07/coffin-or-killer-problem-ii.html</guid>
+            <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
+            <pubDate>Thu, 15 Jul 2021 16:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two important questions about Inbox Zero]]></title>
             <link>https://rtalbert.org/two-important-questions-about-inbox-zero/</link>
@@ -108,20 +115,6 @@
             <pubDate>Thu, 15 Jul 2021 10:45:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LaTeX for Logicians — a new look (and time for new content?)]]></title>
-            <link>https://www.logicmatters.net/2021/07/15/latex-for-logicians-a-new-look-and-time-for-new-content/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/07/15/latex-for-logicians-a-new-look-and-time-for-new-content/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Thu, 15 Jul 2021 08:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[… and back again]]></title>
-            <link>https://www.logicmatters.net/2021/07/15/and-back-again/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/07/15/and-back-again/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Thu, 15 Jul 2021 08:34:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Filmphysik: The Tomorrow War]]></title>
             <link>http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/KNcr9DEz0cU/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/KNcr9DEz0cU/</guid>
@@ -134,6 +127,13 @@
             <guid isPermaLink="false">https://images.math.cnrs.fr/Linearite-1.html</guid>
             <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Thu, 15 Jul 2021 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ideal Monatomic Gas]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2021/07/15/the-ideal-monatomic-gas/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2021/07/15/the-ideal-monatomic-gas/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Thu, 15 Jul 2021 04:38:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Briefly]]></title>
@@ -169,13 +169,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/PY5qEmL7GXc/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Wed, 14 Jul 2021 16:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ehrenfeucht-Fraïssé comonad]]></title>
-            <link>https://ncatlab.org/nlab/show/Ehrenfeucht-Fra%25C3%25AFss%25C3%25A9+comonad</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Ehrenfeucht-Fra%C3%AFss%C3%A9+comonad</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 14 Jul 2021 15:09:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Kalina’s averaged face over 7,777 days]]></title>
@@ -372,6 +365,13 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mindyourdecisions/~3/NJWndn3YVLY/</guid>
             <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
             <pubDate>Tue, 13 Jul 2021 16:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fisher’s Fundamental Theorem (Part 4)]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2021/07/13/fishers-fundamental-theorem-part-4/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2021/07/13/fishers-fundamental-theorem-part-4/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Tue, 13 Jul 2021 15:40:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Map of drying reservoirs in the west]]></title>
@@ -1032,13 +1032,6 @@
             <pubDate>Fri, 09 Jul 2021 09:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Down the rabbit hole …]]></title>
-            <link>https://www.logicmatters.net/2021/07/09/down-the-rabbit-hole/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/07/09/down-the-rabbit-hole/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Fri, 09 Jul 2021 08:31:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Parler de climat/énergie et d'environnement dans nos formations]]></title>
             <link>https://images.math.cnrs.fr/Parler-de-climat-energie-et-d-environnement-dans-nos-formations.html</link>
             <guid isPermaLink="false">https://images.math.cnrs.fr/Parler-de-climat-energie-et-d-environnement-dans-nos-formations.html</guid>
@@ -1585,13 +1578,6 @@
             <pubDate>Tue, 06 Jul 2021 15:00:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beginning Mathematical Logic again]]></title>
-            <link>https://www.logicmatters.net/2021/07/06/beginning-mathematical-logic-again/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/07/06/beginning-mathematical-logic-again/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Tue, 06 Jul 2021 14:55:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Part 3: Defining Proficiency & Moving Outward]]></title>
             <link>https://emergentmath.com/2021/07/06/6094/</link>
             <guid isPermaLink="false">https://emergentmath.com/2021/07/06/6094/</guid>
@@ -2124,13 +2110,6 @@
             <pubDate>Thu, 01 Jul 2021 19:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Big Red Logic Books: now available in Australia!]]></title>
-            <link>https://www.logicmatters.net/2021/07/01/big-red-logic-books-now-available-in-australia/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/07/01/big-red-logic-books-now-available-in-australia/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Thu, 01 Jul 2021 19:36:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[School Life #21: School's Out 2021]]></title>
             <link>https://mrburkemath.blogspot.com/2021/07/school-life-21-schools-out-2021.html</link>
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2021/07/school-life-21-schools-out-2021.html</guid>
@@ -2143,13 +2122,6 @@
             <guid isPermaLink="false">https://orinanobworld.blogspot.com/2021/07/smallest-pairwise-difference-in-r.html</guid>
             <dc:creator><![CDATA[OR in an OB World]]></dc:creator>
             <pubDate>Thu, 01 Jul 2021 19:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Red Logic Books: half year report]]></title>
-            <link>https://www.logicmatters.net/2021/07/01/big-red-logic-books-half-year-report/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/07/01/big-red-logic-books-half-year-report/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Thu, 01 Jul 2021 17:39:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Intersecting Classes]]></title>
@@ -2263,6 +2235,13 @@ that though we have much we..."]]></title>
             <guid isPermaLink="false">https://news.mit.edu/2021/three-mit-receive-hertz-foundation-fellowships-0630</guid>
             <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
             <pubDate>Wed, 30 Jun 2021 19:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optimism]]></title>
+            <link>https://mathrising.com/?p=1800</link>
+            <guid isPermaLink="false">https://mathrising.com/?p=1800</guid>
+            <dc:creator><![CDATA[Mathematics Rising]]></dc:creator>
+            <pubDate>Wed, 30 Jun 2021 19:30:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Not being able to say why you see a 2 doesn’t excuse your uninterpretable model]]></title>
@@ -2461,13 +2440,6 @@ that though we have much we..."]]></title>
             <pubDate>Tue, 29 Jun 2021 14:40:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Pavel Haas Quartet again: two online concerts]]></title>
-            <link>https://www.logicmatters.net/2021/06/29/the-pavel-haas-quartet-again-two-online-concerts/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/06/29/the-pavel-haas-quartet-again-two-online-concerts/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Tue, 29 Jun 2021 14:13:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Average lp distance in a disk]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/25bQIp4brLA/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/25bQIp4brLA/</guid>
@@ -2487,13 +2459,6 @@ that though we have much we..."]]></title>
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2021/06/pastel-qanon.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Tue, 29 Jun 2021 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More forthcoming logical treats]]></title>
-            <link>https://www.logicmatters.net/2021/06/29/more-forthcoming-logical-treats/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/06/29/more-forthcoming-logical-treats/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Tue, 29 Jun 2021 12:59:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Nod to Non-Traditional Applied Math]]></title>
@@ -2629,13 +2594,6 @@ that though we have much we..."]]></title>
             <pubDate>Mon, 28 Jun 2021 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Forthcoming book: An Introduction to Proof Theory]]></title>
-            <link>https://www.logicmatters.net/2021/06/28/an-intro-to-proof-theory/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/06/28/an-intro-to-proof-theory/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Mon, 28 Jun 2021 10:25:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - June 28]]></title>
             <link>https://pballew.blogspot.com/2021/06/on-this-day-in-math-june-28.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2021/06/on-this-day-in-math-june-28.html</guid>
@@ -2753,13 +2711,6 @@ that though we have much we..."]]></title>
             <guid isPermaLink="false">https://jd2718.org/2021/06/26/uft-endorsement-mess/</guid>
             <dc:creator><![CDATA[JD2718]]></dc:creator>
             <pubDate>Sat, 26 Jun 2021 19:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pavel Haas Quartet and Boris Giltburg, video recording for the Library of Congress]]></title>
-            <link>https://www.logicmatters.net/2021/06/26/pavel-haas-quartet-and-boris-giltburg-video-recording-for-the-library-of-congress/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2021/06/26/pavel-haas-quartet-and-boris-giltburg-video-recording-for-the-library-of-congress/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Sat, 26 Jun 2021 18:35:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Viscosity Damping 3: UNIZOR.COM - Physics4Teens - Waves - Mechanical Osc...]]></title>
@@ -2942,6 +2893,13 @@ that though we have much we..."]]></title>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/StatsChat/~3/dYWCNqcyqt4/</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Fri, 25 Jun 2021 01:01:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complex Adaptive System Design (Part 10)]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2021/06/25/complex-adaptive-system-design-part-10/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2021/06/25/complex-adaptive-system-design-part-10/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Fri, 25 Jun 2021 00:36:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is it, right?  This is as dogshit as the Orioles get?]]></title>
@@ -3987,6 +3945,13 @@ that though we have much we..."]]></title>
             <pubDate>Wed, 16 Jun 2021 21:01:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nonequilibrium Thermodynamics in Biology (Part 2)]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2021/06/16/nonequilibrium-thermodynamics-in-biology-part-2/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2021/06/16/nonequilibrium-thermodynamics-in-biology-part-2/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Wed, 16 Jun 2021 16:22:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Quaternion products with fewer real products]]></title>
             <link>http://feedproxy.google.com/~r/TheEndeavour/~3/pgLIKBXher4/</link>
             <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/pgLIKBXher4/</guid>
@@ -4120,6 +4085,13 @@ that though we have much we..."]]></title>
             <pubDate>Tue, 15 Jun 2021 17:51:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jacob Obrecht]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2021/06/15/jacob-obrecht/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2021/06/15/jacob-obrecht/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Tue, 15 Jun 2021 16:26:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Job opening at the U.S. Government Accountability Office]]></title>
             <link>https://statmodeling.stat.columbia.edu/2021/06/15/job-opening-at-the-u-s-government-accountability-office/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2021/06/15/job-opening-at-the-u-s-government-accountability-office/</guid>
@@ -4237,27 +4209,6 @@ that though we have much we..."]]></title>
             <guid isPermaLink="false">https://justmaths.co.uk/2021/06/14/exams-exams/</guid>
             <dc:creator><![CDATA[Blog]]></dc:creator>
             <pubDate>Mon, 14 Jun 2021 22:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writting Mathematical Questions]]></title>
-            <link>https://lifethroughamathematicianseyes.wordpress.com/2021/06/14/writting-mathematical-questions/</link>
-            <guid isPermaLink="false">https://lifethroughamathematicianseyes.wordpress.com/2021/06/14/writting-mathematical-questions/</guid>
-            <dc:creator><![CDATA[Life Through A Mathematician's Eyes]]></dc:creator>
-            <pubDate>Mon, 14 Jun 2021 20:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Webinar: Theories of Inference for Data Interactions]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2021/06/14/webinar-theories-of-inference-for-data-interactions/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2021/06/14/webinar-theories-of-inference-for-data-interactions/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 14 Jun 2021 19:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#AceinSTEM Asexuality in Mathematics]]></title>
-            <link>https://beautyofmathematics.com/asexuality-mathematics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=asexuality-mathematics</link>
-            <guid isPermaLink="false">https://beautyofmathematics.com/asexuality-mathematics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=asexuality-mathematics</guid>
-            <dc:creator><![CDATA[Beauty of Mathematics]]></dc:creator>
-            <pubDate>Mon, 14 Jun 2021 18:27:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
