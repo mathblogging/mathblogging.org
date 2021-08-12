@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 20:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 01:27:58 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/publisher.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Aug 2021 20:33:36 GMT</pubDate>
+        <pubDate>Thu, 12 Aug 2021 01:27:58 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[integral theorems for Monte Carlo]]></title>
+            <link>https://xianblog.wordpress.com/2021/08/12/integral-theorems-for-monte-carlo/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/08/12/integral-theorems-for-monte-carlo/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Wed, 11 Aug 2021 22:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Competitive programming in Haskell: monoidal accumulation]]></title>
+            <link>https://byorgey.wordpress.com/2021/08/11/competitive-programming-in-haskell-monoidal-accumulation/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2021/08/11/competitive-programming-in-haskell-monoidal-accumulation/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Wed, 11 Aug 2021 21:51:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Triangular grid]]></title>
             <link>http://feedproxy.google.com/~r/ImpossibleWorldSiteBlog/~3/7f1mcweT-HE/triangular-grid.html</link>
@@ -115,9 +129,9 @@
             <pubDate>Wed, 11 Aug 2021 12:07:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alexander B. Atanosov]]></title>
-            <link>https://ncatlab.org/nlab/show/Alexander+B.+Atanosov</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Alexander+B.+Atanosov</guid>
+            <title><![CDATA[Alexander B. Atanasov]]></title>
+            <link>https://ncatlab.org/nlab/show/Alexander+B.+Atanasov</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Alexander+B.+Atanasov</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Wed, 11 Aug 2021 11:01:32 GMT</pubDate>
         </item>
@@ -1394,13 +1408,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/mindyourdecisions/~3/wKdAhFbXklQ/</guid>
             <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
             <pubDate>Tue, 03 Aug 2021 00:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sumo [France TV on Tokyo Olympics]]]></title>
-            <link>https://xianblog.wordpress.com/2021/08/03/sumo-france-tv-on-tokyo-olympics/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/08/03/sumo-france-tv-on-tokyo-olympics/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 02 Aug 2021 22:21:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Science of Running Faster]]></title>
@@ -4194,27 +4201,6 @@
             <guid isPermaLink="false">http://feedproxy.google.com/~r/halbtagsblog/oPZW/~3/aQQzU_RcT_8/</guid>
             <dc:creator><![CDATA[Halbtagsblog]]></dc:creator>
             <pubDate>Mon, 12 Jul 2021 04:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would you take this bet (Part 2) ?]]></title>
-            <link>https://blog.computationalcomplexity.org/2021/07/would-you-take-this-bet-part-2.html</link>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2021/07/would-you-take-this-bet-part-2.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Mon, 12 Jul 2021 00:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Angle Windmill]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/the-angle-windmill/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/the-angle-windmill/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortnightly links (133)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2021/07/12/fortnightly-links-133/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2021/07/12/fortnightly-links-133/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
