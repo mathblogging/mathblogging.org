@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 20:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 01:22:31 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Aug 2021 20:34:59 GMT</pubDate>
+        <pubDate>Sat, 28 Aug 2021 01:22:31 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[human data]]></title>
+            <link>https://xianblog.wordpress.com/2021/08/28/human-data/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/08/28/human-data/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Fri, 27 Aug 2021 22:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LambertW × FX transforms in Stan]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2021/08/27/lambertw-x-fx-transforms-in-stan/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2021/08/27/lambertw-x-fx-transforms-in-stan/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 27 Aug 2021 20:28:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Please cheer me up]]></title>
             <link>https://www.scottaaronson.com/blog/?p=5769</link>
@@ -1373,13 +1387,6 @@
             <guid isPermaLink="false">https://errorstatistics.com/2021/08/19/performance-or-probativeness-e-s-pearsons-statistical-philosophy-belated-birthday-wish-2/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Fri, 20 Aug 2021 01:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maquis [jatp]]]></title>
-            <link>https://xianblog.wordpress.com/2021/08/20/maquis-jatp/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/08/20/maquis-jatp/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 19 Aug 2021 22:21:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Calculus Experience: A tale of Intuition and Rigor | Book Review]]></title>
@@ -4054,27 +4061,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2021/07/27/is-an-improper-uniform-prior-informative-it-isnt-by-any-accepted-measure-of-information-i-know-of/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Wed, 28 Jul 2021 01:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polynomial analog of the Collatz conjecture]]></title>
-            <link>http://feedproxy.google.com/~r/TheEndeavour/~3/hBNcaVHw1KM/</link>
-            <guid isPermaLink="false">http://feedproxy.google.com/~r/TheEndeavour/~3/hBNcaVHw1KM/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Wed, 28 Jul 2021 00:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ask Uncle Colin: Runs of numbers]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-runs-of-numbers/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-runs-of-numbers/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Striking new Beeping Busy Beaver champion]]></title>
-            <link>https://www.scottaaronson.com/blog/?p=5661</link>
-            <guid isPermaLink="false">https://www.scottaaronson.com/blog/?p=5661</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Tue, 27 Jul 2021 22:43:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
