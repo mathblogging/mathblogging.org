@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Oct 2021 20:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 01:26:41 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Oct 2021 20:37:18 GMT</pubDate>
+        <pubDate>Sat, 30 Oct 2021 01:26:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[squid games]]></title>
+            <link>https://xianblog.wordpress.com/2021/10/30/squid-games/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/10/30/squid-games/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Fri, 29 Oct 2021 22:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Competitive programming in Haskell: BFS, part 3 (implementation via HashMap)]]></title>
+            <link>https://byorgey.wordpress.com/2021/10/29/competitive-programming-in-haskell-bfs-part-3-implementation-via-hashmap/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2021/10/29/competitive-programming-in-haskell-bfs-part-3-implementation-via-hashmap/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Fri, 29 Oct 2021 21:55:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sabbatical October Report: My Year as a Data Scientist]]></title>
+            <link>https://symmetricblog.wordpress.com/2021/10/29/sabbatical-october-report-my-year-as-a-data-scientist/</link>
+            <guid isPermaLink="false">https://symmetricblog.wordpress.com/2021/10/29/sabbatical-october-report-my-year-as-a-data-scientist/</guid>
+            <dc:creator><![CDATA[Solvable by Radicals]]></dc:creator>
+            <pubDate>Fri, 29 Oct 2021 21:27:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Conversation with Dr. Andrea Arauza Rivera]]></title>
             <link>https://blogs.ams.org/mathgradblog/2021/10/29/a-conversation-with-dr-andrea-arauza-rivera/</link>
@@ -169,6 +190,13 @@
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2021/10/learn_applied_category_theory.html</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Thu, 28 Oct 2021 18:43:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[equivariant good open cover]]></title>
+            <link>https://ncatlab.org/nlab/show/equivariant+good+open+cover</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/equivariant+good+open+cover</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 28 Oct 2021 18:37:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gedanken über Unterricht]]></title>
@@ -1625,13 +1653,6 @@
             <guid isPermaLink="false">https://windowsontheory.org/2021/10/20/opportunities-at-harvard/</guid>
             <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
             <pubDate>Wed, 20 Oct 2021 20:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Les Granilites]]></title>
-            <link>https://xianblog.wordpress.com/2021/10/20/les-granilites/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2021/10/20/les-granilites/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 20 Oct 2021 18:20:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Networking+Theory Postdoc at Harvard]]></title>
@@ -4436,20 +4457,6 @@ by Frank Calegari]]></title>
             <guid isPermaLink="false">https://www.newappsblog.com/2021/09/facebook-as-a-hostile-foreign-power.html</guid>
             <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
             <pubDate>Wed, 29 Sep 2021 01:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ask Uncle Colin: an odd distribution]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-an-odd-distribution/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-an-odd-distribution/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Tue, 28 Sep 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joost Burgi"s Arithmetical Method of Producing complete Sine Tables]]></title>
-            <link>https://pballew.blogspot.com/2021/09/joost-burgis-arithmetical-method-of.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2021/09/joost-burgis-arithmetical-method-of.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Tue, 28 Sep 2021 21:54:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
