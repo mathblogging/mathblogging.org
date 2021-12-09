@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Dec 2021 01:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 04:47:39 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Dec 2021 01:36:38 GMT</pubDate>
+        <pubDate>Thu, 09 Dec 2021 04:47:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Degree of magic]]></title>
+            <link>https://www.johndcook.com/blog/2021/12/08/degree-of-magic/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2021/12/08/degree-of-magic/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Thu, 09 Dec 2021 03:12:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[practical PDMP]]></title>
             <link>https://xianblog.wordpress.com/2021/12/09/practical-pdmp/</link>
@@ -2138,13 +2145,6 @@
             <pubDate>Thu, 25 Nov 2021 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Schur-Siegel-Smyth-Serre-Smith]]></title>
-            <link>https://www.galoisrepresentations.com/2021/11/25/schur-siegel-smyth-serre-smith/</link>
-            <guid isPermaLink="false">https://www.galoisrepresentations.com/2021/11/25/schur-siegel-smyth-serre-smith/</guid>
-            <dc:creator><![CDATA[Persiflage]]></dc:creator>
-            <pubDate>Thu, 25 Nov 2021 12:45:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Teaching Math with Examples]]></title>
             <link>https://lazyocho.com/2021/11/25/teaching-math-with-examples/</link>
             <guid isPermaLink="false">https://lazyocho.com/2021/11/25/teaching-math-with-examples/</guid>
@@ -3916,13 +3916,6 @@
             <pubDate>Tue, 09 Nov 2021 14:57:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Three kinds of confluence]]></title>
-            <link>https://www.johndcook.com/blog/2021/11/09/confluence/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2021/11/09/confluence/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 09 Nov 2021 14:45:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What we were saying in 2017. What we read in Talking Points Memo yesterday.]]></title>
             <link>https://observationalepidemiology.blogspot.com/2021/11/what-we-were-saying-in-2017-what-we.html</link>
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2021/11/what-we-were-saying-in-2017-what-we.html</guid>
@@ -4054,20 +4047,6 @@
             <guid isPermaLink="false">https://ests.wordpress.com/2021/11/08/online-activities-8-14-november/</guid>
             <dc:creator><![CDATA[European Set Theory Society]]></dc:creator>
             <pubDate>Mon, 08 Nov 2021 09:07:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venn and Euler type diagrams for vector spaces and abelian groups]]></title>
-            <link>https://terrytao.wordpress.com/2021/11/07/venn-and-euler-type-diagrams-for-vector-spaces-and-abelian-groups/</link>
-            <guid isPermaLink="false">https://terrytao.wordpress.com/2021/11/07/venn-and-euler-type-diagrams-for-vector-spaces-and-abelian-groups/</guid>
-            <dc:creator><![CDATA[What's new]]></dc:creator>
-            <pubDate>Mon, 08 Nov 2021 03:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venn and Euler type diagrams for vector spaces and abelian groups]]></title>
-            <link>https://terrytao.wordpress.com/2021/11/07/venn-and-euler-type-diagrams-for-vector-spaces-and-abelian-groups/</link>
-            <guid isPermaLink="false">https://terrytao.wordpress.com/2021/11/07/venn-and-euler-type-diagrams-for-vector-spaces-and-abelian-groups/</guid>
-            <dc:creator><![CDATA[What's new]]></dc:creator>
-            <pubDate>Mon, 08 Nov 2021 03:53:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
