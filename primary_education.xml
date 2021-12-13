@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Dec 2021 16:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 20:37:41 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Dec 2021 16:55:31 GMT</pubDate>
+        <pubDate>Mon, 13 Dec 2021 20:37:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Launching Version 13.0 of Wolfram Language + Mathematica]]></title>
+            <link>https://writings.stephenwolfram.com/2021/12/launching-version-13-0-of-wolfram-language-mathematica/</link>
+            <guid isPermaLink="false">https://writings.stephenwolfram.com/2021/12/launching-version-13-0-of-wolfram-language-mathematica/</guid>
+            <dc:creator><![CDATA[Stephen Wolfram Writings]]></dc:creator>
+            <pubDate>Mon, 13 Dec 2021 20:19:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some movies about mathematicians]]></title>
+            <link>http://xbubbler.blogspot.com/2021/12/some-movies-about-mathematicians.html</link>
+            <guid isPermaLink="false">http://xbubbler.blogspot.com/2021/12/some-movies-about-mathematicians.html</guid>
+            <dc:creator><![CDATA[X Bubbler]]></dc:creator>
+            <pubDate>Mon, 13 Dec 2021 18:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leland Wilkinson, creator of The Grammar of Graphics, passed away]]></title>
+            <link>https://flowingdata.com/2021/12/13/leland-wilkinson-creator-of-the-grammar-of-graphics-passed-away/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2021/12/13/leland-wilkinson-creator-of-the-grammar-of-graphics-passed-away/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Mon, 13 Dec 2021 18:12:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Going home for the holidays: how to mix math and family time + BONUS dad jokes for holiday de-stressing]]></title>
             <link>https://blogs.ams.org/mathgradblog/2021/12/13/going-home-for-the-holidays-how-to-mix-math-and-family-time-bonus-dad-jokes-for-holiday-de-stressing/</link>
@@ -1326,13 +1347,6 @@
             <pubDate>Mon, 06 Dec 2021 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shrinking the Mercator projection to equal area]]></title>
-            <link>https://flowingdata.com/2021/12/06/shrinking-the-mercator-projection-to-equal-area/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2021/12/06/shrinking-the-mercator-projection-to-equal-area/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Mon, 06 Dec 2021 10:02:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Logaritmische standaardfunctie]]></title>
             <link>https://wiskundeleraar.blogspot.com/2021/12/logaritmische-standaardfunctie.html</link>
             <guid isPermaLink="false">https://wiskundeleraar.blogspot.com/2021/12/logaritmische-standaardfunctie.html</guid>
@@ -1968,6 +1982,13 @@
             <guid isPermaLink="false">http://docmadhattan.fieldofscience.com/2021/12/mathematics-and-hiv.html</guid>
             <dc:creator><![CDATA[Doc Madhattan]]></dc:creator>
             <pubDate>Wed, 01 Dec 2021 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T test with unequal variances]]></title>
+            <link>https://www.johndcook.com/blog/2021/12/01/t-test-unequal-variance/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2021/12/01/t-test-unequal-variance/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Wed, 01 Dec 2021 19:00:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geometry Problems of the Day (Geometry Regents, August 2011)]]></title>
@@ -3685,13 +3706,6 @@
             <pubDate>Tue, 16 Nov 2021 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Partition symmetry]]></title>
-            <link>https://www.johndcook.com/blog/2021/11/16/partition-symmetry/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2021/11/16/partition-symmetry/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 16 Nov 2021 12:02:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[¿Se puede calcular la pendiente de una asíntota oblicua con el límite de la derivada?]]></title>
             <link>https://www.gaussianos.com/se-puede-calcular-la-pendiente-de-una-asintota-oblicua-con-el-limite-de-la-derivada/</link>
             <guid isPermaLink="false">https://www.gaussianos.com/se-puede-calcular-la-pendiente-de-una-asintota-oblicua-con-el-limite-de-la-derivada/</guid>
@@ -4033,13 +4047,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2021/11/12/webinar-the-current-state-and-evolution-of-stan/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 12 Nov 2021 20:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Great Day for a Pattern]]></title>
-            <link>https://mathjokes4mathyfolks.wordpress.com/2021/11/12/a-great-day-for-a-pattern/</link>
-            <guid isPermaLink="false">https://mathjokes4mathyfolks.wordpress.com/2021/11/12/a-great-day-for-a-pattern/</guid>
-            <dc:creator><![CDATA[Math Jokes 4 Mathy Folks]]></dc:creator>
-            <pubDate>Fri, 12 Nov 2021 17:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
