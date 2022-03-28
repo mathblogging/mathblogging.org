@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Mar 2022 20:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:09:24 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Mar 2022 20:35:47 GMT</pubDate>
+        <pubDate>Mon, 28 Mar 2022 02:09:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Seed vault, but for code]]></title>
+            <link>https://www.johndcook.com/blog/2022/03/27/seed-vault-but-for-code/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/03/27/seed-vault-but-for-code/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Sun, 27 Mar 2022 23:19:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[book bans]]></title>
+            <link>https://xianblog.wordpress.com/2022/03/28/book-bans/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/03/28/book-bans/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sun, 27 Mar 2022 22:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How I Record 360 Degree Classroom Video]]></title>
             <link>https://robertkaplinsky.com/how-i-record-360-degree-classroom-video/</link>
@@ -50,6 +64,13 @@
             <guid isPermaLink="false">https://maddmaths.simai.eu/divulgazione/geometria-e-fusione-nucleare/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Sun, 27 Mar 2022 07:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holomorphic Gerbes (Part 1)]]></title>
+            <link>https://golem.ph.utexas.edu/category/2022/03/holomorphic_gerbes.html</link>
+            <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2022/03/holomorphic_gerbes.html</guid>
+            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
+            <pubDate>Sun, 27 Mar 2022 06:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maths Challenge Prompts]]></title>
@@ -1331,13 +1352,6 @@
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2022/03/line_bundles_on_complex_tori_p.html</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Sat, 19 Mar 2022 02:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a journal of the plague and pestilence year]]></title>
-            <link>https://xianblog.wordpress.com/2022/03/19/a-journal-of-the-plague-and-pestilence-year/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/03/19/a-journal-of-the-plague-and-pestilence-year/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Fri, 18 Mar 2022 23:22:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On the Concept of Motion]]></title>
@@ -4033,27 +4047,6 @@
             <guid isPermaLink="false">https://fivetwelvethirteen.wordpress.com/2022/02/24/roster-audit/</guid>
             <dc:creator><![CDATA[Five Twelve Thirteen]]></dc:creator>
             <pubDate>Fri, 25 Feb 2022 02:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Find log normal parameters for given mean and variance]]></title>
-            <link>https://www.johndcook.com/blog/2022/02/24/find-log-normal-parameters/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/02/24/find-log-normal-parameters/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Fri, 25 Feb 2022 01:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[January 11 Forum: “Statistical Significance Test Anxiety” : Benjamini, Mayo, Hand]]></title>
-            <link>https://errorstatistics.com/2022/02/24/january-11-forum-statistical-significance-test-anxiety-benjamini-mayo-hand/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2022/02/24/january-11-forum-statistical-significance-test-anxiety-benjamini-mayo-hand/</guid>
-            <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
-            <pubDate>Thu, 24 Feb 2022 23:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grover Norquist, Anne-Marie Slaughter, and a rabbi walk into a bar . . .]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2022/02/24/grover-norquist-anne-marie-slaughter-and-a-rabbi-walk-into-a-bar/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/02/24/grover-norquist-anne-marie-slaughter-and-a-rabbi-walk-into-a-bar/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 24 Feb 2022 21:44:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
