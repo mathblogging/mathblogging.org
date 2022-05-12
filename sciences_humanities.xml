@@ -4,11 +4,39 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 May 2022 20:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 02:27:42 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 May 2022 20:36:46 GMT</pubDate>
+        <pubDate>Thu, 12 May 2022 02:27:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[interval arithmetic]]></title>
+            <link>https://ncatlab.org/nlab/show/interval+arithmetic</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/interval+arithmetic</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 12 May 2022 00:11:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sum of Paretos]]></title>
+            <link>https://xianblog.wordpress.com/2022/05/12/sum-of-paretos/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/05/12/sum-of-paretos/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Wed, 11 May 2022 22:22:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unity scrapes out a win – United for Change takes high schools]]></title>
+            <link>https://jd2718.org/2022/05/11/unity-scrapes-out-a-win-united-for-change-takes-high-schools/</link>
+            <guid isPermaLink="false">https://jd2718.org/2022/05/11/unity-scrapes-out-a-win-united-for-change-takes-high-schools/</guid>
+            <dc:creator><![CDATA[JD2718]]></dc:creator>
+            <pubDate>Wed, 11 May 2022 22:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measure Theory captions finally complete]]></title>
+            <link>https://explainingmaths.wordpress.com/2022/05/11/measure-theory-captions-finally-complete/</link>
+            <guid isPermaLink="false">https://explainingmaths.wordpress.com/2022/05/11/measure-theory-captions-finally-complete/</guid>
+            <dc:creator><![CDATA[Explaining mathematics]]></dc:creator>
+            <pubDate>Wed, 11 May 2022 21:39:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Differential Privacy]]></title>
             <link>https://rjlipton.wpcomstaging.com/2022/05/11/differential-privacy/</link>
@@ -52,27 +80,6 @@
             <pubDate>Wed, 11 May 2022 18:40:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rainald Flume]]></title>
-            <link>https://ncatlab.org/nlab/show/Rainald+Flume</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Rainald+Flume</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 11 May 2022 18:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philippe Christe]]></title>
-            <link>https://ncatlab.org/nlab/show/Philippe+Christe</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Philippe+Christe</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 11 May 2022 18:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vladimir A. Fateev]]></title>
-            <link>https://ncatlab.org/nlab/show/Vladimir+A.+Fateev</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Vladimir+A.+Fateev</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 11 May 2022 18:32:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[„Wie geht’s dir?“]]></title>
             <link>https://halbtagsblog.de/2022/05/11/wie-gehts-dir/</link>
             <guid isPermaLink="false">https://halbtagsblog.de/2022/05/11/wie-gehts-dir/</guid>
@@ -113,13 +120,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/05/11/jamaican-me-crazy-one-more-time/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Wed, 11 May 2022 13:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hypergeometric construction of KZ solutions]]></title>
-            <link>https://ncatlab.org/nlab/show/hypergeometric+construction+of+KZ+solutions</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/hypergeometric+construction+of+KZ+solutions</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 11 May 2022 12:50:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[hypergeometric KZ-solutions -- references]]></title>
@@ -204,6 +204,13 @@
             <guid isPermaLink="false">https://jd2718.org/2022/05/11/even-the-incomplete-results-are-incomplete/</guid>
             <dc:creator><![CDATA[JD2718]]></dc:creator>
             <pubDate>Wed, 11 May 2022 04:20:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[subtype]]></title>
+            <link>https://ncatlab.org/nlab/show/subtype</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/subtype</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 11 May 2022 04:11:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen Elizabeth is the 3rd longest reigning monarch; The problem with definitions]]></title>
@@ -1100,13 +1107,6 @@
             <guid isPermaLink="false">https://mathproblems123.wordpress.com/2022/05/04/korns-inequalities/</guid>
             <dc:creator><![CDATA[Beni Bogoşel's blog]]></dc:creator>
             <pubDate>Wed, 04 May 2022 20:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kyiv after dark [#3]]]></title>
-            <link>https://xianblog.wordpress.com/2022/05/04/kyiv-after-dark-3/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/05/04/kyiv-after-dark-3/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 04 May 2022 18:22:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beef and the rainforest]]></title>
@@ -3097,13 +3097,6 @@
             <pubDate>Mon, 18 Apr 2022 22:27:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What if UFC wins? #4 Elections]]></title>
-            <link>https://jd2718.org/2022/04/18/what-if-ufc-wins-4-elections/</link>
-            <guid isPermaLink="false">https://jd2718.org/2022/04/18/what-if-ufc-wins-4-elections/</guid>
-            <dc:creator><![CDATA[JD2718]]></dc:creator>
-            <pubDate>Mon, 18 Apr 2022 19:20:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fun Density Demonstration]]></title>
             <link>http://www.moomoomathblog.com/2022/04/fun-density-demonstration.html</link>
             <guid isPermaLink="false">http://www.moomoomathblog.com/2022/04/fun-density-demonstration.html</guid>
@@ -3711,41 +3704,6 @@
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2022/04/o-gauss.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Mon, 11 Apr 2022 03:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Legendary Question 6]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/the-legendary-question-6/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/the-legendary-question-6/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Sun, 10 Apr 2022 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TCS Women Spotlight Workshop at STOC 2022: Travel grants and call for speaker nominations. (Guest post by Mary Wooters)]]></title>
-            <link>https://windowsontheory.org/2022/04/10/tcs-women-spotlight-workshop-at-stoc-2022-travel-grants-and-call-for-speaker-nominations-guest-post-by-mary-wooters/</link>
-            <guid isPermaLink="false">https://windowsontheory.org/2022/04/10/tcs-women-spotlight-workshop-at-stoc-2022-travel-grants-and-call-for-speaker-nominations-guest-post-by-mary-wooters/</guid>
-            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
-            <pubDate>Sun, 10 Apr 2022 22:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Power howlers return as criticisms of severity]]></title>
-            <link>https://errorstatistics.com/2022/04/10/power-howlers-return-as-criticisms-of-severity/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2022/04/10/power-howlers-return-as-criticisms-of-severity/</guid>
-            <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
-            <pubDate>Sun, 10 Apr 2022 22:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Circular slide rule]]></title>
-            <link>https://www.johndcook.com/blog/2022/04/10/circular-slide-rule/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/04/10/circular-slide-rule/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sun, 10 Apr 2022 22:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why a slide rule works]]></title>
-            <link>https://www.johndcook.com/blog/2022/04/10/why-a-slide-rule-works/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/04/10/why-a-slide-rule-works/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sun, 10 Apr 2022 20:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
