@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jun 2022 05:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:46:15 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jun 2022 05:04:07 GMT</pubDate>
+        <pubDate>Tue, 28 Jun 2022 08:46:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Personal life dashboard]]></title>
+            <link>https://flowingdata.com/2022/06/28/personal-life-dashboard/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2022/06/28/personal-life-dashboard/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Tue, 28 Jun 2022 08:03:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[June 2022 Algebra 1 Regents, Part IV]]></title>
             <link>https://mrburkemath.blogspot.com/2022/06/june-2022-algebra-1-regents-part-iv.html</link>
@@ -1709,13 +1716,6 @@
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2022/06/the-joy-of-bezzle-crypto-meme-stocks.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Fri, 17 Jun 2022 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Possible lead exposure around small airports]]></title>
-            <link>https://flowingdata.com/2022/06/17/possible-lead-exposure-around-small-airports/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2022/06/17/possible-lead-exposure-around-small-airports/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Fri, 17 Jun 2022 10:06:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mathematical Objects: Slinky]]></title>
@@ -3928,13 +3928,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/05/28/tuning-free-generalized-hamiltonian-monte-carlo/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sat, 28 May 2022 13:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tutorial on Categorical Semantics of Entropy]]></title>
-            <link>https://johncarlosbaez.wordpress.com/2022/05/28/tutorial-on-categorical-semantics-of-entropy/</link>
-            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2022/05/28/tutorial-on-categorical-semantics-of-entropy/</guid>
-            <dc:creator><![CDATA[Azimuth]]></dc:creator>
-            <pubDate>Sat, 28 May 2022 06:24:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
