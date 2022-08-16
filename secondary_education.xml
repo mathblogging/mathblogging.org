@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Aug 2022 16:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 20:37:07 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Aug 2022 16:52:47 GMT</pubDate>
+        <pubDate>Tue, 16 Aug 2022 20:37:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Dump a pickle file to a readable text file]]></title>
+            <link>https://www.johndcook.com/blog/2022/08/16/python-pickle/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/08/16/python-pickle/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Tue, 16 Aug 2022 18:40:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bourbaki, Brassens, Hula Hoops and Coconuts]]></title>
+            <link>http://www.neverendingbooks.org/bourbaki-brassens-hula-hoops-and-coconuts</link>
+            <guid isPermaLink="false">http://www.neverendingbooks.org/bourbaki-brassens-hula-hoops-and-coconuts</guid>
+            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
+            <pubDate>Tue, 16 Aug 2022 17:31:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[June 2022 Algebra 2 Regents, Part I (multiple choice)]]></title>
             <link>https://mrburkemath.blogspot.com/2022/08/june-2022-algebra-2-regents-part-i_16.html</link>
@@ -99,13 +113,6 @@
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2022/08/blog-post_77.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Tue, 16 Aug 2022 10:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roldão da Rocha]]></title>
-            <link>https://ncatlab.org/nlab/show/Rold%25C3%25A3o+da+Rocha</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Rold%C3%A3o+da+Rocha</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 16 Aug 2022 09:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grothendiecks Erbe]]></title>
@@ -351,6 +358,13 @@
             <guid isPermaLink="false">https://www.johndcook.com/blog/2022/08/14/yyz/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sun, 14 Aug 2022 23:26:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem-solving out loud]]></title>
+            <link>https://www.flyingcoloursmaths.co.uk/problem-solving-out-loud/</link>
+            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/problem-solving-out-loud/</guid>
+            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
+            <pubDate>Sun, 14 Aug 2022 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amy in Randomland [book review]]]></title>
@@ -1058,6 +1072,13 @@
             <guid isPermaLink="false">https://gottwurfelt.com/2022/08/08/what-are-you-trying-to-optimize-in-wordle/</guid>
             <dc:creator><![CDATA[God plays dice]]></dc:creator>
             <pubDate>Tue, 09 Aug 2022 03:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hasse-Schmidt derivative]]></title>
+            <link>https://ncatlab.org/nlab/show/Hasse-Schmidt+derivative</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Hasse-Schmidt+derivative</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 09 Aug 2022 02:44:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BRIDGES Conference 2022 -- Math-Poetry]]></title>
@@ -3337,13 +3358,6 @@ rotated to show all three branch points...]]></title>
             <pubDate>Fri, 22 Jul 2022 15:44:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Le Guide Bourbaki : Pelvoux]]></title>
-            <link>http://www.neverendingbooks.org/le-guide-bourbaki-pelvoux</link>
-            <guid isPermaLink="false">http://www.neverendingbooks.org/le-guide-bourbaki-pelvoux</guid>
-            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
-            <pubDate>Fri, 22 Jul 2022 15:12:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Worried about Climate Change]]></title>
             <link>https://poetrywithmathematics.blogspot.com/2022/07/worried-about-climate-change.html</link>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2022/07/worried-about-climate-change.html</guid>
@@ -3923,27 +3937,6 @@ rotated to show all three branch points...]]></title>
             <guid isPermaLink="false">https://jeremykun.com/2022/07/16/modulus-switching-in-lwe/</guid>
             <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
             <pubDate>Sat, 16 Jul 2022 21:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spot the difference]]></title>
-            <link>https://scienceblogs.de/mathlog/2022/07/17/spot-the-difference/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=spot-the-difference</link>
-            <guid isPermaLink="false">https://scienceblogs.de/mathlog/2022/07/17/spot-the-difference/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=spot-the-difference</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Sat, 16 Jul 2022 20:24:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is a euro close to a dollar?]]></title>
-            <link>https://gottwurfelt.com/2022/07/16/why-is-a-euro-close-to-a-dollar/</link>
-            <guid isPermaLink="false">https://gottwurfelt.com/2022/07/16/why-is-a-euro-close-to-a-dollar/</guid>
-            <dc:creator><![CDATA[God plays dice]]></dc:creator>
-            <pubDate>Sat, 16 Jul 2022 18:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My New Favorite Russian Plate]]></title>
-            <link>https://blog.tanyakhovanova.com/2022/07/my-new-favorite-russian-plate/</link>
-            <guid isPermaLink="false">https://blog.tanyakhovanova.com/2022/07/my-new-favorite-russian-plate/</guid>
-            <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
-            <pubDate>Sat, 16 Jul 2022 17:19:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
