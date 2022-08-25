@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Aug 2022 13:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 16:53:51 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Aug 2022 13:06:09 GMT</pubDate>
+        <pubDate>Thu, 25 Aug 2022 16:53:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[PHQ, at the Edinburgh Festival]]></title>
+            <link>https://www.logicmatters.net/2022/08/25/phq-at-the-edinburgh-festival/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/08/25/phq-at-the-edinburgh-festival/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2022 15:40:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[8/25/22]]></title>
             <link>https://purenumbers.tumblr.com/post/693560286969462784</link>
@@ -127,13 +134,6 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2022/08/25/toilet-issues-infographics/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Wed, 24 Aug 2022 22:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fixed point operator]]></title>
-            <link>https://ncatlab.org/nlab/show/fixed+point+operator</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/fixed+point+operator</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 24 Aug 2022 21:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[from an Ukrainian mathematician [День незалежності України]]]></title>
@@ -3491,13 +3491,6 @@ rotated to show all three branch points...]]></title>
             <pubDate>Thu, 28 Jul 2022 18:24:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematical  Logic:  Exercises and Solutions]]></title>
-            <link>https://www.logicmatters.net/2022/07/28/mathematical-logic-exercises-and-solutions/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2022/07/28/mathematical-logic-exercises-and-solutions/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Thu, 28 Jul 2022 16:47:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Looking back to an old poem -- "Expectations"]]></title>
             <link>https://poetrywithmathematics.blogspot.com/2022/07/looking-back-to-old-poem-expectations.html</link>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2022/07/looking-back-to-old-poem-expectations.html</guid>
@@ -3799,6 +3792,13 @@ rotated to show all three branch points...]]></title>
             <pubDate>Tue, 26 Jul 2022 01:34:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[(Print) "Algorithm Layout" in HTML and CSS]]></title>
+            <link>https://www.peterkrautzberger.org/0217/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0217/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Read It Free: “Stat Inference as Severe Testing: How to Get Beyond the Stat Wars” during August]]></title>
             <link>https://errorstatistics.com/2022/07/25/read-it-free-stat-inference-as-severe-testing-how-to-get-beyond-the-stat-wars-during-august/</link>
             <guid isPermaLink="false">https://errorstatistics.com/2022/07/25/read-it-free-stat-inference-as-severe-testing-how-to-get-beyond-the-stat-wars-during-august/</guid>
@@ -3825,27 +3825,6 @@ rotated to show all three branch points...]]></title>
             <guid isPermaLink="false">https://emergentmath.com/2022/07/25/three-strategies-to-help-improve-students-conception-of-math-part-1-do-creative-math/</guid>
             <dc:creator><![CDATA[emergent math]]></dc:creator>
             <pubDate>Mon, 25 Jul 2022 16:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grothendieck’s haircut]]></title>
-            <link>http://www.neverendingbooks.org/grothendiecks-haircut</link>
-            <guid isPermaLink="false">http://www.neverendingbooks.org/grothendiecks-haircut</guid>
-            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
-            <pubDate>Mon, 25 Jul 2022 16:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Einstein Defining Special Relativity]]></title>
-            <link>https://poetrywithmathematics.blogspot.com/2022/07/einstein-defining-special-relativity.html</link>
-            <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2022/07/einstein-defining-special-relativity.html</guid>
-            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
-            <pubDate>Mon, 25 Jul 2022 15:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Details of implementation of machine learning algorithms]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2022/07/25/details-of-implementation-of-machine-learning-algorithms/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/07/25/details-of-implementation-of-machine-learning-algorithms/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Mon, 25 Jul 2022 13:32:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
