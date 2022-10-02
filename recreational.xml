@@ -4,11 +4,39 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Oct 2022 13:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 16:56:09 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Oct 2022 13:06:45 GMT</pubDate>
+        <pubDate>Sun, 02 Oct 2022 16:56:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Carnival of Mathematics #209]]></title>
+            <link>https://jeremykun.com/2022/10/02/carnival-of-mathematics-209/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2022/10/02/carnival-of-mathematics-209/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Sun, 02 Oct 2022 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CNOT gate]]></title>
+            <link>https://ncatlab.org/nlab/show/CNOT+gate</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/CNOT+gate</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 02 Oct 2022 13:15:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[assignment operator]]></title>
+            <link>https://ncatlab.org/nlab/show/assignment+operator</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/assignment+operator</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 02 Oct 2022 13:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Big is Infinity? — Quanta Magazine]]></title>
+            <link>https://mrhonner.com/archives/21410</link>
+            <guid isPermaLink="false">https://mrhonner.com/archives/21410</guid>
+            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
+            <pubDate>Sun, 02 Oct 2022 13:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[# 4 from old math term notes]]></title>
             <link>https://pballew.blogspot.com/2022/10/4-from-old-math-term-notes.html</link>
@@ -29,6 +57,20 @@
             <guid isPermaLink="false">https://pballew.blogspot.com/2022/10/3-from-old-math-terms-notes.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Sun, 02 Oct 2022 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hadamard gate]]></title>
+            <link>https://ncatlab.org/nlab/show/Hadamard+gate</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Hadamard+gate</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 02 Oct 2022 12:25:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[homotopy canonicity]]></title>
+            <link>https://ncatlab.org/nlab/show/homotopy+canonicity</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/homotopy+canonicity</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 02 Oct 2022 11:41:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exposé sur l’équité en assurance]]></title>
@@ -87,13 +129,6 @@
             <pubDate>Sun, 02 Oct 2022 04:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wiggling toward bio-inspired machine intelligence]]></title>
-            <link>https://news.mit.edu/2022/wiggling-toward-bio-inspired-machine-intelligence-juncal-arbelaiz-1002</link>
-            <guid isPermaLink="false">https://news.mit.edu/2022/wiggling-toward-bio-inspired-machine-intelligence-juncal-arbelaiz-1002</guid>
-            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
-            <pubDate>Sun, 02 Oct 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I Bought A Cow For 800 Dollar Riddle – The Correct Answer Explained]]></title>
             <link>https://mindyourdecisions.com/blog/2022/10/01/i-bought-a-cow-for-800-dollar-riddle-the-correct-answer-explained/</link>
             <guid isPermaLink="false">https://mindyourdecisions.com/blog/2022/10/01/i-bought-a-cow-for-800-dollar-riddle-the-correct-answer-explained/</guid>
@@ -127,6 +162,13 @@
             <guid isPermaLink="false">https://micromath.wordpress.com/2022/10/01/do-the-children-of-math-teachers-always-pass-algebra/</guid>
             <dc:creator><![CDATA[Mathematics under the Microscope]]></dc:creator>
             <pubDate>Sat, 01 Oct 2022 19:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[quantum circuits via dependent linear types]]></title>
+            <link>https://ncatlab.org/nlab/show/quantum+circuits+via+dependent+linear+types</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/quantum+circuits+via+dependent+linear+types</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 01 Oct 2022 19:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCTM 2022]]></title>
@@ -542,6 +584,13 @@
             <pubDate>Wed, 28 Sep 2022 20:36:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[objective type theory]]></title>
+            <link>https://ncatlab.org/nlab/show/objective+type+theory</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/objective+type+theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 28 Sep 2022 19:33:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[✚ How to Draw and Use Polygons in R]]></title>
             <link>https://flowingdata.com/2022/09/28/how-to-draw-and-use-polygons-in-r/</link>
             <guid isPermaLink="false">https://flowingdata.com/2022/09/28/how-to-draw-and-use-polygons-in-r/</guid>
@@ -806,6 +855,13 @@
             <guid isPermaLink="false">https://nhigham.com/2022/09/27/what-is-a-circulant-matrix/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Tue, 27 Sep 2022 11:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foucault and Epistemic Injustice (part 1)]]></title>
+            <link>https://www.newappsblog.com/2022/09/foucault-and-epistemic-injustice-part-1.html</link>
+            <guid isPermaLink="false">https://www.newappsblog.com/2022/09/foucault-and-epistemic-injustice-part-1.html</guid>
+            <dc:creator><![CDATA[New APPS: Art, Politics, Philosophy, Science]]></dc:creator>
+            <pubDate>Tue, 27 Sep 2022 10:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is it natural for a mathematician to forget specifics of some parts of math?]]></title>
@@ -1485,13 +1541,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/22/fill-in-the-blank-leads-to-more-citations-junk-science-and-unavailable-data-at-the-european-heart-journal/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Thu, 22 Sep 2022 13:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Shor wins Breakthrough Prize in Fundamental Physics]]></title>
-            <link>https://news.mit.edu/2022/shor-spielman-breakthrough-prize-0922</link>
-            <guid isPermaLink="false">https://news.mit.edu/2022/shor-spielman-breakthrough-prize-0922</guid>
-            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2022 13:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9/22/22]]></title>
@@ -3356,6 +3405,13 @@
             <pubDate>Tue, 06 Sep 2022 10:18:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[quantum teleportation]]></title>
+            <link>https://ncatlab.org/nlab/show/quantum+teleportation</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/quantum+teleportation</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2022 09:34:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Literate programming to reduce errors]]></title>
             <link>https://www.johndcook.com/blog/2022/09/05/literate-programming/</link>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2022/09/05/literate-programming/</guid>
@@ -3774,41 +3830,6 @@
             <guid isPermaLink="false">https://byorgey.wordpress.com/2022/09/01/competitive-programming-in-haskell-infinite-2d-array/</guid>
             <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
             <pubDate>Thu, 01 Sep 2022 17:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Very smart post on causal inference]]></title>
-            <link>https://observationalepidemiology.blogspot.com/2022/09/very-smart-post-on-causal-inference.html</link>
-            <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2022/09/very-smart-post-on-causal-inference.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2022 15:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sleeping Beauty and Tuesdays]]></title>
-            <link>https://blog.tanyakhovanova.com/2022/09/sleeping-beauty-and-tuesdays/</link>
-            <guid isPermaLink="false">https://blog.tanyakhovanova.com/2022/09/sleeping-beauty-and-tuesdays/</guid>
-            <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2022 15:43:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Football Sticker Fact Check]]></title>
-            <link>https://matheminutes.blogspot.com/2022/09/football-sticker-fact-check.html</link>
-            <guid isPermaLink="false">https://matheminutes.blogspot.com/2022/09/football-sticker-fact-check.html</guid>
-            <dc:creator><![CDATA[matheminutes]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2022 14:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Runs of letters and digits in passwords]]></title>
-            <link>https://www.johndcook.com/blog/2022/09/01/expected-runs/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/09/01/expected-runs/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2022 13:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[History, historians, and causality]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2022/09/01/history-historians-and-causality/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/01/history-historians-and-causality/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2022 13:22:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
