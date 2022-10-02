@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Oct 2022 16:56:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 20:42:26 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Oct 2022 16:56:09 GMT</pubDate>
+        <pubDate>Sun, 02 Oct 2022 20:42:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -73,13 +73,6 @@
             <pubDate>Sun, 02 Oct 2022 11:41:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exposé sur l’équité en assurance]]></title>
-            <link>https://freakonometrics.hypotheses.org/64754</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64754</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Sun, 02 Oct 2022 11:27:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematical Miscellany #72]]></title>
             <link>https://colleenyoung.org/2022/10/02/mathematical-miscellany-72/</link>
             <guid isPermaLink="false">https://colleenyoung.org/2022/10/02/mathematical-miscellany-72/</guid>
@@ -126,6 +119,13 @@
             <link>https://pballew.blogspot.com/2022/10/on-this-day-in-math-october-2.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2022/10/on-this-day-in-math-october-2.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 02 Oct 2022 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wiggling toward bio-inspired machine intelligence]]></title>
+            <link>https://news.mit.edu/2022/wiggling-toward-bio-inspired-machine-intelligence-juncal-arbelaiz-1002</link>
+            <guid isPermaLink="false">https://news.mit.edu/2022/wiggling-toward-bio-inspired-machine-intelligence-juncal-arbelaiz-1002</guid>
+            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
             <pubDate>Sun, 02 Oct 2022 04:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1541,6 +1541,13 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/22/fill-in-the-blank-leads-to-more-citations-junk-science-and-unavailable-data-at-the-european-heart-journal/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Thu, 22 Sep 2022 13:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peter Shor wins Breakthrough Prize in Fundamental Physics]]></title>
+            <link>https://news.mit.edu/2022/shor-spielman-breakthrough-prize-0922</link>
+            <guid isPermaLink="false">https://news.mit.edu/2022/shor-spielman-breakthrough-prize-0922</guid>
+            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2022 13:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9/22/22]]></title>
@@ -3809,27 +3816,6 @@
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2022/09/x-why-mini-prime-suspect.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 01 Sep 2022 21:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[August 2022 Geometry Regents, Part III]]></title>
-            <link>https://mrburkemath.blogspot.com/2022/09/august-2022-geometry-regents-part-iii.html</link>
-            <guid isPermaLink="false">https://mrburkemath.blogspot.com/2022/09/august-2022-geometry-regents-part-iii.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2022 20:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Energie sparen beim Duschen]]></title>
-            <link>https://scienceblogs.de/mathlog/2022/09/02/energie-sparen-beim-duschen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=energie-sparen-beim-duschen</link>
-            <guid isPermaLink="false">https://scienceblogs.de/mathlog/2022/09/02/energie-sparen-beim-duschen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=energie-sparen-beim-duschen</guid>
-            <dc:creator><![CDATA[Mathlog]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2022 19:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Competitive programming in Haskell: Infinite 2D array]]></title>
-            <link>https://byorgey.wordpress.com/2022/09/01/competitive-programming-in-haskell-infinite-2d-array/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2022/09/01/competitive-programming-in-haskell-infinite-2d-array/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Thu, 01 Sep 2022 17:04:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
