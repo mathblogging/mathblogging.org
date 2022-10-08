@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Oct 2022 05:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 08:49:55 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Oct 2022 05:04:53 GMT</pubDate>
+        <pubDate>Sat, 08 Oct 2022 08:49:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Catching Chess Cheats with Data]]></title>
+            <link>http://www.bbc.co.uk/programmes/p0d5ggp2</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0d5ggp2</guid>
+            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
+            <pubDate>Sat, 08 Oct 2022 05:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On This Day in Math - October 8]]></title>
             <link>https://pballew.blogspot.com/2022/10/on-this-day-in-math-october-8.html</link>
@@ -1074,13 +1081,6 @@
             <pubDate>Sun, 02 Oct 2022 12:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exposé sur l’équité en assurance]]></title>
-            <link>https://freakonometrics.hypotheses.org/64754</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64754</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Sun, 02 Oct 2022 11:27:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mathematical Miscellany #72]]></title>
             <link>https://colleenyoung.org/2022/10/02/mathematical-miscellany-72/</link>
             <guid isPermaLink="false">https://colleenyoung.org/2022/10/02/mathematical-miscellany-72/</guid>
@@ -1338,6 +1338,13 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/30/bayesian-inference-for-discrete-parameters-and-bayesian-inference-for-continuous-parameters-are-these-two-completely-different-forms-of-inference/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 30 Sep 2022 13:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Avigad on Mathematical Logic and Computation]]></title>
+            <link>https://www.logicmatters.net/2022/09/30/avigad-on-mathematical-logic-and-computation/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/30/avigad-on-mathematical-logic-and-computation/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Fri, 30 Sep 2022 13:05:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theme One Program • Exposition 7]]></title>
@@ -1641,13 +1648,6 @@
             <pubDate>Wed, 28 Sep 2022 11:40:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Talk on fairness and discrimination]]></title>
-            <link>https://freakonometrics.hypotheses.org/65062</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/65062</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Wed, 28 Sep 2022 08:44:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Participación en el FAIaS | Happy Hour #4. Situaciones de aprendizaje para introducir para introducir el Machine Learning – Inteligencia Artificial en el aula]]></title>
             <link>https://matematicas11235813.luismiglesias.es/2022/09/28/participacion-en-el-faias-happy-hour-4-situaciones-de-aprendizaje-para-introducir-para-introducir-el-machine-learning-inteligencia-artificial-en-el-aula/</link>
             <guid isPermaLink="false">https://matematicas11235813.luismiglesias.es/2022/09/28/participacion-en-el-faias-happy-hour-4-situaciones-de-aprendizaje-para-introducir-para-introducir-el-machine-learning-inteligencia-artificial-en-el-aula/</guid>
@@ -1837,13 +1837,6 @@
             <pubDate>Tue, 27 Sep 2022 08:53:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exposé sur interprétabilité et explicabilité (des modèles prédictifs)]]></title>
-            <link>https://freakonometrics.hypotheses.org/65052</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/65052</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Tue, 27 Sep 2022 08:07:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dante e la Matematica]]></title>
             <link>https://maddmaths.simai.eu/news-2/dante-e-la-matematica/</link>
             <guid isPermaLink="false">https://maddmaths.simai.eu/news-2/dante-e-la-matematica/</guid>
@@ -1991,13 +1984,6 @@
             <pubDate>Mon, 26 Sep 2022 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Week live with @IAmSciComm]]></title>
-            <link>https://freakonometrics.hypotheses.org/64316</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64316</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Mon, 26 Sep 2022 01:36:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We need to change how content creation is rewarded on the internet]]></title>
             <link>https://blog.jpolak.org/?p=2456</link>
             <guid isPermaLink="false">https://blog.jpolak.org/?p=2456</guid>
@@ -2045,6 +2031,13 @@
             <guid isPermaLink="false">https://mathtourist.blogspot.com/2022/09/clouds-at-white-sands.html</guid>
             <dc:creator><![CDATA[The Mathematical Tourist]]></dc:creator>
             <pubDate>Sun, 25 Sep 2022 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hilary Mantel, 1952–2022]]></title>
+            <link>https://www.logicmatters.net/2022/09/25/hilary-mantel-1952-2022/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/25/hilary-mantel-1952-2022/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2022 10:26:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mathematical Miscellany #71]]></title>
@@ -2257,6 +2250,13 @@
             <pubDate>Fri, 23 Sep 2022 09:36:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Another book, another disappointment]]></title>
+            <link>https://www.logicmatters.net/2022/09/23/another-book-another-disappointment/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/23/another-book-another-disappointment/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Fri, 23 Sep 2022 09:01:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[La Pietra di Pompey, o gli spagnoli nello stato di New York]]></title>
             <link>https://keespopinga.blogspot.com/2022/09/la-pietra-di-pompey-o-gli-spagnoli.html</link>
             <guid isPermaLink="false">https://keespopinga.blogspot.com/2022/09/la-pietra-di-pompey-o-gli-spagnoli.html</guid>
@@ -2334,6 +2334,13 @@
             <pubDate>Thu, 22 Sep 2022 17:14:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GWT2 — a third (near-final?) full draft]]></title>
+            <link>https://www.logicmatters.net/2022/09/22/gwt2-a-third-near-final-full-draft/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/22/gwt2-a-third-near-final-full-draft/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2022 15:25:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Giochi e materiali matematici]]></title>
             <link>https://ilpiccolofriedrich.blogspot.com/2022/09/giochi-e-materiali-matematici.html</link>
             <guid isPermaLink="false">https://ilpiccolofriedrich.blogspot.com/2022/09/giochi-e-materiali-matematici.html</guid>
@@ -2360,13 +2367,6 @@
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/696096994311241728</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Thu, 22 Sep 2022 12:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Convention A, ASTIN-IAA session]]></title>
-            <link>https://freakonometrics.hypotheses.org/64728</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64728</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2022 12:06:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dominoes in Unicode]]></title>
@@ -2416,13 +2416,6 @@
             <guid isPermaLink="false">https://halbtagsblog.de/2022/09/22/unsichtbare-arbeit-in-liechtenstein/</guid>
             <dc:creator><![CDATA[Halbtagsblog]]></dc:creator>
             <pubDate>Thu, 22 Sep 2022 03:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Risque de sécheresse et de subsidence]]></title>
-            <link>https://freakonometrics.hypotheses.org/64739</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64739</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2022 01:15:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We’re founding a quantum-thermodynamics hub!]]></title>
@@ -2479,13 +2472,6 @@
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/696006405597036544</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Wed, 21 Sep 2022 12:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using “home made” statistics]]></title>
-            <link>https://freakonometrics.hypotheses.org/65032</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/65032</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Wed, 21 Sep 2022 12:23:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ghost Ranch Landscape]]></title>
@@ -2612,13 +2598,6 @@
             <guid isPermaLink="false">https://terrytao.wordpress.com/2022/09/19/a-counterexample-to-the-periodic-tiling-conjecture/</guid>
             <dc:creator><![CDATA[What's new]]></dc:creator>
             <pubDate>Tue, 20 Sep 2022 03:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Statistique bayésienne, data sciences et nouveaux risques]]></title>
-            <link>https://freakonometrics.hypotheses.org/64009</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64009</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Tue, 20 Sep 2022 02:35:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[22-23 September final schedule for workshop: The statistics wars and their casualties ONLINE]]></title>
@@ -2754,13 +2733,6 @@
             <pubDate>Mon, 19 Sep 2022 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deutsche Gesellschaft für Versicherungs- und Finanzmathematik]]></title>
-            <link>https://freakonometrics.hypotheses.org/64188</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64188</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2022 10:10:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Online activities 19-25 September]]></title>
             <link>https://ests.wordpress.com/2022/09/19/online-activities-19-25-september/</link>
             <guid isPermaLink="false">https://ests.wordpress.com/2022/09/19/online-activities-19-25-september/</guid>
@@ -2780,6 +2752,13 @@
             <guid isPermaLink="false">https://fxdiebold.blogspot.com/2022/09/factor-network-autoregressions.html</guid>
             <dc:creator><![CDATA[No Hesitations]]></dc:creator>
             <pubDate>Sun, 18 Sep 2022 22:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[preprojective algebra]]></title>
+            <link>https://ncatlab.org/nlab/show/preprojective+algebra</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/preprojective+algebra</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2022 20:18:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Propuesta didáctica: Inteligencia artificial con LearningML. Modelo numérico. Botánicos en la escuela; clasificación de iris]]></title>
@@ -2850,6 +2829,13 @@
             <guid isPermaLink="false">https://colleenyoung.org/2022/09/18/a-place-for-everything/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 18 Sep 2022 07:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saul Kripke, 1940–2022]]></title>
+            <link>https://www.logicmatters.net/2022/09/18/saul-kripke-1940-2022/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/18/saul-kripke-1940-2022/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2022 06:51:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Circulation: UNIZOR.COM - Physics4Teens - Waves - Field Waves]]></title>
@@ -2948,13 +2934,6 @@
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0d0vmvk</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Sat, 17 Sep 2022 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Workshop on Impacts of Climate Change on Economics, Finance, and Insurance]]></title>
-            <link>https://freakonometrics.hypotheses.org/64021</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64021</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Sat, 17 Sep 2022 01:38:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thoughts on Print Equation Layout]]></title>
@@ -3069,13 +3048,6 @@
             <pubDate>Thu, 15 Sep 2022 20:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Collaborative Insurance Sustainability and Network Structure]]></title>
-            <link>https://freakonometrics.hypotheses.org/64947</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64947</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Thu, 15 Sep 2022 20:37:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“The distinction between exploratory and confirmatory research cannot be important per se, because it implies that the time at which things are said is important”]]></title>
             <link>https://statmodeling.stat.columbia.edu/2022/09/15/the-distinction-between-exploratory-and-confirmatory-research-cannot-be-important-per-se-because-it-implies-that-the-time-at-which-things-are-said-is-important/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/15/the-distinction-between-exploratory-and-confirmatory-research-cannot-be-important-per-se-because-it-implies-that-the-time-at-which-things-are-said-is-important/</guid>
@@ -3088,6 +3060,13 @@
             <guid isPermaLink="false">https://halbtagsblog.de/2022/09/15/revision-und-hospitation/</guid>
             <dc:creator><![CDATA[Halbtagsblog]]></dc:creator>
             <pubDate>Thu, 15 Sep 2022 19:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Postcard from Cambridge to … Bulgaria]]></title>
+            <link>https://www.logicmatters.net/2022/09/15/postcard-from-cambridge-to-bulgaria/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/15/postcard-from-cambridge-to-bulgaria/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Thu, 15 Sep 2022 15:05:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10 simple rules for going away to college and being on your own]]></title>
@@ -3186,6 +3165,13 @@
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2022/09/ten-years-ago-at-blog-we-were-into-self.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 14 Sep 2022 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GWT2 — a second full draft]]></title>
+            <link>https://www.logicmatters.net/2022/09/14/gwt2-a-second-full-draft/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/14/gwt2-a-second-full-draft/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2022 10:32:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Souvenirs from Polania]]></title>
@@ -3298,13 +3284,6 @@
             <guid isPermaLink="false">https://blog.plover.com/misc/zeppelin-wappen.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Tue, 13 Sep 2022 02:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Les biais, les discriminations et l’équité en assurance]]></title>
-            <link>https://freakonometrics.hypotheses.org/64908</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64908</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Tue, 13 Sep 2022 01:11:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Algebra of Grand Unified Theories]]></title>
@@ -3657,6 +3636,13 @@
             <pubDate>Fri, 09 Sep 2022 02:35:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[In the midst of life …]]></title>
+            <link>https://www.logicmatters.net/2022/09/08/in-the-midst-of-life/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/08/in-the-midst-of-life/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2022 19:17:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Survey of Cybernetics • 2]]></title>
             <link>https://inquiryintoinquiry.com/2022/09/08/survey-of-cybernetics-2/</link>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2022/09/08/survey-of-cybernetics-2/</guid>
@@ -3725,20 +3711,6 @@
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2022/09/thursday-tweets.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 08 Sep 2022 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exposé sur l’équité en assurance, pour la chaire DIALog et CNP Assurances]]></title>
-            <link>https://freakonometrics.hypotheses.org/64311</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64311</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Thu, 08 Sep 2022 08:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monty Hall problem, with Thompson sampling]]></title>
-            <link>https://freakonometrics.hypotheses.org/64824</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64824</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Thu, 08 Sep 2022 01:34:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Divergence: UNIZOR.COM - Physics4Teens - Waves - Field Waves]]></title>
@@ -3816,20 +3788,6 @@
             <guid isPermaLink="false">https://thonyc.wordpress.com/2022/09/07/death-dont-have-no-mercy/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Wed, 07 Sep 2022 09:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan flooding, UK power prices and Boris’s broadband claim]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0cysfdh</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0cysfdh</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Wed, 07 Sep 2022 08:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resolución de problemas (RESPRO) en el nuevo currículo de Matemáticas LOMLOE. Una mirada a la investigación educativa: buenos resolutores y alumnos con dificultades en resolución de problemas]]></title>
-            <link>https://matematicas11235813.luismiglesias.es/2022/09/07/resolucion-de-problemas-respro-en-el-nuevo-curriculo-de-matematicas-lomloe-caracteristicas-de-los-buenos-resolutores-y-de-los-alumnos-con-dificultades/</link>
-            <guid isPermaLink="false">https://matematicas11235813.luismiglesias.es/2022/09/07/resolucion-de-problemas-respro-en-el-nuevo-curriculo-de-matematicas-lomloe-caracteristicas-de-los-buenos-resolutores-y-de-los-alumnos-con-dificultades/</guid>
-            <dc:creator><![CDATA[MatemáTICas: 1,1,2,3,5,8,13,…]]></dc:creator>
-            <pubDate>Wed, 07 Sep 2022 05:53:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
