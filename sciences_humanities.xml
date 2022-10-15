@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Oct 2022 20:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 03:14:51 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Oct 2022 20:48:10 GMT</pubDate>
+        <pubDate>Sat, 15 Oct 2022 03:14:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Finite mixture models do not reliably learn the number of components]]></title>
+            <link>https://xianblog.wordpress.com/2022/10/15/finite-mixture-models-do-not-reliably-learn-the-number-of-components/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/10/15/finite-mixture-models-do-not-reliably-learn-the-number-of-components/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Fri, 14 Oct 2022 22:22:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Serial Killers]]></title>
             <link>https://mrburkemath.blogspot.com/2022/10/serial-killers.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/13/expensive-queries/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Thu, 13 Oct 2022 17:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peripatetic Seminar on Sheaves and Logic]]></title>
-            <link>https://ncatlab.org/nlab/show/Peripatetic+Seminar+on+Sheaves+and+Logic</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Peripatetic+Seminar+on+Sheaves+and+Logic</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 13 Oct 2022 16:34:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stethoscope]]></title>
@@ -1480,13 +1480,6 @@
             <pubDate>Wed, 05 Oct 2022 22:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andrew & All about that Bayes!]]></title>
-            <link>https://xianblog.wordpress.com/2022/10/06/andrew-all-about-that-bayes/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/10/06/andrew-all-about-that-bayes/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 05 Oct 2022 22:22:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CWRU Is Hiring]]></title>
             <link>https://golem.ph.utexas.edu/category/2022/10/cwru_is_hiring.html</link>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2022/10/cwru_is_hiring.html</guid>
@@ -2318,13 +2311,6 @@
             <guid isPermaLink="false">https://blog.mathed.net/2022/09/one-mathematics-many-voices-nctm-day-1.html</guid>
             <dc:creator><![CDATA[MathEd.net]]></dc:creator>
             <pubDate>Thu, 29 Sep 2022 06:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[objective type theory]]></title>
-            <link>https://ncatlab.org/nlab/show/objective+type+theory</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/objective+type+theory</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 28 Sep 2022 19:33:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The original Room square]]></title>
@@ -3739,13 +3725,6 @@
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0d05rlv</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Wed, 14 Sep 2022 08:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With CPLEX, You're Not In Until You're In]]></title>
-            <link>https://orinanobworld.blogspot.com/2022/09/with-cplex-youre-not-in-until-youre-in.html</link>
-            <guid isPermaLink="false">https://orinanobworld.blogspot.com/2022/09/with-cplex-youre-not-in-until-youre-in.html</guid>
-            <dc:creator><![CDATA[OR in an OB World]]></dc:creator>
-            <pubDate>Tue, 13 Sep 2022 21:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
