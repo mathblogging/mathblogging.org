@@ -4,11 +4,53 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Oct 2022 13:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 16:58:29 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Oct 2022 13:08:19 GMT</pubDate>
+        <pubDate>Sat, 15 Oct 2022 16:58:29 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[coequalizer type]]></title>
+            <link>https://ncatlab.org/nlab/show/coequalizer+type</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/coequalizer+type</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 15 Oct 2022 16:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bo’az Klartag and  Joseph Lehec: The Slice Conjecture Up to Polylogarithmic Factor!]]></title>
+            <link>https://gilkalai.wordpress.com/2022/10/15/boaz-klartag-and-joseph-lehec-the-slice-conjecture-up-to-polylogarithmic-factor/</link>
+            <guid isPermaLink="false">https://gilkalai.wordpress.com/2022/10/15/boaz-klartag-and-joseph-lehec-the-slice-conjecture-up-to-polylogarithmic-factor/</guid>
+            <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
+            <pubDate>Sat, 15 Oct 2022 15:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Python as a statistical calculator]]></title>
+            <link>https://www.johndcook.com/blog/2022/10/15/python-as-stat-calculator/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/15/python-as-stat-calculator/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Sat, 15 Oct 2022 14:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[propositional truncation object]]></title>
+            <link>https://ncatlab.org/nlab/show/propositional+truncation+object</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/propositional+truncation+object</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 15 Oct 2022 13:18:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How should Bayesian methods for the social sciences differ from Bayesian methods for the physical sciences? (my talk at the Bayesian Methods for the Social Sciences workshop, 21 Oct 2022, Paris)]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2022/10/15/how-should-bayesian-methods-for-the-social-sciences-differ-from-bayesian-methods-for-the-physical-sciences-my-talk-at-the-bayesian-methods-for-the-social-sciences-workshop-21-oct-2022-paris/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/10/15/how-should-bayesian-methods-for-the-social-sciences-differ-from-bayesian-methods-for-the-physical-sciences-my-talk-at-the-bayesian-methods-for-the-social-sciences-workshop-21-oct-2022-paris/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 15 Oct 2022 13:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weekend reads: A bizarre turn in a plagiarism case; lessons of the ‘replication crisis’; special issues redux]]></title>
+            <link>https://retractionwatch.com/2022/10/15/weekend-reads-a-bizarre-turn-in-a-plagiarism-case-lessons-of-the-replication-crisis-special-issues-redux/</link>
+            <guid isPermaLink="false">https://retractionwatch.com/2022/10/15/weekend-reads-a-bizarre-turn-in-a-plagiarism-case-lessons-of-the-replication-crisis-special-issues-redux/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Sat, 15 Oct 2022 13:01:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10/15/22]]></title>
             <link>https://purenumbers.tumblr.com/post/698180723922911232</link>
@@ -157,13 +199,6 @@
             <pubDate>Fri, 14 Oct 2022 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[propositional logic as a dependent type theory]]></title>
-            <link>https://ncatlab.org/nlab/show/propositional+logic+as+a+dependent+type+theory</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/propositional+logic+as+a+dependent+type+theory</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 14 Oct 2022 04:25:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[inferring the number of components [remotely]]]></title>
             <link>https://xianblog.wordpress.com/2022/10/14/inferring-the-number-of-components-remotely/</link>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2022/10/14/inferring-the-number-of-components-remotely/</guid>
@@ -232,6 +267,13 @@
             <guid isPermaLink="false">https://pballew.blogspot.com/2022/10/19-polynomialbinomial-from-old-math.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Thu, 13 Oct 2022 15:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GWT2, Category theory, and other delights …]]></title>
+            <link>https://www.logicmatters.net/2022/10/13/gwt2cats/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/10/13/gwt2cats/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Thu, 13 Oct 2022 14:03:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How did Bill James get this one wrong on regression to the mean?  Here are 6 reasons:]]></title>
@@ -1816,13 +1858,6 @@
             <pubDate>Mon, 03 Oct 2022 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frankincense extract paper is 30th retracted by former MD Anderson researcher who once threatened to sue Retraction Watch]]></title>
-            <link>https://retractionwatch.com/2022/10/03/frankincense-extract-paper-is-30th-retracted-by-former-md-anderson-researcher-who-once-threatened-to-sue-retraction-watch/</link>
-            <guid isPermaLink="false">https://retractionwatch.com/2022/10/03/frankincense-extract-paper-is-30th-retracted-by-former-md-anderson-researcher-who-once-threatened-to-sue-retraction-watch/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Mon, 03 Oct 2022 19:33:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Batch Multivalid Conformal Prediction]]></title>
             <link>https://aaronsadventures.blogspot.com/2022/10/batch-multivalid-conformal-prediction.html</link>
             <guid isPermaLink="false">https://aaronsadventures.blogspot.com/2022/10/batch-multivalid-conformal-prediction.html</guid>
@@ -2150,6 +2185,13 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/30/bayesian-inference-for-discrete-parameters-and-bayesian-inference-for-continuous-parameters-are-these-two-completely-different-forms-of-inference/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 30 Sep 2022 13:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Avigad on Mathematical Logic and Computation]]></title>
+            <link>https://www.logicmatters.net/2022/09/30/avigad-on-mathematical-logic-and-computation/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/30/avigad-on-mathematical-logic-and-computation/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Fri, 30 Sep 2022 13:05:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theme One Program • Exposition 7]]></title>
@@ -2656,6 +2698,13 @@
             <pubDate>Sun, 25 Sep 2022 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hilary Mantel, 1952–2022]]></title>
+            <link>https://www.logicmatters.net/2022/09/25/hilary-mantel-1952-2022/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/25/hilary-mantel-1952-2022/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2022 10:26:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mathematical Miscellany #71]]></title>
             <link>https://colleenyoung.org/2022/09/25/mathematical-miscellany-71/</link>
             <guid isPermaLink="false">https://colleenyoung.org/2022/09/25/mathematical-miscellany-71/</guid>
@@ -2768,13 +2817,6 @@
             <pubDate>Fri, 23 Sep 2022 21:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HCPCS (“hick pics”) codes]]></title>
-            <link>https://www.johndcook.com/blog/2022/09/23/hcpcs-codes/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/09/23/hcpcs-codes/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Fri, 23 Sep 2022 20:01:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What is an algebraic variety?]]></title>
             <link>https://isomorphismes.tumblr.com/post/696210240060948480</link>
             <guid isPermaLink="false">https://isomorphismes.tumblr.com/post/696210240060948480</guid>
@@ -2836,6 +2878,13 @@
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2022/09/blog-post_23.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Fri, 23 Sep 2022 09:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another book, another disappointment]]></title>
+            <link>https://www.logicmatters.net/2022/09/23/another-book-another-disappointment/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/23/another-book-another-disappointment/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Fri, 23 Sep 2022 09:01:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La Pietra di Pompey, o gli spagnoli nello stato di New York]]></title>
@@ -2906,6 +2955,13 @@
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0d21rl8</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Thu, 22 Sep 2022 17:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GWT2 — a third (near-final?) full draft]]></title>
+            <link>https://www.logicmatters.net/2022/09/22/gwt2-a-third-near-final-full-draft/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/22/gwt2-a-third-near-final-full-draft/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Thu, 22 Sep 2022 15:25:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Giochi e materiali matematici]]></title>
@@ -3349,6 +3405,13 @@
             <pubDate>Sun, 18 Sep 2022 07:36:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Saul Kripke, 1940–2022]]></title>
+            <link>https://www.logicmatters.net/2022/09/18/saul-kripke-1940-2022/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/18/saul-kripke-1940-2022/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Sun, 18 Sep 2022 06:51:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Circulation: UNIZOR.COM - Physics4Teens - Waves - Field Waves]]></title>
             <link>https://unizor.blogspot.com/2022/09/circulation-unizorcom-physics4teens.html</link>
             <guid isPermaLink="false">https://unizor.blogspot.com/2022/09/circulation-unizorcom-physics4teens.html</guid>
@@ -3573,6 +3636,13 @@
             <pubDate>Thu, 15 Sep 2022 19:17:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Postcard from Cambridge to … Bulgaria]]></title>
+            <link>https://www.logicmatters.net/2022/09/15/postcard-from-cambridge-to-bulgaria/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/09/15/postcard-from-cambridge-to-bulgaria/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Thu, 15 Sep 2022 15:05:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10 simple rules for going away to college and being on your own]]></title>
             <link>https://punkrockor.com/2022/09/15/10-simple-rules-for-going-away-to-college-and-being-on-your-own/</link>
             <guid isPermaLink="false">https://punkrockor.com/2022/09/15/10-simple-rules-for-going-away-to-college-and-being-on-your-own/</guid>
@@ -3627,34 +3697,6 @@
             <guid isPermaLink="false">http://xbubbler.blogspot.com/2022/09/lunar-nodes-material-moon-scratching.html</guid>
             <dc:creator><![CDATA[X Bubbler]]></dc:creator>
             <pubDate>Thu, 15 Sep 2022 04:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I had a dream]]></title>
-            <link>https://scottaaronson.blog/?p=6718</link>
-            <guid isPermaLink="false">https://scottaaronson.blog/?p=6718</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Wed, 14 Sep 2022 16:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theory and Therapy of Representations • 2]]></title>
-            <link>https://inquiryintoinquiry.com/2022/09/14/theory-and-therapy-of-representations-2-2/</link>
-            <guid isPermaLink="false">https://inquiryintoinquiry.com/2022/09/14/theory-and-therapy-of-representations-2-2/</guid>
-            <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
-            <pubDate>Wed, 14 Sep 2022 16:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quick reminders: masters, postdocs, faculty, etc.]]></title>
-            <link>https://windowsontheory.org/2022/09/14/quick-reminders-masters-postdocs-faculty-etc/</link>
-            <guid isPermaLink="false">https://windowsontheory.org/2022/09/14/quick-reminders-masters-postdocs-faculty-etc/</guid>
-            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
-            <pubDate>Wed, 14 Sep 2022 13:50:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why do Dickens novels have all those coincidences?]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2022/09/14/why-do-dickens-novels-have-all-those-coincidences/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/14/why-do-dickens-novels-have-all-those-coincidences/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 14 Sep 2022 13:22:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
