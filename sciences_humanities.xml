@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Oct 2022 16:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 20:43:50 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/sciences_amp;humanities.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Oct 2022 16:57:44 GMT</pubDate>
+        <pubDate>Sun, 16 Oct 2022 20:43:50 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[#21 Subtraction....from old Math Terms notes]]></title>
+            <link>https://pballew.blogspot.com/2022/10/21-subtractionfrom-old-math-terms-notes.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2022/10/21-subtractionfrom-old-math-terms-notes.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 16 Oct 2022 17:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[internal logic of set theory]]></title>
             <link>https://ncatlab.org/nlab/show/internal+logic+of+set+theory</link>
@@ -141,13 +148,6 @@
             <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/15/python-as-stat-calculator/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sat, 15 Oct 2022 14:40:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[support object]]></title>
-            <link>https://ncatlab.org/nlab/show/support+object</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/support+object</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 15 Oct 2022 13:18:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How should Bayesian methods for the social sciences differ from Bayesian methods for the physical sciences? (my talk at the Bayesian Methods for the Social Sciences workshop, 21 Oct 2022, Paris)]]></title>
@@ -1676,18 +1676,18 @@
             <pubDate>Wed, 05 Oct 2022 19:56:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tarski universe]]></title>
+            <link>https://ncatlab.org/nlab/show/Tarski+universe</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Tarski+universe</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 05 Oct 2022 19:27:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What Nested R-hat teaches us about the classical R-hat]]></title>
             <link>https://statmodeling.stat.columbia.edu/2022/10/05/what-nested-r-hat-teaches-us-about-the-classical-r-hat/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/10/05/what-nested-r-hat-teaches-us-about-the-classical-r-hat/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Wed, 05 Oct 2022 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Centroids of Inscribable Polygons (repost)]]></title>
-            <link>https://pballew.blogspot.com/2022/10/centroids-of-inscribable-polygons-repost.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2022/10/centroids-of-inscribable-polygons-repost.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Wed, 05 Oct 2022 16:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Math Jokes and Other Mathy Applications]]></title>
@@ -3704,34 +3704,6 @@
             <guid isPermaLink="false">https://11011110.github.io/blog/2022/09/15/linkage.html</guid>
             <dc:creator><![CDATA[11011110]]></dc:creator>
             <pubDate>Thu, 15 Sep 2022 22:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monarachy: A Problem with Definitions]]></title>
-            <link>https://blog.computationalcomplexity.org/2022/09/monarachy-problem-with-definitions.html</link>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2022/09/monarachy-problem-with-definitions.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Thu, 15 Sep 2022 20:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Collaborative Insurance Sustainability and Network Structure]]></title>
-            <link>https://freakonometrics.hypotheses.org/64947</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/64947</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Thu, 15 Sep 2022 20:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“The distinction between exploratory and confirmatory research cannot be important per se, because it implies that the time at which things are said is important”]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2022/09/15/the-distinction-between-exploratory-and-confirmatory-research-cannot-be-important-per-se-because-it-implies-that-the-time-at-which-things-are-said-is-important/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/15/the-distinction-between-exploratory-and-confirmatory-research-cannot-be-important-per-se-because-it-implies-that-the-time-at-which-things-are-said-is-important/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 15 Sep 2022 20:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revision und Hospitation in Klassenzimmer und Rathaus]]></title>
-            <link>https://halbtagsblog.de/2022/09/15/revision-und-hospitation/</link>
-            <guid isPermaLink="false">https://halbtagsblog.de/2022/09/15/revision-und-hospitation/</guid>
-            <dc:creator><![CDATA[Schule, Schulleitung, Familie, DIY]]></dc:creator>
-            <pubDate>Thu, 15 Sep 2022 19:17:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
