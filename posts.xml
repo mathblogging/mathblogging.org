@@ -4,11 +4,46 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Oct 2022 13:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 17:03:43 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Oct 2022 13:18:58 GMT</pubDate>
+        <pubDate>Fri, 21 Oct 2022 17:03:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Cryptography, hydrodynamics, and celestial mechanics]]></title>
+            <link>https://www.johndcook.com/blog/2022/10/21/math-origins/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/21/math-origins/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Fri, 21 Oct 2022 16:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Repeat shell command replacing a word]]></title>
+            <link>https://www.johndcook.com/blog/2022/10/21/shell-replace-word/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/21/shell-replace-word/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Fri, 21 Oct 2022 16:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to send them home …]]></title>
+            <link>https://www.logicmatters.net/2022/10/21/time-to-send-them-home/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2022/10/21/time-to-send-them-home/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Fri, 21 Oct 2022 15:28:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[quantum state preparation]]></title>
+            <link>https://ncatlab.org/nlab/show/quantum+state+preparation</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/quantum+state+preparation</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 21 Oct 2022 13:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From soup to Bayes:  Make inferences using strong assumptions not because you “believe” your model but because you don’t believe it.]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2022/10/21/from-soup-to-bayes-make-inferences-using-strong-assumptions-not-because-you-believe-your-model-but-because-you-dont-believe-it/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/10/21/from-soup-to-bayes-make-inferences-using-strong-assumptions-not-because-you-believe-your-model-but-because-you-dont-believe-it/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 21 Oct 2022 13:07:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10/21/22]]></title>
             <link>https://purenumbers.tumblr.com/post/698724304133685248</link>
@@ -2364,13 +2399,6 @@
             <pubDate>Tue, 04 Oct 2022 14:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A traveling salesman tour of Canada]]></title>
-            <link>https://www.johndcook.com/blog/2022/10/04/tour-canada/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/04/tour-canada/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 04 Oct 2022 14:10:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Is it okay for a paper or book to say `for more on this topic see Wikipedia Entry BLAH.]]></title>
             <link>https://blog.computationalcomplexity.org/2022/10/is-it-okay-for-paper-or-book-to-say-for.html</link>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2022/10/is-it-okay-for-paper-or-book-to-say-for.html</guid>
@@ -2502,13 +2530,6 @@
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2022/10/women-in-mathematics-netherlands.html</guid>
             <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
             <pubDate>Mon, 03 Oct 2022 16:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ligatures for Logic]]></title>
-            <link>https://www.johndcook.com/blog/2022/10/03/ligatures-for-logic/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/03/ligatures-for-logic/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Mon, 03 Oct 2022 16:05:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some things are more difficult than you might think (literary interviewing edition)]]></title>
@@ -2663,6 +2684,13 @@
             <guid isPermaLink="false">https://micromath.wordpress.com/2022/10/01/do-the-children-of-math-teachers-always-pass-algebra/</guid>
             <dc:creator><![CDATA[Mathematics under the Microscope]]></dc:creator>
             <pubDate>Sat, 01 Oct 2022 19:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[quantum circuits via dependent linear types]]></title>
+            <link>https://ncatlab.org/nlab/show/quantum+circuits+via+dependent+linear+types</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/quantum+circuits+via+dependent+linear+types</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 01 Oct 2022 19:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCTM 2022]]></title>
@@ -3643,13 +3671,6 @@
             <guid isPermaLink="false">http://impossible-world.blogspot.com/2022/09/cover-of-economist.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Tue, 20 Sep 2022 18:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The “You’re only allowed to publish 2 or 3 journal articles per year” rule]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2022/09/20/the-youre-only-allowed-to-publish-2-or-3-journal-articles-per-year-rule/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/20/the-youre-only-allowed-to-publish-2-or-3-journal-articles-per-year-rule/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 20 Sep 2022 13:39:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
