@@ -4,11 +4,39 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Oct 2022 13:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 16:58:40 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Oct 2022 13:10:45 GMT</pubDate>
+        <pubDate>Sat, 22 Oct 2022 16:58:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Military Standard 105]]></title>
+            <link>https://www.johndcook.com/blog/2022/10/22/mll-std-105/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/22/mll-std-105/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Sat, 22 Oct 2022 16:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mean anomaly, true anomaly, and eccentric anomaly]]></title>
+            <link>https://www.johndcook.com/blog/2022/10/22/orbital-anomalies/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/22/orbital-anomalies/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Sat, 22 Oct 2022 16:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Statistical methods that only work if you don’t use them (more precisely, they only work well if you avoid using them in the cases where they will fail)]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2022/10/22/statistical-methods-that-only-work-if-you-dont-use-them/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/10/22/statistical-methods-that-only-work-if-you-dont-use-them/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 22 Oct 2022 13:47:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Map Folding Problem]]></title>
+            <link>https://www.1001mathproblems.com/2022/10/map-folding-problem.html</link>
+            <guid isPermaLink="false">https://www.1001mathproblems.com/2022/10/map-folding-problem.html</guid>
+            <dc:creator><![CDATA[1001 Math Problems]]></dc:creator>
+            <pubDate>Sat, 22 Oct 2022 13:05:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10/22/22]]></title>
             <link>https://purenumbers.tumblr.com/post/698814913624375296</link>
@@ -2322,13 +2350,6 @@
             <pubDate>Wed, 05 Oct 2022 14:53:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quirks in Mathematica’s administrative division data for Mexico]]></title>
-            <link>https://www.johndcook.com/blog/2022/10/05/mathematica-mexico/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/05/mathematica-mexico/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Wed, 05 Oct 2022 14:47:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Not frequentist enough.]]></title>
             <link>https://statmodeling.stat.columbia.edu/2022/10/05/not-frequentist-enough/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/10/05/not-frequentist-enough/</guid>
@@ -2404,13 +2425,6 @@
             <guid isPermaLink="false">https://blog.tanyakhovanova.com/2022/10/more-math-jokes-2/</guid>
             <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
             <pubDate>Tue, 04 Oct 2022 20:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visualizing Swedish vowels]]></title>
-            <link>https://www.johndcook.com/blog/2022/10/04/visualizing-swedish-vowels/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/10/04/visualizing-swedish-vowels/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 04 Oct 2022 18:46:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two more shorties]]></title>
@@ -2712,6 +2726,13 @@
             <guid isPermaLink="false">https://micromath.wordpress.com/2022/10/01/do-the-children-of-math-teachers-always-pass-algebra/</guid>
             <dc:creator><![CDATA[Mathematics under the Microscope]]></dc:creator>
             <pubDate>Sat, 01 Oct 2022 19:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[quantum circuits via dependent linear types]]></title>
+            <link>https://ncatlab.org/nlab/show/quantum+circuits+via+dependent+linear+types</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/quantum+circuits+via+dependent+linear+types</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 01 Oct 2022 19:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCTM 2022]]></title>
@@ -3601,13 +3622,6 @@
             <guid isPermaLink="false">http://impossible-world.blogspot.com/2022/09/impossible-triangle-in-space.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Wed, 21 Sep 2022 17:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ted-talk attitudes reach New Mexico county commission]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2022/09/21/ted-talk-attitudes-reach-new-mexico-county-commission/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/09/21/ted-talk-attitudes-reach-new-mexico-county-commission/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 21 Sep 2022 13:10:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
