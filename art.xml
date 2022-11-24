@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Nov 2022 08:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 13:02:23 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Nov 2022 08:42:04 GMT</pubDate>
+        <pubDate>Thu, 24 Nov 2022 13:02:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Letture Matematiche: Viaggio nel calcolo infinitesimale, David Acheson]]></title>
+            <link>https://maddmaths.simai.eu/divulgazione/letture-matematiche/calcolo-infinitesimale-acheson/</link>
+            <guid isPermaLink="false">https://maddmaths.simai.eu/divulgazione/letture-matematiche/calcolo-infinitesimale-acheson/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Thu, 24 Nov 2022 09:00:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Typing Monkeys]]></title>
             <link>https://pballew.blogspot.com/2022/11/typing-monkeys.html</link>
@@ -50,13 +57,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2022/11/23/time-series-forecasting-futile-but-necessary-an-example-using-electricity-prices/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Wed, 23 Nov 2022 22:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tarification en assurance dans un marché concurrentiel, chez Beneva]]></title>
-            <link>https://freakonometrics.hypotheses.org/65520</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/65520</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Wed, 23 Nov 2022 22:41:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Möbius Inverse Monoid]]></title>
@@ -836,7 +836,7 @@
             <pubDate>Sat, 19 Nov 2022 13:30:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Intersection of Being a Parent and a Teacher]]></title>
+            <title><![CDATA[Being a Parent and a Teacher]]></title>
             <link>https://lazyocho.com/2022/11/19/on-being-a-parent-and-teacher/</link>
             <guid isPermaLink="false">https://lazyocho.com/2022/11/19/on-being-a-parent-and-teacher/</guid>
             <dc:creator><![CDATA[lazy 0ch0]]></dc:creator>
@@ -3908,13 +3908,6 @@ went to graduate school...]]></title>
             <pubDate>Thu, 27 Oct 2022 08:12:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Letture Matematiche: Numeri incredibili, Ian Stewart]]></title>
-            <link>https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-matematiche-numeri-incredibili-ian-stewart/</link>
-            <guid isPermaLink="false">https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-matematiche-numeri-incredibili-ian-stewart/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Thu, 27 Oct 2022 08:00:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Join Me in Watching the 24 Hour Maths Stream About Math Games This Friday]]></title>
             <link>https://beautyofmathematics.com/watching-24-hour-maths-stream-about-math-games/</link>
             <guid isPermaLink="false">https://beautyofmathematics.com/watching-24-hour-maths-stream-about-math-games/</guid>
@@ -4090,20 +4083,6 @@ went to graduate school...]]></title>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2022/10/cheating-in-chess-and-in-class.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
             <pubDate>Mon, 24 Oct 2022 14:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bombs under everybody's chairs -- starting a thread]]></title>
-            <link>https://observationalepidemiology.blogspot.com/2022/10/bombs-under-everybodys-chairs-starting.html</link>
-            <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2022/10/bombs-under-everybodys-chairs-starting.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 24 Oct 2022 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monday Morning Math: Happy Divali!]]></title>
-            <link>https://threesixty360.wordpress.com/2022/10/24/monday-morning-math-happy-divali/</link>
-            <guid isPermaLink="false">https://threesixty360.wordpress.com/2022/10/24/monday-morning-math-happy-divali/</guid>
-            <dc:creator><![CDATA[360]]></dc:creator>
-            <pubDate>Mon, 24 Oct 2022 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
