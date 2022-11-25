@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Nov 2022 20:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 02:11:48 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Nov 2022 20:37:33 GMT</pubDate>
+        <pubDate>Fri, 25 Nov 2022 02:11:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Bertrand’s tartine]]></title>
+            <link>https://xianblog.wordpress.com/2022/11/25/bertrands-tartine/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/11/25/bertrands-tartine/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Thu, 24 Nov 2022 23:22:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Il paradosso di Buzzati]]></title>
             <link>https://keespopinga.blogspot.com/2022/11/il-paradosso-di-buzzati.html</link>
@@ -56,6 +63,13 @@
             <link>https://observationalepidemiology.blogspot.com/2022/11/as-god-as-my-witness-is-my-second.html</link>
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2022/11/as-god-as-my-witness-is-my-second.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Thu, 24 Nov 2022 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian Academy of Science]]></title>
+            <link>https://robjhyndman.com/hyndsight/faa.html</link>
+            <guid isPermaLink="false">https://robjhyndman.com/hyndsight/faa.html</guid>
+            <dc:creator><![CDATA[Hyndsight]]></dc:creator>
             <pubDate>Thu, 24 Nov 2022 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -612,18 +626,18 @@
             <pubDate>Mon, 21 Nov 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[solid module]]></title>
-            <link>https://ncatlab.org/nlab/show/solid+module</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/solid+module</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 21 Nov 2022 05:48:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 21]]></title>
             <link>https://pballew.blogspot.com/2022/11/on-this-day-in-math-november-21.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2022/11/on-this-day-in-math-november-21.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Mon, 21 Nov 2022 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frank Morgan Library Dedication]]></title>
+            <link>https://sites.williams.edu/Morgan/2022/11/20/frank-morgan-library-dedication/</link>
+            <guid isPermaLink="false">https://sites.williams.edu/Morgan/2022/11/20/frank-morgan-library-dedication/</guid>
+            <dc:creator><![CDATA[Frank Morgan]]></dc:creator>
+            <pubDate>Mon, 21 Nov 2022 01:32:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trying out Mathstodon]]></title>
@@ -1107,13 +1121,6 @@
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2022/11/blog-post_18.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Fri, 18 Nov 2022 04:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sampling, transport, and diffusions]]></title>
-            <link>https://xianblog.wordpress.com/2022/11/18/sampling-transport-and-diffusions/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/11/18/sampling-transport-and-diffusions/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 17 Nov 2022 23:22:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many Covid cases?]]></title>
@@ -2479,6 +2486,13 @@
             <guid isPermaLink="false">https://aperiodical.com/2022/11/what-can-mathematicians-do-a-series-of-online-talks-about-maths/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Wed, 09 Nov 2022 13:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[book HoTT]]></title>
+            <link>https://ncatlab.org/nlab/show/book+HoTT</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/book+HoTT</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 09 Nov 2022 13:19:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“Why didn’t the Roman Empire have an industrial revolution?” [and why Britain did]]]></title>
@@ -4046,27 +4060,6 @@ went to graduate school...]]></title>
             <guid isPermaLink="false">https://gilkalai.wordpress.com/2022/10/25/remarkable-limitations-of-linear-cross-entropy-as-a-measure-for-quantum-advantage-by-xun-gao-marcin-kalinowski-chi-ning-chou-mikhail-d-lukin-boaz-barak-and-soonwon-choi/</guid>
             <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
             <pubDate>Tue, 25 Oct 2022 04:59:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12 Dots]]></title>
-            <link>https://fivetwelvethirteen.wordpress.com/2022/10/24/12-dots/</link>
-            <guid isPermaLink="false">https://fivetwelvethirteen.wordpress.com/2022/10/24/12-dots/</guid>
-            <dc:creator><![CDATA[Five Twelve Thirteen]]></dc:creator>
-            <pubDate>Tue, 25 Oct 2022 00:37:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week’s Finds – Lecture 5]]></title>
-            <link>https://johncarlosbaez.wordpress.com/2022/10/24/this-weeks-finds-lecture-5/</link>
-            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2022/10/24/this-weeks-finds-lecture-5/</guid>
-            <dc:creator><![CDATA[Azimuth]]></dc:creator>
-            <pubDate>Mon, 24 Oct 2022 21:40:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mencken e la storia della vasca da bagno in America]]></title>
-            <link>https://keespopinga.blogspot.com/2022/10/mencken-e-la-storia-della-vasca-da.html</link>
-            <guid isPermaLink="false">https://keespopinga.blogspot.com/2022/10/mencken-e-la-storia-della-vasca-da.html</guid>
-            <dc:creator><![CDATA[Popinga]]></dc:creator>
-            <pubDate>Mon, 24 Oct 2022 20:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
