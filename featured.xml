@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Nov 2022 20:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 02:09:38 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Nov 2022 20:36:23 GMT</pubDate>
+        <pubDate>Wed, 30 Nov 2022 02:09:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Elliptic functions of a complex argument in Python]]></title>
+            <link>https://www.johndcook.com/blog/2022/11/29/elliptic-functions-python/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/11/29/elliptic-functions-python/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Wed, 30 Nov 2022 01:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dynamic mixtures and frequentist ABC]]></title>
+            <link>https://xianblog.wordpress.com/2022/11/30/dynamic-mixtures-and-frequentist-abc/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/11/30/dynamic-mixtures-and-frequentist-abc/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Tue, 29 Nov 2022 23:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spreading joy with Wide Tim]]></title>
+            <link>https://news.mit.edu/2022/spreading-joy-with-wide-tim-1129</link>
+            <guid isPermaLink="false">https://news.mit.edu/2022/spreading-joy-with-wide-tim-1129</guid>
+            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
+            <pubDate>Tue, 29 Nov 2022 21:20:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[relative Langlands program]]></title>
             <link>https://ncatlab.org/nlab/show/relative+Langlands+program</link>
@@ -78,13 +99,6 @@
             <guid isPermaLink="false">https://www.simonsfoundation.org/2022/11/29/simons-foundation-opens-applications-for-independence-awards/</guid>
             <dc:creator><![CDATA[Simons Foundation]]></dc:creator>
             <pubDate>Tue, 29 Nov 2022 15:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RdP Assises]]></title>
-            <link>https://images.math.cnrs.fr/RdP-Assises.html</link>
-            <guid isPermaLink="false">https://images.math.cnrs.fr/RdP-Assises.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Tue, 29 Nov 2022 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WikiGuidelines:  A new way to set up guidelines for medical practices to better acknowledge uncertainty]]></title>
@@ -295,13 +309,6 @@
             <guid isPermaLink="false">http://www.moomoomathblog.com/2022/11/does-eating-turkey-make-you-sleepy.html</guid>
             <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
             <pubDate>Mon, 28 Nov 2022 19:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[reductionism]]></title>
-            <link>https://ncatlab.org/nlab/show/reductionism</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/reductionism</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 28 Nov 2022 19:06:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Geometry of Gerrymandering]]></title>
@@ -1249,13 +1256,6 @@
             <pubDate>Tue, 22 Nov 2022 00:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[call for posters at BayesComp²³ satellite [AG:DC]]]></title>
-            <link>https://xianblog.wordpress.com/2022/11/22/call-for-posters-at-bayescomp%25c2%25b2%25c2%25b3-satellite-agdc/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2022/11/22/call-for-posters-at-bayescomp%c2%b2%c2%b3-satellite-agdc/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 21 Nov 2022 23:22:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A straight line through every face]]></title>
             <link>https://11011110.github.io/blog/2022/11/21/straight-line-through.html</link>
             <guid isPermaLink="false">https://11011110.github.io/blog/2022/11/21/straight-line-through.html</guid>
@@ -1883,6 +1883,13 @@
             <link>https://mrburkemath.blogspot.com/2022/11/x-why-mini-perp-walk.html</link>
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2022/11/x-why-mini-perp-walk.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Fri, 18 Nov 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Novembre 2022, 3e défi]]></title>
+            <link>https://images.math.cnrs.fr/Novembre-2022-3e-defi.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/Novembre-2022-3e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 18 Nov 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2591,13 +2598,6 @@
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/correcting-an-oversight/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mercator and polar projections]]></title>
-            <link>https://www.johndcook.com/blog/2022/11/13/mercator-polar/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/11/13/mercator-polar/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sun, 13 Nov 2022 23:14:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Maths Gems #164]]></title>
@@ -4058,22 +4058,6 @@ went to graduate school...]]></title>
             <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2022/10/30/30-ottobre-1946-buon-compleanno-william/</guid>
             <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
             <pubDate>Sun, 30 Oct 2022 05:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Electric Field Energy: UNIZOR.COM - Physics4Teens - Waves - Energy of Waves]]></title>
-            <link>https://unizor.blogspot.com/2022/10/electric-field-energy-unizorcom.html</link>
-            <guid isPermaLink="false">https://unizor.blogspot.com/2022/10/electric-field-energy-unizorcom.html</guid>
-            <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
-            <pubDate>Sun, 30 Oct 2022 00:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[isomorphismes:
-
-“The … conception of the person as a bounded, unique, more or less integrated...]]></title>
-            <link>https://isomorphismes.tumblr.com/post/699486828276908032</link>
-            <guid isPermaLink="false">https://isomorphismes.tumblr.com/post/699486828276908032</guid>
-            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
-            <pubDate>Sat, 29 Oct 2022 22:30:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
