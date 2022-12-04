@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Dec 2022 08:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 12:53:24 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Dec 2022 08:39:14 GMT</pubDate>
+        <pubDate>Sun, 04 Dec 2022 12:53:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Area of a triangle in the complex plane]]></title>
+            <link>https://www.johndcook.com/blog/2022/12/04/complex-triangle/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/12/04/complex-triangle/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Sun, 04 Dec 2022 12:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Healthcare Debacle: Mulgrew’s in Trouble, but He Still Owns the Microphone]]></title>
+            <link>https://jd2718.org/2022/12/04/healthcare-debacle-mulgrews-in-trouble-but-he-still-owns-the-microphone/</link>
+            <guid isPermaLink="false">https://jd2718.org/2022/12/04/healthcare-debacle-mulgrews-in-trouble-but-he-still-owns-the-microphone/</guid>
+            <dc:creator><![CDATA[JD2718]]></dc:creator>
+            <pubDate>Sun, 04 Dec 2022 10:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rivoluzioni matematiche: L’ultimo mistero di Fermat]]></title>
             <link>https://maddmaths.simai.eu/divulgazione/letture-matematiche/rivoluzioni-matematiche-fermat/</link>
@@ -2082,6 +2096,13 @@
             <pubDate>Mon, 21 Nov 2022 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Minimal volume of some particular convex sets in the cube]]></title>
+            <link>https://mathproblems123.wordpress.com/2022/11/21/minimal-volume-of-some-particular-convex-sets-in-the-cube/</link>
+            <guid isPermaLink="false">https://mathproblems123.wordpress.com/2022/11/21/minimal-volume-of-some-particular-convex-sets-in-the-cube/</guid>
+            <dc:creator><![CDATA[Beni Bogoşel's blog]]></dc:creator>
+            <pubDate>Mon, 21 Nov 2022 09:08:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Μαθηματική αυστηρότητα]]></title>
             <link>https://mathhmagic.blogspot.com/2022/11/blog-post_21.html</link>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2022/11/blog-post_21.html</guid>
@@ -2325,13 +2346,6 @@
             <guid isPermaLink="false">http://impossible-world.blogspot.com/2022/11/animation-of-impossible-triangle.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Sat, 19 Nov 2022 16:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to depress a cubic]]></title>
-            <link>https://www.johndcook.com/blog/2022/11/19/how-to-depress-a-cubic/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/11/19/how-to-depress-a-cubic/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sat, 19 Nov 2022 15:41:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bulles au carré « Maths et Energie » : À vos crayons !]]></title>
@@ -3601,13 +3615,6 @@
             <pubDate>Tue, 08 Nov 2022 09:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Proposed Amendment to 12-126 Threatens the Healthcare of In-service NYC Workers as well]]></title>
-            <link>https://jd2718.org/2022/11/08/threatening-the-health-care-of-in-service-and-retired-nyc-workers/</link>
-            <guid isPermaLink="false">https://jd2718.org/2022/11/08/threatening-the-health-care-of-in-service-and-retired-nyc-workers/</guid>
-            <dc:creator><![CDATA[JD2718]]></dc:creator>
-            <pubDate>Tue, 08 Nov 2022 08:49:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Euclidean TSP is NP-hard but not known to be in NP. Why not known?]]></title>
             <link>https://blog.computationalcomplexity.org/2022/11/euclidean-tsp-is-np-hard-but-not-known.html</link>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2022/11/euclidean-tsp-is-np-hard-but-not-known.html</guid>
@@ -3998,27 +4005,6 @@
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/65329</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 03 Nov 2022 13:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A few things I’ve learned]]></title>
-            <link>https://fivetwelvethirteen.wordpress.com/2022/11/03/a-few-things-ive-learned/</link>
-            <guid isPermaLink="false">https://fivetwelvethirteen.wordpress.com/2022/11/03/a-few-things-ive-learned/</guid>
-            <dc:creator><![CDATA[Five Twelve Thirteen]]></dc:creator>
-            <pubDate>Thu, 03 Nov 2022 12:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should you quit Twitter and Texas?]]></title>
-            <link>https://blog.computationalcomplexity.org/2022/11/should-you-quit-twitter-and-texas.html</link>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2022/11/should-you-quit-twitter-and-texas.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Thu, 03 Nov 2022 12:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thursday Meta-Tweets -- "one of the funniest things that’s ever happened."]]></title>
-            <link>https://observationalepidemiology.blogspot.com/2022/11/thursday-meta-tweets-one-of-funniest.html</link>
-            <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2022/11/thursday-meta-tweets-one-of-funniest.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Thu, 03 Nov 2022 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
