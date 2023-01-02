@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Jan 2023 01:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 04:40:09 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Jan 2023 01:56:38 GMT</pubDate>
+        <pubDate>Mon, 02 Jan 2023 04:40:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Quadratic reciprocity algorithm]]></title>
+            <link>https://www.johndcook.com/blog/2023/01/01/quadratic-reciprocity-algorithm/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/01/01/quadratic-reciprocity-algorithm/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Mon, 02 Jan 2023 00:19:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a journal of the plague, sword, and famine year]]></title>
             <link>https://xianblog.wordpress.com/2023/01/02/a-journal-of-the-plague-sword-and-famine-year-2/</link>
@@ -115,11 +122,11 @@
             <pubDate>Sun, 01 Jan 2023 05:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Competitive programming in Haskell: better binary search]]></title>
-            <link>https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Sun, 01 Jan 2023 04:29:34 GMT</pubDate>
+            <title><![CDATA[Revue de presse décembre 2022]]></title>
+            <link>https://images.math.cnrs.fr/Revue-de-presse-decembre-2022-6253.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/Revue-de-presse-decembre-2022-6253.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Sun, 01 Jan 2023 05:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Yoneda Lemma]]></title>
@@ -399,6 +406,20 @@
             <link>https://colleenyoung.org/2022/12/30/looking-back-and-looking-forward/</link>
             <guid isPermaLink="false">https://colleenyoung.org/2022/12/30/looking-back-and-looking-forward/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
+            <pubDate>Fri, 30 Dec 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Décembre 2022, 5e défi]]></title>
+            <link>https://images.math.cnrs.fr/Decembre-2022-5e-defi.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/Decembre-2022-5e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 30 Dec 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La Gömböc]]></title>
+            <link>https://images.math.cnrs.fr/La-Gomboc.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/La-Gomboc.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 30 Dec 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -930,6 +951,13 @@ Internal Sieve is a...]]></title>
             <pubDate>Mon, 26 Dec 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[8.4]]></title>
+            <link>https://images.math.cnrs.fr/-6464.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/-6464.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 26 Dec 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Qu’est-ce que l’assurance ?]]></title>
             <link>https://freakonometrics.hypotheses.org/65816</link>
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/65816</guid>
@@ -1235,6 +1263,13 @@ Internal Sieve is a...]]></title>
             <link>https://pballew.blogspot.com/2022/12/on-this-day-in-math-december-23.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2022/12/on-this-day-in-math-december-23.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 23 Dec 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Décembre 2022, 4e défi]]></title>
+            <link>https://images.math.cnrs.fr/Decembre-2022-4e-defi.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/Decembre-2022-4e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 23 Dec 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1602,6 +1637,13 @@ Internal Sieve is a...]]></title>
             <pubDate>Wed, 21 Dec 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Semigroupes numériques et nombre d'or (I)]]></title>
+            <link>https://images.math.cnrs.fr/Semigroupes-numeriques-et-nombre-d-or-I.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/Semigroupes-numeriques-et-nombre-d-or-I.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Wed, 21 Dec 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Μεταβολές]]></title>
             <link>https://mathhmagic.blogspot.com/2022/12/blog-post_21.html</link>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2022/12/blog-post_21.html</guid>
@@ -1868,6 +1910,13 @@ Internal Sieve is a...]]></title>
             <pubDate>Mon, 19 Dec 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[8.3]]></title>
+            <link>https://images.math.cnrs.fr/-6451.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/-6451.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Mon, 19 Dec 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Voter Suppression, Harvard Style]]></title>
             <link>https://blog.computationalcomplexity.org/2022/12/voter-suppression-harvard-style.html</link>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2022/12/voter-suppression-harvard-style.html</guid>
@@ -2040,6 +2089,13 @@ Internal Sieve is a...]]></title>
             <link>https://pballew.blogspot.com/2022/12/on-this-day-in-math-december-18.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2022/12/on-this-day-in-math-december-18.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sun, 18 Dec 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lire les statistiques, cela s'apprend]]></title>
+            <link>https://images.math.cnrs.fr/Lire-les-statistiques-cela-s-apprend.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/Lire-les-statistiques-cela-s-apprend.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Sun, 18 Dec 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2246,6 +2302,13 @@ Internal Sieve is a...]]></title>
             <pubDate>Fri, 16 Dec 2022 08:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fabriquer un sapin avec les fractales]]></title>
+            <link>https://images.math.cnrs.fr/Fabriquer-un-sapin-avec-les-fractales.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/Fabriquer-un-sapin-avec-les-fractales.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 16 Dec 2022 07:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Γρανάζια]]></title>
             <link>https://mathhmagic.blogspot.com/2022/12/blog-post_85.html</link>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2022/12/blog-post_85.html</guid>
@@ -2257,6 +2320,13 @@ Internal Sieve is a...]]></title>
             <link>https://pballew.blogspot.com/2022/12/on-this-day-in-math-december-16.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2022/12/on-this-day-in-math-december-16.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 16 Dec 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Décembre 2022, 3e défi]]></title>
+            <link>https://images.math.cnrs.fr/Decembre-2022-3e-defi.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/Decembre-2022-3e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
             <pubDate>Fri, 16 Dec 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2783,13 +2853,6 @@ Internal Sieve is a...]]></title>
             <guid isPermaLink="false">https://keespopinga.blogspot.com/2022/12/la-canzone-di-perelman.html</guid>
             <dc:creator><![CDATA[Popinga]]></dc:creator>
             <pubDate>Mon, 12 Dec 2022 21:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swarm virtual hackathon]]></title>
-            <link>https://byorgey.wordpress.com/2022/12/12/swarm-virtual-hackathon/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2022/12/12/swarm-virtual-hackathon/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Mon, 12 Dec 2022 21:20:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deadliest Animal on Earth]]></title>
@@ -3653,13 +3716,6 @@ Internal Sieve is a...]]></title>
             <pubDate>Sat, 03 Dec 2022 21:57:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Finding a vector potential whose curl is given]]></title>
-            <link>https://www.johndcook.com/blog/2022/12/03/vector-potential/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2022/12/03/vector-potential/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sat, 03 Dec 2022 20:36:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The World Cup: how many migrant workers have died?]]></title>
             <link>http://www.bbc.co.uk/programmes/p0dlg3hq</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0dlg3hq</guid>
@@ -3672,13 +3728,6 @@ Internal Sieve is a...]]></title>
             <guid isPermaLink="false">https://jd2718.org/2022/12/03/dice-question/</guid>
             <dc:creator><![CDATA[JD2718]]></dc:creator>
             <pubDate>Sat, 03 Dec 2022 13:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Competitive programming in Haskell: Infinite 2D array, Level 1]]></title>
-            <link>https://byorgey.wordpress.com/2022/12/03/competitive-programming-in-haskell-infinite-2d-array-level-1/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2022/12/03/competitive-programming-in-haskell-infinite-2d-array-level-1/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Sat, 03 Dec 2022 11:43:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neutrino Dark Matter]]></title>
