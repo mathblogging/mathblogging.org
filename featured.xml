@@ -4,31 +4,45 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Jan 2023 04:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 08:40:43 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Jan 2023 04:40:46 GMT</pubDate>
+        <pubDate>Fri, 13 Jan 2023 08:40:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[An interview with a Laconic Scientist]]></title>
+            <link>https://pballew.blogspot.com/2023/01/an-interview-with-laconic-scientist.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2023/01/an-interview-with-laconic-scientist.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 13 Jan 2023 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - January 13]]></title>
+            <link>https://pballew.blogspot.com/2023/01/on-this-day-in-math-january-13.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2023/01/on-this-day-in-math-january-13.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 13 Jan 2023 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Janvier 2023, 2e défi]]></title>
+            <link>https://images.math.cnrs.fr/Janvier-2023-2e-defi.html</link>
+            <guid isPermaLink="false">https://images.math.cnrs.fr/Janvier-2023-2e-defi.html</guid>
+            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
+            <pubDate>Fri, 13 Jan 2023 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bismut-Chern character]]></title>
+            <link>https://ncatlab.org/nlab/show/Bismut-Chern+character</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Bismut-Chern+character</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 13 Jan 2023 05:22:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where was Scheinman? Testimony for the 12-126 Hearing]]></title>
             <link>https://jd2718.org/2023/01/12/where-was-scheinman-testimony-for-the-12-126-hearing/</link>
             <guid isPermaLink="false">https://jd2718.org/2023/01/12/where-was-scheinman-testimony-for-the-12-126-hearing/</guid>
             <dc:creator><![CDATA[JD2718]]></dc:creator>
             <pubDate>Fri, 13 Jan 2023 03:15:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[apartness-open predicate]]></title>
-            <link>https://ncatlab.org/nlab/show/apartness-open+predicate</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/apartness-open+predicate</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 13 Jan 2023 00:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[anti-ideal predicate]]></title>
-            <link>https://ncatlab.org/nlab/show/anti-ideal+predicate</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/anti-ideal+predicate</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 13 Jan 2023 00:02:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Was a paper from Taiwan retracted because of a geopolitical dispute?]]></title>
@@ -45,13 +59,6 @@
             <pubDate>Thu, 12 Jan 2023 23:23:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ideal predicate]]></title>
-            <link>https://ncatlab.org/nlab/show/ideal+predicate</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/ideal+predicate</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 12 Jan 2023 22:48:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Το ζυγούρι]]></title>
             <link>https://mathhmagic.blogspot.com/2023/01/blog-post_72.html</link>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2023/01/blog-post_72.html</guid>
@@ -64,13 +71,6 @@
             <guid isPermaLink="false">http://www.moomoomathblog.com/2023/01/steps-for-solving-one-step-equation.html</guid>
             <dc:creator><![CDATA[MooMooMath and Science]]></dc:creator>
             <pubDate>Thu, 12 Jan 2023 21:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[coherent mathematics]]></title>
-            <link>https://ncatlab.org/nlab/show/coherent+mathematics</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/coherent+mathematics</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 12 Jan 2023 20:41:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mein letztes P-Seminar]]></title>
@@ -99,6 +99,13 @@
             <guid isPermaLink="false">https://terrytao.wordpress.com/2023/01/12/illustrating-the-impact-of-the-mathematical-sciences-2/</guid>
             <dc:creator><![CDATA[What's new]]></dc:creator>
             <pubDate>Thu, 12 Jan 2023 17:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Archimedean ordered local integral domain]]></title>
+            <link>https://ncatlab.org/nlab/show/Archimedean+ordered+local+integral+domain</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Archimedean+ordered+local+integral+domain</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Thu, 12 Jan 2023 17:31:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is the University doing?]]></title>
@@ -141,13 +148,6 @@
             <guid isPermaLink="false">https://pballew.blogspot.com/2023/01/on-this-day-in-math-jan-12.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Thu, 12 Jan 2023 15:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[reduced ring]]></title>
-            <link>https://ncatlab.org/nlab/show/reduced+ring</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/reduced+ring</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 12 Jan 2023 15:56:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Semantic Search for the Blog]]></title>
@@ -442,6 +442,20 @@
             <guid isPermaLink="false">https://noncommutativegeometry.blogspot.com/2023/01/blog-post.html</guid>
             <dc:creator><![CDATA[Noncommutative Geometry]]></dc:creator>
             <pubDate>Tue, 10 Jan 2023 21:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[embedding type]]></title>
+            <link>https://ncatlab.org/nlab/show/embedding+type</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/embedding+type</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 10 Jan 2023 21:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[injection set]]></title>
+            <link>https://ncatlab.org/nlab/show/injection+set</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/injection+set</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 10 Jan 2023 20:54:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A New Perspective of Entropy]]></title>
@@ -752,6 +766,13 @@
             <pubDate>Mon, 09 Jan 2023 08:42:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[uniqueness quantifier]]></title>
+            <link>https://ncatlab.org/nlab/show/uniqueness+quantifier</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/uniqueness+quantifier</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 09 Jan 2023 07:38:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Very Mathematical U. S. Star Flag]]></title>
             <link>https://pballew.blogspot.com/2023/01/the-very-mathematical-u-s-star-flag.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2023/01/the-very-mathematical-u-s-star-flag.html</guid>
@@ -794,13 +815,6 @@
             <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (164)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2023/01/09/fortnightly-links-164/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2023/01/09/fortnightly-links-164/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[manifold learning [BNP Seminar, 11/01/23]]]></title>
             <link>https://xianblog.wordpress.com/2023/01/09/manifold-learning-bnp-seminar-11-01-23/</link>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2023/01/09/manifold-learning-bnp-seminar-11-01-23/</guid>
@@ -827,6 +841,13 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/01/08/roald-dahl-vs-ethel-rosenberg-advances/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sun, 08 Jan 2023 21:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carnival of Mathematics 211]]></title>
+            <link>http://www.ganitcharcha.com/view-article-Carnival-of-Mathematics-211.html</link>
+            <guid isPermaLink="false">http://www.ganitcharcha.com/view-article-Carnival-of-Mathematics-211.html</guid>
+            <dc:creator><![CDATA[Welcome to the world of Ganit(Math.) | Ganit Charcha]]></dc:creator>
+            <pubDate>Sun, 08 Jan 2023 19:02:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carnival of Mathematics 211]]></title>
@@ -1107,13 +1128,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/01/06/james-naismith-vs-henry-winkler-shakira-advances/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 06 Jan 2023 19:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harmonic quotients of regular graphs – examples]]></title>
-            <link>https://yetanothermathblog.com/2023/01/06/harmonic-quotients-of-regular-graphs-examples/</link>
-            <guid isPermaLink="false">https://yetanothermathblog.com/2023/01/06/harmonic-quotients-of-regular-graphs-examples/</guid>
-            <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
-            <pubDate>Fri, 06 Jan 2023 17:53:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rational Trigonometry]]></title>
@@ -2603,32 +2617,11 @@ Internal Sieve is a...]]></title>
             <pubDate>Mon, 26 Dec 2022 08:11:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Parking Problem, and Another Interesting Problem]]></title>
-            <link>https://pballew.blogspot.com/2022/12/a-parking-problem-and-another.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2022/12/a-parking-problem-and-another.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2022 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Σαν σήμερα]]></title>
             <link>https://mathhmagic.blogspot.com/2022/12/blog-post_26.html</link>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2022/12/blog-post_26.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Mon, 26 Dec 2022 06:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On This Day in Math - December 26]]></title>
-            <link>https://pballew.blogspot.com/2022/12/on-this-day-in-math-december-26.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2022/12/on-this-day-in-math-december-26.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2022 06:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8.4]]></title>
-            <link>https://images.math.cnrs.fr/-6464.html</link>
-            <guid isPermaLink="false">https://images.math.cnrs.fr/-6464.html</guid>
-            <dc:creator><![CDATA[Images des mathématiques]]></dc:creator>
-            <pubDate>Mon, 26 Dec 2022 06:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Qu’est-ce que l’assurance ?]]></title>
@@ -3478,13 +3471,6 @@ Internal Sieve is a...]]></title>
             <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (163)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2022/12/19/fortnightly-links-163/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2022/12/19/fortnightly-links-163/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Happy Holidays]]></title>
             <link>https://freakonometrics.hypotheses.org/65735</link>
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/65735</guid>
@@ -3931,6 +3917,20 @@ Internal Sieve is a...]]></title>
             <guid isPermaLink="false">https://blog.plover.com/law/stealing-club.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Wed, 14 Dec 2022 01:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Archimedean ordered Artinian local ring]]></title>
+            <link>https://ncatlab.org/nlab/show/Archimedean+ordered+Artinian+local+ring</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Archimedean+ordered+Artinian+local+ring</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2022 00:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Archimedean ordered local ring]]></title>
+            <link>https://ncatlab.org/nlab/show/Archimedean+ordered+local+ring</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Archimedean+ordered+local+ring</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 13 Dec 2022 23:59:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scheduling a Round-Robin Tournament]]></title>
