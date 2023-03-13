@@ -4,11 +4,60 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Mar 2023 16:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 20:35:37 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Mar 2023 16:45:27 GMT</pubDate>
+        <pubDate>Mon, 13 Mar 2023 20:35:37 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[immanant]]></title>
+            <link>https://ncatlab.org/nlab/show/immanant</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/immanant</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 13 Mar 2023 19:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geometry Problems of the Day (Geometry Regents, January 2023)]]></title>
+            <link>https://mrburkemath.blogspot.com/2023/03/geometry-problems-of-day-geometry.html</link>
+            <guid isPermaLink="false">https://mrburkemath.blogspot.com/2023/03/geometry-problems-of-day-geometry.html</guid>
+            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
+            <pubDate>Mon, 13 Mar 2023 19:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[permanent]]></title>
+            <link>https://ncatlab.org/nlab/show/permanent</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/permanent</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 13 Mar 2023 19:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[generic representation theory]]></title>
+            <link>https://ncatlab.org/nlab/show/generic+representation+theory</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/generic+representation+theory</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 13 Mar 2023 19:04:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is Iterative Refinement?]]></title>
+            <link>https://nhigham.com/2023/03/13/what-is-iterative-refinement/</link>
+            <guid isPermaLink="false">https://nhigham.com/2023/03/13/what-is-iterative-refinement/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Mon, 13 Mar 2023 18:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prime numbers and Taylor’s law]]></title>
+            <link>https://www.johndcook.com/blog/2023/03/13/taylors-law/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/03/13/taylors-law/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Mon, 13 Mar 2023 17:46:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shaded Area Between Circles And A Chord]]></title>
+            <link>https://mindyourdecisions.com/blog/2023/03/13/shaded-area-between-circles-and-a-chord/</link>
+            <guid isPermaLink="false">https://mindyourdecisions.com/blog/2023/03/13/shaded-area-between-circles-and-a-chord/</guid>
+            <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
+            <pubDate>Mon, 13 Mar 2023 16:25:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comptes rendus hebdomadaires des séances de l&#39;Académie des sciences]]></title>
             <link>https://ncatlab.org/nlab/show/Comptes+rendus+hebdomadaires+des+s%25C3%25A9ances+de+l%2527Acad%25C3%25A9mie+des+sciences</link>
@@ -17,7 +66,7 @@
             <pubDate>Mon, 13 Mar 2023 15:58:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Problems we assume are hard. Are they?]]></title>
+            <title><![CDATA[Problems we assume are hard. Are they? ALSO- revised version of Demaine-Gasarch-Hajiaghayi is posted!]]></title>
             <link>https://blog.computationalcomplexity.org/2023/03/problems-we-assume-are-hard-are-they.html</link>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2023/03/problems-we-assume-are-hard-are-they.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
@@ -295,6 +344,13 @@
             <guid isPermaLink="false">https://www.logicmatters.net/2023/03/11/in-concert-noa-wildschut-plays-back/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Sat, 11 Mar 2023 22:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Competitive programming in Haskell challenge: Letter Optimization]]></title>
+            <link>https://byorgey.wordpress.com/2023/03/11/competitive-programming-in-haskell-challenge-letter-optimization/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/03/11/competitive-programming-in-haskell-challenge-letter-optimization/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Sat, 11 Mar 2023 19:24:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adding stars to constellations]]></title>
@@ -2646,6 +2702,13 @@ I came to the story...]]></title>
             <pubDate>Fri, 24 Feb 2023 13:55:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Competitive programming in Haskell: Infinite 2D array, Level 4]]></title>
+            <link>https://byorgey.wordpress.com/2023/02/24/competitive-programming-in-haskell-infinite-2d-array-level-4/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/02/24/competitive-programming-in-haskell-infinite-2d-array-level-4/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Fri, 24 Feb 2023 13:31:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2/24/23]]></title>
             <link>https://purenumbers.tumblr.com/post/710143308103614464</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/710143308103614464</guid>
@@ -3073,13 +3136,6 @@ I came to the story...]]></title>
             <pubDate>Mon, 20 Feb 2023 17:17:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hard Fence Question Singapore Maths]]></title>
-            <link>https://mindyourdecisions.com/blog/2023/02/20/hard-fence-question-singapore-maths/</link>
-            <guid isPermaLink="false">https://mindyourdecisions.com/blog/2023/02/20/hard-fence-question-singapore-maths/</guid>
-            <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
-            <pubDate>Mon, 20 Feb 2023 16:48:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why I don’t trust “libertarian paternalism,” part 65]]></title>
             <link>https://statmodeling.stat.columbia.edu/2023/02/20/why-i-dont-trust-libertarian-paternalism-part-65/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/02/20/why-i-dont-trust-libertarian-paternalism-part-65/</guid>
@@ -3463,13 +3519,6 @@ I came to the story...]]></title>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2023/02/bullying.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Fri, 17 Feb 2023 07:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Things, Names, and Numbers]]></title>
-            <link>https://mathenchant.wordpress.com/2023/02/17/things-names-and-numbers/</link>
-            <guid isPermaLink="false">https://mathenchant.wordpress.com/2023/02/17/things-names-and-numbers/</guid>
-            <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
-            <pubDate>Fri, 17 Feb 2023 05:41:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Best Coffee in Philly]]></title>
@@ -4128,20 +4177,6 @@ I came to the story...]]></title>
             <guid isPermaLink="false">https://lazyocho.com/2023/02/10/a-thousand-words-a-day-feb-6-10-no-24/</guid>
             <dc:creator><![CDATA[lazy 0ch0]]></dc:creator>
             <pubDate>Fri, 10 Feb 2023 22:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What should mathematics majors know about computing, and when should they know it?]]></title>
-            <link>http://rtalbert.org/what-should-mathematics-majors-know-about-computing-and-when-should-they-know-it/</link>
-            <guid isPermaLink="false">http://rtalbert.org/what-should-mathematics-majors-know-about-computing-and-when-should-they-know-it/</guid>
-            <dc:creator><![CDATA[Robert Talbert, Ph.D.]]></dc:creator>
-            <pubDate>Fri, 10 Feb 2023 18:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Power of Words -- from June Jordan]]></title>
-            <link>https://poetrywithmathematics.blogspot.com/2023/02/the-power-of-words-from-june-jordan.html</link>
-            <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2023/02/the-power-of-words-from-june-jordan.html</guid>
-            <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
-            <pubDate>Fri, 10 Feb 2023 17:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
