@@ -4,11 +4,48 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Mar 2023 20:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 01:59:06 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Mar 2023 20:34:46 GMT</pubDate>
+        <pubDate>Thu, 16 Mar 2023 01:59:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Will AIs Take All Our Jobs and End Human History—or Not? Well, It’s Complicated…]]></title>
+            <link>https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/</link>
+            <guid isPermaLink="false">https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/</guid>
+            <dc:creator><![CDATA[Stephen Wolfram Writings]]></dc:creator>
+            <pubDate>Thu, 16 Mar 2023 01:41:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interpolating rotations with SLERP]]></title>
+            <link>https://www.johndcook.com/blog/2023/03/15/slerp/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/03/15/slerp/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Thu, 16 Mar 2023 01:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fermi Bubbles]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2023/03/16/the-fermi-bubbles/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2023/03/16/the-fermi-bubbles/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Thu, 16 Mar 2023 01:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ABC in Lapland²]]></title>
+            <link>https://xianblog.wordpress.com/2023/03/16/abc-in-lapland%25c2%25b2/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/03/16/abc-in-lapland%c2%b2/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Wed, 15 Mar 2023 23:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[isomorphismes:
+
+“Nakajima varieties provide a natural home for geometric representation theory of...]]></title>
+            <link>https://isomorphismes.tumblr.com/post/711898615975690241</link>
+            <guid isPermaLink="false">https://isomorphismes.tumblr.com/post/711898615975690241</guid>
+            <dc:creator><![CDATA[isomorphismes]]></dc:creator>
+            <pubDate>Wed, 15 Mar 2023 22:30:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reflection: Deep RL with Hugging Face]]></title>
             <link>https://suburbanlion.com/blog/2023/03/15/reflection-deep-rl-with-hugging-face/</link>
@@ -17,7 +54,7 @@
             <pubDate>Wed, 15 Mar 2023 19:03:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Predicting LLM havoc?]]></title>
+            <title><![CDATA[Predicting LLM havoc]]></title>
             <link>https://statmodeling.stat.columbia.edu/2023/03/15/predicting-llm-havoc/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/03/15/predicting-llm-havoc/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
@@ -253,6 +290,13 @@
             <guid isPermaLink="false">https://maddmaths.simai.eu/divulgazione/rubriche/la-lente-matematica/matematica-per-tutte-le-persone/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Tue, 14 Mar 2023 09:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Algebraic Values of Transcendental Functions at Algebraic Points]]></title>
+            <link>https://mattbaker.blog/2023/03/14/algebraic-values-of-transcendental-functions-at-algebraic-points/</link>
+            <guid isPermaLink="false">https://mattbaker.blog/2023/03/14/algebraic-values-of-transcendental-functions-at-algebraic-points/</guid>
+            <dc:creator><![CDATA[Matt Baker's Math Blog]]></dc:creator>
+            <pubDate>Tue, 14 Mar 2023 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finding the physical location in an online video via Google Maps clues]]></title>
@@ -1480,13 +1524,6 @@
             <pubDate>Tue, 07 Mar 2023 04:25:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ABConic mean evidence approximation]]></title>
-            <link>https://xianblog.wordpress.com/2023/03/07/abconic-mean-evidence-approximation/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/03/07/abconic-mean-evidence-approximation/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 06 Mar 2023 23:23:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dividing a Square into 7 Similar Rectangles]]></title>
             <link>https://johncarlosbaez.wordpress.com/2023/03/06/dividing-a-square-into-7-similar-rectangles/</link>
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2023/03/06/dividing-a-square-into-7-similar-rectangles/</guid>
@@ -2222,13 +2259,6 @@
             <pubDate>Wed, 01 Mar 2023 18:02:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Use ChatGPT to Create Engaging Video Lessons]]></title>
-            <link>https://busynessgirl.com/use-chatgpt-to-create-engaging-video-lessons/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/use-chatgpt-to-create-engaging-video-lessons/</guid>
-            <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
-            <pubDate>Wed, 01 Mar 2023 18:02:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Non-crossing Hamiltonian paths and cycles in output-polynomial time]]></title>
             <link>https://11011110.github.io/blog/2023/03/01/non-crossing-hamiltonian.html</link>
             <guid isPermaLink="false">https://11011110.github.io/blog/2023/03/01/non-crossing-hamiltonian.html</guid>
@@ -2649,13 +2679,6 @@
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (166)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2023/02/27/fortnightly-links-166/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2023/02/27/fortnightly-links-166/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math Bait]]></title>
             <link>https://mrburkemath.blogspot.com/2023/02/math-bait.html</link>
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2023/02/math-bait.html</guid>
@@ -3045,13 +3068,6 @@ I came to the story...]]></title>
             <pubDate>Thu, 23 Feb 2023 03:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An update for Fanography.info: Bott vanishing]]></title>
-            <link>http://pbelmans.ncag.info/blog/2023/02/23/fanography-bott-vanishing/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2023/02/23/fanography-bott-vanishing/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“The pandemic made things worse.”]]></title>
             <link>https://quomodocumque.wordpress.com/2023/02/22/the-pandemic-made-things-worse/</link>
             <guid isPermaLink="false">https://quomodocumque.wordpress.com/2023/02/22/the-pandemic-made-things-worse/</guid>
@@ -3197,13 +3213,6 @@ I came to the story...]]></title>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2023/02/celebrate-black-mathematicians.html</guid>
             <dc:creator><![CDATA[Intersections -- Poetry with Mathematics]]></dc:creator>
             <pubDate>Tue, 21 Feb 2023 15:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Future Trends Forum: ChatGPT and Curriculum]]></title>
-            <link>https://busynessgirl.com/future-trends-forum-chatgpt-and-curriculum/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/future-trends-forum-chatgpt-and-curriculum/</guid>
-            <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
-            <pubDate>Tue, 21 Feb 2023 15:00:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Future Trends Forum: ChatGPT and Curriculum]]></title>
@@ -3477,13 +3486,6 @@ I came to the story...]]></title>
             <guid isPermaLink="false">http://impossible-world.blogspot.com/2023/02/art-by-bangzheng-du.html</guid>
             <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
             <pubDate>Sat, 18 Feb 2023 17:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teachers: Treat ChatGPT as an Ally, Not an Enemy]]></title>
-            <link>https://busynessgirl.com/teachers-treat-chatgpt-as-an-ally-not-an-enemy/</link>
-            <guid isPermaLink="false">https://busynessgirl.com/teachers-treat-chatgpt-as-an-ally-not-an-enemy/</guid>
-            <dc:creator><![CDATA[Busynessgirl]]></dc:creator>
-            <pubDate>Sat, 18 Feb 2023 16:57:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teachers: Treat ChatGPT as an Ally, Not an Enemy]]></title>
@@ -3843,13 +3845,6 @@ I came to the story...]]></title>
             <pubDate>Thu, 16 Feb 2023 01:00:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fortnightly links (165)]]></title>
-            <link>http://pbelmans.ncag.info/blog/2023/02/16/fortnightly-links-165/</link>
-            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2023/02/16/fortnightly-links-165/</guid>
-            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
-            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Omniknoten bei xkcd]]></title>
             <link>https://scienceblogs.de/mathlog/2023/02/16/omniknoten-bei-xkcd/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=omniknoten-bei-xkcd</link>
             <guid isPermaLink="false">https://scienceblogs.de/mathlog/2023/02/16/omniknoten-bei-xkcd/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=omniknoten-bei-xkcd</guid>
@@ -4156,20 +4151,6 @@ I came to the story...]]></title>
             <guid isPermaLink="false">https://errorstatistics.com/2023/02/12/popper-falsi%ef%ac%81cation-and-pseudoscience-notes-from-my-philstat-seminar/</guid>
             <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
             <pubDate>Mon, 13 Feb 2023 03:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A problem in powers]]></title>
-            <link>https://www.flyingcoloursmaths.co.uk/a-problem-in-powers/</link>
-            <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/a-problem-in-powers/</guid>
-            <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
-            <pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When is a paper `Easily Available' ?]]></title>
-            <link>https://blog.computationalcomplexity.org/2023/02/when-is-paper-easily-available.html</link>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2023/02/when-is-paper-easily-available.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Sun, 12 Feb 2023 21:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
