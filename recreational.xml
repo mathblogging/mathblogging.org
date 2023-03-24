@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Mar 2023 01:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 04:38:32 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Mar 2023 01:52:40 GMT</pubDate>
+        <pubDate>Fri, 24 Mar 2023 04:38:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Xavier Waintal responds (tl;dr Grover is still quadratically faster)]]></title>
+            <link>https://scottaaronson.blog/?p=7157</link>
+            <guid isPermaLink="false">https://scottaaronson.blog/?p=7157</guid>
+            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
+            <pubDate>Fri, 24 Mar 2023 04:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learning a made-up language, III]]></title>
+            <link>https://quomodocumque.wordpress.com/2023/03/23/learning-a-made-up-language-iii/</link>
+            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2023/03/23/learning-a-made-up-language-iii/</guid>
+            <dc:creator><![CDATA[Quomodocumque]]></dc:creator>
+            <pubDate>Fri, 24 Mar 2023 02:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lecture and egotism]]></title>
+            <link>https://quomodocumque.wordpress.com/2023/03/23/lecture-and-egotism/</link>
+            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2023/03/23/lecture-and-egotism/</guid>
+            <dc:creator><![CDATA[Quomodocumque]]></dc:creator>
+            <pubDate>Fri, 24 Mar 2023 02:30:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Galactic Center]]></title>
             <link>https://johncarlosbaez.wordpress.com/2023/03/24/the-galactic-center/</link>
@@ -518,6 +539,13 @@
             <link>https://scoskey.org/presentation/borel-classification-conjugacy-problems/</link>
             <guid isPermaLink="false">https://scoskey.org/presentation/borel-classification-conjugacy-problems/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnightly links (167)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2023/03/21/fortnightly-links-167/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2023/03/21/fortnightly-links-167/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1912,6 +1940,13 @@
             <guid isPermaLink="false">https://www.logicmatters.net/2023/03/11/in-concert-noa-wildschut-plays-back/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Sat, 11 Mar 2023 22:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Competitive programming in Haskell challenge: Letter Optimization]]></title>
+            <link>https://byorgey.wordpress.com/2023/03/11/competitive-programming-in-haskell-challenge-letter-optimization/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/03/11/competitive-programming-in-haskell-challenge-letter-optimization/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Sat, 11 Mar 2023 19:24:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adding stars to constellations]]></title>
@@ -3524,6 +3559,13 @@
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fortnightly links (166)]]></title>
+            <link>http://pbelmans.ncag.info/blog/2023/02/27/fortnightly-links-166/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2023/02/27/fortnightly-links-166/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Math Bait]]></title>
             <link>https://mrburkemath.blogspot.com/2023/02/math-bait.html</link>
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2023/02/math-bait.html</guid>
@@ -3745,6 +3787,13 @@ I came to the story...]]></title>
             <pubDate>Fri, 24 Feb 2023 13:55:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Competitive programming in Haskell: Infinite 2D array, Level 4]]></title>
+            <link>https://byorgey.wordpress.com/2023/02/24/competitive-programming-in-haskell-infinite-2d-array-level-4/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/02/24/competitive-programming-in-haskell-infinite-2d-array-level-4/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Fri, 24 Feb 2023 13:31:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[When watching YouTube can make smarter]]></title>
             <link>https://observationalepidemiology.blogspot.com/2023/02/when-watching-youtube-can-make-smarter.html</link>
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2023/02/when-watching-youtube-can-make-smarter.html</guid>
@@ -3855,6 +3904,13 @@ I came to the story...]]></title>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2023/02/blog-post_23.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Thu, 23 Feb 2023 08:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An update for Fanography.info: Bott vanishing]]></title>
+            <link>http://pbelmans.ncag.info/blog/2023/02/23/fanography-bott-vanishing/</link>
+            <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2023/02/23/fanography-bott-vanishing/</guid>
+            <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“The pandemic made things worse.”]]></title>
@@ -4044,13 +4100,6 @@ I came to the story...]]></title>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2023/02/blog-post_21.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Tue, 21 Feb 2023 06:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Workshop “Machine Learning and Data Mining in Insurance and Finance ” at the SSC 2023]]></title>
-            <link>https://freakonometrics.hypotheses.org/66110</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/66110</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Tue, 21 Feb 2023 03:02:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
