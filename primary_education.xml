@@ -4,11 +4,39 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 May 2023 20:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 01:52:34 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 May 2023 20:29:48 GMT</pubDate>
+        <pubDate>Mon, 15 May 2023 01:52:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[pseudoform]]></title>
+            <link>https://ncatlab.org/nlab/show/pseudoform</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/pseudoform</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 15 May 2023 00:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google and Franck]]></title>
+            <link>https://www.galoisrepresentations.com/2023/05/15/google-and-franck/</link>
+            <guid isPermaLink="false">https://www.galoisrepresentations.com/2023/05/15/google-and-franck/</guid>
+            <dc:creator><![CDATA[Persiflage]]></dc:creator>
+            <pubDate>Mon, 15 May 2023 00:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chez Guy**(*)]]></title>
+            <link>https://xianblog.wordpress.com/2023/05/15/chez-guy/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/05/15/chez-guy/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sun, 14 May 2023 22:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Take a number and map it to the number of letters in its name]]></title>
+            <link>https://blog.computationalcomplexity.org/2023/05/take-number-and-map-it-to-number-of.html</link>
+            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2023/05/take-number-and-map-it-to-number-of.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Sun, 14 May 2023 21:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Circulant matrices commute]]></title>
             <link>https://www.johndcook.com/blog/2023/05/14/circulant-matrices-commute/</link>
@@ -57,6 +85,13 @@
             <guid isPermaLink="false">https://www.johndcook.com/blog/2023/05/14/gyrovector/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sun, 14 May 2023 11:43:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pseudoorientation]]></title>
+            <link>https://ncatlab.org/nlab/show/pseudoorientation</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/pseudoorientation</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 14 May 2023 07:02:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Examinations 2023]]></title>
@@ -1401,13 +1436,6 @@
             <guid isPermaLink="false">https://rjlipton.wpcomstaging.com/2023/05/04/a-ttic-talk/</guid>
             <dc:creator><![CDATA[Gödel's Lost Letter and P=NP]]></dc:creator>
             <pubDate>Thu, 04 May 2023 23:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Balto’s genome]]></title>
-            <link>https://xianblog.wordpress.com/2023/05/05/baltos-genome/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/05/05/baltos-genome/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 04 May 2023 22:23:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The process for avoiding Aetna IS tricky]]></title>
@@ -3445,27 +3473,6 @@
             <guid isPermaLink="false">https://www.resourceaholic.com/2023/04/curriculum-priorities.html</guid>
             <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
             <pubDate>Fri, 14 Apr 2023 09:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new trig identity]]></title>
-            <link>https://www.johndcook.com/blog/2023/04/13/a-new-trig-identity/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/04/13/a-new-trig-identity/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Fri, 14 Apr 2023 01:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rJava Curse Strikes Again]]></title>
-            <link>https://orinanobworld.blogspot.com/2023/04/the-rjava-curse-strikes-again.html</link>
-            <guid isPermaLink="false">https://orinanobworld.blogspot.com/2023/04/the-rjava-curse-strikes-again.html</guid>
-            <dc:creator><![CDATA[OR in an OB World]]></dc:creator>
-            <pubDate>Thu, 13 Apr 2023 22:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30 Students in 30 Years]]></title>
-            <link>https://richb.rice.edu/2023/04/13/30-students-in-30-years/</link>
-            <guid isPermaLink="false">https://richb.rice.edu/2023/04/13/30-students-in-30-years/</guid>
-            <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
-            <pubDate>Thu, 13 Apr 2023 20:39:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
