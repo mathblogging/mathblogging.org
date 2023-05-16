@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 May 2023 16:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 20:32:33 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 May 2023 16:39:17 GMT</pubDate>
+        <pubDate>Tue, 16 May 2023 20:32:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[John Bullough]]></title>
+            <link>https://cameroncounts.wordpress.com/2023/05/16/john-bullough/</link>
+            <guid isPermaLink="false">https://cameroncounts.wordpress.com/2023/05/16/john-bullough/</guid>
+            <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
+            <pubDate>Tue, 16 May 2023 17:09:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Galilean Transformation: UNIZOR.COM - Relativity 4 All - Principles]]></title>
             <link>https://unizor.blogspot.com/2023/05/galilean-transformation-unizorcom.html</link>
@@ -423,14 +430,14 @@
             <pubDate>Sat, 13 May 2023 19:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PCAST Working Group on Generative AI Invites Public Input]]></title>
+            <title><![CDATA[PCAST Working Group on Generative AI Invites Public Input]]></title>
             <link>https://terrytao.wordpress.com/2023/05/13/pcast-working-group-on-generative-ai-invites-public-input/</link>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2023/05/13/pcast-working-group-on-generative-ai-invites-public-input/</guid>
             <dc:creator><![CDATA[What's new]]></dc:creator>
             <pubDate>Sat, 13 May 2023 19:22:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PCAST Working Group on Generative AI Invites Public Input]]></title>
+            <title><![CDATA[PCAST Working Group on Generative AI Invites Public Input]]></title>
             <link>https://terrytao.wordpress.com/2023/05/13/pcast-working-group-on-generative-ai-invites-public-input/</link>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2023/05/13/pcast-working-group-on-generative-ai-invites-public-input/</guid>
             <dc:creator><![CDATA[What's new]]></dc:creator>
@@ -1800,6 +1807,13 @@
             <guid isPermaLink="false">https://blog.plover.com/addenda/202304.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Thu, 04 May 2023 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Competitive programming in Haskell: tries]]></title>
+            <link>https://byorgey.wordpress.com/2023/05/03/competitive-programming-in-haskell-tries/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/05/03/competitive-programming-in-haskell-tries/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Wed, 03 May 2023 19:57:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Categories for the Working Philosopher: 1–3]]></title>
@@ -3459,13 +3473,6 @@
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2023/04/15/euler/</guid>
             <dc:creator><![CDATA[Azimuth]]></dc:creator>
             <pubDate>Sat, 15 Apr 2023 23:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I liked this simple calculus exercise]]></title>
-            <link>https://blog.plover.com/math/se/calculus-exercise.html</link>
-            <guid isPermaLink="false">https://blog.plover.com/math/se/calculus-exercise.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Sat, 15 Apr 2023 17:58:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
