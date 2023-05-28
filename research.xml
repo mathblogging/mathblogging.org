@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 May 2023 20:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 02:04:10 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 May 2023 20:31:27 GMT</pubDate>
+        <pubDate>Sun, 28 May 2023 02:04:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Natural nested sampling]]></title>
+            <link>https://xianblog.wordpress.com/2023/05/28/natural-nested-sampling/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/05/28/natural-nested-sampling/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sat, 27 May 2023 22:23:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sommer-Traditionen auf dem Land.]]></title>
             <link>https://halbtagsblog.de/2023/05/27/sommer-traditionen/</link>
@@ -1184,13 +1191,6 @@
             <guid isPermaLink="false">https://fivetwelvethirteen.wordpress.com/2023/05/17/moving-to-substack/</guid>
             <dc:creator><![CDATA[Five Twelve Thirteen]]></dc:creator>
             <pubDate>Thu, 18 May 2023 00:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[grasshoppers for pythons]]></title>
-            <link>https://xianblog.wordpress.com/2023/05/18/grasshoppers-for-pythons/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/05/18/grasshoppers-for-pythons/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 17 May 2023 22:23:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foundation Hosts 2023 Simons Society of Fellows Retreat]]></title>
@@ -3216,13 +3216,6 @@
             <pubDate>Sat, 29 Apr 2023 17:47:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[enriched monoidal category]]></title>
-            <link>https://ncatlab.org/nlab/show/enriched+monoidal+category</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/enriched+monoidal+category</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 29 Apr 2023 15:32:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Golden integration]]></title>
             <link>https://www.johndcook.com/blog/2023/04/29/golden-integration/</link>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2023/04/29/golden-integration/</guid>
@@ -3256,6 +3249,13 @@
             <guid isPermaLink="false">https://pamjwilson.wordpress.com/2023/04/28/stinky-sneakers-mtbos/</guid>
             <dc:creator><![CDATA[the radical rational…]]></dc:creator>
             <pubDate>Sat, 29 Apr 2023 01:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Talk at Beyond Uniform Hyperbolicity (Bedlewo, 2023)]]></title>
+            <link>https://jbuzzi.wordpress.com/2023/04/28/talk-at-beyond-uniform-hyperbolicity-bedlewo-2023/</link>
+            <guid isPermaLink="false">https://jbuzzi.wordpress.com/2023/04/28/talk-at-beyond-uniform-hyperbolicity-bedlewo-2023/</guid>
+            <dc:creator><![CDATA[Jérôme Buzzi’s]]></dc:creator>
+            <pubDate>Fri, 28 Apr 2023 20:50:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Matrix Puzzle]]></title>
@@ -3354,27 +3354,6 @@
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2023/04/thursday-tweets-elmo-and-sneetches.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Thu, 27 Apr 2023 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moving between differential and integral equations]]></title>
-            <link>https://www.johndcook.com/blog/2023/04/26/differential-and-integral-equations/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/04/26/differential-and-integral-equations/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Wed, 26 Apr 2023 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comic Book Alignment]]></title>
-            <link>https://blog.computationalcomplexity.org/2023/04/comic-book-alignment.html</link>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2023/04/comic-book-alignment.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Wed, 26 Apr 2023 20:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to prove theorems?]]></title>
-            <link>https://karagila.org/2023/theorems/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/theorems/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 26 Apr 2023 20:46:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
