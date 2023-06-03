@@ -4,13 +4,34 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jun 2023 04:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 08:34:15 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Jun 2023 04:34:54 GMT</pubDate>
+        <pubDate>Sat, 03 Jun 2023 08:34:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[Τοπολογικά μεζεδάκια .Θεώρημα Borsuk-Ulam]]></title>
+            <title><![CDATA[Lo STEAM all’IC Virgilio di Roma per la Giornata Mondiale dell’Ambiente]]></title>
+            <link>https://maddmaths.simai.eu/didattica/steam-ic-virgilio/</link>
+            <guid isPermaLink="false">https://maddmaths.simai.eu/didattica/steam-ic-virgilio/</guid>
+            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
+            <pubDate>Sat, 03 Jun 2023 06:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swallowed Star]]></title>
+            <link>http://impossible-world.blogspot.com/2023/06/swallowed-star.html</link>
+            <guid isPermaLink="false">http://impossible-world.blogspot.com/2023/06/swallowed-star.html</guid>
+            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
+            <pubDate>Sat, 03 Jun 2023 05:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - June 3]]></title>
+            <link>https://pballew.blogspot.com/2023/06/on-this-day-in-math-june-3.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2023/06/on-this-day-in-math-june-3.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Sat, 03 Jun 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Τοπολογικά μεζεδάκια.Θεώρημα Borsuk-Ulam]]></title>
             <link>https://mathhmagic.blogspot.com/2023/06/borsuk-ulam.html</link>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2023/06/borsuk-ulam.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
@@ -52,25 +73,11 @@
             <pubDate>Fri, 02 Jun 2023 16:17:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dynamic programming in Haskell: lazy immutable arrays]]></title>
-            <link>https://byorgey.wordpress.com/2023/06/02/dynamic-programming-in-haskell-lazy-immutable-arrays/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/06/02/dynamic-programming-in-haskell-lazy-immutable-arrays/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Fri, 02 Jun 2023 16:09:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Logic Syllabus • Discussion 1]]></title>
             <link>https://inquiryintoinquiry.com/2023/06/02/logic-syllabus-discussion-1/</link>
             <guid isPermaLink="false">https://inquiryintoinquiry.com/2023/06/02/logic-syllabus-discussion-1/</guid>
             <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
             <pubDate>Fri, 02 Jun 2023 14:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oleksii Kotov]]></title>
-            <link>https://ncatlab.org/nlab/show/Oleksii+Kotov</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Oleksii+Kotov</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 02 Jun 2023 13:24:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[blme: Bayesian Linear Mixed-Effects Models]]></title>
@@ -388,13 +395,6 @@
             <pubDate>Wed, 31 May 2023 14:48:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Competitive programming in Haskell: introduction to dynamic programming]]></title>
-            <link>https://byorgey.wordpress.com/2023/05/31/competitive-programming-in-haskell-introduction-to-dynamic-programming/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/05/31/competitive-programming-in-haskell-introduction-to-dynamic-programming/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Wed, 31 May 2023 14:47:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Choosing the GEOMETRIC SHAPE of a poem]]></title>
             <link>https://poetrywithmathematics.blogspot.com/2023/05/choosing-geometric-shape-of-poem.html</link>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2023/05/choosing-geometric-shape-of-poem.html</guid>
@@ -428,13 +428,6 @@
             <guid isPermaLink="false">https://retractionwatch.com/2023/05/31/in-the-death-of-an-iranian-scientist-hints-of-unchecked-strife/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Wed, 31 May 2023 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Food prices, net migration and beef about beef]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0frb33q</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0frb33q</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Wed, 31 May 2023 08:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More hiring, because more quitting]]></title>
@@ -850,13 +843,6 @@ Notice how some of the historical error bars do...]]></title>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2023/05/blog-post_82.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Sun, 28 May 2023 19:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are young people more single than ever before?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0fqq1l6</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0fqq1l6</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Sun, 28 May 2023 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish Combinatorics Conference]]></title>
@@ -1349,25 +1335,11 @@ Notice how some of the historical error bars do...]]></title>
             <pubDate>Wed, 24 May 2023 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Competitive programming in Haskell: parsing with an NFA]]></title>
-            <link>https://byorgey.wordpress.com/2023/05/24/competitive-programming-in-haskell-parsing-with-an-nfa/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/05/24/competitive-programming-in-haskell-parsing-with-an-nfa/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Wed, 24 May 2023 11:03:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Renaissance garbage ­– V]]></title>
             <link>https://thonyc.wordpress.com/2023/05/24/renaissance-garbage-v/</link>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2023/05/24/renaissance-garbage-v/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Wed, 24 May 2023 08:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS waiting lists, Voter ID and measuring divorce]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0fpztgm</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0fpztgm</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Wed, 24 May 2023 08:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Talk at the seminar, at Waterloo (Ontario, Canada)]]></title>
@@ -1522,13 +1494,6 @@ Notice how some of the historical error bars do...]]></title>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2023/05/22/category-theory-without-categories/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Mon, 22 May 2023 20:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New ko-fi page: help me attend ICFP!]]></title>
-            <link>https://byorgey.wordpress.com/2023/05/22/new-ko-fi-page-help-me-attend-icfp/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/05/22/new-ko-fi-page-help-me-attend-icfp/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Mon, 22 May 2023 19:27:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[„Prompten lernen“]]></title>
@@ -1762,6 +1727,13 @@ Notice how some of the historical error bars do...]]></title>
             <pubDate>Sat, 20 May 2023 13:23:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Category Theory conference]]></title>
+            <link>https://ncatlab.org/nlab/show/Category+Theory+conference</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Category+Theory+conference</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 20 May 2023 13:07:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[5/20/23]]></title>
             <link>https://purenumbers.tumblr.com/post/717840266445357056</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/717840266445357056</guid>
@@ -1780,13 +1752,6 @@ Notice how some of the historical error bars do...]]></title>
             <link>https://pballew.blogspot.com/2023/05/on-this-day-in-math-may-20.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2023/05/on-this-day-in-math-may-20.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sat, 20 May 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Detecting Bad Science with Data]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0fpb87t</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0fpb87t</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Sat, 20 May 2023 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2094,13 +2059,6 @@ Notice how some of the historical error bars do...]]></title>
             <title><![CDATA[On This Day in Math - May 17]]></title>
             <link>https://pballew.blogspot.com/2023/05/on-this-day-in-math-may-17.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2023/05/on-this-day-in-math-may-17.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Wed, 17 May 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Holy Cow", Holy Water, Heron Invents the Vending Machine]]></title>
-            <link>https://pballew.blogspot.com/2023/05/holy-cow-holy-water-heron-invents.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2023/05/holy-cow-holy-water-heron-invents.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Wed, 17 May 2023 05:00:00 GMT</pubDate>
         </item>
@@ -2516,13 +2474,6 @@ Notice how some of the historical error bars do...]]></title>
             <guid isPermaLink="false">https://www.resourceaholic.com/2023/05/5-maths-gems-170.html</guid>
             <dc:creator><![CDATA[Resourceaholic]]></dc:creator>
             <pubDate>Sat, 13 May 2023 09:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do 94% of marriages in Portugal really end in divorce?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0fn0lnw</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0fn0lnw</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Sat, 13 May 2023 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ό,τι και ότι!]]></title>
@@ -3141,20 +3092,6 @@ Notice how some of the historical error bars do...]]></title>
             <pubDate>Sat, 06 May 2023 08:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nuova Lettera Matematica, ripartire per rimanere]]></title>
-            <link>https://maddmaths.simai.eu/divulgazione/nuova-lettera-matematica-new/</link>
-            <guid isPermaLink="false">https://maddmaths.simai.eu/divulgazione/nuova-lettera-matematica-new/</guid>
-            <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
-            <pubDate>Sat, 06 May 2023 06:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is life expectancy falling in the USA?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0fldqhb</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0fldqhb</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Sat, 06 May 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Spring Blog Cleaning – Plus an Image Quiz]]></title>
             <link>https://jd2718.org/2023/05/05/spring-blog-cleaning-plus-an-image-quiz/</link>
             <guid isPermaLink="false">https://jd2718.org/2023/05/05/spring-blog-cleaning-plus-an-image-quiz/</guid>
@@ -3342,13 +3279,6 @@ Notice how some of the historical error bars do...]]></title>
             <guid isPermaLink="false">https://blog.plover.com/addenda/202304.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Thu, 04 May 2023 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Competitive programming in Haskell: tries]]></title>
-            <link>https://byorgey.wordpress.com/2023/05/03/competitive-programming-in-haskell-tries/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/05/03/competitive-programming-in-haskell-tries/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Wed, 03 May 2023 19:57:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Categories for the Working Philosopher: 1–3]]></title>
