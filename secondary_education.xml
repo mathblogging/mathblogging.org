@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Jul 2023 20:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 02:22:39 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Jul 2023 20:34:16 GMT</pubDate>
+        <pubDate>Mon, 17 Jul 2023 02:22:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[asymptotic notation]]></title>
+            <link>https://ncatlab.org/nlab/show/asymptotic+notation</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/asymptotic+notation</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 16 Jul 2023 22:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[P(X<Y)]]></title>
+            <link>https://xianblog.wordpress.com/2023/07/17/pxy/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/07/17/pxy/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sun, 16 Jul 2023 22:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[accessible topological space]]></title>
+            <link>https://ncatlab.org/nlab/show/accessible+topological+space</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/accessible+topological+space</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sun, 16 Jul 2023 20:31:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Online activities 17 – 23 July]]></title>
             <link>https://ests.wordpress.com/2023/07/16/online-activities-17-23-july/</link>
@@ -22,20 +43,6 @@
             <guid isPermaLink="false">https://www.johndcook.com/blog/2023/07/16/symmetric-statistics/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sun, 16 Jul 2023 17:56:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[haecceity]]></title>
-            <link>https://ncatlab.org/nlab/show/haecceity</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/haecceity</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 16 Jul 2023 17:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Norman Swartz]]></title>
-            <link>https://ncatlab.org/nlab/show/Norman+Swartz</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Norman+Swartz</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 16 Jul 2023 17:30:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mortal Math]]></title>
@@ -339,6 +346,13 @@
             <pubDate>Fri, 14 Jul 2023 09:27:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mathematical Objects: On-Sets]]></title>
+            <link>https://aperiodical.com/2023/07/mathematical-objects-on-sets/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2023/07/mathematical-objects-on-sets/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Fri, 14 Jul 2023 07:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Problem About Elevens, and Some Methods of Casting Out Sevens, and Other Primes.]]></title>
             <link>https://pballew.blogspot.com/2023/07/a-problem-about-elevens-and-some.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2023/07/a-problem-about-elevens-and-some.html</guid>
@@ -393,6 +407,13 @@
             <guid isPermaLink="false">https://jclevelandtran.com/2023/07/13/knowing-doing-being/</guid>
             <dc:creator><![CDATA[The Roots of the Equation]]></dc:creator>
             <pubDate>Thu, 13 Jul 2023 21:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compiling to Intrinsically Typed Combinators]]></title>
+            <link>https://byorgey.wordpress.com/2023/07/13/compiling-to-intrinsically-typed-combinators/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/07/13/compiling-to-intrinsically-typed-combinators/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Thu, 13 Jul 2023 20:55:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Functional Logic • Inquiry and Analogy • 16]]></title>
@@ -717,6 +738,13 @@
             <pubDate>Tue, 11 Jul 2023 20:09:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Carnival of Mathematics 217]]></title>
+            <link>https://aperiodical.com/2023/07/carnival-of-mathematics-217/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2023/07/carnival-of-mathematics-217/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Tue, 11 Jul 2023 18:46:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mathy Limericks . . .]]></title>
             <link>https://poetrywithmathematics.blogspot.com/2023/07/mathy-limericks.html</link>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2023/07/mathy-limericks.html</guid>
@@ -967,6 +995,13 @@
             <guid isPermaLink="false">https://retractionwatch.com/2023/07/10/journal-updates-duplicate-article-it-had-said-was-sufficiently-different-from-original/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Mon, 10 Jul 2023 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hexaflex yourself!]]></title>
+            <link>https://aperiodical.com/2023/07/hexaflex-yourself/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2023/07/hexaflex-yourself/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Mon, 10 Jul 2023 08:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La scelta di Rut di restare con Noemi e il significato della spiga sospesa - Luigino Bruni a Uomini e Profeti]]></title>
@@ -1242,6 +1277,13 @@
             <pubDate>Sat, 08 Jul 2023 08:55:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[We all need some space!]]></title>
+            <link>https://aperiodical.com/2023/07/we-all-need-some-space/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2023/07/we-all-need-some-space/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Sat, 08 Jul 2023 08:38:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Incontri con la matematica n. 37 – dal 10 al 12 novembre 2023 a Castel San Pietro]]></title>
             <link>https://maddmaths.simai.eu/didattica/incontri-con-la-matematica-n-37-dal-10-al-12-novembre-2023-a-castel-san-pietro/</link>
             <guid isPermaLink="false">https://maddmaths.simai.eu/didattica/incontri-con-la-matematica-n-37-dal-10-al-12-novembre-2023-a-castel-san-pietro/</guid>
@@ -1401,13 +1443,6 @@
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2023/07/07/hodge-diamond-cutter-github-actions/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to MCM 2025]]></title>
-            <link>https://xianblog.wordpress.com/2023/07/07/welcome-to-mcm-2025/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/07/07/welcome-to-mcm-2025/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 06 Jul 2023 22:23:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Functional Logic • Inquiry and Analogy • Discussion 1]]></title>
@@ -2203,6 +2238,13 @@
             <pubDate>Fri, 30 Jun 2023 16:24:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Aperiodical News Roundup – May & June 2023]]></title>
+            <link>https://aperiodical.com/2023/06/aperiodical-news-roundup-may-june-2023/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2023/06/aperiodical-news-roundup-may-june-2023/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Fri, 30 Jun 2023 13:41:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Incompetent officeholders, retractions of published papers, and norms]]></title>
             <link>https://statmodeling.stat.columbia.edu/2023/06/30/incompetent-officeholders-retractions-of-published-papers-and-norms/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/06/30/incompetent-officeholders-retractions-of-published-papers-and-norms/</guid>
@@ -2236,6 +2278,13 @@
             <guid isPermaLink="false">https://ifwisdomwereteachable.wordpress.com/2023/06/30/the-church-bells-all-were-broken/</guid>
             <dc:creator><![CDATA[Since it is not …]]></dc:creator>
             <pubDate>Fri, 30 Jun 2023 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematical Objects: A book with Sarah Hart]]></title>
+            <link>https://aperiodical.com/2023/06/mathematical-objects-a-book/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2023/06/mathematical-objects-a-book/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Fri, 30 Jun 2023 07:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alex Cohen, Cosmin Pohoata, and Dmitrii Zakharov Improved the Upper Bound for the Heilbronn triangle problem!]]></title>
@@ -2987,6 +3036,13 @@
             <pubDate>Tue, 20 Jun 2023 23:49:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Competitive Programming in Haskell: two more DP challenges]]></title>
+            <link>https://byorgey.wordpress.com/2023/06/20/competitive-programming-in-haskell-two-more-dp-challenges/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/06/20/competitive-programming-in-haskell-two-more-dp-challenges/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Tue, 20 Jun 2023 20:42:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Newsletter of the European Set Theory Society, June 2023]]></title>
             <link>https://ests.wordpress.com/2023/06/20/newsletter-of-the-european-set-theory-society-june-2023/</link>
             <guid isPermaLink="false">https://ests.wordpress.com/2023/06/20/newsletter-of-the-european-set-theory-society-june-2023/</guid>
@@ -3048,6 +3104,13 @@
             <guid isPermaLink="false">https://nhigham.com/2023/06/20/wilkinsons-rounding-errors-book-reprinted-by-siam/</guid>
             <dc:creator><![CDATA[Nick Higham]]></dc:creator>
             <pubDate>Tue, 20 Jun 2023 13:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Particularly mathematical Birthday Honours 2023]]></title>
+            <link>https://aperiodical.com/2023/06/particularly-mathematical-birthday-honours-2023/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2023/06/particularly-mathematical-birthday-honours-2023/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Tue, 20 Jun 2023 07:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two-Day Logic Meeting Bristol, 30 June – 1 July]]></title>
@@ -3253,6 +3316,13 @@
             <pubDate>Sun, 18 Jun 2023 02:40:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nested folds]]></title>
+            <link>https://byorgey.wordpress.com/2023/06/17/nested-folds/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/06/17/nested-folds/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Sat, 17 Jun 2023 21:54:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Morrie’s law plus one]]></title>
             <link>https://gottwurfelt.com/2023/06/17/morries-law-plus-one/</link>
             <guid isPermaLink="false">https://gottwurfelt.com/2023/06/17/morries-law-plus-one/</guid>
@@ -3386,32 +3456,18 @@
             <pubDate>Fri, 16 Jun 2023 13:29:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Linkage]]></title>
-            <link>https://11011110.github.io/blog/2023/06/15/linkage.html</link>
-            <guid isPermaLink="false">https://11011110.github.io/blog/2023/06/15/linkage.html</guid>
-            <dc:creator><![CDATA[11011110]]></dc:creator>
-            <pubDate>Thu, 15 Jun 2023 23:00:00 GMT</pubDate>
+            <title><![CDATA[Review: How to Expect the Unexpected, by Kit Yates]]></title>
+            <link>https://aperiodical.com/2023/06/review-how-to-expect-the-unexpected-by-kit-yates/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2023/06/review-how-to-expect-the-unexpected-by-kit-yates/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Fri, 16 Jun 2023 12:45:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PART II: The Four Mistaken Goals of the Discouraged Child]]></title>
-            <link>https://cheesemonkeysf.blogspot.com/2023/06/part-ii-four-mistaken-goals-of.html</link>
-            <guid isPermaLink="false">https://cheesemonkeysf.blogspot.com/2023/06/part-ii-four-mistaken-goals-of.html</guid>
-            <dc:creator><![CDATA[cheesemonkey wonders]]></dc:creator>
-            <pubDate>Thu, 15 Jun 2023 21:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Many Desks?]]></title>
-            <link>https://mrburkemath.blogspot.com/2023/06/how-many-desks.html</link>
-            <guid isPermaLink="false">https://mrburkemath.blogspot.com/2023/06/how-many-desks.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Thu, 15 Jun 2023 21:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Randomized Acceptances]]></title>
-            <link>https://blog.computationalcomplexity.org/2023/06/randomized-acceptances.html</link>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2023/06/randomized-acceptances.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Thu, 15 Jun 2023 21:04:00 GMT</pubDate>
+            <title><![CDATA[Mathematical Objects: Battenberg cake]]></title>
+            <link>https://aperiodical.com/2023/06/mathematical-objects-battenberg-cake/</link>
+            <guid isPermaLink="false">https://aperiodical.com/2023/06/mathematical-objects-battenberg-cake/</guid>
+            <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
+            <pubDate>Fri, 16 Jun 2023 07:52:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
