@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Jul 2023 03:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 04:39:50 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/primary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Jul 2023 03:16:03 GMT</pubDate>
+        <pubDate>Wed, 19 Jul 2023 04:39:50 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -141,13 +141,6 @@
             <guid isPermaLink="false">https://cameroncounts.wordpress.com/2023/07/18/conferences/</guid>
             <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
             <pubDate>Tue, 18 Jul 2023 07:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Z+ ring]]></title>
-            <link>https://ncatlab.org/nlab/show/Z%252B+ring</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Z%2B+ring</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 18 Jul 2023 07:39:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chen, Goldbach, and the Search for an Unsolved Proof]]></title>
@@ -759,6 +752,13 @@
             <guid isPermaLink="false">https://jclevelandtran.com/2023/07/13/knowing-doing-being/</guid>
             <dc:creator><![CDATA[The Roots of the Equation]]></dc:creator>
             <pubDate>Thu, 13 Jul 2023 21:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compiling to Intrinsically Typed Combinators]]></title>
+            <link>https://byorgey.wordpress.com/2023/07/13/compiling-to-intrinsically-typed-combinators/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/07/13/compiling-to-intrinsically-typed-combinators/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Thu, 13 Jul 2023 20:55:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Functional Logic • Inquiry and Analogy • 16]]></title>
@@ -3255,6 +3255,13 @@
             <pubDate>Tue, 20 Jun 2023 23:49:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Competitive Programming in Haskell: two more DP challenges]]></title>
+            <link>https://byorgey.wordpress.com/2023/06/20/competitive-programming-in-haskell-two-more-dp-challenges/</link>
+            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/06/20/competitive-programming-in-haskell-two-more-dp-challenges/</guid>
+            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
+            <pubDate>Tue, 20 Jun 2023 20:42:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Newsletter of the European Set Theory Society, June 2023]]></title>
             <link>https://ests.wordpress.com/2023/06/20/newsletter-of-the-european-set-theory-society-june-2023/</link>
             <guid isPermaLink="false">https://ests.wordpress.com/2023/06/20/newsletter-of-the-european-set-theory-society-june-2023/</guid>
@@ -3512,13 +3519,6 @@
             <guid isPermaLink="false">https://maddmaths.simai.eu/divulgazione/matematica-a-fumetti/</guid>
             <dc:creator><![CDATA[Maddmaths!]]></dc:creator>
             <pubDate>Sun, 18 Jun 2023 06:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking for ChatGPT again]]></title>
-            <link>https://www.statschat.org.nz/2023/06/18/looking-for-chatgpt-again/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=looking-for-chatgpt-again</link>
-            <guid isPermaLink="false">https://www.statschat.org.nz/2023/06/18/looking-for-chatgpt-again/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=looking-for-chatgpt-again</guid>
-            <dc:creator><![CDATA[Stats Chat]]></dc:creator>
-            <pubDate>Sun, 18 Jun 2023 03:21:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
