@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Aug 2023 16:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 20:30:05 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Aug 2023 16:35:40 GMT</pubDate>
+        <pubDate>Sat, 05 Aug 2023 20:30:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -22,6 +22,13 @@
             <guid isPermaLink="false">https://colleenyoung.org/2023/08/05/summer-maths-2023-updated/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sat, 05 Aug 2023 15:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RSA encryption in practice]]></title>
+            <link>https://www.johndcook.com/blog/2023/08/05/rsa-oaep/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/08/05/rsa-oaep/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Sat, 05 Aug 2023 15:22:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Norton’s Dome]]></title>
@@ -69,13 +76,6 @@ I...]]></title>
             <guid isPermaLink="false">https://aperiodical.com/2023/08/carnival-of-mathematics-218/</guid>
             <dc:creator><![CDATA[The Aperiodical]]></dc:creator>
             <pubDate>Sat, 05 Aug 2023 09:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brian Willett]]></title>
-            <link>https://ncatlab.org/nlab/show/Brian+Willett</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Brian+Willett</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sat, 05 Aug 2023 08:38:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Category Theory I, the paperback!]]></title>
@@ -127,13 +127,6 @@ I...]]></title>
             <pubDate>Fri, 04 Aug 2023 22:29:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Contextual Integrity for Differential Privacy #4 [23w5106]]]></title>
-            <link>https://xianblog.wordpress.com/2023/08/05/contextual-integrity-for-differential-privacy-4-23w5106/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/08/05/contextual-integrity-for-differential-privacy-4-23w5106/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Fri, 04 Aug 2023 22:23:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Politics and math, A Drama in Four Parts]]></title>
             <link>https://pballew.blogspot.com/2023/08/politics-and-math-drama-in-four-parts.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2023/08/politics-and-math-drama-in-four-parts.html</guid>
@@ -162,6 +155,13 @@ I...]]></title>
             <pubDate>Fri, 04 Aug 2023 17:36:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Three words, three lies]]></title>
+            <link>https://blog.plover.com/misc/two-words-two-lies-3.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/misc/two-words-two-lies-3.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Fri, 04 Aug 2023 17:31:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Math exposition on YouTube]]></title>
             <link>https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/</link>
             <guid isPermaLink="false">https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/</guid>
@@ -181,6 +181,13 @@ I...]]></title>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/08/04/mundane-corrections-to-the-dishonesty-literature/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Fri, 04 Aug 2023 16:55:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euler systems]]></title>
+            <link>https://ncatlab.org/nlab/show/Euler+systems</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Euler+systems</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 04 Aug 2023 16:17:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Directory of date-me docs]]></title>
@@ -279,13 +286,6 @@ I...]]></title>
             <guid isPermaLink="false">https://pballew.blogspot.com/2023/08/on-this-day-in-math-august-4.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Fri, 04 Aug 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contextual Integrity for Differential Privacy #3 [23w5106]]]></title>
-            <link>https://xianblog.wordpress.com/2023/08/04/contextual-integrity-for-differential-privacy-3-23w5106/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/08/04/contextual-integrity-for-differential-privacy-3-23w5106/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 03 Aug 2023 22:23:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two Years Later]]></title>
@@ -407,13 +407,6 @@ I...]]></title>
             <pubDate>Thu, 03 Aug 2023 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Contextual Integrity for Differential Privacy #2 [23w5106]]]></title>
-            <link>https://xianblog.wordpress.com/2023/08/03/contextual-integrity-for-differential-privacy-2-23w5106/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/08/03/contextual-integrity-for-differential-privacy-2-23w5106/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 02 Aug 2023 22:23:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Elio Pagliarani, tra fisica e poesia]]></title>
             <link>https://keespopinga.blogspot.com/2023/08/elio-pagliarani-tra-fisica-e-poesia.html</link>
             <guid isPermaLink="false">https://keespopinga.blogspot.com/2023/08/elio-pagliarani-tra-fisica-e-poesia.html</guid>
@@ -496,13 +489,6 @@ I...]]></title>
             <guid isPermaLink="false">https://blog.plover.com/math/logic/gantos-axe.html</guid>
             <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
             <pubDate>Wed, 02 Aug 2023 01:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contextual Integrity for Differential Privacy #1 [23w5106]]]></title>
-            <link>https://xianblog.wordpress.com/2023/08/02/contextual-integrity-for-differential-privacy-1-23w5106/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/08/02/contextual-integrity-for-differential-privacy-1-23w5106/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Tue, 01 Aug 2023 22:23:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COOKIE(X) = 1/2]]></title>
@@ -848,13 +834,6 @@ I...]]></title>
             <pubDate>Mon, 31 Jul 2023 23:03:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Doug’s scared…]]></title>
-            <link>https://xianblog.wordpress.com/2023/08/01/dougs-scared/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/08/01/dougs-scared/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Mon, 31 Jul 2023 22:23:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PART III: The Four Mistaken Goals of the Discouraged Child]]></title>
             <link>https://cheesemonkeysf.blogspot.com/2023/07/part-iii-four-mistaken-goals-of.html</link>
             <guid isPermaLink="false">https://cheesemonkeysf.blogspot.com/2023/07/part-iii-four-mistaken-goals-of.html</guid>
@@ -1016,13 +995,6 @@ I...]]></title>
             <pubDate>Mon, 31 Jul 2023 00:18:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Contextual Integrity for Differential Privacy #0 [23w5106]]]></title>
-            <link>https://xianblog.wordpress.com/2023/07/31/contextual-integrity-for-differential-privacy-0-23w5106/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/07/31/contextual-integrity-for-differential-privacy-0-23w5106/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sun, 30 Jul 2023 22:23:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Knitting Math — Part II]]></title>
             <link>https://samjshah.com/2023/07/30/knitting-math-part-ii/</link>
             <guid isPermaLink="false">https://samjshah.com/2023/07/30/knitting-math-part-ii/</guid>
@@ -1126,13 +1098,6 @@ I...]]></title>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2023/07/29/arpabet-major/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Sun, 30 Jul 2023 01:16:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[off to Banff, almost [23w5106]]]></title>
-            <link>https://xianblog.wordpress.com/2023/07/30/off-to-banff-almost-23w5106/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/07/30/off-to-banff-almost-23w5106/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Sat, 29 Jul 2023 22:23:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algebra Problems of the Day (Algebra 1 Regents, June 2023 Part I)]]></title>
@@ -1240,13 +1205,6 @@ I...]]></title>
             <pubDate>Sat, 29 Jul 2023 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[insufficient Gibbs sampling]]></title>
-            <link>https://xianblog.wordpress.com/2023/07/29/insufficient-gibbs-sampling/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/07/29/insufficient-gibbs-sampling/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Fri, 28 Jul 2023 22:23:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Yucky Math Topics]]></title>
             <link>https://mathcoachblog.com/2023/07/28/yucky-math-topics/</link>
             <guid isPermaLink="false">https://mathcoachblog.com/2023/07/28/yucky-math-topics/</guid>
@@ -1322,13 +1280,6 @@ I...]]></title>
             <guid isPermaLink="false">https://richardzach.org/2023/07/converting-latex-to-html-technical-notes/</guid>
             <dc:creator><![CDATA[Richard Zach]]></dc:creator>
             <pubDate>Fri, 28 Jul 2023 02:28:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[probabilistic numerics [book review]]]></title>
-            <link>https://xianblog.wordpress.com/2023/07/28/probabilistic-numerics-book-review/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/07/28/probabilistic-numerics-book-review/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Thu, 27 Jul 2023 22:23:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Variations on Weihrauch degrees (CiE 2023)]]></title>
@@ -1485,13 +1436,6 @@ I...]]></title>
             <pubDate>Thu, 27 Jul 2023 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[what is the caption?!]]></title>
-            <link>https://xianblog.wordpress.com/2023/07/27/what-is-the-caption/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/07/27/what-is-the-caption/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2023 22:23:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paper Writing Before Overleaf]]></title>
             <link>https://blog.computationalcomplexity.org/2023/07/paper-writing-before-overleaf.html</link>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2023/07/paper-writing-before-overleaf.html</guid>
@@ -1623,6 +1567,13 @@ I...]]></title>
             <guid isPermaLink="false">https://pballew.blogspot.com/2023/07/on-this-day-in-math-july-26.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
             <pubDate>Wed, 26 Jul 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[opencalculus has moved to activecalculus.org]]></title>
+            <link>https://opencalculus.wordpress.com/2023/07/25/opencalculus-has-moved-to-activecalculus-org/</link>
+            <guid isPermaLink="false">https://opencalculus.wordpress.com/2023/07/25/opencalculus-has-moved-to-activecalculus-org/</guid>
+            <dc:creator><![CDATA[opencalculus]]></dc:creator>
+            <pubDate>Tue, 25 Jul 2023 23:40:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From the Depths of Dark Waters… #2023myreads #mtbos]]></title>
@@ -2801,13 +2752,6 @@ I...]]></title>
             <pubDate>Fri, 14 Jul 2023 21:15:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Large language models and mnemonics]]></title>
-            <link>https://www.johndcook.com/blog/2023/07/14/major-llm/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/07/14/major-llm/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Fri, 14 Jul 2023 18:17:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I dadi poliedrici]]></title>
             <link>https://ilpiccolofriedrich.blogspot.com/2023/07/i-dadi-poliedrici.html</link>
             <guid isPermaLink="false">https://ilpiccolofriedrich.blogspot.com/2023/07/i-dadi-poliedrici.html</guid>
@@ -3688,20 +3632,6 @@ I...]]></title>
             <guid isPermaLink="false">http://pbelmans.ncag.info/blog/2023/07/06/new-paper-chow-rings-quiver-moduli/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[June 2023 Geometry Regents Part II]]></title>
-            <link>https://mrburkemath.blogspot.com/2023/07/june-2023-geometry-regents-part-ii.html</link>
-            <guid isPermaLink="false">https://mrburkemath.blogspot.com/2023/07/june-2023-geometry-regents-part-ii.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Wed, 05 Jul 2023 20:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[June 2023 Algebra 1 Regents Part II]]></title>
-            <link>https://mrburkemath.blogspot.com/2023/07/june-2023-algebra-1-regents-part-ii.html</link>
-            <guid isPermaLink="false">https://mrburkemath.blogspot.com/2023/07/june-2023-algebra-1-regents-part-ii.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Wed, 05 Jul 2023 16:50:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
