@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Aug 2023 16:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 20:32:12 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/higher_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Aug 2023 16:38:09 GMT</pubDate>
+        <pubDate>Mon, 07 Aug 2023 20:32:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Sort and remove duplicates]]></title>
+            <link>https://www.johndcook.com/blog/2023/08/07/sort-u/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/08/07/sort-u/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Mon, 07 Aug 2023 18:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Time Absolute: UNIZOR.COM - Relativity 4 All - Einstein View]]></title>
             <link>https://unizor.blogspot.com/2023/08/is-time-absolute-unizorcom-relativity-4.html</link>
@@ -1273,13 +1280,6 @@ I...]]></title>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2023/07/31/contextual-integrity-for-differential-privacy-0-23w5106/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Sun, 30 Jul 2023 22:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hugh Everett III]]></title>
-            <link>https://ncatlab.org/nlab/show/Hugh+Everett+III</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Hugh+Everett+III</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 30 Jul 2023 20:55:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Knitting Math — Part II]]></title>
@@ -2808,13 +2808,6 @@ I...]]></title>
             <pubDate>Sun, 16 Jul 2023 18:44:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Symmetric functions and U-statistics]]></title>
-            <link>https://www.johndcook.com/blog/2023/07/16/symmetric-statistics/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/07/16/symmetric-statistics/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sun, 16 Jul 2023 17:56:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mortal Math]]></title>
             <link>https://www.singaporemathplus.com/2023/07/mortal-math.html</link>
             <guid isPermaLink="false">https://www.singaporemathplus.com/2023/07/mortal-math.html</guid>
@@ -3639,13 +3632,6 @@ I...]]></title>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0fzmb71</guid>
             <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Sat, 08 Jul 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FOCS Test of Time Awards]]></title>
-            <link>https://rjlipton.wpcomstaging.com/2023/07/07/focs-test-of-time-awards/</link>
-            <guid isPermaLink="false">https://rjlipton.wpcomstaging.com/2023/07/07/focs-test-of-time-awards/</guid>
-            <dc:creator><![CDATA[Gödel's Lost Letter and P=NP]]></dc:creator>
-            <pubDate>Fri, 07 Jul 2023 18:04:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
