@@ -11,9 +11,19 @@ We have collected over 600 blogs and other news sources in one place. That numbe
 
 ## Submit your blog!
 
-If you are writing about mathy things, we are happy to include you here on mathblogging.org. Either [write us an email](mailto:mathblogging.network@gmail.com) or send us a tweet [@mathblogging](https://twitter.com/mathblogging).
+If you are writing about mathy things, we are happy to include you here on mathblogging.org. Just [write us an email](mailto:mathblogging.network@gmail.com) with your blog's details.
 
-## Our team of editors
+## Our history
+
+### development
+
+mathblogging.org was founded in 2011 by Frederik von Heymann, Felix Breuer, and Peter Krautzberger. The current edition of mathblogging.org was developed by Peter Krautzberger and Samuel Coskey. All code and content is available [on GitHub](https://github.com/mathblogging).
+
+### Editors' Picks
+
+From the earliest day, we provided hand picked posts alongside the *firehose* of all posts. Between 2017 and 2022, a group of volunteer editors replaced the earlier team, bringing their hand picked favorite from across the internet to the site. We still provide the [archive of their picks](./editorPicks.html) on the site.
+
+#### our editors (emeriti)
 
 **Dana Ernst** is a professor of mathematics at <a href="http://nau.edu">Northern Arizona University</a> in Flagstaff, AZ, and blogs at <a href="danaernst.com">danaernst.com</a>. Dana is passionate about mathematics education and his scholarly activities include topics in this area. In particular, he is interested in <a href="http://maamathedmatters.blogspot.com/2013/05/what-heck-is-ibl.html">inquiry-based learning</a> (IBL) as a method for teaching mathematics. Dana is also a Special Projects Coordinator for the <a href="http://www.inquirybasedlearning.org/">Academy of Inquiry-Based Learning</a> and actively gives <a href="http://danaernst.com/category/talks">talks</a> and organizes workshops on the benefits of IBL as well as the nuts and bolts of how to implement this approach in the mathematics classroom. Together with Angie Hodge, Dana is a coauthor for <a href="http://maamathedmatters.blogspot.com/">Math Ed Matters</a>, which is a (roughly) monthly column sponsored by the <a href="http://maa.org">MAA</a>. Lastly, Dana is an avid cyclist, trail runner, and rock climber. Oh, and he enjoys drinking copious amounts of coffee.
 
@@ -23,7 +33,3 @@ If you are writing about mathy things, we are happy to include you here on mathb
 
 **Shecky Riemann** is the fanciful pseudonym of a former psychology major and lab-tech (primarily clinical genetics), who's been enamored of mathematics since childhood. Following Martin Gardner's death (2010), he was inspired to create <a href="http://math-frolic.blogspot.com/">Math-Frolic</a> blog to pay tribute to Gardner and be a cheerleader-of-sorts for those doing, or interested in, mathematics. He's especially intrigued with number theory, geometry, and the philosophical underpinnings of math. Cats, parrots and shelties adore him.
 
-
-## Site developers
-
-mathblogging.org was founded by Frederik von Heymann, Felix Breuer, and Peter Krautzberger. The current edition of mathblogging.org was developed by Peter Krautzberger and Samuel Coskey. All code and content is available [on GitHub](https://github.com/mathblogging).
