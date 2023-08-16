@@ -21,7 +21,7 @@ mathblogging.org was founded in 2011 by Frederik von Heymann, Felix Breuer, and 
 
 ### Editors' Picks
 
-From the earliest day, we provided hand picked posts alongside the *firehose* of all posts. Between 2017 and 2022, a group of volunteer editors replaced the earlier team, bringing their hand picked favorite from across the internet to the site. We still provide the [archive of their picks](./editorPicks.html) on the site.
+From the earliest day, we provided hand picked posts alongside the *firehose* of all posts. Between 2017 and 2022, a group of volunteer editors replaced the earlier team, bringing their hand picked favorite from across the internet to the site. We still provide the [archive of their picks](/editorPicks.html) on the site.
 
 #### our editors (emeriti)
 
