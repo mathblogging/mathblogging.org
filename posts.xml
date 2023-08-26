@@ -4,11 +4,53 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Aug 2023 12:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 16:37:05 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Aug 2023 12:44:24 GMT</pubDate>
+        <pubDate>Sat, 26 Aug 2023 16:37:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Parsons on Mathematical Thought (revisited?)]]></title>
+            <link>https://www.logicmatters.net/2023/08/26/parsons-on-mathematical-thought-revisited/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2023/08/26/parsons-on-mathematical-thought-revisited/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Sat, 26 Aug 2023 16:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artwork by Istvan Orosz]]></title>
+            <link>http://impossible-world.blogspot.com/2023/08/artwork-by-istvan-orosz.html</link>
+            <guid isPermaLink="false">http://impossible-world.blogspot.com/2023/08/artwork-by-istvan-orosz.html</guid>
+            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
+            <pubDate>Sat, 26 Aug 2023 15:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update on Retrodesign:  R package for Type M and Type S errors]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2023/08/26/update-on-retrodesign-r-package-for-type-m-and-type-s-errors/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/08/26/update-on-retrodesign-r-package-for-type-m-and-type-s-errors/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 26 Aug 2023 15:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sums and integration against counting measure: Part IIIa]]></title>
+            <link>https://explainingmaths.wordpress.com/2023/08/26/sums-and-integration-against-counting-measure-part-iiia/</link>
+            <guid isPermaLink="false">https://explainingmaths.wordpress.com/2023/08/26/sums-and-integration-against-counting-measure-part-iiia/</guid>
+            <dc:creator><![CDATA[Explaining mathematics]]></dc:creator>
+            <pubDate>Sat, 26 Aug 2023 14:37:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blast from the past (hot hand edition)]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2023/08/26/blast-from-the-past-hot-hand-edition/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/08/26/blast-from-the-past-hot-hand-edition/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 26 Aug 2023 13:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A small programming language]]></title>
+            <link>https://www.johndcook.com/blog/2023/08/26/awk/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/08/26/awk/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Sat, 26 Aug 2023 12:05:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Weekend reads: Australia focuses on misconduct; Retraction Watch prevails in a lawsuit; scammers threaten data quality]]></title>
             <link>https://retractionwatch.com/2023/08/26/weekend-reads-australia-focuses-on-misconduct-retraction-watch-prevails-in-a-lawsuit-scammers-threaten-data-quality/</link>
@@ -514,13 +556,6 @@
             <pubDate>Wed, 23 Aug 2023 02:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PC chair and general chair guidelines for TCS conferences]]></title>
-            <link>https://thmatters.wordpress.com/2023/08/22/1443/</link>
-            <guid isPermaLink="false">https://thmatters.wordpress.com/2023/08/22/1443/</guid>
-            <dc:creator><![CDATA[Theory Matters]]></dc:creator>
-            <pubDate>Tue, 22 Aug 2023 23:19:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Metlakatla trail [jatp]]]></title>
             <link>https://xianblog.wordpress.com/2023/08/23/metlakatla-trail-jatp/</link>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2023/08/23/metlakatla-trail-jatp/</guid>
@@ -561,13 +596,6 @@
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/726377524042612736</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Tue, 22 Aug 2023 18:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swarm 0.4 release]]></title>
-            <link>https://byorgey.wordpress.com/2023/08/22/swarm-0-4-release/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/08/22/swarm-0-4-release/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Tue, 22 Aug 2023 17:37:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Differential Logic]]></title>
@@ -1443,13 +1471,6 @@
             <guid isPermaLink="false">https://www.statschat.org.nz/2023/08/17/bunnings-npc-predictions-for-week-3-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bunnings-npc-predictions-for-week-3-2</guid>
             <dc:creator><![CDATA[Stats Chat]]></dc:creator>
             <pubDate>Wed, 16 Aug 2023 23:21:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TCS Insularity Survey Results]]></title>
-            <link>https://thmatters.wordpress.com/2023/08/16/1421/</link>
-            <guid isPermaLink="false">https://thmatters.wordpress.com/2023/08/16/1421/</guid>
-            <dc:creator><![CDATA[Theory Matters]]></dc:creator>
-            <pubDate>Wed, 16 Aug 2023 22:27:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mike’s obituary in the IMS Bulletin]]></title>
@@ -2607,13 +2628,6 @@
             <pubDate>Sun, 06 Aug 2023 09:29:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Schubert on Sunday 2: Eric Lu plays D959]]></title>
-            <link>https://www.logicmatters.net/2023/08/06/schubert-on-sunday-2-eric-lu-plays-d959/</link>
-            <guid isPermaLink="false">https://www.logicmatters.net/2023/08/06/schubert-on-sunday-2-eric-lu-plays-d959/</guid>
-            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
-            <pubDate>Sun, 06 Aug 2023 09:00:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bouton numbers: a new integer sequence]]></title>
             <link>https://aperiodical.com/2023/08/bouton-numbers-a-new-integer-sequence/</link>
             <guid isPermaLink="false">https://aperiodical.com/2023/08/bouton-numbers-a-new-integer-sequence/</guid>
@@ -2792,13 +2806,6 @@ I...]]></title>
             <guid isPermaLink="false">https://ilpiccolofriedrich.blogspot.com/2023/08/oggi-vi-propongo-una-breve-ma-splendida.html</guid>
             <dc:creator><![CDATA[Il piccolo Friedrich]]></dc:creator>
             <pubDate>Fri, 04 Aug 2023 15:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The cobbler’s son]]></title>
-            <link>https://www.johndcook.com/blog/2023/08/04/the-cobblers-son/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/08/04/the-cobblers-son/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Fri, 04 Aug 2023 14:35:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Worst waterfall in the U.S. and Doug Burgum pays me $19]]></title>
@@ -3177,6 +3184,13 @@ I...]]></title>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/07/31/in-the-real-world-people-have-goals-and-beliefs-in-a-controlled-experiment-you-have-to-endow-them/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Mon, 31 Jul 2023 18:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[operations research – what is it?]]></title>
+            <link>https://punkrockor.com/2023/07/31/operations-research-what-is-it/</link>
+            <guid isPermaLink="false">https://punkrockor.com/2023/07/31/operations-research-what-is-it/</guid>
+            <dc:creator><![CDATA[Punk Rock Operations Research]]></dc:creator>
+            <pubDate>Mon, 31 Jul 2023 17:42:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Optimisation de la fonction support]]></title>
@@ -3562,41 +3576,6 @@ I...]]></title>
             <guid isPermaLink="false">https://blog.jpolak.org/prominent-paper-retraction-in-physics-the-technological-perspective/</guid>
             <dc:creator><![CDATA[A Critical Look at Technology]]></dc:creator>
             <pubDate>Wed, 26 Jul 2023 17:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When is an algorithm not an algorithm?]]></title>
-            <link>https://thonyc.wordpress.com/2023/07/26/when-is-an-algorithm-not-an-algorithm/</link>
-            <guid isPermaLink="false">https://thonyc.wordpress.com/2023/07/26/when-is-an-algorithm-not-an-algorithm/</guid>
-            <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2023 14:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Survey of Relation Theory • 7]]></title>
-            <link>https://inquiryintoinquiry.com/2023/07/26/survey-of-relation-theory-7/</link>
-            <guid isPermaLink="false">https://inquiryintoinquiry.com/2023/07/26/survey-of-relation-theory-7/</guid>
-            <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2023 14:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview: Kyle Evans on his 2023 Fringe show, Maths at the Museum]]></title>
-            <link>https://aperiodical.com/2023/07/interview-kyle-evans-on-his-2023-fringe-show-maths-at-the-museum/</link>
-            <guid isPermaLink="false">https://aperiodical.com/2023/07/interview-kyle-evans-on-his-2023-fringe-show-maths-at-the-museum/</guid>
-            <dc:creator><![CDATA[Blackboard Bold – The Aperiodical]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2023 13:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s the story with news media insiders getting all excited about UFOs?]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2023/07/26/whats-the-story-with-news-media-insiders-getting-all-excited-about-ufos/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/07/26/whats-the-story-with-news-media-insiders-getting-all-excited-about-ufos/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2023 13:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weil photos used in Dema-lore]]></title>
-            <link>http://www.neverendingbooks.org/weil-photos-used-in-dema-lore</link>
-            <guid isPermaLink="false">http://www.neverendingbooks.org/weil-photos-used-in-dema-lore</guid>
-            <dc:creator><![CDATA[neverendingbooks]]></dc:creator>
-            <pubDate>Wed, 26 Jul 2023 13:00:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
