@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 Sep 2023 12:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 16:36:10 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 Sep 2023 12:45:25 GMT</pubDate>
+        <pubDate>Sat, 02 Sep 2023 16:36:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[The Ring of Brodgar]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2023/09/02/the-ring-of-brodgar/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2023/09/02/the-ring-of-brodgar/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Sat, 02 Sep 2023 15:47:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t distrust science, but have caution about invention]]></title>
+            <link>https://blog.jpolak.org/dont-distrust-science-but-have-caution-about-invention/</link>
+            <guid isPermaLink="false">https://blog.jpolak.org/dont-distrust-science-but-have-caution-about-invention/</guid>
+            <dc:creator><![CDATA[A Critical Look at Technology]]></dc:creator>
+            <pubDate>Sat, 02 Sep 2023 15:09:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Latest observational study shows moderate drinking associated with a very slightly lower mortality rate”]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2023/09/02/latest-observational-study-shows-moderate-drinking-associated-with-a-very-slightly-lower-mortality-rate/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/09/02/latest-observational-study-shows-moderate-drinking-associated-with-a-very-slightly-lower-mortality-rate/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 02 Sep 2023 13:20:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Weekend reads: A journey through a paper mill; Stanford president’s retractions; developments in Gino case]]></title>
             <link>https://retractionwatch.com/2023/09/02/weekend-reads-a-journey-through-a-paper-mill-stanford-presidents-retractions-developments-in-gino-case/</link>
@@ -1529,6 +1550,13 @@
             <pubDate>Wed, 23 Aug 2023 11:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[symmetric monoidal closed category]]></title>
+            <link>https://ncatlab.org/nlab/show/symmetric+monoidal+closed+category</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/symmetric+monoidal+closed+category</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 23 Aug 2023 11:02:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Με το μάτι]]></title>
             <link>https://mathhmagic.blogspot.com/2023/08/blog-post_67.html</link>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2023/08/blog-post_67.html</guid>
@@ -1800,6 +1828,13 @@
             <guid isPermaLink="false">https://www.logicmatters.net/2023/08/21/more-revised-category-theory-chapters/</guid>
             <dc:creator><![CDATA[Logic Matters]]></dc:creator>
             <pubDate>Mon, 21 Aug 2023 15:32:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLIR — Defining a New Dialect]]></title>
+            <link>https://jeremykun.com/2023/08/21/mlir-defining-a-new-dialect/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2023/08/21/mlir-defining-a-new-dialect/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Mon, 21 Aug 2023 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modes (Part 8)]]></title>
@@ -2698,13 +2733,6 @@
             <pubDate>Sun, 13 Aug 2023 13:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is carbon capture a good thing? Thoughts on carbon capture]]></title>
-            <link>https://blog.jpolak.org/is-carbon-capture-a-good-thing-thoughts-on-carbon-capture/</link>
-            <guid isPermaLink="false">https://blog.jpolak.org/is-carbon-capture-a-good-thing-thoughts-on-carbon-capture/</guid>
-            <dc:creator><![CDATA[A Critical Look at Technology]]></dc:creator>
-            <pubDate>Sun, 13 Aug 2023 12:59:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[8/13/23]]></title>
             <link>https://purenumbers.tumblr.com/post/725535972468604929</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/725535972468604929</guid>
@@ -2864,6 +2892,34 @@
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/67526</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Thu, 10 Aug 2023 21:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLIR — Using Tablegen for Passes]]></title>
+            <link>https://jeremykun.com/2023/08/10/mlir-using-tablegen-for-passes/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2023/08/10/mlir-using-tablegen-for-passes/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Thu, 10 Aug 2023 21:41:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLIR — Writing Our First Pass]]></title>
+            <link>https://jeremykun.com/2023/08/10/mlir-writing-our-first-pass/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2023/08/10/mlir-writing-our-first-pass/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Thu, 10 Aug 2023 21:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLIR — Running and Testing a Lowering]]></title>
+            <link>https://jeremykun.com/2023/08/10/mlir-running-and-testing-a-lowering/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2023/08/10/mlir-running-and-testing-a-lowering/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Thu, 10 Aug 2023 21:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLIR — Getting Started]]></title>
+            <link>https://jeremykun.com/2023/08/10/mlir-getting-started/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2023/08/10/mlir-getting-started/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Thu, 10 Aug 2023 21:32:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Math Biographies at the University of St. Andrews]]></title>
@@ -3485,27 +3541,6 @@ I...]]></title>
             <guid isPermaLink="false">https://keespopinga.blogspot.com/2023/08/elio-pagliarani-tra-fisica-e-poesia.html</guid>
             <dc:creator><![CDATA[Popinga]]></dc:creator>
             <pubDate>Wed, 02 Aug 2023 21:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The College Visits]]></title>
-            <link>https://blog.computationalcomplexity.org/2023/08/the-college-visits.html</link>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2023/08/the-college-visits.html</guid>
-            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
-            <pubDate>Wed, 02 Aug 2023 15:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From τὰ φυσικά (ta physika) to physics – III]]></title>
-            <link>https://thonyc.wordpress.com/2023/08/02/from-%25cf%2584%25e1%25bd%25b0-%25cf%2586%25cf%2585%25cf%2583%25ce%25b9%25ce%25ba%25ce%25ac-ta-physika-to-physics-iii/</link>
-            <guid isPermaLink="false">https://thonyc.wordpress.com/2023/08/02/from-%cf%84%e1%bd%b0-%cf%86%cf%85%cf%83%ce%b9%ce%ba%ce%ac-ta-physika-to-physics-iii/</guid>
-            <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
-            <pubDate>Wed, 02 Aug 2023 13:58:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“They got a result they liked, and didn’t want to think about the data.”  (A fish story related to Cannery Row)]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2023/08/02/they-got-a-result-they-liked-and-didnt-want-to-think-about-the-data-a-fish-story-related-to-cannery-row/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/08/02/they-got-a-result-they-liked-and-didnt-want-to-think-about-the-data-a-fish-story-related-to-cannery-row/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 02 Aug 2023 13:06:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
