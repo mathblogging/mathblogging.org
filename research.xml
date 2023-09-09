@@ -4,9 +4,9 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Sep 2023 04:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 08:33:43 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 Sep 2023 04:34:43 GMT</pubDate>
+        <pubDate>Sat, 09 Sep 2023 08:33:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
@@ -85,6 +85,13 @@
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2023/09/finite_model_theory_and_game_c.html</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Fri, 08 Sep 2023 14:19:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meat free meat with maths]]></title>
+            <link>https://plus.maths.org/content/meat-free-meat-maths</link>
+            <guid isPermaLink="false">https://plus.maths.org/content/meat-free-meat-maths</guid>
+            <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
+            <pubDate>Fri, 08 Sep 2023 14:17:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Another mathematician visits the ballpark – WHIP]]></title>
@@ -577,20 +584,6 @@
             <pubDate>Tue, 05 Sep 2023 13:09:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematics Colloquium Information Session (Required for All Senior Math Majors)]]></title>
-            <link>https://math.williams.edu/mathematics-colloquium-information-session-required-for-all-senior-math-majors/</link>
-            <guid isPermaLink="false">https://math.williams.edu/mathematics-colloquium-information-session-required-for-all-senior-math-majors/</guid>
-            <dc:creator><![CDATA[Blog – Mathematics & Statistics]]></dc:creator>
-            <pubDate>Tue, 05 Sep 2023 13:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Statistics Colloquium Information Session (Required for All Senior Stat Majors)]]></title>
-            <link>https://math.williams.edu/statistics-colloquium-information-session-required-for-all-senior-stat-majors/</link>
-            <guid isPermaLink="false">https://math.williams.edu/statistics-colloquium-information-session-required-for-all-senior-stat-majors/</guid>
-            <dc:creator><![CDATA[Blog – Mathematics & Statistics]]></dc:creator>
-            <pubDate>Tue, 05 Sep 2023 13:00:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Capturing the Quantum Essence: Solving Simplified Models with High Precision]]></title>
             <link>https://www.simonsfoundation.org/2023/09/05/capturing-the-quantum-essence-solving-simplified-models-with-high-precision/</link>
             <guid isPermaLink="false">https://www.simonsfoundation.org/2023/09/05/capturing-the-quantum-essence-solving-simplified-models-with-high-precision/</guid>
@@ -631,6 +624,13 @@
             <guid isPermaLink="false">https://flowingdata.com/2023/09/05/looking-for-the-best-pizza-for-different-styles/</guid>
             <dc:creator><![CDATA[FlowingData]]></dc:creator>
             <pubDate>Tue, 05 Sep 2023 09:54:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is a Flop?]]></title>
+            <link>https://nhigham.com/2023/09/05/what-is-a-flop/</link>
+            <guid isPermaLink="false">https://nhigham.com/2023/09/05/what-is-a-flop/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Tue, 05 Sep 2023 08:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Allocating Scarce Resources: TTRPG Edition]]></title>
@@ -1665,6 +1665,13 @@ I....]]></title>
             <pubDate>Tue, 29 Aug 2023 11:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hamilton, the Quaternions, and Creativity]]></title>
+            <link>https://nhigham.com/2023/08/29/hamilton-the-quaternions-and-creativity/</link>
+            <guid isPermaLink="false">https://nhigham.com/2023/08/29/hamilton-the-quaternions-and-creativity/</guid>
+            <dc:creator><![CDATA[Nick Higham]]></dc:creator>
+            <pubDate>Tue, 29 Aug 2023 09:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Al congresso UMI 2023 un laboratorio per migliorare la comunicazione della matematica]]></title>
             <link>https://maddmaths.simai.eu/divulgazione/eventi/laboratorio-comunicazione-umi/</link>
             <guid isPermaLink="false">https://maddmaths.simai.eu/divulgazione/eventi/laboratorio-comunicazione-umi/</guid>
@@ -2468,13 +2475,6 @@ I....]]></title>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/726377524042612736</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Tue, 22 Aug 2023 18:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swarm 0.4 release]]></title>
-            <link>https://byorgey.wordpress.com/2023/08/22/swarm-0-4-release/</link>
-            <guid isPermaLink="false">https://byorgey.wordpress.com/2023/08/22/swarm-0-4-release/</guid>
-            <dc:creator><![CDATA[blog :: Brent -> [String]]]></dc:creator>
-            <pubDate>Tue, 22 Aug 2023 17:37:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Differential Logic]]></title>
@@ -3399,6 +3399,13 @@ I....]]></title>
             <guid isPermaLink="false">https://www.flyingcoloursmaths.co.uk/ask-uncle-colin-fitting-a-curve/</guid>
             <dc:creator><![CDATA[Flying Colours Maths]]></dc:creator>
             <pubDate>Fri, 11 Aug 2023 19:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spheres within spheres: A journey through many dimensions]]></title>
+            <link>https://plus.maths.org/content/spheres-within-spheres-journey-through-many-dimensions</link>
+            <guid isPermaLink="false">https://plus.maths.org/content/spheres-within-spheres-journey-through-many-dimensions</guid>
+            <dc:creator><![CDATA[plus.maths.org]]></dc:creator>
+            <pubDate>Fri, 11 Aug 2023 15:54:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TØP PhotoShop mysteries]]></title>
