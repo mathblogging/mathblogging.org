@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 Sep 2023 20:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 01:40:11 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Sep 2023 20:31:02 GMT</pubDate>
+        <pubDate>Sun, 24 Sep 2023 01:40:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Bayesian diﬀerential privacy for free?]]></title>
+            <link>https://xianblog.wordpress.com/2023/09/24/bayesian-di%25ef%25ac%2580erential-privacy-for-free/</link>
+            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/09/24/bayesian-di%ef%ac%80erential-privacy-for-free/</guid>
+            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
+            <pubDate>Sat, 23 Sep 2023 22:23:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Navigating a LaTeX file]]></title>
             <link>https://www.johndcook.com/blog/2023/09/23/navigating-latex/</link>
@@ -1520,13 +1527,6 @@
             <guid isPermaLink="false">https://retractionwatch.com/2023/09/13/overturning-a-dubious-retraction-proves-difficult-for-education-professor/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Wed, 13 Sep 2023 23:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[no [Google] play]]></title>
-            <link>https://xianblog.wordpress.com/2023/09/14/no-google-play/</link>
-            <guid isPermaLink="false">https://xianblog.wordpress.com/2023/09/14/no-google-play/</guid>
-            <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
-            <pubDate>Wed, 13 Sep 2023 22:23:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sulla cresta dell’onda: intervista con Roberta Bianchini, vincitrice del Premio SIMAI 2023]]></title>
@@ -3660,20 +3660,6 @@ I....]]></title>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2023/08/23/a-lower-bound-on-the-mean-value-of-the-erdos-hooley-delta-function/</guid>
             <dc:creator><![CDATA[What's new]]></dc:creator>
             <pubDate>Thu, 24 Aug 2023 04:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scrape Yahoo search engine results with R]]></title>
-            <link>https://statsandr.com/blog/scrape-yahoo-search-engine-results-with-r/</link>
-            <guid isPermaLink="false">https://statsandr.com/blog/scrape-yahoo-search-engine-results-with-r/</guid>
-            <dc:creator><![CDATA[Stats and R]]></dc:creator>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sums and integration against counting measure: Part I]]></title>
-            <link>https://explainingmaths.wordpress.com/2023/08/23/sums-and-integration-against-counting-measure-part-i/</link>
-            <guid isPermaLink="false">https://explainingmaths.wordpress.com/2023/08/23/sums-and-integration-against-counting-measure-part-i/</guid>
-            <dc:creator><![CDATA[Explaining mathematics]]></dc:creator>
-            <pubDate>Wed, 23 Aug 2023 21:35:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
