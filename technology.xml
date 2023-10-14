@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Oct 2023 12:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 16:35:05 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Oct 2023 12:46:07 GMT</pubDate>
+        <pubDate>Sat, 14 Oct 2023 16:35:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Newton line]]></title>
+            <link>https://www.johndcook.com/blog/2023/10/14/newton-line/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/10/14/newton-line/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Sat, 14 Oct 2023 13:32:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nudgelords!]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2023/10/14/nudgelords-2/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/10/14/nudgelords-2/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sat, 14 Oct 2023 13:11:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Socks, a matching game based on an additive combinatorics problem]]></title>
+            <link>https://jeremykun.com/2023/10/14/socks-a-matching-game-based-on-an-additive-combinatorics-problem/</link>
+            <guid isPermaLink="false">https://jeremykun.com/2023/10/14/socks-a-matching-game-based-on-an-additive-combinatorics-problem/</guid>
+            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
+            <pubDate>Sat, 14 Oct 2023 13:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Praeclarum Theorema • 2]]></title>
             <link>https://inquiryintoinquiry.com/2023/10/14/praeclarum-theorema-2/</link>
@@ -2315,13 +2336,6 @@ Star Trek Voyager]]></title>
             <pubDate>Wed, 27 Sep 2023 00:47:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When there is only one group of a given size]]></title>
-            <link>https://www.johndcook.com/blog/2023/09/26/unique-group/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/09/26/unique-group/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 26 Sep 2023 21:57:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Five MIT faculty members named 2023 Simons Investigators]]></title>
             <link>https://news.mit.edu/2023/mit-faculty-named-simons-investigators-0926</link>
             <guid isPermaLink="false">https://news.mit.edu/2023/mit-faculty-named-simons-investigators-0926</guid>
@@ -3377,55 +3391,6 @@ Star Trek Voyager]]></title>
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2023/09/fair-is-foul.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 14 Sep 2023 00:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mafia in a Math Battle]]></title>
-            <link>https://blog.tanyakhovanova.com/2023/09/mafia-in-a-math-battle/</link>
-            <guid isPermaLink="false">https://blog.tanyakhovanova.com/2023/09/mafia-in-a-math-battle/</guid>
-            <dc:creator><![CDATA[Tanya Khovanova's Math Blog]]></dc:creator>
-            <pubDate>Wed, 13 Sep 2023 16:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MLIR — Verifiers]]></title>
-            <link>https://jeremykun.com/2023/09/13/mlir-verifiers/</link>
-            <guid isPermaLink="false">https://jeremykun.com/2023/09/13/mlir-verifiers/</guid>
-            <dc:creator><![CDATA[Math ∩ Programming]]></dc:creator>
-            <pubDate>Wed, 13 Sep 2023 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From idea to paper in just fourteen years]]></title>
-            <link>https://noncommutativeanalysis.wordpress.com/2023/09/13/from-idea-to-paper-in-just-fourteen-years/</link>
-            <guid isPermaLink="false">https://noncommutativeanalysis.wordpress.com/2023/09/13/from-idea-to-paper-in-just-fourteen-years/</guid>
-            <dc:creator><![CDATA[Noncommutative Analysis]]></dc:creator>
-            <pubDate>Wed, 13 Sep 2023 15:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From τὰ φυσικά (ta physika) to physics – VI]]></title>
-            <link>https://thonyc.wordpress.com/2023/09/13/from-%25cf%2584%25e1%25bd%25b0-%25cf%2586%25cf%2585%25cf%2583%25ce%25b9%25ce%25ba%25ce%25ac-ta-physika-to-physics-vi/</link>
-            <guid isPermaLink="false">https://thonyc.wordpress.com/2023/09/13/from-%cf%84%e1%bd%b0-%cf%86%cf%85%cf%83%ce%b9%ce%ba%ce%ac-ta-physika-to-physics-vi/</guid>
-            <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
-            <pubDate>Wed, 13 Sep 2023 13:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Horizontal and vertical complexity]]></title>
-            <link>https://blog.plover.com/prog/vertical-complexity.html</link>
-            <guid isPermaLink="false">https://blog.plover.com/prog/vertical-complexity.html</guid>
-            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
-            <pubDate>Wed, 13 Sep 2023 13:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crypto scam social science thoughts:  The role of the elite news media and academia]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2023/09/13/crypto-scam-social-science-thoughts-the-role-of-the-elite-news-media-and-academia/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/09/13/crypto-scam-social-science-thoughts-the-role-of-the-elite-news-media-and-academia/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 13 Sep 2023 13:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[aText:  A Useful Tool]]></title>
-            <link>https://symmetricblog.wordpress.com/2023/09/13/atext-a-useful-tool/</link>
-            <guid isPermaLink="false">https://symmetricblog.wordpress.com/2023/09/13/atext-a-useful-tool/</guid>
-            <dc:creator><![CDATA[Solvable by Radicals]]></dc:creator>
-            <pubDate>Wed, 13 Sep 2023 13:10:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
