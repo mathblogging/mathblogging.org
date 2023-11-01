@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Nov 2023 16:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 20:32:31 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Nov 2023 16:38:30 GMT</pubDate>
+        <pubDate>Wed, 01 Nov 2023 20:32:31 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[SIMD, memory locality, vectorization, and branch point prediction]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2023/11/01/simd-memory-locality-vectorization-and-branch-point-prediction/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/11/01/simd-memory-locality-vectorization-and-branch-point-prediction/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Wed, 01 Nov 2023 19:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optimism and Pessimism about CUREs]]></title>
+            <link>https://symmetricblog.wordpress.com/2023/11/01/optimism-and-pessimism-about-cures/</link>
+            <guid isPermaLink="false">https://symmetricblog.wordpress.com/2023/11/01/optimism-and-pessimism-about-cures/</guid>
+            <dc:creator><![CDATA[Solvable by Radicals]]></dc:creator>
+            <pubDate>Wed, 01 Nov 2023 17:37:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using classical statistics to avoid regulatory burden]]></title>
+            <link>https://www.johndcook.com/blog/2023/11/01/using-classical-statistics-to-avoid-regulatory-burden/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/11/01/using-classical-statistics-to-avoid-regulatory-burden/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Wed, 01 Nov 2023 16:14:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Applications Open for 2024 – 2025 Flatiron Institute Inclusion, Diversity, Equity, Advocacy (IDEA) Scholar Program]]></title>
             <link>https://www.simonsfoundation.org/2023/11/01/applications-open-for-2024-2025-flatiron-institute-inclusion-diversity-equity-advocacy-idea-scholar-program/</link>
@@ -565,13 +586,6 @@
             <pubDate>Sun, 29 Oct 2023 16:27:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Estimating fractions on a number line practice cards]]></title>
-            <link>https://www.scaffoldedmath.com/2023/10/estimating-fractions-on-a-numberline.html</link>
-            <guid isPermaLink="false">https://www.scaffoldedmath.com/2023/10/estimating-fractions-on-a-numberline.html</guid>
-            <dc:creator><![CDATA[Scaffolded Math and Science]]></dc:creator>
-            <pubDate>Sun, 29 Oct 2023 16:20:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[apply international humanitarian law, including the principle of proportionality and distinction]]></title>
             <link>https://xianblog.wordpress.com/2023/10/29/apply-international-humanitarian-law-including-the-principle-of-proportionality-and-distinction/</link>
             <guid isPermaLink="false">https://xianblog.wordpress.com/2023/10/29/apply-international-humanitarian-law-including-the-principle-of-proportionality-and-distinction/</guid>
@@ -752,6 +766,13 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2023/10/28/off-to-luminy-autumn-school-in-bayesian-statistics-2/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Fri, 27 Oct 2023 22:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Think Computationally about AI, the Universe and Everything]]></title>
+            <link>https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/</link>
+            <guid isPermaLink="false">https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/</guid>
+            <dc:creator><![CDATA[Stephen Wolfram Writings]]></dc:creator>
+            <pubDate>Fri, 27 Oct 2023 19:47:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Math Horror Movies: Children]]></title>
@@ -2633,6 +2654,13 @@ lowonclich...]]></title>
             <pubDate>Fri, 13 Oct 2023 13:03:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Budget Project for High School Consumer Math]]></title>
+            <link>https://www.scaffoldedmath.com/2023/09/budger-project-for-high-school-consumer-math.html</link>
+            <guid isPermaLink="false">https://www.scaffoldedmath.com/2023/09/budger-project-for-high-school-consumer-math.html</guid>
+            <dc:creator><![CDATA[Scaffolded Math and Science]]></dc:creator>
+            <pubDate>Fri, 13 Oct 2023 12:59:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Movie Functions Quiz #2]]></title>
             <link>https://mrburkemath.blogspot.com/2023/10/movie-functions-quiz-2.html</link>
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2023/10/movie-functions-quiz-2.html</guid>
@@ -3151,13 +3179,6 @@ lowonclich...]]></title>
             <pubDate>Sat, 07 Oct 2023 13:25:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tanh and elementary symmetric polynomials]]></title>
-            <link>https://www.johndcook.com/blog/2023/10/07/tanh-sum-proof/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/10/07/tanh-sum-proof/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sat, 07 Oct 2023 10:14:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Are half the words in English from French?]]></title>
             <link>http://www.bbc.co.uk/programmes/p0gjy078</link>
             <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0gjy078</guid>
@@ -3485,13 +3506,6 @@ lowonclich...]]></title>
             <guid isPermaLink="false">https://ests.wordpress.com/2023/10/02/2-8-october/</guid>
             <dc:creator><![CDATA[European Set Theory Society]]></dc:creator>
             <pubDate>Mon, 02 Oct 2023 04:48:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Challenges in combinatorial design theory]]></title>
-            <link>https://cameroncounts.wordpress.com/2023/10/01/challenges-in-combinatorial-design-theory/</link>
-            <guid isPermaLink="false">https://cameroncounts.wordpress.com/2023/10/01/challenges-in-combinatorial-design-theory/</guid>
-            <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
-            <pubDate>Sun, 01 Oct 2023 16:58:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
