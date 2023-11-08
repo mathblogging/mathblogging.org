@@ -4,17 +4,45 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Nov 2023 08:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 12:49:57 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Nov 2023 08:36:19 GMT</pubDate>
+        <pubDate>Wed, 08 Nov 2023 12:49:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[Roman Sauer]]></title>
-            <link>https://ncatlab.org/nlab/show/Roman+Sauer</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Roman+Sauer</guid>
+            <title><![CDATA[Your chance to see Martin Shkreli unironically say "Pay it forward."]]></title>
+            <link>https://observationalepidemiology.blogspot.com/2023/11/your-chance-to-see-martin-shkreli.html</link>
+            <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2023/11/your-chance-to-see-martin-shkreli.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Wed, 08 Nov 2023 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PATE framework for differentially private machine learning]]></title>
+            <link>https://www.johndcook.com/blog/2023/11/08/pate-framework/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/11/08/pate-framework/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Wed, 08 Nov 2023 11:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ChatGPT Meets Elchanan Mossel’s Dice Problem]]></title>
+            <link>https://gilkalai.wordpress.com/2023/11/08/chatgpt-meets-elchanan-mossels-dice-problem/</link>
+            <guid isPermaLink="false">https://gilkalai.wordpress.com/2023/11/08/chatgpt-meets-elchanan-mossels-dice-problem/</guid>
+            <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
+            <pubDate>Wed, 08 Nov 2023 10:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alan S. Cigoli]]></title>
+            <link>https://ncatlab.org/nlab/show/Alan+S.+Cigoli</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Alan+S.+Cigoli</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 08 Nov 2023 06:35:36 GMT</pubDate>
+            <pubDate>Wed, 08 Nov 2023 10:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boethius]]></title>
+            <link>https://johncarlosbaez.wordpress.com/2023/11/08/boethius/</link>
+            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2023/11/08/boethius/</guid>
+            <dc:creator><![CDATA[Azimuth]]></dc:creator>
+            <pubDate>Wed, 08 Nov 2023 09:55:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Origami και αεροδιαστημική!]]></title>
@@ -2266,6 +2294,13 @@
             <pubDate>Mon, 23 Oct 2023 11:24:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[La scacchiera a pezzi]]></title>
+            <link>http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2023/10/23/la-scacchiera-a-pezzi/</link>
+            <guid isPermaLink="false">http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/2023/10/23/la-scacchiera-a-pezzi/</guid>
+            <dc:creator><![CDATA[Rudi Matematici]]></dc:creator>
+            <pubDate>Mon, 23 Oct 2023 06:00:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Arthur and me talk]]></title>
             <link>https://jd2718.org/2023/10/22/arthur-and-me-talk/</link>
             <guid isPermaLink="false">https://jd2718.org/2023/10/22/arthur-and-me-talk/</guid>
@@ -3179,13 +3214,6 @@ lowonclich...]]></title>
             <pubDate>Thu, 12 Oct 2023 18:42:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Homework problems are rigged]]></title>
-            <link>https://www.johndcook.com/blog/2023/10/12/homework-problems-are-rigged/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/10/12/homework-problems-are-rigged/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Thu, 12 Oct 2023 14:19:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Measuring Quantum Progress]]></title>
             <link>https://blog.computationalcomplexity.org/2023/10/measuring-quantum-progress.html</link>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2023/10/measuring-quantum-progress.html</guid>
@@ -3527,20 +3555,6 @@ lowonclich...]]></title>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/10/08/the-ministry-of-food-sez-potatoes-are-fattening/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Sun, 08 Oct 2023 13:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Online activities 9 – 15 October]]></title>
-            <link>https://ests.wordpress.com/2023/10/08/online-activities-9-15-october/</link>
-            <guid isPermaLink="false">https://ests.wordpress.com/2023/10/08/online-activities-9-15-october/</guid>
-            <dc:creator><![CDATA[European Set Theory Society]]></dc:creator>
-            <pubDate>Sun, 08 Oct 2023 11:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inferno, canto XX]]></title>
-            <link>http://proooof.blogspot.com/2023/10/inferno-canto-xx.html</link>
-            <guid isPermaLink="false">http://proooof.blogspot.com/2023/10/inferno-canto-xx.html</guid>
-            <dc:creator><![CDATA[Gli studenti di oggi]]></dc:creator>
-            <pubDate>Sun, 08 Oct 2023 09:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
