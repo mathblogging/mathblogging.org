@@ -4,11 +4,53 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Nov 2023 12:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 16:39:10 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Nov 2023 12:51:13 GMT</pubDate>
+        <pubDate>Mon, 27 Nov 2023 16:39:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Leon Menger]]></title>
+            <link>https://ncatlab.org/nlab/show/Leon+Menger</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Leon+Menger</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Mon, 27 Nov 2023 15:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unix linguistics]]></title>
+            <link>https://www.johndcook.com/blog/2023/11/27/unix-linguistics/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/11/27/unix-linguistics/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Mon, 27 Nov 2023 15:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hey!  Here’s now to rewrite and improve the title and abstract of a scientific paper:]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2023/11/27/rewriting-a-title-and-abstract-to-a-scientific-paper/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/11/27/rewriting-a-title-and-abstract-to-a-scientific-paper/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Mon, 27 Nov 2023 14:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pierre de Fermat’s Link to a High School Student’s Prime Math Proof — Quanta Magazine]]></title>
+            <link>https://mrhonner.com/archives/21569</link>
+            <guid isPermaLink="false">https://mrhonner.com/archives/21569</guid>
+            <dc:creator><![CDATA[Mr Honner]]></dc:creator>
+            <pubDate>Mon, 27 Nov 2023 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Problem With How You Discuss Reading]]></title>
+            <link>https://thejosevilson.com/the-problem-with-how-you-discuss-reading/</link>
+            <guid isPermaLink="false">https://thejosevilson.com/the-problem-with-how-you-discuss-reading/</guid>
+            <dc:creator><![CDATA[The Jose Vilson]]></dc:creator>
+            <pubDate>Mon, 27 Nov 2023 13:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Differential Propositional Calculus • 12]]></title>
+            <link>https://inquiryintoinquiry.com/2023/11/27/differential-propositional-calculus-a-12/</link>
+            <guid isPermaLink="false">https://inquiryintoinquiry.com/2023/11/27/differential-propositional-calculus-a-12/</guid>
+            <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
+            <pubDate>Mon, 27 Nov 2023 13:42:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Proof in a Poem . . .]]></title>
             <link>https://poetrywithmathematics.blogspot.com/2023/11/a-proof-in-poem.html</link>
@@ -73,13 +115,6 @@
             <pubDate>Mon, 27 Nov 2023 08:28:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tung Tran]]></title>
-            <link>https://ncatlab.org/nlab/show/Tung+Tran</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Tung+Tran</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Mon, 27 Nov 2023 07:28:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - November 27]]></title>
             <link>https://pballew.blogspot.com/2023/11/on-this-day-in-math-november-27.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2023/11/on-this-day-in-math-november-27.html</guid>
@@ -108,7 +143,7 @@
             <pubDate>Mon, 27 Nov 2023 04:27:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can I make money in the betting markets based on what i ``know'' about the Republican VP choide]]></title>
+            <title><![CDATA[Can I make money in the betting markets based on what i ``know'' about the Republican VP choice]]></title>
             <link>https://blog.computationalcomplexity.org/2023/11/can-i-make-money-in-betting-markets.html</link>
             <guid isPermaLink="false">https://blog.computationalcomplexity.org/2023/11/can-i-make-money-in-betting-markets.html</guid>
             <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
@@ -120,6 +155,20 @@
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/735100949148860416</guid>
             <dc:creator><![CDATA[Pure Numbers Daily Blog]]></dc:creator>
             <pubDate>Mon, 27 Nov 2023 01:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Qmail example of dealing with unavoidable race conditions]]></title>
+            <link>https://blog.plover.com/prog/erlang-race-condition-2.html</link>
+            <guid isPermaLink="false">https://blog.plover.com/prog/erlang-race-condition-2.html</guid>
+            <dc:creator><![CDATA[The Universe of Discourse]]></dc:creator>
+            <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to data manipulation in R with {dplyr}]]></title>
+            <link>https://statsandr.com/blog/introduction-to-data-manipulation-in-r-with-dplyr/</link>
+            <guid isPermaLink="false">https://statsandr.com/blog/introduction-to-data-manipulation-in-r-with-dplyr/</guid>
+            <dc:creator><![CDATA[Stats and R]]></dc:creator>
+            <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[off to St. Kilda]]></title>
@@ -402,13 +451,6 @@
             <pubDate>Fri, 24 Nov 2023 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Four female philosophers]]></title>
-            <link>https://alanrendall.wordpress.com/2023/11/24/four-female-philosophers/</link>
-            <guid isPermaLink="false">https://alanrendall.wordpress.com/2023/11/24/four-female-philosophers/</guid>
-            <dc:creator><![CDATA[Hydrobates]]></dc:creator>
-            <pubDate>Fri, 24 Nov 2023 12:33:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Toddlers and stochastic parrots]]></title>
             <link>https://flowingdata.com/2023/11/24/toddlers-and-stochastic-parrots/</link>
             <guid isPermaLink="false">https://flowingdata.com/2023/11/24/toddlers-and-stochastic-parrots/</guid>
@@ -498,13 +540,6 @@
             <guid isPermaLink="false">https://mindyourdecisions.com/blog/2023/11/23/math-problem-from-peanuts-comic/</guid>
             <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
             <pubDate>Thu, 23 Nov 2023 15:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Talk on personalized tumour therapy in pediatrics]]></title>
-            <link>https://alanrendall.wordpress.com/2023/11/23/talk-on-personalized-tumour-therapy-in-pediatrics/</link>
-            <guid isPermaLink="false">https://alanrendall.wordpress.com/2023/11/23/talk-on-personalized-tumour-therapy-in-pediatrics/</guid>
-            <dc:creator><![CDATA[Hydrobates]]></dc:creator>
-            <pubDate>Thu, 23 Nov 2023 15:39:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zipf’s law and Heaps’s law.  Also, when is big as bad as infinity?  And why unit roots aren’t all that.]]></title>
@@ -1345,13 +1380,6 @@
             <guid isPermaLink="false">https://matematicas11235813.luismiglesias.es/2023/11/17/entrevista-tv-sobre-la-importancia-de-la-direccion-escolar-y-la-vocacion-como-motor-del-docente/</guid>
             <dc:creator><![CDATA[MatemáTICas: 1,1,2,3,5,8,13,…]]></dc:creator>
             <pubDate>Thu, 16 Nov 2023 23:38:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Differential Propositional Calculus • 2]]></title>
-            <link>https://inquiryintoinquiry.com/2023/11/16/differential-propositional-calculus-a-2/</link>
-            <guid isPermaLink="false">https://inquiryintoinquiry.com/2023/11/16/differential-propositional-calculus-a-2/</guid>
-            <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
-            <pubDate>Thu, 16 Nov 2023 22:32:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inverting a Function]]></title>
@@ -2726,13 +2754,6 @@
             <pubDate>Fri, 03 Nov 2023 20:00:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fax machines in the 21st century]]></title>
-            <link>https://www.johndcook.com/blog/2023/11/03/fax-machines/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2023/11/03/fax-machines/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Fri, 03 Nov 2023 19:55:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Online activities 6 – 12 November]]></title>
             <link>https://ests.wordpress.com/2023/11/03/online-activities-6-12-november/</link>
             <guid isPermaLink="false">https://ests.wordpress.com/2023/11/03/online-activities-6-12-november/</guid>
@@ -3050,13 +3071,6 @@
             <pubDate>Tue, 31 Oct 2023 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Schauder fixed point theorem and Leray-Schauder theory]]></title>
-            <link>https://alanrendall.wordpress.com/2023/10/31/the-schauder-fixed-point-theorem-and-leray-schauder-theory/</link>
-            <guid isPermaLink="false">https://alanrendall.wordpress.com/2023/10/31/the-schauder-fixed-point-theorem-and-leray-schauder-theory/</guid>
-            <dc:creator><![CDATA[Hydrobates]]></dc:creator>
-            <pubDate>Tue, 31 Oct 2023 10:34:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rivoluzioni matematiche: Il teorema delle scelte impossibili]]></title>
             <link>https://maddmaths.simai.eu/divulgazione/letture-matematiche/scelte-impossibili-licalzi/</link>
             <guid isPermaLink="false">https://maddmaths.simai.eu/divulgazione/letture-matematiche/scelte-impossibili-licalzi/</guid>
@@ -3293,34 +3307,6 @@
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2023/10/math-horror-movies-children.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Fri, 27 Oct 2023 16:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harvard, we have a problem]]></title>
-            <link>https://windowsontheory.org/2023/10/27/harvard-we-have-a-problem/</link>
-            <guid isPermaLink="false">https://windowsontheory.org/2023/10/27/harvard-we-have-a-problem/</guid>
-            <dc:creator><![CDATA[Windows On Theory]]></dc:creator>
-            <pubDate>Fri, 27 Oct 2023 16:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blue Rose Research is hiring (yet again) !]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2023/10/27/blue-rose-research-is-hiring-yet-again/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/10/27/blue-rose-research-is-hiring-yet-again/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 27 Oct 2023 14:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From τὰ φυσικά (ta physika) to physics – IX]]></title>
-            <link>https://thonyc.wordpress.com/2023/10/27/from-%25cf%2584%25e1%25bd%25b0-%25cf%2586%25cf%2585%25cf%2583%25ce%25b9%25ce%25ba%25ce%25ac-ta-physika-to-physics-ix/</link>
-            <guid isPermaLink="false">https://thonyc.wordpress.com/2023/10/27/from-%cf%84%e1%bd%b0-%cf%86%cf%85%cf%83%ce%b9%ce%ba%ce%ac-ta-physika-to-physics-ix/</guid>
-            <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
-            <pubDate>Fri, 27 Oct 2023 13:27:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Experts and the politics of disaster prevention]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2023/10/27/experts-and-the-politics-of-disaster-prevention/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2023/10/27/experts-and-the-politics-of-disaster-prevention/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Fri, 27 Oct 2023 13:20:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
