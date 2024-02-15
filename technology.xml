@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Feb 2024 08:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 12:44:35 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Feb 2024 08:34:59 GMT</pubDate>
+        <pubDate>Thu, 15 Feb 2024 12:44:35 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Putnam 2023 A1-A3]]></title>
+            <link>https://mathproblems123.wordpress.com/2024/02/15/putnam-2023-a1-a3/</link>
+            <guid isPermaLink="false">https://mathproblems123.wordpress.com/2024/02/15/putnam-2023-a1-a3/</guid>
+            <dc:creator><![CDATA[Beni Bogoşel's blog]]></dc:creator>
+            <pubDate>Thu, 15 Feb 2024 10:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BrailleR, a R package to improve access for blind users]]></title>
+            <link>https://flowingdata.com/2024/02/15/brailler-a-r-package-to-improve-access-for-blind-users/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2024/02/15/brailler-a-r-package-to-improve-access-for-blind-users/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Thu, 15 Feb 2024 08:48:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Δυο πόρτες]]></title>
             <link>https://mathhmagic.blogspot.com/2024/02/blog-post_50.html</link>
@@ -176,13 +190,6 @@
             <guid isPermaLink="false">https://thonyc.wordpress.com/2024/02/14/magnetic-variations-vi-de-magnete/</guid>
             <dc:creator><![CDATA[The Renaissance Mathematicus]]></dc:creator>
             <pubDate>Wed, 14 Feb 2024 07:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lucile Vandembroucq]]></title>
-            <link>https://ncatlab.org/nlab/show/Lucile+Vandembroucq</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Lucile+Vandembroucq</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Wed, 14 Feb 2024 07:05:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cartesian versus Symmetric Monoidal]]></title>
@@ -1018,13 +1025,6 @@
             <pubDate>Thu, 08 Feb 2024 17:55:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Serge Tabachnikov]]></title>
-            <link>https://ncatlab.org/nlab/show/Serge+Tabachnikov</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Serge+Tabachnikov</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 08 Feb 2024 17:01:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Your PDF may reveal more than you intend]]></title>
             <link>https://www.johndcook.com/blog/2024/02/08/pdf-forensics/</link>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2024/02/08/pdf-forensics/</guid>
@@ -1361,13 +1361,6 @@
             <pubDate>Tue, 06 Feb 2024 09:27:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Researchers might have found Amelia Earhart’s crashed plane]]></title>
-            <link>https://flowingdata.com/2024/02/06/researchers-might-have-found-amelia-earharts-crashed-plane/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2024/02/06/researchers-might-have-found-amelia-earharts-crashed-plane/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Tue, 06 Feb 2024 08:30:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Before there were Four-Fours, there were four threes, and several others]]></title>
             <link>https://pballew.blogspot.com/2024/02/before-there-were-four-fours-there-were.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2024/02/before-there-were-four-fours-there-were.html</guid>
@@ -1478,6 +1471,13 @@
             <guid isPermaLink="false">https://threesixty360.wordpress.com/2024/02/05/monday-morning-math-honoring-black-mathematicians/</guid>
             <dc:creator><![CDATA[360]]></dc:creator>
             <pubDate>Mon, 05 Feb 2024 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“CP-semigroups and dilations… and beyond” is now in print]]></title>
+            <link>https://noncommutativeanalysis.wordpress.com/2024/02/05/cp-semigroups-and-dilations-and-beyond-is-now-in-print/</link>
+            <guid isPermaLink="false">https://noncommutativeanalysis.wordpress.com/2024/02/05/cp-semigroups-and-dilations-and-beyond-is-now-in-print/</guid>
+            <dc:creator><![CDATA[Noncommutative Analysis]]></dc:creator>
+            <pubDate>Mon, 05 Feb 2024 11:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quella strana parentela tra pulcini, pesci e rane]]></title>
@@ -3753,27 +3753,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/01/15/progress-in-2023-aki-edition/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Mon, 15 Jan 2024 14:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the Iowa caucus, the Golden Globes of American politics]]></title>
-            <link>https://observationalepidemiology.blogspot.com/2024/01/welcome-to-iowa-caucus-golden-globes-of.html</link>
-            <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2024/01/welcome-to-iowa-caucus-golden-globes-of.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Mon, 15 Jan 2024 12:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Base 64 encoding remainder problem]]></title>
-            <link>https://www.johndcook.com/blog/2024/01/15/base-64-remainder/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2024/01/15/base-64-remainder/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Mon, 15 Jan 2024 12:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Giovanni Battista Doni]]></title>
-            <link>https://johncarlosbaez.wordpress.com/2024/01/15/giovanni-battista-doni/</link>
-            <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2024/01/15/giovanni-battista-doni/</guid>
-            <dc:creator><![CDATA[Azimuth]]></dc:creator>
-            <pubDate>Mon, 15 Jan 2024 10:00:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
