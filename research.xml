@@ -4,11 +4,39 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 May 2024 04:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 08:35:24 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 May 2024 04:35:25 GMT</pubDate>
+        <pubDate>Fri, 03 May 2024 08:35:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Timothy Chow on the NF consistency proof and Lean]]></title>
+            <link>https://www.logicmatters.net/2024/05/03/timothy-chow-on-the-nf-consistency-proof-and-lean/</link>
+            <guid isPermaLink="false">https://www.logicmatters.net/2024/05/03/timothy-chow-on-the-nf-consistency-proof-and-lean/</guid>
+            <dc:creator><![CDATA[Logic Matters]]></dc:creator>
+            <pubDate>Fri, 03 May 2024 07:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Victorian Political Correctness, Math Terminology, and Urban Legends]]></title>
+            <link>https://pballew.blogspot.com/2024/05/victorian-political-correctness-math.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2024/05/victorian-political-correctness-math.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 03 May 2024 05:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Much We Work]]></title>
+            <link>https://flowingdata.com/2024/05/02/how-much-we-work/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2024/05/02/how-much-we-work/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Fri, 03 May 2024 05:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day in Math - May 3]]></title>
+            <link>https://pballew.blogspot.com/2024/05/on-this-day-in-math-may-3.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2024/05/on-this-day-in-math-may-3.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 03 May 2024 05:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ενσυναίσθηση]]></title>
             <link>https://mathhmagic.blogspot.com/2024/05/blog-post_54.html</link>
@@ -36,27 +64,6 @@
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2024/05/blog-post_3.html</guid>
             <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
             <pubDate>Fri, 03 May 2024 04:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hahn decomposition theorem]]></title>
-            <link>https://ncatlab.org/nlab/show/Hahn+decomposition+theorem</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Hahn+decomposition+theorem</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 03 May 2024 03:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[σ-ideal]]></title>
-            <link>https://ncatlab.org/nlab/show/%25CF%2583-ideal</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/%CF%83-ideal</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 03 May 2024 03:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[categories of measure theory]]></title>
-            <link>https://ncatlab.org/nlab/show/categories+of+measure+theory</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/categories+of+measure+theory</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 03 May 2024 03:17:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oxford Entrance Exam Shortest Distance Two Circles]]></title>
@@ -1268,13 +1275,6 @@ Acab because the...]]></title>
             <pubDate>Wed, 24 Apr 2024 07:30:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Who is Sleeping, by Age and Time]]></title>
-            <link>https://flowingdata.com/2024/04/24/who-is-sleeping-by-age-and-time/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2024/04/24/who-is-sleeping-by-age-and-time/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Wed, 24 Apr 2024 07:09:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pythagorean Parabolas]]></title>
             <link>https://pballew.blogspot.com/2024/04/pythagorean-parabolas.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2024/04/pythagorean-parabolas.html</guid>
@@ -2318,20 +2318,6 @@ Acab because the...]]></title>
             <pubDate>Mon, 15 Apr 2024 06:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mathematical Induction, A Brief History of the Term]]></title>
-            <link>https://pballew.blogspot.com/2024/04/mathematical-induction-brief-history-of.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2024/04/mathematical-induction-brief-history-of.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 15 Apr 2024 05:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On This Day in Math - April 15]]></title>
-            <link>https://pballew.blogspot.com/2024/04/on-this-day-in-math-april-15.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2024/04/on-this-day-in-math-april-15.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Mon, 15 Apr 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Semi-Simplicial Types, Part II: The Main Results]]></title>
             <link>https://golem.ph.utexas.edu/category/2024/04/semi-simplicial_types_part_ii_the_main_results.html</link>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2024/04/semi-simplicial_types_part_ii_the_main_results.html</guid>
@@ -3254,13 +3240,6 @@ Acab because the...]]></title>
             <guid isPermaLink="false">https://feeds.feedblitz.com/~/874864826/0/oupblogmathematics/</guid>
             <dc:creator><![CDATA[OUPblog » Mathematics]]></dc:creator>
             <pubDate>Tue, 02 Apr 2024 09:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Random Circuit Sampling: Fourier Expansion and Statistics]]></title>
-            <link>https://gilkalai.wordpress.com/2024/04/02/random-circuit-sampling-fourier-expansion-and-statistics/</link>
-            <guid isPermaLink="false">https://gilkalai.wordpress.com/2024/04/02/random-circuit-sampling-fourier-expansion-and-statistics/</guid>
-            <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
-            <pubDate>Tue, 02 Apr 2024 08:24:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
