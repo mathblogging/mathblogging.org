@@ -4,17 +4,38 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 May 2024 12:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 16:37:11 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 May 2024 12:47:14 GMT</pubDate>
+        <pubDate>Sun, 26 May 2024 16:37:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Is there a balance to be struck between simple hierarchical models and more complex hierarchical models that augment the simple frameworks with more modeled interactions when analyzing real data?]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2024/05/26/is-there-a-balance-to-be-struck-between-simple-hierarchical-models-and-more-complex-hierarchical-models-that-augment-the-simple-frameworks-with-more-modeled-interactions-when-analyzing-real-data/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/05/26/is-there-a-balance-to-be-struck-between-simple-hierarchical-models-and-more-complex-hierarchical-models-that-augment-the-simple-frameworks-with-more-modeled-interactions-when-analyzing-real-data/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Sun, 26 May 2024 13:26:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Το "χρηστικό" της Κυριακής]]></title>
+            <link>https://mathhmagic.blogspot.com/2024/05/blog-post_67.html</link>
+            <guid isPermaLink="false">https://mathhmagic.blogspot.com/2024/05/blog-post_67.html</guid>
+            <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
+            <pubDate>Sun, 26 May 2024 12:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wild Knots are Wildly Difficult to Classify]]></title>
             <link>https://golem.ph.utexas.edu/category/2024/05/wild_knots_are_wildly_difficul.html</link>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2024/05/wild_knots_are_wildly_difficul.html</guid>
             <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
             <pubDate>Sun, 26 May 2024 12:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cat and Dog]]></title>
+            <link>http://impossible-world.blogspot.com/2024/05/cat-and-dog.html</link>
+            <guid isPermaLink="false">http://impossible-world.blogspot.com/2024/05/cat-and-dog.html</guid>
+            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
+            <pubDate>Sun, 26 May 2024 12:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Langweiliger Unterricht]]></title>
@@ -1784,13 +1805,6 @@ STACKINGSol Lewitt
             <pubDate>Mon, 13 May 2024 07:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Σαφάρι]]></title>
-            <link>https://mathhmagic.blogspot.com/2024/05/blog-post_13.html</link>
-            <guid isPermaLink="false">https://mathhmagic.blogspot.com/2024/05/blog-post_13.html</guid>
-            <dc:creator><![CDATA[Μαθη...μαγικά]]></dc:creator>
-            <pubDate>Mon, 13 May 2024 06:19:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On This Day in Math - May 13]]></title>
             <link>https://pballew.blogspot.com/2024/05/on-this-day-in-math-may-13.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2024/05/on-this-day-in-math-may-13.html</guid>
@@ -2440,6 +2454,13 @@ STACKINGSol Lewitt
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/05/06/mcmc-draws-cannot-fill-the-posterior-in-high-dimensions/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Mon, 06 May 2024 20:41:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minimal injective superstrings: A simpler generalization of superpermutations]]></title>
+            <link>https://njohnston.ca/2024/05/minimal-injective-superstrings-a-simpler-generalization-of-superpermutations/</link>
+            <guid isPermaLink="false">https://njohnston.ca/2024/05/minimal-injective-superstrings-a-simpler-generalization-of-superpermutations/</guid>
+            <dc:creator><![CDATA[Nathaniel Johnston]]></dc:creator>
+            <pubDate>Mon, 06 May 2024 18:52:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Impossible triangle]]></title>
@@ -3266,34 +3287,6 @@ STACKINGSol Lewitt
             <guid isPermaLink="false">https://richb.rice.edu/2024/04/25/nsf-invests-90m-in-innovative-national-scientific-cyberinfrastructure-for-transforming-stem-education/</guid>
             <dc:creator><![CDATA[[UNTITLED BLOG]]]></dc:creator>
             <pubDate>Thu, 25 Apr 2024 18:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erratum for “An inverse theorem for the Gowers U^{s+1}[N]-norm”]]></title>
-            <link>https://terrytao.wordpress.com/2024/04/25/erratum-for-an-inverse-theorem-for-the-gowers-us1n-norm/</link>
-            <guid isPermaLink="false">https://terrytao.wordpress.com/2024/04/25/erratum-for-an-inverse-theorem-for-the-gowers-us1n-norm/</guid>
-            <dc:creator><![CDATA[What's new]]></dc:creator>
-            <pubDate>Thu, 25 Apr 2024 15:41:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erratum for “An inverse theorem for the Gowers U^{s+1}[N]-norm”]]></title>
-            <link>https://terrytao.wordpress.com/2024/04/25/erratum-for-an-inverse-theorem-for-the-gowers-us1n-norm/</link>
-            <guid isPermaLink="false">https://terrytao.wordpress.com/2024/04/25/erratum-for-an-inverse-theorem-for-the-gowers-us1n-norm/</guid>
-            <dc:creator><![CDATA[What's new]]></dc:creator>
-            <pubDate>Thu, 25 Apr 2024 15:41:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geometry Problems of the Day (Geometry Regents, January 2024 Part I)]]></title>
-            <link>https://mrburkemath.blogspot.com/2024/04/geometry-problems-of-day-geometry.html</link>
-            <guid isPermaLink="false">https://mrburkemath.blogspot.com/2024/04/geometry-problems-of-day-geometry.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Thu, 25 Apr 2024 13:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Population forecasting for small areas:  an example of learning through a social network]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2024/04/25/population-forecasting-for-small-areas-an-example-of-learning-through-a-social-network/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/04/25/population-forecasting-for-small-areas-an-example-of-learning-through-a-social-network/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 25 Apr 2024 13:04:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
