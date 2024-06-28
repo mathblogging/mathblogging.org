@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Jun 2024 16:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 20:32:18 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/random_recent_posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Jun 2024 16:38:02 GMT</pubDate>
+        <pubDate>Fri, 28 Jun 2024 20:32:18 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Pick's Theorem, some history.]]></title>
+            <link>https://pballew.blogspot.com/2024/06/picks-theorem-some-history.html</link>
+            <guid isPermaLink="false">https://pballew.blogspot.com/2024/06/picks-theorem-some-history.html</guid>
+            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
+            <pubDate>Fri, 28 Jun 2024 18:21:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GCSE to A Level Transition, University Admissions Tests, end-of-term activities]]></title>
             <link>https://colleenyoung.org/2024/06/28/gcse-to-a-level-transition-university-admissions-tests-end-of-term-activities-2/</link>
@@ -29,13 +36,6 @@
             <guid isPermaLink="false">https://retractionwatch.com/2024/06/28/finland-group-downgrades-60-journals/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Fri, 28 Jun 2024 15:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ken Goodearl]]></title>
-            <link>https://ncatlab.org/nlab/show/Ken+Goodearl</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Ken+Goodearl</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 28 Jun 2024 14:58:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9th Annual July Math Dollar Deals!]]></title>
@@ -73,13 +73,6 @@ I hope this photographer won a prize]]></title>
             <guid isPermaLink="false">https://thalescircles.tumblr.com/post/754536128904921088</guid>
             <dc:creator><![CDATA[Thales’ circles]]></dc:creator>
             <pubDate>Fri, 28 Jun 2024 13:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[D=4 Yang-Mills theory]]></title>
-            <link>https://ncatlab.org/nlab/show/D%253D4+Yang-Mills+theory</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/D%3D4+Yang-Mills+theory</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 28 Jun 2024 13:27:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[D=2 Yang-Mills theory]]></title>
@@ -355,6 +348,13 @@ I hope this photographer won a prize]]></title>
             <pubDate>Wed, 26 Jun 2024 16:11:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Polya-Szego conjecture for Dirichlet-Laplace eigenvalues on polygons]]></title>
+            <link>https://mathproblems123.wordpress.com/2024/06/26/the-polya-szego-conjecture-for-dirichlet-laplace-eigenvalues-on-polygons/</link>
+            <guid isPermaLink="false">https://mathproblems123.wordpress.com/2024/06/26/the-polya-szego-conjecture-for-dirichlet-laplace-eigenvalues-on-polygons/</guid>
+            <dc:creator><![CDATA[Beni Bogoşel's blog]]></dc:creator>
+            <pubDate>Wed, 26 Jun 2024 15:18:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A script to convert a WCAG-EM report from JSON to reStructuredText for a VPAT]]></title>
             <link>https://checkmyworking.com/posts/2024/06/a-script-to-convert-a-wcag-em-report-from-json-to-restructuredtext-for-a-vpat/</link>
             <guid isPermaLink="false">https://checkmyworking.com/posts/2024/06/a-script-to-convert-a-wcag-em-report-from-json-to-restructuredtext-for-a-vpat/</guid>
@@ -509,6 +509,13 @@ I hope this photographer won a prize]]></title>
             <pubDate>Tue, 25 Jun 2024 21:31:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gradient descent: fixed step, variable step]]></title>
+            <link>https://mathproblems123.wordpress.com/2024/06/25/gradient-descent-fixed-step-variable-step/</link>
+            <guid isPermaLink="false">https://mathproblems123.wordpress.com/2024/06/25/gradient-descent-fixed-step-variable-step/</guid>
+            <dc:creator><![CDATA[Beni Bogoşel's blog]]></dc:creator>
+            <pubDate>Tue, 25 Jun 2024 21:05:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Einstein Riddle Logic Puzzle]]></title>
             <link>https://mindyourdecisions.com/blog/2024/06/25/einstein-riddle-logic-puzzle/</link>
             <guid isPermaLink="false">https://mindyourdecisions.com/blog/2024/06/25/einstein-riddle-logic-puzzle/</guid>
@@ -570,13 +577,6 @@ I hope this photographer won a prize]]></title>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2024/06/25/gamma-complex-argument/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Tue, 25 Jun 2024 11:53:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthony Joseph]]></title>
-            <link>https://ncatlab.org/nlab/show/Anthony+Joseph</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Anthony+Joseph</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Tue, 25 Jun 2024 11:45:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tuesday tweets – – when you have to dig up one-year-old professional wrestling clips to find signs of social progress]]></title>
@@ -2663,13 +2663,6 @@ forevernoon...]]></title>
             <pubDate>Sun, 09 Jun 2024 05:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On This Day in Math - June 9]]></title>
-            <link>https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-9.html</link>
-            <guid isPermaLink="false">https://pballew.blogspot.com/2024/06/on-this-day-in-math-june-9.html</guid>
-            <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sun, 09 Jun 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[6/8/24]]></title>
             <link>https://purenumbers.tumblr.com/post/752756260326326272</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/752756260326326272</guid>
@@ -3496,13 +3489,6 @@ A man is driving down the...]]></title>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/05/28/blog-was-down-and-is-now-operating-again/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Tue, 28 May 2024 20:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Condition on your data]]></title>
-            <link>https://www.johndcook.com/blog/2024/05/28/condition-on-your-data/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2024/05/28/condition-on-your-data/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 28 May 2024 16:41:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
