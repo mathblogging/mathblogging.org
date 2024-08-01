@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Aug 2024 16:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 20:33:39 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/journalism.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Aug 2024 16:40:03 GMT</pubDate>
+        <pubDate>Thu, 01 Aug 2024 20:33:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[What’s a generative model?  PyMC and Stan edition]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2024/08/01/whats-a-generative-model-pymc-and-stan-edition/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/08/01/whats-a-generative-model-pymc-and-stan-edition/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 01 Aug 2024 20:00:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vectors+ 04 - N-dimensional Vectors: UNIZOR.COM - Math+ & Problems - Vec...]]></title>
             <link>https://unizor.blogspot.com/2024/08/vectors-04-n-dimensional-vectors.html</link>
@@ -407,6 +414,13 @@
             <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2024/07/the-new-york-times-editorial-board.html</guid>
             <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
             <pubDate>Wed, 31 Jul 2024 11:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dodgson condensation]]></title>
+            <link>https://ncatlab.org/nlab/show/Dodgson+condensation</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Dodgson+condensation</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 31 Jul 2024 10:14:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From τὰ φυσικά (ta physika) to physics – XXVI]]></title>
@@ -815,6 +829,13 @@ Woodcuts from Lorenz Stoer’s Geometria et...]]></title>
             <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/</guid>
             <dc:creator><![CDATA[Azimuth]]></dc:creator>
             <pubDate>Sat, 27 Jul 2024 17:11:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[limited principle of omniscience]]></title>
+            <link>https://ncatlab.org/nlab/show/limited+principle+of+omniscience</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/limited+principle+of+omniscience</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 27 Jul 2024 16:23:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coin of Republic of Cameroon]]></title>
@@ -2436,6 +2457,13 @@ mckitteri...]]></title>
             <pubDate>Wed, 10 Jul 2024 18:55:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Milen Yakimov]]></title>
+            <link>https://ncatlab.org/nlab/show/Milen+Yakimov</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Milen+Yakimov</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Wed, 10 Jul 2024 13:44:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[(Trying to) clear up a misunderstanding about decision analysis and significance testing]]></title>
             <link>https://statmodeling.stat.columbia.edu/2024/07/10/a-misunderstanding-about-decision-analysis-and-significance-testing/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/07/10/a-misunderstanding-about-decision-analysis-and-significance-testing/</guid>
@@ -2758,13 +2786,6 @@ the-light-is-dim:derinthescarletpescatarian:kactusn...]]></title>
             <guid isPermaLink="false">https://colleenyoung.org/2024/07/07/vocabulary/</guid>
             <dc:creator><![CDATA[Mathematics, Learning and Technology]]></dc:creator>
             <pubDate>Sun, 07 Jul 2024 06:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[analytic LPO]]></title>
-            <link>https://ncatlab.org/nlab/show/analytic+LPO</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/analytic+LPO</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Sun, 07 Jul 2024 04:10:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Μηχανικοί Τριχοτόμοι, Kempe's Link]]></title>
@@ -3227,27 +3248,6 @@ the-light-is-dim:derinthescarletpescatarian:kactusn...]]></title>
             <guid isPermaLink="false">https://ests.wordpress.com/2024/07/01/online-activities-1-7-july/</guid>
             <dc:creator><![CDATA[European Set Theory Society]]></dc:creator>
             <pubDate>Mon, 01 Jul 2024 21:56:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guest Post: “Daniël Lakens: How were we supposed to move beyond  p < .05, and why didn’t we? “(part 1 of 2):]]></title>
-            <link>https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/</guid>
-            <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
-            <pubDate>Mon, 01 Jul 2024 19:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[June 2024 Geometry Regents Part II]]></title>
-            <link>https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-ii.html</link>
-            <guid isPermaLink="false">https://mrburkemath.blogspot.com/2024/07/june-2024-geometry-regents-part-ii.html</guid>
-            <dc:creator><![CDATA[(x, why?)]]></dc:creator>
-            <pubDate>Mon, 01 Jul 2024 18:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New image by Joe Wu]]></title>
-            <link>http://impossible-world.blogspot.com/2024/07/new-image-by-joe-wu.html</link>
-            <guid isPermaLink="false">http://impossible-world.blogspot.com/2024/07/new-image-by-joe-wu.html</guid>
-            <dc:creator><![CDATA[Impossible world site blog]]></dc:creator>
-            <pubDate>Mon, 01 Jul 2024 17:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
