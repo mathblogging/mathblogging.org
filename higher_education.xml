@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Aug 2024 12:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 16:38:45 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/higher_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Aug 2024 12:53:31 GMT</pubDate>
+        <pubDate>Tue, 06 Aug 2024 16:38:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[He wants to compute “the effect of a predictor” (that is, an average predictive comparison) for a hierarchical mixture model.  You can do it in Stan!]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2024/08/06/he-wants-to-compute-the-effect-of-a-predictor-that-is-an-average-predictive-comparison-for-a-hierarchical-mixture-model-you-can-do-it-in-stan/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/08/06/he-wants-to-compute-the-effect-of-a-predictor-that-is-an-average-predictive-comparison-for-a-hierarchical-mixture-model-you-can-do-it-in-stan/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 06 Aug 2024 13:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which “mean” do you mean?]]></title>
+            <link>https://mathwithbaddrawings.com/2024/08/06/which-mean-do-you-mean/</link>
+            <guid isPermaLink="false">https://mathwithbaddrawings.com/2024/08/06/which-mean-do-you-mean/</guid>
+            <dc:creator><![CDATA[Math with Bad Drawings]]></dc:creator>
+            <pubDate>Tue, 06 Aug 2024 13:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[From Biden to Harris – – a view from the ground (mostly)]]></title>
             <link>https://observationalepidemiology.blogspot.com/2024/08/from-biden-to-harris-view-from-ground.html</link>
@@ -122,7 +136,7 @@
             <pubDate>Mon, 05 Aug 2024 14:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Statistics of fielding errors in baseball]]></title>
+            <title><![CDATA[Statistics of fielding errors in baseball: BAL2019]]></title>
             <link>https://yetanothermathblog.com/2024/08/05/statistics-of-fielding-errors-in-baseball/</link>
             <guid isPermaLink="false">https://yetanothermathblog.com/2024/08/05/statistics-of-fielding-errors-in-baseball/</guid>
             <dc:creator><![CDATA[Yet Another Mathblog]]></dc:creator>
@@ -3043,20 +3057,6 @@ mckitteri...]]></title>
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2024/07/geometry-problems-of-day-geometry_6.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Sat, 06 Jul 2024 20:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calculating when a planet will appear to move backwards]]></title>
-            <link>https://www.johndcook.com/blog/2024/07/06/retrograde/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2024/07/06/retrograde/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Sat, 06 Jul 2024 15:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross validation and pointwise or joint measures of prediction accuracy]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2024/07/06/cross-validation-and-pointwise-or-joint-measures-of-prediction-accuracy/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/07/06/cross-validation-and-pointwise-or-joint-measures-of-prediction-accuracy/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 06 Jul 2024 13:54:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
