@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Sep 2024 16:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 20:33:52 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/recreational.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Sep 2024 16:40:03 GMT</pubDate>
+        <pubDate>Sun, 08 Sep 2024 20:33:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Very few problems are in NP intersect coNP but not known to be in P. What to make of that?]]></title>
+            <link>https://blog.computationalcomplexity.org/2024/09/very-few-problems-are-in-np-intersect.html</link>
+            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2024/09/very-few-problems-are-in-np-intersect.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Sun, 08 Sep 2024 19:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Faulty Odometer Puzzle]]></title>
+            <link>https://mindyourdecisions.com/blog/2024/09/08/faulty-odometer-puzzle/</link>
+            <guid isPermaLink="false">https://mindyourdecisions.com/blog/2024/09/08/faulty-odometer-puzzle/</guid>
+            <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
+            <pubDate>Sun, 08 Sep 2024 17:45:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Logical Graphs • First Impressions 10]]></title>
             <link>https://inquiryintoinquiry.com/2024/09/08/logical-graphs-first-impressions-10/</link>
@@ -217,13 +231,6 @@
             <link>https://pballew.blogspot.com/2024/09/on-this-day-in-math-september-7.html</link>
             <guid isPermaLink="false">https://pballew.blogspot.com/2024/09/on-this-day-in-math-september-7.html</guid>
             <dc:creator><![CDATA[Pat'sBlog]]></dc:creator>
-            <pubDate>Sat, 07 Sep 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who pays when trade wars heat up?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0jnyyds</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0jnyyds</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
             <pubDate>Sat, 07 Sep 2024 05:00:00 GMT</pubDate>
         </item>
         <item>
@@ -640,13 +647,6 @@
             <pubDate>Wed, 04 Sep 2024 10:24:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exclusions, black holes and dividing by zero]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0jn9df0</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0jn9df0</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Wed, 04 Sep 2024 08:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Double Maths First Thing: Issue 0]]></title>
             <link>https://aperiodical.com/2024/09/double-maths-first-thing-issue-0/</link>
             <guid isPermaLink="false">https://aperiodical.com/2024/09/double-maths-first-thing-issue-0/</guid>
@@ -920,13 +920,6 @@
             <pubDate>Sun, 01 Sep 2024 19:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fraction Shaded And Quarter Tank Problem]]></title>
-            <link>https://mindyourdecisions.com/blog/2024/09/01/fraction-shaded-and-quarter-tank-problem/</link>
-            <guid isPermaLink="false">https://mindyourdecisions.com/blog/2024/09/01/fraction-shaded-and-quarter-tank-problem/</guid>
-            <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
-            <pubDate>Sun, 01 Sep 2024 17:59:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Impossible landscapes]]></title>
             <link>http://impossible-world.blogspot.com/2024/09/impossible-landscapes.html</link>
             <guid isPermaLink="false">http://impossible-world.blogspot.com/2024/09/impossible-landscapes.html</guid>
@@ -1151,13 +1144,6 @@
             <pubDate>Sat, 31 Aug 2024 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Where have Cuba’s people gone?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0jml917</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0jml917</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Sat, 31 Aug 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[8/30/24]]></title>
             <link>https://purenumbers.tumblr.com/post/760279794919309313</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/760279794919309313</guid>
@@ -1289,6 +1275,13 @@
             <guid isPermaLink="false">https://unizor.blogspot.com/2024/08/matrices-01-matrix-as-operator.html</guid>
             <dc:creator><![CDATA[Unizor - Creative Mind through Art of Mathematics]]></dc:creator>
             <pubDate>Thu, 29 Aug 2024 16:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Equivariant Mathematics in Bavaria]]></title>
+            <link>https://journeyinmath.wordpress.com/2024/08/29/equivariant-mathematics-in-bavaria/</link>
+            <guid isPermaLink="false">https://journeyinmath.wordpress.com/2024/08/29/equivariant-mathematics-in-bavaria/</guid>
+            <dc:creator><![CDATA[Journey In Mathematics]]></dc:creator>
+            <pubDate>Thu, 29 Aug 2024 16:47:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five Most Productive Years: What Happened and What’s Next]]></title>
@@ -1904,13 +1897,6 @@ m...]]></title>
             <pubDate>Sat, 24 Aug 2024 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Do we eat a credit card's worth of microplastic each week?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0jl19wk</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0jl19wk</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Sat, 24 Aug 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[8/23/24]]></title>
             <link>https://purenumbers.tumblr.com/post/759653932403408896</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/759653932403408896</guid>
@@ -2417,13 +2403,6 @@ teaboot:loekvugs:I had this idea for a...]]></title>
             <pubDate>Sat, 17 Aug 2024 12:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Are companies making more money from their customers?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0jjnsn8</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0jjnsn8</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Sat, 17 Aug 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“The Right Side of History”]]></title>
             <link>https://scottaaronson.blog/?p=8234</link>
             <guid isPermaLink="false">https://scottaaronson.blog/?p=8234</guid>
@@ -2492,6 +2471,13 @@ teaboot:loekvugs:I had this idea for a...]]></title>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2024/08/15/distorted-cosines/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Fri, 16 Aug 2024 03:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not quite what I meant]]></title>
+            <link>https://www.galoisrepresentations.com/2024/08/15/not-quite-what-i-meant/</link>
+            <guid isPermaLink="false">https://www.galoisrepresentations.com/2024/08/15/not-quite-what-i-meant/</guid>
+            <dc:creator><![CDATA[Persiflage]]></dc:creator>
+            <pubDate>Thu, 15 Aug 2024 19:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linkage with a fold-and-cut hat]]></title>
@@ -2907,13 +2893,6 @@ teaboot:loekvugs:I had this idea for a...]]></title>
             <pubDate>Sat, 10 Aug 2024 05:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is planet Earth getting greener?]]></title>
-            <link>http://www.bbc.co.uk/programmes/p0jgzxpk</link>
-            <guid isPermaLink="false">http://www.bbc.co.uk/programmes/p0jgzxpk</guid>
-            <dc:creator><![CDATA[More or Less: Behind the Stats]]></dc:creator>
-            <pubDate>Sat, 10 Aug 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Αναπτύγματα Στερέων για παιδάκια]]></title>
             <link>https://mathhmagic.blogspot.com/2024/08/blog-post_10.html</link>
             <guid isPermaLink="false">https://mathhmagic.blogspot.com/2024/08/blog-post_10.html</guid>
@@ -3003,27 +2982,6 @@ teaboot:loekvugs:I had this idea for a...]]></title>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2024/08/08/interpolating-gamma/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Fri, 09 Aug 2024 03:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicholas Carlini on LLMs and AI for research programmers]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2024/08/08/nicholas-carlini-on-llms-and-ai-research-programmers/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/08/08/nicholas-carlini-on-llms-and-ai-research-programmers/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Thu, 08 Aug 2024 19:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dimensional Analysis in Algebra and Geometry]]></title>
-            <link>https://golem.ph.utexas.edu/category/2024/08/dimensional_analysis_in_algebr.html</link>
-            <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2024/08/dimensional_analysis_in_algebr.html</guid>
-            <dc:creator><![CDATA[The n-Category Café]]></dc:creator>
-            <pubDate>Thu, 08 Aug 2024 18:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aris Spanos Guest Post: “On Frequentist Testing: revisiting widely held confusions and misinterpretations”]]></title>
-            <link>https://errorstatistics.com/2024/08/08/aris-spanos-guest-commentary-on-frequentist-testing-revisiting-widely-held-confusions-and-misinterpretations-2/</link>
-            <guid isPermaLink="false">https://errorstatistics.com/2024/08/08/aris-spanos-guest-commentary-on-frequentist-testing-revisiting-widely-held-confusions-and-misinterpretations-2/</guid>
-            <dc:creator><![CDATA[Error Statistics Philosophy]]></dc:creator>
-            <pubDate>Thu, 08 Aug 2024 17:22:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
