@@ -4,17 +4,38 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Jun 2025 02:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 04:47:09 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/technology.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Jun 2025 02:25:19 GMT</pubDate>
+        <pubDate>Fri, 13 Jun 2025 04:47:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
         <item>
-            <title><![CDATA[Miroslav Kotrle]]></title>
-            <link>https://ncatlab.org/nlab/show/Miroslav+Kotrle</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Miroslav+Kotrle</guid>
+            <title><![CDATA[idempotent monoid]]></title>
+            <link>https://ncatlab.org/nlab/show/idempotent+monoid</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/idempotent+monoid</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 13 Jun 2025 01:52:36 GMT</pubDate>
+            <pubDate>Fri, 13 Jun 2025 04:04:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[idempotent semiring]]></title>
+            <link>https://ncatlab.org/nlab/show/idempotent+semiring</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/idempotent+semiring</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 13 Jun 2025 03:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[additively idempotent rig &gt; history]]></title>
+            <link>https://ncatlab.org/nlab/show/additively+idempotent+rig+%253E+history</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/additively+idempotent+rig+%3E+history</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Fri, 13 Jun 2025 03:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ratio of square side to chord]]></title>
+            <link>https://mindyourdecisions.com/blog/2025/06/12/ratio-of-square-side-to-chord/</link>
+            <guid isPermaLink="false">https://mindyourdecisions.com/blog/2025/06/12/ratio-of-square-side-to-chord/</guid>
+            <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
+            <pubDate>Fri, 13 Jun 2025 02:58:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ivan Chajda]]></title>
@@ -22,13 +43,6 @@
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/Ivan+Chajda</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Fri, 13 Jun 2025 01:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fernando Guzmán]]></title>
-            <link>https://ncatlab.org/nlab/show/Fernando+Guzm%25C3%25A1n</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Fernando+Guzm%C3%A1n</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 13 Jun 2025 01:41:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boolean semiring (Guzmán)]]></title>
@@ -57,13 +71,6 @@
             <guid isPermaLink="false">https://ncatlab.org/nlab/show/Boolean+semiring+%28Chajda+%26+Kotrle%29</guid>
             <dc:creator><![CDATA[nLab]]></dc:creator>
             <pubDate>Thu, 12 Jun 2025 23:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Morgan Rogers]]></title>
-            <link>https://ncatlab.org/nlab/show/Morgan+Rogers</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Morgan+Rogers</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Thu, 12 Jun 2025 23:40:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI Narratives [book review]]]></title>
@@ -1996,13 +2003,6 @@ http://mathw...]]></title>
             <pubDate>Fri, 30 May 2025 17:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[100 Light Bulbs Puzzle]]></title>
-            <link>https://mindyourdecisions.com/blog/2025/05/30/100-light-bulbs-puzzle-2/</link>
-            <guid isPermaLink="false">https://mindyourdecisions.com/blog/2025/05/30/100-light-bulbs-puzzle-2/</guid>
-            <dc:creator><![CDATA[Mind Your Decisions]]></dc:creator>
-            <pubDate>Fri, 30 May 2025 17:46:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5/30/25]]></title>
             <link>https://purenumbers.tumblr.com/post/784992137644294144</link>
             <guid isPermaLink="false">https://purenumbers.tumblr.com/post/784992137644294144</guid>
@@ -3344,13 +3344,6 @@ messy-sc...]]></title>
             <guid isPermaLink="false">https://freakonometrics.hypotheses.org/80721</guid>
             <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
             <pubDate>Tue, 13 May 2025 06:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Talk, Chaire ACTIONS, CNAM, Paris]]></title>
-            <link>https://freakonometrics.hypotheses.org/80726</link>
-            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/80726</guid>
-            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
-            <pubDate>Tue, 13 May 2025 04:18:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
