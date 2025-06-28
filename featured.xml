@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Jun 2025 16:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 20:37:27 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/featured.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Jun 2025 16:42:15 GMT</pubDate>
+        <pubDate>Sat, 28 Jun 2025 20:37:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[semi-adjunction]]></title>
+            <link>https://ncatlab.org/nlab/show/semi-adjunction</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/semi-adjunction</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Sat, 28 Jun 2025 18:28:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BusyBeaver(6) is really quite large]]></title>
             <link>https://scottaaronson.blog/?p=8972</link>
@@ -148,13 +155,6 @@
             <guid isPermaLink="false">https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Fri, 27 Jun 2025 13:26:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alexander S. Sergeev]]></title>
-            <link>https://ncatlab.org/nlab/show/Alexander+S.+Sergeev</link>
-            <guid isPermaLink="false">https://ncatlab.org/nlab/show/Alexander+S.+Sergeev</guid>
-            <dc:creator><![CDATA[nLab]]></dc:creator>
-            <pubDate>Fri, 27 Jun 2025 12:10:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ed Zitron on remote work, Arthur C. Clarke on remote work, us on remote work]]></title>
@@ -3443,13 +3443,6 @@ http://mathw...]]></title>
             <guid isPermaLink="false">https://jd2718.org/2025/05/28/divisible-by-thirteen/</guid>
             <dc:creator><![CDATA[JD2718]]></dc:creator>
             <pubDate>Thu, 29 May 2025 02:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ecologists’ endless quest for automatic inference]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2025/05/28/ecologists-endless-quest-for-automatic-inference/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2025/05/28/ecologists-endless-quest-for-automatic-inference/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 17:29:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
