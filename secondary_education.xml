@@ -4,11 +4,18 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 16:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 20:44:23 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/secondary_education.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Feb 2026 16:52:41 GMT</pubDate>
+        <pubDate>Sat, 21 Feb 2026 20:44:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Computing big, certified Fibonacci numbers]]></title>
+            <link>https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 18:13:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hey!  I almost got scammed by Google.]]></title>
             <link>https://statmodeling.stat.columbia.edu/2026/02/21/hey-i-almost-got-scammed-by-google/</link>
@@ -3031,6 +3038,13 @@ the-real-see...]]></title>
             <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rate of Change: No One Way!]]></title>
+            <link>https://blog.mathed.page/2026/01/23/rate-of-change-no-one-way/</link>
+            <guid isPermaLink="false">https://blog.mathed.page/2026/01/23/rate-of-change-no-one-way/</guid>
+            <dc:creator><![CDATA[Henri's Math Education Blog]]></dc:creator>
+            <pubDate>Fri, 23 Jan 2026 23:23:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Geometry Problems of the Day (Geometry Regents, June 2025 Part I)]]></title>
             <link>https://mrburkemath.blogspot.com/2026/01/geometry-problems-of-day-geometry_23.html</link>
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2026/01/geometry-problems-of-day-geometry_23.html</guid>
@@ -3155,13 +3169,6 @@ the-real-see...]]></title>
             <guid isPermaLink="false">https://mrburkemath.blogspot.com/2026/01/geometry-problems-of-day-geometry.html</guid>
             <dc:creator><![CDATA[(x, why?)]]></dc:creator>
             <pubDate>Thu, 22 Jan 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What, a coincidence? What a coincidence!]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2026/01/21/what-a-coincidence-what-a-coincidence/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/01/21/what-a-coincidence-what-a-coincidence/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Wed, 21 Jan 2026 19:12:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
