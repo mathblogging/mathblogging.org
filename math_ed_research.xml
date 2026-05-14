@@ -4,11 +4,32 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 18:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 21:41:14 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/math_ed_research.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 18:12:47 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 21:41:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Two from MIT named 2026 Knight-Hennessy Scholars]]></title>
+            <link>https://news.mit.edu/2026/knight-hennessy-scholars-0514</link>
+            <guid isPermaLink="false">https://news.mit.edu/2026/knight-hennessy-scholars-0514</guid>
+            <dc:creator><![CDATA[MIT News - Mathematics]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 20:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alchemize:  PyMC’s model to replace Stan/PyMC, etc. with an LLM]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2026/05/14/alchemize-pymcs-model-to-replace-stan-pymc-etc-with-an-llm/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/05/14/alchemize-pymcs-model-to-replace-stan-pymc-etc-with-an-llm/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 19:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“As our daily lives involve ever more sophisticated computers, we will find that ascribing little thoughts to machines will be increasingly useful in understanding how to get the most good out of them” but “we must be careful not to ascribe properties to a machine that the particular machine doesn’t have”]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2026/05/14/as/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/05/14/as/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 17:09:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[hom profunctor &gt; history]]></title>
             <link>https://ncatlab.org/nlab/show/hom+profunctor+%253E+history</link>
@@ -57,6 +78,13 @@
             <guid isPermaLink="false">https://flowingdata.com/2026/05/14/outside-the-bubbles/</guid>
             <dc:creator><![CDATA[FlowingData]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nine years after journalist raised concerns, BMJ Group journal retracts stent paper]]></title>
+            <link>https://retractionwatch.com/2026/05/14/nine-years-after-journalist-raised-concerns-bmj-group-journal-retracts-stent-paper/</link>
+            <guid isPermaLink="false">https://retractionwatch.com/2026/05/14/nine-years-after-journalist-raised-concerns-bmj-group-journal-retracts-stent-paper/</guid>
+            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A great Charles Bronson story.]]></title>
@@ -1331,13 +1359,6 @@
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/05/04/expanding-the-stan-users-guide/</guid>
             <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
             <pubDate>Mon, 04 May 2026 19:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ORI announces 15-year debarment against former Rice University scientist]]></title>
-            <link>https://retractionwatch.com/2026/05/04/ori-announces-15-year-debarment-against-former-rice-university-scientist/</link>
-            <guid isPermaLink="false">https://retractionwatch.com/2026/05/04/ori-announces-15-year-debarment-against-former-rice-university-scientist/</guid>
-            <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 18:31:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Radioaktive Trinkgläser]]></title>
@@ -2747,13 +2768,6 @@
             <pubDate>Tue, 14 Apr 2026 14:00:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to report a N=12 study?]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2026/04/14/how-to-report-a-n12-study/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/04/14/how-to-report-a-n12-study/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 13:09:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finding a parabola through two points with given slopes]]></title>
             <link>https://www.johndcook.com/blog/2026/04/14/artz-parabola/</link>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2026/04/14/artz-parabola/</guid>
@@ -2773,20 +2787,6 @@
             <guid isPermaLink="false">https://math.andrej.com/2026/04/14/claude-and-i/</guid>
             <dc:creator><![CDATA[Mathematics and Computation]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reflection On Recursion • 3]]></title>
-            <link>https://inquiryintoinquiry.com/2026/04/13/reflection-on-recursion-3/</link>
-            <guid isPermaLink="false">https://inquiryintoinquiry.com/2026/04/13/reflection-on-recursion-3/</guid>
-            <dc:creator><![CDATA[Inquiry Into Inquiry]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 20:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alices]]></title>
-            <link>https://quomodocumque.wordpress.com/2026/04/13/alices/</link>
-            <guid isPermaLink="false">https://quomodocumque.wordpress.com/2026/04/13/alices/</guid>
-            <dc:creator><![CDATA[Quomodocumque]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 19:35:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
