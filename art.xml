@@ -4,11 +4,25 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 18:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 22:26:57 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2026 18:46:34 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 22:26:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Miles Stoudenmire: Breaking Everything Apart and Putting It Back Together Again With Tensors, Perimeter Institute]]></title>
+            <link>https://perimeterinstitute.ca/news/miles-stoudenmire-breaking-everything-apart-and-putting-it-back-together-again-tensors</link>
+            <guid isPermaLink="false">https://perimeterinstitute.ca/news/miles-stoudenmire-breaking-everything-apart-and-putting-it-back-together-again-tensors</guid>
+            <dc:creator><![CDATA[Simons Foundation]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 20:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Respect the P v NP Problem]]></title>
+            <link>https://blog.computationalcomplexity.org/2026/06/respect-p-v-np-problem.html</link>
+            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2026/06/respect-p-v-np-problem.html</guid>
+            <dc:creator><![CDATA[Computational Complexity]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 18:50:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CRAN Repository Selection]]></title>
             <link>https://orinanobworld.blogspot.com/2026/06/cran-repository-selection.html</link>
@@ -1235,13 +1249,6 @@
             <pubDate>Mon, 01 Jun 2026 14:00:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coming Soon: Open Interval, an Artist-Scientist Exploration of ‘Turbulence’]]></title>
-            <link>https://www.simonsfoundation.org/2026/06/01/coming-soon-open-interval-an-artist-scientist-exploration-of-turbulence/</link>
-            <guid isPermaLink="false">https://www.simonsfoundation.org/2026/06/01/coming-soon-open-interval-an-artist-scientist-exploration-of-turbulence/</guid>
-            <dc:creator><![CDATA[Simons Foundation]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 14:00:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Noem’s Razor and why I think the concept of “unintended consequences” is overrated]]></title>
             <link>https://statmodeling.stat.columbia.edu/2026/06/01/noems-razor-and-why-i-think-the-concept-of-unintended-consequences-is-overrated/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/06/01/noems-razor-and-why-i-think-the-concept-of-unintended-consequences-is-overrated/</guid>
@@ -1317,13 +1324,6 @@
             <guid isPermaLink="false">https://xianblog.wordpress.com/2026/06/01/the-inaccessible-pinnacle/</guid>
             <dc:creator><![CDATA[Xi'an's Og]]></dc:creator>
             <pubDate>Sun, 31 May 2026 22:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Installing PreTeXt using Windows Subsystem for Linux]]></title>
-            <link>https://suburbanlion.com/blog/2026/05/31/installing-pretext-using-windows-subsystem-for-linux/</link>
-            <guid isPermaLink="false">https://suburbanlion.com/blog/2026/05/31/installing-pretext-using-windows-subsystem-for-linux/</guid>
-            <dc:creator><![CDATA[Suburban Lion's Blog]]></dc:creator>
-            <pubDate>Sun, 31 May 2026 19:14:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linkage]]></title>
@@ -2362,20 +2362,6 @@
             <pubDate>Mon, 18 May 2026 11:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Selected Fanfictions]]></title>
-            <link>https://www.sunclipse.org/2026/05/selected-fanfictions/</link>
-            <guid isPermaLink="false">https://www.sunclipse.org/2026/05/selected-fanfictions/</guid>
-            <dc:creator><![CDATA[Science After Sunclipse]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 03:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Thought I Cannot Shake]]></title>
-            <link>https://www.sunclipse.org/2026/05/a-thought-i-cannot-shake/</link>
-            <guid isPermaLink="false">https://www.sunclipse.org/2026/05/a-thought-i-cannot-shake/</guid>
-            <dc:creator><![CDATA[Science After Sunclipse]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 03:43:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The last -- for which the first was made . . .]]></title>
             <link>https://poetrywithmathematics.blogspot.com/2026/05/the-last-for-which-first-was-made.html</link>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2026/05/the-last-for-which-first-was-made.html</guid>
@@ -2787,13 +2773,6 @@
             <guid isPermaLink="false">https://pbelmans.ncag.info/blog/2026/05/11/lie-jl-1-0-0/</guid>
             <dc:creator><![CDATA[Pieter Belmans]]></dc:creator>
             <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Trevisan Award and the Decimal Digits of Powers of 2]]></title>
-            <link>https://scottaaronson.blog/?p=9732</link>
-            <guid isPermaLink="false">https://scottaaronson.blog/?p=9732</guid>
-            <dc:creator><![CDATA[Shtetl-Optimized]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 19:54:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
