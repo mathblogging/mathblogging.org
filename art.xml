@@ -4,11 +4,53 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 09:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 13:45:57 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/art.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 09:17:09 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 13:45:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Computer scientists today are like economists in the early 2000s and Freudian psychiatrists in the 1950s]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2026/08/11/computer-scientists-today-are-like-economists-in-the-early-2000s-and-freudian-psychiatrists-in-the-1950s/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/08/11/computer-scientists-today-are-like-economists-in-the-early-2000s-and-freudian-psychiatrists-in-the-1950s/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 13:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Rating Factors to Crash Mechanisms: A Multiscale Causal DAG Framework Linking Motor Insurance and Road Safety]]></title>
+            <link>https://freakonometrics.hypotheses.org/91182</link>
+            <guid isPermaLink="false">https://freakonometrics.hypotheses.org/91182</guid>
+            <dc:creator><![CDATA[Freakonometrics]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:48:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manually unbreakable cryptography]]></title>
+            <link>https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</link>
+            <guid isPermaLink="false">https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</guid>
+            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:04:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not another Cushing post, but Cushing-relevant]]></title>
+            <link>https://observationalepidemiology.blogspot.com/2026/08/not-another-cushing-post-but-cushing.html</link>
+            <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2026/08/not-another-cushing-post-but-cushing.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 11:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A recap of IFORS 2026 in Vienna]]></title>
+            <link>https://punkrockor.com/2026/08/11/a-recap-of-ifors-2026-in-vienna/</link>
+            <guid isPermaLink="false">https://punkrockor.com/2026/08/11/a-recap-of-ifors-2026-in-vienna/</guid>
+            <dc:creator><![CDATA[Laura Albert's Punk Rock Operations Research]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[seventh stable homotopy group of spheres]]></title>
+            <link>https://ncatlab.org/nlab/show/seventh+stable+homotopy+group+of+spheres</link>
+            <guid isPermaLink="false">https://ncatlab.org/nlab/show/seventh+stable+homotopy+group+of+spheres</guid>
+            <dc:creator><![CDATA[nLab]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 10:44:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eclipse path in Europe]]></title>
             <link>https://flowingdata.com/2026/08/11/eclipse-path-in-europe/</link>
@@ -881,6 +923,13 @@ Scottish-born inventor Alexander Graham...]]></title>
             <pubDate>Tue, 04 Aug 2026 23:36:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Las mates son para el verano, y también se escuchan. Nace mi nuevo canal de podcast]]></title>
+            <link>https://matematicas11235813.luismiglesias.es/2026/08/05/las-mates-son-para-el-verano-y-tambien-se-escuchan-nace-mi-nuevo-canal-de-podcast/</link>
+            <guid isPermaLink="false">https://matematicas11235813.luismiglesias.es/2026/08/05/las-mates-son-para-el-verano-y-tambien-se-escuchan-nace-mi-nuevo-canal-de-podcast/</guid>
+            <dc:creator><![CDATA[MatemáTICas: 1,1,2,3,5,8,13,…]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 23:02:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Survey Statistics: structured MRP to smooth survey weights]]></title>
             <link>https://statmodeling.stat.columbia.edu/2026/08/04/survey-statistics-structured-mrp-to-smooth-survey-weights/</link>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/08/04/survey-statistics-structured-mrp-to-smooth-survey-weights/</guid>
@@ -1168,13 +1217,6 @@ Scottish-born inventor Alexander Graham...]]></title>
             <guid isPermaLink="false">https://retractionwatch.com/2026/08/03/retraction-watch-16th-birthday/</guid>
             <dc:creator><![CDATA[Retraction Watch]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Direct sum of q-matroids]]></title>
-            <link>https://matroidunion.org/?p=6262</link>
-            <guid isPermaLink="false">https://matroidunion.org/?p=6262</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2026 11:32:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One of the great things about living in the 2020s is all of the fascinating ethical problems to discuss]]></title>
@@ -2497,13 +2539,6 @@ Ajeeb the Wonderful, a chess-playing...]]></title>
             <pubDate>Tue, 21 Jul 2026 20:15:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The cycle double cover theorem]]></title>
-            <link>https://matroidunion.org/?p=6255</link>
-            <guid isPermaLink="false">https://matroidunion.org/?p=6255</guid>
-            <dc:creator><![CDATA[The Matroid Union]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 19:06:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Browsing the Web -- Finding Mathy Poems]]></title>
             <link>https://poetrywithmathematics.blogspot.com/2026/07/browsing-web-finding-mathy-poems.html</link>
             <guid isPermaLink="false">https://poetrywithmathematics.blogspot.com/2026/07/browsing-web-finding-mathy-poems.html</guid>
@@ -2530,13 +2565,6 @@ Ajeeb the Wonderful, a chess-playing...]]></title>
             <guid isPermaLink="false">https://scienceblogs.de/mathlog/2026/07/21/20323/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=20323</guid>
             <dc:creator><![CDATA[Mathlog]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 13:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Locally everywhere does not imply everywhere]]></title>
-            <link>https://www.johndcook.com/blog/2026/07/21/jacobian-conjecture/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2026/07/21/jacobian-conjecture/</guid>
-            <dc:creator><![CDATA[John D. Cook]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:14:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Even less of a done deal—back on the Paramount/Warner beat.]]></title>
@@ -3139,13 +3167,6 @@ Ajeeb the Wonderful, a chess-playing...]]></title>
             <guid isPermaLink="false">https://scoskey.org/presentation/2026-05-01-complexity-of-conjugacy-equivalence-relations/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 18:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“More bad science from JAMA”]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2026/07/11/more-bad-science-from-jama/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/07/11/more-bad-science-from-jama/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 13:19:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
