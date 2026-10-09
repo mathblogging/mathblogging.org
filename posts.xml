@@ -4,11 +4,39 @@
         <description><![CDATA[Your one stop shop for mathematical blogs]]></description>
         <link>https://mathblogging.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 06:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 15:22:33 GMT</lastBuildDate>
         <atom:link href="https://mathblogging.org/posts.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2026 06:11:43 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 15:22:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@mathblogging.org (Mathblogging.org)]]></managingEditor>
+        <item>
+            <title><![CDATA[Thinking more seriously about the design of exploratory studies: A manifesto]]></title>
+            <link>https://statmodeling.stat.columbia.edu/2026/10/09/thinking-more-seriously-about-the-design-of-exploratory-studies-a-manifesto/</link>
+            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/10/09/thinking-more-seriously-about-the-design-of-exploratory-studies-a-manifesto/</guid>
+            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 13:53:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weighing in on the latest school debate]]></title>
+            <link>https://observationalepidemiology.blogspot.com/2026/10/this-is-joseph.html</link>
+            <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2026/10/this-is-joseph.html</guid>
+            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 11:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interactive map of the Hebrew Bible]]></title>
+            <link>https://flowingdata.com/2026/10/09/interactive-map-of-the-hebrew-bible/</link>
+            <guid isPermaLink="false">https://flowingdata.com/2026/10/09/interactive-map-of-the-hebrew-bible/</guid>
+            <dc:creator><![CDATA[FlowingData]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 09:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A fable]]></title>
+            <link>https://cameroncounts.wordpress.com/2026/10/09/a-fable/</link>
+            <guid isPermaLink="false">https://cameroncounts.wordpress.com/2026/10/09/a-fable/</guid>
+            <dc:creator><![CDATA[Peter Cameron's Blog]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 07:55:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Οι πέντε ναυαγοί, ο πίθηκος και οι καρύδες: Το μαθηματικό πρόβλημα που προκάλεσε 2.000 επιστολές!]]></title>
             <link>https://mathhmagic.blogspot.com/2026/10/2000.html</link>
@@ -1375,13 +1403,6 @@ The letter “O” from Joris Hoefnagel’s Guide...]]></title>
             <pubDate>Thu, 01 Oct 2026 11:09:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[✚ Charts we made along the way]]></title>
-            <link>https://flowingdata.com/2026/10/01/process-408-along-way/</link>
-            <guid isPermaLink="false">https://flowingdata.com/2026/10/01/process-408-along-way/</guid>
-            <dc:creator><![CDATA[FlowingData]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 11:04:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Visions of alien planets from Copernicus to Star Wars]]></title>
             <link>https://thonyc.wordpress.com/2026/10/01/visions-of-alien-planets-from-copernicus-to-star-wars/</link>
             <guid isPermaLink="false">https://thonyc.wordpress.com/2026/10/01/visions-of-alien-planets-from-copernicus-to-star-wars/</guid>
@@ -2621,6 +2642,13 @@ The letter “O” from Joris Hoefnagel’s Guide...]]></title>
             <pubDate>Wed, 16 Sep 2026 02:24:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Can this go? On role presentation inheritance.]]></title>
+            <link>https://www.peterkrautzberger.org/0226/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0226/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Simple approximation for spherical cap area]]></title>
             <link>https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</link>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</guid>
@@ -3144,34 +3172,6 @@ The letter “O” from Joris Hoefnagel’s Guide...]]></title>
             <guid isPermaLink="false">https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/</guid>
             <dc:creator><![CDATA[John D. Cook]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 15:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hey–here’s an R package for imputing Census data using iterative proportional fitting on available margins.]]></title>
-            <link>https://statmodeling.stat.columbia.edu/2026/09/08/hey-heres-an-r-package-for-imputing-census-data-using-iterative-proportional-fitting-on-available-margins/</link>
-            <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2026/09/08/hey-heres-an-r-package-for-imputing-census-data-using-iterative-proportional-fitting-on-available-margins/</guid>
-            <dc:creator><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 13:52:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coming soon to a theater near you...]]></title>
-            <link>https://observationalepidemiology.blogspot.com/2026/09/coming-soon-to-theater-near-you.html</link>
-            <guid isPermaLink="false">https://observationalepidemiology.blogspot.com/2026/09/coming-soon-to-theater-near-you.html</guid>
-            <dc:creator><![CDATA[West Coast Stat Views (on Observational Epidemiology and more)]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 11:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overtaken]]></title>
-            <link>https://gilkalai.wordpress.com/2026/09/08/overtaken/</link>
-            <guid isPermaLink="false">https://gilkalai.wordpress.com/2026/09/08/overtaken/</guid>
-            <dc:creator><![CDATA[Combinatorics and more]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 11:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 survival tips for first-year college students]]></title>
-            <link>https://punkrockor.com/2026/09/08/3-survival-tips-for-first-year-college-students/</link>
-            <guid isPermaLink="false">https://punkrockor.com/2026/09/08/3-survival-tips-for-first-year-college-students/</guid>
-            <dc:creator><![CDATA[Laura Albert's Punk Rock Operations Research]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
